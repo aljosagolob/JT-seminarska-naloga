@@ -1,13 +1,28 @@
 from pyannote.audio import Pipeline
 import torch
+from dotenv import load_dotenv
+import os
+from pyannote.audio.pipelines.utils.hook import ProgressHook
+
+load_dotenv()
+
+token = os.getenv("HF_TOKEN")
 
 pipeline = Pipeline.from_pretrained(
-    "pyannote/speaker-diarization-3.1",
-    token="hf_..."
+    "pyannote/speaker-diarization-community-1",
+    token=token
 )
-pipeline = pipeline.to(torch.device("cuda"))
 
-diarization = pipeline("data/ami/test/audio/meeting_000.wav")
+# send pipeline to GPU (when available)
+pipeline.to(torch.device("cuda"))
 
-for turn, _, speaker in diarization.itertracks(yield_label=True):
-    print(f"{speaker}: {turn.start:.1f}s – {turn.end:.1f}s")
+# apply pretrained pipeline (with optional progress hook)
+with ProgressHook() as hook:
+    output = pipeline("aepyx.wav", hook=hook) 
+
+# with open("diarization.txt", "w") as f:
+#   for turn, speaker in output.speaker_diarization:
+#        f.write(f"{speaker} speaks between t={turn.start:.3f}s and t={turn.end:.3f}s\n") 
+
+with open("output.rttm", "w") as f:
+    output.speaker_diarization.write_rttm(f)
