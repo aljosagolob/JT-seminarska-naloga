@@ -1,0 +1,2016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Mitja" audio_filename="Artur-J-Gvecg-P500028-avd" version="7" version_date="221107">
+<Topics>
+<Topic id="to1" desc="Okrogla miza"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Artur-J-G3061" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+<Speaker id="spk2" name="Artur-J-G3063" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+<Speaker id="spk3" name="Artur-J-G3062" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="3299.120" topic="to1">
+<Turn startTime="0" endTime="3.437">
+<Sync time="0"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.437" endTime="338.818" fidelity="high">
+<Sync time="3.437"/>
+Dober dan še enkrat, #eee, v mojem imenu in imenu Tehniškega muzeja Slovenije. 
+<Sync time="9.908"/>
+#Eee, 
+<Sync time="10.629"/>
+tako, kot ste omenili, je bila ravno ta stoletnica prvega zapisa besede robot, #eee, eden izmed, #eee, 
+<Sync time="18.661"/>
+razlogov, da smo, #eee, razstavo 
+<Sync time="21.853"/>
+pripravili v letošnjem letu, 
+<Sync time="23.991"/>
+#eee, poleg tega smo pa v prejšnjih letih 
+<Sync time="27.221"/>
+v našem muzeju zbrali kar, #eee, lepo, zavidljivo zbirko robotov slovenske 
+<Sync time="33.126"/>
+proizvodnje. 
+<Sync time="34.792"/>
+#Eee, pri tem sta seveda veliko vlogo odigrala, 
+<Sync time="38.008"/>
+odigrali obe inštituciji, ki sta danes tudi s svojimi sodelavci prisotni, se pravi 
+<Sync time="43.164"/>
+Institut Jožef Stefan in pa Fakulteta za elektrotehniko v Ljubljani. 
+<Sync time="47.887"/>
+#Eee, nekako je pa tudi zdaj, #eee, 
+<Sync time="50.806"/>
+štirideset let od takrat, ko je v Sloveniji, 
+<Sync time="53.84"/>
+#eee, resnično začel delati prvi industrijski, #eee, robot. 
+<Sync time="58.805"/>
+#Eee, no, zanimivo je, da je ta beseda robot, 
+<Sync time="61.721"/>
+ki je, #eee, nastala iz, #eee, slovanskih korenin, 
+<Sync time="65.196"/>
+se pravi r() rabota, robota, pomeni v večini jezikov neko prisilno suženjsko delo, 
+<Sync time="72.019"/>
+danes pa jo uporabljamo po vsem svetu, 
+<Sync time="74.268"/>
+nastala 
+<Sync time="75.265"/>
+precej prej, 
+<Sync time="76.262"/>
+preden so se pojavili na, 
+<Sync time="78.151"/>
+v svetu roboti tako, kot jih danes razumemo. 
+<Sync time="81.473"/>
+Torej naprave, ki znajo upravljati, #eee, zahtevna 
+<Sync time="85.049"/>
+dela, zaporedje del, 
+<Sync time="86.99"/>
+ki jih upravlja, #eee, računalnik. 
+<Sync time="90.122"/>
+Torej v letu, #eee, 
+<Sync time="91.981"/>
+tisoč devetsto dvajset o računalniku še ni bilo nobenega govora. 
+<Sync time="96.088"/>
+Naprave so takrat bile, ampak to so bile, v današnjem pogledu na stvar, avtomati. 
+<Sync time="102.199"/>
+#Eee, 
+<Sync time="103.039"/>
+tako, #eee, če, #eee, gremo samo na tiste mejnike, ne. 
+<Sync time="106.879"/>
+#Eee, 
+<Sync time="107.643"/>
+pač pravim, avtomati so bili že prej, vse od antike so jih, #eee, delali razni izumitelji. 
+<Sync time="113.902"/>
+#Eee, 
+<Sync time="114.870"/>
+nekako si je zgodovina enotna, da pravzaprav prvi resnični robot, 
+<Sync time="120.458"/>
+#eee, sta bila, tako imenovana Elmer in Elsie, ki ju je naredil, #eee, William Grey Walter v, 
+<Sync time="127.981"/>
+#eee, Veliki Britaniji, v Angliji, 
+<Sync time="130.860"/>
+#eee, Univerza v Bristolu. 
+<Sync time="133.214"/>
+Ta dva sta bila pravzaprav zelo zanimiva, #eee, iz dveh, #eee, pogledov. 
+<Sync time="138.085"/>
+Prvič, nista znala kaj veliko, ampak, #eee, sta se znala pa 
+<Sync time="142.01"/>
+vrniti v svojo, #eee, hiško, 
+<Sync time="144.514"/>
+kjer sta se priklopila na elektriko in da sta lahko potem zopet, 
+<Sync time="147.646"/>
+#eee, šla malce na pot, ne. 
+<Sync time="149.903"/>
+Druga, #eee, zadeva, ki je mogoče tukaj zanimiva je pa, ta dva robota še nista bila analogna, ampak sta bila, #eee, digitalna, ampak sta bila analogna. 
+<Sync time="159.209"/>
+Torej, #eee, nista še delala tako, kot delajo današnji računalniki na podlagi 
+<Sync time="163.656"/>
+številk, ničel in enic. 
+<Sync time="166.193"/>
+#Eee, no, potem, 
+<Sync time="167.594"/>
+pravi, #eee, razmak se je začel sredi petdesetih let, 
+<Sync time="171.723"/>
+#eee, ko je v Ameriki, #eee, 
+<Sync time="174.239"/>
+George Devol, #eee, naredil robota Unimate, 
+<Sync time="178.058"/>
+ki ga je patentiral, 
+<Sync time="179.48"/>
+v letu 
+<Sync time="180.829"/>
+enainšestdeset pa je ta robot, #eee, resnično začel delati v proizvodnji, 
+<Sync time="185.467"/>
+v, #eee, tovarni General Motors. 
+<Sync time="188.598"/>
+Torej, #eee, to je bil prvi robot, potem pa je v svetu 
+<Sync time="193.034"/>
+zadeva kar hitro, 
+<Sync time="194.893"/>
+#eee, se razvijala, torej zelo kmalu so prišli na 
+<Sync time="199.701"/>
+prvo mesto v razvoju Japonci, 
+<Sync time="202.493"/>
+#eee, tudi Evropa je bila, #eee, dosti, #eee, 
+<Sync time="206.015"/>
+dosti, #eee, 
+<Sync time="206.97"/>
+bom rekel, na, #eee, nivoju, 
+<Sync time="209.55"/>
+nekatera takratna podjetja, kot sta, kot je recimo 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, nemška in tako, še danes delujejo. 
+<Sync time="215.991"/>
+Slovenija pa tudi ni bila 
+<Sync time="217.383"/>
+daleč zadaj. 
+<Sync time="218.838"/>
+#Eee, 
+<Sync time="219.623"/>
+pravzaprav, #eee, če smo čisto natančni, se je 
+<Sync time="223.082"/>
+začelo pri nas z razvojem medicinskih naprav, medicinskih robotov, 
+<Sync time="229.523"/>
+kjer sta ravno tako, #eee, prednjačila, #eee, 
+<Sync time="232.494"/>
+Institut Jožef Stefan in Fakulteta za elektrotehniko. 
+<Sync time="236.156"/>
+#Eee, koncem sedemdesetih let pa se je zgodil premik, #eee, kar se tiče industrijske elektronike. 
+<Sync time="243.191"/>
+Najprej je bil, #eee, 
+<Sync time="245.525"/>
+je bilo tu sodelovanje med Institutom Jožef Stefan in pa 
+<Sync time="249.196"/>
+Inštitutom Mihajlo Pupin v Beogradu, 
+<Sync time="251.861"/>
+kjer so naredili enega robota, 
+<Sync time="254.123"/>
+potem pa je v igro stopila, #eee, tovarna Gorenje, 
+<Sync time="258.315"/>
+ki je, #eee, skupaj 
+<Sync time="260.352"/>
+z Institutom Jožef Stefan, #eee, razvila in izdelala prvega 
+<Sync time="264.99"/>
+pravega industrijskega robota, 
+<Sync time="267.337"/>
+Goro ena, ki je tam nekje osemdesetega, enainosemdesetega 
+<Sync time="272.123"/>
+#eee, začel delati, čisto natančno teh podatkov nimamo, lahko pa zanesljivo trdim, da je to, 
+<Sync time="278.552"/>
+#eee, da smo zdaj štirideset let po teh, #eee, začetnih dogodkih. 
+<Sync time="281.577"/>
+Seveda potem je šel v Sloveniji razvoj, 
+<Sync time="284.102"/>
+#eee, zelo naprej, #eee, v Gorenju je trajalo sodelovanje 
+<Sync time="287.985"/>
+preko 
+<Sync time="289.44"/>
+petnajst let, 
+<Sync time="290.425"/>
+#eee, pristopile so tudi druge, #eee, druga podjetja v Sloveniji, zelo veliko, 
+<Sync time="296.243"/>
+#eee, razvoja je bilo narejenega, 
+<Sync time="298.823"/>
+večinoma so to bili unikatni. 
+<Sync time="301.467"/>
+V, 
+<Sync time="302.328"/>
+sredi 
+<Sync time="303.135"/>
+osemdesetih let je pristopila 
+<Sync time="306.033"/>
+v to, #eee, 
+<Sync time="307.412"/>
+tudi Fakulteta za elektrotehniko, ki je skupaj z Iskro razvila robota Roki, 
+<Sync time="313.353"/>
+ki je prav tako del naše zbirke in je bil pravzaprav celo prvi robot, ki je k nam prišel, ker je 
+<Sync time="318.797"/>
+pred, #eee, 
+<Sync time="319.752"/>
+osemnajstimi leti prvič nastopal na Dnevih elektrotehnike, ki so še danes 
+<Sync time="324.899"/>
+ena najbolj odmevnih, #eee, akcij 
+<Sync time="327.509"/>
+Tehniškega muzeja, 
+<Sync time="328.816"/>
+seveda skupaj s Fakulteto za elektrotehniko. 
+<Sync time="332.117"/>
+Mogoče to za začetek, #eee, 
+<Sync time="334.706"/>
+dovolj, 
+<Sync time="335.801"/>
+#eee, 
+<Sync time="336.387"/>
+pa, 
+<Sync time="336.951"/>
+če bo treba, bomo pa še kaj potem povedali. 
+</Turn>
+<Turn startTime="338.818" endTime="341.004">
+<Sync time="338.818"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="341.004" endTime="367.743" fidelity="high">
+<Sync time="341.004"/>
+Ja, hvala lepa za besedo. 
+<Sync time="342.608"/>
+Jaz mislim, da so razlogi zelo preprosti. 
+<Sync time="345.145"/>
+Pravzaprav to ne vem, če je 
+<Sync time="347.441"/>
+huda debata, ker 
+<Sync time="348.922"/>
+je zelo logično, da človek ne poškodu(), da robot ne poškoduje drugega človeka. 
+<Sync time="352.850"/>
+To je pravzaprav 
+<Sync time="354.685"/>
+tista osnova pri, 
+<Sync time="356.353"/>
+#eee, teh in() izla(), #eee, 
+<Sync time="358.212"/>
+Asimovih zakonih, ki se dotikajo robotike. 
+<Sync time="362.235"/>
+Danes sicer lahko bi govorili tudi o kakšnih robotih, ki, #eee, imajo drugačen namen. 
+</Turn>
+<Turn startTime="367.743" endTime="369.538">
+<Sync time="367.743"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="369.538" endTime="469.313" fidelity="high">
+<Sync time="369.538"/>
+#Eee, in, #eee, mogoče, če kar takoj omenim to temo na področju kemičnega orožja, obstajajo določene mednarodne, 
+<Sync time="377.38"/>
+#eee, deklaracije, sporazumi, #eee, ki govorijo o tem, da se to ne sme uporabljati, medtem ko na področju robotov pa 
+<Sync time="385.009"/>
+to zaenkrat še ni. 
+<Sync time="387.53"/>
+#Eee, čeprav smo imeli že pred nekaj leti, #eee, dolo(), #eee, predloge 
+<Sync time="393.059"/>
+celo v, #eee, skupščini 
+<Sync time="395.49"/>
+Združenih narodov, ampak to potem ni šlo poti, 
+<Sync time="400.031"/>
+#eee, ki bi vodila do nekega sprejetja nekih ukrepov. 
+<Sync time="405.016"/>
+Tako da roboti kot mehanizmi so seveda sposobni marsičesa danes, 
+<Sync time="409.875"/>
+#eee, podprti s senzoriko, 
+<Sync time="412.816"/>
+#eee, 
+<Sync time="413.508"/>
+zdaj umetna inteligenca pravzaprav ni to, kar si bomo() mogoče kdo predstavlja. 
+<Sync time="418.825"/>
+#Eee, umetna inteligenca lahko zelo, zelo nadgradi 
+<Sync time="421.787"/>
+kakšne druge sisteme, 
+<Sync time="423.879"/>
+#eee, lahko jih avtomatizira, 
+<Sync time="427.456"/>
+#eee, vendar to ni prav umetna inteligenca v smislu človeškega razmišljanja, ne, to, 
+<Sync time="432.994"/>
+#eee, mogoče nepoučen, #eee, 
+<Sync time="436.826"/>
+opazovalec si drugače predstavlja kot pa strokovnjak. 
+<Sync time="440.721"/>
+#Eee, tako da izkoriščanje vseh teh komponent lahko pripelje 
+<Sync time="445.453"/>
+v situacijo, ki je v nasprotju, če ste začela prej z 
+<Sync time="448.924"/>
+Isaac Asimov zakoni, 
+<Sync time="450.867"/>
+#eee, ki, ki je v nasprotju s tistim osnovnim načelom. 
+<Sync time="453.723"/>
+Vendar, 
+<Sync time="454.797"/>
+večina današnjih robotov 
+<Sync time="457.101"/>
+brez, #eee, dileme, 
+<Sync time="459.265"/>
+industrijski roboti, prihajajoči, sodelujoči roboti, mobilni roboti, 
+<Sync time="464.081"/>
+#eee, tudi to, kar imamo doma, kosilnice, sesalci, 
+<Sync time="467.476"/>
+#eee, to pa 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ s tem. 
+</Turn>
+<Turn startTime="469.313" endTime="472.22">
+<Sync time="469.313"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="472.22" endTime="535.254" fidelity="high">
+<Sync time="472.22"/>
+Sam bi rekel, da pravzaprav 
+<Sync time="474.885"/>
+ne vem, če je potrebno 
+<Sync time="477.041"/>
+posebej, 
+<Sync time="478.327"/>
+#eee, 
+<Sync time="479.719"/>
+bi rekel ma znanstvenega, to je bolj taka, 
+<Sync time="482.363"/>
+#eee, 
+<Sync time="483.925"/>
+bolj akademska, bi jaz rekel, izjava ali pa, 
+<Sync time="487.566"/>
+#eee, okvir razmišljanja. 
+<Sync time="490.252"/>
+Ne vem, če v okviru tega je to potrebno. 
+<Sync time="493.49"/>
+Danes imamo vsekakor precej drugačne cilje, drugačne, 
+<Sync time="497.704"/>
+#eee, usmeritve. 
+<Sync time="499.414"/>
+V tistih časih, a ne, to, 
+<Sync time="501.748"/>
+#eee, 
+<Sync time="503.034"/>
+sega kar nekaj let nazaj, 
+<Sync time="505.402"/>
+so bili drugačni pogledi. 
+<Sync time="507.642"/>
+Tudi leta devetnajststo dvaindvajset, tako kot je prej omenjal 
+<Sync time="511.058"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ robote, ali pa recimo, če omenim Slovenijo, isto mi delamo, imamo krasen primer, 
+<Sync time="516.362"/>
+#eee, tudi, #eee, začetek robotske 
+<Sync time="518.908"/>
+proze v Videl Pečjaku, Drejček in trije Marsovčki. 
+<Sync time="522.727"/>
+#Eee, tako da, 
+<Sync time="524.743"/>
+to so bili tisti časi, ko je bila fantazija, ko je bila res znanstvena fantasika, ker zdaj pa to postaja realnost, 
+<Sync time="530.463"/>
+in se mi zdi, da znamo bolj oceniti 
+<Sync time="532.534"/>
+kaj 
+<Sync time="533.905"/>
+bo oziroma kje smo. 
+</Turn>
+<Turn startTime="535.254" endTime="537.418">
+<Sync time="535.254"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="537.418" endTime="929.926" fidelity="high">
+<Sync time="537.418"/>
+Torej, #khm, ja, letos smo, 
+<Sync time="539.964"/>
+#eem 
+<Sync time="540.983"/>
+#eee, 
+<Sync time="542.014"/>
+ust() 
+<Sync time="543.075"/>
+po 
+<Sync time="543.788"/>
+dolgem procesu nekako uspeli dokončno ustanoviti ta, #eee, 
+<Sync time="549.635"/>
+imenuje se IRCAI, ne, International Center, #eee, Research Center on AI, 
+<Sync time="555.334"/>
+pod okriljem Unesca, ne. 
+<Sync time="558.359"/>
+#Eem, 
+<Sync time="560.014"/>
+o tem, ja, je bilo nekaj 
+<Sync time="562.072"/>
+pisanega, tako da se mi zdi, da tisti, ki, ki so v teh, vsaj strokovnih krogih, #eee, se kar dobro, pa vladnih krogih, kar dobro vejo, da, 
+<Sync time="569.392"/>
+#eee, ta stvar obstaja. 
+<Sync time="571.123"/>
+#Eee, je bil pa to tak dolg proces, zdaj bi rekel okrog tri leta, 
+<Sync time="575.133"/>
+ne, od čisto začetne ideje, da smo šli skozi vse 
+<Sync time="579.249"/>
+postopke, procedure in potem še zadnje leto bolj ali manj v, v 
+<Sync time="584.638"/>
+#eee, slovenskem okolju, to pomeni vlada, parlament in vse ostalo. 
+<Sync time="589.051"/>
+#Eee, zadeva, torej ta center, funkcionira ta moment 
+<Sync time="593.74"/>
+v okviru Instituta Jožef Stefan kot, #eee, 
+<Sync time="597.487"/>
+neka enota v okviru, #eee, oddelka za umetno inteligenco. 
+<Sync time="602.04"/>
+#Eee, 
+<Sync time="603.186"/>
+zdaj zaenkrat je to sicer še mala ekipa, ki je pa naslonjena na 
+<Sync time="608.163"/>
+ta bistveno večji pogon, ki ga imamo na Institutu Jožef Stefan na področju umetne inteligence, torej, 
+<Sync time="614.783"/>
+#eee, na inštitutu imamo, mislim, da okrog 
+<Sync time="617.533"/>
+sto dvajset ljudi, ne, raziskovalcev, ki, 
+<Sync time="620.41"/>
+ki se ukvar(), v treh oddelkih, ki se ukvarjajo z umetno inteligenco, to j(), to je približno zdaj 
+<Sync time="625.303"/>
+stanje in torej aktivnosti pa zdaj trenutno odprtih kar nekaj. 
+<Sync time="629.983"/>
+Torej, ja, omenili ste 
+<Sync time="631.935"/>
+ta, 
+<Sync time="633.102"/>
+#eee, 
+<Sync time="634.757"/>
+ta vidik etike in, #eee, umetne inteligence, torej 
+<Sync time="639.34"/>
+to ni samo nekaj, s čimer bi se mi ukvarjali znotraj tega 
+<Sync time="644.508"/>
+Unesco centra, 
+<Sync time="645.76"/>
+#eee, ampak je to precej, #eee, široka 
+<Sync time="649.261"/>
+#eee, aktivnost mednarodna ta moment, oziroma nekje zadnji dve leti. 
+<Sync time="654.323"/>
+#Eee, no, in preko centra pa tudi sicer preko inštituta, smo pravzaprav vključeni v vse 
+<Sync time="660.391"/>
+relevantne, 
+<Sync time="661.707"/>
+#eee, 
+<Sync time="662.802"/>
+mednarodne aktivnosti na to temo, 
+<Sync time="665.233"/>
+tukaj bi naštel, torej poleg Unesca samega, #eee 
+<Sync time="669.795"/>
+#eee #eee, je tukaj še, #eee, 
+<Sync time="673.478"/>
+OECD, 
+<Sync time="674.985"/>
+Svet Evrope, 
+<Sync time="676.589"/>
+#eee, 
+<Sync time="677.663"/>
+UN, torej Združeni narodi, #eee, in Evropa, to so, #eee, Evropska komisija, to so nekako 
+<Sync time="684.104"/>
+glavni centri ta moment mednarodni, kjer se pogovarja, 
+<Sync time="688.56"/>
+#eee, o 
+<Sync time="689.527"/>
+teh tematikah, pa pozabil sem še GPAI, to je, #eee, 
+<Sync time="693.474"/>
+Globalno partnerstvo za umetno inteligenco, ki je tudi nedavno začelo delati, kjer smo tudi vključeni, a ne. 
+<Sync time="698.812"/>
+No, in, #eee, torej kaj je zdaj cilj, #eee, 
+<Sync time="701.867"/>
+tega. Cilj je, da 
+<Sync time="704.286"/>
+se naredi 
+<Sync time="705.593"/>
+iz,
+<Sync time="706.815"/>
+#hh, tako, 
+<Sync time="707.918"/>
+da se regulira umetno inteligenco oziroma to tehnologijo, 
+<Sync time="711.525"/>
+#eee, tehnologije, ki 
+<Sync time="713.392"/>
+nekako spadajo v ta okvir umetne inteligence, 
+<Sync time="716.362"/>
+#eee, da se jih regulira na en ta način, da ne bojo delale škode, 
+<Sync time="720.139"/>
+#eee 
+<Sync time="721.34"/>
+#eee, bodisi na 
+<Sync time="723.326"/>
+mikronivoju ali pa tudi na veliko, #eee, širšem nivoju, ne. 
+<Sync time="728.028"/>
+#Eee, to je 
+<Sync time="729.123"/>
+en tak generalni cilj. Torej to, kar zdaj, realnost tega momenta je to, da se, 
+<Sync time="734.737"/>
+#eee, pravzaprav vsi ti 
+<Sync time="736.68"/>
+deležniki, 
+<Sync time="738.229"/>
+ki se 
+<Sync time="739.354"/>
+pogovarjamo 
+<Sync time="740.449"/>
+v zadnjih dveh letih, 
+<Sync time="742.647"/>
+na temo umetne inteligence, da skušamo pravzaprav poenotiti sploh jezik in, #eee, torej, 
+<Sync time="747.739"/>
+jaz sem na strani, 
+<Sync time="749.046"/>
+#eee, seveda, 
+<Sync time="750.459"/>
+jaz in 
+<Sync time="751.35"/>
+meni podobni, smo na strani 
+<Sync time="753.429"/>
+tehnologov, #eee, torej ti, ki kreiramo 
+<Sync time="756.624"/>
+tehnologijo umetne inteligence, seveda na drugi strani so potem, 
+<Sync time="760.061"/>
+#eem 
+<Sync time="761.037"/>
+#eee, bi rekel, regulatorji, 
+<Sync time="764.05"/>
+policy makerji, kot bi se reklo po, 
+<Sync time="766.397"/>
+#eee #khm, angleško, 
+<Sync time="768.149"/>
+#eee, potem so pa še, #eee, drugi, predvsem pravniki, a ne, torej ravno ta teden je recimo, 
+<Sync time="774.451"/>
+ravno zdajle te minute se zaključuje, #eee, 
+<Sync time="777.37"/>
+ta odbor na Svetu Evrope, ne, kjer je poudarek na 
+<Sync time="781.147"/>
+umetna inteligenca in, 
+<Sync time="783.197"/>
+#eee, 
+<Sync time="783.995"/>
+človekove pravice. #Eee, predvidoma čez kakšno dobro leto naj bi prišla 
+<Sync time="789.015"/>
+prva, #eee, pravno zavezujoča 
+<Sync time="792.083"/>
+regulacija, 
+<Sync time="793.432"/>
+#eee, na to temo, no, in to je zdaj približno dvoletno delo. 
+<Sync time="796.933"/>
+Tule je treba povedati, da je, #eee, ta odbor vodimo Slovenci, Gregor Strojin, 
+<Sync time="801.876"/>
+#eee, ki je odlično vodil zadnje tri dni, 
+<Sync time="804.138"/>
+#eee #eee, delo tega, #eee, ta sestanek, #eee, tega odbora in 
+<Sync time="809.115"/>
+zadeve se premikajo v dobro smer, ne. 
+<Sync time="811.746"/>
+Torej, #eee, torej Svet Evrope 
+<Sync time="813.847"/>
+primarno ima te 
+<Sync time="815.111"/>
+človekove pravice, Unesco je bolj, ima poudarek na etiki, 
+<Sync time="819.015"/>
+OECD bolj 
+<Sync time="820.225"/>
+poudarek na umetna inteligenca in ekonomija, 
+<Sync time="823.526"/>
+#eem #eee, Evropska komisija, 
+<Sync time="826.009"/>
+#eee, pa predvsem 
+<Sync time="828.165"/>
+bi rekel, da je neka regulacija v, v, za potrebe evrops(), #eee, Evrope same, no. 
+<Sync time="833.821"/>
+Tako da so majčkeno različni vidiki, #eee, ampak je to nekakšno skupno delo, ne. 
+<Sync time="839.125"/>
+Zdaj pa če samo zaključim, #eee, torej etika in umetna inteligenca. Tukaj je veliko, 
+<Sync time="845.448"/>
+#eee, stvari za povedati, ne. Torej to ni zdaj samo nekaj, 
+<Sync time="849.343"/>
+#eee, glejte, umetna inteligenca pravzaprav, 
+<Sync time="852.08"/>
+#eee, 
+<Sync time="853.799"/>
+ne obstaja kot taka, to ni neki oblak, to ni neka oseba, to je pač množica nekakšnih tehničnih prijemov, 
+<Sync time="860.389"/>
+#eee, ki rešujejo, 
+<Sync time="862.672"/>
+#eee, 
+<Sync time="863.852"/>
+težke probleme. 
+<Sync time="865.032"/>
+Probleme, v katerih je 
+<Sync time="866.997"/>
+pogosto človek dober, 
+<Sync time="868.643"/>
+#eee, ne pa nujno, ne, 
+<Sync time="870.786"/>
+#eee, in 
+<Sync time="872.568"/>
+s to tehnologijo pa lahko take probleme, #eee, 
+<Sync time="875.793"/>
+kar dobro rešujemo, to so, 
+<Sync time="877.576"/>
+#eee, lahko problemi od 
+<Sync time="879.838"/>
+računalniškega vida, sluh, do veliko bolj kompleksnih, #eee, problemov kot je, ne vem, 
+<Sync time="886.216"/>
+uravnavanje zelo kompleksnih sistemov, vključno z državo, če hočete, ne. 
+<Sync time="891.639"/>
+In seveda, 
+<Sync time="892.988"/>
+toliko, kot je priložnosti, toliko je tudi nevarnosti, ne vem, zdaj se pač vsa ta skupnost nekako ukvarja s temi razmisleki, kako, 
+<Sync time="901.814"/>
+kako, #eee 
+<Sync time="903.851"/>
+#eee, preprečiti slabe posledice te tehnologije pa poudariti, #eee, dobre 
+<Sync time="909.176"/>
+posledice. No, in kot 
+<Sync time="910.895"/>
+sem prej rekel nekako, to je nekako še v procesu nekakšnega 
+<Sync time="915.431"/>
+spoznavanja, učenja, #eee #eee, in, #eee, 
+<Sync time="920.133"/>
+stvari počasi konvergirajo proti neki, 
+<Sync time="923.455"/>
+se mi zdi, smiselni, 
+<Sync time="925.089"/>
+#eee, regulaciji, nismo pa še tam. 
+<Sync time="928.335"/>
+Toliko zaenkrat. 
+</Turn>
+<Turn startTime="929.926" endTime="946.524">
+<Sync time="929.926"/>
+<Background time="929.926" type="shh" level="high"/>
+
+<Background time="946.516" type="other" level="off"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="946.524" endTime="1076.487" fidelity="high">
+<Sync time="946.524"/>
+Torej, #khm, kot sem prejle rekel, Gregor Strojin, #eee, je predsednik tega komiteja v 
+<Sync time="952.244"/>
+Svetu Evrope, 
+<Sync time="953.572"/>
+#eee, in, #eee, ravno prejle, pol ure nazaj, je imel podaljšan mandat in smo bili vsi zelo veseli, 
+<Sync time="961.316"/>
+#eee, je briljantno, #eee, vodil to zadnje leto ta komite, 
+<Sync time="965.856"/>
+#eee, in mislim, da je zaslužil, 
+<Sync time="968.402"/>
+#eee, to vodenje. 
+<Sync time="969.718"/>
+Torej to je na Svetu Evrope, potem, #eee, 
+<Sync time="972.34"/>
+pri Unescu smo že rekli, smo zelo blizu, zato ker imamo pravzaprav edini, 
+<Sync time="977.114"/>
+#eee, Unescov center, 
+<Sync time="979.002"/>
+#eee #eee, za umetno inteligenco, 
+<Sync time="981.612"/>
+ta edini center je pri nas v Ljubljani. 
+<Sync time="984.319"/>
+#Eee, 
+<Sync time="985.125"/>
+tretja stvar sem rekel OECD, ne, ki, #eee, kjer smo, #eee, 
+<Sync time="990.62"/>
+zelo povezani, torej, 
+<Sync time="992.594"/>
+#eee, poleg tega, da smo interni eksperti, tudi Slovenija kot, #eee, 
+<Sync time="997.508"/>
+predstavnik in smo zelo aktivni, torej, #eee, 
+<Sync time="1000.449"/>
+nekakšen obraz, #eee, umetne inteligence, kot ga OECD daje, je pravzaprav narejen v Ljubljani, na inštitutu 
+<Sync time="1008.227"/>
+pri nas. Tako da, #eee, to so nekako tri zelo pomembne točke, no, kjer, kjer smo zelo aktivni, tudi vidni, 
+<Sync time="1015.199"/>
+#eee, tako da 
+<Sync time="1016.421"/>
+po tej plati smo 
+<Sync time="1018.373"/>
+seveda dobri, ampak to smo si seveda zaslužili s 
+<Sync time="1021.42"/>
+preteklim, #eee, delom, kar kljub vsemu je ta umetna inteligenca pri nas doma tam nekje od, 
+<Sync time="1027.034"/>
+#eee, 
+<Sync time="1028.086"/>
+iz sedemdesetih, konca sedemdesetih let, ne. 
+<Sync time="1031.141"/>
+#Eee, nekako nam jo je prinesel Ivan Bratko, predvsem, 
+<Sync time="1035.491"/>
+#eem, 
+<Sync time="1036.289"/>
+kjer je takrat na začetku osemdesetih je bilo to nekaj ljudi, no danes je pa 
+<Sync time="1040.736"/>
+recimo po nekem štetju preko dvesto ljudi, dvesto raziskovalcev, ki se ukvarja, da na inštitutu pa na univerzah z, 
+<Sync time="1048.408"/>
+#eee, s tem področjem. Tako da, 
+<Sync time="1050.203"/>
+glede na svojo majhnost, ne, po čisto po meritvah, smo nekako, 
+<Sync time="1054.247"/>
+jaz bi rekel tako, v prvi ligi, ne. V prvi ligi smo, ne moremo biti 
+<Sync time="1057.824"/>
+čisto najboljši, ker, 
+<Sync time="1059.437"/>
+#eee, nam tudi marsikje kaj zmanjka, zato ker nismo 
+<Sync time="1063.014"/>
+nekako bogata država, toliko kot morda, ne vem, Švica ali pa Singapur, recimo, ki tudi zelo, #eee, 
+<Sync time="1068.891"/>
+per capita, a ne, vodijo, #eee #eee. 
+<Sync time="1072.328"/>
+Ampak, #eee, smo, mislim, da kar opazni glede na to, koliko, #eee, koliko nas je, ne. 
+</Turn>
+<Turn startTime="1076.487" endTime="1078.239">
+<Sync time="1076.487"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1078.239" endTime="1378.017" fidelity="high">
+<Sync time="1078.239"/>
+Ja, današnji razvoj robotike, #khm, najprej predvsem v svetu, 
+<Sync time="1082.24"/>
+#khm, gotovo zelo, 
+<Sync time="1084.065"/>
+jaz bi najprej rekel zanimiv, raznolik 
+<Sync time="1087.396"/>
+na raznih področjih. 
+<Sync time="1089.836"/>
+#Eem, 
+<Sync time="1090.931"/>
+pa vendar ne toliko hiter, kot bi si morda želeli ali pa kot bi lahko pričakovali. 
+<Sync time="1096.712"/>
+Roboti so mehanizmi 
+<Sync time="1099.016"/>
+in so kot mehanizmi 
+<Sync time="1101.193"/>
+pravzaprav nebogljeni. 
+<Sync time="1103.285"/>
+Če hočemo, da tako mehanizem deluje kot celota in opravi neko nalogo, 
+<Sync time="1108.559"/>
+sestavljen je pa iz mnogo, mnogo delov, 
+<Sync time="1110.989"/>
+potem morajo vsi ti delčki več ali manj dobro delovati. 
+<Sync time="1115.733"/>
+#Eee, redundanca 
+<Sync time="1117.549"/>
+je majhna. 
+<Sync time="1119.055"/>
+Torej, #eee, če gre eden izmed delčkov nekaj narobe, 
+<Sync time="1122.896"/>
+celota ne bo delovala. 
+<Sync time="1124.903"/>
+In to vodi, ljudje smo ravno obratni, 
+<Sync time="1127.746"/>
+a ne, ljudje imamo en kup takih redundantnih mehanizmov, 
+<Sync time="1131.629"/>
+če ne moremo na en način narediti, pa se malo znajdemo pa malo drugače naredimo. 
+<Sync time="1136.352"/>
+#Eee, smo tako, #eee, biomehansko sestavljeni 
+<Sync time="1139.908"/>
+kot tudi v smislu vodenja, aktivnosti, naj si bo, #eee, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ aktivnosti pa tudi v smislu planiranja, 
+<Sync time="1148.662"/>
+#eee, raznih aktivnosti. 
+<Sync time="1150.372"/>
+V tem je kup redundance. 
+<Sync time="1151.955"/>
+Torej znamo na različne načine priti do istega cilja. 
+<Sync time="1154.959"/>
+No, tega nam pri robotiki še zelo manjka. 
+<Sync time="1158.163"/>
+#Eee, roboti niso še v tej smeri, zato so roboti zelo nebogljeni. 
+<Sync time="1163.119"/>
+#Eee, in, #eee, prav to je en izmed najbrž velikih izzivov v prihodnosti, kako narediti robote 
+<Sync time="1170.439"/>
+bolj zanesljive. 
+<Sync time="1172.786"/>
+Zdaj, če pogledamo trenutno stanje, pravzaprav to, kar ste vi vprašala, 
+<Sync time="1176.766"/>
+pa danes, #eee, 
+<Sync time="1179.079"/>
+v svetu gledano 
+<Sync time="1182.083"/>
+se 
+<Sync time="1184.502"/>
+financira ali pa investira, želi napredek 
+<Sync time="1188.376"/>
+na različnih področjih. 
+<Sync time="1189.585"/>
+V zadnjem obdobju, povezano seveda s trenutno epidemijo, 
+<Sync time="1193.977"/>
+#eee, 
+<Sync time="1195.081"/>
+so roboti, ki so v to smer usmerjeni, 
+<Sync time="1197.958"/>
+jasno zelo aktualni. 
+<Sync time="1200.177"/>
+#Eee, tudi v nedavnih razpisih Evropske komisije, so nekateri taki projekti seveda, 
+<Sync time="1206.415"/>
+#eee, potegnili zmagovalno, 
+<Sync time="1208.295"/>
+zmagovalno potezo. 
+<Sync time="1210.578"/>
+#Eee, potem 
+<Sync time="1211.673"/>
+s(), vse drugo, kar je v povezavi z danes umetno inteligenco, 
+<Sync time="1216.672"/>
+prej omenjeno, 
+<Sync time="1217.703"/>
+se pravi, 
+<Sync time="1218.552"/>
+kombinacija med mehanizmom, 
+<Sync time="1221.323"/>
+ki v resnici 
+<Sync time="1223.33"/>
+uporablja 
+<Sync time="1224.73"/>
+neke algoritme, ki so tako ali drugačni. 
+<Sync time="1228.507"/>
+Ne samo algoritmi na eni strani, pa ne samo mehanizmi na drugi strani, ampak kombinacija, 
+<Sync time="1233.421"/>
+torej združenje. 
+<Sync time="1234.579"/>
+Tako kot 
+<Sync time="1235.449"/>
+ta beseda, mehatronika, združuje mehaniko pa elektroniko, a ne, tako 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, nekako 
+<Sync time="1240.838"/>
+si bo morda nekdo izmislil eno besedo, ki bo kombinacija med 
+<Sync time="1244.763"/>
+AI pa med robotom. 
+<Sync time="1246.991"/>
+#Eee, torej tako združenje, da ga je težko ločiti, 
+<Sync time="1250.789"/>
+da, da, da ne veš, kje bi dobro ločnico potegnil. 
+<Sync time="1255.3"/>
+Torej v svetu razen teh področij, 
+<Sync time="1258.601"/>
+#eee, se zdi, da je seveda stalnica 
+<Sync time="1262.335"/>
+še naprej industrija, 
+<Sync time="1263.587"/>
+ker dejansko to je ekonomski interes, 
+<Sync time="1266.324"/>
+to je dejansko tisto, kar prinaša denar, 
+<Sync time="1269.761"/>
+tam se stvari povrnejo, 
+<Sync time="1271.628"/>
+tam je ekonomija, 
+<Sync time="1273.432"/>
+ekonomija s številkami, ekonomija obsega 
+<Sync time="1276.267"/>
+in nedvomno ta veja robotike je gonilna veja 
+<Sync time="1279.823"/>
+robotike. 
+<Sync time="1280.302"/>
+Ta vleče nemilostno, tako kot ogromna ladja, ki se ne more ustaviti, tako industrijska robotika vleče 
+<Sync time="1287.261"/>
+celo stvar naprej. 
+<Sync time="1289.107"/>
+#Eee, 
+<Sync time="1289.829"/>
+pa nenazadnje danes imamo tudi številne, kot je prej kolega Ude omenil, 
+<Sync time="1295.613"/>
+#eee, domače, majčkene robote, 
+<Sync time="1299.805"/>
+ki 
+<Sync time="1301.184"/>
+niti niso toliko kompleksni, ke bi človek pričakoval, so zelo primitivni pravzaprav. 
+<Sync time="1306.107"/>
+Sesalec ni sesalec, ampak je metla. 
+<Sync time="1308.793"/>
+#Eee, in podobne zadeve, pa vendar jim zaupamo, a ne, to bo nekako prišlo in prihaja. 
+<Sync time="1315.468"/>
+#Eee, 
+<Sync time="1316.351"/>
+Slovenija, 
+<Sync time="1318.04"/>
+Slovenija izkorišča priložnosti, ki obstajajo 
+<Sync time="1321.617"/>
+glede na naše razmere, glede na naše pozicioniranje, glede na naše potrebe. 
+<Sync time="1328.249"/>
+Tako so recimo v industriji, 
+<Sync time="1330.435"/>
+#eee, nekatere zanimive aplikacije, nekatere zanimive smeri, 
+<Sync time="1334.288"/>
+ki so neraziskane. 
+<Sync time="1336.231"/>
+Potem tudi v povezavi z ljudmi, 
+<Sync time="1338.841"/>
+z gibanjem, z lokomocijo, 
+<Sync time="1342.257"/>
+s pomočjo ljudem, 
+<Sync time="1344.794"/>
+pa tudi na področju vozil, 
+<Sync time="1347.489"/>
+danes, a ne, to, kar je bilo prej omenjeno. 
+<Sync time="1349.857"/>
+Tako da naša robotika, bi rekel, da je 
+<Sync time="1352.416"/>
+dobro povezana, #eee, neločljivo povezana z vsemi dogodki 
+<Sync time="1357.733"/>
+v 
+<Sync time="1358.828"/>
+bližnji, širši in pa svetovni, 
+<Sync time="1362.257"/>
+svetovni okolici. 
+<Sync time="1364.519"/>
+#Eee, 
+<Sync time="1365.974"/>
+se prilagajamo 
+<Sync time="1367.629"/>
+in pri nekaterih stvareh smo 
+<Sync time="1370.642"/>
+čisto zraven, pri nekaterih stvareh morda 
+<Sync time="1373.124"/>
+nekoliko 
+<Sync time="1374.206"/>
+bolj zadaj. 
+<Sync time="1375.225"/>
+Mislim, da je to realen problem. 
+</Turn>
+<Turn speaker="spk1" startTime="1378.017" endTime="1690.428" fidelity="high">
+<Sync time="1378.017"/>
+Če, če gledamo, #eee, iz, #eee, 
+<Sync time="1380.788"/>
+teh zadnjih sto let recimo, ne, 
+<Sync time="1383.262"/>
+#eee, se s() pravzaprav, #eee, ta razvoj dogaja zelo zanimivo, ne. Torej preden dejansko robote smo imeli, 
+<Sync time="1390.297"/>
+smo imeli pač 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+
+<Sync time="1392.304"/>
+pisatelje, umetnike in podobno, ki so, 
+<Sync time="1395.826"/>
+#eee, o teh, #eee, robotih začeli, #eee, razmišljati in tako naprej, 
+<Sync time="1400.655"/>
+večina teh robotov takrat je bila 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, torej vsi so na neki način, 
+<Sync time="1405.017"/>
+#eee, bili podobni ljudem, #eee, 
+<Sync time="1407.436"/>
+so poskušali z njimi komunicirati in, #eee 
+<Sync time="1410.758"/>
+#eee, jim pomagati, včasih tudi ne, ne. 
+<Sync time="1413.644"/>
+Zato so pač tudi nastali ti zakoni robotike, ne. 
+<Sync time="1417.37"/>
+#Eee, prav, #eee, pravi, pravi tisti, 
+<Sync time="1420.544"/>
+#eee, razcvet je pripeljal do tega, da je to zdaj postala, #eee, praktično vsakodnevna, #eee, stvar, 
+<Sync time="1426.943"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ ogromno z nastopom industrijske robotike. 
+<Sync time="1431.029"/>
+#Eee, namreč, #eee, 
+<Sync time="1432.451"/>
+kar je zanimivo v Sloveniji, se je, #eee, začela zgodba pravzaprav v skrbi za, #eee, delavce, za zaposlene, ker 
+<Sync time="1440.441"/>
+prvi razvoj 
+<Sync time="1441.735"/>
+je bil namenjen, #eee, 
+<Sync time="1443.475"/>
+robotom, ki bi delali na 
+<Sync time="1445.575"/>
+zelo zahtevnih, #eee, težavnih, težkih delovnih mestih, ki so bili 
+<Sync time="1450.583"/>
+zdravju škodljivi. 
+<Sync time="1452.463"/>
+#Eee, 
+<Sync time="1453.049"/>
+seveda 
+<Sync time="1453.656"/>
+pozneje pa, ko se je začela industrijska proizvodnja, #eee, teh robotov, pa se je našlo veliko delovnih mest, 
+<Sync time="1460.776"/>
+oziroma veliko opravil, kjer je bil robot, 
+<Sync time="1463.683"/>
+#eee, bistveno boljši od človeka. 
+<Sync time="1466.199"/>
+Zanimivo pa je seveda za 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ roboti niti približno niso več, #eee, podobni 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+.
+<Sync time="1473.328"/>
+Ko so stopili v akcijo inženirji, so pač, #eee, porabili, uporabili samo tisto, kar je bilo nujno, ne. 
+<Sync time="1479.43"/>
+Torej ni treba, da robot v tovarni stoji na dveh nogah in se eventuelno 
+<Sync time="1484.429"/>
+še kam sprehodi, 
+<Sync time="1485.884"/>
+ampak pač je tam in opravlja tista svoja dela, ki so, 
+<Sync time="1488.94"/>
+#eee, pomembna 
+<Sync time="1490.12"/>
+in seveda z, tako kot je že profesor Munih povedal, s 
+<Sync time="1493.782"/>
+širitvijo oziroma z razcvetom, #eee, uporabe, #eee, robotov v industriji, 
+<Sync time="1499.795"/>
+še vedno je na prvem imeti() mestu avtomobilska industrija, kolikor vem, 
+<Sync time="1503.796"/>
+je pa cela zgodba šla čisto v, #eee, drugo smer, torej danes je robot nekaj, kar se kupi v trgovini, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ računalnik, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ televizor, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+,
+<Sync time="1513.696"/>
+#eee, serijska proizvodnja, tudi cena je 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, ne. 
+<Sync time="1518.44"/>
+Hkrati pa, mogoče, kar je še zanimivo, se je pa s tem seveda začel tudi razvoj umetne inteligence, oziroma to, ne, 
+<Sync time="1525.921"/>
+prvi roboti niso bili inteligentni, bili so pač sprogramirani, da so opravljali tistih svojih par gibov, 
+<Sync time="1532.277"/>
+ki so bili nujno potrebni, kasneje so se dodajali senzorji in podobne zadeve, da je lahko bil, 
+<Sync time="1538.621"/>
+#eee, uporaben za več, #eee #eee, delovnih nalog in podobno, ne. 
+<Sync time="1543.925"/>
+Razvoj umetne inteligence je šel pa naprej, ne, in mogoče, kar je pravzaprav meni tukaj fascinantno, ne, 
+<Sync time="1550.693"/>
+#eee, en primer bom dal, recimo šah, ne. 
+<Sync time="1554.366"/>
+Vedno smo imeli velemojstre kot ljudi z izjemnimi umskimi sposobnostmi, 
+<Sync time="1561.283"/>
+ke znajo predvidevati in tako naprej, 
+<Sync time="1563.799"/>
+ampak dejansko računalniki so jih zelo kmalu, #eee, 
+<Sync time="1567.597"/>
+dali v koš, ne. 
+<Sync time="1569.125"/>
+Torej, #eee, 
+<Sync time="1570.241"/>
+tukaj se je tudi, 
+<Sync time="1571.845"/>
+#eee, umetna inteligenca kot taka, #eee, pokazala za močnejšega od, #eee, človeškega uma, 
+<Sync time="1578.902"/>
+ker pač seveda gre za eno tako zelo 
+<Sync time="1581.418"/>
+natančno definirano igro s svojimi pravili in pač možnimi kombinacijami, ki jih lahko 
+<Sync time="1587.019"/>
+računalnik mnogo hitreje 
+<Sync time="1588.865"/>
+predela kot pa še tako izkušen človek, ne. 
+<Sync time="1592.111"/>
+Tako da, pota razvoja so, 
+<Sync time="1594.318"/>
+#eee, 
+<Sync time="1595.222"/>
+včasih zelo nepredvidljiva, težko je reči, 
+<Sync time="1597.802"/>
+kako bo šlo še naprej, v vsakem primeru pa je ta industrijska 
+<Sync time="1601.931"/>
+proizvodnja robotov bila tista, ki je bila, #eee, mejnik recimo za razvoj. 
+<Sync time="1606.59"/>
+#Eee, ja, tudi je pač bila, #eee, pravzaprav čisto slučajna zgodba, ko smo delali to razstavo, #eee, 
+<Sync time="1613.54"/>
+so se nam oglasili, 
+<Sync time="1615.153"/>
+#eee, iz, #eee, Inštituta za rehabilitacijo, da imajo pač enega zelo modernega 
+<Sync time="1620.979"/>
+robota, ki je bil narejen za eno posebno nalogo, 
+<Sync time="1624.289"/>
+#eee, in, 
+<Sync time="1625.681"/>
+da nam ga podarijo, in smo ga seveda z veseljem, z veseljem prevzeli 
+<Sync time="1630.34"/>
+in ga postavili tudi na razstavo, čeprav, #eee, 
+<Sync time="1633.183"/>
+čisto v koncept, #eee, razstave industrijske 
+<Sync time="1636.302"/>
+robotike ne sodi, 
+<Sync time="1638.097"/>
+je pa, je pa, bom rekel tudi, #eee, za obiskovalce 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ stvar. 
+<Sync time="1644.326"/>
+#Eee, in seveda, tudi v, na tem področju se seveda to, #eee, roboti oziroma umetna inteligenca, 
+<Sync time="1651.709"/>
+#eee, zelo, #eee, uporabljajo. 
+<Sync time="1654.171"/>
+Ta, #eee, 
+<Sync time="1655.245"/>
+konkreten, ki je pri nas, 
+<Sync time="1656.934"/>
+v, bom rekel v redni klinični praksi ni deloval, ker je pač zahtevna zadeva in potrebuje veliko, 
+<Sync time="1663.418"/>
+#eee, ljudi, da z njim operirajo, bil je pa namenjen predvsem, da so z njim študirali 
+<Sync time="1669.159"/>
+komunikacijo med, #eee, 
+<Sync time="1671.217"/>
+bolnikom, ki je na, #eee, tem robotu in pa, #eee, samim robotom oziroma 
+<Sync time="1676.352"/>
+njegovim sistemom, 
+<Sync time="1677.659"/>
+torej, 
+<Sync time="1678.266"/>
+kako natančno lahko robot, 
+<Sync time="1680.591"/>
+#eee, najde napake v 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ nekega bolnika in kako jih zna potem tudi, 
+<Sync time="1686.702"/>
+#eee, mehansko popravljati v procesu reha(), rehabilitacije. 
+</Turn>
+<Turn startTime="1690.428" endTime="1692.159">
+<Sync time="1690.428"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1692.159" endTime="1972.262" fidelity="high">
+<Sync time="1692.159"/>
+#Eem, 
+<Sync time="1692.963"/>
+je pa zanimivo, da je ta razvoj robotov del zmeraj nekako 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ posledica ali pa 
+<Sync time="1698.416"/>
+za en korak potem, 
+<Sync time="1700.741"/>
+#eee, nekaj let za nekimi drugimi s() važnimi stvarmi, ki so se zgodile. 
+<Sync time="1706.639"/>
+Recimo, #eee, veliko časa, dolgo časa je bilo to na nekih mejnikih elektrotehnike. 
+<Sync time="1713.089"/>
+#Eee, če ne vem, tisti, ki to poznajo, mogoče nekateri ne poznajo, 
+<Sync time="1717.969"/>
+tranzistor so iznašli tam okrog, #eee, druge svetovne vojne, se pravi enkrat po letu štirideset in potem so začela logična vezja po letu petdeset 
+<Sync time="1726.904"/>
+in prvi mikroprocesorji tam okrog leta sedemdeset, devetnajststo sedemdeset, s tranzistorji, a ne. 
+<Sync time="1733.269"/>
+In kmalu za tistim, leta devetnajsto triinsedemdeset, 
+<Sync time="1736.634"/>
+smo imeli robote, ki so bili vodeni, kontrolirani s pomočjo mikrokrmilnikov, s pomočjo mikroprocesorjev. 
+<Sync time="1744.009"/>
+#Eee, in takrat so začeli tudi električni roboti, 
+<Sync time="1746.801"/>
+a ne. Do takrat, 
+<Sync time="1748.01"/>
+do tistega datuma, so bili roboti gnani 
+<Sync time="1751.235"/>
+na razne druge načine, predvsem hidravlično-industrijski, 
+<Sync time="1754.29"/>
+se pravi s pomočjo cilindrov in olja. 
+<Sync time="1757.443"/>
+Naslednji drug tak mejnik, ki ga sam gledam, 
+<Sync time="1760.723"/>
+je bil potem med leti osemdeset pa devetdeset, devetnajststo osemdeset, devetnajststo devetdeset, ko so osebni računalniki začeli. 
+<Sync time="1767.046"/>
+Torej so ti, #eee, krmilniki postal bolj zmogljivi 
+<Sync time="1770.538"/>
+za velik manjšo ceno, recimo za desetkrat manjšo ceno približno enako zmogljivi. 
+<Sync time="1775.779"/>
+In profesor Ude se gotovo spomni še, deset, petnajst, dvajset let nazaj, smo računali 
+<Sync time="1781.202"/>
+zmeraj ali bo ta algoritem, #eee, sposoben robot izvajati zaradi števila množenj in podobnih zadev. 
+<Sync time="1788.471"/>
+Danes to niti ni več vprašanje, a ne, danes, #eee, današnji računalniški sistemi zmorejo vse 
+<Sync time="1795.803"/>
+praktično, kar si zaželimo, ker robot pri svojem bivanju, predvsem pa pri zaznavanju okolice 
+<Sync time="1801.756"/>
+zahteva, #eee, sprotno izračunavanje, mogoče celo tisoč ali pa več tisočkrat na sekundo, zelo kompleksnih algoritmov, 
+<Sync time="1810.065"/>
+en kup 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, en kup, #eee, matematičnih operacij 
+<Sync time="1813.43"/>
+resno. 
+<Sync time="1814.737"/>
+#Eee, in to ni bilo prej mogoče, a ne, to je postalo mogoče, ne vem, po letu dva tisoč, recimo. 
+<Sync time="1821.055"/>
+Tako da so res ti kompleksni sistemi 
+<Sync time="1824.153"/>
+lahko šli v življenje 
+<Sync time="1826.054"/>
+ne samo v nekaterih centrih za demon(), #eee, za namen demonstracije, ampak širše, da to marsikdo, marsikateri laboratorij ali pa uporabnik 
+<Sync time="1834.914"/>
+je lahko 
+<Sync time="1835.818"/>
+imel, si privoščil in pa, 
+<Sync time="1838.143"/>
+#eee, s tem dela. 
+<Sync time="1840.053"/>
+No, in 
+<Sync time="1841.063"/>
+to, da je to, #eee, a ne, to je bilo zmeraj en, 
+<Sync time="1844.131"/>
+en, 
+<Sync time="1844.78"/>
+izkoriščanje nečesa, prenos nečesa, 
+<Sync time="1847.899"/>
+kar se je zgodilo nekje drugod. 
+<Sync time="1850.021"/>
+Če rečem osebni računalnik in niso zaradi robotike, ampak so zaradi nekaterih drugih, spet ekonomskih stvari nastali 
+<Sync time="1856.611"/>
+in tako dalje. 
+<Sync time="1857.748"/>
+Zdaj, #eee, zdi se mi, da je, 
+<Sync time="1859.636"/>
+kolega Grobelnik bo znal to, #eee, komentirati potem mogoče še s kakšne druge plati, 
+<Sync time="1865.653"/>
+#eee, eden največjih izzivov pri umetni inteligenci je, kako zdaj spet pa te algoritme 
+<Sync time="1871.67"/>
+v realnem času izvajati, 
+<Sync time="1873.571"/>
+a ne, kako prepoznavati, 
+<Sync time="1875.705"/>
+#eee, razne, 
+<Sync time="1877.848"/>
+#eee, slike, ki pridejo na kamero, 
+<Sync time="1880.634"/>
+zadosti hitro primerjati s celotno bazo, 
+<Sync time="1885.017"/>
+#eee, in te številke so res enormne, 
+<Sync time="1887.394"/>
+te številke so toliko enormne potrebe po računski moči, a ne, kar se tiče umetne inteligence, 
+<Sync time="1892.647"/>
+še posebej, če pomislimo na avtomobile. 
+<Sync time="1895.193"/>
+Pa hitrost, #eee, s katero bi moral to početi, 
+<Sync time="1897.909"/>
+da danes verjetno bi cel avtomobil lahko z najbolj zmogljivimi procesorji naložil, da bi bili s() samo, samo to bi bilo v avtomobilu, a ne, 
+<Sync time="1905.475"/>
+in potem bi se peljali, pa veliko energije bi rabili. 
+<Sync time="1908.522"/>
+Tako da tukaj je potrebna ogromna miniaturizacija 
+<Sync time="1912.063"/>
+pa ogromno, #eem, na področju minimizacije porabe energije 
+<Sync time="1918.258"/>
+in potem bi ti algoritmi lahko krasno delali, ampak veliko boljše delajo kot danes. 
+<Sync time="1923.541"/>
+#Eee, in če se to zgodi, 
+<Sync time="1925.245"/>
+potem bo robotika, zdi se, spet naredila tako stopnico, 
+<Sync time="1929.807"/>
+ne samo, #eee, 
+<Sync time="1931.453"/>
+majčken napredek, ampak stopničasti napredek. 
+<Sync time="1935.018"/>
+#Eee, zdi se mi, da taki dogodki, prenosi, 
+<Sync time="1938.213"/>
+#eee, takih tehnoloških, #eee, dosežkov, 
+<Sync time="1942.032"/>
+#eee, potem naredijo še na drugih področjih, 
+<Sync time="1944.918"/>
+tudi, #eee, velike, 
+<Sync time="1946.395"/>
+velike premike. 
+<Sync time="1947.469"/>
+Take stvari bi lahko imele velik vpliv tudi na uporabo robotov, naj si bo v medicini, naj si bo, 
+<Sync time="1953.316"/>
+#eee, doma, 
+<Sync time="1954.632"/>
+a ne. 
+<Sync time="1955.302"/>
+Ker, seveda, najdražje sisteme pol že plačajo, ampak malo bolj preprosti sistemi so pa nenazadnje tako poceni, 
+<Sync time="1961.916"/>
+da si jih pa lahko vsakdo lahko privošči. 
+<Sync time="1964.42"/>
+To ima potem, to naredi 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, a ne, to so posledice potem res za splošno uporabo. 
+</Turn>
+<Turn speaker="spk3" startTime="1972.262" endTime="2267.3" fidelity="high">
+<Sync time="1972.262"/>
+#Khm, ja, jih je, nekaj jih je, ne. 
+<Sync time="1976.179"/>
+#Eee, no, recimo, 
+<Sync time="1977.868"/>
+#eee, 
+<Sync time="1979.132"/>
+eno podjetje, ki smo ga naredili, #eee, skupaj v sodelovanju med inštitutom pa med, #eee, Kolektorjem, na primer, 
+<Sync time="1986.643"/>
+se imenuje Qulektor, s q-jem, pisano. 
+<Sync time="1989.847"/>
+#Eee, 
+<Sync time="1990.666"/>
+in, #eee, recimo, tukaj je, 
+<Sync time="1993.585"/>
+uporabimo 
+<Sync time="1995.028"/>
+te algoritme umetne inteligence za to, da dejansko 
+<Sync time="1998.741"/>
+celo(), celovit(), to(), tovarno v celoti upravljamo, ne. Recimo to je, 
+<Sync time="2004.503"/>
+#eee, zdaj po našem razumevanju pravzaprav 
+<Sync time="2007.665"/>
+edini tak produkt, te, te s(), te vrste, no, recimo. 
+<Sync time="2011.942"/>
+#Eee, in je tudi precej interesa, 
+<Sync time="2013.809"/>
+#eee, okrog, trenutno imamo, ne vem, nekih okrog deset, #eee, tovarn, 
+<Sync time="2017.586"/>
+recimo, #eee, peljemo s tem sistemom. 
+<Sync time="2020.951"/>
+Torej, kaj je tovarna? Tovarna, 
+<Sync time="2023.51"/>
+kako si predstavljamo, #aha, da so to neki ljudje, ki pridejo za stroje pa nekaj naredijo, in potem to tovornjak odpelje, ampak to je precej bolj kompleksen organizem, ne, pravzaprav, ki 
+<Sync time="2033.664"/>
+se začne pri strojih, potem stroji so zloženi v produkcijsko linijo, ne, te, te stroje strežejo ljudje, ne, te stre(), 
+<Sync time="2041.004"/>
+ti ljudje nekaj znajo, ne, morajo biti malo doma, malo nekaj delajo, včasih lahko kdo tudi ne pride. 
+<Sync time="2049.136"/>
+Seveda za to, da stroj sploh kaj naredi, more, #eee, nekdo splanirati vse te stvari, 
+<Sync time="2054.51"/>
+seveda, #khm, potem je vsa ta dobavna veriga, je tudi treba pri() 
+<Sync time="2058.817"/>
+pripeljati neke stvari pa jih tudi odpeljati, 
+<Sync time="2061.66"/>
+potem je treba vse to tudi znati prodati in tako naprej, to je zelo kompleksen organizem, ne, in karkoli gre tukaj narobe, 
+<Sync time="2067.855"/>
+#eee, v vseh teh procesih, ki, pa še nekaj, več stvari je, ke bi jih lahko naštel. 
+<Sync time="2072.587"/>
+#Eee, se lahko hitro začne podirati, se na tak 
+<Sync time="2075.697"/>
+organizem, kot je tovarna v, 
+<Sync time="2078.786"/>
+#eee, tako kot, 
+<Sync time="2082.223"/>
+ne vem, neka 
+<Sync time="2083.623"/>
+hišica iz kart, ne. No, torej, zdaj ta naš sistem, 
+<Sync time="2087.273"/>
+ta naš sistem, #eee, zdaj to preprečuje, napove, 
+<Sync time="2091.487"/>
+#eee, težave pa jih tudi, #eee, razreši, 
+<Sync time="2094.809"/>
+recimo to je primer enega, 
+<Sync time="2096.422"/>
+enega zelo uspešnega sistema. Drug sistem recimo, ki bi ga lahko 
+<Sync time="2100.763"/>
+omenil, je, #eee, nekaj, kar imamo, se imenuje Event Registry, torej Register dogodkov, ne, 
+<Sync time="2107.904"/>
+#eee, svetovnih, ne, torej 
+<Sync time="2110.357"/>
+v realnem času v živo spremljamo cel svet, ne, vse medije, ki jih pravzaprav lahko dobimo, vključno s STA-jem, ne. 
+<Sync time="2118.432"/>
+#Eem #eee #eee, 
+<Sync time="2120.63"/>
+torej 
+<Sync time="2121.33"/>
+imamo preko petdeset tisoč medijev, #eee, zajemamo v 
+<Sync time="2126.252"/>
+časovnem zamiku nekaj minut, ne, praktično vse, karkoli se 
+<Sync time="2129.605"/>
+zgodi, mi to opazimo, seveda v vseh možnih jezikih se to 
+<Sync time="2133.182"/>
+poroča, v vseh možnih formatih in tako naprej, ne. 
+<Sync time="2136.428"/>
+No, vse to mi naberemo, #eee, uredimo, vse te 
+<Sync time="2141.117"/>
+različne jezike obdelamo na ta način, da, 
+<Sync time="2144.002"/>
+#eee, jih tudi približno razumemo, kaj je noter v teh besedilih in 
+<Sync time="2148.246"/>
+iz dogajanja v svetu v živo delamo eno tako lepo, jasno sliko. No, to je recimo en produkt, ki 
+<Sync time="2155.303"/>
+#eee ki smo ga tudi pri nas naredili in, #eee, tudi ma 
+<Sync time="2159.156"/>
+kar nekaj deset, #eee, tudi velikih, pomembnih strank recimo v svetu, ne. 
+<Sync time="2164.303"/>
+Potem pa recimo v, čisto v 
+<Sync time="2166.785"/>
+lokalnem okolju, recimo, ne vem, če danes greste v Adrio Mobil pa kupite avtodom, 
+<Sync time="2171.792"/>
+#eee, z nekim dodatkom, 
+<Sync time="2174.657"/>
+dobite tudi, #eee #eee, senzorje pa 
+<Sync time="2178.446"/>
+elektroniko in mobilno aplikacijo, na koncu, no, 
+<Sync time="2182.923"/>
+to spet, #eee, 
+<Sync time="2184.336"/>
+napaja 
+<Sync time="2185.354"/>
+recimo umetno inteligenco, recimo 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ algoritmi umetne inteligence, da torej, kaj, avtodom je pravzaprav relativno kompleksen, majhen sistem kot pametni avto pa pametna hiša hkrati ne more biti, ne. 
+<Sync time="2196.132"/>
+In ko se človek not usede, je lahko kar malo izgubljen. No, in zdaj, 
+<Sync time="2199.76"/>
+zdaj pa ti algoritmi in te, ta sistem recimo, ki s(), ki ga je ena od naših ekip naredila, 
+<Sync time="2205.998"/>
+recimo to 
+<Sync time="2206.902"/>
+naredi tako enostavno, da pravzaprav ni človeku, #eee, več, #eee, 
+<Sync time="2212.07"/>
+bi rekel problem en tak sistem upravljati, ne. 
+<Sync time="2214.765"/>
+Recimo to sem jih zdaj nekaj naštel, ne, zdaj pa, #eee, takih sistemov recimo, 
+<Sync time="2220.506"/>
+ki so zanimivi, ki jih spet napajajo ti algoritmi, so, 
+<Sync time="2225.004"/>
+#eee, recimo računalniški, #eee, govor, ne, recimo, če greste na, 
+<Sync time="2229.281"/>
+ne vem, mislim, da tudi na STA-ju verjetno že uporabljate ali pa recimo na, #eee, radi() Televiziji Sloveniji včasih niti ne opazite, da 
+<Sync time="2238.128"/>
+poročila ne prebere, 
+<Sync time="2239.996"/>
+#eee 
+<Sync time="2241.239"/>
+#eee, ampak da jih prebere v bistvu pri() pravzaprav računalnik, ne. 
+<Sync time="2245.516"/>
+#Eem, in je, 
+<Sync time="2247.468"/>
+to je tako dobro, da, 
+<Sync time="2249.208"/>
+da je, 
+<Sync time="2250.112"/>
+jaz še slišim, no, recimo, da je to, #eee, računalnik, 
+<Sync time="2253.753"/>
+#eee, marsikdo pa ne sliši pa ne opazi, ne. 
+<Sync time="2256.503"/>
+#Eee, ne vem, takih stvari bi lahko še našteval, ne, tako da to so samo nekaj slovenskih, 
+<Sync time="2261.516"/>
+#eee 
+<Sync time="2262.344"/>
+#eee, 
+<Sync time="2263.099"/>
+izdelkov recimo, ki jih pa, saj pravim, jih je pa še nekaj več. 
+</Turn>
+<Turn speaker="spk2" startTime="2267.3" endTime="2419.283" fidelity="high">
+<Sync time="2267.3"/>
+Ja, to, #eee, vprašanje se da nedvomno pozitivno pritrditi. 
+<Sync time="2272.468"/>
+#Eee, ne samo za posamezne strokovnjake, za cele, #eee, za cele oddelke. 
+<Sync time="2277.666"/>
+Za cele oddelke, 
+<Sync time="2279.427"/>
+ki se ukvarjajo z določeno tematiko, določenimi roboti, 
+<Sync time="2283.649"/>
+#eee, jih, #eee, enostavno nekdo kupi in se ukvarjajo potem s to tematiko, #eee, nekje za, 
+<Sync time="2290.757"/>
+za vrati in čez določeno število let vidimo rezultat. 
+<Sync time="2295.416"/>
+#Eee, to se dogaja pri na primer hibridnih robotih, #eee, 
+<Sync time="2300.784"/>
+kjer imamo tako situacijo, tudi na področju mobilnih robotov. 
+<Sync time="2304.891"/>
+#Eee, seveda tudi posamezni strokovnjaki naši, 
+<Sync time="2308.923"/>
+#eee, 
+<Sync time="2309.997"/>
+so pri nas, migrirajo v tujino, 
+<Sync time="2312.662"/>
+se ukvarjajo z različnimi zadevami, tako da, #eem, bi rekel, s tega stališča je dogajanje zanimivo. 
+<Sync time="2319.103"/>
+#Eee, tako malo kot za vložek. 
+<Sync time="2321.119"/>
+#Eee, ne vem če poznate, #eee, da so Angleži 
+<Sync time="2325.226"/>
+leta devet() osemnajststo petinšestdeset pravzaprav, osemnajststo petinšestdeset, 
+<Sync time="2330.234"/>
+a ne, to je toliko pa toliko let nazaj, 
+<Sync time="2332.517"/>
+so sprejeli tako imenovani red flag law. 
+<Sync time="2336.561"/>
+In, s() sem prav izgovoril in ste upam, da razumeli. 
+<Sync time="2340.308"/>
+Torej šlo je za tak zakon, ki je, 
+<Sync time="2343.291"/>
+#eee, omejeval cestna vozila, zdaj sem tukaj pogledal, na hitrost šest celih štiri kilometra oziroma štiri milje na uro, 
+<Sync time="2351.162"/>
+#eee, in med drugim tudi pred takim vozilom je nekdo moral hoditi pa mahati z rdečo zastavo. 
+<Sync time="2357.251"/>
+A ne, tako so takrat rešili pravni problem. 
+<Sync time="2360.243"/>
+Zato. 
+<Sync time="2361.571"/>
+In pred podobno, #eee, pred podobnim, #eee, skoraj pred podobnim, tako dilemo, 
+<Sync time="2366.896"/>
+smo danes. Kako rešiti avtonomna vozila in točno to, kar ste vprašala, kdo je odgovoren 
+<Sync time="2372.094"/>
+za, za neko aktivnost robota od mobila? 
+<Sync time="2375.616"/>
+To dejansko, #eee, bi rekel vsaj splošni populaciji, 
+<Sync time="2379.796"/>
+ni, #eee, ni jasno, ni definirano. Jasno je to, 
+<Sync time="2383.063"/>
+definirano v industrijskih aplikacijah, tisti, ki pač naredi aplikacijo, mora to narediti v skladu s tem, tem, tem, tem standardom, 
+<Sync time="2391.209"/>
+#eee, in, #eee, potem je to varno, a ne, 
+<Sync time="2394.404"/>
+ta celica, ta robot se ne sme modificirati, v nasprotnem se to prekine, ta garancija za varnost. 
+<Sync time="2401.745"/>
+Ampak v splošni populaciji za robote pa to zdaj ni dorečeno in to je ena izmed trenutnih aktivnosti, 
+<Sync time="2407.898"/>
+ki ni čisto na področju etike, je pa v zraku v mednarodnih, bi rekel, teh dilemah. 
+<Sync time="2414.318"/>
+#Eee, preden bodo avtomobili postali resnično avtonomni, jasno bo treba pa to nekako rešiti. 
+</Turn>
+<Turn startTime="2419.283" endTime="2420.845">
+<Sync time="2419.283"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2420.845" endTime="2703.473" fidelity="high">
+<Sync time="2420.845"/>
+Lahko še jaz pokomentiram majčkeno to vprašanje te etike. Ravno, saj pravim, #eee, prej sem že povedal, ravno ta teden je, 
+<Sync time="2426.947"/>
+tri dni smo razpravljali na Svetu Evrope o tem, prihajajoči regulaciji, na temo, 
+<Sync time="2433.897"/>
+#eee #eee, človekove pravice in umetne inteligence, ki pa vključuje tudi robotiko, no. Recimo trenutno imamo 
+<Sync time="2441.641"/>
+en petdesetstranski dokument, okrog dvesto členov, 
+<Sync time="2445.673"/>
+ne, ki, 
+<Sync time="2446.895"/>
+#eee, osvetljujejo celo tematiko na 
+<Sync time="2450.12"/>
+množico načinov. Moram reči, da ta dokument je vredno 
+<Sync time="2453.209"/>
+pogledati, predvsem množica razmislekov, ki 
+<Sync time="2456.158"/>
+se pojavljajo ob tem, torej vse tele 
+<Sync time="2458.577"/>
+dileme, ki jih je, #eee, Marko omenil pa Aleš prejle, ne, 
+<Sync time="2462.515"/>
+so noter in še mnogo, mnogo več, ne. Torej ne gre samo za vprašanje, 
+<Sync time="2467.386"/>
+#eee, človekovih pravic, torej, #eee, potem to, kar je Marko omenjal, #eee, je ta 
+<Sync time="2473.709"/>
+odgovornost, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ ali pa, #eee, odgovornost, recimo, da tako prevedemo. 
+<Sync time="2479.535"/>
+#Eee, kdo je zdaj odgovoren, če gre kaj narobe, ne? 
+<Sync time="2482.442"/>
+Gre pa tudi za vprašanja, #eee, demokracije, recimo, a ne, torej 
+<Sync time="2487.165"/>
+kdo je zdaj odgovoren, če ...
+<Sync time="2490.084"/>
+#Eee, glejte, vsi uporabljamo recimo Google vsak dan, ne, to se nam zdi samo po sebi umevno, ampak, 
+<Sync time="2496.004"/>
+#eee, recimo en od teh členov recimo, ki sem jaz ga tudi do neke mere, #eee, obli() sooblikoval, 
+<Sync time="2503.549"/>
+je, 
+<Sync time="2504.623"/>
+#eee, 
+<Sync time="2505.845"/>
+na to temo, a ne, torej 
+<Sync time="2507.394"/>
+recimo, ko mi damo nek, 
+<Sync time="2509.019"/>
+nekaj v en iskalnik, kot je Google, nam Google vrne rezultat, ne. 
+<Sync time="2513.072"/>
+Tako da teh rezultatov je največkrat, ne vem, na milijone možnih rezultatov, ki nam jih pokaže, ampak mi vidimo samo p() prvo, 
+<Sync time="2520.277"/>
+#eee, prvo stran, ne. In tam obstaja en izrek, ne, 
+<Sync time="2523.396"/>
+kam skriti, #eee, 
+<Sync time="2525.085"/>
+človeško truplo? Najboljše ga je skriti na drugo stran Googla, ne, 
+<Sync time="2529.362"/>
+nihče ne pogleda več tistega, ne. 
+<Sync time="2531.399"/>
+Torej, dobro, to je samo tako, #eee, hec, ampak, ki ima pravzaprav resne posledice, a ne. 
+<Sync time="2536.449"/>
+Namreč s tem, kako nam en tak iskalnik pokaže informacije, s tem oblikuje pravzaprav 
+<Sync time="2542.317"/>
+javno mnenje, ne. 
+<Sync time="2544.036"/>
+In če, če 
+<Sync time="2545.619"/>
+nekritično uporabljamo take sisteme, kot je Google ali pa Facebook ali pa še marsikaj drugega, 
+<Sync time="2551.524"/>
+s tem lahko nekdo dejansko oblikuje javno mnenje, lahko 
+<Sync time="2555.886"/>
+razdeli nacijo, lahko jo združi, lahko veliko st(), #eee, škode naredi, ne. 
+<Sync time="2561.381"/>
+Vojna ni potrebna, najlažje je 
+<Event desc="laugh" type="noise" extent="instantaneous"/>
+, veliko lažje je recimo s 
+<Sync time="2565.752"/>
+pravilnim rangiranjem informacij, s selektivnim rangiranjem informacij recimo, 
+<Sync time="2570.708"/>
+#eee, narediti, #eee, tisto, kar hočeš, ne. Ne vem, to, vsa to, vsa ta vprašanja so 
+<Sync time="2575.97"/>
+recimo naslovljena, 
+<Sync time="2577.807"/>
+#eee, ne da so odgovori povsod, ampak predvsem je pa, 
+<Sync time="2581.499"/>
+#eee, zanimiva izhodišča so, a ne, množice ljudi, torej strokovnjakov iz celega sveta, a ne, ki so, 
+<Sync time="2588.662"/>
+ki smo nekako združeni v recimo v tem Svetu Evrope. No, #eee, tako da hočem reči, da je, 
+<Sync time="2593.745"/>
+vsa ta vprašanja so noter in še veliko, veliko več, ne, torej še stvari, ki jih niso čisto očitne pa se pojavljajo, ne. 
+<Sync time="2602.911"/>
+#Eem, 
+<Sync time="2603.603"/>
+tako da, #eee, je pa lahko to tema sama za sebe, ne. 
+<Sync time="2608.58"/>
+Poglejte, ja, v tem je kar nekaj pogovorov. Najprej, #eee 
+<Sync time="2612.23"/>
+#eee, Slovenija dobiva zdaj v naslednjih mesecih ta nacionalni program za umetno inteligenco, ki je, moram reči, zelo dober dokument, 
+<Sync time="2619.817"/>
+pripravljen s strani, #eee, Ministrstva za javno upravo, to je recimo en tak zelo fundamentalen dokument, ker smo 
+<Sync time="2626.789"/>
+vsi sodelovali, in mislim, da lahko služi za 
+<Sync time="2630.366"/>
+dobro izhodišče za nadaljnje delo. Sicer pa, 
+<Sync time="2633.145"/>
+#eee, 
+<Sync time="2633.93"/>
+recimo en tak hiter praktičen odgovor. Torej, 
+<Sync time="2636.476"/>
+izrazito jaz mislim, da bi bilo dobro, da se o tem, o teh tehnologijah, 
+<Sync time="2641.505"/>
+#eee 
+<Sync time="2642.345"/>
+#eee, da, #eee, torej je treba jih prestaviti v izobraževanje, treba jih je demistificirati, zato ker res niso zelo komplicirane, ne, 
+<Sync time="2651.332"/>
+#eee, in, #eee #eee, to gre predvsem za neki() en() eno množico prijemov, ki ni(), ki je pravzaprav en 
+<Sync time="2659.67"/>
+s srednješolskim znanjem matematike človek že lahko obvladuje, ne. Torej, 
+<Sync time="2664.465"/>
+izobraževanje jaz mislim, da je izrazito pomembno, potem pa tudi, #eee, recimo to spodbujanje, 
+<Sync time="2670.058"/>
+#eee, 
+<Sync time="2670.983"/>
+v podjetjih, 
+<Sync time="2672.129"/>
+#eee, 
+<Sync time="2673.033"/>
+kjer mislim, da ta zrelost narašča, ni pa še čisto tam, da pravzaprav 
+<Sync time="2677.989"/>
+iz tega lahko pravzaprav vsi nekaj imamo, ne, 
+<Sync time="2681.129"/>
+oziroma da je to ena lepa priložnost za inovacije pa tudi za kompetitivnost na trgu, ne. 
+<Sync time="2686.752"/>
+Ni problem toliko znanja, tam je bolj, #eee, strah, #eee, da 
+<Sync time="2690.662"/>
+morda 
+<Sync time="2691.787"/>
+je to, da je prevelika investicija, da je prekomplicirano in tako naprej, odgovor je: ni. 
+<Sync time="2696.722"/>
+Ni velika investicija in ni prekomplicirano, samo treba je narediti prvi, 
+<Sync time="2701.148"/>
+prvih nekaj korakov. 
+</Turn>
+<Turn speaker="spk2" startTime="2703.473" endTime="2792.916" fidelity="high">
+<Sync time="2703.473"/>
+Najprej, jaz si ne predstavljam to kot, #eee, 
+<Sync time="2707.059"/>
+take, 
+<Sync time="2708.451"/>
+#eee, 
+<Sync time="2709.546"/>
+bi rekel, planirane ali pa, ali pa, 
+<Sync time="2712.975"/>
+#eee, kot koordinirane dogodke, ampak si predstavljam, da bojo 
+<Sync time="2716.764"/>
+to, kar je prej, #eee, kolega Grobelnik omenjal, 
+<Sync time="2719.756"/>
+in to bi bilo res potrebno narediti. 
+<Sync time="2721.996"/>
+#Eee, te vsebine 
+<Sync time="2724.351"/>
+nemudoma 
+<Sync time="2725.815"/>
+v razne stopnje izobraževanja, 
+<Sync time="2728.743"/>
+ni nemogoče. 
+<Sync time="2729.995"/>
+To je največja dobra usluga, ke si jo lahko naredimo. 
+<Sync time="2733.347"/>
+Izobraževanje za jutri, 
+<Sync time="2735.278"/>
+#eee, 
+<Sync time="2736.521"/>
+vse, vseh današnjih generacij. 
+<Sync time="2739.195"/>
+Ker ta miselnost bi potem najhitreje prišla v, v vse ostale aplikacije, ne, to, kar vi zdaj sprašujete, 
+<Sync time="2746.612"/>
+dejansko bi na ta način infiltrirali te algoritme. 
+<Sync time="2750.092"/>
+Trenutno znanje, trenutni state of the art 
+<Sync time="2752.842"/>
+v, v vse široke pore, vse različne aplikacije, 
+<Sync time="2757.077"/>
+naj si bo družboslovja, 
+<Sync time="2759.169"/>
+#eee, naravoslovja, 
+<Sync time="2760.879"/>
+#eee, razne druge tehnične stvari, vsa področja bi lahko takoj s tem profitirala, 
+<Sync time="2766.565"/>
+a ne. Namesto s() da znamo seštevati pa odštevati vsi, ki končajo srednjo pa ne vem kakšno šolo, 
+<Sync time="2772.633"/>
+bi morali še te stvari obvladati, poleg mogoče kakšnih drugih, #eee, 
+<Sync time="2776.274"/>
+še, še takih. 
+<Sync time="2777.772"/>
+Tako da to vidim kot praktično zelo veliko priložnost, 
+<Sync time="2781.922"/>
+zelo veliko priložnost 
+<Sync time="2783.547"/>
+in upam, da bo še kdo to priložnost na ta način začutil 
+<Sync time="2787.345"/>
+pa da skupaj, #eee, 
+<Sync time="2788.97"/>
+se tudi v resnici kaj naredi in da je to dobra popotnica za prihodnost. 
+</Turn>
+<Turn startTime="2792.916" endTime="2794.529">
+<Sync time="2792.916"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2794.529" endTime="2878.245" fidelity="high">
+<Sync time="2794.529"/>
+#Eee, no, mogoče bi tukaj omenil še en vidik, #eee, ki smo ga mi na razstavi, 
+<Sync time="2801.168"/>
+#eee, tudi, #eee, prikazali. Torej vidik tega začetnega obdobja slovenske robotike 
+<Sync time="2806.93"/>
+in to je izobraževalni sistem. 
+<Sync time="2809.795"/>
+#Eee, prvi učbenik, #eee, 
+<Sync time="2812.587"/>
+je, ki ga imamo na razstavi, je iz leta tisoč devetsto osemdeset, 
+<Sync time="2816.724"/>
+torej gre za zbirko, ki jo je za nas zbral, #eee, profesor Alojz Kralj. 
+<Sync time="2822.644"/>
+Gre za učbenike tako v slovenskem kot v angleškem jeziku. 
+<Sync time="2826.709"/>
+In, #eee, izobraževalni sistem je praktično sledil takoj, 
+<Sync time="2830.528"/>
+#eee, ne samo na, #eee, ljubljanski Fakulteti za elektrotehniko, kmalu tudi v Mariboru na Fakulteti za elektrotehniko, računalništvo in informatiko, 
+<Sync time="2840.181"/>
+Fakulteto za strojništvo v Ljubljani, torej 
+<Sync time="2842.452"/>
+Slovenija ima, #eee, kar bogat, #eee, bazen, #eee, zelo kvalitetnega kadra 
+<Sync time="2848.639"/>
+in, #eee, dobro izobraževalni sistem, resda nekateri grejo v tujine, ne, ampak, 
+<Sync time="2853.85"/>
+#eee, jaz mislim, da če tega sistema takrat 
+<Sync time="2856.387"/>
+ne bi postavili, #eee, bi tudi, 
+<Sync time="2858.679"/>
+#eee, danes najbrž ne govorili o tovarni 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ v Sloveniji. 
+<Sync time="2862.574"/>
+Torej, tukaj je bilo dovolj, #eee, sposobnih ljudi, da so se investitorji sploh odločili za 
+<Sync time="2868.218"/>
+to potezo. 
+<Sync time="2869.928"/>
+In to je tudi eden izmed, izmed vidikov razvoja v Sloveniji, torej kadra znamo izobraževati in imamo ljudi, ki se, #eee, to naučijo. 
+</Turn>
+<Turn startTime="2878.245" endTime="2879.997">
+<Sync time="2878.245"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2879.997" endTime="2882.352" fidelity="high">
+<Sync time="2879.997"/>
+Če dovoliš meni besedo, lahko povem tri ...
+</Turn>
+<Turn startTime="2882.352" endTime="2886.171">
+<Sync time="2882.352"/>
+<Background time="2882.352" type="shh" level="high"/>
+
+<Background time="2886.159" type="other" level="off"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2886.171" endTime="3243.958" fidelity="high">
+<Sync time="2886.171"/>
+Recimo prihodnost, torej, #eee, predvsem gre za to, da, 
+<Sync time="2890.257"/>
+#eee, 
+<Sync time="2891.17"/>
+zakaj se danes sploh pogovarjamo o umetni inteligenci. 
+<Sync time="2894.068"/>
+Ne zato, ker je bilo toliko novih algoritmov v zadnjem času izumljenih, to so pretežno algoritmi tam nekje iz, #eee, 
+<Sync time="2901.388"/>
+#eee, tudi iz petdesetih let, nevronske mreže so bile takrat nekako iznajdene pa nekako v devetdesetih, #eee, so bile zelo popularne, ampak potem, #eee, zakaj so pa zdaj, 
+<Sync time="2911.776"/>
+#eee, prišle. 
+<Sync time="2913.125"/>
+In to je zelo preprost mehanizem pravzaprav, sliši se komplicirano, ampak zelo preprost mehanizem. 
+<Sync time="2918.026"/>
+Zato ker je hitrost računalnikov se tako nenormalno povečeva(), povečala, ne vem, v zadnjih desetih, petnajstih letih, da 
+<Sync time="2926.407"/>
+kar naenkrat ti relativno stari, 
+<Sync time="2929.369"/>
+kolikor toliko okorni mehanizmi, lahko rečemo, da so okorni, 
+<Sync time="2933.328"/>
+#eee #eee, ob tej strahoviti računalniški moči, #eee, so nekako, #eee, 
+<Sync time="2939.006"/>
+prišli tisto mejo, #eee #eee, doseganja rezultatov, ki prej je bila čisto nemogoča. Torej, 
+<Sync time="2945.426"/>
+računalnik je dejansko pri(), #eee, pridobil sposobnost vida, 
+<Sync time="2949.491"/>
+pri() sposobnost sluha in še nekaj drugih sposobnosti, zato se danes pogovarjamo pravzaprav o umetni inteligenci. 
+<Sync time="2955.962"/>
+Ampak, 
+<Sync time="2957.545"/>
+ta umetna inteligenca, ki jo danes poznamo, je pravzaprav nekaj, kar, #eee, lahko rečemo, da je to ozka, 
+<Sync time="2962.595"/>
+ozka umetna inteligenca. To je nekaj, kar, #eee, s temi sistemi rešujemo 
+<Sync time="2966.851"/>
+kompleksne, ampak zelo ozke probleme, 
+<Sync time="2969.121"/>
+ne. 
+<Sync time="2969.673"/>
+Ne vem, prepoznamo sliko, prepoznamo obraz, prepoznamo, 
+<Sync time="2973.377"/>
+#eee, govor in tako naprej, take stvari znamo delati. 
+<Sync time="2976.963"/>
+To, kar pa prihaja zdaj v naslednjih petih do desetih letih, bo pa nekaj, kar bo veliko bolj splošna umetna inteligenca, ki bo znala zajeti veliko bolj kompleksne informa(), #eee, info(), #eee, sisteme, ne, 
+<Sync time="2988.093"/>
+#eee, ki, ki jih pa človek sam za sebe zelo težko obvladuje, ne. 
+<Sync time="2992.803"/>
+Prej sem dal primer ene tovarne, ampak, #eee, 
+<Sync time="2995.901"/>
+in to je že signal za te prihodnje, prihajajoče se umetne inteligence, potem 
+<Sync time="3001.091"/>
+eno zelo pomembno področje, ki bo takrat, ko se bo zgodilo, 
+<Sync time="3004.307"/>
+#eee, naredilo en tak naprej, je, 
+<Sync time="3007.066"/>
+nekaj, kar je, v angleščini temu rečemo common sense reasoning, #eee, po domače bi rekli, 
+<Sync time="3011.916"/>
+raz() #eee #eee #eee, razmišljanje ali pa sklepanje z zdravo pametjo, recimo, da bi bil to en tak prevod. 
+<Sync time="3018.536"/>
+Ko bo računalnik zares razumel besedilo, ne, ko bo, 
+<Sync time="3022.346"/>
+#eee #eee, torej ...
+<Sync time="3024.277"/>
+Namreč vse človeško znanje je skrito v besedilih, ne, 
+<Sync time="3027.778"/>
+#eee, in ta moment računalnik še, še ne zna tega znanja, 
+<Sync time="3032.649"/>
+#eee, izločati iz vse() vseh teh silnih, #eee, besedil, ki so spravljena nekje. 
+<Sync time="3038.547"/>
+Ko se bo to zgodilo, in to je za pričakovati v nekih petih, desetih letih, 
+<Sync time="3042.494"/>
+bo to ogromen skok. 
+<Sync time="3044.501"/>
+Še en skok, ki se bo zgodil, so kvantno računalništvo, a ne, kjer bo pravzaprav obrnil na glavo reševanje teh supertežkih problemov, ki jih danes se, 
+<Sync time="3052.5"/>
+tako rekoč, sploh ne moremo dotakniti, ne. 
+<Sync time="3054.528"/>
+Torej to je nekaj prihajajočih, #eee 
+<Sync time="3057.244"/>
+#eee, mejnikov, ki jih že vidimo, da prihajajo, 
+<Sync time="3059.795"/>
+ne. 
+<Sync time="3060.367"/>
+#Eee, tako da, #eee, ta stvar gre absolutno naprej. 
+<Sync time="3064.123"/>
+Mi smo 
+<Sync time="3065.038"/>
+kar zraven, moram reči, #eee, nikakor se pa ni ustavila, ne. 
+<Sync time="3069.885"/>
+Pravzaprav najboljši slovenski odjemalec naše tehnologije je kar STA sam. 
+<Sync time="3074.256"/>
+#Eem #eee, tako da, #eee, torej sodelovanje kar na nekaj projektih, #eee, zelo uspešno, 
+<Sync time="3080.755"/>
+Aljoša Rehar in, #eee, ekipa, ne. 
+<Sync time="3083.547"/>
+#Eee, na vaši strani, #eee, torej, #eee, kjer 
+<Sync time="3087.218"/>
+u(), #eee, kjer gre predvsem za 
+<Sync time="3089.565"/>
+ta sistem, ki sem ga že prej omenil za spremljanje svetovnih medijev pa tudi nekako, #eee, 
+<Sync time="3094.479"/>
+do neke mere r() razumevanje, #eee, teh, #eee, novičarskih tekstov, ki jih je pa veliko, ne. 
+<Sync time="3100.135"/>
+#Eee, torej kaj drugi delajo recimo, 
+<Sync time="3102.639"/>
+#eee, druge 
+<Sync time="3104.031"/>
+stranke, recimo, ki jih imamo, ne, za ta, ta naš sistem je, 
+<Sync time="3107.948"/>
+recimo, Bloomberg to uporablja za, 
+<Sync time="3110.523"/>
+#eee, spremljanje 
+<Sync time="3112.263"/>
+brandov, ne, blagovnih znamk po celem svetu, recimo, 
+<Sync time="3116.752"/>
+potem 
+<Sync time="3117.495"/>
+firma Stratford, to je Strategic Forcasting, 
+<Sync time="3120.436"/>
+ne vem, 
+<Sync time="3120.979"/>
+ki je taka geopolitična firma, za geopolitično 
+<Sync time="3124.343"/>
+planiranje, uporablja ta naš sistem za razumevanje, kaj se provza(), 
+<Sync time="3128.532"/>
+pravzaprav dogaja v svetu, 
+<Sync time="3129.954"/>
+ne. 
+<Sync time="3130.391"/>
+To je recimo nekaj takih uporabnikov. 
+<Sync time="3132.343"/>
+Če se pa pogovarjamo o lažnih novicah ali pa zavajajočih novicah, ne, 
+<Sync time="3137.596"/>
+to je pa, #eee, še vedno težek problem, ki ga, pravzaprav dokler 
+<Sync time="3142.667"/>
+računalnik ne bo razumel besedila, 
+<Sync time="3144.844"/>
+ne, 
+<Sync time="3145.621"/>
+#eee, na podoben način, kot ga človek razume, 
+<Sync time="3148.371"/>
+#eee #eee, tega ne bomo mogli narediti. Trenutno, #eee, se 
+<Sync time="3152.563"/>
+pravzaprav to detekcija lažnih novic dogaja bolj ali manj, 
+<Sync time="3156.107"/>
+#eee, ročno s pomočjo računalnika, nikakor pa ne, da bi računalnik sam to uspel, 
+<Sync time="3161.063"/>
+#eee, identificirati, ker je, 
+<Sync time="3162.739"/>
+zakaj? Najlažje je detektirati 
+<Sync time="3165.434"/>
+čisto laž, #eee, ali pa čisto resnico, to j(), to je, to je zelo enostavno. 
+<Sync time="3169.775"/>
+Problem so polresnice ali pa pollaži, ne, 
+<Sync time="3172.503"/>
+#eee, kjer pa je lahko stvar interpretacije ali pa pogleda ali pa zornega kota in 
+<Sync time="3177.892"/>
+tisto je pa, za trenutno tehnologijo, absolutno pretežko, ne. 
+<Sync time="3181.817"/>
+Torej, treba je vedeti, da danes računalnik Rdeče kapice 
+<Sync time="3185.721"/>
+ne razume, ne. 
+<Sync time="3187.037"/>
+#Eee 
+<Sync time="3187.962"/>
+#eee, veliko bolj enostavnih stvari, kot so 
+<Sync time="3190.487"/>
+Rdeča kapica, #eee, z današnjo tehnologijo, 
+<Sync time="3193.725"/>
+pravzaprav ne razumemo, zakaj, 
+<Sync time="3195.902"/>
+#eee, kaj se pravzaprav dogaja v tistem besedilu, a ne, samo tako za pri() primerjavo hočem povedati. No, ampak 
+<Sync time="3203.213"/>
+načrti, ne, 
+<Sync time="3204.72"/>
+jezikovne skupnosti in skupnosti, ki se ukvarja z umetno inteligenco, znanstvene pa je, recimo do dvajset, trideset, 
+<Sync time="3211.119"/>
+da se bojo take stvari, #eee, znale delati takrat. 
+<Sync time="3214.654"/>
+Recimo, #eee, lahko Aleš pa Marko povesta ali pa gospod, #eee, Jarh, recimo, zdaj, #eee, Božič, ne, pa lahko obdarujete otroke z nakupom, 
+<Sync time="3224.808"/>
+#eee, 
+<Sync time="3225.614"/>
+Lego mindstorm. #Eee, to se mi zdi 
+<Sync time="3228.351"/>
+zelo preprost, #eee #eee, zelo prijazen način, kako, 
+<Sync time="3232.722"/>
+#eee, lahko vsvo() svoj dom prinesete znanje pa, #eee, kako delati 
+<Sync time="3237.699"/>
+kar, kar sposobne robote, recimo, ne. 
+<Sync time="3240.436"/>
+Marko, Aleš, ali? 
+<Sync time="3241.921"/>
+Kdo bo nas() ...? 
+</Turn>
+<Turn speaker="spk2" startTime="3243.958" endTime="3275.146" fidelity="high">
+<Sync time="3243.958"/>
+Jaz bom pa izkoristil tole pa se naši voditeljici zahvalil za, 
+<Sync time="3248.053"/>
+za prijetno vodenje 
+<Sync time="3249.721"/>
+in, #eee, pravzaprav vas povabil, da morate večkrat, #eee, to temo ali pa podobne teme načeti, 
+<Sync time="3256.12"/>
+#ee, v raznih krožkih, klubih, #eee #eee, teh središčih. 
+<Sync time="3262.455"/>
+Na ta način bomo, #eee, vse to, 
+<Sync time="3266.083"/>
+vse te informacije razširili, 
+<Sync time="3268.226"/>
+se jih bolj zavedali 
+<Sync time="3269.86"/>
+in, #eee, upam, da bo potem zanimanje in pa tudi, #eee, napredek na teh področjih. 
+</Turn>
+<Turn speaker="spk1" startTime="3275.146" endTime="3299.120" fidelity="high">
+<Sync time="3275.146"/>
+Samo, #eee, ker smo že slišali, da se bliža božič. 
+<Sync time="3279.601"/>
+#Eee, kot vse kaže, bi lahko bilo eno darilo za otroke 
+<Sync time="3282.953"/>
+tudi to, da si pridejo k nam pogledat razstavo. 
+<Sync time="3286.369"/>
+#Eee, ne vemo še čisto točno, koliko bo, #eee, kako in koliko bo ta muzej odprt, ampak do vikenda se bodo, 
+<Sync time="3293.201"/>
+#eee, stvari, mislim, da razjasnile. Drugače pa še enkrat hvala za 
+<Sync time="3296.998"/>
+povabilo in še kdaj. 
+</Turn>
+</Section>
+</Episode>
+</Trans>

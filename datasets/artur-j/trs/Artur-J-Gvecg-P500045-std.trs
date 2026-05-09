@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Mitja" audio_filename="Artur-J-Gvecg-P500045-avd" version="8" version_date="220121">
+<Topics>
+<Topic id="to1" desc="Spletni dogodek"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Artur-J-G3088" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk2" name="Artur-J-G3087" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+<Speaker id="spk3" name="Artur-J-G3089" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="2522.648" topic="to1">
+<Turn startTime="0" endTime="8.049" speaker="spk1" fidelity="high">
+<Sync time="0"/>
+Lepo pozdravljeni, upam, da se slišimo, samo morda kako povratno informacijo? 
+<Sync time="6.244"/>
+Je okej? 
+<Sync time="7.744"/>
+Ja? 
+</Turn>
+<Turn startTime="8.049" endTime="8.973">
+<Sync time="8.049"/>
+<Background time="8.049" type="speech" level="high"/>
+
+<Background time="8.973" type="other" level="off"/>
+</Turn>
+<Turn speaker="spk1" startTime="8.973" endTime="718.584" fidelity="high">
+<Sync time="8.973"/>
+Ja, hvala lepa. 
+<Sync time="10.469"/>
+#Eee, torej naprej zahvala, da imava tudi midve priložnost predstaviti to, za najine pojme sila pomembno raziskavo, ki pa je seveda še v začetni fazi, 
+<Sync time="21.772"/>
+in bova z veseljem z vami podelili, 
+<Sync time="24.954"/>
+#eee, nekaj izsledkov, ki pa sva jih že doslej uspeli pridobiti. 
+<Sync time="29.813"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="30.468"/>
+Torej, #e, neizpodbitno je dejstvo, da smo nekako v zadnjem času priča starajoči se populaciji. 
+<Sync time="38.672"/>
+#Eee, tale slika nam tukaj prikazuje situacijo v Evropski uniji, v letu dva tisoč dvajset, predstavlja delež starejših nad petinšestdeset let, 
+<Sync time="48.545"/>
+že dvajset cela šest odstotka. 
+<Sync time="51.625"/>
+#Eee, kakšne so predikcije za prihodnje? Če pogledamo še naslednje podatke, lahko vidimo, da tam nekje že v letu dva tisoč petdeset 
+<Sync time="60.313"/>
+lahko pričakujemo še naraščanje tega deleža starejših, 
+<Sync time="64.53"/>
+in sicer ta delež se bo počasi približeval trideset od(), tridesetim odstotkom. 
+<Sync time="70.435"/>
+In, #e, kje pravzaprav tukaj vidimo težave, težav s starajočo populacijo je veliko, ampak če se nekako skušamo osredotočiti na same domove za starejše, 
+<Sync time="81.147"/>
+naj povem to, da v Sloveniji skoraj pet procentov starejše populacije prebiva v 
+<Sync time="87.304"/>
+domovih za starejše oziroma različnih oblikah institucionalne oskrbe. 
+<Sync time="92.265"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="92.985"/>
+#Eee, seveda imamo po različnih podatkih, 
+<Sync time="96.545"/>
+#eee, informacije, da bi teh bilo še več, 
+<Sync time="99.91"/>
+#e, če bi seveda 
+<Sync time="101.411"/>
+naše kapacitete domov za starejše to omogočale, tam nekje med devet pa do dvanajst tisoč 
+<Sync time="107.673"/>
+je še tistih, ki čakajo na prosta mesta v domovih. 
+<Sync time="111.508"/>
+In, #e, kje se sedaj izkazuje ta velik problem? 
+<Sync time="115.581"/>
+Torej, starejša populacija, ki biva v domovih za starejše, ima že v osnovi 
+<Sync time="121.448"/>
+polg same starosti tudi veliko nekih pridruženih bolezni, 
+<Sync time="126.336"/>
+#e, kar se je zlasti v pandemiji covida izkazalo kot zelo kritično, 
+<Sync time="131.604"/>
+saj je največji delež okužb in pa tudi smrtnosti bil ravno v domovih za starejše, vsi vemo, zakaj. 
+<Sync time="139.35"/>
+V času pandemije so podobne oblike, kjer se združujejo ljudje, lahko bile na neki način sproščene, šole smo zaprli, fakultete smo zaprli, 
+<Sync time="148.542"/>
+#eee, v podjetjih oziroma različnih organizacijah smo se odločali za delo od doma. 
+<Sync time="155.25"/>
+Oskrbovanci domov za starejše pa niso mogli nikamor, morali so ostati v teh svojih okoljih. 
+<Sync time="163.053"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ Zdaj, 
+<Sync time="164.32"/>
+#eee, zakaj sva se s kolegico odločili, nekako že dalj časa se ukvarjava z arhitekturo domov za starejše, tudi na fakulteti v okviru različnih seminarjev, 
+<Sync time="174.37"/>
+ampak nekako v zadnje pol leta pa zelo intenzivno prav z vprašanjem, ali ima kakovost te arhitekture kakšen koli 
+<Sync time="184.287"/>
+vpliv 
+<Sync time="185.254"/>
+na, v bistvu, bomo rekli, preprečitev tveganja za širjenje okužbe, 
+<Sync time="191.223"/>
+bomo rekli, različnih respiratornih bolezni, seveda delamo pa na primeru 
+<Sync time="196.033"/>
+širjenja okužbe z virusom SARS-Covid-dva. 
+<Sync time="199.735"/>
+Zdaj, zelo pomembno je tudi dejstvo, žalostno dejstvo, da 
+<Sync time="203.261"/>
+Slovenija na državni ravni v zadnjih petnajstih letih ni zgradila nobenega doma za starejše, dogajajo se gradnje posameznih domov 
+<Sync time="212.161"/>
+v okviru, #eee, posameznih investitorjev s koncesijami, 
+<Sync time="217.63"/>
+kjer pa je prepoznan predvsem, bom rekla, #e, ta ekonomski, torej želja po nekem ekonomskem učinku in se nekoliko manj pozornosti daje na samo kakovost. 
+<Sync time="229.193"/>
+Zdaj, kar se tiče te raziskave, kot sem že omenila, 
+<Sync time="233.742"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ želiva nekako izluščiti 
+<Sync time="236.109"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ bi lahko iz najinega področja, ker sva obe arhitektki, 
+<Sync time="240.03"/>
+poiskali nekatere parametre v načrtovanju domov za starejše, 
+<Sync time="245.228"/>
+pri katerih bi se izkazalo, da imajo vpliv 
+<Sync time="248.471"/>
+na širjenje okužbe. 
+<Sync time="250.343"/>
+#Eee, kar se je izkazalo v lanskem letu, v teh okoljih, je bilo zelo pravzaprav kritično, sama izolacija v domovih je pripomogla k temu, 
+<Sync time="260.591"/>
+da je veliko starostnikov začutilo neke druge težave, stiske, predvsem psihološke stiske. 
+<Sync time="266.743"/>
+In sedaj ravno iskanje te korelacije bi lahko vplivalo, da bi 
+<Sync time="271.66"/>
+nekako 
+<Sync time="273.118"/>
+pripravili neke smernice, kako oblikovati, 
+<Sync time="276.415"/>
+#e, domove za starejše ali pa preoblikovati obstoječe domove, 
+<Sync time="280.5"/>
+da bi bivanje v času podobnih situacij, torej, 
+<Sync time="284.59"/>
+#eee, epidemije, tudi vi(), #eee, ta() raznoraznih virusov, tudi virusu gripe, lahko bilo kakovostnejše. 
+<Sync time="292.371"/>
+
+<Event desc="surrounding sound" type="noise" extent="instantaneous"/>
+
+<Sync time="293.037"/>
+#Eee, sedaj nekaj ugotovitev smo že uspeli pridobiti, ampak kot rečeno, moram povedati, da raziskava deluje zelo počasi. 
+<Sync time="301.76"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ V raziskavo sva nekako vključili, 
+<Sync time="305.13"/>
+#e, na podlagi prejetih informacij o številu okužb 
+<Sync time="309.704"/>
+različne tipe domov, torej večje, manjše, z večjim številom okužb, z manjšim številom okužb, 
+<Sync time="315.676"/>
+metodološko sva pristopili k temu najprej s pripravo anketnih vprašalnikov, 
+<Sync time="321.278"/>
+izmed izbranih petdesetih domov sva v prvem, 
+<Sync time="325.235"/>
+torj v prvi, v prvem poskusu dobili 
+<Sync time="328.213"/>
+le deset vprašalnikov, sedaj se počasi prebijava nekako dalje, izvajava že razgovore s, 
+<Sync time="335.141"/>
+seveda, posameznimi direktorji domov, tako da tudi moram reči, 
+<Sync time="340.718"/>
+da neke podpore s strani, #e, NIJZ-ja, da bi pridobili informacije o številu okužb, 
+<Sync time="348.791"/>
+doslej nisva dobili, ker v bistvu naj, #e, ne bi smeli teh podatkov pridobiti, tako da 
+<Sync time="354.968"/>
+kot pravim, zelo se vleče pridobivanje osnovnih podatkov, ne, kar otežuje 
+<Sync time="360.376"/>
+najino raziskavo, ampak 
+<Sync time="362.479"/>
+tudi po študiji svetovn() svetovno razpoložljive literature in pa na podlagi nekaterih 
+<Sync time="368.763"/>
+pregledov anketnih vprašalnikov in pa razgovorov z direktorji seveda ugotavljava 
+<Sync time="373.427"/>
+naslednje: 
+<Sync time="374.567"/>
+#eee, 
+<Sync time="375.829"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ število prebivalcev v posamezni sobi, torej v prednosti so domovi 
+<Sync time="380.766"/>
+z enoposteljnimi sobami. 
+<Sync time="383.032"/>
+Izkazalo se je, #eee, da je predstavljalo velik problem rdeča cona v samem domu, ker so bile potrebne preselitve posameznih oskrbovancev, 
+<Sync time="393.155"/>
+kar je še povečevalo tveganja za širjenje okužbe med tistimi, ki so bili v nekem trenutku zdravi. 
+<Sync time="399.725"/>
+#Eee, velika, bomo rekli, 
+<Sync time="402.849"/>
+dobrodošla zadeva, kot velika dobrodošla zadeva se je izkazalo dejstvo, da so tisti domovi, ki so imeli balkončke v svojih sobah, 
+<Sync time="412.491"/>
+#eee, nekako ohranjali to, 
+<Sync time="415.49"/>
+bomo rekli, lažje, 
+<Sync time="417.593"/>
+#eee, bivanje teh stanovalcev, saj je to bil skoraj edini prostor, kamor so lahko 
+<Sync time="422.706"/>
+oskrbovanci posameznih domov v času dveh, treh mesecev izolacije šli, razen da so bivali v svojih sobah. 
+<Sync time="429.898"/>
+Veliko domov je v času najhujšega izbruha, 
+<Sync time="434.531"/>
+#eee, nekako preprečilo druženje v skupnih prostorih, 
+<Sync time="438.441"/>
+tudi če bi to druženje bilo na varni razdalji, kakor smo šli() slišali v prejšnjih predavanjih, 
+<Sync time="443.8"/>
+je oteženo bilo ravno to, da veliko skupnih prostorov ni ustrezno prezračevanih, torej 
+<Sync time="449.619"/>
+oskrbovanci so jedli v svojih sobah zajtrke, kosila, večerje, 
+<Sync time="453.763"/>
+bivali v svojih sobah, niso se družili, torej balkon tukaj predstavlja edino neko območje, kamor lahko 
+<Sync time="460.22"/>
+nekdo stopi, 
+<Sync time="461.836"/>
+#eee, izven obsega svoje sobe. 
+<Sync time="464.319"/>
+#Eee, izkazala seveda zelo kritično tudi mešanje teh varnih, čistih poti in poti, ki so bile okužene z 
+<Sync time="472.67"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ virusom, 
+<Sync time="474.065"/>
+in pa med drugim seveda je bilo veliko govora ravno o prezračevanju. 
+<Sync time="478.992"/>
+In tukaj, kar se tiče tega prezračevanja, lahko rečem, da 
+<Sync time="483.822"/>
+pravzaprav prihajalo do poplave podatkov, tako v prebranih, v nekako, bomo rekli, svetovni literaturi 
+<Sync time="490.937"/>
+kakor tudi do poplave nekih podatkov, ki so jih dobivali direktorji domov. 
+<Sync time="496.257"/>
+#Eee, nekako naj ne bi uporabljali prezračevalnega sistema, ker je ta, #eee, 
+<Sync time="502.935"/>
+lahko virus širjenja okužbe, kot smo slišali v prejšnjem predavanju, 
+<Sync time="507.1"/>
+#eee, profesorja Boerstre, 
+<Sync time="508.977"/>
+je ravno pojasnil, da dober prezračevalni sistem pripomore k boljšemu zraku in k manj() manjši možnosti širjenja okužbe. 
+<Sync time="517.462"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ In tukaj, kaj je posledica tega, 
+<Sync time="520.751"/>
+da smo preslabo informirani, posledica tega v marsikaterem domu je bila, da so enostavno 
+<Sync time="526.909"/>
+prezračevalne kanale, kot vidite tukaj na sliki, zalepili z s() lepilnimi trakovi. 
+<Sync time="532.936"/>
+#Eee, na moje vprašanje, ali ste v situaciji, ko ni bilo umetnega prezračevanja, toliko bolj naravno prezračevali sobe, 
+<Sync time="541.334"/>
+je bil odgovor najbrž vam pričakovan: 
+<Sync time="544.471"/>
+"Kaj pa naša osebja, a mislite, da smo bili to v tistem času zmožni narediti?" 
+<Sync time="549.659"/>
+In tukaj se, seveda, zdaj v tej raziskavi dotaknemo 
+<Sync time="554.35"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ problematike zraka, naravnega, umetnega prezračevanja, kakovosti in pa predvsem 
+<Sync time="559.726"/>
+nepoznavanja stroke, moram povedati, da, 
+<Sync time="562.489"/>
+#eee, 
+<Sync time="563.295"/>
+kot sami veste, velikokrat, #eee, direktorji domov ali pa v bistvu tisti, ki bivajo v domovih, 
+<Sync time="568.668"/>
+niti pravzaprav niso seznanjeni, kak tip prezračevalnega sistema imajo, ali gre za prezračevanje ali gre samo za ohlajevanje. 
+<Sync time="575.653"/>
+In tukaj se jaz kot arhitektka ne bi preveč spuščala v to, saj to prepuščam stroki, 
+<Sync time="581.595"/>
+vemo, kateri, 
+<Sync time="582.993"/>
+ampak mislim, da je pa res dobrodošlo, da se o tem pogovarjamo, in prvotno je bistvenega pomena, 
+<Sync time="590.314"/>
+da se, #eee, vso javnost osvesti, torej kakšne tipe prezračevanja imamo, ali 
+<Sync time="596.269"/>
+res obstaja nevarnost, pri katerih tipih in, #eee, kdaj je smiselno mehansko prezračevanje uporabljati, 
+<Sync time="603.256"/>
+da bi, seveda, zagotavljali neko kakovost zraka, saj, kot smo slišali prej, 
+<Sync time="607.843"/>
+ne gre le za virus, gre za to, da smo v času pandemije oziroma epidemije bili priča temu, 
+<Sync time="613.97"/>
+da v istem prostoru dejansko spiš, živiš, ješ, delaš pravzaprav vse. 
+<Sync time="619.71"/>
+Torej, kakšna je prihodnost najine raziskave kot take, morda v tem trenutku ni najpomembnejše, midve sicer upava, da bova pridobili 
+<Sync time="629.259"/>
+dovolj informacij, da bomo dobili tudi podporo ministrstva in pa NIJZ-ja, ker meniva, 
+<Sync time="634.511"/>
+da gre za zelo pomembno tematiko. 
+<Sync time="637.255"/>
+#Eee, hkrati pa se sprašujeva nad prihodnostjo, nekako, 
+<Sync time="643.082"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ bom rekla, na ravni strategije države, 
+<Sync time="646.037"/>
+ki dopušča gradnjo domov, #eee, 
+<Sync time="649.576"/>
+različnim vlagateljem, investitorjem iz tujine. 
+<Sync time="652.923"/>
+Na sliki vidimo gradnjo novega doma za starejše, ki bo žal brez balkonov, 
+<Sync time="659.839"/>
+#eee, vprašljivo je tudi, kakšna je kakovost celotne arhitekture, 
+<Sync time="665.053"/>
+vemo, da po vsej Evropi že dalj časa govorimo, da je potrebno začeti razmišljati o domovih četrte, pete generacije, 
+<Sync time="673.588"/>
+tudi v času covida se je izkazalo, da je bilo veliko lažje uravnavati z domovi, kjer je nekaj sob bilo dodeljenih skupni kuhinji, 
+<Sync time="682.325"/>
+#eee, to je 
+<Sync time="683.241"/>
+mogoče ena od tipičnih zadev teh domov četrte in pete generacije, 
+<Sync time="687.603"/>
+in tukaj je mogoče to zadnje vprašanje celo nekoliko bolj politično naravnano, ne, a() 
+<Sync time="693.69"/>
+česa si želi naša država, 
+<Sync time="696.341"/>
+#eee, in, #eee, nekako vsi bomo enkrat doživeli, 
+<Sync time="701.077"/>
+ne, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ srečni, to starost 
+<Sync time="703.505"/>
+in morda bo z() nekako naše življenje se 
+<Sync time="706.644"/>
+zaključilo v teh inštitucijah, #eem, morda s tega stališča malo bolj razumemo, kako pomembno je razmišljati v pravi smeri o pravi kakovosti teh ustanov. 
+<Sync time="716.473"/>
+Hvala lepa. 
+</Turn>
+<Turn startTime="718.584" endTime="721.909">
+<Sync time="718.584"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="721.909" endTime="780.605" fidelity="high">
+<Sync time="721.909"/>
+Poglejte, na kratko komentar. 
+<Sync time="724.177"/>
+Čeprav skromna študija zaradi škandaloznega omejevanja podatkov s strani NIJZ, 
+<Sync time="731.058"/>
+in to želim reči, ker imamo predstavnike NIJZ-ja zraven, 
+<Sync time="735.322"/>
+vsaj to strahotno umiranje v domovih za stare bi moralo omogočiti, da ga analiziramo, zakaj se je to zgodilo. 
+<Sync time="744.738"/>
+Ne pa da še to skrivamo in onemogočamo raziskave, 
+<Sync time="749.62"/>
+kateri dom 
+<Sync time="750.968"/>
+jo je bolje odnesel in zakaj. 
+<Sync time="753.218"/>
+Jaz bi ob tem samo rekel, iskal sem najboljši dom glede umiranja. 
+<Sync time="758.443"/>
+In ne vem, če sem ga našel, ampak 
+<Sync time="760.657"/>
+morda sem ga, to je neki dom v Ljubljani, in tam sem 
+<Sync time="765.102"/>
+odkril po seveda intervjuju direktorja, ker to nihče v državi ne analizira, 
+<Sync time="771.428"/>
+da je to dom, ki je bil grajen in je imel že od začetka vgrajeno lokalno prezračevanje vsake sobe posebej. 
+</Turn>
+<Turn speaker="spk1" startTime="780.605" endTime="781.108" fidelity="high">
+<Sync time="780.605"/>
+#Mmm. 
+</Turn>
+<Turn speaker="spk2" startTime="781.108" endTime="809.931" fidelity="high">
+<Sync time="781.108"/>
+Tukaj je bilo najnižje ... 
+<Sync time="783.026"/>
+Pomen prezračevanja v domovih je tako 
+<Sync time="786.327"/>
+fenomenalno velik 
+<Sync time="788.416"/>
+in tako že pol leta 
+<Sync time="790.552"/>
+opozarjamo našo državo, mi smo slišali tega predhodnika iz Nizozemske, 
+<Sync time="796.37"/>
+k() ka() ki je politično zelo tolerantno to omenil, 
+<Sync time="800.765"/>
+ampak jaz mislim, da sto tisoči ljudi umirajo zaradi tega, 
+<Sync time="805.336"/>
+ker se ne posvečamo 
+<Sync time="807.357"/>
+dobremu zraku v notranjih prostorih. 
+</Turn>
+<Turn startTime="809.931" endTime="811.714">
+<Sync time="809.931"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="811.714" endTime="894.695" fidelity="high">
+<Sync time="811.714"/>
+Moje vprašanje bi seveda bilo, 
+<Sync time="814.12"/>
+ali, pa ravno to sem hotel, pa ste potem, #eem, 
+<Sync time="817.839"/>
+#eee, gospa Žegerac, #eee, to nekako omenili. 
+<Sync time="821.449"/>
+Ampak, a vi lahko sploh pridete do dobrega podatka, 
+<Sync time="825.339"/>
+kakšno je prezračevanje 
+<Sync time="828.29"/>
+v teh domovih? 
+<Sync time="829.534"/>
+Vi najbrž že veste, da je v domu, 
+<Sync time="831.843"/>
+#eem, #eee, Trubarjevem domu pri Zidanem mostu 
+<Sync time="835.604"/>
+prišlo do vertikalne okužbe po sistemu prezračevanja, 
+<Sync time="839.784"/>
+kar seveda pomeni, da je bil aerosol, 
+<Sync time="842.362"/>
+ne pa kapljična infekcija. 
+<Sync time="844.13"/>
+To pomeni celo oddelki rdeči in beli, vezani na nadstropja, niso pomagali. 
+<Sync time="851.799"/>
+#Eee, in pre() e() ali pa recimo to, da pravite, da ne veste, kakšna vrsta prezračevalnega sistema je bila. S() 
+<Sync time="859.58"/>
+to ni s() sramotno za vas, 
+<Sync time="861.708"/>
+ker niste izvedli, 
+<Sync time="863.048"/>
+ampak sramotno je, da se to ne ve. 
+<Sync time="865.305"/>
+Ker je jasno, da nekateri, da prezračevalni sistemi, ki 
+<Sync time="869.551"/>
+obnavljajo s svežim zrakom notranji zrak, so dobri, 
+<Sync time="873.774"/>
+tisti, ke ga pa recirkulirajo in ogrevajo, pa seveda recirkulirajo tudi virus, 
+<Sync time="878.961"/>
+če nimajo vgrajenih HEPA-filtrov ali pa celo gostejših filtrov. 
+<Sync time="883.468"/>
+Skratka, tukaj je seveda ogromno dela za naprej, 
+<Sync time="887.397"/>
+ampak hkrati pa tudi že ta hip bi morali 
+<Sync time="891.055"/>
+nekatere stvari bistveno spremeniti. 
+<Sync time="893.236"/>
+Pred nami je še tretji val. 
+</Turn>
+<Turn startTime="894.695" endTime="896.24">
+<Sync time="894.695"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="896.24" endTime="1026.589" fidelity="high">
+<Sync time="896.24"/>
+#Eee, zelo lepa hvala za vaš komentar, če lahko odgovorim nekako po vrsti. 
+<Sync time="901.358"/>
+Kar se tiče samega pridobivanja podatkov, sva sicer res s kolegico celo dobili eno podporo s strani Ministrstva za delo, družino in socialne zadeve, ki je na direktorje posameznih domov 
+<Sync time="913.196"/>
+naslovilo v bistvu ponovno najino anketo. 
+<Sync time="916.707"/>
+Čeprav se čudiva, da pa podatkov o okužbah nisva dobili ne iz strani NIJZ-ja ne iz ministrstva, ker koliko vem, te podatke imajo. 
+<Sync time="924.311"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ To je prva zadeva. 
+<Sync time="926.003"/>
+Druga zadeva je, kot sem že omenila, midve vidiš() iščeva predvsem neko korelacijo med arhitekturnimi parametri, 
+<Sync time="932.562"/>
+kjer v bistvu jaz, #eee, nekako tretiram, ne, upoštevanje prezračevanja ni sicer čisto arhitekturni parameter, ampak je parameter načrtovanja stavbe. 
+<Sync time="941.767"/>
+In, #e, to, kar ste me vprašali, ali lahko pridobim, 
+<Sync time="945.584"/>
+glejte, zelo podobno se nam je pokazalo, ko smo z drugo ekipo na naši fakulteti delali analizo kakovosti gradnje slovenskih vrtcev in pa tudi širjenja okužbe. 
+<Sync time="955.321"/>
+Dejansko na tej relaciji, #eee, ravnateljica, direktor, #e, 
+<Sync time="960.071"/>
+jaz nekako opažam, da tega znanja o vrsti prezračevalnega sistema ni. 
+<Sync time="965.863"/>
+Vsaj direktor se mora ukvarjati z mnogočim, ne, in ni strojnik, da bi točno vedel, za kak tip prezračevanja gre. 
+<Sync time="972.88"/>
+Jaz sem se kot arhitektka, ki pozna mogoče te sodobnejše tipe prezračevanj z vračanjem toplote odpadnega zraka, čudila, kako pa lahko pride do mešanja zraka, 
+<Sync time="982.401"/>
+ker vem, da tukaj ne prihaja. 
+<Sync time="984.228"/>
+Razmišljala sem, ali je to kak podtlak ali kaj, ampak to so moja laična razmišljanja. 
+<Sync time="988.654"/>
+In jaz mislim, da 
+<Sync time="990.357"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ mi, #e, mene žalosti, da ne dobimo podatkov, ki so dosegljivi, 
+<Sync time="995.524"/>
+ne, to je prva omejitev sploh pri raziskavi, 
+<Sync time="998.782"/>
+#eee, druga pa, da bi pa za vsak dom res dobili natančne podatke o prezračevanju, se skoraj bojim, da ne. 
+<Sync time="1005.725"/>
+Za veliko domov smo pa doslej že 
+<Sync time="1007.869"/>
+na res dobro voljo direktorjev, ki so zelo zelo zaposleni s samo pandemijo, ampak to se jim res zahvaljujem, tistim, ki pomagajo, 
+<Sync time="1015.271"/>
+pridobili vse načrte arhitekture, 
+<Sync time="1017.352"/>
+kar je že za nas dosti, ne. 
+<Sync time="1019.618"/>
+Medtem ko pa mislim, da načrtov strojnih inštalacij, pa vprašanje, 
+<Sync time="1023.417"/>
+zlasti pri starejših domovih, ne, kdo jih sploh rabi, ne. 
+</Turn>
+<Turn startTime="1026.589" endTime="1030.296">
+<Sync time="1026.589"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1030.296" endTime="1286.976" fidelity="high">
+<Sync time="1030.296"/>
+Ja, z veseljem, 
+<Sync time="1031.971"/>
+mogoče nekaj odzivov z naše strani, lep pozdrav tudi v mojem imenu. 
+<Sync time="1037.929"/>
+#Eem, 
+<Sync time="1038.968"/>
+trenutno vodim ta Direktorat za starejše in deinstitucionalizacijo, 
+<Sync time="1044.523"/>
+ki pokriva tudi vso to institucionalno varstvo, tako domove za starejše 
+<Sync time="1049.783"/>
+kot varstveno-delovne centre in druge institucije. 
+<Sync time="1054.334"/>
+Zdaj mogoče na to temo, ja, da se odzovem, #eem, 
+<Sync time="1058.553"/>
+epidemija nas je presenetila vse skupaj. 
+<Sync time="1062.311"/>
+In posebej v 
+<Sync time="1064.886"/>
+primeru domov za starejše lahko rečemo, 
+<Sync time="1068.265"/>
+da so bile zaradi teh slabih arhitekturnih rešitev, #eem, izzivi res veliki. 
+<Sync time="1075.076"/>
+In so tudi taki, kot jih omenjate, 
+<Sync time="1078.417"/>
+k() kar raziskujete, 
+<Sync time="1080.683"/>
+kar smo tudi v 
+<Sync time="1083.174"/>
+času od lani, od marca dalje lahko ugotovili tudi sami. 
+<Sync time="1089.703"/>
+Zdaj, mogoče najprej še na temo okužb in samih podatkov. 
+<Sync time="1095.962"/>
+Podatke o okuženih, 
+<Sync time="1098.201"/>
+o umrlih, o vsem vodi NIJZ. 
+<Sync time="1101.986"/>
+Mi sicer anketno pridobivamo vsake toliko časa tudi podatke, 
+<Sync time="1108.116"/>
+sicer pa je baza in tisti, #eem, v bistvu centralni del, 
+<Sync time="1113.51"/>
+kdaj, kdo okužen, 
+<Sync time="1116.069"/>
+#eem, 
+<Sync time="1117.099"/>
+mi na ministrstvu preko 
+<Sync time="1119.476"/>
+NIJZ-ja spremljamo, ne vodimo pa sami, ker bi bilo to nesmiselno in neracionalno. 
+<Sync time="1126.702"/>
+Je pa jasno, da smo vsak dan, posebej v času, ko so bili, ko so bile smrti 
+<Sync time="1132.595"/>
+večje, ve() v večjem obsegu, 
+<Sync time="1135.504"/>
+to analizirali vsak dan, tudi komunicirali z domovi 
+<Sync time="1139.87"/>
+in poskušali predvsem zdravstveno stroko 
+<Sync time="1143.953"/>
+in koordinacijskimi skupinami, ki so bile ustanovljene 
+<Sync time="1148.301"/>
+ravno za ta namen, da poskušajo ugotoviti razloge, ukrepati, 
+<Sync time="1153.362"/>
+zadeve na različne načine reševati, 
+<Sync time="1156.624"/>
+tudi takrat na ta način 
+<Sync time="1158.968"/>
+poskušali, in tudi dokaj uspešno v določenih primerih, včasih seveda tudi 
+<Sync time="1165.935"/>
+manj uspešno, 
+<Sync time="1167.551"/>
+poskušali ugotavljati raz() razloge in ukrepati. 
+<Sync time="1171.31"/>
+Zdaj, 
+<Sync time="1172.146"/>
+kar se tiče tega zavedanja, kot je bilo izpostavljeno, to, da so večposteljne sobe, 
+<Sync time="1177.945"/>
+večje tveganje za okužbe, 
+<Sync time="1180.307"/>
+da so čiste in nečiste poti, 
+<Sync time="1183.101"/>
+kjer se pre(), 
+<Sync time="1184.681"/>
+kjer se te zadeve prepletajo, 
+<Sync time="1187.748"/>
+neustrezne in povzročajo večji obseg in večjo 
+<Sync time="1193.119"/>
+možnost širjenja okužbe, 
+<Sync time="1195.426"/>
+to je v bistvu bilo ugotovljeno takoj na začetku. 
+<Sync time="1199.881"/>
+Zdaj pa nekatere arhitekturne rešitve so omogočale 
+<Sync time="1204.333"/>
+to hitro ukrepanje, 
+<Sync time="1206.248"/>
+nekatere 
+<Sync time="1207.673"/>
+zadeve pa so bile, 
+<Sync time="1209.43"/>
+mogoče 
+<Sync time="1211.031"/>
+je bilo potrebno več časa ali pa še s() 
+<Sync time="1214.037"/>
+do zdaj niso 
+<Sync time="1215.289"/>
+ustrezne rešitve. 
+<Sync time="1217.078"/>
+To se zavedamo, enako se zavedamo tudi 
+<Sync time="1220.741"/>
+tega z vidika prezračevanje, 
+<Sync time="1223.152"/>
+prezračevanja, 
+<Sync time="1224.665"/>
+je pa res nekaj, a ne, da mi smo prav zaradi tega 
+<Sync time="1228.745"/>
+veliko, veliko težnjo namedi() namenili tudi pridobitvi evropskih sredstev, 
+<Sync time="1234.947"/>
+gre za 
+<Sync time="1236.728"/>
+sklad React, ki je v bistvu reakcija na covid situacijo, 
+<Sync time="1241.339"/>
+in v okviru teh sredstev smo 
+<Sync time="1244.372"/>
+ravno naslovili vse te izzive in rešitev teh izzivov 
+<Sync time="1249.154"/>
+na način, da se 
+<Sync time="1251.295"/>
+dejansko 
+<Sync time="1253.04"/>
+zadeve v domovih za starejše 
+<Sync time="1255.927"/>
+posodobijo, 
+<Sync time="1257.268"/>
+adaptirajo, 
+<Sync time="1258.791"/>
+ker ta sklad ni namenjen povečevanju kapacitet, ampak prav reševanju teh zadev. 
+<Sync time="1265.08"/>
+In tukaj zdaj trenutno vlagamo velike napore, 
+<Sync time="1268.999"/>
+evros() z Evropsko komisijo se še pogajamo, nismo v bistvu tako kot ostali 
+<Sync time="1275.58"/>
+v državni upravi, smo v bistvu v času pogajanj, 
+<Sync time="1279.685"/>
+in tudi mislimo, da je tukaj ena od rešitev, 
+<Sync time="1283.24"/>
+da se tozadevno stvari 
+<Sync time="1285.895"/>
+spremenijo. 
+</Turn>
+<Turn startTime="1286.976" endTime="1288.931">
+<Sync time="1286.976"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1288.931" endTime="1290.868" fidelity="high">
+<Sync time="1288.931"/>
+Hvala, toliko zaenkrat, no. 
+</Turn>
+<Turn startTime="1290.868" endTime="1295.279">
+<Sync time="1290.868"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1295.279" endTime="1419.555" fidelity="high">
+<Sync time="1295.279"/>
+Kakovost zraka je najbrž enako pomembna ko g(), kot, kot vedno, 
+<Sync time="1299.306"/>
+samo dejstvo pa je, da smo si jo zelo pokvarili. 
+<Sync time="1302.603"/>
+Pokvarili smo si jo z razlogi, ki jih poznamo, in ki se, in ki se tičejo onesnaževanja okolja, 
+<Sync time="1309.264"/>
+ampak pokvarjamo si jo tudi navznoter, recimo, 
+<Sync time="1312.718"/>
+#eee, zadnja desetletja potekajočo energetsko sanacijo stavb, ki so neprod() skoraj neprodušno zatesnile stavbe 
+<Sync time="1321.173"/>
+in pravzaprav vdihavamo danes v povprečju skoraj zanesljivo bistveno slabši zrak, 
+<Sync time="1327.251"/>
+kot smo ga vdihavali v naših starih prepihanih hišah z majavimi okni. 
+<Sync time="1333.08"/>
+To je dejstvo, ampak o tem bo prav gotovo bistveno več, #eee, povedal, #eee, inženir 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+.
+<Sync time="1340.049"/>
+Jaz bi ...
+<Sync time="1340.881"/>
+Druga stvar pa je, in to ste me nekateri med vami opozorili, danes ni debata o covidu in seveda res ni, 
+<Sync time="1348.447"/>
+ampak covid 
+<Sync time="1349.843"/>
+nam vsem predstavlja neverjetno priliko, pravzaprav, da izkoristimo to tragedijo, 
+<Sync time="1356.539"/>
+da opozorimo, kako pomemben je čist zrak v notranjih prostorih. 
+<Sync time="1361.659"/>
+In zaradi tega se mi zdi, da ne morem mimo tega, da ne bi omenil, da ne bi omenil, 
+<Sync time="1367.601"/>
+#eee, 
+<Sync time="1368.51"/>
+#eee, kako vel() velik spregled je naredil cel svet, 
+<Sync time="1373.37"/>
+da je zanemaril, na kakšen način se koronavirus širi med nami, 
+<Sync time="1378.503"/>
+da je zanemaril torej te drobne kapljice, aerosol, 
+<Sync time="1382.614"/>
+ki lebdijo v zraku ure dolgo, 
+<Sync time="1386.377"/>
+in 
+<Sync time="1387.396"/>
+medtem ko se cel svet, z izjemo nekaj držav, kot smo slišali od 
+<Sync time="1391.799"/>
+predhodnika iz Nizozemske, ukvarja samo z velikimi kapljicami, 
+<Sync time="1396.533"/>
+ki jih izkašljamo, izpljunemo, in ki padejo po dveh metrih na tl() na tla, 
+<Sync time="1402.046"/>
+in so iz tega nastala samo navodila, da se moramo držati dva metra narazen, nositi masko, se ne zbirati, 
+<Sync time="1410.03"/>
+ob tem je pa 
+<Sync time="1411.306"/>
+nebroj, dobesedno tisoče dokazov, 
+<Sync time="1415.05"/>
+da se š() virus širi pretežno z aerosolom. 
+</Turn>
+<Turn startTime="1419.555" endTime="1423.839">
+<Sync time="1419.555"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1423.839" endTime="1468.096" fidelity="high">
+<Sync time="1423.839"/>
+Ta primer avtobus, 
+<Sync time="1425.595"/>
+avtobusa, ki je bil prikazan, jaz bi vam la() lahko naštel, 
+<Sync time="1429.515"/>
+pa ni časa, ogromno drugih primerov, poglejte, nihče na svetu ne analizira, zakaj 
+<Sync time="1435.29"/>
+Indija z milijardo stanovalci, in mimogrede, 
+<Sync time="1438.962"/>
+osemsto milijonov, nima stranišč, 
+<Sync time="1441.445"/>
+to zato omenjam, ker je nekdo danes v chatu omenil, mogoče je pa to 
+<Sync time="1446.099"/>
+oroanalna infekcija oziroma fekalno-oralna infekcija v Trubarjevem domu. 
+<Sync time="1451.987"/>
+Ne, kontaktna infekcija je verjetno minimalnega pomena ali ga sploh nima, 
+<Sync time="1457.735"/>
+ker drugače bi vse te nerazvite države dobesedno morale danes imeti strahovite žrtve, pa ravno te 
+<Sync time="1465.598"/>
+države nimajo veliko infekcij. 
+</Turn>
+<Turn startTime="1468.096" endTime="1473.579">
+<Sync time="1468.096"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1473.579" endTime="1559.703" fidelity="high">
+<Sync time="1473.579"/>
+No, n() 
+<Sync time="1474.351"/>
+nekaj smo jih slišali, mi imamo, vsaka snov, ki ni v čistem zraku, ima s() 
+<Sync time="1480.069"/>
+v zdravstvu skoraj vedno neke posledice. 
+<Sync time="1483.03"/>
+Od kemikalij do cvetnih prahov 
+<Sync time="1485.975"/>
+do seveda mnogih drugih, #eee, virusov, 
+<Sync time="1489.187"/>
+#eee, n() bakterij in seveda 
+<Sync time="1492.044"/>
+m() navsezadnje tudi, #eee, recimo plinov, kot je COdva, pa ne vemo, če je zgolj COdva tisti, 
+<Sync time="1498.946"/>
+ki vpliva na počutje, 
+<Sync time="1500.901"/>
+na intelektualno zmožnost, sposobnost, na primer znano je, in to smo danes tudi že slišali, 
+<Sync time="1506.556"/>
+da recimo, 
+<Sync time="1507.681"/>
+#eee, opravljanje matematičnih testov, torej neke intenzivne, 
+<Sync time="1512.631"/>
+#eee, kognitivne, ne samo kognitivne, ampak širše 
+<Sync time="1516.778"/>
+#eee, razumske dejavnosti, 
+<Sync time="1518.974"/>
+#eee, se zmanjša za dvajset procentov v neprezračenih, #e, učilnicah. 
+<Sync time="1523.306"/>
+Ob tem pa lahko rečem, recimo, če je mera, če je merilo čistega zraka, 
+<Sync time="1528.459"/>
+tistega zunaj, okrog štiristo 
+<Sync time="1531.019"/>
+delcev na milijon 
+<Sync time="1532.386"/>
+in da je za notranji zrak, 
+<Sync time="1534.675"/>
+#eee, 
+<Sync time="1535.532"/>
+primi() še primerno osemsto delcev na milijon, torej dvakrat več, 
+<Sync time="1540.354"/>
+je pa v današnjih učilnicah, na() in to je tudi raziskava, ki jo bomo, o kateri smo slišali, našla, 
+<Sync time="1546.421"/>
+je našla po tisoč petsto do dva tisoč, v mnogih učilnicah se najde tri in štiri tisoč delcev na milijon. 
+<Sync time="1553.828"/>
+Skratka, 
+<Sync time="1554.892"/>
+#eee, r() razmere, ki niso ustrezne tudi za to vrsto aktivnosti. 
+</Turn>
+<Turn startTime="1559.703" endTime="1565.192">
+<Sync time="1559.703"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1565.192" endTime="1581.596" fidelity="high">
+<Sync time="1565.192"/>
+Še zmeraj sprašujemo in danes se bomo tudi, 
+<Sync time="1568.361"/>
+od kje čuvajmo zrak, od znotraj ali od zunaj? Seveda ga moramo pregledati in meriti parametre na obeh koncih 
+<Sync time="1576.758"/>
+in, in imamo metode, da bi lahko ta zrak naredili mnogo bolj čist. 
+</Turn>
+<Turn startTime="1581.596" endTime="1589.494">
+<Sync time="1581.596"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1589.494" endTime="1649.053" fidelity="high">
+<Sync time="1589.494"/>
+
+<Event desc="surrounding sound" type="noise" extent="instantaneous"/>
+ Ker je ravno naš Nizozemec 
+<Sync time="1592.148"/>
+pravzaprav nekaj revolucionarnega povedal, da je celo Svetovna zdravstvena organizacija, 
+<Sync time="1597.538"/>
+ki je eno leto molčala, s prvim aprilom povedala, 
+<Sync time="1601.409"/>
+da je na osebo potrebno deset litrov, torej 
+<Sync time="1604.679"/>
+dvakrat več kot je ravnok(), približno dvakrat več, kot je ravnokar omenil, 
+<Sync time="1608.729"/>
+#eee, gospod 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+.
+<Sync time="1610.185"/>
+Deset litrov na sekundo. 
+<Sync time="1612.592"/>
+Lahko bi povedal, ker je eno vprašanje v chatu, tudi drugače, običajno navodilo pravi, 
+<Sync time="1618.561"/>
+desetminutno prezračevanje z odprtimi okni 
+<Sync time="1622.702"/>
+vsake učilnice v vsakem odmoru, 
+<Sync time="1625.688"/>
+ali Nemčija, ki, Merklova, ki jo je tudi citiral, 
+<Sync time="1629.275"/>
+pet minut 
+<Sync time="1630.392"/>
+prezračevanja z odprtimi okni na dvajset minut. 
+<Sync time="1633.939"/>
+Tam učenci pozimi sedijo v bundah in v kapah. 
+<Sync time="1638.059"/>
+To je navodilo o prezračevanju. 
+<Sync time="1641.193"/>
+Medtem ko pri nas 
+<Sync time="1642.837"/>
+smo odpravili prezračevanje: 
+<Sync time="1645.757"/>
+"Pa malo še luftajte." 
+<Sync time="1647.483"/>
+To je bilo pa naše navodilo. 
+</Turn>
+<Turn startTime="1649.053" endTime="1659.511">
+<Sync time="1649.053"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1659.511" endTime="1927.523" fidelity="high">
+<Sync time="1659.511"/>
+Ja, tako kot ste rekel, z(), 
+<Sync time="1662.476"/>
+mogoče primerjava s šolskimi zgradbami pa z našimi domovi, 
+<Sync time="1667.678"/>
+je vprašanje, če niso tudi 
+<Sync time="1669.772"/>
+vsaj nekateri od naših domov še starejši kot kakšne šolske zgradbe ali pa vsaj neustrezno renovirani, 
+<Sync time="1676.458"/>
+tako da imamo res zelo zelo slabo stanje, 
+<Sync time="1680.211"/>
+kot verjetno, saj slišite po medijih, 
+<Sync time="1682.571"/>
+zadnjih petnajst let se ni vlagalo, zadnji dom se je zgradil pred petnajstimi leti, kot ste tudi slišali. 
+<Sync time="1689.187"/>
+Tako da ... 
+<Sync time="1690.739"/>
+In tudi v vseh teh gradnjah ti sodobni standardi prezračevanja in 
+<Sync time="1698.818"/>
+sodobni inštalacijski sistemi 
+<Sync time="1701.837"/>
+pri mnogih od domov niso bili, #eee, uporabljeni, tako da tukaj je stanje 
+<Sync time="1708.096"/>
+infrastrukturno res zelo slabo. 
+<Sync time="1711.343"/>
+Zdaj mi, ko smo se soočali z izzivi, kako in kaj pristopati 
+<Sync time="1716.609"/>
+k temu reševanju problemov, 
+<Sync time="1719.14"/>
+mi smo se 
+<Sync time="1720.936"/>
+takoj na začetku, #eem, 
+<Sync time="1723.571"/>
+v bistvu odločili, da damo vsa napotila direktorjem 
+<Sync time="1728.619"/>
+in to 
+<Sync time="1730.111"/>
+v bistvu zbrana na enem mestu, kaj in kako. Predvsem smo se osl(), #eem, 
+<Sync time="1736.18"/>
+osredotočali na recimo smernice za prezračevanje prostorov, 
+<Sync time="1740.936"/>
+ki jih je izdala Svetovna zdravstvena organizacija, Center za preprečevanje in nadzor bolezni v Stockholmu. 
+<Sync time="1748.227"/>
+Potem, da re() sploh ne naštevam, 
+<Sync time="1750.687"/>
+v glavnem, vsa priporočila NIJZ-ja, Ministrstva za zdravje, 
+<Sync time="1756.104"/>
+mi smo v bistvu tukaj 
+<Sync time="1758.059"/>
+kot stroko zelo močno izpostavili njihova navodila in njihove usmeritve, kako naj se te zadeve v domovih za starejše 
+<Sync time="1767.21"/>
+usmerjajo. 
+<Sync time="1768.653"/>
+Zdaj, ali gre tukaj za v bistvu, 
+<Sync time="1772.331"/>
+za način, 
+<Sync time="1773.614"/>
+kako zagotavljati zadosti in učinkovito prezračevanje, 
+<Sync time="1778.695"/>
+z dovajanjem čistega zunanjega zraka, to je bilo prvo navodilo, in kot ste že omenjali, 
+<Sync time="1784.38"/>
+v bistvu to za deset minut 
+<Sync time="1787.108"/>
+prezračevanje vsako uro, v jutranjem času pa dvajset minut, to je bilo prvo 
+<Sync time="1792.626"/>
+napotilo, 
+<Sync time="1794.32"/>
+ki so si ga izvajalci pa seveda, jaz verjamem, tudi 
+<Sync time="1797.744"/>
+glede na izzive, ki so bili, sploh, še posebej pa v drugem valu, v prvem valu smo mi 
+<Sync time="1803.184"/>
+v bistvu dosti, #eem, še lagodno, če primerjamo potem, kaj je bilo v drugem valu, 
+<Sync time="1809.504"/>
+#eem, v bistvu prebrodili te najhujše izzive, 
+<Sync time="1813.836"/>
+in 
+<Sync time="1814.76"/>
+pa ta centralni prezračevalni sistem, ki pa je 
+<Sync time="1819.1"/>
+tudi v določenih primerih opred() 
+<Sync time="1822.375"/>
+opozoril na to, da je morda res to, 
+<Sync time="1825.982"/>
+#eem, dejansko bil vzrok za večje širjenje okužb in smo tudi v teh primerih 
+<Sync time="1832.932"/>
+priporočali, da se tuj pose() spet posebna koordinacijska skupina, ki je v bistvu sledila stanjem okužb, 
+<Sync time="1842.447"/>
+je bilo takrat potem odločeno, da se, ali stanovalce res umika, pa o() pa takrat so potem tudi se odločili, da se izklopi ta 
+<Sync time="1852.836"/>
+prezračevalni sistem. 
+<Sync time="1854.847"/>
+Tako da 
+<Sync time="1855.797"/>
+tukaj smo v bistvu zelo individualno reševali potem stvari, ki so se zgodile, 
+<Sync time="1861.773"/>
+primere, ki so se zgodili, in jih na neki način 
+<Sync time="1865.388"/>
+poskušali 
+<Sync time="1866.725"/>
+reševati, 
+<Sync time="1868.126"/>
+ker sistematično 
+<Sync time="1870.758"/>
+doslej zaradi vseh ostalih izzivov to ni bilo mogoče, to, 
+<Sync time="1876.129"/>
+to vemo in tukaj 
+<Sync time="1878.747"/>
+so res ta mnenja in priporočila stroke, 
+<Sync time="1882.396"/>
+v bistvu vseh strokovnjakov, ker kot je bilo rečeno že 
+<Sync time="1887.183"/>
+prej, 
+<Sync time="1888.149"/>
+dejansko tudi naši direktorji, oni niso strokovnjaki za to, je pa res potrebno povedati, a ne, da vsak 
+<Sync time="1895.345"/>
+dom za starejše je v bistvu samostojen zavod 
+<Background time="1895.961" type="other" level="high"/>
+
+<Background time="1898.472" type="other" level="off"/>
+,
+<Sync time="1898.949"/>
+in dejansko, #eem, ga vodi direktor, ki se tudi odloča, a ne, zdaj na kakšen 
+<Sync time="1905.358"/>
+način 
+<Sync time="1906.779"/>
+se bo tudi odločil za investicije, ali je to potrebno ali ne, a ne. Mi sicer imamo en grob pregled 
+<Sync time="1913.948"/>
+in potem pomagamo, usmerjamo, rešujemo, 
+<Sync time="1917.58"/>
+ni pa to, da bi, 
+<Sync time="1918.851"/>
+tako kot 
+<Sync time="1919.708"/>
+šolstvo ne more, 
+<Sync time="1921.386"/>
+Ministrstvo za šolstvo vse šole 
+<Sync time="1924.67"/>
+imeti pod svojim 
+<Sync time="1926.318"/>
+nadzorom, a ne. 
+</Turn>
+<Turn startTime="1927.523" endTime="1935.383">
+<Sync time="1927.523"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1935.383" endTime="2143.932" fidelity="high">
+<Sync time="1935.383"/>
+Poglejte, saj se je pokazalo, da pravzaprav pri teh konkretnih podatkih lahko navajamo samo anekdotične podatke, 
+<Sync time="1942.764"/>
+temu rečemo informirano ugibanje, 
+<Sync time="1945.181"/>
+ker se s tem dejansko nihče zanesljivo ne ukvarja. Tako da jaz vam lahko povem 
+<Sync time="1949.756"/>
+samo anekdoto za ustanovo, ki sem jo nekoč vodil, Univerzitetni klinični center. 
+<Sync time="1954.765"/>
+Tam me prepričujejo, da če bi odprli te strope, 
+<Sync time="1958.452"/>
+bi iz vsake te naprave padlo pol kile prahu kar takoj za začetek. 
+<Sync time="1963.668"/>
+Skratka, 
+<Sync time="1964.679"/>
+gre za ... 
+<Sync time="1966.038"/>
+Prevladujoče mnenje je, 
+<Sync time="1968.249"/>
+da gre za skrajno zanemarjene, 
+<Sync time="1970.734"/>
+#e, naprave, ki jih nihče ne čisti, 
+<Sync time="1973.554"/>
+sigurno nimajo primernih filtrov, ki bi preprečevali oziroma ki bi zajemali, na primer, 
+<Sync time="1980.025"/>
+pretok virusa, tudi če že pride v sistem, ker to je potrebno, da se ga potem ulovi, skratka, da se zrak 
+<Sync time="1987.387"/>
+filtrira, ne samo da recirkulira. 
+<Sync time="1990.568"/>
+In lahko vam tudi povem, da je mnenje zdravnikov v Kliničnem centru žal nikoli javno objavljeno, vendar pa so imeli 
+<Sync time="1998.388"/>
+interne sestanke, 
+<Sync time="2000.093"/>
+da je prenos bolezni v Kliničnem centru, govorim o covidu, 
+<Sync time="2006.24"/>
+praviloma potekal preko aerosola, to pomeni po zraku, 
+<Sync time="2010.837"/>
+po okuženem zraku. 
+<Sync time="2012.993"/>
+In da so začeli zdaj nekateri oddelki, 
+<Sync time="2015.956"/>
+to je pa seveda dokaz, da nimajo dobre, 
+<Sync time="2018.476"/>
+dobrega zračenja, da so začeli odpirati okna, to pomeni tudi bolnišnice odpirajo okna. 
+<Sync time="2024.894"/>
+To je pač, 
+<Sync time="2025.933"/>
+#eee ... 
+<Sync time="2027.009"/>
+Jaz me() menim, zato da bi bil vsaj deloma optimističen, 
+<Sync time="2030.859"/>
+jaz menim, da bo skrb za čist zrak 
+<Sync time="2034.772"/>
+morala postati enaka kot skrb za čisto vodo, 
+<Sync time="2038.479"/>
+da bo prihodnje desetletje ali nekaj desetletij 
+<Sync time="2042.128"/>
+namenjenih temu, kako doseči 
+<Sync time="2045.019"/>
+čist zrak, 
+<Sync time="2046.257"/>
+ker bomo s tem v bolnišnicah zmanjšali infekte, tukaj gre za številne infekte, 
+<Sync time="2051.562"/>
+ki se kotijo v bolnišnicah in prenašajo med pacienti, 
+<Sync time="2055.14"/>
+in, #e, in, in da seveda je to velik izziv, tako da ko je bila postavljena cena, koliko bi to stalo, 
+<Sync time="2061.96"/>
+jaz seveda zdajle ne želim 
+<Sync time="2063.487"/>
+
+<Event desc="surrounding sound" type="noise" extent="instantaneous"/>
+ delati reklame za nekatere proizvajalce v Sloveniji, 
+<Sync time="2067.673"/>
+ampak kolikor mi je znano, 
+<Sync time="2069.844"/>
+obstajajo pro() proizvajalci, 
+<Sync time="2072.5"/>
+ki naprave za roko() na lokalne naprave za rekuperacijo ponujajo v neke vrste najem. 
+<Sync time="2079.833"/>
+To pol(), in da, mimogrede, kot oni trdijo, to je verjetno piarovsko, ampak kljub vsemu trdijo, 
+<Sync time="2086.04"/>
+da je varčevanje z energijo tolikšno, 
+<Sync time="2088.85"/>
+da pravzaprav bi bila ustanova celo na boljšem, 
+<Sync time="2091.704"/>
+ne na slabšem, finan() ... Skratka, 
+<Background time="2092.465" type="other" level="high"/>
+
+<Background time="2094.135" type="other" level="off"/>
+<Sync time="2094.135"/>
+hočem povedati, 
+<Sync time="2095.624"/>
+ker je tudi ta sestanek deloma združil tudi 
+<Sync time="2099.39"/>
+proizvajalce. 
+<Sync time="2100.858"/>
+Hočem povedati, da v Sloveniji obstaja znanje, da obstaja industrija, seveda, ki ni dovolj močna, 
+<Sync time="2108.362"/>
+da bi naredila tak investicijski zagon, 
+<Sync time="2111.141"/>
+ampak če bi država hotela sredstva, 
+<Sync time="2113.935"/>
+ki zdaj prihajajo, #e, prihajajo iz Evrope, 
+<Sync time="2117.376"/>
+#e, deloma uporabiti tudi zato, da saniramo zrak v naših stavbah, potem to je izvedljivo, to ne gre za milijarde, poglejte, Nemčija 
+<Sync time="2126.216"/>
+je za celo Nemčijo namenila pol milijarde za, 
+<Sync time="2129.861"/>
+za, 
+<Sync time="2130.546"/>
+za, za okrepitev oziroma za ja() za čiščenje zraka v javnih stavbah. 
+<Sync time="2136.408"/>
+To pomeni, lahko si predstavljamo, da to je izvedljivo in da bi tudi zagotovilo veliko delovnih mest, 
+<Sync time="2142.382"/>
+da ne nadaljujem naprej. 
+</Turn>
+<Turn startTime="2143.932" endTime="2149.772">
+<Sync time="2143.932"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2149.772" endTime="2388.209" fidelity="high">
+<Sync time="2149.772"/>
+Tale škatlica je petdeset evrov vreden merilec COdva-ja in kaže tisoč tristo osemdeset. 
+<Sync time="2156.232"/>
+Samo jaz sem nadihal v tem času, kar smo skupaj, od prejšnje vrednosti štiristo, 
+<Sync time="2161.688"/>
+ker sem odprl okna, 
+<Sync time="2163.22"/>
+sedim pa v prostoru trideset kubikov. 
+<Sync time="2165.902"/>
+Hočem vam torej povedati, da jaz že samo ta hip 
+<Sync time="2169.255"/>
+približno pet procentov zraka, ki sem ga že imel v pljučih, 
+<Sync time="2173.723"/>
+ponovno vdihujem. 
+<Sync time="2175.304"/>
+Če se to zgodi v razredu in če naraste do tisoč tristo, 
+<Sync time="2179.709"/>
+potem vsi šolarji v razredu 
+<Sync time="2182.224"/>
+vdihujejo zrak drug drugega, in seveda, če narašča naprej, 
+<Sync time="2187.067"/>
+ga, ga vdihavajo deset procentov z vsakim vdihom in tako naprej. 
+<Sync time="2191.712"/>
+Skratka, 
+<Sync time="2192.789"/>
+aerosol, ki ga je morda bolnik izdihal v ta prostor, 
+<Sync time="2197.083"/>
+se po kakšni uri nujno znajde v vseh pljučih. 
+<Sync time="2202.198"/>
+Torej, bi le rekel, na primer, gospodu Gregorju Pečanu, ampak saj ni imel 
+<Sync time="2207.627"/>
+to ni v mislih, ko je rekel: "Zdaj nam bodo pa nabili inšpekcije." 
+<Sync time="2211.829"/>
+Jaz mislim, da bi šole 
+<Sync time="2213.65"/>
+morale opremiti za začetek, in to res takoj, 
+<Sync time="2217.442"/>
+in to nekatere šole imajo, 
+<Sync time="2219.712"/>
+take naprave jim visijo nad tablami in opozarjajo učitelja in učence, 
+<Sync time="2225.893"/>
+koliko je COdva-ja. Poglejte, COdva sam ni strup. 
+<Sync time="2229.773"/>
+COdva govori, 
+<Sync time="2231.255"/>
+koliko dihamo, pa nismo odprli okna, skratka, 
+<Sync time="2234.825"/>
+COdva je tukaj indikator prezračenosti. 
+<Sync time="2238.147"/>
+In seveda, potem bo lahko vsak, in bo tudi motiviran, 
+<Sync time="2241.363"/>
+in učitelj in učenci in, mimogrede, tudi starši, 
+<Sync time="2245.339"/>
+da bojo odprli okno, da bo COdva padel. 
+<Sync time="2248.354"/>
+Torej, 
+<Sync time="2249.048"/>
+prvi ukrep, ki bi ga morali 
+<Sync time="2251.115"/>
+nastaviti, jaz menim, da bi tudi zdaj, ko odpiramo 
+<Sync time="2254.452"/>
+pa zapiramo trgovine, in bomo že spet vse zaprli pa spet vse kampanjsko odprli, mi bi morali preprosto reči, 
+<Sync time="2262.016"/>
+naj bo to odvisno, 
+<Sync time="2263.599"/>
+kako so poskrbeli za prezračenost v teh prostorih. 
+<Sync time="2267.237"/>
+Naj posamezni, 
+<Sync time="2268.664"/>
+#e, lastniki dokažejo, ali je njihov prostor 
+<Sync time="2271.964"/>
+prezračen. 
+<Sync time="2273.289"/>
+Torej, 
+<Sync time="2274.05"/>
+hitri ukrep, za katerega sprašujete ta hip, mi smo točno tam, kjer smo. 
+<Sync time="2279.352"/>
+Ne moremo govoriti: "#Joj, krivi smo, ker smo slabe domove zidali." 
+<Sync time="2283.595"/>
+Take domove imamo. 
+<Sync time="2285.471"/>
+Ampak lahko pa merimo COdva in odpiramo okna. 
+<Sync time="2289.559"/>
+Zelo hiter naslednji, čeprav je to že srednjeročni ukrep, je, 
+<Sync time="2293.705"/>
+da se preveri vse obstoječe kli() 
+<Sync time="2296.448"/>
+klima naprave in da se potem njihovim lasu(), 
+<Sync time="2300.512"/>
+ne lastnikom, ampak tistim, ki jih uporabljajo, pove: 
+<Sync time="2304.014"/>
+"Tvoja naprava je varna, tvoja je nevarna, moraš jo takole spremeniti, 
+<Sync time="2309.483"/>
+da bo, ali pa jo za večno zapreti, ker je nevarna." 
+<Sync time="2313.397"/>
+Na daljši rok, seveda, je potrebno razmišljati o tem, 
+<Sync time="2317.277"/>
+da se, saj zlasti javne stavbe, ker, v katerih ne pride v poštev, 
+<Sync time="2321.936"/>
+pa tudi delovna mesta, tam ne pride v poštev odpiranje oken, 
+<Sync time="2325.528"/>
+s() ker preprosto je zamudno, ljudje na to pozabijo. 
+<Sync time="2328.596"/>
+Tukaj dejansko prihaja z modernimi gradnjami 
+<Sync time="2332.053"/>
+v poštev, da 
+<Sync time="2333.349"/>
+kli(), #e, ventilacija z rekuperacijo zraka. 
+<Sync time="2337.558"/>
+In, in v to smer bi morali iti, ampak naj opozorim, zdaj takoj pa je nujno zaradi covida, v katerem še živimo, 
+<Sync time="2345.989"/>
+da gremo v to smer, 
+<Sync time="2347.551"/>
+in zla() za ljudi, ki živijo v svojih stanovanjih, je pa treba seveda reči, 
+<Sync time="2352.679"/>
+če so sami v svojem mehurčku, zdaj seveda ni potrebno 
+<Sync time="2357.323"/>
+zračiti na način, o katerem govorimo. 
+<Sync time="2359.945"/>
+Ampak tisti hip, ko pa dobijo nekega obiskovalca, 
+<Sync time="2363.955"/>
+kdorkoli vstopi v njihov mehurček, 
+<Sync time="2366.764"/>
+po tistem je pa potrebno nujno močno prezračiti, 
+<Sync time="2370.35"/>
+da se zmanjša morebitni virus oziroma da se razredči njegova prisotnost. 
+<Sync time="2375.725"/>
+To zelo na kratko, 
+<Sync time="2377.428"/>
+seveda so še druge stvari, ampak 
+<Sync time="2379.453"/>
+imamo kaj za narediti tudi od tega trenutka dalje. 
+<Sync time="2383.465"/>
+Ni treba imeti 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ resolucij in začet delati čez deset let.
+</Turn>
+<Turn startTime="2388.209" endTime="2395.11">
+<Sync time="2388.209"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2395.11" endTime="2522.648" fidelity="high">
+<Sync time="2395.11"/>
+Ja, kar se nas tiče, 
+<Sync time="2397.164"/>
+imamo pa nimamo 
+<Sync time="2398.88"/>
+tisti mošnjiček, ki je, jaz mislim, da tudi tukaj, kot je bilo že rečeno, je pomembno ozaveščanje. 
+<Sync time="2405.753"/>
+In tukaj poleg Ministrstva za finance, Ministrstva za gospodarstvo, Ministrstva za šolstvo je tudi bistveno tukaj Ministrstvo za zdravje. 
+<Sync time="2415.24"/>
+Ker 
+<Sync time="2415.891"/>
+vseeno je tukaj v bistvu srž problema ozaveščanje glede, 
+<Sync time="2421.574"/>
+glede vpliva na zdravje, tudi glede na funkcioniranje na splošno 
+<Sync time="2426.445"/>
+in glede na v bistvu preprečevanja širjenja okužb z vidika tako v celotni družbi 
+<Sync time="2434.223"/>
+kot, še posebej, v teh naših institucijah, 
+<Sync time="2437.301"/>
+kjer so posebej ranljive osebe, 
+<Sync time="2439.801"/>
+pa naj bo to na Ministrstvu za delo, družino in socialne zadeve in enake možnosti kot na Ministrstvu za zdravje, kjer imajo 
+<Sync time="2448.284"/>
+bolne. 
+<Sync time="2450.316"/>
+In, #eem, jaz mislim, da tukaj je res 
+<Sync time="2454.576"/>
+tak postopek, kot so rekli, a ne, v bistvu ozaveščanje, da je to pomembno, ker 
+<Sync time="2459.994"/>
+vseeno kljub vsemu 
+<Sync time="2462.47"/>
+mi so prve v bistvu potencialne investicije za ta, za sklad React 
+<Sync time="2469.359"/>
+prejeli 
+<Sync time="2470.843"/>
+in 
+<Sync time="2472.466"/>
+ne zdi se nam, da je veliko 
+<Sync time="2474.933"/>
+projektov, ki bi bili povezani tudi s tem 
+<Sync time="2478.241"/>
+delom, 
+<Sync time="2479.076"/>
+so posamični, 
+<Sync time="2480.722"/>
+tudi nekateri so manjše vrednosti pa so se obračali na v(), na nas, 
+<Sync time="2485.552"/>
+tako da to je pomembno področje, mi se tega zavedamo in ... 
+<Sync time="2490.164"/>
+Ampak, a veste, tako je, a ne, 
+<Sync time="2491.774"/>
+če je neko 
+<Sync time="2493.314"/>
+področje podhranjeno in nimaš tistega osnovnega infrastrukturnega okolja ustrezno zagotovljenega, 
+<Sync time="2501.592"/>
+a ne, in ne ...
+<Sync time="2503.267"/>
+V bistvu greš najprej popravljat in nadgrajevat ta del, a ne. 
+<Sync time="2507.56"/>
+Tisti, ki se ne vidi, in zrak se ne vidi, čeprav, 
+<Sync time="2510.995"/>
+a ne, je to očem nevidno, 
+<Sync time="2514.126"/>
+je mogoče v drugem planu, pa ne zato(), pa zdaj tukaj težko sodimo, a je to zdaj prav ali ne, ampak 
+<Sync time="2520.983"/>
+veste, kaj hočem povedati, a ne. 
+</Turn>
+</Section>
+</Episode>
+</Trans>
