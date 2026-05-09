@@ -1,0 +1,7 @@
+torch
+pyannote.audio
+pyannote.metrics
+python-dotenv
+datasets
+soundfile
+numpy
