@@ -17,9 +17,9 @@ pipeline.to(torch.device("cuda"))
 
 diarizationErrorRate = DiarizationErrorRate()
 
-audio_dir = r"datasets\aishell-4\wav"
-rttm_dir = r"datasets\aishell-4\rttm"
-result_file = r"datasets\aishell-4\result.txt"
+audio_dir = r"datasets\msdwild\wav"
+rttm_dir = r"datasets\msdwild\rttm"
+result_file = r"datasets\msdwild\result.txt"
 
 der_scores = []
 
