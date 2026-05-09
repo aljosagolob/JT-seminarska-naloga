@@ -1,11 +1,10 @@
-SPEAKER_00: Who do you think that you're the most like?
-SPEAKER_01: Who may have the most like? An appearance?
-SPEAKER_00: Yes.
-SPEAKER_01: Yes. Both appearance and character?
-SPEAKER_00: Both appearance and character? Yeah, both.
-SPEAKER_01: Yeah, both. Okay, so appearance I look mostly like my mom, I think.
-SPEAKER_01: Okay, so appearance I look mostly like my mom, I think.
-SPEAKER_00: Okay, so appearance I look mostly like my mom, I think. Okay.
-SPEAKER_01: Okay. I have more of her skin tone, I have her eyes.
-SPEAKER_00: I have more of her skin tone, I have her eyes. And on her side of the family, most of the people are pretty skittish.
-SPEAKER_01: And on her side of the family, most of the people are pretty skittish.
+SPEAKER_00 [0.03s-2.22s]: Who do you think that you're the most light?
+SPEAKER_01 [2.73s-4.71s]: Who may have the most like an appearance?
+SPEAKER_00 [5.21s-5.87s]: Yes.
+SPEAKER_01 [6.09s-9.03s]: Both appearance and character.
+SPEAKER_00 [9.09s-9.84s]: Yeah, so...
+SPEAKER_01 [10.07s-14.71s]: Okay, so appearance I look mostly like my mom, I think.
+SPEAKER_00 [14.78s-15.30s]: Okay.
+SPEAKER_01 [15.30s-18.59s]: I have more of her skin tone, I have her eyes.
+SPEAKER_00 [18.22s-19.08s]: Yeah.
+SPEAKER_01 [18.83s-22.58s]: And on her side of the family, most of the people are pretty sk-

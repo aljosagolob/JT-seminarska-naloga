@@ -5,6 +5,25 @@ import torch
 import soundfile as sf
 from pyannote.audio import Pipeline
 import whisper
+import numpy as np
+
+def merge_segments(segments, gap_threshold=0.5):
+    if not segments:
+        return segments
+    
+    merged = [segments[0].copy()]
+    
+    for current in segments[1:]:
+        previous = merged[-1]
+        gap = current["start"] - previous["end"]
+        
+        if current["speaker"] == previous["speaker"] and gap < gap_threshold:
+            previous["end"] = current["end"]
+        else:
+            merged.append(current.copy())
+    
+    return merged
+
 
 #   D I A R I Z A T I O N
 print("Loading diarization pipeline...")
@@ -30,33 +49,40 @@ diarization = diarization_pipeline(audio_input)
 #   S A V E   S E G M E N T S   I N   L I S T
 segments = []
 for turn, _, speaker in diarization.speaker_diarization.itertracks(yield_label=True):
+    # print(f"[{turn.start} - {turn.end}] - {speaker}")
     segments.append({
         "start": turn.start,
         "end": turn.end,
         "speaker": speaker
     })
 
-#   T R A N S C R I P T I O N
+#   M E R G E   S E G M E N T S
+segments = merge_segments(segments=segments)
+
+#   L O A D   W H I S P E R   M O D E L
 print("Loading Whisper...")
 whisper_model = whisper.load_model("base") 
-
-print("Running transcription...")
-result = whisper_model.transcribe(audio_file)
-whisper_segments = result["segments"]
 
 #   C O M B I N E
 print("\n=== ANNOTATED TRANSCRIPT ===")
 output_lines = []
 
 for seg in segments:
-    text_parts = []
-    for w_seg in whisper_segments:
-        overlap = min(seg["end"], w_seg["end"]) - max(seg["start"], w_seg["start"])
-        if overlap > 0:
-            text_parts.append(w_seg["text"].strip())
+    start_sample = int(seg["start"] * sample_rate)
+    end_sample = int(seg["end"] * sample_rate)
     
-    text = " ".join(text_parts) if text_parts else "[tišina]"
-    line = f'{seg["speaker"]}: {text}'
+    audio_chunk = waveform[start_sample:end_sample]
+    
+    # Skips segment if less than 0.5s
+    duration = seg["end"] - seg["start"]
+    if duration < 0.5: 
+        line = f'{seg["speaker"]} [{seg["start"]:.2f}s-{seg["end"]:.2f}s]: [prekratko]'
+    else:
+        audio_chunk_float = audio_chunk.astype(np.float32)
+        result = whisper_model.transcribe(audio_chunk_float, language="en")
+        text = result["text"].strip()
+        line = f'{seg["speaker"]} [{seg["start"]:.2f}s-{seg["end"]:.2f}s]: {text}'
+    
     print(line)
     output_lines.append(line)
 
@@ -64,4 +90,4 @@ for seg in segments:
 with open("output/transcript.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(output_lines))
 
-print("\nShranjeno v output/transcript.txt")
+print("Saved to output/transcript.txt") 
