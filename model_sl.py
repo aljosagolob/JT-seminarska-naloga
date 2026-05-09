@@ -5,7 +5,7 @@ import torch
 import soundfile as sf
 from pyannote.audio import Pipeline
 from dotenv import load_dotenv
-import whisper
+from transformers import pipeline as asr_pipeline
 import numpy as np
 import os
 
@@ -29,7 +29,7 @@ def merge_segments(segments, gap_threshold=0.5):
 
 load_dotenv()
 
-#   L O A D   D I A R I Z A T I O N   P I P E L I N E
+#   D I A R I Z A T I O N
 print("Loading diarization pipeline...")
 diarization_pipeline = Pipeline.from_pretrained(
     "pyannote/speaker-diarization-community-1",
@@ -65,13 +65,12 @@ for turn, _, speaker in diarization.speaker_diarization.itertracks(yield_label=T
 #   M E R G E   S E G M E N T S
 segments = merge_segments(segments=segments)
 
-#   L O A D   W H I S P E R   M O D E L
-print("Loading Whisper...")
-whisper_model = whisper.load_model("small") 
-
-#   M O V E   T O   G P U   I F   A V A I L A B L E
-if torch.cuda.is_available():
-    whisper_model = whisper_model.to("cuda")
+#   L O A D   S L O V E E N E   W H I S P E R   M O D E L
+asr = asr_pipeline(
+    "automatic-speech-recognition",
+    model="samolego/whisper-small-slovenian",
+    device=0 if torch.cuda.is_available() else -1,
+)
 
 #   C O M B I N E
 print("\n=== ANNOTATED TRANSCRIPT ===")
@@ -81,14 +80,14 @@ for seg in segments:
     start_sample = int(seg["start"] * sample_rate)
     end_sample = int(seg["end"] * sample_rate)
     
-    audio_chunk = waveform[start_sample:end_sample].astype(np.float32)
+    audio_chunk  = waveform[start_sample:end_sample].astype(np.float32)
     
     # Skips segment if less than 0.5s
     duration = seg["end"] - seg["start"]
     if duration < 0.5: 
-        line = f'{seg["speaker"]} [{seg["start"]:.2f}s-{seg["end"]:.2f}s]: [too short]'
+        line = f'{seg["speaker"]} [{seg["start"]:.2f}s-{seg["end"]:.2f}s]: [prekratko]'
     else:
-        result = whisper_model.transcribe(audio_chunk, language="sl")
+        result = asr({"array": audio_chunk, "sampling_rate": sample_rate})
         text = result["text"].strip()
         line = f'{seg["speaker"]} [{seg["start"]:.2f}s-{seg["end"]:.2f}s]: {text}'
     
