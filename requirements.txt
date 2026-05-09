@@ -1,1 +1,4 @@
 pyannote.audio
+torch
+openai-whisper
+soundfile
