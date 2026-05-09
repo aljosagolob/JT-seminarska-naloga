@@ -1,0 +1,4939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Mitja" audio_filename="Artur-J-Gvecg-P580029-avd" version="29" version_date="221028">
+<Topics>
+<Topic id="to1" desc="Spletni dogodek"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Artur-J-G4575" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk2" name="Artur-J-G4569" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk3" name="Artur-J-G4568" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk4" name="Artur-J-G4573" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk5" name="Artur-J-G4574" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+<Speaker id="spk6" name="Artur-J-G4572" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk7" name="Artur-J-G4570" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk8" name="Artur-J-G4576" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+<Speaker id="spk9" name="Artur-J-G4577" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="8766.880" topic="to1">
+<Turn startTime="0" endTime="2.958" speaker="spk3" fidelity="low">
+<Sync time="0"/>
+Lepo pozdravljeni. 
+</Turn>
+<Turn startTime="2.958" endTime="9.282">
+<Sync time="2.958"/>
+<Background time="2.958" type="other" level="high"/>
+
+<Background time="9.282" type="other" level="off"/>
+</Turn>
+<Turn speaker="spk3" startTime="9.282" endTime="10.906" fidelity="low">
+<Sync time="9.282"/>
+Upam, da se slišimo. 
+</Turn>
+<Turn startTime="10.906" endTime="16.241">
+<Sync time="10.906"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="16.241" endTime="17.382" fidelity="low">
+<Sync time="16.241"/>
+Se slišimo. 
+</Turn>
+<Turn speaker="spk3" startTime="17.382" endTime="33.336" fidelity="low">
+<Sync time="17.382"/>
+Se, super. 
+<Sync time="18.341"/>
+
+<Event desc="laugh" type="noise" extent="instantaneous"/>
+
+<Sync time="20.937"/>
+#Eem, 
+<Sync time="22.27"/>
+mislim, da 
+<Sync time="23.47"/>
+lahko 
+<Sync time="24.896"/>
+začnemo z današnjim dnevom konference, 
+<Sync time="28.861"/>
+#eee, počasi, verjamem, da se bodo nekateri nam še priključili. 
+</Turn>
+<Turn startTime="33.336" endTime="35.544">
+<Sync time="33.336"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="35.544" endTime="99.54" fidelity="low">
+<Sync time="35.544"/>
+#Eee, vesela sem in ponosna, da vas lahko 
+<Sync time="38.842"/>
+lepo in prijazno pozdravim 
+<Sync time="40.906"/>
+na drugem dnevu svetovn() strokovne in znanstvene konference ter okrogle mize, 
+<Sync time="47.01"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="47.545"/>
+projekta Slovenščina na dlani. 
+<Sync time="50.132"/>
+#Eee, tisti, ki ste bili že včeraj prisotni, ste lahko videli, da smo včeraj v bistvu spremljali večinoma predstavitve drugih podobnih projektov, raziskav, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="59.42"/>
+načrtovanih razpisov, v bistvu je bila na neki način skupna tema vsem tem predstavitvam 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="66.421"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ razvijanje jezikovne sporazumevalne zmožnosti v slovenskem jeziku. 
+<Sync time="71.159"/>
+#Eee, danes pa bo v dru() v tretjem in četrtem sklopu pozornost namenjena predvsem učnemu e-okolju Slovenščina na dlani. 
+<Sync time="80.965"/>
+To učno e-okolje je namenjeno bogatitvi pouka slovenščine od šestega razreda do konca srednje šole. 
+<Sync time="89.378"/>
+Ponuja številne vaje in naloge, 
+<Sync time="92.633"/>
+vezane na štiri vsebinske sklope, in sicer pravopis, slovnica, frazemi in pregovori ter besedila. 
+</Turn>
+<Turn startTime="99.54" endTime="101.58">
+<Sync time="99.54"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="101.58" endTime="114.402" fidelity="low">
+<Sync time="101.58"/>
+Tako da če smo včeraj zbirali rože, 
+<Sync time="104.796"/>
+hiše, širili svoj svet s širjenjem jezika, 
+<Sync time="108.599"/>
+potem bomo danes svoje delo predstavile mravljice projekta Slovenščina na dlani. 
+</Turn>
+<Turn startTime="114.402" endTime="116.116">
+<Sync time="114.402"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="116.116" endTime="125.48" fidelity="low">
+<Sync time="116.116"/>
+#Eee, in 
+<Sync time="117.74"/>
+če mi dovolite, 
+<Sync time="120.733"/>
+bi dala najprej besedo 
+<Sync time="124.302"/>
+kolegici 
+</Turn>
+<Turn startTime="125.48" endTime="127.439">
+<Sync time="125.48"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="127.439" endTime="145.456" fidelity="low">
+<Sync time="127.439"/>
+asistentki 
+<Sync time="129.66"/>
+Špeli Antloga, magistrici slovenistike, 
+<Sync time="133.35"/>
+ki bo predstavila področje pravopisa, in sicer prispevek z naslovom Pravopis in slovnice, 
+<Sync time="140.127"/>
+slovnica v učnem e-okolju Slovenščina 
+<Sync time="142.942"/>
+na dlani. 
+<Sync time="144.186"/>
+Špela, izvoli. 
+</Turn>
+<Turn startTime="145.456" endTime="155.207">
+<Sync time="145.456"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="155.207" endTime="160.516" fidelity="low">
+<Sync time="155.207"/>
+Pozdravljeni, se slišimo? 
+<Sync time="157.561"/>
+Upam, da vidite predstavitev tudi. 
+</Turn>
+<Turn speaker="spk3" startTime="160.516" endTime="164.078" fidelity="low">
+<Sync time="160.516"/>
+Se slišimo in tudi predstavitev je vidna. 
+</Turn>
+<Turn speaker="spk2" startTime="164.078" endTime="429.237" fidelity="low">
+<Sync time="164.078"/>
+Super, #aaa, potem pa najlepša hvala za besedo. 
+<Sync time="168.442"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ #Eem ...
+<Sync time="170.146"/>
+Tako, samo še povečam. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="172.107"/>
+Ja, lep pozdrav vsem, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="173.97"/>
+#eee, verjetno, kot ste zdaj slišali, e-okolje Slovenščina na dlani 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="179.132"/>
+pokriva štiri vsebinska področja, in sicer slovnico, pravopis, besedila ter frazeme in pogovore. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="185.532"/>
+In, #e, jaz pri tem projektu sodelujem pri sklopih slovnica in pravopis, 
+<Sync time="190.6"/>
+tako da vam bom danes predstavila vsebine, 
+<Sync time="193.474"/>
+ki smo jih zajeli v okviru teh dveh sklopov 
+<Sync time="196.299"/>
+ter nekaj različnih vaj in nalog za slovnico in pravopis. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="201.119"/>
+In to res samo en delček, #eee, kajti vseh nalog za ta dva vsebinska sklopa je več kot sedemsto. 
+<Sync time="209.234"/>
+#Eee, pri tem je pri posameznih nalogah 
+<Sync time="211.559"/>
+na voljo tudi do tisoč primerov, 
+<Sync time="214.555"/>
+povprečno pa nekje med tristo in petsto. 
+<Sync time="217.879"/>
+#Eee, pa mogoče za začetek najprej, #e, nekaj splošnih informacij o nalogah pri pravopisu in slovnici. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="224.784"/>
+In sicer vsi primeri 
+<Sync time="226.283"/>
+pri vajah in nalogah so avtentični, 
+<Sync time="228.752"/>
+torej so iz realnih besedil, 
+<Sync time="231.723"/>
+#e, za kar smo v okviru projekta pripravili poseben korpus, 
+<Sync time="235.616"/>
+#e, v katerem so bila izbrana besedila, ki so primerna za ciljno publiko. 
+<Sync time="241.671"/>
+#Eee, pri teh dveh vsebinskih sklopih smo vključili deset osnovnih tipov nalog. 
+<Sync time="247.554"/>
+Na primer izberi, premakni, vstavi in tako naprej. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="251.027"/>
+O tem bom več povedala v nadaljevanju. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="253.97"/>
+In te naloge smo razdelili v tri težavnostne stopnje, 
+<Sync time="258.209"/>
+in sicer osnovno, srednjo in zahtevnejšo stopnjo. 
+<Sync time="262.802"/>
+Za s() skoraj vsako vsebino imamo naloge za vse tri težavnostne stopnje, 
+<Sync time="268.643"/>
+seveda pa je to bilo odvisno tudi od 
+<Sync time="271.18"/>
+konkretne, #e, pravopisne oziroma slovnične vsebine. 
+<Sync time="275.065"/>
+#Eee, poleg samih primerov so pri nalogah pomembni elementi še namigi, 
+<Sync time="280.143"/>
+ki učenca nekako usmerjajo k pravilnemu odgovoru, 
+<Sync time="284.609"/>
+in razlage, ki so na voljo tako ob reševanju vaj, v obliki takih krajših razlag 
+<Sync time="290.876"/>
+kot tudi v bazi znanja. 
+<Sync time="293.392"/>
+Tam so razlage nekoliko obširnejše 
+<Sync time="296.297"/>
+in tja se lahko učenec preusmeri kadarkoli, ali ob reševanju nalog ali pa tudi kasneje, če ga zanima, #e, več o 
+<Sync time="304.766"/>
+nekaj konkretni temi. 
+<Sync time="307.233"/>
+Pri zasnovi nalog smo težili k temu, da so učenci motivirani tudi prek, #e, elime() elementov igrifikacije, 
+<Sync time="316.538"/>
+#e, skušali smo prinesti neki malo bolj zabaven, sproščen pristop k temam, ki mogoče 
+<Sync time="323.436"/>
+nekaterim učencem niso vedno najbolj ljube. 
+<Sync time="327.186"/>
+#Eee, celotno okolje, zdaj to ne velja samo za sklopa, #e, pravopis in slovnico, 
+<Sync time="332.642"/>
+torej celotno okolje je zasnovano tako, 
+<Sync time="335.365"/>
+da se naloge samodejno prilagajajo potrebam učencev. 
+<Sync time="339.566"/>
+#Eee, torej, če je neki učenec zelo uspešen pri reševanju na nekem področju, mu to gre dobro, potem tudi hitro napreduje in 
+<Sync time="348.448"/>
+dobiva vedno zahtevnejše primere. 
+<Sync time="350.634"/>
+In tudi če te zahtevne primere hitro obvlada, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="353.792"/>
+potem preide na naloge z nekimi drugami, z drugimi vsebinami. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="358.184"/>
+In seveda tudi obratno, torej nekomu, ki ima več težav pri neki temi, bo okolje samodejno dodeljevalo 
+<Sync time="364.733"/>
+tovrstne naloge, se torej izuri, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="367.339"/>
+#e, v tej temi. 
+<Sync time="368.812"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+Seveda pa okolje omogoča tudi vodenje skozi naloge, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="373.132"/>
+tako da učitelj določi, katere naloge naj učenci rešujejo, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="377.342"/>
+lahko določi tudi datum, do kdaj morajo te naloge oddati, in tako naprej. 
+<Sync time="381.743"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="383.303"/>
+#Eem, 
+<Sync time="384.518"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="385.134"/>
+pri določanju tega, katere pravopisne vsebine bomo, 
+<Sync time="389.59"/>
+in slovnične, bomo zajeli v nalogah, smo načeloma izhajali iz dveh virov. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="394.998"/>
+In sicer ena je bila, #e, analiza napak v korpusu Šolar, 
+<Sync time="398.94"/>
+ki ga verjetno dobro poznate. 
+<Sync time="401.385"/>
+Torej da nismo samo domnevali, kaj učencem povzroča največ težav. 
+<Sync time="406.402"/>
+#Eee, poleg tega pa smo upoštevali tudi predloge učiteljev, ki sodelujejo v projektu Slovenščina na dlani, 
+<Sync time="412.809"/>
+ki so na podlagi svojih pedagoških izkušenj podali predloge za 
+<Sync time="416.944"/>
+izbor relevantnih tem. 
+<Sync time="419.137"/>
+#Eee, in sicer upoštevali smo to tako z vidika tega, 
+<Sync time="422.361"/>
+kje imajo učenci največ težav, 
+<Sync time="424.805"/>
+kot tudi, #e, to, katere vsebine se morda v šoli premalo obravnavajo. 
+</Turn>
+<Turn startTime="429.237" endTime="431.454">
+<Sync time="429.237"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="431.454" endTime="557.388" fidelity="low">
+<Sync time="431.454"/>
+#Eee, to so nekako vsebine pri pravopisu, ki smo jih zajeli, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ #eee, jaz 
+<Sync time="436.374"/>
+preveč v podrobnosti v tej predstavitvi ne bom šla, mogoče tisto desno stran v razpredelnici sami na hitro preletite. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="444.804"/>
+#Eee, skratka, pri pravopisu smo zajeli pet sklopov, 
+<Sync time="449.164"/>
+ki sem jih danes za predstavitev razdelila, #e, v šest, ker sem ločila še, #e, vejico posebej, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="455.184"/>
+ker smo vejici res namenilo, namenili veliko vaj. 
+<Sync time="459.086"/>
+#Eee, 
+<Sync time="459.931"/>
+ob tem naj dodam, da so vaje in naloge za vsako posamezno vsebino znotraj sklopa, recimo sklop Vejica, in potem vsebina 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="468.918"/>
+vejica v podredno zloženi povedi, vejica v priredno zloženi povedi in tako naprej. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="473.986"/>
+Torej da so te vaje in naloge ločene, 
+<Sync time="476.406"/>
+kar pomeni, da lahko izberete naloge samo iz konkretne vsebine. 
+<Sync time="481.505"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ #E, od ločil smo torej, #e, vključili še vprašaj, 
+<Sync time="485.267"/>
+gre predvsem za naloge, pri katerih, #e, je potrebno poznavanje 
+<Sync time="491.156"/>
+razlikovanja med vprašalnimi in trdilnimi glavnimi stavki, 
+<Sync time="495.085"/>
+#eee, potem tri pike, 
+<Sync time="496.943"/>
+#e, pomišljaj in vezaj ter razlikovanje med njima. 
+<Sync time="501.291"/>
+#E, pri vseh teh ločilih pa je nekaj nalog namenjenih tudi preverjanju stičnosti v zapisu. 
+<Sync time="507.475"/>
+Pri veliki in mali začetnici, #eee, so 
+<Sync time="511.0"/>
+#e, vsebine, #e, vsebine 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ predvsem naselbinska, nenaselbinska imena, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="516.108"/>
+imena bitij, stvarna imena ter pridevniki na -ski, -ški ter -ov, -ev. 
+<Sync time="520.62"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="521.232"/>
+#Eee, pri pisanju skupaj in narazen 
+<Sync time="524.199"/>
+smo se osredotočili na posamezne besedotvorne vrste, 
+<Sync time="528.524"/>
+#eee, veliko težav smo zaznali pri pisanju členka ne in, #e, glagolov, recimo ne vem, ne bom, 
+<Sync time="535.663"/>
+#e, tako da smo temu namenili kar precej nalog. 
+<Sync time="539.269"/>
+In pa, #e, še sklop pa prevzete besede ter 
+<Sync time="542.696"/>
+težji primeri zapisa, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="544.424"/>
+te naloge so pa posvečene, 
+<Sync time="546.261"/>
+#e, različnim težavam pri zapisovanju, na primer samoglasniških sklopov ija, ijo, 
+<Sync time="552.322"/>
+#eem, besedam, ki imajo neobstojni samoglasnik, podvojene črke in tako naprej. 
+</Turn>
+<Turn startTime="557.388" endTime="559.564">
+<Sync time="557.388"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="559.564" endTime="669.78" fidelity="low">
+<Sync time="559.564"/>
+Pri slovnici, #e, smo vsebine razdelili 
+<Sync time="562.682"/>
+po posameznih besednih vrstah 
+<Sync time="565.357"/>
+in pa še besedni red. 
+<Sync time="567.119"/>
+#Eee, mogoče tu 
+<Sync time="568.547"/>
+izpostavim samo predlog, 
+<Sync time="570.87"/>
+#eee, kjer so vaj(), #eee, vaje in naloge nekaj() 
+<Sync time="573.874"/>
+nekoliko drugačne od ostalih sklopov. 
+<Sync time="576.939"/>
+#Eee, predvsem smo pri predlogu ozna(), #eee, opazili, da napake pogosto 
+<Sync time="582.296"/>
+ne izvirajo toliko iz kršenja knjižne norme, 
+<Sync time="585.946"/>
+ampak iz, #e, 
+<Sync time="587.59"/>
+neke neustrezne izbire glede na jezikovno zvrst, mislim predvsem recimo narečja ali na pogovorni jezik, 
+<Sync time="594.1"/>
+#e, kot je na primer govoriti o nečem oziroma govoriti okoli nečesa. 
+<Sync time="599.202"/>
+#E, skratka to smo tudi pri nalogah upoštevali 
+<Sync time="603.252"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ in, #e, pri navodilu zapisali, 
+<Sync time="606.057"/>
+#eee, naj učenci zberejo najustreznejši predlog. 
+<Sync time="610.097"/>
+Nekatere naloge bodo tudi takšne, da bodo učenca vračale k primeru, če, 
+<Sync time="615.471"/>
+#eee, ne bo, dokler ne bo izbral najustreznejšega predloga. 
+<Sync time="620.677"/>
+#Eem, 
+<Sync time="622.643"/>
+rada bi vam 
+<Sync time="623.559"/>
+to, o čemer sem vam zdaj, #e, govorila, tudi ponazorila, 
+<Sync time="627.637"/>
+mislim, da bo malo bolj jasno. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="629.806"/>
+In sicer, #e, gre za beta verzijo, 
+<Sync time="632.898"/>
+zdaj, moj namen, #e, ni predstavljati, #e, delovanja celotnega tega e-okolja, jaz se bom res osredotočila samo na, #e, vaje in naloge in posamezne tipe vaj in nalog pri slovnici in pravopisu. 
+<Sync time="646.197"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ #E, skratka, prej sem že omenila, da lahko poljubno izbirate 
+<Sync time="650.182"/>
+vaje in naloge 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="652.08"/>
+in, #e, zato bodo zelo koristni opisi posameznih vaj in nalog. Če si pogledamo tale posnetek, 
+<Sync time="658.953"/>
+#e, to sem jaz prijavljena kot, 
+<Sync time="661.039"/>
+#e, učiteljica, tak pogled bo 
+<Sync time="663.561"/>
+tudi vam na voljo, skratka, 
+<Sync time="665.694"/>
+pri pravopisu sem izbrala nekaj tem iz podredja. 
+</Turn>
+<Turn startTime="669.78" endTime="676.206">
+<Sync time="669.78"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="676.206" endTime="690.526" fidelity="low">
+<Sync time="676.206"/>
+In, #e, potem se za vsako posamezno temo 
+<Sync time="679.404"/>
+prikažejo opisi 
+<Sync time="681.022"/>
+posameznih nalog. 
+<Sync time="683.117"/>
+#Eee, ob strani je tudi informacija, koliko je 
+<Sync time="685.763"/>
+to nalog, koliko je skupaj primerov, ki jih lahko tudi povečujete. 
+</Turn>
+<Turn startTime="690.526" endTime="693.295">
+<Sync time="690.526"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="693.295" endTime="703.228" fidelity="low">
+<Sync time="693.295"/>
+In če vam 
+<Sync time="694.311"/>
+posamezna naloga ni všeč oziroma se vam zdi, da tokrat ne bi tega, #e, radi dajali učencem, lahko to nalogo izločite. 
+</Turn>
+<Turn startTime="703.228" endTime="706.359">
+<Sync time="703.228"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="706.359" endTime="710.404" fidelity="low">
+<Sync time="706.359"/>
+In potem, #e, to objavite v določeni skupini, 
+</Turn>
+<Turn startTime="710.404" endTime="712.022">
+<Sync time="710.404"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="712.022" endTime="716.665" fidelity="low">
+<Sync time="712.022"/>
+določite datum 
+<Sync time="714.008"/>
+in so te naloge pripravljene za reševanje. 
+</Turn>
+<Turn startTime="716.665" endTime="721.861">
+<Sync time="716.665"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="721.861" endTime="742.402" fidelity="low">
+<Sync time="721.861"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ Ko smo definirali tipe nalog, #eee, smo se 
+<Sync time="726.248"/>
+opirali na raziskavo, ki sta jo 
+<Sync time="729.11"/>
+izvedli dve sodelavki v projektu, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="731.865"/>
+in sicer sta analizirali prosto dostopna gradiva za pouk slovenščine v srednjih šolah 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="737.722"/>
+in pa tudi priljubljenost 
+<Sync time="739.447"/>
+različnih tipov nalog med učenci. 
+</Turn>
+<Turn startTime="742.402" endTime="743.978">
+<Sync time="742.402"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="743.978" endTime="753.411" fidelity="low">
+<Sync time="743.978"/>
+P() 
+<Sync time="744.636"/>
+si poglejmo nekaj teh tipov nalog. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="747.68"/>
+#Eee, najpogostejši tip pri slovnič() pri slovnici in pravopisu je tip vstavi. 
+</Turn>
+<Turn startTime="753.411" endTime="758.044">
+<Sync time="753.411"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="758.044" endTime="776.772" fidelity="low">
+<Sync time="758.044"/>
+To je en tak enostaven primer, 
+<Sync time="760.029"/>
+ker mora, 
+<Sync time="760.891"/>
+#e, učenec vstaviti manjkajočo vejico. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="764.1"/>
+#E, ponekod mora vstaviti dve ali tri vejice, 
+<Sync time="767.925"/>
+pri čemer, #e, jih lahko postavi na katerokoli mesto v povedi in 
+<Sync time="772.59"/>
+potem, #e, takole javi, da 
+<Sync time="774.987"/>
+je odgovor napačen. 
+</Turn>
+<Turn startTime="776.772" endTime="780.557">
+<Sync time="776.772"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="780.557" endTime="784.121" fidelity="low">
+<Sync time="780.557"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="781.356"/>
+#Eee, zdaj, drug zelo pogost tip je popravi. 
+</Turn>
+<Turn startTime="784.121" endTime="785.732">
+<Sync time="784.121"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="785.732" endTime="820.605" fidelity="low">
+<Sync time="785.732"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="786.694"/>
+In, #eee, ker lahko popravljamo katerokoli besedo v povedi 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+,
+<Sync time="791.385"/>
+smo se namenoma odločili, da že 
+<Sync time="794.2"/>
+v navodilu povemo, na kaj je treba biti pozoren, torej smo, popravi napačno rabo glagola 
+<Sync time="800.731"/>
+še vedno, 
+<Sync time="801.871"/>
+#eee, mora, na primer v tem konkretnem primeru, učenec razli() razlikovati med glagolom 
+<Sync time="806.95"/>
+"morati" in "moči" 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="808.461"/>
+in potem tudi, ali jim() jima sledi glagol v določni ali nedoločni obliki, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="813.128"/>
+torej se nam je zdelo, da ne odvzamemo zahtevnosti nalogi, če, #e, 
+<Sync time="817.801"/>
+v navodilu usmerimo, na kaj je treba biti pozoren. 
+</Turn>
+<Turn startTime="820.605" endTime="824.344">
+<Sync time="820.605"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="824.344" endTime="845.934" fidelity="low">
+<Sync time="824.344"/>
+Pri tipu premakni mora učenec recimo premakniti vejico 
+<Sync time="828.504"/>
+na pravo mesto. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="830.221"/>
+Zdaj, včasih je teh vejic več 
+<Sync time="832.224"/>
+in je katera že pravilno postavljena, pa mora premakniti samo eno, 
+<Sync time="836.464"/>
+čeprav lahko premika obe, skratka, podtipov, #eee, 
+<Sync time="840.347"/>
+vseh nalog v bistvu, je več, 
+<Sync time="842.984"/>
+ki se razlikujejo glede na zahtevnostno stopnjo. 
+</Turn>
+<Turn startTime="845.934" endTime="854.278">
+<Sync time="845.934"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="854.278" endTime="865.605" fidelity="low">
+<Sync time="854.278"/>
+To je tip izberi, 
+<Sync time="856.397"/>
+#eee, izbrala sem neki tak primer, kjer, 
+<Sync time="859.306"/>
+#eee, mora učenec izbrati vse povedi z napačno rabo, torej 
+<Sync time="863.521"/>
+jih mora izbrati več. 
+</Turn>
+<Turn startTime="865.605" endTime="878.287">
+<Sync time="865.605"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="878.287" endTime="893.08" fidelity="low">
+<Sync time="878.287"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ Potem pa vam pokažem še tri tipe nalog, ki, 
+<Sync time="882.713"/>
+#e, temeljijo bolj na igri. 
+<Sync time="884.578"/>
+Recimo 
+<Sync time="886.103"/>
+dopolni, 
+<Sync time="887.645"/>
+#e, kjer mora učenec z vlečenjem črk 
+<Sync time="890.79"/>
+pravilno dopolniti besedo, 
+</Turn>
+<Turn startTime="893.08" endTime="906.169">
+<Sync time="893.08"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="906.169" endTime="907.665" fidelity="low">
+<Sync time="906.169"/>
+ali sestavi. 
+</Turn>
+<Turn startTime="907.665" endTime="909.478">
+<Sync time="907.665"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="909.478" endTime="918.514" fidelity="low">
+<Sync time="909.478"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ Pri tej nalogi imajo na voljo neke delčke povedi ali delčke besed 
+<Sync time="914.838"/>
+in mora pravilno sestaviti 
+<Sync time="917.462"/>
+to poved. 
+</Turn>
+<Turn startTime="918.514" endTime="925.489">
+<Sync time="918.514"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+<Sync time="925.055"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="925.489" endTime="929.191" fidelity="low">
+<Sync time="925.489"/>
+#Eee, in pa še rešeto, 
+<Sync time="927.325"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ pardon, še rešeto. 
+</Turn>
+<Turn startTime="929.191" endTime="932.308">
+<Sync time="929.191"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="932.308" endTime="969.835" fidelity="low">
+<Sync time="932.308"/>
+Treba poiskati pravilno manjkajočo besedo. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="936.385"/>
+#Eee, zdaj, lahko bi se zgodilo, da bi, bila v rešetu tudi kakšna beseda, ki bi smiselno ustrezala, #eee, 
+<Sync time="944.309"/>
+pomenu povedi, povedi. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="946.71"/>
+#Eee, tako da s(), da bi to preprečili, smo nekako, #e, napisali prve tri črke 
+<Sync time="952.702"/>
+ali pa prej nekaj črk. 
+<Sync time="954.736"/>
+Pa tudi mogoče je lažje iskati potem, #e, odgovor v rešetu. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="960.391"/>
+Nenazadnje tudi ne preverjamo, kako hiter je nekdo v iskanju besede, ampak, #e, s() vnašamo nekaj igre,
+<Sync time="968.381"/>
+#e, v naloge. 
+</Turn>
+<Turn startTime="969.835" endTime="974.951">
+<Sync time="969.835"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="974.951" endTime="1153.091" fidelity="low">
+<Sync time="974.951"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="975.524"/>
+#Eee, če ste bili pozorni, je bilo med prikazom tipov nalog eno navodilo izberi vse nepravilne povedi in svojo izbiro utemelji. 
+<Sync time="985.411"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ Ker gre za posebno tip, #e, naloge, zaenkrat v beta verziji to še ne deluje, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="990.775"/>
+#e, skratka nekatere naloge, predvsem tiste z višjo zahtevnostno stopnjo, 
+<Sync time="995.725"/>
+od učenca zahtevajo tudi, da svojo izbiro, svoj popravek utemelji. 
+<Sync time="1000.988"/>
+In, #eee, ker smo želeli preprečiti, da bi bilo to vnašanje 
+<Sync time="1005.747"/>
+preveč prosto, da bi učenci na primer vnašali pravopis do neustrezne utemeljitve, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1011.069"/>
+in bi bile te 
+<Sync time="1012.246"/>
+prepoznane kot pravilne na podlagi nekih ključnih besed, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1015.638"/>
+smo v bistvu mi že pripravili utemeljitve, ki jih mora učenec potem ustrezno dokončati oziroma dopolniti. 
+<Sync time="1022.685"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ In da je taka naloga uspešno opravljena, mora poznati tako pravilen odgovor, torej najprej izbere poved s pravilno obliko glagola, 
+<Sync time="1031.677"/>
+in potem izbrati tudi, #e, pri() pravilno dopolniti utemeljitev, sicer taka naloga, kot rečeno, ni uspešno opravljena. 
+<Sync time="1040.405"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1041.317"/>
+In, #e, če učenec ob reševanju ne ve točno, na kaj mora biti pozoren v primeru ali se ne spomni pravila ali karkoli drugega, 
+<Sync time="1049.917"/>
+ima na voljo različne oblike pomoči. 
+<Sync time="1053.227"/>
+Prva pomoč, #eee, taka, ki še ne izda veliko, je namig. 
+<Sync time="1058.456"/>
+S tem učenca 
+<Sync time="1059.614"/>
+samo nekako usmerimo v razmišljanju, na kaj naj bo pozoren pri nalogi, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1065.375"/>
+ne damo pa mu še neke razlage. 
+<Sync time="1068.487"/>
+No, in ta druga oblika, #e, pomoči, 
+<Sync time="1071.73"/>
+če pogledate, #eem, na to sli() ta posnetek zaslonski, je zgoraj desno en tak vprašajček. 
+<Sync time="1078.607"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ In če na ta vprašajček učenec ob reševanju naloge klikne, se odpre, #eee, kratka razlaga. 
+<Sync time="1086.926"/>
+Na primer, #e, pri vstavljanju vejic najprej dobi namig, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1091.509"/>
+potem mu z razlago povemo, da gre za podredno zloženo poved iz glavnega in odvisnega stavka in med njima vedno stoji vejica. 
+<Sync time="1099.41"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ #Eee, zdaj, če mu še ta razlaga ne bi zadostovala za uspešno, #e, 
+<Sync time="1104.906"/>
+opravljeno nalogo oziroma če, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1107.368"/>
+#eee, bi ga o tej temi zanimalo kaj več, 
+<Sync time="1110.259"/>
+se lahko, 
+<Sync time="1111.56"/>
+#eem, 
+<Sync time="1112.522"/>
+tako med reševanjem kot tudi kadarkoli, #eee, 
+<Sync time="1115.638"/>
+dru() drugače usmeri v bazo znanja, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1119.068"/>
+kjer so zbrane te razlage, sicer v nekoliko daljši obliki. 
+<Sync time="1123.722"/>
+#Eee, 
+<Sync time="1124.523"/>
+naj povem samo, da to še ni razlaga iz baze, ker 
+<Sync time="1127.56"/>
+baza še ni dokončana. 
+<Sync time="1129.392"/>
+Ampak za ponazoritev, torej, 
+<Sync time="1131.654"/>
+#eee, v bazi razlag ga pričaka neka dolga razlaga, 
+<Sync time="1135.333"/>
+ki je obsežnejša, vsebuje primere iz korpusa. 
+<Sync time="1139.247"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ Potem ima učenec možnost, 
+<Sync time="1141.799"/>
+#eee, preveriti še neke povezane teme ali se preusmeri na druge relevantne spletne strani, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1148.746"/>
+#eee, na primer na Jezikovno svetovalnico ali katerokoli drugo stran. 
+</Turn>
+<Turn startTime="1153.091" endTime="1155.459">
+<Sync time="1153.091"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1155.459" endTime="1179.014" fidelity="low">
+<Sync time="1155.459"/>
+Skratka, #eem, zdaj se naš projekt res že počasi približuje koncu, upam, da že komaj čakate, da boste lahko začeli uporabljati to e-okolje. 
+<Sync time="1166.537"/>
+#Eee, tudi mi že komaj čakamo, da to zaživi. 
+<Sync time="1169.882"/>
+#Eee, tako da hvala vam za pozornost in 
+<Sync time="1173.048"/>
+naj bo Slovenščina na dlani koristna popestritev pouka. Hvala. 
+<Sync time="1178.343"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1179.014" endTime="1197.679" fidelity="low">
+<Sync time="1179.014"/>
+Hvala tebi, Špela, 
+<Sync time="1180.668"/>
+#eee, za predstavitev. 
+<Sync time="1183.213"/>
+Zdaj pa vabim in dajem besedo vodjo našega projekta, 
+<Sync time="1188.372"/>
+izredno profesorico doktorico Natalijo Ulčnik, 
+<Sync time="1191.958"/>
+da predstavi sklop o frazemih in pregovorih. 
+<Sync time="1196.101"/>
+Izvoli. 
+</Turn>
+<Turn speaker="spk4" startTime="1197.679" endTime="1581.032" fidelity="low">
+<Sync time="1197.679"/>
+Ja, hvala lepa za besedo. 
+<Sync time="1200.274"/>
+Upam, da se vse ustrezno vidi in da se slišimo. 
+<Sync time="1205.014"/>
+Skratka, ta predstavitev je nastala v soavtorstvu, torej ob meni sta soavtorja še Matej Meterc in profesorica Vida Jesenšek. 
+<Sync time="1214.776"/>
+#Eee, dogovorili smo se, da jaz danes to predstavim, vmes se bo vključil tudi kolega Meterc. 
+<Sync time="1221.104"/>
+Profesorico Vido Jesenšek pa ste spoznali že včeraj. 
+<Sync time="1225.616"/>
+#E, v današnji predstavitvi se bomo uvodoma posvetili poznavanju 
+<Sync time="1230.866"/>
+in razumevanju frazemov in pregovorov, zlasti med mladimi, 
+<Sync time="1235.59"/>
+se dotaknili njihove obravnave pri pouku 
+<Sync time="1238.864"/>
+in predstavili vključevanje frazemov in pregovorov v e-okolje Slovenščina na dlani. 
+<Sync time="1246.417"/>
+Če se najprej ozremo na frazeme, lahko seveda hitro ugotovimo, da so to pravzaprav enote, ki so značilne za naše 
+<Sync time="1255.997"/>
+vsakodnevno sporazumevanje, 
+<Sync time="1258.255"/>
+da so vseprisotne in da se z njimi srečujemo in jih s() in jih spoznavamo v bistvu že od zgodnjega otroštva naprej. 
+<Sync time="1267.512"/>
+Njihovo poznavanje pa je lahko pasivno ali aktivno. 
+<Sync time="1272.808"/>
+Nekatere enote poznamo, smo zanje slišali, 
+<Sync time="1276.455"/>
+nekatere razumemo, drugih ne, 
+<Sync time="1278.997"/>
+nekatere bi znali pomensko razložiti, spet drugih 
+<Sync time="1282.661"/>
+ne. 
+<Sync time="1283.579"/>
+Nekatere znamo uporabiti, drugih ne, skratka, to, #e, 
+<Sync time="1288.711"/>
+aktivno in pasivno, #eem, poznavanje 
+<Sync time="1292.202"/>
+in nabor enot, ki jih aktivno ali pasivno poznamo, se vseskozi spreminja. 
+<Sync time="1298.469"/>
+Frazeološka zmožnost vsakega posameznika 
+<Sync time="1302.221"/>
+se torej razvija vse življenje. 
+<Sync time="1304.945"/>
+Gre za en postopen in, #e, spontan razvoj, 
+<Sync time="1309.251"/>
+ki pa je seveda odvisno od mnogih dejavnikov. 
+<Sync time="1313.318"/>
+In prav zaradi tega se lahko med vrstniki kažejo tudi precejšnje razlike. 
+<Sync time="1320.633"/>
+V slovenskem prostoru ni prav veliko raziskav, ki bi na kakšnem res obsežnem vzorcu preverjale poznavanje, razumevanje in rabo frazemov med osnovnošolci in srednješolci. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1333.996"/>
+Obstaja pa kar nekaj raziskovalnih nalog 
+<Sync time="1337.583"/>
+in tudi te so seveda zelo dragocen prispevek. 
+<Sync time="1341.906"/>
+Na tem mestu pa bi opozorila, #eee, in omenila, torej frazeologinjo Eriko Kržišnik, 
+<Sync time="1349.102"/>
+ki je v svoji raziskavi med drugim ugotovila, 
+<Sync time="1352.939"/>
+da se frazeološka zmožnost govorcev od konca osnovne do konca srednje šole 
+<Sync time="1358.865"/>
+zelo razvije. 
+<Sync time="1361.096"/>
+K temu seveda, #e, delno pripomore, #e, pripomore šolski sistem, delno pa seveda, #e, na to vpliva tudi samo starostno obdobje, 
+<Sync time="1370.234"/>
+v katerem, #e, začnejo na različne na() načine širiti 
+<Sync time="1374.716"/>
+svoje obzorje. 
+<Sync time="1377.375"/>
+V času izvajanja projekta so nam učiteljice in učitelji slovenščine velikokrat povedali, #e, da so frazemi za učence in dijake precej trd oreh, 
+<Sync time="1388.619"/>
+da jih pogosto ne razumejo oziroma si jih neustrezno interpretirajo, 
+<Sync time="1394.208"/>
+da jih ne zmorejo ustrezno pomensko pojasniti in podobno. 
+<Sync time="1398.588"/>
+Kaj torej narediti, da bi bili rezultati boljši? 
+<Sync time="1403.569"/>
+Pomembno je seveda, da je frazeologija teoretično predstavljena pri pouku, 
+<Sync time="1409.187"/>
+ker se na ta način začne njeno usmerjeno in sistematično spoznavanje. 
+<Sync time="1415.506"/>
+V učnih načrtih, moram reči, #e, da smo te stvari pregledali, in, #eem, moram 
+<Sync time="1421.844"/>
+torej povedati, da je ugotovitev ta, da je frazeologiji, #e, odmerjen manjši prostor 
+<Sync time="1427.63"/>
+v učnih načrtih. 
+<Sync time="1429.371"/>
+#E, res pa je, da se stanje počasi izboljšuje in k temu seveda prispeva tudi razvoj frazeologije kot vede. 
+<Sync time="1438.444"/>
+Opazimo lahko tudi, da so frazemi, pregovori in tudi sorodne enote prisotni v različnih učnih gradivih, torej za različna 
+<Sync time="1448.04"/>
+predmetna področja, ne samo za slovenščino, in to od prvega razreda naprej. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1454.087"/>
+To se pravzaprav povezuje s tistim, kar smo povedali uvodoma, da so te enote vseprisotne, 
+<Sync time="1460.088"/>
+da jih lahko uporabimo, #eem, čisto spontano, lahko pa seveda tudi s kakšnim posebnim namenom, na primer, da bi pritegnili pozornost, 
+<Sync time="1469.064"/>
+#e, in tako ne bo nič nenavadnega, če jih najdemo tudi v kakšnem učbeniku za zgodovino in podobno. 
+<Sync time="1476.491"/>
+Izjemno pomembno pa je, da se, 
+<Sync time="1479.239"/>
+#e, frazemom, torej v času izobraževanja, tudi načrtno in premišljeno posvetimo, kot sem rekla, pri pouku slovenščine, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1486.767"/>
+kar je trenutno vezano zlasti na sedmi razred osnovne šole in drugi 
+<Sync time="1492.24"/>
+letnik srednje šole. 
+<Sync time="1494.341"/>
+Zakaj je to pravzaprav, #eee, tako zelo pomembno? 
+<Sync time="1498.798"/>
+Predvsem zato, da učenci in dijaki spoznajo, 
+<Sync time="1502.983"/>
+#e, lastnosti frazemov, seveda tudi pregovorov, 
+<Sync time="1506.757"/>
+torej da poznajo, #e, definicijo. 
+<Sync time="1509.313"/>
+Ker na podlagi te potem lahko vedno znova presojajo, 
+<Sync time="1513.915"/>
+ali je neka besedna zveza frazem ali ni 
+<Sync time="1517.31"/>
+oziroma ali je neka enota pregovor ali ni. 
+<Sync time="1520.754"/>
+Pogosto namreč niso prepričani, 
+<Sync time="1523.535"/>
+zlasti za enote, #e, ki jih oni sicer dobro poznajo, recimo "iti na živce" ali pa "v tretje gre rado". 
+<Sync time="1531.116"/>
+Ali je zdaj to pregovor ali ni? 
+<Sync time="1533.324"/>
+Če poznaš definicijske lastnosti, seveda lahko hitro 
+<Sync time="1537.592"/>
+preveriš. 
+<Sync time="1538.595"/>
+Pomembno je torej, da uzavestijo te enote, 
+<Sync time="1541.761"/>
+#eee, 
+<Sync time="1542.564"/>
+s tem 
+<Sync time="1543.549"/>
+kasneje začenjajo spoznavati tudi njihove prenovitve, 
+<Sync time="1547.896"/>
+tudi kakšne humorne učinke in podobno. 
+<Sync time="1551.296"/>
+Ob šali, ki je tukaj navedena na desni strani prosojnice, se bomo tako nasmejali samo v primeru, 
+<Sync time="1557.756"/>
+če bomo seveda uspešno razvozlali ustrezne pomene. 
+<Sync time="1563.118"/>
+Skupaj s frazemi pa pri pouku navadno obravnavamo tudi pregovore, 
+<Sync time="1568.489"/>
+jih torej ob frazemih omenimo 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1571.099"/>
+in besedo zdaj predajam vodilnemu paremiologu v slovenskem prostoru, torej strokovnjaku za pregovore in sorodne enote, 
+<Sync time="1579.06"/>
+doktorju Mateju Metercu. 
+</Turn>
+<Turn startTime="1581.032" endTime="1582.668">
+<Sync time="1581.032"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1582.668" endTime="1586.602" fidelity="low">
+<Sync time="1582.668"/>
+Dober dan, upam, da se me s() sliši. 
+<Sync time="1585.285"/>
+Hvala za besedo. 
+</Turn>
+<Turn startTime="1586.602" endTime="1589.24">
+<Sync time="1586.602"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1589.24" endTime="1591.721" fidelity="low">
+<Sync time="1589.24"/>
+Je v redu zvok? Je. 
+<Sync time="1591.198"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1591.721" endTime="2021.611" fidelity="low">
+<Sync time="1591.721"/>
+Raziskave o poznavanju in razumevanju pregovorov so bile 
+<Sync time="1595.101"/>
+opravljene že pred 
+<Sync time="1597.614"/>
+ne() določenim časom v okviru raziskav za nastanek paremiološkega 
+<Sync time="1602.619"/>
+minimuma in optimuma. 
+<Sync time="1605.032"/>
+Paremiološki minimum je koncept 
+<Sync time="1607.156"/>
+ruskega frazeologa Permjakova o lestvici najbolj poznanih paremioloških izrazov v določenem 
+<Sync time="1613.909"/>
+jeziku. 
+<Sync time="1615.606"/>
+Paremiološki minimum je določen že za mnoge jezike in od nedavnega tudi za slovenščino. 
+<Sync time="1622.129"/>
+Paremiološki optimum pa je novejši koncept iz časa vzpona korpusnega jezikoslovja 
+<Sync time="1627.814"/>
+in govori o tem, da je treba 
+<Sync time="1629.676"/>
+najbolj optimalno lestvico pogovorov, 
+<Sync time="1632.264"/>
+torej za najbolj optimalno lestvico 
+<Sync time="1634.833"/>
+pregovorov upoštevati tako poznanost kot tudi 
+<Sync time="1638.694"/>
+pogostnost, ki je določena s pomočjo korpusnih raziskav, 
+<Sync time="1642.485"/>
+seveda 
+<Sync time="1643.314"/>
+danes najlažje. 
+<Sync time="1644.87"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1645.845"/>
+V okviru teh raziskav je v slovenščini nastal leta dva tisoč sedemnajst paremiološki 
+<Sync time="1651.197"/>
+optimum tristotih 
+<Sync time="1653.009"/>
+paremioloških izrazov, pregovor, nekaj rekov in tudi ostalih, #e, paremioloških žanrov. 
+<Sync time="1658.432"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1659.472"/>
+#E, in iz tega nabora, 
+<Sync time="1661.978"/>
+#e, z mojo pomočjo, 
+<Sync time="1664.031"/>
+#e, tudi projekt Slovenščina na dlani črpa za ta 
+<Sync time="1667.863"/>
+segment, #eee, 
+<Sync time="1669.29"/>
+#e, pomoči pri pouku in, #e, vaj. 
+<Sync time="1671.619"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1672.94"/>
+No, in v šolskem procesu je smiselno 
+<Sync time="1677.321"/>
+po našem mnenju spodbuditi 
+<Sync time="1679.287"/>
+k poznavanju 
+<Sync time="1680.528"/>
+tega, 
+<Sync time="1681.994"/>
+#e, jedra paremiološkega, teh najbolj poznanih 
+<Sync time="1685.845"/>
+enot. 
+<Sync time="1686.831"/>
+#Eee, ker so seveda tudi najlažje izhodišče za učenje o pregovorih in o sorodnih enotah. 
+<Sync time="1693.206"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1694.282"/>
+#E, tako da smo pripravili, #e, tudi no() na tem, v tej osnovi slovarček pregovorov, stotih pregovorov, ki bo vključen v to okolje. 
+<Sync time="1703.667"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1704.858"/>
+No, #e, seveda je velika možnost, da so se dijaki in učenci s temi pregovori že srečali, ker gre, 
+<Sync time="1711.308"/>
+#e, prav gotovo za najbolj pogoste in poznane enote. 
+<Sync time="1714.665"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1715.674"/>
+In se bodo z njimi tudi pogosto srečevali v prihodnosti, z njimi 
+<Sync time="1719.684"/>
+pa bojo tudi pridobili izkušnje za 
+<Sync time="1722.71"/>
+razumevanje in prepoznavanje 
+<Sync time="1724.796"/>
+izrazov, ki jih pa še ne poznajo in jih bodo v prihodnosti šele, 
+<Sync time="1728.72"/>
+#eee, srečali v vsakdanjem življenju v različnih besedilih in govornih situacijah. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1734.96"/>
+Paremiološka zmožnost ljudi 
+<Sync time="1737.311"/>
+ves čas raste. 
+<Sync time="1739.259"/>
+In pregovore ves čas sprejemajo v svoje besedišče, tako mladi kot odrasli. 
+<Sync time="1744.598"/>
+Tudi slovenske raziskave so pokazale, 
+<Sync time="1746.996"/>
+#eee, s pomočjo že omenjene, #e, ankete in, #e, sorodnih raziskav 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1751.711"/>
+da ni res, da mladi sploh ne bi poznali in uporabljali pregovorov, 
+<Sync time="1756.081"/>
+#e, ali pa da bi jih, kot je neka taka, 
+<Sync time="1759.468"/>
+#e, napačna pogos(), ampak pogosto predstavla, 
+<Sync time="1762.436"/>
+predstava iz generacije v generacijo manj uporabljali, seveda se nekateri pregovori zastarijo, ampak po drugi strani tudi 
+<Sync time="1768.869"/>
+se pojavljajo novi. 
+<Sync time="1771.227"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1771.942"/>
+No, in tudi slovenske raziskave so pokazale, da 
+<Sync time="1774.851"/>
+najstniki seveda poznajo nekoliko manj pregovorov 
+<Sync time="1778.216"/>
+kot, #e, 
+<Sync time="1779.221"/>
+odrasli govorci, 
+<Sync time="1780.942"/>
+ampak vseeno presenetljivo 
+<Sync time="1783.017"/>
+veliko. 
+<Sync time="1784.22"/>
+#E, vsekakor pa je večji delž izrazov, ki jih oni, 
+<Sync time="1789.168"/>
+#e, poznajo, 
+<Sync time="1790.492"/>
+vendar jih ne uporabljajo, torej so še v nekem 
+<Sync time="1794.509"/>
+sklopu pasivnega 
+<Sync time="1796.432"/>
+besedišča, pasivne paremiologije. 
+<Sync time="1798.576"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1799.839"/>
+#Eem, 
+<Sync time="1800.613"/>
+vendar pa se tudi te enote, 
+<Sync time="1802.92"/>
+ki so sprva le pasivno, 
+<Sync time="1805.331"/>
+#eee, govorcem poznane, kasneje pogosto primikajo v aktivni del besedišča. 
+<Sync time="1811.053"/>
+#Eee, če preidem na 
+<Sync time="1812.946"/>
+še na temo pregovorov v, 
+<Sync time="1815.759"/>
+pri pouku od prej, na kaj bi 
+<Sync time="1817.979"/>
+bilo najbolj, #e, smiselno verjetno usmeriti pozornost, ko 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1822.117"/>
+se, #e, učencem, #e, skuša predstaviti pregovore, malo bolj, #eem, od blizu, malo bolj natančno. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1829.527"/>
+#Eee, zelo pomembno je, 
+<Sync time="1831.881"/>
+in sicer s pomočjo, tako s pomočjo slovarčka, ki smo ga pripravili, in tako tudi z nalogami in z bazo znanja, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1839.799"/>
+#e, l() 
+<Sync time="1840.477"/>
+otrokom in, #e, mladostnikom, 
+<Sync time="1842.863"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ #e, učencem, dijakom predstaviti pomeni konkretnih, v slovarček vključenih enot. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1848.615"/>
+S pomočjo zgledov, #e, tudi o š() neki širini, vsaj približno o eni 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ situaciji, v kateri se 
+<Sync time="1856.593"/>
+pregovori uporabljajo, 
+<Sync time="1858.328"/>
+želimo tudi 
+<Sync time="1859.536"/>
+podati vsaj 
+<Sync time="1860.629"/>
+glavne podatke o variantah pregovorov, kajti veliko delež ver(), #e, pregovorov, #e, je močno varianten in variante v bistvu soobstajajo v rabi. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1870.736"/>
+In ne gre 
+<Sync time="1871.902"/>
+za vprašanje pravilne in nepravilne oblike, ampak pogosto za res več 
+<Sync time="1876.718"/>
+oblik, ki soobstajajo v rabi. 
+<Sync time="1880.148"/>
+O uvajalnih, #e, sredstvih je tudi, #e, vredno kaj izvedeti, in sicer s pomočjo, #e, vaj, pa tudi s pomočjo baze znanja. 
+<Sync time="1889.659"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ #Eee, ta uvajalna sredstva, kot na primer stara modrost ali pa saj veste, kako pravijo, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1896.348"/>
+#eee, so koristna z dveh vidikov. Prvič govorcu pomagajo ugotoviti, da gre v besedilu, ki ga je pravkar prebral ali slišal, 
+<Sync time="1904.19"/>
+za paremiološki izraz, 
+<Sync time="1906.124"/>
+tudi če ga še ne pozna. 
+<Sync time="1907.828"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1908.646"/>
+#E, drugič 
+<Sync time="1909.549"/>
+so pa ta sredstva že sama po sebi bogat nabor, 
+<Sync time="1913.191"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="1913.807"/>
+#e, sredstev za izražanje 
+<Sync time="1915.685"/>
+in pomagajo, #eee, tudi v(), #e, uvajati, 
+<Sync time="1919.554"/>
+#eee, že usvojene, #e, pregovore 
+<Sync time="1922.712"/>
+na najrazličnejše načine, na bolj slikovit način torej uvedemo tudi, 
+<Sync time="1926.394"/>
+#e, pregovor v svo() svojem besedilu. 
+<Sync time="1928.962"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1930.09"/>
+Pomembno je seveda razlikovanje pregovorov od besednozveznih frazemov, 
+<Sync time="1934.185"/>
+#e, pri čemer, #e, pomagajo naloge 
+<Sync time="1937.074"/>
+in seveda tudi baza znanja. 
+<Sync time="1939.714"/>
+O razlikovanju pregovorov drugih paremioloških izrazov, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1943.306"/>
+#eee, pa predvsem v bazi znanja, 
+<Sync time="1946.328"/>
+kajti pomembno je, da ločujemo 
+<Sync time="1949.292"/>
+#eee, 
+<Sync time="1949.981"/>
+da toj() 
+<Sync time="1951.285"/>
+učencem tudi predstavimo vsaj obrise tega, #eee, paremiološkega zaledja, v katerem obstajajo še vraže, 
+<Sync time="1958.494"/>
+vremenski pregovori, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1960.619"/>
+#eee, reki, 
+<Sync time="1961.779"/>
+#eee, velerizmi in podobni izra() 
+<Sync time="1964.343"/>
+izrazi. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1965.855"/>
+Poleg tega pa je dobro 
+<Sync time="1968.248"/>
+predstaviti, 
+<Sync time="1970.137"/>
+#eem, učencem in dijakom tudi, #eem, 
+<Sync time="1973.952"/>
+nekatere druge vire, 
+<Sync time="1976.172"/>
+#e, torej na primer nekatere zbirke, 
+<Sync time="1978.719"/>
+slovarje, v katerih so 
+<Sync time="1981.568"/>
+dandanes 
+<Sync time="1982.789"/>
+v tem trenutku najbolj, 
+<Sync time="1984.956"/>
+najbolje predstavljeni 
+<Sync time="1986.704"/>
+pregovori. 
+<Sync time="1988.085"/>
+Med njimi seveda klasični SSKJ, pa tudi SSKJ tretje izdaje oziroma 
+<Sync time="1993.908"/>
+eSSKJ, kot je poimenovan na portalu Fran. 
+<Sync time="1997.201"/>
+No, pa od prejšnjega leta 
+<Sync time="1999.834"/>
+tudi Slovar pregovorov in sorodnih paremioloških izrazov, ki je na istem portalu začel, torej na portalu Fran, izhajati lani. 
+<Sync time="2007.467"/>
+#E, z vsem tem bi učence verjetno, #eee, 
+<Sync time="2011.832"/>
+lahko kar dobro usmerili v večje poznavanje 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2015.521"/>
+tega dela besedišča. 
+<Sync time="2017.455"/>
+Hvala za besedo, #eee, 
+<Sync time="2019.235"/>
+#eem. 
+<Sync time="2020.443"/>
+
+<Event desc="surrounding sound" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2021.611" endTime="2537.81" fidelity="low">
+<Sync time="2021.611"/>
+Hvala, 
+<Sync time="2023.502"/>
+tako, #eem, kaj je bil torej naš namen v zvezi s frazemi in pregovori v okolju Slovenščina na dlani? 
+<Sync time="2030.108"/>
+Želeli smo vsekakor prispevati k spoznavanju frazemov in pregovorov, kot je bilo že izpostavljeno, 
+<Sync time="2035.936"/>
+želeli smo vplivati tudi na razvoj frazeološke in paremiološke kompetence. 
+<Sync time="2041.903"/>
+Imeli pa smo tri osnovne cilje: 
+<Sync time="2044.812"/>
+prvi cilj je bil pripraviti slovarske opise, 
+<Sync time="2048.103"/>
+potem drugi cilj je bil ponuditi raznovrstne vaje 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2051.933"/>
+in tretji cilj je bil, #e, vezan na pripravo torej razlag teoretičnih pojmov. 
+<Sync time="2058.701"/>
+Pri slovarskih opisih smo morali na začetku narediti izbor enot, ki jih bomo zajeli, kolega je že omenil, da smo izbrali sto pregovorov in tudi sto frazemov, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2070.079"/>
+in pri tem smo upoštevali tri kriterije: 
+<Sync time="2073.393"/>
+prvi kriterij je bila aktualnost, drugi didaktična relevantnost in tretji pokrivanje različnih tematskih skupin. 
+<Sync time="2082.237"/>
+Pri frazemih je pri tem seveda 
+<Sync time="2085.658"/>
+neki poseben problem predstavljalo dejstvo, da nimamo, #e, torej nimamo seznamov najpogostejših ali pa vse pogostejših enot, 
+<Sync time="2095.092"/>
+medtem ko smo pri pregovoru, pri pregovorih, kot je bilo že izpostavljeno, lahko izhajali iz tako imenovanega 
+<Sync time="2102.041"/>
+paremiološkega optimuma, torej seznama najbolj poznanih in uporabljenih enot. 
+<Sync time="2108.22"/>
+Aktualnost frazemov smo tako vezali na njihovo prisotnost v učnem gradivu, kar pomeni, da res obstaja velika verjetnost, 
+<Sync time="2116.488"/>
+da se bodo s temi enotami učenci in dijaki dejansko srečali pri pouku, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2121.077"/>
+upoštevali pa smo tudi zadostno pogostost v korpusu sodobnih pisnih besedil, zlasti Gigafida verzija dve pika nič. 
+<Sync time="2131.604"/>
+Kot didaktično relevantne smo opredelili tiste enote, ki jih učenci in dijaki nekoliko težje razumejo, in je to seveda preverjeno, da jih težje razumejo, 
+<Sync time="2142.13"/>
+pri tem, #e, smo upoštevali konkretne predloge učiteljev in učiteljic, ki sodelujejo v projektu, oni so izpostavili frazeme in pregovore, za katere so opazili, da jih učenci in dijaki slabše poznajo oziroma da jih ne razumejo, 
+<Sync time="2158.092"/>
+na primer gordijski vozel, posuti se s pepelom, priti z dežja pod kap, vleči dreto, 
+<Sync time="2165.454"/>
+tudi imeti maslo na glavi, čeprav osebno niti nisem tega frazema tukaj, #e, pričakovala. 
+<Sync time="2172.918"/>
+Na podlagi tretjega kriterija pa smo želeli poudariti, da s frazemi in pregovori lahko spregovorimo praktično o vsem. 
+<Sync time="2181.625"/>
+O človeku, o naših odnosih, o dejavnostih, o predmetnosti, o času in prostoru, količini, meri, stopnji in tako naprej. 
+<Sync time="2191.797"/>
+In z upoštevanjem teh treh kriterijev smo torej prišli do iz() do izbora enot. 
+<Sync time="2198.671"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="2199.22"/>
+Za te zbrane enote smo potem pripravili slovarski opis, #eee, ki vsebuje osnovno obliko, 
+<Sync time="2206.21"/>
+potem pomen, torej tako kratko kot daljšo obliko, torej pra() prazen pomenski opis, 
+<Sync time="2213.518"/>
+potem smo po potrebi dodali tudi pragmatična pojasnila, navedli morebitne sopomenke, protipomenke, ki smo jih zasledili, in vse ustrezno ponazorili z zgledi, 
+<Sync time="2224.907"/>
+ki so tokrat res avtentični, torej vzeti in konkretnih pisnih besedil, ki jih zasledimo v korpusu, 
+<Sync time="2231.231"/>
+in pa trudili smo se navesti tudi 
+<Sync time="2233.917"/>
+dovolj besedilnega okolja, ker to besedilno okolje v bistvu zelo, #e, pomembno, da lahko razberemo pomeni. 
+<Sync time="2241.555"/>
+Če smo opazili kakšne variante, smo potem dodali tudi te. 
+<Sync time="2247.323"/>
+Tukaj en prikaz, #e, takšnega slovarskega, #e, slovarskega opisa za enoto bolje pozno kot nikoli, navedene so variante, pomeni in tako naprej, kot sem pravkar 
+<Sync time="2258.763"/>
+izpostavila. 
+<Sync time="2260.55"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2261.005"/>
+Na tej prosojnici pa je prikazano, kako, #eem, težko je pravzaprav napisati pomen nekega frazema, tukaj zdaj enaintrideset frazemov z našega seznama, 
+<Sync time="2271.316"/>
+#eem, če nimaš ustreznega sobesedila, torej nimaš, #eee, 
+<Sync time="2276.591"/>
+konteksta, v katerem je neki frazem uporabljen. 
+<Sync time="2280.035"/>
+#E, ena izmed učiteljic, ki z nami sodeluje, je tako v razredu na hitro razdelila liste in potem so učenci to 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2287.449"/>
+reševali, pisali pomen, in kot vidimo, je dejansko med vrstniki lahko tudi precejšnja razlika. 
+<Sync time="2295.009"/>
+Če pogledamo tukaj na levi strani, imeti maslo na glavi je, #e, pomensko določeno kot, #e, priden, torej zapisano priden, 
+<Sync time="2304.678"/>
+imeti maslo na glavi tukaj na desni pa biti kriv za nekaj. 
+<Sync time="2310.132"/>
+Tako da vidimo, #eem, da je to bila kar težka naloga zanje, 
+<Sync time="2314.849"/>
+če bi pa bile te enote v kontekstu, torej v nekem besedilu, 
+<Sync time="2319.763"/>
+#eee, pa verjamemo, da bi bili rezultati lahko seveda tudi precej boljši. 
+<Sync time="2326.103"/>
+Vse podatke, ki smo jih tako imeli zbrane, smo potem skušali v čim večji meri izkoristiti tudi pri zasnovi in pripravi vaj, želeli smo ponoviti raznovrstne vaje, tako glede zahtevnosti kot tudi glede tipologije, 
+<Sync time="2340.864"/>
+in pa, #e, pomembno se nam je zdelo, #e, tudi ločiti vaje glede na to, kaj preverjajo. 
+<Sync time="2347.333"/>
+In glede na to smo ločili tri podsklope: prvi je vezan na podobo frazemov in pregovorov, drugi na njihov pomen in tretji na njihovo rabo. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2357.695"/>
+Nekatere naloge imajo elemente igrifikacije, 
+<Sync time="2361.246"/>
+#e, kot je bilo izpostavljeno že tudi za pravopis in slovnico, torej tukaj prikazan na sliki recimo, je prikazana igra 
+<Sync time="2369.219"/>
+spomin, kjer povezujejo 
+<Sync time="2371.355"/>
+frazem s sliko, torej nekako skušajo asociativno to dvoje povezati. 
+<Sync time="2376.225"/>
+Nekaj nalog pa je tudi ustvarjalnih, 
+<Sync time="2379.512"/>
+#e, v katerih se recimo lahko preizkusijo kot slovaropisci, 
+<Sync time="2384.097"/>
+#e, s seznama izberejo neko enoto in jo potem po navodilih in v skladu z zgledom, ki ga imajo, skušajo slovarsko opisati. 
+<Sync time="2391.916"/>
+Potem recimo tvorijo neko besedilo, v katerem lahko uporabijo frazeme in pregovore ali pa preprosto izražajo svoje mnenje o resničnosti, o aktualnosti 
+<Sync time="2402.107"/>
+izbranih, #e, pregovorov, tukaj en primer za enoto obleka naredi človeka. 
+<Sync time="2407.804"/>
+In tudi ta motivacijski zgled, ki je zapisan, je iz, #e, 
+<Sync time="2412.077"/>
+#e, torej realnega besedila. 
+<Sync time="2415.543"/>
+#E, tukaj na tej prosojnici vidimo izsek iz učnega e-okolja, na katerem je prikaz vaj, torej, #e, vsi štirje izklopi so navedeni, in zdaj če izberemo frazem in pregovori, podoba, 
+<Sync time="2427.833"/>
+in() imamo tukaj kar nekaj možnosti za naloge, recimo če izberemo dopolnjevanje frazemov in pregovorov, potem sistem, torej učno e-okolje, ponudi vaje, ki to 
+<Sync time="2437.911"/>
+preverjajo. 
+<Sync time="2439.824"/>
+Ker pa lahko pri reševanju vaj pride tudi do težav, smo pripravili ob tem še razlage oziroma odgovore na vprašanja, ki bi se uporabnikom lahko zastavljala. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2450.274"/>
+Razlage so usklajene z najnovejšimi spoznanji stroke, uporabljena je aktualna terminologija, recimo izraza, #mmm, rečenica in reklo se v stroki nista uveljavila, na kar je potem tudi opozorjeno. 
+<Sync time="2466.063"/>
+Pojasnjene so razlike, recimo med pregovorom in rekom in podobno. 
+<Sync time="2471.325"/>
+Vse razlage pa so zbrane tudi v 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+znanja, tako da jih lahko, #e, uporabljamo kot neki svojevrsten priročnik, kakršnega doslej v slovenskem prostoru za frazeologijo še nismo imeli. 
+<Sync time="2483.881"/>
+Tukaj je ta sklop znanje, ki nam to omogoča. 
+<Sync time="2488.337"/>
+Na tej prosojnici je, #e, primer, #e, torej takšne razlage za vprašanje, s kakšnim namenom uporabljamo frazeme 
+<Sync time="2496.533"/>
+in pregovore. 
+<Sync time="2497.925"/>
+In vse je tudi, #e, ponazorjeno s konkretnimi avtentičnimi zgledi. 
+<Sync time="2504.504"/>
+Če torej sklenemo, lahko ugotovimo, da frazemi in pregovori dejansko res pomembno sooblikujejo naše vsakdanje sporazumevanje, 
+<Sync time="2512.663"/>
+zato je prav, da jih ustrezno obravnavamo tudi pri pouku slovenščine. 
+<Sync time="2517.548"/>
+V učnem e-okolju Slovenščina na dlani smo skušali odpraviti primanjkljaje, ki smo jih na tej ravni opazili, 
+<Sync time="2525.114"/>
+in tako prispevati k spoznavanju frazemov in pregovorov, 
+<Sync time="2528.999"/>
+#e, ter k razvoju frazeološke in tudi paremiološke kompetence. 
+<Sync time="2534.406"/>
+Tukaj še nekaj, #eem, literature navedene. 
+</Turn>
+<Turn startTime="2537.81" endTime="2539.4">
+<Sync time="2537.81"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2539.4" endTime="2549.694" fidelity="low">
+<Sync time="2539.4"/>
+#Eee, tukaj je pa na tej zadnji prosojnici napisan še naš slogan: "Preklopi na slovenščino." 
+<Sync time="2546.219"/>
+Hvala lepa za pozornost. 
+<Sync time="2548.984"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2549.694" endTime="2580.612" fidelity="low">
+<Sync time="2549.694"/>
+#Eee, najlepša hvala obema za predstavitev. 
+<Sync time="2553.479"/>
+#Eee, zadnja predstavitev v tem tretjem sklopu. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2557.525"/>
+Torej če smo imeli najprej pravopis in slovnico, zdaj frazeme in pregovore, bo namenjena seveda besedilom, torej še 
+<Sync time="2564.745"/>
+tretjemu 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2565.938"/>
+oziroma četrtemu področju znotraj projekta Slovenščina na dlani. 
+<Sync time="2570.108"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2570.73"/>
+#Eee, 
+<Sync time="2571.552"/>
+predstavljali bova to področje besedil skupaj s kolegico 
+<Sync time="2576.934"/>
+Ines Voršič. 
+<Sync time="2579.283"/>
+#Eee, tako. 
+</Turn>
+<Turn startTime="2580.612" endTime="2582.233">
+<Sync time="2580.612"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2582.233" endTime="2585.905" fidelity="low">
+<Sync time="2582.233"/>
+N() upam, da vidite 
+<Sync time="2584.195"/>
+mojo predstavitev. 
+</Turn>
+<Turn startTime="2585.905" endTime="2590.789">
+<Sync time="2585.905"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+<Sync time="2589.487"/>
+<Background time="2589.487" type="speech" level="high"/>
+
+<Background time="2590.441" type="other" level="off"/>
+<Sync time="2590.441"/>
+
+<Event desc="surrounding sound" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2590.789" endTime="3201.374" fidelity="low">
+<Sync time="2590.789"/>
+Hvala. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2593.21"/>
+Tako. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2594.454"/>
+#Eee, 
+<Sync time="2595.076"/>
+torej področje besedil se znotraj projekta Slovenščina na dlani skriva pod sloganom Berem med vrsticami. 
+<Sync time="2602.673"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2603.259"/>
+#Eee, moj namen danes pa je pravzaprav, da vam predstavim, kateri so nameni in cilji tega področja, katere tipe nalog smo v bistvu izbrali, tudi v povezavi z učnimi cilji, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2614.971"/>
+kako je pravzaprav nastajala, #e, nastajalo to področje, se je oblikovala zbirka besedil, katera besedila bodo vključene, katere težave so se, vprašanja so se nam pojavljala pri tvorjenju besedila 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2627.367"/>
+in kaj v bistvu, kakšno funkcijo, vlogo pre() v() opravlja 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+. Določene stvari, kot sem že prej omenila, bo predstavila kolegica, docencka, docentka doktorica Ines Voršič. 
+<Sync time="2639.144"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2639.622"/>
+#Eee, zdaj cilj z vidika uporabnika, seveda najprej bi to želela predstaviti, ali uporabnice e-okolja je, da načrtno in zavestno razvija sporazumevalne jezikovne zmožnosti. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2653.426"/>
+Na tak način bo uporabnik ali uporabnica pridobivala znanja o jezikovni rabi, 
+<Sync time="2658.544"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ razvijala kritično branje oziroma interpretiranje izhodiščnega besedila, zlasti temu pravzaprav bomo dali kar velik poudarek, tudi kritičnemu branju 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2668.894"/>
+in ne samo iskanju neke informacije podatka iz besedila, 
+<Sync time="2673.106"/>
+pač pa tudi nekemu povzemanju, razumevanju dejansko besedila. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2677.945"/>
+In tako tudi se bo uporabnik ali uporabnica načrtno in zavestno učil o prvinah posamezne besedilne skupine, konkretno posamezne, na osnovi posameznega besedila. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2689.67"/>
+Torej kaj vse smo pravzaprav morali napraviti za to, da bo 
+<Sync time="2694.204"/>
+učno o() e-okolje to omogočali, 
+<Sync time="2696.958"/>
+omogočalo, 
+<Sync time="2698.313"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2699.014"/>
+najprej smo seveda pregledali učbeniško gradivo, obstoječa e-gradiva. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2704.265"/>
+Potem smo oblikovali neki scenarij uporabnikovih aktivnosti znotraj področja besedila, torej kaj naj bi pravzaprav uporabnik znotraj tega 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2713.646"/>
+e-okolja sploh počel, #eee, in na osnovi tega 
+<Sync time="2717.729"/>
+o() zelo grobega scenarija je sledila izdelava korpusa pisnih besedil, korpusa govorjenih besedil, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2725.457"/>
+sledilo je potem označevanje korpusov, 
+<Sync time="2728.085"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ izbrali smo seveda dolo() tipe nalog in vaj, ki so primerne za e-okolje, 
+<Sync time="2733.791"/>
+izbrali smo učne cilje, ki se nanašajo na besediloslovje, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2738.208"/>
+in naslednja faza za to, da bo e-okolje zaživelo, je bilo oblikovanje nalog in vaj 
+<Sync time="2744.390"/>
+ter zaporedje prikazovanja v samem e-okolju. 
+<Sync time="2747.58"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ Zato pa je bilo potrebno pravzaprav oblikovati tudi določene trditve k posameznim besedilom ali vprašanjem. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2755.044"/>
+Torej če grem zdaj najprej k prvemu sklopu, prvi sklop je torej bil izdelava zbirke Berta, torej Berta je zbirka besedil praktičnega sporazumevanja, 
+<Sync time="2764.77"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ G-Berta pomeni, to je podkorpus celotne 
+<Sync time="2768.82"/>
+zbirke Berta, ki zavzema devetinpetdeset besedil, av() 
+<Sync time="2773.905"/>
+naj izpostavim, do so to večinoma avtentična besedila, 
+<Sync time="2778.124"/>
+#eee, pridobljena, #eee, za vsako besedilo je bilo potrebno v bistvu zbrati 
+<Sync time="2783.735"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ soglasje za uporabo. 
+<Sync time="2785.996"/>
+Potem pisni 
+<Sync time="2787.271"/>
+podkorpus p() zbi(), #eee, P-Berta pa vsebuje dvesto šestnajst besedil, skupno torej dvesto petinsedemdeset besedil. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2795.476"/>
+Morda se ta številka zdi majhna, 
+<Sync time="2798.508"/>
+#eee, 
+<Sync time="2799.338"/>
+a je, #eee, 
+<Sync time="2802.15"/>
+pravzaprav 
+<Sync time="2803.233"/>
+kar veliko dela za oblikovanje tega korpusa 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2808.166"/>
+zaradi tega, ker je v bistvu bilo potrebno, #e, označiti poleg standardnega označevanja tudi še dodatne oznake dodati. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2817.735"/>
+In take, in to take oznake, ki bodo omogočale potem priklic želenega besedila ob želeni, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2825.769"/>
+#eee, 
+<Sync time="2826.568"/>
+učnem cilju, na primer, kar smo dodajali, v bistvu zbirka Berta bo 
+<Sync time="2832.591"/>
+dodatno označena, s tem da ima, 
+<Sync time="2835.181"/>
+imela informacijo o tem, ali je besedilo javno dostopno ali ni, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2839.45"/>
+katera je jezikovna zvrst, koliko udeležencev je sodelovalo pri 
+<Sync time="2843.686"/>
+komunikacijskem stiku, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2845.573"/>
+katera je funkcija besedila, kaj je tematski sklop, tematika, tema, prenosniki in zahtevnost besedila. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2852.001"/>
+Mogoče se to zdi, da smo dlakocepili tematski sklop, tematika, tema, pravzaprav smo, nam tematski sklop pomeni 
+<Sync time="2860.576"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ tista področja, 
+<Sync time="2862.491"/>
+#eee, znotraj katerih naj bi, #eee, n() 
+<Sync time="2866.853"/>
+neko besedilo bilo tvorjeno, se pravi ta tematski sklop je zelo široko področje, na primer zdravje, narava, odnosi, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ #eee, 
+<Sync time="2876.64"/>
+in tako dalje, tematika pa je potem na primer znotraj 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2881.39"/>
+zdravja, na primer že bolj specificirana, lahko je šport, lahko je prehrana ali kaj koli drugega. 
+<Sync time="2887.665"/>
+Tema je pa točno tista snov ali tematika znotraj kaj(), ki je obravnavana v nekem konkretnem besedilu, se pravi, če imamo tematiko, na primer češnje, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2898.317"/>
+potem je tema na primer priprava češnjevega sladoleda 
+<Sync time="2902.137"/>
+ali cvetenje češenj na Japonskem ali karkoli drugega, ne, se pravi, tu smo delali tako 
+<Sync time="2907.573"/>
+kar(), torej vse skupaj pa bi sodilo na primer v tematski sklop narava, ne. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2911.922"/>
+Tako da, #e, 
+<Sync time="2912.964"/>
+tu smo v bistvu delali te razlike, zato ker smo želeli pokazati, da lahko z neko temo, tematiko torej 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2920.995"/>
+obravnavamo v različnih besedilih na različne načine, kar pomeni, da nastajajo na tak način tudi različne besedilne skupine. 
+<Sync time="2928.784"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2929.655"/>
+Zakaj smo se v bistvu naslonili na Sejo, na te teme, zakaj smo pravzaprav izhajali iz teh tem, zaradi tega, ker Sejo pravi, da je to 
+<Sync time="2939.711"/>
+dokument, ki je pravzaprav pomemben za poučevanje kateregakoli jezika, torej ne samo za učenje tujih jezikov. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ In 
+<Sync time="2947.76"/>
+trudili smo se v bistvu pri korpusu Berta vključiti besedila, 
+<Sync time="2952.147"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ ki bi bila vsebinsko 
+<Sync time="2954.623"/>
+in po načinu obravnave te vsebine zanimiva za šolajočo mladino, torej za 
+<Sync time="2960.698"/>
+mladino od enajstega do devetnajstega leta starosti. 
+<Sync time="2964.57"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ #Eee, naj povem, da je zbirka Berta prva tovrstna, 
+<Sync time="2968.55"/>
+tovrstna zebe() zbirka pri nas, 
+<Sync time="2971.631"/>
+#eee, in da bodo v učnem e-okolju, 
+<Sync time="2976.782"/>
+#eee, besedila prikazana večpredstavnostno in v celoti, torej si bo pri mogoče najprej pogledati seveda videoposnetek, avdioposnetek ali pdf posnetek besedila. 
+<Sync time="2989.132"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="2989.892"/>
+#Eee, ker so nekatera besedila, ki so vključena v zbirko, #eee, daljša, #eee, po() 
+<Sync time="2996.221"/>
+smo v bistvu, 
+<Sync time="2998.441"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ #eee, 
+<Sync time="3000.019"/>
+bili prisiljeni na neki način besedila 
+<Sync time="3003.115"/>
+členiti na odlomke, vendar s() 
+<Sync time="3006.309"/>
+to ne delamo zelo 
+<Sync time="3008.023"/>
+pogosto in niti ne zelo radi. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3010.678"/>
+#Eee, zdaj tu vam ne morem pokazati, #e, upala sem, da bom lahko imela možnost, da bi vam pokazala še tudi, #eee, vmesnik, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3020.594"/>
+namreč pri, #mmm, zbiranju besedil in avtentična besedila so zelo dragoceno gradivo za učenje, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3029.426"/>
+so pa to besedila, ki, #eee, 
+<Sync time="3032.435"/>
+po katerem mi kot, #eee, na 
+<Sync time="3035.33"/>
+uporabniki v bistvu nismo imeli pravice, da vstopamo zato, jih popravljamo, tudi če je na primer besedilo bilo dobljeno, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3043.33"/>
+#eee, na spletnih straneh z dovoljenjem, dobljeno z() na spletnih straneh, #eee, nekega, 
+<Sync time="3049.5"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="3050.139"/>
+#eee, medija, 
+<Sync time="3051.369"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ #eee, mi ne moremo poseči v to besedilo in tudi na primer najbolj osnovni podatek namesto najosnovnejši podatek ne moremo spreminjati, ne. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3061.225"/>
+Naša naloga, naša odločitev v takih primerih je bila, da oblikujemo nalogo, 
+<Sync time="3067.189"/>
+vajo, s pomočjo katere na neki način opozorimo 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ uporabnika na 
+<Sync time="3072.72"/>
+to, da nekaj v takem besedilu ni v redu, niso pa bomo(), ni pa bil naš namen, ne, da 
+<Sync time="3079.576"/>
+pri besedilih uporabnik vadi pravopis in slovnico ali drugo. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3083.905"/>
+Torj naš namen je bil širjenje, urjenje, razvijanje jezikovne sporazumevalne zmožnosti. 
+<Sync time="3090.934"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="3091.81"/>
+Torej, #eee, kateri tipi nalog bodo, #e, najbolj pogosti pri(), najpogosteje prišli v poštev na področju besedil in katerim učnim ciljem bomo sledili? 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3103.585"/>
+Torej najpogosteje bodo zagotovo prišli v poštev tipi izbirnega tipa, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3109.018"/>
+#eee, preprosto za() in pa tipi alternativnega tipa, tipi dopolnjevanja in odgovarjanja s kratkim odgovorom, torej od() odgovori na vprašanje, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3120.107"/>
+#e, pri čemer bodo najverjetneje naloge dopolnjevanja in vstavljanja zelo podobne tipom izbirnega tipa, ker se pravzaprav želimo izogniti temu, da bi učeči se 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3131.065"/>
+imeli težave, 
+<Sync time="3133.132"/>
+#e, z zapisom tega, kar bi mi želeli, in je najlažje v bistvu, da najprej samo izbirajo med danimi možnostmi, 
+<Sync time="3141.162"/>
+kasneje večja zahtevnost, težje naloge, pa bodo seveda imeli samostojno dopolnjevanje tudi, ne. 
+<Sync time="3147.117"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3148.04"/>
+#Eee,
+<Sync time="3148.932"/>
+iskali smo pa to možnost tudi zato izbirnega tipa, da, #eee,
+<Sync time="3154.806"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="3155.448"/>
+bi prihajalo torej do, #eee, 
+<Sync time="3158.809"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="3161.235"/>
+čim manj za() drugih zastranitev, #eee, težav pri zapisu, #eee, velike, male začetnice ali karkoli drugega, kar bi oviralo to, da odgovor bi bil po nehote vrednoten kot napačen, ne. 
+<Sync time="3175.623"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="3176.27"/>
+#Eee, torej vidite lahko tudi, kar se učnih ciljev tiče, da bodo naloge namenjene tudi tvorjenju besedila, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3184.798"/>
+in sicer pri teh nalogah bo seveda potrebno medvrstniško sodelovanje ali pa tudi sodelovanje z učiteljem, se to pravi, možnost posvetuj se z učiteljem, posvetuj se z učiteljicami, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3197.384"/>
+#eee, učenci, #e, sošolci, 
+<Sync time="3199.346"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ in pa, #eee, 
+</Turn>
+<Turn startTime="3201.374" endTime="3204.252">
+<Sync time="3201.374"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3204.252" endTime="3367.319" fidelity="low">
+<Sync time="3204.252"/>
+te naloge, 
+<Sync time="3206.028"/>
+#mmm, kot tudi na primer naloge z utemeljitvami bodo, #e, želele, zahtevale od uporabnika, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3213.118"/>
+da je nekoliko tudi samokritičen do, ali da se samoocenjuje, da je torej kritičen tudi do svoje reši() svojih rešitev. 
+<Sync time="3221.558"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3222.374"/>
+#Eee, 
+<Sync time="3224.036"/>
+pri 
+<Sync time="3225.273"/>
+zbiranju 
+<Sync time="3226.731"/>
+besedilnih skupin, ki naj bi jih vključili v zbirko, 
+<Sync time="3231.783"/>
+#eee, 
+<Sync time="3232.619"/>
+Berta, 
+<Sync time="3233.466"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ smo pravzaprav jim pri pregledu učnega, ok() učnih gradiv smo ugotovili, da se pravzaprav pojavljajo nekatera, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3242.232"/>
+#eee, teoretična neskladja, nekatere stvari, ki jih je bilo treba na neki način poenostaviti, poenotiti. 
+<Sync time="3250.554"/>
+In smo bomo(), #e, zato se odločili, da ne bomo uporabljali besedne zveze besedilna vrsta, pač pa besedilna skupina. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3260.304"/>
+Namreč kaj se je pokazalo, na primer, #eem, 
+<Sync time="3263.536"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ znotraj publicistič() publicistična in strokovna besedila so obravnavana znotraj funkcijske zvrstnosti. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3271.172"/>
+Medtem ko, #e, vabilo, opravičilo, prošnja pa so to besedilne skupine. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3277.427"/>
+#Eee, in mi smo pravzaprav v() povezali ti dve obe področju, ker smo vzeli kot besedilno skupino novico oziroma novico, pogovorno vest, je strokovni termin, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3289.274"/>
+in smo, 
+<Sync time="3290.734"/>
+#e, jo predstavili kot samostojno besedilno vrsto, 
+<Sync time="3294.274"/>
+enako je na primer mali oglas in tako dalje, 
+<Sync time="3297.414"/>
+#e, medtem ko pa s() 
+<Sync time="3299.266"/>
+besedilo, kot so vabila, 
+<Sync time="3302.288"/>
+prošnja, pa ne izkazujejo značilnosti besedilne vrste, pač pa besedilnega tipa, v čem je torej zdaj razlika? 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3310.047"/>
+Besedilne vrste so tiste skupine besedil, ki imajo neke skupne jezikovne in nejezikovne prvine. 
+<Sync time="3317.651"/>
+Torej gre za to, da so to ustaljeni produkti jezikovnih dejanj z nekaj nekega konkretnega komunikacijskega področja, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3325.197"/>
+na primer "A greva na kavico?" je vabilo znotraj, #eee, 
+<Sync time="3331.125"/>
+jezika vsakdanjega komuniciranja, 
+<Sync time="3333.511"/>
+neuradno vabilo, ne. 
+<Sync time="3335.276"/>
+Medtem ko so uradna vabila lahko drugačna, 
+<Sync time="3338.485"/>
+v končni fazi je oglas na neki dogodek tudi vabilo. 
+<Sync time="3342.671"/>
+In ker smo v bistvu torej poskušali razlikovati, smo zaradi tega vpeljali v bistvu termin besedilna skupina. 
+<Sync time="3349.91"/>
+Besedilni tip pa je torej besedilna skupina, ki ima le skupne neke jezikovne značilnosti, se pravi vabilo kot tako ima to značilnost, da praviloma vsebuje 
+<Sync time="3360.89"/>
+z() ta performativni glagol vabiti, vabiti. 
+<Sync time="3365.236"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="3365.712"/>
+#Eem, torej, 
+</Turn>
+<Turn startTime="3367.319" endTime="3369.019">
+<Sync time="3367.319"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3369.019" endTime="3461.933" fidelity="low">
+<Sync time="3369.019"/>
+#eee, 
+<Sync time="3369.593"/>
+katere so zdaj besedilne skupine, ki smo jih vključili? 
+<Sync time="3373.549"/>
+To so besedilne skupine, ki so za večino govorcev slovenščine 
+<Sync time="3378.339"/>
+na neki način pomembne, priljubljene, aktivne, žive besedilne skupine, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3383.728"/>
+vključili smo večinoma prototipične besedilne, besedila, 
+<Sync time="3388.937"/>
+je pa tudi nekaj inovativnih besedil, besedilne skupine smo razporedili v štiri sklope, šolske besedilne skupine ena, dve, besedilne skupine od tu in tam in besedilne skupine v medijih. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3401.421"/>
+Nismo v celoti sledili učnim načrtom, dodali smo tudi nekatere inovativne, na primer horoskop, pa še kaj drugega bi se našlo. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3409.608"/>
+Ker naš cilj v bistvu ni samo to, da, #eee, 
+<Sync time="3413.522"/>
+je e-okolje uporabno za učeče, učeče se, pač pa tudi širšo publiko in za samostojno učenje. 
+<Sync time="3421.715"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3422.421"/>
+Sledila je priprava nalog, in sicer za to smo oblikovali vmesnik Berta, kjer v bistvu za k vsakemu posameznemu besedilu 
+<Sync time="3430.573"/>
+vnašamo trditve ali vprašanja. 
+<Sync time="3433.253"/>
+Trditve smo razdelili v štiri sklope, in sicer nejezikovne prvine, jezikovne prvine, 
+<Sync time="3438.867"/>
+vsebina in pa tvorjenje besedil, vsako pregledano besedilo, trenutno jih imamo približno stot() 
+<Sync time="3445.544"/>
+sto trinajst, 
+<Sync time="3447.044"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ ima povprečno od petindvajset do, 
+<Sync time="3450.545"/>
+#eee, o() od petnajst do petindvajset trditev in dve do tri vprašanja. 
+<Sync time="3455.606"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3456.388"/>
+Kako poteka pripravljanje trditev, pa 
+<Sync time="3459.769"/>
+besedo prepuščam Ines. 
+</Turn>
+<Turn startTime="3461.933" endTime="3465.819">
+<Sync time="3461.933"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3465.819" endTime="3486.495" fidelity="low">
+<Sync time="3465.819"/>
+Najlepša hvala, 
+<Sync time="3468.65"/>
+zdaj bom jaz posebej še 
+<Sync time="3471.489"/>
+delila nadaljevanje, pa, #eee, samo prosim, 
+<Sync time="3476.167"/>
+da mi potrdite, 
+<Sync time="3478.449"/>
+ali se, 
+<Sync time="3480.062"/>
+#eem, 
+<Sync time="3482.035"/>
+torej projekcija vidi. 
+<Sync time="3484.559"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3486.495" endTime="3487.965" fidelity="low">
+<Sync time="3486.495"/>
+Se vidi. 
+</Turn>
+<Turn speaker="spk1" startTime="3487.965" endTime="3802.257" fidelity="low">
+<Sync time="3487.965"/>
+Se vidi. 
+<Sync time="3488.904"/>
+#Eee, torej hvala za besedo, lepo pozdravljeni še iz moje strani, 
+<Sync time="3493.687"/>
+#eem, 
+<Sync time="3495.309"/>
+področje besedil je nekako obsežnejše področje, zato v tem trenutku, #e, žal še ne moremo konkretnejših nalog v samem orodju predstaviti, 
+<Sync time="3506.156"/>
+#eee, je pa moj, #e, namen danes torej predstaviti postopek oblikovanja, #e, trditev, 
+<Sync time="3512.705"/>
+#e, ki so nekako osnova za oblikovanje vaj in nalog 
+<Sync time="3517.283"/>
+v, #eem, v samem orodju. 
+<Sync time="3521.327"/>
+Torej, #eee, postopek, proces oblikovanja trditev v vmesniku, 
+<Sync time="3527.061"/>
+#eee, kot osnovi za generiranje nalog. 
+<Sync time="3531.523"/>
+#Eee, kakor je kolegica omenila, namreč, #eee, želimo, da bi bila obravnava besedila blizu celostni interpretaciji, da bi učeči se uporabniki orodja, #mmm, 
+<Sync time="3545.002"/>
+nekako usvojili, #eem, spontano razpoznavanje bistvenih informacij in izločanje manj pomembnih informacij, 
+<Sync time="3553.944"/>
+#eee, da bi nekako lahko ustrezno dojeli pomen in namen besedila, zato so besedila vedno v nekako, #e, torej, #eem, 
+<Sync time="3564.626"/>
+prikazana z vsemi tudi neverbalnimi elementi, 
+<Sync time="3569.643"/>
+#eem, večpredstavnostno oziroma multimodalno. Za primer bom danes vzela mali oglas, #eem, 
+<Sync time="3578.24"/>
+in na osnovi tega malega oglasa torej, #eee, prikazala, #e, vzpostavljanje oziroma oblikovanje trditev ter napačnih, #e, alternativ. 
+<Sync time="3589.496"/>
+#Eem, skušala bom biti kratka, kar vidim, da nas čas že malo preganja, kolegica je tudi nekako, 
+<Sync time="3596.667"/>
+#eee, nakazala, po kakšnem zaporedju, 
+<Sync time="3599.844"/>
+#eee, se bodo te, #eee, naloge na področju besedil, #eee, torej, #e, pojavljale, velja pa omeniti, da ima lahko, #e, tudi 
+<Sync time="3610.148"/>
+z, #eee, pri področju besedil učitelj možnost, da nekako ta sistem, 
+<Sync time="3615.969"/>
+#e, oblikuje po svoje. 
+<Sync time="3618.344"/>
+#Eee, se pa v tej predstavitvi nekako držimo, bom rekla, tega standardnega, #eee, kroženja nalog, od zunajjezikovnih, znotrajjezikovnih značilnosti besedila, 
+<Sync time="3629.009"/>
+#eee, preko vsebine do potem ustvarjanja besedila. 
+<Sync time="3633.464"/>
+#Eee, torej ko, #e, se dotikamo okoliščin nastanka besedila, so, #e, naloge, 
+<Sync time="3640.551"/>
+#e, v bistvu zastavljene tako, 
+<Sync time="3643.458"/>
+#eee, da jih lahko samodejno nekako tvori, #eem, 
+<Sync time="3648.25"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ računalniški program, 
+<Sync time="3650.058"/>
+#e, na osnovi algoritma oziroma, 
+<Sync time="3652.68"/>
+#e, v vmesnik vnesenih podatkov o, #e, nastanku besedila. 
+<Sync time="3658.088"/>
+No, debatno možnost, #e, pa predstavlja, 
+<Sync time="3661.579"/>
+#e, predstavljajo tudi te naše, #e, trditve, 
+<Sync time="3665.177"/>
+#e, pri čemer smo nekako ustrezno, #eee, ustrezno rešitev, pravilen odgovor v trditvi, 
+<Sync time="3672.632"/>
+#eem, poudarili, 
+<Sync time="3674.862"/>
+#eee, s krepkim zapisom, 
+<Sync time="3677.175"/>
+#eee, zraven pa dodali tudi še napačne alternative, na osnovi, 
+<Sync time="3682.052"/>
+#e, obojega pa bo potem, 
+<Sync time="3684.058"/>
+#eee, nekako, #mmm, 
+<Sync time="3685.821"/>
+#e, računalniški program lahko 
+<Sync time="3688.151"/>
+naključno tvoril različne tipe nalog, ki bodo seveda tudi 
+<Sync time="3692.378"/>
+grafično obogatene. 
+<Sync time="3694.765"/>
+#Eee, kot velja za, #eee, 
+<Sync time="3698.152"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ za natančen torej nastanek besedila, za, #eee, 
+<Sync time="3702.391"/>
+mesto objave in podobno, velja tudi za tvorca in naslovnika besedila, torej tudi, #e, naloge, 
+<Sync time="3710.361"/>
+#e, ki se na, #e, to poglavje nanašajo, so oziroma bodo tvorjene na enak način 
+<Sync time="3717.583"/>
+iz, #eee, zasnovanih trditev in dodanih napačnih, 
+<Sync time="3722.061"/>
+#eee, alternativ. 
+<Sync time="3724.522"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="3724.846"/>
+No, nekoliko drugače pa so potem, #eee, zasnovane naloge, ki se dotikajo družbenega razmerja in pa števila udeležencev, 
+<Sync time="3734.756"/>
+#eee, tukaj gre pa za algoritemsko oblikovanje trditev s pomočjo šifrantov oziroma korpusnih, 
+<Sync time="3741.57"/>
+#e, oznak, ki, #eee, nekih določenih podatkov, ki smo jih v zvezi s tem vnesli oziroma jih vnašamo, 
+<Sync time="3749.099"/>
+#eee, v vmesnik. 
+<Sync time="3750.907"/>
+S pomočjo šifranta, na primer, za družbeno, #eee, razmerje se tako oblikuje pravilna v konkretnem, 
+<Sync time="3757.868"/>
+pri konkretnem besedilu, 
+<Sync time="3759.88"/>
+#e, pravilna trditev, torej razmerja ne moremo določiti, potem imamo pa še dve 
+<Sync time="3765.194"/>
+napačni alternativi, da je izhodiščno besedilo, 
+<Sync time="3768.519"/>
+#eee, glede na družbeno razmerje, torj uradno ali neuradno. 
+<Sync time="3772.795"/>
+Podobno velja še za število udeležencev, 
+<Sync time="3776.159"/>
+#eem, 
+<Sync time="3777.314"/>
+pri prenosniku je pa, #e, sistem nekako podoben, 
+<Sync time="3781.723"/>
+le da imamo tukaj v bistvu nekako že nastavljeno, 
+<Sync time="3785.959"/>
+#eee, poved, ki pa se na to, #eem, 
+<Sync time="3789.822"/>
+algoritemsko dopolni, #eee, s podatkom pri šifrantu, na konkretnem mestu torej izvemo, da gre za digitalno pisano, #e, besedilo. 
+<Sync time="3801.025"/>
+#Eem, 
+</Turn>
+<Turn startTime="3802.257" endTime="3803.83">
+<Sync time="3802.257"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3803.83" endTime="4136.999" fidelity="low">
+<Sync time="3803.83"/>
+potem podobno, podoben princip je, #e, tudi pri nalogah, ki se nanašajo na jezikovno zvrst in pa na javnost besedila, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="3814.069"/>
+ko se uporabnik po tem, nekako standardnem, 
+<Sync time="3817.064"/>
+#eee, zaporedju prebije do sporočevalnega namena, pa se naloge znova oblikujejo s pomočjo 
+<Sync time="3824.894"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ zapisane trditve in 
+<Sync time="3826.896"/>
+napačnih alternativ. 
+<Sync time="3829.449"/>
+#Eem, po principu dopolnjevanja trditev s posebnimi, #eee, s temi korpusnimi oznakami oziroma šiframi nastajajo tudi naloge za 
+<Sync time="3839.426"/>
+besedilno skupino in pa tematski sklop oziroma tematiko. 
+<Sync time="3844.222"/>
+#Eee, naloge, nanašajoče se na temo, pa nekako, #e, v bistvu že izhajajo iz tega, da pri samem vnosu besedila oziroma pri pripravi nalog dejansko temo v vmesnik tudi zapišemo. 
+<Sync time="3858.778"/>
+#Eee, pri tem pa bo potem računalniški program oziroma aplikacija napačne odgovore, 
+<Sync time="3865.183"/>
+#eee, napačne, #e, alternative črpala iz, #eem, 
+<Sync time="3870.863"/>
+istovrstnih podatkov pri drugih besedilih iste besedilne skupine. 
+<Sync time="3876.684"/>
+Ključne besede, #eee, bodo nekako prišli v poštev pri, #eem, recimo nalogi, kot je rešeto, 
+<Sync time="3884.389"/>
+#eee, predvidene pa so tudi naloge, pri katerih bo uporabnik, torej klikanje na posamezne ...
+<Sync time="3890.602"/>
+Na kakšne mehurčke, #e, oblačke ali kaj podobnega. 
+<Sync time="3894.092"/>
+Torej izbira ustrezne ključne besede, 
+<Sync time="3896.936"/>
+#eee, pri izhodiščnem besedilu. 
+<Sync time="3900.894"/>
+Pravilne trditve z napačnimi alternativami nato, 
+<Sync time="3904.44"/>
+#eee, tvorimo tudi še za slogovni postopek in pa besedilne 
+<Sync time="3909.597"/>
+enote, 
+<Sync time="3911.163"/>
+pa tudi za oblikoslovne značilnosti, ki pogosto lahko kažejo tudi na v bistvu samo besedilno vsebino oziroma besedilno vrsto. 
+<Sync time="3921.638"/>
+#Eee, če želimo dobro poznati besedila, je pa seveda 
+<Sync time="3926.209"/>
+fino, da nekako poznamo tudi, 
+<Sync time="3929.132"/>
+#eem, 
+<Sync time="3930.457"/>
+tvorbene postopke, s katerimi tvorimo najmanjše enote besedila, torej besede, da to se na, 
+<Sync time="3937.52"/>
+#eee, področju besedil na rahlo, bom rekla, dotaknemo tudi utrjevanja besedotvornih značilnosti, #eee, sicer, #eem, 
+<Sync time="3946.825"/>
+jasno pri besedah, ki so v izhodiščnem besedilu. 
+<Sync time="3952.396"/>
+Za celostno obravnavo besedila je seveda treba, 
+<Sync time="3956.38"/>
+#eee, 
+<Sync time="3957.789"/>
+prepoznavati tudi kohezivna sredstva in 
+<Sync time="3961.1"/>
+pojave. 
+<Sync time="3962.446"/>
+#Eee, na iz() ...
+<Sync time="3964.56"/>
+Tole poteka na malo drugačen način, in sicer tako, da vmesniku, 
+<Sync time="3969.881"/>
+#eee, v bistvu v vmesnik, #eee, vnesemo nanašalnico, ki jo izberemo iz izhodiščnega besedila, poiščemo sonanašalnice in pa nato zapišemo oziroma določimo tudi, #e, tipe vezanja besedilnih enot, 
+<Sync time="3985.436"/>
+na tem mestu se bo uporabniku nato prikazala, 
+<Sync time="3989.268"/>
+#eee, naloga povezovanja, torej sonanašalnice k izbrani nanašalnici bo, #e, ustrezno moral razvrstiti k ustreznemu tipu 
+<Sync time="3999.831"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ vezanja 
+<Sync time="4001.158"/>
+besedilnih enot. 
+<Sync time="4003.159"/>
+#Eee, dotaknili smo se tudi razmerij oziroma odnosov med besedami, 
+<Sync time="4008.173"/>
+#eee, in pa, #eee, besedja, ki je, #eee, nekako značilno za, #e, besedilno skupino, v tem primeru konkretno za 
+<Sync time="4017.317"/>
+mali oglas, le da smo na tem mestu vmesniku kar oblikovali vprašanje, 
+<Sync time="4022.85"/>
+#eee, dodali pravilen odgovor in pa potem tudi nekako predvidene napačne alternative. 
+<Sync time="4031.349"/>
+#Eee, nadalje nekako sledijo naloge, ki se nanašajo na vsebino konkretnega, 
+<Sync time="4037.296"/>
+#eem, oziroma izhodiščnega besedila. 
+<Sync time="4040.805"/>
+#E, dodatno možnost tukaj predstavljajo recimo za naloge tipa drži-ne drži, predstavljajo tudi napačne trditve, ki jih v vmesnik prav tako 
+<Sync time="4051.143"/>
+vnesemo. 
+<Sync time="4052.458"/>
+#Eee, nanašajoč se na vsebino izhodiščnega besedila, pa, 
+<Sync time="4058.658"/>
+#eem, 
+<Sync time="4060.213"/>
+sega tudi odlomek za razvrščanje, 
+<Sync time="4063.003"/>
+#eee, to pomeni, da v vmesnik nekako tam do pet povedi, 
+<Sync time="4067.73"/>
+#eee, vnesemo, jih, #e, pravilno, smiselno, #e, kronološko ustrezno razporedimo, 
+<Sync time="4075.524"/>
+računalniški algoritem jih bo pa potem, 
+<Sync time="4078.16"/>
+#e, torej konkretne povedi uporabniku nekako naključno prikazal, 
+<Background time="4081.44" type="other" level="high"/>
+
+<Background time="4083.924" type="other" level="off"/>
+<Sync time="4083.924"/>
+#eee, oziroma razvrstil, tako da jih bo moral, #e, razvrstiti v pravilno, 
+<Sync time="4089.974"/>
+#eee, zaporedje. 
+<Sync time="4092.288"/>
+#E, predvidena je tudi kombinacija različnih vsebin, kakor sem že nakazala, bodo lahko učitelji v bistvu tudi sami, #e, 
+<Sync time="4100.414"/>
+določili, katera poglavja, katere, #eee, vsebine besedilo() besediloslovne bodo preverjali oziroma, #e, dali za nalogo. 
+<Sync time="4112.149"/>
+No, #eee, 
+<Sync time="4113.129"/>
+na zadnjem mestu nekako pa je potem še ustvarjanje 
+<Sync time="4117.371"/>
+besedila, 
+<Sync time="4118.527"/>
+ki je, #e, tudi v skladu z učnim načrtom nekako, #e, bistveno ali pa, #e, utrjevanje, #e, možnosti, 
+<Sync time="4128.644"/>
+#e, sporazumevanja. 
+<Sync time="4131.154"/>
+Toliko iz moje strani, za konec še predajam besedo kolegici, hvala. 
+</Turn>
+<Turn speaker="spk3" startTime="4136.999" endTime="4259.884" fidelity="low">
+<Sync time="4136.999"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ Hvala. 
+<Background time="4138.317" type="speech" level="high"/>
+
+<Background time="4139.201" type="other" level="off"/>
+
+<Sync time="4139.258"/>
+#Eee, jaz bi želela, 
+<Background time="4140.748" type="speech" level="high"/>
+
+<Background time="4141.565" type="other" level="off"/>
+
+<Sync time="4141.83"/>
+
+<Background time="4141.841" type="other" level="high"/>
+čisto na kratko zdaj še pokazati tudi vmesnik, 
+<Sync time="4145.918"/>
+#eee, tako da boste videli, 
+<Background time="4147.8" type="other" level="off"/>
+kako v bistvu naloge v vmesniku izgledajo, pri čemer, #e, bi bilo smiselno, 
+<Sync time="4153.791"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ namenoma sem to izbrala to kratko anekdoto o Koperniku, zaradi tega, ker v bistvu želim, da boste tu videli, da dobite neki tak občutek, da pravzaprav tudi če so naloge samo izbirnega tipa, ne, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4166.289"/>
+bodo vendarle zahtevale nekaj razmišljanja od uporabnika, torej, treba bo 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4171.592"/>
+ne samo, da najde ustrezno poved, ki izraža anekdo(), #eee, nauk anekdote, ampak tudi še kaj drugega. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4178.888"/>
+In, #e, kot je kolegica že napovedala, torej oblik() tako kot pri ostalih dveh s(), treh sklopih je tudi za s() 
+<Sync time="4187.376"/>
+besedila pripravljena 
+<Sync time="4189.991"/>
+baza znanja, to je Orehek, v katerem bodo na() 
+<Sync time="4194.099"/>
+predstavljene tiste stvari, ko(), #e, besedilne skupine, kar se tiče pač besediloslovja, in to vam v bistvu zdaj predstavljamo primer tega, kako naj bi bila 
+<Sync time="4204.765"/>
+razložena, pojasnjena besedilna skupina mali oglas. 
+<Sync time="4209.817"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ Vidite pa, da iz te razlage v bistvu uporabnik dobi več ali manj 
+<Sync time="4215.14"/>
+vsaj tista vprašanja, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4216.97"/>
+na katere se potem nanašajo tudi trditve, #eee, znotraj posameznih nalog. 
+<Sync time="4223.18"/>
+Tako, najlepše se vam zahvaljujem za 
+<Sync time="4226.074"/>
+pozornost in od() 
+<Sync time="4228.532"/>
+dajem možnost 
+<Sync time="4230.527"/>
+razprave. 
+<Sync time="4232.022"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="4232.771"/>
+#Eee, 
+<Sync time="4233.883"/>
+#mmm, bila je s(), vmes so se pojavila seveda vprašanja tudi, večina vprašanj se je nanašalo na, 
+<Sync time="4240.845"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4241.625"/>
+#e, to, kdaj bo e-okolje na voljo, če je že na voljo in komu vse bo namenjeno, odgovore ste dobili, lahko pa prosim mogoče še vodjo, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4252.86"/>
+#eee, projekta, da mogoče še to enkrat pove za tiste, ki mogoče niso sledili odgovorom v klepetu. 
+</Turn>
+<Turn startTime="4259.884" endTime="4263.836">
+<Sync time="4259.884"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="4263.836" endTime="4294.469" fidelity="low">
+<Sync time="4263.836"/>
+Torej učno e-okolje bo na voljo po koncu projekta, to pomeni od septembra letos, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4270.522"/>
+in bo po() povsem brezplačno, torej prosto dostopno za vse šole in tudi vse zunanje uporabnike. 
+<Sync time="4279.747"/>
+Če pa bi imeli še kakšno dodatno vprašanje, pa ga seveda lahko zapišete, vmes sem poslala tudi povezavo, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4287.465"/>
+#e, do predstavitvene brošure našega e-okolja, vabim vas, da si tudi to ogledate. 
+</Turn>
+<Turn startTime="4294.469" endTime="4299.154">
+<Sync time="4294.469"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="4299.154" endTime="4302.018" fidelity="low">
+<Sync time="4299.154"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4299.726"/>
+Je še kakšno vprašanje morda? 
+</Turn>
+<Turn startTime="4302.018" endTime="4304.175">
+<Sync time="4302.018"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="4304.175" endTime="4308.189" fidelity="low">
+<Sync time="4304.175"/>
+Malo smo bili dolgi tudi s predstavitvami. 
+</Turn>
+<Turn startTime="4308.189" endTime="4311.089">
+<Sync time="4308.189"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="4311.089" endTime="4316.857" fidelity="low">
+<Sync time="4311.089"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ Hvala tudi za komentar gospe [ime in priimek]. 
+<Background time="4313.738" type="shh" level="high"/>
+
+<Background time="4315.58" type="other" level="off"/>
+<Sync time="4315.58"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="4316.857" endTime="4323.347">
+<Sync time="4316.857"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="4323.347" endTime="4326.432" fidelity="low">
+<Sync time="4323.347"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+#Eee, 
+<Sync time="4325.055"/>
+če ni, 
+</Turn>
+<Turn startTime="4326.432" endTime="4328.253">
+<Sync time="4326.432"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="4328.253" endTime="4331.588" fidelity="low">
+<Sync time="4328.253"/>
+#Eee, potem besedo predajam 
+</Turn>
+<Turn startTime="4331.588" endTime="4333.061">
+<Sync time="4331.588"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="4333.061" endTime="4337.815" fidelity="low">
+<Sync time="4333.061"/>
+kolegici Polonci, ki bo vi() vodila 
+<Sync time="4336.42"/>
+četrti sklop. 
+</Turn>
+<Turn startTime="4337.815" endTime="4340.605">
+<Sync time="4337.815"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="4340.605" endTime="4433.369" fidelity="low">
+<Sync time="4340.605"/>
+Prav lepo pozdravljeni. 
+<Sync time="4342.407"/>
+Zahvaljujem se vsem, ki ste nam do zdaj v tem današnjem 
+<Sync time="4347.479"/>
+popoldnevu 
+<Sync time="4349.039"/>
+predstavili vse sklope, s katerimi, 
+<Sync time="4352.876"/>
+#eee, se ukvarjamo v, 
+<Sync time="4355.565"/>
+#eee, e-okolju Slovenščina na dlani. 
+<Sync time="4358.418"/>
+#Eee, v tem delu, ki ga bom vodila, imamo tri 
+<Sync time="4363.397"/>
+prispevke, in sicer se bomo malce podrobneje, 
+<Sync time="4368.529"/>
+#eee, seznanili s tem, kako smo, 
+<Sync time="4372.667"/>
+#e, pripravili točkovanje pri posameznih nalogah. 
+<Sync time="4377.273"/>
+In sicer, #e, se bo kolegica Andreja Zalokar 
+<Sync time="4381.557"/>
+#eee, osredotočila na 
+<Sync time="4384.012"/>
+področje besedil, kako je s točkovanjem na področju besedil. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4390.137"/>
+#Eee, potem bodo, #e, prispevek predstavili še naši programerji oziroma računalničarji, 
+<Sync time="4398.117"/>
+#eee, pripravili so ga Sandi Majninger, #e, Marko Ferme in Milan Ojstršek. 
+<Sync time="4404.303"/>
+In še zadnji prispevek v tem sklopu bo pa iz 
+<Sync time="4409.068"/>
+konkretne narave, 
+<Sync time="4410.644"/>
+#eee, predstavila ga bo kolegica Tanja Brčič 
+<Sync time="4415.159"/>
+Petek. 
+<Sync time="4416.09"/>
+In najprej, torej kot sem že povedala, predajam besedo 
+<Sync time="4421.031"/>
+gospe Andreji Zalokar in nam predstavi glede točkovanja na področju, #e, oziroma pri nalogah s področja besedil. 
+<Sync time="4431.924"/>
+Andreja, izvoli. 
+</Turn>
+<Turn startTime="4433.369" endTime="4436.465">
+<Sync time="4433.369"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="4436.465" endTime="4484.677" fidelity="low">
+<Sync time="4436.465"/>
+Ja, lepo pozdravljeni vsi skupaj z moje strani. 
+<Sync time="4440.199"/>
+#Eem, veseli me, da vam lahko danes predstavim, #e, delček svojega dela pri projektu Slovenščina na dlani. 
+<Sync time="4448.05"/>
+#Eee, zakaj pravim delček? Predvsem zato, 
+<Sync time="4452.003"/>
+ker, #eem, 
+<Sync time="4453.521"/>
+ker se večinsko ukvarjam s sklopoma pravopis in slovnica in ne toliko sicer z besedili, ampak se je potem naključno kar tu našel 
+<Sync time="4462.361"/>
+izziv, 
+<Sync time="4463.586"/>
+#eem, 
+<Sync time="4464.926"/>
+ki mi je dal kar nekaj, #e, dela, in to je bilo, #e, točkovanje na tem področju. 
+<Sync time="4471.866"/>
+Zahtevalo je nekaj premisleka, nekaj tehtanja in pa en kup aha efektov. 
+<Sync time="4477.223"/>
+Tako da, #eem, se bom danes temu posvetila, jaz upam, da se projekcija vidi? 
+<Sync time="4482.672"/>
+Lahko kdo potrdi? 
+</Turn>
+<Turn speaker="spk6" startTime="4484.677" endTime="4488.843" fidelity="low">
+<Sync time="4484.677"/>
+Andreja, ne vidimo še, jaz ne vidim. 
+</Turn>
+<Turn speaker="spk7" startTime="4488.843" endTime="4490.838" fidelity="low">
+<Sync time="4488.843"/>
+#Mmm, 
+<Sync time="4489.678"/>
+samo malo. 
+</Turn>
+<Turn startTime="4490.838" endTime="4492.94">
+<Sync time="4490.838"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="4492.94" endTime="4497.524" fidelity="low">
+<Sync time="4492.94"/>
+#Eem, 
+<Sync time="4495.31"/>
+zdaj bi pa moralo biti. 
+</Turn>
+<Turn startTime="4497.524" endTime="4500.187">
+<Sync time="4497.524"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="4500.187" endTime="4502.18" fidelity="low">
+<Sync time="4500.187"/>
+Zdaj pa je, ne? 
+</Turn>
+<Turn speaker="spk6" startTime="4502.18" endTime="4505.399" fidelity="low">
+<Sync time="4502.18"/>
+Zdaj pa bo vsak ... Zdaj pa je tako, zdaj, pa je. 
+</Turn>
+<Turn startTime="4505.399" endTime="4507.39">
+<Sync time="4505.399"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="4507.39" endTime="4884.925" fidelity="low">
+<Sync time="4507.39"/>
+No, pa, #eee, poglejmo, o čem bom danes govorila, torej, #eee, o točkovanju, 
+<Sync time="4513.638"/>
+#eee, besedil. 
+<Sync time="4515.491"/>
+Najprej se bo() bom nekaj besed posvetila, #e, sami Berti, čeprav smo ravnokar poslušali o njej, ampak če se nam je morda kdo, #eee, 
+<Sync time="4524.586"/>
+#e, pridružil, da ne bo ravno zgubljen. 
+<Sync time="4527.779"/>
+Potem o sami vlogi točkovanja pa o vlogi točkovanja v e-okolju Slovenščina na dlani, 
+<Sync time="4534.302"/>
+o shemi točkovanja, ki smo jo pripravili, #e, nekaj več besed tudi o odločitvi za delno točkovanje, 
+<Sync time="4542.022"/>
+na koncu tudi, #eem, kako smo rešili, #eee, vprašanje z dosežki. 
+<Sync time="4549.505"/>
+#Eee, najprej torej, #eee, čisto na kratko še o besedilih, v predhodni predstavitvi ste slišali, 
+<Sync time="4558.46"/>
+da so besedila za obravnavo zbrana v korpusu Berta. 
+<Sync time="4562.862"/>
+#Eee, ta obsega dvesto petinsedemdeset več ali manj avtentičnih besedil praktičnega sporazumevanja, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4570.082"/>
+in so ta besedila razvrščena v šestindvajset besedilnih vrst. 
+<Sync time="4576.126"/>
+Zajema vsakodnevne, pogoste in za večino govorcev, #e, slovenščine pomembne oblike jezikovnega komuniciranja, 
+<Sync time="4585.865"/>
+ki so sedaj uvrščene v štiri skupine, to so šolske besedilne skupine ena in dva, potem so besedilne skupine od tu in tam in besedilne skupine v medijih. 
+<Sync time="4600.461"/>
+Temeljni cilj, #e, teh vaj in nalog na področju besedil 
+<Sync time="4605.625"/>
+je razvijanje funkcionalne oziroma bralne pismenosti. 
+<Sync time="4610.34"/>
+Vaje in naloge k zbranim besedilom pa se nanašajo na okoliščine nastanka besedila in na razumevanje obravnavanega besedila. 
+<Sync time="4621.096"/>
+Kakšna je torej vloga točkovanja? #E, s točkovanjem se dejansko srečujemo vsakodnevno, 
+<Sync time="4628.244"/>
+ampak večinoma lahko rečemo, da je točkovanje, #e, da se uporablja za vrednotenje. 
+<Sync time="4633.796"/>
+#Eem, 
+<Sync time="4635.518"/>
+in, #e, kot že rečeno, ni samo stvar izobraževanja, točkovanje nenavad() nenazadnje zbiramo tudi pri skoraj vsakim nakupu, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4644.654"/>
+tega so se poslužile tudi trgovinske verige pa, #eee, raznorazna ocenjevanja praktično vsega, kar na svetu obstaja. 
+<Sync time="4653.745"/>
+#Eem, 
+<Sync time="4654.776"/>
+če pa pogledamo z vidika šolske rabe, 
+<Sync time="4658.251"/>
+pa je, #e, seveda pomembno, da imamo za to točkovanje potem natančno izdelan kriterij. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4665.056"/>
+Ta skrbi za zanesljivost, #eee, preverjanja oziroma ocenjevanja, za katerega točkovanje seveda uporabljamo. 
+<Sync time="4672.249"/>
+Na koncu se število zbranih točk, #eee, potem pretvori v neki dosežek. 
+<Sync time="4678.864"/>
+#Eem, kaj mora pravzaprav, #eem ... 
+<Sync time="4682.462"/>
+Kakšno je to dobro točkovanje, da ni samo sebi namen, #eee, imamo tudi konkretne napotke, in sicer 
+<Sync time="4691.368"/>
+mora biti točkovanje čim manj zapleteno, 
+<Sync time="4695.887"/>
+#eee, predvideni morajo biti pravilni odgovori ne(), se pravi, predvideti moramo vse variante pravilnih odgovorov, ki se lahko pojavijo. 
+<Sync time="4705.538"/>
+Navodila za točkovanje in ocenjevanje morajo biti jasna, razumeti jih mora uporabnik in praktično vsak, ki se s tem točkovanjem sreča. 
+<Sync time="4715.927"/>
+In pri, #eee, sestavljenih nalogah, pri nekih kompleksnih nalogah je, #eee, absolutno pomembno, da se poslužimo delnega točkovanja. 
+<Sync time="4726.731"/>
+Na področju izobraževanja, #eee, točkovanje najpogosteje predstavlja izhodišče za vrednotenje, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4735.349"/>
+#eee, doseganja nekih zasledovanih ciljev. 
+<Sync time="4739.425"/>
+#Eee, to() najpogosteje je to seveda v obliki nekega preverjanja znanja. 
+<Sync time="4744.673"/>
+#Eem, pri optimalno sestavljenem preizkusu se potem skupek točk lahko pretvori v oceno, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4751.599"/>
+#eee, oboje, tako točke kot ocena, #e, pa pač predstavljajo neko povratno informacijo, tako učitelju kot, #e, učencu. 
+<Sync time="4761.26"/>
+#Eem, prav tako pa, če še ostanemo nekako na področju šolanja, 
+<Sync time="4765.928"/>
+#eee, oziroma šolstva, potem te točke predstavljajo lahko tudi kriterij za opis. 
+<Sync time="4773.166"/>
+#Eee, tako da niso z(), tako kot sem prej rekla, ni samo stvar, #e, nekega ocenjevanja, nekega preverjanja znanja, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4780.586"/>
+ampak so lahko tudi kriteriji za neko drugo doseganje ciljev. 
+<Sync time="4785.9"/>
+Še eno področje, ki je skupno, #e, 
+<Sync time="4789.723"/>
+e-okolju in pa, #eee, se prav tako poslužuje točkovanja, pa je igrifikacija. 
+<Sync time="4796.378"/>
+Kako pa je s tem pri igrifikaciji, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4799.643"/>
+ki jih vsebuje tudi Slovenščina na dlani? 
+<Sync time="4802.972"/>
+#Eee, to() ta kot koncept med drugim operira s točkami, ampak ne toliko za, #eem, za preverjanje nekega znanja, 
+<Sync time="4811.808"/>
+ampak, #eee, gre za sredstvo za napredovanje, ne, če, če pomislimo na, recimo na namizne igre, če pomislimo tudi na računalniške igre, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4822.043"/>
+tam točke niso, ne, ne preverjajo tega, koliko mi znamo, ampak nam omogočajo neko napredovanje, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4828.538"/>
+#eee, neko pridobi(), se pravi, pridobivanje dosežkov, 
+<Sync time="4832.846"/>
+#eem, 
+<Sync time="4834.422"/>
+in jih tudi ne() ne rabimo izkazati nekega znanja, ampak točke največkrat dobimo z urjenjem neke sposobnosti, na primer, da 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4843.396"/>
+večkrat opravimo neko nalogo, #eee, in smo v njej vedno boljši, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4848.608"/>
+potem z, na primer s sodelovanjem v kakšni skupnosti 
+<Sync time="4852.897"/>
+ali pa tudi s kombinacijo različnih dejavnosti, #eee, znotraj vsebin, največkrat se to potem odraža kot neko zbiranje kartic, kovancev, nekih artefaktov in tako naprej. 
+<Sync time="4864.642"/>
+Točke se potem uporabijo za ustvarjanje lestvice, to je, to je ena, #eee, možnost, 
+<Sync time="4872.205"/>
+ali pa se pretvorijo v dosežek, 
+<Sync time="4874.688"/>
+ne, to, ta dosežek je potem čisto individualno oblikovan. 
+<Sync time="4878.502"/>
+Oboje pa se uporablja z namenom, #eee, motivirati in pa angažirati uporabnika. 
+</Turn>
+<Turn startTime="4884.925" endTime="4887.312">
+<Sync time="4884.925"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="4887.312" endTime="5087.078" fidelity="low">
+<Sync time="4887.312"/>
+Kakšna je torej vloga točkovanja v e-okolju Slovenščina na dla() na dlani? 
+<Sync time="4892.651"/>
+#Eem, 
+<Sync time="4893.537"/>
+ena od prednosti e-okolja Slovenščina na dlani je avtomatizacija, 
+<Sync time="4898.493"/>
+#eee, to pomeni, da sistem na podlagi beleženja dejavnosti dosežkov, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4903.805"/>
+#eem, nekega uporabnika ali pa učenca usmerja priklic vaj in nalog 
+<Sync time="4909.79"/>
+ter prilagaja zahtevnostno stopnjo. 
+<Sync time="4912.664"/>
+#Eem, zbrane podatke 
+<Sync time="4915.379"/>
+potem grafično prikazuje v obliki nekih grafov, nekih, #eee, diagramov 
+<Sync time="4921.259"/>
+in z njimi omogoči boljši pregled nad napredkom. 
+<Sync time="4925.119"/>
+#Eem, 
+<Sync time="4926.085"/>
+te grafe, se pravi, to, ta, to grafično prikazovanje je dostopno tako učitelju 
+<Sync time="4932.249"/>
+kot učencu, #e, s tem da učencu vsa(), učenec vidi samo zase, medtem ko učitelj pa vidi 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="4938.221"/>
+seveda za vse svoje skupine, za vse učence, #eee, ki, ki so vključeni, #eem, pod njegovim okriljem. 
+<Sync time="4945.837"/>
+#Eem, 
+<Sync time="4947.532"/>
+uporabniki se lahko v e-o(), #eee, e-okolje vključijo, #eee, individualno oziroma uporabljajo individualno, 
+<Sync time="4956.542"/>
+lahko pa, #eee, seveda ga uporabljajo v obliki skupnosti, lahko je to v tekmovalnem ali pa v sodelovalnem duhu. 
+<Sync time="4965.903"/>
+In na tak način se potem ti, te točke pretva() ali pa dosežki oblikujejo v lestvice, 
+<Sync time="4972.228"/>
+#eem, ali pa se pretvarjajo v dosežke, kot sem že povedala. 
+<Sync time="4976.803"/>
+In potem služijo kot neka oblika motivacije. 
+<Sync time="4980.786"/>
+#Eee, nenazadnje pa ni nujno, da te točke ostanejo samo stvar e-okolja, lahko jih potem prenesete tudi v, #eee, konkretno v razred 
+<Sync time="4990.987"/>
+in je pač, #e, e-okolje samo neki pos(), #eee, neka posredna, #eee, postaja za, za delo potem v učilnici, ne. 
+<Sync time="5000.324"/>
+In lahko na tak način učence še dodatno potem motivirate. 
+<Sync time="5005.63"/>
+Do() 
+<Sync time="5006.726"/>
+Zdaj pa se preselimo h konkretnemu delu, 
+<Sync time="5009.738"/>
+#eee, s katerim smo se srečevale pri oblikovanju točkovanja, 
+<Sync time="5014.648"/>
+#eee, članice projektne skupine. 
+<Sync time="5017.26"/>
+In sicer smo najprej določile, da bo 
+<Sync time="5022.369"/>
+zahtevnost besedila pravzaprav temelj za točkovanje. 
+<Sync time="5025.956"/>
+Kaj to pomeni? 
+<Sync time="5027.855"/>
+Vsebine v Slovenščini na dlani so razvrščene v tri zahtevnostne stopnje, to ste danes že, #e, nekajkrat slišali, in sicer poznamo oziroma ločimo osnovno stopnjo, srednjo stopnjo in pa 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="5040.708"/>
+zahtevno stopnjo. 
+<Sync time="5042.887"/>
+Ta težavnost na stopnji posameznega besedila je 
+<Sync time="5046.211"/>
+v bistvu rezultat, #e, štirih parametrov, 
+<Sync time="5050.17"/>
+in sicer težavnostne stopnje besedilne skupine, 
+<Sync time="5054.062"/>
+tematike, tipa naloge in cilja. 
+<Sync time="5057.268"/>
+Ne, težavnostne stopnje vseh teh štirih parametrov. 
+<Sync time="5061.138"/>
+#Eee, 
+<Sync time="5062.13"/>
+težavnostno stopnjo določimo potem po oblikovanju vaj in nalog za posamezno besedilo 
+<Sync time="5069.044"/>
+in jo ročno nastavimo v vmesniku, jaz sem vam tukaj dala sliko, da vidite, #eee, dejansko imamo pač takšno, #e, okno, 
+<Sync time="5078.939"/>
+#eee, odpre se padajoč meni in potem ročno nastavimo, #eem, 
+<Sync time="5084.393"/>
+težavnost posameznega besedila. 
+</Turn>
+<Turn startTime="5087.078" endTime="5089.754">
+<Sync time="5087.078"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="5089.754" endTime="5182.067" fidelity="low">
+<Sync time="5089.754"/>
+#Eee, 
+<Sync time="5091.382"/>
+v tabeli 
+<Sync time="5092.88"/>
+sem izbrala to, kar prikazujeta, #eee, v bistvu način, 
+<Sync time="5097.481"/>
+kako, oziroma smernice, kako določamo zahtevnost tako besedila kot posamezne naloge. 
+<Sync time="5104.545"/>
+In sicer v Tabeli ena lahko vidite, da je zahtevnost besedila skupek, #eee, zahtevnosti besedilne skupine in zahtevnosti tematike. 
+<Sync time="5115.439"/>
+Zdaj če sta obe, oba parametra na enaki, #eee, na, na enaki težavnostni stopnji, potem ni neke dileme, 
+<Sync time="5123.833"/>
+če je oboje na osnovni stopnji, je tudi zahtevnost besedila osnovne stopnje. 
+<Sync time="5129.074"/>
+#Eee, če pa imamo, na primer, srednje zahtevno besedilno skupino z, ki vsebu(), ki obravnava zahtevno tematiko, 
+<Sync time="5138.767"/>
+potem pa je takšno besedilo po zahtevnostni oziroma težavnostni stopnji označeno kot zahtevno. 
+<Sync time="5145.956"/>
+#Eem, 
+<Sync time="5147.243"/>
+pri nalogah sledimo podobnemu principu. 
+<Sync time="5151.393"/>
+Če je, če je tip naloge, če sta tip naloge in cilj en() na enakem nivoju, na enaki težavnostni stopnji, 
+<Sync time="5158.575"/>
+potem ni dileme, 
+<Sync time="5160.345"/>
+če pa imamo na primer srednje zahtevno, 
+<Sync time="5163.482"/>
+srednje zahteven tip naloge in zahteven, ki sledi zahtevnemu cilju, 
+<Sync time="5168.873"/>
+je potem takšna naloga srednje zahtevna, 
+<Sync time="5172.191"/>
+#eem, 
+<Sync time="5173.338"/>
+če pa imamo zahtevne tipe nalog, pa so potem načeloma tudi, #eee, na(), #e, je na splošno naloga označena kot zahtevna. 
+</Turn>
+<Turn startTime="5182.067" endTime="5185.083">
+<Sync time="5182.067"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="5185.083" endTime="5308.286" fidelity="low">
+<Sync time="5185.083"/>
+#Eem, 
+<Sync time="5186.807"/>
+težavnostna stopnja, 
+<Sync time="5189.186"/>
+#eee, je v bistvu pomembna zato, ker določa 
+<Sync time="5193.237"/>
+najvišje možno število točk posamezne vaje ali naloge. 
+<Sync time="5198.171"/>
+#Eem, 
+<Sync time="5199.982"/>
+pri besedilu osnovne stopnje 
+<Sync time="5202.444"/>
+je tako vsaka pravilno rešena vaja ali naloga vredna deset točk, 
+<Sync time="5207.887"/>
+na srednji stopnji je to dvajset točk, #eee, in pa na zahtevni stopnji je potem takšna naloga, 
+<Sync time="5215.177"/>
+#eee, vredna trideset točk. 
+<Sync time="5218.76"/>
+#Eee, predstavljeni način točkovanja 
+<Sync time="5222.213"/>
+pa ne velja za dve izjemi, to sta naloga urejanja v smiselno zaporedje, 
+<Sync time="5228.209"/>
+ki je bila predstavljena že prej, in pa tudi tvorjenje besedila. 
+<Sync time="5232.16"/>
+Zakaj smo se odločili, da tukaj ne sledimo temu, #eee, tej shemi? 
+<Sync time="5237.749"/>
+Predvsem zato, 
+<Sync time="5239.189"/>
+ker je naloga urejanja v smiselno zaporedje, 
+<Sync time="5243.123"/>
+#e, pri kateri pač mora učenec med seboj pomešane povedi nekega odstavka, #e, urediti v smiselno zaporedje, 
+<Sync time="5251.026"/>
+#eee, ta naloga se je izkazala kot zelo enostavna naloga, #e, v bistvu na vseh nivojih, #eem, 
+<Sync time="5259.302"/>
+in na vseh nivojih, zato smo ji pač dodelili, #e, enotno število točk, to je deset. 
+<Sync time="5266.761"/>
+Na drugi strani je tvorjenje besedila, #eee, 
+<Sync time="5270.729"/>
+nekoliko, ne nekoliko, je dejansko zahteven proces, ki od učenca zahteva določeno stopnjo znanja, 
+<Sync time="5277.869"/>
+#eee, angažiranosti, 
+<Sync time="5280.413"/>
+domišljije, spretnosti, in smo zato 
+<Sync time="5284.543"/>
+nekako se odločili, da pač 
+<Sync time="5286.701"/>
+ne more potem na osno(), tudi če, 
+<Sync time="5289.47"/>
+če je besedilo samo na osnovni težavnostni stopnji, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="5293.445"/>
+enostavno ni pošteno, da je ena tako kompleksna naloga potem vredna samo deset točk. 
+<Sync time="5300.008"/>
+#Eem, 
+<Sync time="5301.094"/>
+in smo se odločili, da bi() enostavno, #eee, seveda 
+<Sync time="5305.138"/>
+dobila, #e, višje število skupnih točk. 
+</Turn>
+<Turn startTime="5308.286" endTime="5311.25">
+<Sync time="5308.286"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="5311.25" endTime="5706.194" fidelity="low">
+<Sync time="5311.25"/>
+Kako smo torej, 
+<Sync time="5312.88"/>
+#eee, 
+<Sync time="5314.082"/>
+zdaj točkovali vaje in naloge? 
+<Sync time="5317.736"/>
+#Eem, 
+<Sync time="5318.735"/>
+v projektni skupini si zagotovo prizadevamo ustvariti čim bolj avtomatizirano e-okolje, na drugi strani pa ne zelo avtomatiziranih uporabnikov. 
+<Sync time="5330.005"/>
+#Eee, učenec besedilo obravnava s pomočjo raznolikih tipov nalog, 
+<Sync time="5335.317"/>
+#eee, v razponu od najenostavnejših do seveda, #e, najbolj kompleksnih. 
+<Sync time="5341.317"/>
+#Eee, že zaradi tega se je takoj po() pokazala potreba po delnem točkovanju 
+<Sync time="5347.402"/>
+nekaterih tipov nalog. 
+<Sync time="5349.539"/>
+Zdaj, pri, #e, nalogah dopolnjevanja, vstavljanja, sestavljanja, 
+<Sync time="5354.383"/>
+izbiranja, #e, izbirnega ali pa alternativnega tipa, potem pri nekih kratkih odgovorih, pa tudi pri utemeljevanju, 
+<Sync time="5362.91"/>
+#eee, je točkovanje jasno. Pravilen odgovor, 
+<Sync time="5367.71"/>
+#eee, prinese deset, dvajset ali trideset, 
+<Sync time="5372.211"/>
+#eee, točk in, #eee, uporabnik se prestavi naprej, #eee, k naslednji nalogi. 
+<Sync time="5377.952"/>
+Medtem ko kompleksnejše naloge zahtevajo več pravilnih rešitev, 
+<Sync time="5382.523"/>
+#eee, učenec mora na primer med množico besed izbrati ključne besede, ki se nanašajo na besedilo, 
+<Sync time="5390.33"/>
+#eee, urediti mora povedi odlomka v smiselno zaporedje, 
+<Sync time="5395.104"/>
+#eee, najti mora na primer pare kohezivnih sredstev, 
+<Sync time="5399.337"/>
+pa potem med ponujenimi trditvami zbrati več pravilnih ali napačnih 
+<Sync time="5404.762"/>
+in pa seveda tvoriti na(), #eee, besedilo. 
+<Sync time="5408.005"/>
+In te naloge točkujemo delno. 
+<Sync time="5411.026"/>
+#Eee, to pomeni, da vsaka pravilna rešitev znotraj posamezne naloge prinese neki delež skupnih točk. 
+<Sync time="5420.236"/>
+Če se še malo vrnem k predhodno izpostavljenima nalogama, #eem, to je naloga urejanja v smiselno zaporedje in pa seveda tvorjenje besedila, 
+<Sync time="5431.434"/>
+#eem, 
+<Sync time="5432.97"/>
+tudi tukaj smo, #eem, 
+<Sync time="5436.422"/>
+tudi ti dve nalogi sta pravzaprav neka posebnost še zmeraj. 
+<Sync time="5440.221"/>
+Urejanje v zaporedje, smo rekli, da zmeraj prinese deset točk. 
+<Sync time="5444.536"/>
+To je pomenilo, da moramo nalogo pravzaprav poenotiti, se pravi, pri vsakem ... Dogovorile smo se, da pri vsakem besedilu, 
+<Sync time="5453.197"/>
+#eee, ta nal(), da je 
+<Sync time="5455.118"/>
+vsa() pri vsakem besedilu odlomek sestavljen iz petih povedi. Tako, saj bo šlo. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="5460.637"/>
+#Eee, vsaka poved pa je potem vredna dve točki. 
+<Sync time="5465.169"/>
+#Eee, ta naloga je v bistvu lep primer, 
+<Sync time="5467.752"/>
+kako se lahko neki, #e, kako lahko neki element e-okolja, #eee, 
+<Sync time="5472.678"/>
+#eee, potem spreminja, 
+<Sync time="5475.354"/>
+#eem, kako se lahko spreminja po obliki ali pa po zasnovi, 
+<Sync time="5480.312"/>
+saj se na začetku nismo toliko ukvarjali s tem, #e, kako dolgo naj bi bil ta, #eem, odlomek, imeli smo pač neko splošno smernico, 
+<Sync time="5491.084"/>
+#eee, 
+<Sync time="5492.182"/>
+od toliko do toliko povedi, ampak šele točkovanje je potem bilo tisto, 
+<Sync time="5497.807"/>
+kjer smo ugotovile, da pa to vendarle moramo poenotiti, ker bo sicer, #e, sistem točkovanja, #eem, zelo težko prilagoditi. 
+<Sync time="5507.585"/>
+#Eem, 
+<Sync time="5509.371"/>
+enako velja za, #eem, 
+<Sync time="5513.064"/>
+za tvorjenje besedila, 
+<Sync time="5515.793"/>
+#eem, 
+<Sync time="5517.734"/>
+saj, #eee, se tega ne, #eem ...
+<Sync time="5521.959"/>
+No, kje pa sem jaz? Tukaj. 
+<Sync time="5524.267"/>
+Saj tega ne, #eee, 
+<Sync time="5526.883"/>
+vrednoti, #eem, 
+<Sync time="5529.313"/>
+no, 
+<Sync time="5529.886"/>
+ne vrednoti sistem. Evo, tako. 
+<Sync time="5532.351"/>
+Torej naloge izbere in pregleda učitelj oziroma učiteljica. 
+<Sync time="5536.386"/>
+#Eee, točke pa se določijo potem po pripravljenem točkovniku s kriteriji. 
+<Sync time="5542.83"/>
+#Eem, 
+<Sync time="5544.22"/>
+tako da, #eee, učitelj gre skozi besedilo, pogleda, katere kri(), kateri kriteriji so doseženi, in potem sešteje točke ter 
+<Sync time="5553.815"/>
+ta končni znesek točk ročno vnese v sistem in ga potrdi. 
+<Sync time="5558.851"/>
+#Eee, na tak način, ne samo da, #e, 
+<Sync time="5562.647"/>
+pridemo do bolj objektivnega, #e, točkovanja, ampak tudi zmanjšamo možnost 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="5568.378"/>
+preslikave besedil s spleta, namreč lahko bi se zgodilo, da bi pač učenec 
+<Sync time="5573.446"/>
+seveda neko novico ali pa neki mali oglas enostavno prekopiral z neke druge strani, jo prenesel v, v e-okolje, potrdil 
+<Sync time="5583.302"/>
+in dejansko potem sistem ne bi razpoznal, da je to prekopirano, medtem ko pa učitelj vendarle svoje učence pozna 
+<Sync time="5591.86"/>
+in lahko potem tudi presodi, 
+<Sync time="5594.024"/>
+ali je to dejansko, #eee, delo tega dotičnega učenca, učenke 
+<Sync time="5600.485"/>
+ali pa vendarle gre za, #e, nekaj sposojenega. 
+<Sync time="5605.719"/>
+Tako. 
+<Sync time="5606.937"/>
+#Eee, tako smo torej rešili to točkovanje na področju besedil 
+<Sync time="5612.678"/>
+predvsem z vidika učitelja, ne, se pravi to, da, da je točkovano tako, da potem tudi učitelj dobi neke povratne informacije, 
+<Sync time="5622.065"/>
+ampak mi vseeno želimo, da učenci, #eem, in učenke ne uporabljajo tega okolja samo zato, ker jim naloge dodeli učitelj, 
+<Sync time="5632.441"/>
+ampak da to okolje uporabljajo tudi samoiniciativno. 
+<Sync time="5635.993"/>
+Da bo, da bo to tudi njim zanimivo, da bodo tudi sami kdaj doma, da 
+<Sync time="5640.725"/>
+če nič drugega, pred kakšnim preizkusom znanja ali pa pred nacionalnimi preizkusi, mogoče dijaki pred maturo vendarle to okolje uporabili. 
+<Sync time="5649.768"/>
+In na kak način 
+<Sync time="5651.485"/>
+torej lahko mi zdaj, #eem, 
+<Sync time="5654.225"/>
+privabimo, ne, te učence oziroma dijake? 
+<Sync time="5658.611"/>
+No, to priložnost smo videli v igrifikacijskih elementih, ki jih, #eee, Slovenščina na dlani tudi vsebuje. 
+<Sync time="5667.343"/>
+In zato smo potem, #e, nekako razmišljali, 
+<Sync time="5671.114"/>
+kako bi lahko te točke, če smo že postavili točkovnik, 
+<Sync time="5674.742"/>
+uporabili tudi kot, #eem, neko motivacijo. 
+<Sync time="5679.478"/>
+#Eee, padla je, #eee, odloči() oziroma ideja o tem, 
+<Sync time="5684.782"/>
+kako, #eee, jih privabiti, je prišla spontano, 
+<Sync time="5688.855"/>
+in uporabile smo pravzaprav zelo preverjen pristop z dosežki. 
+<Sync time="5694.737"/>
+#Eem, 
+<Sync time="5695.71"/>
+učenec, učenka z reševanjem zbira točke 
+<Sync time="5699.184"/>
+in z njimi ustvarja dosežke, 
+<Sync time="5701.537"/>
+pa recimo, da bo to v našem primeru, da bodo medalje. 
+<Sync time="5704.419"/>
+Čisto tako, da bo bolj ilustrativno. 
+</Turn>
+<Turn startTime="5706.194" endTime="5708.032">
+<Sync time="5706.194"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="5708.032" endTime="6115.61" fidelity="low">
+<Sync time="5708.032"/>
+#Eee, dogovorile smo se, da lahko uporabnik prosto izbira med ponujenimi besedili 
+<Sync time="5714.596"/>
+in ga v bistvu pri tem ne omejujemo. 
+<Sync time="5718.244"/>
+#Eem, pustimo mu avtonomijo, 
+<Sync time="5721.326"/>
+#eee, vseeno pa moramo nekako določiti, kaj zdaj na() po kakšnem kriteriju vendarle sistem, #e, te točke tudi potem prizna, ne. 
+<Sync time="5731.665"/>
+#Eee, 
+<Sync time="5732.782"/>
+slediti moramo temu, da učenec ne samo da zbira točke, da dobi te neke medalje, ampak da od vsega skupaj tudi nekaj odnese. 
+<Sync time="5741.272"/>
+Ne, da vadi, da se uči, da utrjuje, 
+<Sync time="5745.529"/>
+#eem, in to smo nekako na posreden način potem tudi uspele 
+<Sync time="5751.359"/>
+doseči tako, 
+<Sync time="5753.301"/>
+da smo določile minimalno število vaj oziroma vaj pri posameznem besedilu, 
+<Sync time="5760.383"/>
+ki jih mora učenec rešiti, da se mu te potem pridobljene točke tudi priznajo. 
+<Sync time="5767.637"/>
+Tu smo spet razdelile, #eee, te mini() ta minimum na, glede na težavnostno stopnjo. 
+<Sync time="5774.481"/>
+In smo določile, da na osnovni ravni, #eee, je() da je potrebno na osnovni ravni oziroma pri besedilu os() osnovne težavnostne stopnje rešiti petnajst nalog. 
+<Sync time="5787.089"/>
+Srednja težavnostna stopnja zahteva dvajset nalog in zahtevna stopnja zahteva petindvajset nalog, 
+<Sync time="5794.431"/>
+da, #e, se te pridobljene točke potem tudi 
+<Sync time="5798.29"/>
+priznajo. 
+<Sync time="5799.823"/>
+#Eem, 
+<Sync time="5801.542"/>
+delo z besedili tako na posreden način, #eee, z() 
+<Sync time="5806.321"/>
+nekako spodbudi tudi pridobivanje znanja in pa, #eee, vadenje. 
+<Sync time="5812.055"/>
+#Eee, 
+<Sync time="5814.383"/>
+potem, ne, 
+<Sync time="5816.309"/>
+potem ko pa začne, ko, se pravi, ko to z() steče, ko učenec rešuje, pa vendarle potrebuje tudi neke mejnike, 
+<Sync time="5824.988"/>
+da, ki določajo, kdaj dobi potem to ne() neko medaljo. 
+<Sync time="5829.94"/>
+Tako smo, tako so postavljeni mejniki v tem trenutku na tisoč petsto točk za bronasto medaljo oziroma neki dosežek, 
+<Sync time="5839.627"/>
+potem pet tisoč točk za srednji dosežek 
+<Sync time="5842.796"/>
+in pa deset tisoč, #e, petsto točk za najvišji dosežek. 
+<Sync time="5848.929"/>
+#Eee, mogoče izgledajo te številke zdaj izbrane čisto naključno, pa vendarle ni tako 
+<Sync time="5855.123"/>
+in za vsem skupaj stoji tudi, #eee, neka mehanika. 
+<Sync time="5859.625"/>
+#Eem, točke so preračunane na, na način, da uporabnik ne glede na to, 
+<Sync time="5865.845"/>
+katero težavnostno stopnjo izbere, #eee, oziroma katero bes() katero, 
+<Sync time="5871.839"/>
+besedilo katere težavnostne stopnje izbere, 
+<Sync time="5875.268"/>
+#eem, potem 
+<Sync time="5877.591"/>
+v reševanje oziroma v pridobivanje teh medalj vlože() vloži nekako enakovreden trud. 
+<Sync time="5884.435"/>
+Kaj to konkretno pomeni? 
+<Sync time="5886.155"/>
+Če imamo učenca, učenko, 
+<Sync time="5889.293"/>
+ki se odloči, da bo te točke zbiral samo z, #e, besedili na osnovni težavnostni stopnji, 
+<Sync time="5896.109"/>
+to pomeni, da mora rešiti več besedil, da doseže teh tisoč petsto točk. 
+<Sync time="5902.397"/>
+To tudi pomeni, da bo p() po vsej verjetnosti, 
+<Sync time="5905.941"/>
+#e, izbral več različnih besedilnih skupin, 
+<Sync time="5909.651"/>
+da bo večkrat rešil enak, #e, se pravi naloge, ki preverjajo enak cilj, recimo večkrat bo moral določiti, #eee, kraj in čas nastanka besedila, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ večkrat bo moral, 
+<Sync time="5921.454"/>
+#eem, ugotoviti, kdo je besedilo tvoril, #e, komu je besedilo namenjeno 
+<Sync time="5926.469"/>
+in tako naprej, kakšen je bil namen. Se pravi, s temi, 
+<Sync time="5929.671"/>
+#eem, s temi z(), #eem, s stvarmi se bo večkrat srečal 
+<Sync time="5934.725"/>
+in na tak način v bistvu vadi, na tak način utrjuje, to je nekaj, kar učenec, ki rešuje na osnovni zahtevnostni stopnji, tudi potrebuje. 
+<Sync time="5945.488"/>
+Če se ne(), če se učenec potem odloči, da bo pa vendarle skušal teh tisoč petsto točk zbrati pa, #e, z besedili srednje ali pa zahtevne težavnostne stopnje, 
+<Sync time="5956.814"/>
+mora pa rešiti več nalog. 
+<Sync time="5959.766"/>
+Torej se mora 
+<Sync time="5961.191"/>
+poglobiti v besedilo, ne, neki uporabnik, ki lahko rešuje, #e, besedila na srednji ali na zahtevni, #eee, težavnostni stopnji, 
+<Sync time="5970.477"/>
+ne potrebuje toliko vadenja, ta uporabnik verjetno ima neko predznanje 
+<Sync time="5975.388"/>
+in reši sicer manj bese(), #eee, 
+<Sync time="5978.328"/>
+#eee, voz() ja, reši manj besedil, ampak se v njih bistveno bolj poglobi, ne, p() sistem mu pač se(), #eee, daje več vprašanj, to besedilo, in to besedilo potem obdela 
+<Sync time="5990.696"/>
+z več vidikov. 
+<Sync time="5992.915"/>
+#Eee, kar je potem z vidika nekega zahtevnega uporabnika vendarle bolj smiselno kot pa to, da nenehno, #eem, odgovarja na neka v bistvu za njega enostavna vprašanja. 
+<Sync time="6007.726"/>
+#Eem, 
+<Sync time="6010.646"/>
+če 
+<Sync time="6012.332"/>
+pred zaključkom še torej povzamem, kaj, kaj smo pravzaprav nekako ugotovili z oblikovanjem tega točkovanja, 
+<Sync time="6021.266"/>
+#eee, predvsem to, da so točke pomembno element učnega e-okolja. To ni samo nekaj, kar, #e, 
+<Sync time="6029.079"/>
+kar je, niso to samo neke številke, ki se prikazujejo, niso samo neke kljukice in nekaj križci, 
+<Sync time="6035.887"/>
+ampak je vendarle en element, na katerem stoji velik del, #eem, potem delovanja tega e-okolja. 
+<Sync time="6043.617"/>
+Druga stvar je, da je delno točkovanje vsekakor smiselno, 
+<Sync time="6047.548"/>
+#eee, čeprav je morda pri, 
+<Sync time="6050.243"/>
+nekoliko bolj zoprno za programerje, 
+<Sync time="6053.231"/>
+vendarle moramo slediti nekemu cilju, da, da s() je učenčevo delo, učenčev vložek in njegovo znanje tudi potem, 
+<Sync time="6061.910"/>
+#eee, pošteno vrednoteno, ne, objektivno vrednoteno. 
+<Sync time="6066.261"/>
+In pa na koncu še ta igrifikacija, torej z upoštevanjem igri() igrifikacijskih zakonitosti pa predstavlja zbiranje točk neko dodatno motivacijo za 
+<Sync time="6077.482"/>
+uporabo učnega e-okolja. 
+<Sync time="6079.933"/>
+Se pravi, ne samo, da bo to, #eem, 
+<Sync time="6082.467"/>
+spodbujen s strani učitelja, ampak si, si nekako prizadevamo, da bodo učenci v tem videli, #eem, neko prijetno opravilo, nekaj zanimivega 
+<Sync time="6093.042"/>
+in bodo, #eem, 
+<Sync time="6095.079"/>
+to okolje potem tudi samoiniciativno uporabljali. 
+<Sync time="6099.176"/>
+Tako da za konec, 
+<Sync time="6100.944"/>
+#eee, odlično, da ste vztrajali z mano, s poslušanjem ste si ravnokar pridobili deset dodatnih točk, jaz upam, da se zaradi tega bolje počutite, 
+<Sync time="6110.072"/>
+#eee, vsekakor pa se vam zahvaljujem za pozornost. Hvala lepa. 
+</Turn>
+<Turn speaker="spk6" startTime="6115.61" endTime="6177.691" fidelity="low">
+<Sync time="6115.61"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="6116.336"/>
+Hvala, kolegica Andreja Zalokar za podarjenih deset do dvajset minut, veseli smo jih. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="6124.062"/>
+#E, dala si nam motivacijo za poslušanje naprej, #eee, vesela sem, verjetno tudi marsikdo izmed vas, 
+<Sync time="6132.832"/>
+#eee, teh informacij, na katere zagotovo, #e, kot uporabnik niti pomislili ne bi. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="6139.789"/>
+Kaj vse je v ozadju, da nekaj naloga, #e, podeli oziroma za reševanje neke naloge, #e, dobiš, #e, točke, #e, takšne, kakršne pač bo, 
+<Sync time="6152.263"/>
+#e, e-okolje, #e, predvidelo. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="6154.303"/>
+#E, vidim že kolega Sandija Majningerja, Sandi, dobrodošel. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="6159.674"/>
+#E, predstavil nam bo prispevek, ki so ga pripravili trije, 
+<Sync time="6163.925"/>
+#e, poleg Sandija še Marko Ferme in Milan Ojsteršek. 
+<Sync time="6168.408"/>
+#E, naslov prispevka je pa Priprava učnega e-okolja Slovenščina na dlani z vidika programiranja. 
+<Sync time="6175.842"/>
+Sandi, izvoli. 
+</Turn>
+<Turn speaker="spk8" startTime="6177.691" endTime="6182.278" fidelity="low">
+<Sync time="6177.691"/>
+#Eem, pozdravljeni, upam, da se predstavitev vidi. 
+</Turn>
+<Turn speaker="spk8 spk6" startTime="6182.278" endTime="6184.67" fidelity="low">
+<Sync time="6182.278"/>
+<Who nb="1"/>
+#Eee ... super. 
+<Who nb="2"/>
+Se vidi, Sandi. 
+</Turn>
+<Turn speaker="spk8" startTime="6184.67" endTime="6312.907" fidelity="low">
+<Sync time="6184.67"/>
+#Eee, torej kot me je že kolegica napovedala, jaz bom predstavil, 
+<Sync time="6189.623"/>
+#eee, kako smo izkoristili sodobno tehnologijo in računalniške algoritme pri razvoju tega učnega 
+<Sync time="6197.28"/>
+e-okolja. 
+<Sync time="6198.585"/>
+#Eee, skušal vam bo, #eee, razložiti, #e, nekako kako poteka vzel(), #e, kako deluje e-okolje, tako da si potem mogoče lažje predstavljali, kaj določene stvari predstavlja. 
+<Sync time="6210.444"/>
+#Eee, zdaj pri razvoju programske opreme je ključnega pomena dobra zasnova. 
+<Sync time="6215.861"/>
+#Eee, zavedati se moramo, da računalnik deluje po naših navodilih, 
+<Sync time="6220.575"/>
+in v zasnovi določimo navodila oziroma pravila, po katerih mora delovati program. 
+<Sync time="6226.47"/>
+#Eee, programiranje pa je potem samo proces, v katerem zapišemo ta zasnovana navodila 
+<Sync time="6232.91"/>
+na računalniku razumljiv način, da bo znal izvajati te naše ukaze. 
+<Sync time="6239.521"/>
+#Eee, zdaj pri razvoju e-okolja smo razdelili, #e, v dva sklopa, najprej smo razvili ta skrbniški del, ki je služil temu, da smo lahko zbrali gradiva, 
+<Sync time="6250.316"/>
+delali podatke in potem, #e, ustrezno 
+<Sync time="6253.366"/>
+generirali naloge, ki se pojavljajo v e-okolju. 
+<Sync time="6256.558"/>
+#Eee, drugi del pa je potem bil namenjen razvoju samega uporabniškega, #eee, 
+<Sync time="6261.977"/>
+vmesnika, torej aplikacije, ki bo na voljo tudi vam za uporabo. 
+<Sync time="6267.732"/>
+#Eee, torej govorili smo že nekaj v, v prejšnjih predstavitvah o gradivih, ki smo jih zbirali, torej o naših korpusih Maks, Berta, o slovarjih frazemov, 
+<Sync time="6278.302"/>
+#e, in tako naprej. #E, da smo lahko vse to zbrali, smo mogli najprej vzpostaviti okolje, v katerem smo ta gradiva zbirali na enem mestu. 
+<Sync time="6287.41"/>
+#E, tukaj je bilo pomembno, da smo vsa gradiva pretvorili v neki skupni format, da so ti podatki združljivi med sabo. 
+<Sync time="6294.842"/>
+#E, opremili smo jih tudi z določenimi metapodatki in pa s podatki, ki jih potrebujemo za generiranje nalog in primerov. 
+<Sync time="6303.655"/>
+#Eee, tukaj vidimo primer, kako poteka nalaganje gradiva 
+<Sync time="6308.415"/>
+v naš korpus Maks 
+<Sync time="6310.584"/>
+in izpolnjevanje metapodatkov. 
+</Turn>
+<Turn startTime="6312.907" endTime="6314.696">
+<Sync time="6312.907"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="6314.696" endTime="6366.003" fidelity="low">
+<Sync time="6314.696"/>
+#E, potem pri korpusu Berta smo morali upoštevati, da so gradiva lahko ne samo besedilne datoteke, ampak so lahko tudi videoposnetki ali zvočni posnetki, 
+<Sync time="6325.551"/>
+#eee, dodatno pa smo upoštevali še, da ima eno gradivo lahko več datotek, #e, namreč pripravili smo tudi transkripcije, podnapise, 
+<Sync time="6334.373"/>
+#e, datoteke s podatki o govorcih in podobno. 
+<Sync time="6339.511"/>
+#Eee, tukaj vidimo še primer odnosa, #eee, 
+<Sync time="6343.078"/>
+frazeološke enote in urejanja njenih podatkov. 
+<Sync time="6347.291"/>
+In pa za zaključek tega sklopa še primer 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ razlage iz naše baze znanja, 
+<Sync time="6353.739"/>
+torej tudi bazo znanja smo odkrili v tem našim skrbiš() skrbniškem vmesniku, 
+<Sync time="6358.893"/>
+#eem, da se lahko vse razlage, #e, vsi primeri, ki jih imamo v bazi, potem tukaj, #e, 
+<Sync time="6364.498"/>
+zmanjšajo in urejajo. 
+</Turn>
+<Turn startTime="6366.003" endTime="6367.738">
+<Sync time="6366.003"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="6367.738" endTime="6545.385" fidelity="low">
+<Sync time="6367.738"/>
+#Eee, ko smo imeli zbrane vse podatke, 
+<Sync time="6370.344"/>
+#eee, smo nad njih pognali, #e, algoritme obdelave naravnega jezika, 
+<Sync time="6375.201"/>
+#eee, s tem smo želeli pridobiti čim več informacij o zbranih gradivih, 
+<Sync time="6379.809"/>
+#e, konkretno smo pognali postopke lematizacije, 
+<Sync time="6383.302"/>
+oblikoslovnega označevanja in skladenjsko razčlenjevanje. 
+<Sync time="6387.009"/>
+#E, na koncu pa še smo označili imenske entitete v besedilih. 
+<Sync time="6392.033"/>
+#Eee, 
+<Sync time="6393.003"/>
+zdaj za tiste, ki teh postopkov ne poznate, 
+<Sync time="6395.592"/>
+imamo tukaj en primer, #e, oblikoslovnega označevanja. 
+<Sync time="6399.372"/>
+#E, vidimo eno poved, 
+<Sync time="6401.727"/>
+ki ima najprej leme, torej osnovne slovarske oblike, 
+<Sync time="6406.4"/>
+#e, spodaj pa še oblikoslovne oznake. 
+<Sync time="6409.565"/>
+#E, zdaj te oblikoslovne, #e, oznake določajo besedno vrsto 
+<Sync time="6413.931"/>
+in pa tudi razne slovnične podatke o sami besedi 
+<Sync time="6417.648"/>
+#eee, vidimo spodaj, potem imamo za 
+<Sync time="6420.377"/>
+določene oznake, na primer razloženo, kaj, #e, posamezna črka v tej oznaki pomeni. 
+<Sync time="6427.522"/>
+#E, skladenjsko razčlenjevanje 
+<Sync time="6429.556"/>
+pa je postopek, #e, pri katerem, #e, poiščemo povezave med besedami 
+<Sync time="6434.396"/>
+in določimo, #e, vrste teh povezav. 
+<Sync time="6437.442"/>
+#E, vidimo tukaj eno poved, zopet isto kot prej, #e, in kakšne so te skladenjske povezave med njimi. 
+<Sync time="6444.057"/>
+#Eee, tukaj bi opozoril na to, da je postopek, #eee, 
+<Sync time="6448.337"/>
+ni ravno natančen oziroma je ne(), je devetdeset odstotkov natančno, tako da obstaja možnost, da je celo v tem zgledu kakšna napaka. 
+<Sync time="6456.593"/>
+#Eee, mi smo ta postopek, #eee, dobro pretestirali 
+<Sync time="6460.16"/>
+in smo ugotovili, za katere tipe relacij je bolj zanesljiv 
+<Sync time="6464.214"/>
+za katere manj, in potem smo se v 
+<Sync time="6466.696"/>
+tistih pravilih, ki jih uporabljamo pri naših nalogah, #eee, skušali opirati na tiste, 
+<Sync time="6471.724"/>
+#e, 
+<Sync time="6472.379"/>
+tipe relacij, ki so zanesljivo določeni. 
+<Sync time="6475.77"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="6477.891"/>
+#Eee, 
+<Sync time="6479.133"/>
+ko smo imeli zbrane vse te obdelane podatke, smo se lahko lotili, #e, generiranja naših nalog. 
+<Sync time="6485.709"/>
+#Eee, zdaj za definiranje nalog smo najprej morali določiti, 
+<Sync time="6490.571"/>
+#eee, kakšnega tipa bojo naše naloge. 
+<Sync time="6492.982"/>
+Tukaj smo se izbira(), #e, opirali na 
+<Sync time="6495.625"/>
+nabor tipov glede na način reševanja. 
+<Sync time="6498.487"/>
+Torej ali uporabnik, #eee, premika neke elemente ali vpisuje neke podatke ali izbira trditve in podobno. 
+<Sync time="6506.501"/>
+#Eee, potem smo pri, #e, generiranju primerov pregledali, kakšni so neki, #e, vzorci za priklic primerov, ki se pojavljajo v teh navodilih. 
+<Sync time="6516.953"/>
+#E, v ta namen smo potem z() sprogramirali več kot tristo gradnikov, 
+<Sync time="6522.183"/>
+#eem, pa si bomo kar na primerih pogledali, kaj ti gradniki so. 
+<Sync time="6526.394"/>
+#Eee, v glavnem, vse skupaj nam je omogočalo, da za vsako nalogo v našim e-okolju pripravimo tak strukturiran opis, 
+<Sync time="6533.875"/>
+#eee, ki vsebuje tako navodila za priklic primerov naloge kot navodila za spremembo primerov, 
+<Sync time="6540.215"/>
+navodila za prikaz in reševanje, 
+<Sync time="6542.85"/>
+kot tudi težavnost in pomembnost naloge. 
+</Turn>
+<Turn startTime="6545.385" endTime="6547.474">
+<Sync time="6545.385"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="6547.474" endTime="6667.312" fidelity="low">
+<Sync time="6547.474"/>
+#Eee, en tak strukturiran opis vidimo tukaj, 
+<Sync time="6550.514"/>
+#eee, gre za nalogo, vezano na časovne odvisnike. 
+<Sync time="6554.11"/>
+#E, vidimo opis naloge, 
+<Sync time="6556.115"/>
+#e, potem vidimo navodila, ki se bojo prikazala učencu ob reševanju naloge, v tem primeru, 
+<Sync time="6562.319"/>
+#e, vstavi manjkajočo vejico, 
+<Sync time="6564.679"/>
+#e, zraven imamo tudi namig, 
+<Sync time="6566.697"/>
+ki se bo izpisal ob reševanju učencu, 
+<Sync time="6569.523"/>
+#eee, dodatno imamo opis naloge, namenjen učitelju, 
+<Sync time="6573.194"/>
+#e, ta se bo izpisal, ko boste dodeljevali naloge učencem. 
+<Sync time="6577.56"/>
+In pa neki() neki tehnični obisk je namenjen nam, programerjem, za lažje programiranje. 
+<Sync time="6583.582"/>
+#Eee, najpomembnejši del tukaj pa so pravila oziroma skupina gradnikov, 
+<Sync time="6588.215"/>
+ki predstavljajo pravila za priklic primerov. 
+<Sync time="6591.8"/>
+#Eee, na podlagi teh pravil bomo iz pes(), iz besedil, konkretno pri pravopisu iz korpusa Maks, ki obsega deset milijonov besed, 
+<Sync time="6601.258"/>
+izbrali povedi, ki 
+<Sync time="6603.44"/>
+bojo primerne za tvorbo te naloge. 
+<Sync time="6606.538"/>
+In v tem primeru 
+<Sync time="6607.806"/>
+najprej izbiramo povedi, 
+<Sync time="6609.729"/>
+ki vsebujejo natančno en glavni stavek, 
+<Sync time="6612.927"/>
+natančno en odvisni stavek, 
+<Sync time="6615.518"/>
+in dodatno mora veljati, #eee, relacija, da se odvisni stavek nahaja pred glavnim stavkom v povedi. 
+<Sync time="6623.354"/>
+#Eee, naslednji korak je potem, da določimo tip odvisnega stavka, 
+<Sync time="6627.494"/>
+#e, pri tem se opiramo na relacijo, 
+<Sync time="6630.625"/>
+#eee, 
+<Sync time="6631.331"/>
+ki jo dobimo iz skladenjskega razčlenjevalnika, 
+<Sync time="6634.123"/>
+#e, ta relacija je tipa ADVCL. 
+<Sync time="6636.835"/>
+#Eee, to je v bistvu, #e, prislovni odvisnik, 
+<Sync time="6639.944"/>
+#eee, skladenjski razčlenjevalnik namreč ne zna ločevati med časovnimi in krajevnimi odvisniki. 
+<Sync time="6645.784"/>
+#Eee, tako da potem moramo to pravilo dopolniti še z 
+<Sync time="6649.423"/>
+gradnikom, #e, ki določa, 
+<Sync time="6651.375"/>
+da se mora v povedi nahajati tudi, 
+<Sync time="6653.822"/>
+#e, podredni časovni veznik. 
+<Sync time="6656.542"/>
+#E, dodatno smo omejili težavnost naloge s tem, #e, da smo določili, da mora poved vsebovati, #e, le eno samo vejico, s tem da 
+<Sync time="6665.398"/>
+ne izbiramo pretežkih povedi. 
+</Turn>
+<Turn startTime="6667.312" endTime="6669.687">
+<Sync time="6667.312"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="6669.687" endTime="6771.878" fidelity="low">
+<Sync time="6669.687"/>
+#Eee, 
+<Sync time="6670.485"/>
+na podlagi teh pravil, 
+<Sync time="6671.869"/>
+#eee, ki jih določimo pri vsaki nalogi, lahko potem, #e, izberemo dele besedila, ki se uporabijo pri generiranju primera. 
+<Sync time="6680.699"/>
+#E, določene naloge zahtevajo tudi spremembo tega primera, torej spremembo besedila, 
+<Sync time="6686.794"/>
+#eee, ali pa generiranje napačnega odgovora. 
+<Sync time="6690.083"/>
+#Eee, 
+<Sync time="6691.432"/>
+v glavnem za te, 
+<Sync time="6693.238"/>
+#eee, pomenske napake smo potem ponekod morali 
+<Sync time="6696.424"/>
+porabiti dodatno ročno vnesene podatke. 
+<Sync time="6699.679"/>
+#Eee, 
+<Sync time="6700.561"/>
+saj namreč, #e, računalnik, #e, določenih pomenskih napak ne zna sam generirati, #e, medtem ko neke slovnične, pravopisne 
+<Sync time="6708.452"/>
+pa, kot bomo videli v primeru, je zmožen 
+<Sync time="6711.069"/>
+generirati samodejno. 
+<Sync time="6712.962"/>
+#E, tukaj imamo potem primer, #eee, druge naloge, 
+<Sync time="6716.183"/>
+#eee, z ...
+<Sync time="6717.665"/>
+Konkretno gre za uporabo glagola vedeti in znati. 
+<Sync time="6721.509"/>
+#Eee, 
+<Sync time="6722.378"/>
+vidimo, da najprej izbiramo poved, #e, ki vsebuje glagol znati. 
+<Sync time="6728.117"/>
+#E, potem pa določimo pravila za spremembo primera, to vidimo pa tukaj spodaj. 
+<Sync time="6733.472"/>
+In v tem primeru bomo poved, #e, razdelili v dva dela 
+<Sync time="6737.045"/>
+pri glagolu znati, 
+<Sync time="6738.988"/>
+#eee, naredili kopijo drugega dela 
+<Sync time="6741.357"/>
+in v njej zamenjali glagol znati z glagolom vedeti. 
+<Sync time="6745.574"/>
+Pa da si boste lažje predstavljali, kar primer take naloge: 
+<Sync time="6749.31"/>
+se pravi, poved smo razdelili na dva dela. 
+<Sync time="6752.256"/>
+In v drugem delu potem smo ponudili uporabniku dve možnosti, eno pravilno 
+<Sync time="6757.102"/>
+in eno napačno. 
+<Sync time="6758.865"/>
+#E, v tej napačni je znal računalnik samodejno #eee s() 
+<Sync time="6762.7"/>
+zamenjati glagol in vstaviti glagol vedeti v pravilni obliki. 
+<Sync time="6767.185"/>
+#E, pri tem se je opiral na oblikoslovne, #e, oznake, ki smo jih videli prejle. 
+</Turn>
+<Turn startTime="6771.878" endTime="6775.622">
+<Sync time="6771.878"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="6775.622" endTime="6904.385" fidelity="low">
+<Sync time="6775.622"/>
+#Eee, tako zasnovan skrbniški vmesnik, 
+<Sync time="6778.835"/>
+#eee, nam je prišel zelo prav pri definiranju in preizkušanju nalog, 
+<Sync time="6783.091"/>
+#e, saj smo lahko kadarkoli spreminjali in urejali pravila, 
+<Sync time="6787.224"/>
+#e, za generiranje primerov in tako izboljšali kvaliteto nalog, #e, ki vam jih bomo ponudili. 
+<Sync time="6793.709"/>
+#Eee, hkrati nam je to tudi omogoč(), #e, nam to tudi omogoča, da lahko enostavno dodajamo tako nove naloge kot nove primere. 
+<Sync time="6802.198"/>
+#E, na primer za nove, #e, naloge, 
+<Sync time="6805.184"/>
+#e, bi lahko preprosto dodali, #eee, nov strukturiran opis naloge, #eee, določili pravila za generiranje primerov, 
+<Sync time="6813.552"/>
+#eee, medtem ko za dodajanje primerov bi preprosto razširili korpus Maks z novimi besedili, pa bi dobili na primer nove 
+<Sync time="6820.912"/>
+naloge za pravopisno slovnico. 
+<Sync time="6823.176"/>
+In podobno seveda velja tudi za ostala področja. 
+<Sync time="6827.18"/>
+#Eee, takšna dobra zasnova je bila odlična podlaga potem za implemen() implementacijo uporabniškega dela, 
+<Sync time="6835.397"/>
+#eee, tukaj smo, #eee, vloge, #e, uporabnika razdelili nekako v tri skupine. 
+<Sync time="6841.363"/>
+#E, prva je profil učitelja, 
+<Sync time="6843.929"/>
+#e, učiteljem je na voljo ustvarjanje in opravljanje skupin učencev, 
+<Sync time="6849.323"/>
+#e, prav tako lahko dodeljujejo naloge učencem 
+<Sync time="6852.678"/>
+in seveda pregledujejo rezultate in spremljajo napredek v znanju. 
+<Sync time="6857.214"/>
+#E, potem druga skupina je profil učenca, 
+<Sync time="6860.23"/>
+#e, ti uporabniki sodelujejo v skupinah, #eee, 
+<Sync time="6864.427"/>
+torej so vključeni v neke 
+<Sync time="6866.186"/>
+skupine, ki jih vodijo učitelji. 
+<Sync time="6868.445"/>
+#E, lahko rešujejo naloge, ki jih dobijo od učiteljev, in prav tako lahko samostojno vadijo, #e, in si sami izbirajo poglavja, ki jih želijo 
+<Sync time="6877.29"/>
+obravnavati. 
+<Sync time="6878.809"/>
+#Eee, dodatno smo predvideli tudi, #eee, profil samostojnega uporabnika, 
+<Sync time="6883.715"/>
+ki pa ni vključen v neko izobraževalno skupino. 
+<Sync time="6887.069"/>
+#E, tem bo seveda na voljo samo samostojni trening in spremljanje rezultatov. 
+<Sync time="6892.096"/>
+#Eee, v tem sklopu pa smo omogočili tudi, #eee, uporabo e-okolja brez prijave, brez registracije. 
+<Sync time="6898.957"/>
+Torej la() lahko samo rešuje naloge, 
+<Sync time="6901.353"/>
+#e, ne beležimo pa torej zgodovine reševanja. 
+</Turn>
+<Turn startTime="6904.385" endTime="6908.298">
+<Sync time="6904.385"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="6908.298" endTime="6988.898" fidelity="low">
+<Sync time="6908.298"/>
+#Eee, zdaj glavni del, #eee, 
+<Sync time="6910.987"/>
+programiranja uporabniškega dela je seveda predstavljalo reševanje nalog. 
+<Sync time="6916.525"/>
+#Eee, tukaj smo se 
+<Sync time="6917.83"/>
+morali potruditi, 
+<Sync time="6919.506"/>
+da so naloge prikazane, #eee, 
+<Sync time="6922.652"/>
+na različnih napravah, #eee, zara() uporabnike z različnimi potrebami in seveda v odvisnosti od različnih tipov nalog. 
+<Sync time="6931.503"/>
+#Eee, trudili smo se, da so ti tipi čim bolj interaktivni, 
+<Sync time="6935.243"/>
+#eem, da so uporabnikom zanimivi za, #eee, 
+<Sync time="6938.002"/>
+uporabo, za reševanje, 
+<Sync time="6939.599"/>
+da je vmes nekaj, 
+<Sync time="6941.445"/>
+#eee, elementov igrifikacije in podobno. 
+<Sync time="6944.748"/>
+#Eee, tukaj vidimo primer, na primer rešeta, 
+<Sync time="6947.695"/>
+#e, v katerem se skrivata dve besedi: 
+<Sync time="6950.041"/>
+priti in pa prit. 
+<Sync time="6952.019"/>
+In uporabnik mora prepoznati pravilno rešitev 
+<Sync time="6955.325"/>
+in seveda izbrati pravilno besedo. 
+<Sync time="6958.89"/>
+#E, potem drugi primer 
+<Sync time="6960.517"/>
+je na primer spomin, ki smo ga že videli v predstavitvi 
+<Sync time="6964.18"/>
+iz frazeološkega dela. 
+<Sync time="6965.962"/>
+#Eee, pri spominu smo v sodelovanju z grafičnim oblikovalcem pripravili tudi ilustracije frazemov. 
+<Sync time="6972.694"/>
+#Eee, vidimo na primer črno ovco 
+<Sync time="6975.166"/>
+pa riniti z glavo skozi zid. 
+<Sync time="6977.623"/>
+#Eee, pa ko smo ravno pri igrah, 
+<Sync time="6979.702"/>
+še ena kratka uganka za vas: 
+<Sync time="6981.797"/>
+#e, kaj mislite, kateri frazem predstavlja tale ilustracija? 
+<Sync time="6985.978"/>
+Pa lahko odgovore zapišete v klepet mogoče. 
+</Turn>
+<Turn startTime="6988.898" endTime="6992.682">
+<Sync time="6988.898"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="6992.682" endTime="7042.047" fidelity="low">
+<Sync time="6992.682"/>
+#Eee, poseben izziv so nam predstavljale naloge za besedila, 
+<Sync time="6996.761"/>
+#e, pri teh nalogah je namreč potrebno, da ima uporabnik vedno vpogled v izhodiščno besedilo, ki ga naloga obravnava. 
+<Sync time="7004.432"/>
+#Eee, 
+<Sync time="7005.355"/>
+zdaj ker s() 
+<Sync time="7006.507"/>
+smo delali e-okolje, da bo primerno za uporabo na različnih napravah, 
+<Sync time="7011.182"/>
+smo tukaj potem, #eee, omogočili, 
+<Sync time="7014.195"/>
+#eee, 
+<Sync time="7014.905"/>
+izpis besedila v pojavnem oknu, 
+<Sync time="7017.219"/>
+je dostopen preko tega gumba tukaj. 
+<Sync time="7019.759"/>
+#E, na tak način smo tudi, #e, umaknili besedila v neki dostopen del strani, 
+<Sync time="7025.551"/>
+#eee, in s tem, ko smo ga umaknili, tudi omogočili, da se 
+<Sync time="7028.965"/>
+uporabnik osredotoči na samo reševanje naloge, torej na bes() na navodila naloge in na elemente, ki 
+<Sync time="7035.434"/>
+vplivajo na reševanje. 
+<Sync time="7037.119"/>
+#Eee, če pa slučajno potrebuje besedilo, pa lahko kadarkoli 
+<Sync time="7040.835"/>
+v njega pogleda. 
+</Turn>
+<Turn startTime="7042.047" endTime="7044.662">
+<Sync time="7042.047"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="7044.662" endTime="7146.772" fidelity="low">
+<Sync time="7044.662"/>
+#Eee, naslednji pomemben sklop, ki smo ga morali, #eee, upoštevati pri #e zasnovi uporabniškega okolja, #e, torej je bilo samodejno ocenjevanje odgovorov. 
+<Sync time="7055.641"/>
+#E, zdaj način ocenjevanja smo običajno določili že v zasnovi, 
+<Sync time="7060.64"/>
+#eee, nalog, 
+<Sync time="7061.907"/>
+torej pri tam se določi, 
+<Sync time="7063.525"/>
+#e, točno, kako se naloge točkujejo, ocenjujejo. 
+<Sync time="7067.131"/>
+#E, pri večini tipov, #e, ni bilo težav in lahko naloge samodejno ocenjujemo, 
+<Sync time="7072.188"/>
+#e, saj je večina tipov izbranih tako, da lahko uporabnik samo na en način vnese pravilno rešitev. 
+<Sync time="7079.403"/>
+#Eee, 
+<Sync time="7080.334"/>
+kljub temu pa e-okolje ponuja tudi, #eee, 
+<Sync time="7083.004"/>
+določene naloge odprtega tipa, 
+<Sync time="7085.066"/>
+ker, #e, iščemo uporabniško kreativnost in tako naprej, 
+<Sync time="7089.041"/>
+#eee, 
+<Sync time="7089.811"/>
+tam je tako oceno, #e, težko pridobiti avtomatsko, 
+<Sync time="7093.853"/>
+#e, tukaj smo up(), #eee, implementirali napredni računalniški algoritem za samodejni izračun, #e, ocene, 
+<Sync time="7101.087"/>
+#e, ki temelji na primerjavi, #e, 
+<Sync time="7104.284"/>
+uporabnikovega odgovora 
+<Sync time="7106.298"/>
+s, #eee, 
+<Sync time="7108.31"/>
+predvideno rešitvijo. 
+<Sync time="7110.442"/>
+#Eee, zdaj ta 
+<Sync time="7111.935"/>
+postopek izračuna neko približno oceno, ta ocena ni natančna, 
+<Sync time="7116.913"/>
+#e, zato v primerih, ko ta, #e, približna ocena ni dovolj, 
+<Sync time="7120.871"/>
+#eee, omogočamo učitelju, ki 
+<Sync time="7123.074"/>
+nalogo dodeljuje, 
+<Sync time="7124.492"/>
+da namesto tega, #eee, 
+<Sync time="7126.048"/>
+izbere možnost, da bo oceno podal drug uporabnik. 
+<Sync time="7129.79"/>
+Običajno je to uporabnik v vlogi učitelja ali kakega tutorja, učenca in podobno, 
+<Sync time="7134.912"/>
+#eee, ali pa, da se bodo š() učenci lahko samovrednotili, 
+<Sync time="7139.491"/>
+torej da se jim bo izpisala pravilna rešitev na zaslonu 
+<Sync time="7142.866"/>
+in bodo pač lahko sami svoj odgovor, 
+<Sync time="7145.247"/>
+#e, kritično ocenili. 
+</Turn>
+<Turn startTime="7146.772" endTime="7148.601">
+<Sync time="7146.772"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="7148.601" endTime="7149.639" fidelity="low">
+<Sync time="7148.601"/>
+#Eee ...
+</Turn>
+<Turn startTime="7149.639" endTime="7152.028">
+<Sync time="7149.639"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="7152.028" endTime="7220.955" fidelity="low">
+<Sync time="7152.028"/>
+Zdaj pri samem, #eee, zaporedju nalog, 
+<Sync time="7154.835"/>
+ki se izvo() prikazujejo uporabniku, 
+<Sync time="7157.607"/>
+smo z(), #eee, 
+<Sync time="7159.351"/>
+implementirali algoritem adaptivnega dodeljevanja nalog. 
+<Sync time="7163.158"/>
+#E, to pomeni, da skušamo uporabniku prikazovati naloge in primere, ki so za njega v nekem danem trenutku primerni. 
+<Sync time="7171.237"/>
+#Eee, v ta namen upoštevamo najprej lastnosti nalog, 
+<Sync time="7174.821"/>
+torej tip naloge, njena zahtevnost in pomembnost, 
+<Sync time="7178.127"/>
+#e, kot tudi skušamo upoštevati uporabnikovo trenutno znanje. 
+<Sync time="7182.533"/>
+No, zdaj za 
+<Sync time="7183.8"/>
+ocenitev njegovega znanja najprej na začetku upoštevamo njegovo starost. 
+<Sync time="7188.837"/>
+Potem kasneje, ko pa je uporabnik že reševal nekaj nalog, pri na() #eee, v našem e-okolju pa upoštevamo njegovo 
+<Sync time="7196.07"/>
+uspešnost pri reševanju 
+<Sync time="7197.969"/>
+preteklih nalog. 
+<Sync time="7199.939"/>
+#Eee ... 
+<Sync time="7201.609"/>
+Na koncu bomo upoštevali tudi statistiko, #e, ki so ji imeli pri reševanju ostali 
+<Sync time="7207.328"/>
+uporabniki, 
+<Sync time="7208.349"/>
+#e, na tak način bomo lahko uporabniku ponujali naloge, 
+<Sync time="7212.401"/>
+ki jih bodo čim hitreje pripeljale do 
+<Sync time="7215.308"/>
+nekega želenega cilja. 
+<Sync time="7217.149"/>
+Torej do neke določene stopnje znanja v posameznem poglavju. 
+</Turn>
+<Turn startTime="7220.955" endTime="7222.741">
+<Sync time="7220.955"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="7222.741" endTime="7330.691" fidelity="low">
+<Sync time="7222.741"/>
+#E, zdaj da lahko seveda, #e, vodimo, #e, uspešnost pa spremljamo znanje, moramo analizirati tudi rezultate. 
+<Sync time="7230.032"/>
+Se pravi, vse, #e, rešitve uporabnikov, vse njihove zbrane ocene analiziramo 
+<Sync time="7235.192"/>
+in to nam omogoča, da spremljamo napredek v njihovem znanju, 
+<Sync time="7239.297"/>
+#eee, da prilagajamo 
+<Sync time="7241.385"/>
+težavnost nalog 
+<Sync time="7242.79"/>
+posledično 
+<Sync time="7244.022"/>
+in tudi da odkrijemo morebitne pomanjkljivosti v znanju na posameznem področju. 
+<Sync time="7249.584"/>
+#Eee, takšne analize so potem tudi zanimive za spodbujanje uporabnika in za nagrajevanje njegove uspešnosti, 
+<Sync time="7256.851"/>
+#eee, to pa dosežemo z vizualizacijo rezultata teh analiz. 
+<Sync time="7261.721"/>
+#Eee, tukaj vidimo primer izpisa take vizualizacije za, #eee, uči(), 
+<Sync time="7267.054"/>
+ki je namenjen učiteljem. 
+<Sync time="7268.777"/>
+#Eee, v tem primeru gre za izpis neke, 
+<Sync time="7271.43"/>
+recimo temu, domače naloge, 
+<Sync time="7273.546"/>
+kjer so učenci reševali po petindvajset primerov. 
+<Sync time="7277.17"/>
+In potem, #e, vidimo, kako uspešen je bil posamezen učenec pri 
+<Sync time="7281.518"/>
+posameznem primeru. 
+<Sync time="7282.761"/>
+Torej ena barva za uspešne odgovore, za pravilne odgovore, ena za delno pravilne, 
+<Sync time="7287.689"/>
+in ena za napačne. 
+<Sync time="7289.489"/>
+Tako lahko zelo hitro, #e, in pregledno pregl() ugotovite, kako uspešni so bili učenci. 
+<Sync time="7295.934"/>
+#E, potem pa drugi pogledi, ki so mogoče bolj zanimivi učencem za motivacijo in nagrajevanje, 
+<Sync time="7302.332"/>
+#e, najprej kaki ploščinski grafi, vezani na posamezna področja, 
+<Sync time="7306.898"/>
+potem zopet, #eee, krožni diagrami za posamezna področja. 
+<Sync time="7311.233"/>
+#Eee, lahko imamo tudi klasičen graf napredka skozi neko časovno obdobje, 
+<Sync time="7315.931"/>
+ali pa mogoče vizualno še najbolj zanimivo, #eee, drevesna struktura, 
+<Sync time="7320.61"/>
+ki bo rasla skupaj s tem, ko raste uporabnikovo znanje, se pravi, ko bo 
+<Sync time="7325.652"/>
+uspešno reševal naloge, se bo število krogcev v posameznem sklopu 
+<Sync time="7329.725"/>
+povečevalo. 
+</Turn>
+<Turn startTime="7330.691" endTime="7332.791">
+<Sync time="7330.691"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="7332.791" endTime="7359.218" fidelity="low">
+<Sync time="7332.791"/>
+Tako, na tej točki bi jaz zaključil mojo predstavitev. 
+<Sync time="7337.017"/>
+Upam, da ste dobili malo predstave o tem, kako deluje e-okolje, in da ste prepoznali prednosti, ki jih, 
+<Sync time="7343.815"/>
+#e, na kak način bo lahko v pomoč, #e, tako učiteljem kot učencem. 
+<Sync time="7348.745"/>
+#Eee, zahvaljujem se vam za pozornost, 
+<Sync time="7351.111"/>
+#e, z veseljem pa bom odgovoril tudi na vaša vprašanja v klepetu ali na koncu v diskusiji. 
+<Sync time="7357.283"/>
+Hvala. 
+</Turn>
+<Turn speaker="spk6" startTime="7359.218" endTime="7477.869" fidelity="low">
+<Sync time="7359.218"/>
+Sandi, najlepša hvala. 
+<Sync time="7361.048"/>
+#E, to, kar sem želela sama povedati, si zdaj sam povedal v tem zaključku, tako da, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="7366.113"/>
+#e, ne bom ponovila. 
+<Sync time="7367.66"/>
+#E, bi pa se zahvalila, #e, [ime in priimek] 
+<Background time="7369.967" type="shh" level="high"/>
+
+<Background time="7373.0" type="other" level="off"/>
+in, 
+<Sync time="7373.861"/>
+#e, učiteljici [ime in priimek], 
+<Background time="7375.057" type="shh" level="high"/>
+
+<Background time="7376.056" type="other" level="off"/>
+ki so odgovorile in, #e, očitno ustrezno odgovorile tako, da ste dobile dodatnih 
+<Sync time="7382.346"/>
+najmanj deset točk. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="7384.621"/>
+In ste že lepo na poti k tistim, 
+<Sync time="7387.216"/>
+#e, tisoč petstotim, #e, doseženim točkam, vztrajajte še naprej, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="7392.725"/>
+#e, takrat, ko boste imele možnost, zahvaljujem se vam za sodelovanje, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="7397.411"/>
+#e, hkrati pa, da ne bo preveč, #e, š() že se odmaknilo to sporočilo, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="7403.349"/>
+#e, Mateja Meterca, ki smo ga danes že slišali na začetku, 
+<Sync time="7407.385"/>
+#e, nas je prijazno povabili v, #eee, sodelovanje, 
+<Sync time="7411.493"/>
+#eee, za, #e, v anketi, #e, o šaljivih odgovorih, #e, vmes vam je tudi, #eee, 
+<Sync time="7418.701"/>
+vodja 
+<Sync time="7419.694"/>
+našega projekta že napisala en takšen primer šaljivega odgovora: "Koliko je ura? 
+<Sync time="7424.227"/>
+Toliko, kot včeraj ob istem času." 
+<Sync time="7426.827"/>
+#E, ob priliki, ko boste imeli čas, vas toplo vabimo, da, 
+<Sync time="7430.741"/>
+#eee, izpolnite to anketo, #e, zanimive stvari, #e, se najdejo, tako da, #eem, vabljeni k sodelovanju. 
+<Sync time="7439.422"/>
+#Eee, Tanja Brčič Petek, opravičujem se, ker, 
+<Sync time="7443.474"/>
+#e, čakaš zdaj že malce, ko sem vmes še govorila, dobrodošla. 
+<Sync time="7448.383"/>
+#E, imamo še, #e, tretji prispevek v tem sklopu, 
+<Sync time="7452.756"/>
+in sicer, #eem, 
+<Sync time="7454.594"/>
+se boš 
+<Sync time="7455.627"/>
+spraševala, 
+<Sync time="7456.8"/>
+#e, ali je, #e, e-okolje uporabno pri pouku. 
+<Sync time="7461.594"/>
+#Eee, konkretno žal do tega trenutka tega še niste mogli preizkusiti, ker še ni, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="7467.807"/>
+#e, tako daleč, bo pa to kmalu. 
+<Sync time="7470.842"/>
+#E, mogoče njen naslov: Učna ura s Slovenščino na dlani. Tanja, izvoli. 
+</Turn>
+<Turn speaker="spk9" startTime="7477.869" endTime="7482.303" fidelity="low">
+<Sync time="7477.869"/>
+Najlepša hvala, #e, lepo pozdravljeni tudi v mojem imenu. 
+</Turn>
+<Turn startTime="7482.303" endTime="7483.924">
+<Sync time="7482.303"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="7483.924" endTime="7488.61" fidelity="low">
+<Sync time="7483.924"/>
+Samo lepo prosim, če lahko potrdite, če se vidi. 
+</Turn>
+<Turn speaker="spk6" startTime="7488.61" endTime="7491.206" fidelity="low">
+<Sync time="7488.61"/>
+Tanja, se vidi. 
+</Turn>
+<Turn speaker="spk9" startTime="7491.206" endTime="7984.189" fidelity="low">
+<Sync time="7491.206"/>
+O() se opravičujem. 
+<Sync time="7493.834"/>
+Ja, takole, zdaj pa lahko začnemo. 
+<Sync time="7496.689"/>
+#Eee, torej moj prispevek je nekako zamišljen kot, #e, e-okolje prenesti torej popolnoma v prakso, se pravi v, #e, pouk. 
+<Sync time="7506.075"/>
+#E, tega nisem, kot je bilo že napovedano, mogla v celoti realizirati, zato ker žal okolje še ni 
+<Sync time="7512.586"/>
+v tem trenutku tako daleč, da bi ga lahko prenašali konkretno v razred med, #e, učeče se. 
+<Sync time="7518.65"/>
+#E, sem pa nakazala nekaj smernic, #e, kje, kako 
+<Sync time="7522.678"/>
+in pa seveda podala svoje lastno mnenje, svoje videnje 
+<Sync time="7527.263"/>
+in pa svoje doživljanje 
+<Sync time="7529.127"/>
+koristnosti, #e, rabe, #e, tega, #e, res celostnega e-okolja Slovenščina na dlani. 
+<Sync time="7536.242"/>
+#E, sama doživljam to okolje res kot kakovostno, privlačno, z učnimi načrti usklajeno, prednost tega je seveda tudi, da je to okolje popolnoma prosto dostopno, 
+<Sync time="7547.827"/>
+#e, in pa seveda, #e, nam() na(), #e, oziroma oblikovano tako, 
+<Sync time="7553.544"/>
+da vpliva na motiviranost učečih se, da obogati pouk, 
+<Sync time="7558.513"/>
+predvsem smo tukaj težili oziroma ustvarjali, #e, na podlagi tega, 
+<Sync time="7563.654"/>
+da, #e, bi e-okolje služilo zaenkrat kot popestritev pouka 
+<Sync time="7569.369"/>
+in pa seveda da prispevamo tudi k izboljšanju novih jezikovnih kompetenc. 
+<Sync time="7574.503"/>
+#E, bogatite(), #e, okolje je namenjeno bogatitvi jezikovnega pouka slovenščine od šestega razreda osnovne šole pa do konca srednješolskega izobraževanja 
+<Sync time="7584.127"/>
+in ima seveda, kot sama ocenjujem, uporabno vrednost. 
+<Sync time="7588.192"/>
+Morda bi se dotaknila tega, kar v sodobnem času 
+<Sync time="7592.035"/>
+učitelji moramo najbolj upoštevati in se seveda s tem vsakodnevno tudi spopadamo. 
+<Sync time="7598.105"/>
+To je vnašanje inovativnosti, iskanje inovativnih oblik pri pouku, 
+<Sync time="7603.089"/>
+#e, ki seveda spodbujajo, #eem, 
+<Sync time="7606.182"/>
+učence, jih dodatno motivirajo, 
+<Sync time="7609.572"/>
+delajo pouk zanimiv in zagotovo Slovenščina na dlani 
+<Sync time="7613.937"/>
+je takšno okolje. 
+<Sync time="7616.104"/>
+#E, s tem pa seveda prilagajamo izobraževanje tudi novim tehnologijam, 
+<Sync time="7621.299"/>
+#e, ki se, kot je tudi zdaj ta, #e, izredna situacija pokazala, 
+<Sync time="7626.855"/>
+#e, moramo z njimi srečevati, spopadati in določene stvari tudi popolnoma 
+<Sync time="7632.093"/>
+na te medije prenesti. 
+<Sync time="7634.409"/>
+#E, gre torej za, #e, #e, 
+<Sync time="7636.416"/>
+popestritev in obogatitev jezikovnega pouka in e-okolje, #e, o() 
+<Sync time="7641.76"/>
+omogoča dinamičnost in, #e, fleksibilnost pouka. 
+<Sync time="7646.219"/>
+Če smo še pred letom dni 
+<Sync time="7648.094"/>
+govorili o učnem okolju, da je to samo šola, 
+<Sync time="7651.87"/>
+pa smo seveda zdaj v zadnjem letu to učno okolje prenesli tudi domov. 
+<Sync time="7656.743"/>
+In, #e, nekako sem sicer to razdelala v dva sklopa, 
+<Sync time="7661.248"/>
+kje lahko Slovenščino na dlani oziroma kako jo lahko uporabimo, 
+<Sync time="7666.053"/>
+v šoli zagotovo kot, #e, motivacijo, 
+<Sync time="7669.424"/>
+pridobivanje novega znanja, najbolj izpostavljam seveda fazo učnega procesa ponavljanje in utrjevanje. 
+<Sync time="7677.545"/>
+#E, sem pa, #e, ob nastajanju nalog videla 
+<Sync time="7682.399"/>
+veliko možnosti tudi 
+<Sync time="7684.415"/>
+pri rabi, #e, 
+<Sync time="7686.198"/>
+okolja pri preverjanju pred ocenjevanjem in pa tudi pri samem, #e, ocenjevanju. 
+<Sync time="7692.428"/>
+Doma je seveda, kot je že danes bilo večkrat povedano, okolje namenjeno tudi samostojnemu učenju, se pravi tudi popolnoma izven 
+<Sync time="7700.783"/>
+učnega procesa, 
+<Sync time="7702.49"/>
+seveda ga lahko uporabimo tudi v oblikah, #e, v obliki domačih nalog, 
+<Sync time="7707.69"/>
+in pa zagotovo, #e, dobrodošlo in zelo, 
+<Sync time="7712.836"/>
+#e, res dobra pridobitev 
+<Sync time="7715.68"/>
+v izobraževanju na daljavo, če bomo seveda v tem ostajali tudi v prihodnosti. 
+<Sync time="7722.373"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="7723.248"/>
+Seveda, #e, omogoča, #e, številne dejavnosti, #eee, 
+<Sync time="7728.492"/>
+v() največ jih resnično sama vidim pri motivaciji 
+<Sync time="7732.558"/>
+in zato bi se pri njej tudi nekoliko, #e, dlje časa ustavila oziroma bi ji namenila morda malo, #e, več pozornosti. 
+<Sync time="7741.134"/>
+Namreč sama opažam, da motivacijo velikokrat zanemarjamo v samem učnem procesu. 
+<Sync time="7749.117"/>
+#E, velikokrat, pogostokrat jo tudi izpustimo, 
+<Sync time="7752.393"/>
+sem pa sama mnenja, da je motivacija najpomembnejša komponenta učne ure 
+<Sync time="7758.215"/>
+in je seveda hkrati tudi obvezna didaktična komponenta. 
+<Sync time="7762.761"/>
+Ima, #e, res močan vpliv na potek celotne učne ure 
+<Sync time="7768.106"/>
+in seveda posledično tudi na realizacijo zastavljenih učnih ciljev. 
+<Sync time="7773.121"/>
+Vpliva na zanimivost, kakovost in učinkovitost učnega procesa v celoti 
+<Sync time="7778.998"/>
+in pa navsezadnje, tudi na rezultat in uspeh. 
+<Sync time="7783.873"/>
+In, #e, številne naloge, ki so del učnega, #e, okolja, 
+<Sync time="7789.74"/>
+so seveda zelo priročne in zelo primerne za uvodno motivacijo. 
+<Sync time="7796.036"/>
+V dveh današnjih predstavitvah ste že videli rešeto 
+<Sync time="7800.702"/>
+in, #e, pa spomin, ki ga je, #e, prikazal, #e, kolega Sandi pred mano, 
+<Sync time="7806.418"/>
+in vse te stvari 
+<Sync time="7808.591"/>
+se vam kot na dlani, ne, ponujajo, 
+<Sync time="7811.797"/>
+da jih seveda kot motivacijsko komponento 
+<Sync time="7815.157"/>
+tudi uporabite, pri čemer vam je prihranjena, 
+<Sync time="7818.542"/>
+prihranjeno nekaj časa, #e, če že idejo imate sami, pa potem izdelava recimo tega, kar, #e, seveda učno okolje 
+<Sync time="7827.723"/>
+že ponuja. 
+<Sync time="7829.42"/>
+Če morda še nekaj besed, #e, o tem, #e, izobraževanju doma, zdaj se vse to tako zelo prepleta, da je tudi zelo težko te stvari ločevati, kar vemo, da je zdaj torej izobraževanje v celoti potekalo na daljavo 
+<Sync time="7843.709"/>
+do nedavnega. 
+<Sync time="7845.092"/>
+#Eee, in seveda prej smo to domače delo m() 
+<Sync time="7849.156"/>
+videli nekako drugače, tako učitelji kot tudi učenci, dijaki. 
+<Sync time="7855.084"/>
+In, #e, 
+<Sync time="7856.705"/>
+moram povedati, da v začetku, 
+<Sync time="7859.483"/>
+#e, tega izobraževanja na daljavo, kadarkoli sem dala samostojno delo, 
+<Sync time="7864.333"/>
+samo, potem ko so mi vračali izdelke, vedno dobila: "Pošiljam domačo nalogo. 
+<Sync time="7870.204"/>
+Pošiljam domače delo." Pa to ni bila domača naloga, 
+<Sync time="7874.599"/>
+ampak je seveda bilo, #e, delo, ki je bilo mišljeno v okviru, #e, pouka, učne ure, ki jo bi sicer izvedli v šoli, 
+<Sync time="7882.343"/>
+#e, ali pa preko spletnih aplikacij. 
+<Sync time="7885.971"/>
+Domača naloga, vemo, ne, da je vedno nekaj dodatnega, se pravi, izven tega pouka, 
+<Sync time="7891.035"/>
+#e, in seveda, #e, lahko 
+<Sync time="7893.848"/>
+naloge, ki so del, #e, Slovenščine na dlani, seveda uporabite 
+<Sync time="7898.585"/>
+tudi kot domače naloge za ponavljanje, utrjevanje, poglabljanje učne snovi. 
+<Sync time="7904.17"/>
+S tem seveda urimo učeče se pri samostojnem delu, 
+<Sync time="7908.682"/>
+#e, lahko z njimi seveda osvežimo, ponovimo znanje iz prejšnjega razreda, 
+<Sync time="7914.717"/>
+#eem, letnika, 
+<Sync time="7916.752"/>
+#e, skratka vse to je res zelo celostno sestavljeno. 
+<Sync time="7920.724"/>
+#E, in pa seveda, da se učeči se, tudi to je, tudi o tem je danes že bilo govora, 
+<Sync time="7926.132"/>
+da se sami seznanijo tudi z rezultati. 
+<Sync time="7930.029"/>
+Kar pa se tiče izobraževanja na daljavo, sama sem si kar 
+<Sync time="7933.685"/>
+večkrat tako potiho želela, ko sem pripravljala, 
+<Sync time="7937.272"/>
+#e, gradiva in, #eee, zaposlitve in naloge, 
+<Sync time="7942.052"/>
+da bi, #e, Slovenščino na dlani že imela v tem trenutku, 
+<Sync time="7946.742"/>
+#e, namreč, #e, dijakom oziroma učečim se se v tem primeru pošljejo samo povezave oziroma 
+<Sync time="7953.786"/>
+navodila, kje kaj najdejo, in potem lahko res vodeno 
+<Sync time="7958.102"/>
+popolnoma samostojno tudi, #e, delajo. 
+<Sync time="7960.954"/>
+Namreč, #e, učno e-okolje omogoča pregledno, učinkovito, raznovrstno, zanimivo in kakovostno poučevanje in učenje, 
+<Sync time="7969.669"/>
+#eee, je pomoč, #eee, pri sami pripravi učnega procesa na daljavo 
+<Sync time="7975.274"/>
+in pa je seveda tudi zelo priročno gradivo za samo učenje in pa seveda ponavljanje in utrjevanje jezikovnih vsebin. 
+</Turn>
+<Turn startTime="7984.189" endTime="7985.886">
+<Sync time="7984.189"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="7985.886" endTime="8513.648" fidelity="low">
+<Sync time="7985.886"/>
+Prednosti e-okolja, kot jih sama vidim, #e, morda bi omejitve oziroma bom se omejitev dotaknila malo tudi še potem kasneje v, #e, pri okrogli mizi, 
+<Sync time="7996.828"/>
+#e, sicer pa prednosti e-okolja Slovenščina na dlani za učitelja in pa na drugi strani za učečega se, 
+<Sync time="8004.746"/>
+učitelju zagotovo, #e, tako okolje olajša delo, 
+<Sync time="8009.0"/>
+seveda samo do določene stopnje, predvsem imam tukaj v mislih 
+<Sync time="8013.576"/>
+vsebinsko olajšanje oziroma olajšanje z vidika vsebine. 
+<Sync time="8018.304"/>
+Učitelja seveda tudi usmerja, 
+<Sync time="8020.953"/>
+ponuja mu tudi kakšne predloge, 
+<Sync time="8024.466"/>
+tudi za ustvarjanje, 
+<Sync time="8026.531"/>
+in pa seveda, #e, veliko prednost vidim tudi v avtentičnosti gradiva, 
+<Sync time="8031.34"/>
+pomeni in namen tega, #eee, obojega je bilo, #eee, pa danes že, #eee, predstavljeno. 
+<Sync time="8038.264"/>
+Za učečega se je zagotovo, tudi z vidika tega, da so to sodobne generacije, da so to generacije tehnologije, 
+<Sync time="8046.04"/>
+čeprav tukaj bi morda dodala, da sama pri svojih dijakih opažam, 
+<Sync time="8050.816"/>
+da oni zelo, #e, ločijo to dvoje. 
+<Sync time="8054.212"/>
+Da, #e, ja, digitalna, #e, #mmm, 
+<Sync time="8058.663"/>
+digitalna sredstva, digitalni mediji 
+<Sync time="8061.866"/>
+v prostem času 
+<Sync time="8064.273"/>
+ja, 
+<Sync time="8065.85"/>
+pri samem pouku 
+<Sync time="8067.94"/>
+pa niso tako zelo navdušeni nad njimi, 
+<Sync time="8070.913"/>
+kot morda mi učitelji to pričakujemo. 
+<Sync time="8074.463"/>
+To me je recimo zelo presenetilo, 
+<Sync time="8076.731"/>
+je pa zagotovo, da je tovrstno delo, #eee, zanimivo, 
+<Sync time="8082.413"/>
+#e, zabavno, 
+<Sync time="8084.12"/>
+da je seveda tudi samostojno, 
+<Sync time="8086.631"/>
+da jih s tem lahko, #e, zelo umsko zaposlimo, 
+<Sync time="8090.767"/>
+in pa, #e, omogoča seveda tudi diferenciacijo, individualizacijo, se pravi, pogosto se učitelji 
+<Sync time="8097.356"/>
+v razredu srečujemo, 
+<Sync time="8099.305"/>
+da imamo zelo dobre 
+<Sync time="8101.238"/>
+učence, dijake, 
+<Sync time="8102.849"/>
+#e, ki hitro rešijo naloge, potem pa tisti nekoliko manj uspešni, #e, lovijo ta čas, #e, medtem se drugi recimo dolgočasijo, sploh če te naloge pripravimo v obliki učnih listov, kar je seveda najpogostejša oblika. 
+<Sync time="8117.958"/>
+#E, in tukaj lahko seveda, #e, izbirajo sami, 
+<Sync time="8122.128"/>
+#e, svoj tempo reševanja si nekako, #eem, 
+<Sync time="8126.547"/>
+narekujejo, 
+<Sync time="8128.135"/>
+#e, in pa, kot je že bilo povedano, so ob tem tudi, 
+<Sync time="8131.528"/>
+#e, nagrajeni. 
+<Sync time="8133.305"/>
+Zdaj, #e, v prakso to prenašati in, #e, potem seveda meriti neko uspešnost, učinkovitost, #e, tovrstnih, #e, e-okolij, 
+<Sync time="8145.312"/>
+za to sem si postavila štiri temeljna didaktična načela, in sicer motiviranost, zanimivost, ustvarjalnost in pa učinkovitost. 
+<Sync time="8156.023"/>
+Zdaj koliko sem sama naklonjena e-okoljem, 
+<Sync time="8161.169"/>
+zagotovo, #eem, 
+<Sync time="8163.807"/>
+trdim in prepričana sem, 
+<Sync time="8166.278"/>
+da je, #e, tovrstna, #e, oblika zelo dobrodošla pri pouku, 
+<Sync time="8171.499"/>
+da, #e, pa se bolj nagibam k temu, da bi jo uporabljala oziroma sama bi jo uporabljala 
+<Sync time="8178.994"/>
+pogosteje v posameznih fazah učne ure, 
+<Sync time="8182.809"/>
+kot pa, #eee, 
+<Sync time="8184.571"/>
+pri obravnavi oziroma kot pa celostno, se pravi, kot, #eee, 
+<Sync time="8190.075"/>
+da bi celo šolsko uro v(), #e, izpeljala s pomočjo tega e-okolja. 
+<Sync time="8195.135"/>
+#E, sama menim, da je učenje jezika seveda, #e, sistem 
+<Sync time="8200.375"/>
+in da sta sploh pri pridobivanju novega znanja, 
+<Sync time="8204.621"/>
+#eee, zelo pomembni, #e, učiteljeva razlaga, tabelska slika, 
+<Sync time="8210.391"/>
+#e, ki, in oboje podkrepljeno seveda s konkretnimi primeri, in tako tudi sproti dobivamo povratno, #e, informacijo o stopnji razumevanja povedanega 
+<Sync time="8220.94"/>
+in, #e, seveda tudi, #e, pridobljenega znanja na drugi strani. 
+<Sync time="8226.794"/>
+Zato sem tudi izpostavila fazo ponavljanje in utrjevanje in, #eee, 
+<Sync time="8232.326"/>
+menim, da pa tukaj pa je res to, #eee, 
+<Sync time="8236.014"/>
+uporaba in vnašanje e-okolja v sam pouk, tudi v šoli, 
+<Sync time="8241.937"/>
+za to domače delo v kakršnikoli obliki že, 
+<Sync time="8246.427"/>
+ali v obliki domačih nalog ali v obliki učenja, pripravljanja na pisne preizkuse znanja, 
+<Sync time="8252.606"/>
+vemo, da so tukaj, #e, učeči se pogosto 
+<Sync time="8256.124"/>
+m() 
+<Sync time="8256.786"/>
+prepuščeni sami sebi, sploh pri, #e, učenju jezika, namreč teh nalog je malo, razen seveda v delovnih zvezkih, ki pa jih tudi 
+<Sync time="8265.493"/>
+v večini primerov skupaj v šoli rešimo. 
+<Sync time="8268.177"/>
+#E, tako da potem doma rešujejo iste primere in dobijo tudi mogoče napačno 
+<Sync time="8273.884"/>
+povratno informacijo, kar se jim seveda zdi, 
+<Sync time="8276.555"/>
+da zadevo zelo dobro obvladajo, potem pa pride neki iks ipsilon primer, 
+<Sync time="8281.7"/>
+#e, pa so nekoliko izgubljeni, in ob, #e, res taki bazi nalog, #eem, 
+<Sync time="8287.707"/>
+je ta širina, #e, zelo, #e, velika. 
+<Sync time="8292.43"/>
+Zagotovo vam bo v naslednjih dneh, se pravi, kot je bilo napovedano, v mesecu maju, #e, bomo to e-okolje lahko tudi testirali, se pravi, ga prenesli v razred, 
+<Sync time="8304.014"/>
+in, #eee, to raziskavo bom zagotovo izpeljala do konca, 
+<Sync time="8309.008"/>
+zato sem si zastavila tudi, #e, raziskovalna vprašanja, ki mi bodo v pomoč pri tem, 
+<Sync time="8314.772"/>
+in sicer, ali je oblika poučevanja z e-okoljem primerna pri pouku slovenščine v srednji šoli, v gimnazijskem programu, 
+<Sync time="8322.193"/>
+ali je oblika dovolj zanimiva za srednješolce, tako motivacijsko kot ustvarjalno, 
+<Sync time="8327.517"/>
+ali je s tako obliko delo mogoče v celoti doseči vzgojno-izobraževalne cilje, 
+<Sync time="8332.712"/>
+ali je oblika dela učinkovitejša od tiste, ki ne vključuje tehnologije, in ali z njo dosežemo višjo kakovost oziroma višji nivo znanja in posledično seveda 
+<Sync time="8343.459"/>
+tudi boljše ocene. 
+<Sync time="8346.272"/>
+Tu sem sicer postavila in zastavila tudi, #e, nekaj, #e, hipotez, 
+<Sync time="8351.376"/>
+#e, ki jih, #e, tako kot že povedano, žal v tem trenutku še ne morem potrditi in ne ovreči, 
+<Sync time="8358.447"/>
+bo pa prispevek objavljen tudi v zborniku 
+<Sync time="8362.087"/>
+in, #e, tam pa, #eee, sem skorajda prepričana oziroma ne vem, kaj bi še, 
+<Sync time="8367.741"/>
+#e, 
+<Sync time="8368.373"/>
+kakšna višja sila bi lahko, #e, to še preprečila, da pa ti izsledki, no, te raziskave 
+<Sync time="8374.851"/>
+tam potem ne bi bili tudi podnevi in, #e, vas seveda vljudno vabim potem ko branju in prebiranju teh prispevkov v nekoliko razširjenih, #e, oblikah. 
+<Sync time="8386.984"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="8387.585"/>
+Kar se tiče ocenjevanja, ki sem ga prej omenjala, 
+<Sync time="8391.774"/>
+zagotovo je e-okolje zasnovano tudi tako, da lahko iz nabora teh nalog sestavimo preverjanje pred ocenjevanjem in pa seveda tudi predpis() pisni preizkus, 
+<Sync time="8403.946"/>
+#e, nekaj teh testov bo tudi že oblikovanih, tako da bomo lahko avtomatsko tudi izbrali ali pa seveda potem 
+<Sync time="8411.9"/>
+po svoji izbiri, presoji. 
+<Sync time="8414.647"/>
+Žal, #e, ocenjujem, 
+<Sync time="8417.476"/>
+da učeči se, #e, nimajo motivacije za učenje, 
+<Sync time="8422.858"/>
+#e, oziroma nimajo ponotranjenega, #eem, 
+<Sync time="8426.223"/>
+tega, te miselnosti, 
+<Sync time="8428.331"/>
+da se učimo za splošno razgledanost, izobrazbo, znanje in življenje, 
+<Sync time="8433.617"/>
+ampak se, #e, 
+<Sync time="8435.38"/>
+v tem obdobju preprosto učijo za, #e, ocene. 
+<Sync time="8440.981"/>
+In, #eem,
+<Sync time="8442.841"/>
+to je tudi na neki način motivacija, kako jih pripraviti k delu, kako jih pripraviti k nekim, #eee, 
+<Sync time="8450.759"/>
+pregledom, kako jih, #eem, seveda 
+<Sync time="8455.259"/>
+malo tudi prisiliti, potisniti, 
+<Sync time="8458.008"/>
+#e, menim, da smo se zdaj kolegi in kolegice s tem zelo dobro srečali in, #e, da večina od vas zdaj temu prikimava in potrjuje, 
+<Sync time="8467.77"/>
+#e, namreč tam, kjer se je ocenjevanje prestavilo, se pravi, da se ni ocenjevalo 
+<Sync time="8473.32"/>
+na daljavo, so učeči se precej zaspali, če se lahko tako, #e, izrazim. 
+<Sync time="8481.019"/>
+Je pa zagotovo smiselno, #e, 
+<Sync time="8484.004"/>
+sploh če želim, #eem, 
+<Sync time="8486.134"/>
+ovreči ali potrditi zadnjo hipotezo, 
+<Sync time="8489.838"/>
+da po tako izpeljani učni uri, se pravi učni uri z e-okoljem Slovenščina na dlani, 
+<Sync time="8496.61"/>
+izpeljem seveda tudi ocenjevanje in preverim, 
+<Sync time="8500.562"/>
+v kolikšni meri je, #eee, 
+<Sync time="8503.48"/>
+takšna oblika poučevanja seveda uspešna 
+<Sync time="8507.089"/>
+tudi v končni fazi, #eem, 
+<Sync time="8510.159"/>
+z vidika, #e, 
+<Sync time="8511.735"/>
+pridobivanja 
+<Sync time="8512.961"/>
+ocen. 
+</Turn>
+<Turn startTime="8513.648" endTime="8515.34">
+<Sync time="8513.648"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="8515.34" endTime="8647.506" fidelity="low">
+<Sync time="8515.34"/>
+Morda še samo zaključek, #eee, 
+<Sync time="8518.618"/>
+zagotovo je tudi ta oblika, #e, ki se zdi, da je vse res tako zelo na dlani, 
+<Sync time="8526.83"/>
+#e, da je tudi za tovrstno obliko poučevanja, #e, potrebna skrbna in temeljita organizacija učitelja. 
+<Sync time="8534.031"/>
+Na prvi pogled se zdi seveda, da e-okolje učitelju delo olajša, 
+<Sync time="8539.195"/>
+in tukaj se strinjam, da vsebinsko zagotovo, 
+<Sync time="8543.112"/>
+z didaktičnega vidika pa ocenjujem, da je tovrstna oblika 
+<Sync time="8548.73"/>
+toliko bolj zahtevna, 
+<Sync time="8550.592"/>
+saj je seveda treba zelo domiselno, preudarno razmisliti, kdaj, v kolikšni meri, na kak način, 
+<Sync time="8557.763"/>
+pri katerih učnih enotah 
+<Sync time="8560.021"/>
+jo vključiti v pouk, da bo seveda 
+<Sync time="8563.724"/>
+učenje in, da bosta učenje in poučevanje, #e, smiselna in učinkovita. 
+<Sync time="8570.106"/>
+In, #e, pri vsem tem, #e, seveda, tudi se strinjam s tistim komentarjem v klepetu, 
+<Sync time="8576.983"/>
+da je to, #eem, 
+<Sync time="8578.769"/>
+da je ta projekt velika pridobitev na področju slovenščine, brez dvoma, 
+<Sync time="8584.12"/>
+#eee, bi pa ob tem vseeno želela, #e, opozoriti, 
+<Sync time="8587.965"/>
+da kljub vsemu temu, kar nam vsa ta digitalna okolja oziroma vse, #e, vsa ta tehnologija, vse, karkoli nam omogoča in se na prvi pogled zdi 
+<Sync time="8600.037"/>
+zelo priročno, zelo, #mmm,
+<Sync time="8603.25"/>
+tudi enostavno, 
+<Sync time="8605.327"/>
+ampak kakorkoli že, 
+<Sync time="8607.912"/>
+#e, je zagotovo, #e, osebni stik 
+<Sync time="8611.835"/>
+učečega se z učiteljico oziroma učiteljem 
+<Sync time="8615.261"/>
+neprecenljiv. In to se zdaj, ko smo imeli priložnost, 
+<Sync time="8619.51"/>
+#e, spoznati tudi 
+<Sync time="8621.6"/>
+od blizu izobraževanje na daljavo, 
+<Sync time="8624.451"/>
+#e, menim, da tudi zelo potrdilo, tako da 
+<Sync time="8628.362"/>
+definitivno vključevati e-okolja v pouk, 
+<Sync time="8632.329"/>
+ampak, #e, z zdravo mero, kot rečemo, 
+<Sync time="8635.601"/>
+razuma, čutnosti, 
+<Sync time="8637.679"/>
+#e, in seveda 
+<Sync time="8639.634"/>
+vsega, #e, pedagoškega, 
+<Sync time="8642.171"/>
+#mmm, znanja in seveda občutka. 
+<Sync time="8646.306"/>
+Najlepša hvala. 
+</Turn>
+<Turn startTime="8647.506" endTime="8649.541">
+<Sync time="8647.506"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="8649.541" endTime="8766.880" fidelity="low">
+<Sync time="8649.541"/>
+Hvala, kolegica Tanja Brčič Petek, za, 
+<Sync time="8653.008"/>
+#eee, tvoje mnenje, prepričana sem, da 
+<Sync time="8656.753"/>
+se strinjamo, #e, s teboj. 
+<Sync time="8659.642"/>
+Ko pogledam na uro, ugotovim, da nam žal nekako ne uspe se držati kljub še tako, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="8666.866"/>
+#e, dobrim namenom, #eem, 
+<Sync time="8669.588"/>
+časovne razporeditve. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="8671.535"/>
+Malce smo že posegli v vaš odmor, 
+<Sync time="8674.802"/>
+#e zato predlagam, razen če bo vodja projekta napisala ali sporočila drugače, 
+<Sync time="8681.799"/>
+#eee, 
+<Sync time="8682.374"/>
+predlagam, da, vmes sem želela 
+<Sync time="8684.98"/>
+pogledati, če je kakšno mnenje, nekaj drugega je napisano, #eee, predlagam, da vprašanja morebitna napišete v sporočila, tako kot smo to počeli včeraj, tako kot tudi danes v tem, 
+<Sync time="8697.102"/>
+#e, že predhodnem obdobju, da vam vseeno še vsaj nekaj, 
+<Sync time="8700.957"/>
+#e, minutk, #e, odmora, #e, ohranimo, 
+<Sync time="8704.77"/>
+#e, da lahko vmes malce, 
+<Sync time="8707.308"/>
+#e, zadihate, se pretegnete, pogledate skozi okna, sonce počasi že zahaja, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="8713.728"/>
+#eee, tako da, #e, po načrtu, #e, naprej nadaljujemo, 
+<Sync time="8718.647"/>
+#e, ob, #e, sedemnajst : trideset za, #e, s temo oziroma, #e, z okroglo mizo z naslovom 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="8727.579"/>
+Novi izzivi pri jezikovnem pouku slovenščine. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="8731.381"/>
+#Eee, ne hodite predaleč, #e, vrnite se hitro, 
+<Sync time="8735.698"/>
+#eee, tako da zahvaljujem se še enkrat vsem, ki so predstavljali, 
+<Sync time="8740.665"/>
+#e, v tem, #e, delu, 
+<Sync time="8743.02"/>
+če ima kdo kakšno vprašanje, bom hitro pokukala. 
+<Sync time="8747.443"/>
+#Aha, to so, #e, mnenja vaša, če bo še kakšno vprašanje vmes, pa vam bomo tudi odgovorili, pa spremljajte, 
+<Sync time="8755.542"/>
+#e, v klepetu. Jaz se bom zdaj izklopila, tako da nekaj minutk časa imamo odmora, potem pa sedemnajst : trideset, 
+<Sync time="8763.461"/>
+#e, nadaljujemo z okroglo mizo. 
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Mitja" audio_filename="Artur-J-Gvecg-P500027-avd" version="4" version_date="220731">
+<Topics>
+<Topic id="to1" desc="Okrogla miza"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Artur-J-G3057" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk2" name="Artur-J-G3060" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+<Speaker id="spk3" name="Artur-J-G3058" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk4" name="Artur-J-G3059" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="3451.341" topic="to1">
+<Turn startTime="0" endTime="2.122">
+<Sync time="0"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn startTime="2.122" endTime="140.187" speaker="spk1" fidelity="high">
+<Sync time="2.122"/>
+Lep pozdrav na okrogli mizi v okviru portala STAznanost. 
+<Sync time="6.768"/>
+Zakaj bomo danes govorili o statističnih številkah v času epidemije covida? 
+<Sync time="12.157"/>
+Ker te praktično krojijo način našega življenja. 
+<Sync time="15.849"/>
+#Aaa, denimo na podlagi kriterijev, ki temeljijo na številu novookuženih v določenem časovnem obdobju ter številu 
+<Sync time="23.648"/>
+hospitaliziranih v bolnišnicah, bodo tudi spro() sproščali omejitvene ukrepe. 
+<Sync time="29.419"/>
+Zaradi vsega tega je še kako pomembno, kako so ti podatki, številke zbrani, 
+<Sync time="35.89"/>
+kdo jih obdeluje, 
+<Sync time="37.46"/>
+kdo morda tudi interpretira 
+<Sync time="40.107"/>
+in kako se na podlagi teh podatkov delajo napovedi o poteku epidemije. 
+<Sync time="45.318"/>
+Za pojasnila, in verjamem tudi tvorno debato, 
+<Sync time="49.213"/>
+so zato z nami danes: 
+<Sync time="50.783"/>
+#eee, vodja Odseka za reaktorsko tehniko na Institutu Jozef Stefan, Leon Cizelj, 
+<Sync time="57.169"/>
+#eem, predstavnica sledilnika za covid, Zarja Muršič, 
+<Sync time="62.495"/>
+in pa predstojnik Centra za nalezli() nalezljive bolezni Nacionalnega inštituta za javno zdravje, Mario Fafangel. 
+<Sync time="70.443"/>
+#Eee, 
+<Sync time="71.113"/>
+lepo pozdravljeni, 
+<Sync time="73.065"/>
+#eee, tudi vi, ki nas, #eee, spremljate, #eem, 
+<Sync time="76.757"/>
+v živo, 
+<Sync time="77.733"/>
+naj pa se še jaz predstavim, moje ime je Anja Gorenc in sem, #eee, novinarka Slovenske tiskovne agencije in bom, #eee, moderirala to razpravo. 
+<Sync time="86.529"/>
+#Eee, doktor Fafangel, 
+<Sync time="88.799"/>
+#eem, 
+<Sync time="89.669"/>
+če se ne motim, tako sledilnik, #eeem, kot 
+<Sync time="93.488"/>
+tudi doktor Cizelj, 
+<Sync time="95.058"/>
+#eee, jemljeta ključne statistične podatke od, #eee, Nacionalnega inštituta za javno zdravje. 
+<Sync time="100.438"/>
+Zdaj, #eem, 
+<Sync time="102.624"/>
+prišepnjeno mi je bilo, da v bistvu, 
+<Sync time="105.395"/>
+ko ste vi prišli na NIJZ, so se začeli, #eee, 
+<Sync time="109.418"/>
+nekako tektonski 
+<Sync time="111.064"/>
+premiki na področju 
+<Sync time="112.74"/>
+zbiranja podatkov, 
+<Sync time="114.353"/>
+#eee, epidemioloških podatkov, #eee, a nam lahko poveste, kako je bilo recimo 
+<Sync time="119.733"/>
+takr(), takrat, ko ste bili, ko ste prišli na, #eee, inštitut, #eee, in takrat 
+<Sync time="125.165"/>
+in mogoče, kako se zbirajo zdaj. 
+<Sync time="127.915"/>
+Kakšna je ta razlika pa 
+<Sync time="129.222"/>
+kako bi recimo 
+<Sync time="130.402"/>
+zdaj, #eee, izgledalo ob trenutnih epidemioloških podatkih, 
+<Sync time="134.679"/>
+#eee, razmerje, razmerah, kako bi, #eee, izgledalo takšno zbiranje kot recimo marca? 
+</Turn>
+<Turn startTime="140.187" endTime="141.833">
+<Sync time="140.187"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="141.833" endTime="386.65" fidelity="high">
+<Sync time="141.833"/>
+Pozdravljeni, 
+<Sync time="142.703"/>
+hvala lepa za vabilo in za priložnost. 
+<Sync time="145.334"/>
+#Ja, jaz bom kar začel z, 
+<Sync time="147.944"/>
+z, še malo prej, preden sem jaz prišel, leta dva sedemnajst, 
+<Sync time="151.627"/>
+je imela Slovenija WHO audit, ne, 
+<Sync time="154.513"/>
+sistemov spremljanja in odzivanja na takšne grožnje ko(), kakor je epidemija in pandemija nalezljive bolezni. 
+<Sync time="160.042"/>
+In 
+<Sync time="160.712"/>
+najslabšo oceno je takrat Slovenija dobila dvojko, 
+<Sync time="163.831"/>
+mogel bi biti cvek, 
+<Sync time="165.019"/>
+je dobila dvojko. 
+<Sync time="166.229"/>
+#Eee #eee, ravno na področju spremljanja in zaradi digitalizacije. 
+<Sync time="170.973"/>
+In, in to je to, a ne. In zdaj po 
+<Sync time="174.062"/>
+vrsto let, ne, 
+<Sync time="175.314"/>
+nas ta zadeva še vedno grize, #eee, grize od zadaj, ker zdaj plačujemo davek, 
+<Sync time="180.1"/>
+#eee, davek tega, ne. 
+<Sync time="181.798"/>
+Sistem je bil 
+<Sync time="183.466"/>
+papirnat. 
+<Sync time="184.73"/>
+Papirnati sistem, ki je, ki je super za, za zbrati in za obvladovati en manjši izbruh, nikakor ne za voditi epidemijo, 
+<Sync time="192.869"/>
+nikakor ne za imeti podatke v živo, 
+<Sync time="194.876"/>
+kakor zdaj, zdaj, je potrebna, nikakor za imeti podatke, ker kaj, govorimo o podatkih, ne. 
+<Sync time="199.959"/>
+Ampak zakaj nas zanima? 
+<Sync time="201.169"/>
+Podatki so information for action, ne, mislim, to je pomembno, 
+<Sync time="204.315"/>
+da s temi krojimo, 
+<Sync time="205.673"/>
+ne samo, da gledamo, kaj se nam bo zgodilo, 
+<Sync time="207.689"/>
+ampak da jih interpretiramo in svetujemo pametno, kako iti po eni poti ali ubrati drugo, če vidimo, da, da ena pot, da ena pot ne deluje. 
+<Sync time="215.425"/>
+Papirnata 
+<Sync time="216.838"/>
+prijava nalezljive bolezni, kot je covid- 
+<Sync time="219.49"/>
+devetnajst v, s trenutnimi številkami in razmahom epidemije 
+<Sync time="223.691"/>
+pomeni, 
+<Sync time="224.489"/>
+da če bi ostali tam, kjer smo bili trenutno, 
+<Sync time="227.154"/>
+ne sledilnik, ne Institut Jožefa Štefana, ne naša javnost 
+<Sync time="230.498"/>
+imeli nula, nula podatkov o covidu. 
+<Sync time="232.798"/>
+Bi bili popolnoma slepi, ker ne bi vedeli, kje smo. 
+<Sync time="235.569"/>
+Ker v resnici inštitut še vedno, 
+<Sync time="238.191"/>
+naš inštitut, mi, 
+<Sync time="239.74"/>
+generiramo pravzaprav te podatke, izbiramo, ne samo zbiramo, nekdo bi si mislil 
+<Sync time="244.429"/>
+mogoče. In to bom danes jaz izkoristil priložnost, da jaz, mi lepo sedimo tukajle, 
+<Sync time="248.536"/>
+ko nam ti digitalni podatki v strukturirano lepo letijo v bajto, ne, 
+<Sync time="252.674"/>
+in zdaj epidemiologi tukajle sedimo, če prispodoba iz Gospodarja prstanov, ko Zmavk, ne, na našem, na našem kupu denarja in podatkov in razmišljamo, če bomo kliknili ti(), tipko send in to delili, ali bomo zadržali to za nas, ker ne bomo delili z nobenim. 
+<Sync time="266.902"/>
+Daleč od tega, ne. 
+<Sync time="268.357"/>
+Podatki so na prvi fazi rabili ogromno ročnega obdelovanja, 
+<Sync time="272.961"/>
+koordinacij s terenom, da sploh pride v eno obliko, za katero mi, ke smo odgovorni za njih, lahko stojimo, 
+<Sync time="279.029"/>
+da jih sploh ob() o() potem obdelamo in damo v obdelavo drugim in interpretiramo. 
+<Sync time="283.336"/>
+In zdaj so tule razlike, smo šli pač iz, #eee, papirnate oblike na, 
+<Sync time="288.174"/>
+dajmo reči, digitalno prijavo, ke v enem začetni fazi je bila kvazi digitalna, ne, moraš reči, podatek pa je bil v resnici še vedno analogen zadaj in še vedno ročne obdelave. 
+<Sync time="298.426"/>
+Do sistema, ki, do razvoja aplikacij, s katerega se prijave trenutno avtomatično zlivajo pozitivnih primerov iz laboratorijev, kar je bistveno, 
+<Sync time="307.074"/>
+#eee, 
+<Sync time="307.66"/>
+pospešilo in olajšalo in omogočilo sploh na takšen volumen dela, 
+<Sync time="311.428"/>
+v enim danem trenutku so bili laboratoriji v tem sistemu obremenjeni ročno, ker so vtipkavali pa na njihovi strani, kar spet ni bilo dobro, razvili rešitev, 
+<Sync time="319.257"/>
+da naredimo to iz vi(), avtomatizirano iz njihovih sistemov. 
+<Sync time="323.025"/>
+In zdaj v naslednjem tednu z vsemi temi tektonskimi premiki, ki nas še čakajo, 
+<Sync time="328.936"/>
+hitri antigenski testi, uvedba le-teh in ukrepanje le-teh, 
+<Sync time="332.301"/>
+#eee, pa se premikamo še na eno dodatno izboljšavo, ker jaz si želim, da bo tudi izboljšava 
+<Sync time="336.896"/>
+za vse druge pandemije, ki nas čakamo, 
+<Sync time="339.103"/>
+je pa črpanje iz podatkov iz centralnega registra prebivalstva, en nov sistem 
+<Sync time="343.928"/>
+in, #eee, in to, in to bojo spet, #eee, spet, #eee, dodatni premiki. Torej eno skupno stici() stičišče, kjer se bojo zlivali vsi podatki, 
+<Sync time="351.409"/>
+pozitivni in negativni covid testiranja, 
+<Sync time="354.328"/>
+hitri antigenski, PCR-ji 
+<Sync time="356.217"/>
+in potem pač en 
+<Sync time="357.863"/>
+sodoben data flow, 
+<Sync time="359.433"/>
+ki pride do nas 
+<Sync time="360.685"/>
+in mi potem ga lahko, 
+<Sync time="362.128"/>
+#eee, 
+<Sync time="362.777"/>
+obdelamo, 
+<Sync time="363.923"/>
+prikažemo kar lahko, #eee, še() s() še enkrat smo čisto, ne, 
+<Sync time="367.436"/>
+raz() razfrcljani na vseh področjih, ne, od odziva do presinga do 
+<Sync time="372.231"/>
+do vsega, ampak enkrat, ko imamo to, pa potem podatke 
+<Sync time="375.562"/>
+dali javnosti in interesiranimi javnosti in takšnimi, 
+<Sync time="379.33"/>
+takšnim sodelavcem in in in kolegom in strokovnjakov, kakor Institut Jožefa Štefana, sledilnik in vsi ostali. 
+</Turn>
+<Turn speaker="spk1" startTime="386.65" endTime="409.645" fidelity="high">
+<Sync time="386.65"/>
+#Eem, 
+<Sync time="387.511"/>
+zdaj 
+<Sync time="388.318"/>
+mi na vaši spletni strani najdemo določene podatke o epidemiji, na primer novookužene, smrti, #eee, med zdravstvenimi delavci v DSO-jih in tako naprej. 
+<Sync time="399.639"/>
+#Eem, 
+<Sync time="400.912"/>
+kaj pa NIJZ v bistvu, kaj vse glede epidemije NIJZ zbira, katere podatke in katere objavite, katere pa morda tudi ne in zakaj? 
+</Turn>
+<Turn startTime="409.645" endTime="411.164">
+<Sync time="409.645"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="411.164" endTime="593.371" fidelity="high">
+<Sync time="411.164"/>
+Večina podatkov 
+<Sync time="412.556"/>
+zbiramo na NIJZ-ju, ne, v resnici, večina podatkov pri() pride do nas, nekateri 
+<Sync time="416.982"/>
+so eni paralelni sistemi poročanja, ki grejo mimo nas, 
+<Sync time="420.283"/>
+ampak večina teh podatkov, #eee, da() dejansko pride, pride pri nas. 
+<Sync time="424.399"/>
+V v odločanju, kaj ne objavljati, 
+<Sync time="427.115"/>
+v resnici, 
+<Sync time="428.231"/>
+je vedno največji, največji, največja skrb zasebnost posameznika. 
+<Sync time="433.251"/>
+Zdaj ta, ta skrb ni, ni tako relavantna, ne, ob takšnih številkah, ampak se moramo zavedati, 
+<Sync time="438.313"/>
+da ta anonimizacija in psevdonimizacija potem gre past, ko govorimo o majhnih številkah na dan, ne. 
+<Sync time="443.914"/>
+Za() to, to je tista moja prva skrb, zato ker, glejte, 
+<Sync time="446.991"/>
+stigma okoli covida obstaja in vsi tisti, ki so šli čez to, vejo, kako izgleda, vejo, kako izgleda v majhni vasi, 
+<Sync time="452.923"/>
+vejo, kako izgleda tudi v velikem mestu in pri sosedi. 
+<Sync time="455.384"/>
+Tako da, mislim, tisto() tisto je ena prioriteta, ker vseeno zdravje državljanov in oni() njihova z(), #eee, njihova zasebnost, 
+<Sync time="461.473"/>
+podatki so v resnici njihovi, ne, 
+<Sync time="463.595"/>
+njihovi osebni, strogo varovani podatki, ki moramo mi skrbeti, 
+<Sync time="467.809"/>
+#eee, da da da takšni pač ostanejo, ne. 
+<Sync time="470.665"/>
+#Eee, in velika večina skanalizirana preko nas, ne, #eem, o smrti recimo tisti dnevni podatki grejo mimo nas, 
+<Sync time="477.658"/>
+ampak tudi tukajle 
+<Sync time="479.198"/>
+tako, spoiler alert, a ne, 
+<Sync time="480.832"/>
+pripravljamo, upam, naslednji teden en, en malček drugačen prikaz, ki bi spet prilagodili sistem tudi prikaza 
+<Sync time="487.74"/>
+umrlih, 
+<Sync time="489.14"/>
+#eee, na način, da bi bili podatki čim bolj kvalitetni in čim bolj popolni in čim manj odvisni od človekove napake pri zbiranju in poročanju, ne. 
+<Sync time="499.452"/>
+In to je tudi ta en, en in sistem, ki bo 
+<Sync time="501.947"/>
+#eee, mislim, 
+<Sync time="503.559"/>
+#eee, pomagal pri transparentnosti, no, to, to je tisto mogoče, ki je najbolj pomembno. 
+<Sync time="508.397"/>
+Jaz tule našo vlogo trenutno vidim 
+<Sync time="510.68"/>
+tako, 
+<Sync time="511.202"/>
+#eee, inštitut, 
+<Sync time="512.466"/>
+Center za nalezljive bolezni z omejenimi kapacitetami, ki je vpleten v celoten covid odziv, ne. 
+<Sync time="518.322"/>
+Po(), podatki in zagotavljanje podatkov so eno, seveda bi si želeli imeti ekipo za modeliranje že narejeno znotraj hiše pa imeti top strokovnjake, 
+<Sync time="527.551"/>
+ke so bistveno, bistveno višji, moram priznati, tudi v pay gradu, torej plačilnem razredu, ki lahko tu v javnem sektorju imamo kot na sledilniku, ki ki 
+<Sync time="535.607"/>
+furajo vizualizacijo podatkov na nekaj ravni, ki tukajle pač pri nas ni mogoče. 
+<Sync time="539.766"/>
+Ampak trenutno naš fokus je to, da mi zagotovimo kvalitetne podatke, 
+<Sync time="545.465"/>
+da zagotovimo vizualizacije kar lahko, imamo pač te, 
+<Sync time="549.466"/>
+#eee, zunanje pomoči nam pri tem pomagajo, čeprav naši, moram priznati, 
+<Sync time="552.988"/>
+naš center, Zdravstveno podatkovni center, poleg Centra za nalezljive bolezni, pri vstopu v 
+<Sync time="557.711"/>
+totalno pomoč 
+<Sync time="558.975"/>
+in zdaj v tem novem premikal, ki ga sedaj delamo, so naredili fantastične zadeve, tudi z vizualizacijo, 
+<Sync time="564.237"/>
+ker so super, 
+<Sync time="565.065"/>
+#eee, ampak najbolj s to strukturo. Torej, da mi zagotovimo strukturo, kvaliteto, popolnost teh podatkov in da so ti podatki na voljo 
+<Sync time="572.97"/>
+pač za obdelavo, vizualizacijo, odločevalcem in kot epidemiologi na koncu dneva smo pa tukajle vseeno najbolj za interpretacijo teh kazalnikov 
+<Sync time="581.499"/>
+in za usmerjati te kazalnike, tam kjer so po() potrebni 
+<Sync time="584.66"/>
+za obvladovanje epidemije. Ker ne pozabimo, jaz, mislim, mi nismo samo generiranje podatkov, epidemiologija je, je, je pač, je pač še več. 
+</Turn>
+<Turn speaker="spk1" startTime="593.371" endTime="612.224" fidelity="high">
+<Sync time="593.371"/>
+#Mmm. Koliko, #eee, govori se že o točnosti pa, #eee, kakovosti teh podatkov zbranih, ki jih potem tudi posredujete naprej. 
+<Sync time="602.07"/>
+Koliko pa dejansko so točni in, #eem, 
+<Sync time="605.571"/>
+kakovostni ti podatki in koliko je napak na podlagi, #eee, recimo človeškega faktorja? 
+</Turn>
+<Turn speaker="spk2" startTime="612.224" endTime="744.394" fidelity="high">
+<Sync time="612.224"/>
+Ja, 
+<Sync time="612.84"/>
+ja seveda, ne, točnosti, seveda vse je odvisno od kvalitet in vrste zajema. 
+<Sync time="618.072"/>
+#Eee, kar je pa pomembno pri interpretaciji je pa tisto, 
+<Sync time="621.246"/>
+da da 
+<Sync time="622.086"/>
+moraš poznati, in tule večinoma vseh nas, ki pozna teren, pozna kako pride sploh do iz(), kje je izvor teh podatkov, kako se generira, 
+<Sync time="629.957"/>
+#eee, kdo vtipkava te zadeve in koliko je administrativno, koliko ne. 
+<Sync time="633.798"/>
+Mi, mi skušamo ta človeški vpliv č(), 
+<Sync time="636.187"/>
+čim bolj omejiti, ne. Ena zadeva, ki ni bila m() mogoča nam do včeraj, 
+<Sync time="641.27"/>
+nam bo pa omogočena naslednji teden, je, da peka() smo dosegli, 
+<Sync time="645.047"/>
+z veliko truda, da v PKPšest 
+<Sync time="647.203"/>
+lahko končno 
+<Sync time="648.51"/>
+povezujemo našo bazo covid z drugimi administrativnimi viri podatkov. 
+<Sync time="652.639"/>
+In tule so napake bistveno manjše, to pomeni, da b(), da bomo sedaj in bomo, bojo tudi, boste tudi opazili mogoče, ko bomo prenovili naslednji teden ta podatek, ene popravke za nazaj, 
+<Sync time="662.56"/>
+ja, ampak so spremenljivi, zato ker bomo izboljšali točnost. Dajmo reči občina mogoče bo kakšna 
+<Sync time="667.633"/>
+strigla gor dol, ker prejle je bilo narejeno ročno, zdaj bo pa iz administrativnih podatkih se, se, se pač povezalo. 
+<Sync time="674.305"/>
+In to moramo razmišljati, zato ker ko bojo prišli tretji genski testi v široko uporabo, te številke bojo, bojo 
+<Sync time="681.413"/>
+o() za en čas zagotovo še višje, ne. 
+<Sync time="683.696"/>
+In v tistem trenutku ne bomo mogli zagotoviti 
+<Sync time="686.467"/>
+generiranje podatkov, ki ga delamo z epidemiološkim anektiranjem sedaj ročno, moramo zagotoviti čim večje število podatkov 
+<Sync time="693.799"/>
+iz drugih administrativnih virov, ki jih že imamo na razpolago. 
+<Sync time="697.661"/>
+In to je tisto, zamujamo 
+<Sync time="699.626"/>
+več let, zdaj to delamo v 
+<Sync time="701.697"/>
+v v največji javno-zdravstveni, zdravstveni krizi sodobne, 
+<Sync time="705.21"/>
+sodobnega časa, ne, ampak, ampak se trudimo in in nismo, nismo sami očitno za to, kar 
+<Sync time="711.087"/>
+so se priklopili takšni, 
+<Sync time="712.636"/>
+#eem, 
+<Sync time="713.548"/>
+najprej centri znotraj našega inštituta, 
+<Sync time="716.54"/>
+#eee, poleg Centra za nalezljive bolezni, Zdravstveno podatkovni center, ki ga vodi Metka Zaletel, njihov, njena krasna ekipa, 
+<Sync time="722.536"/>
+naša ekipa, malo se tanjša 
+<Sync time="724.564"/>
+z bolniškimi in in višjimi silami, in vemo, kaj, kaj to vleče za seboj. 
+<Sync time="729.89"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ je takrat rekel, da mi smo zmožni voditi eno epidemijo, #eee, orto, zaradi kadrovskih stisk ene par tednov, 
+<Sync time="736.925"/>
+vemo, koliko časa jo, jo, jo vodimo sedaj, tako da to se vse pozna, 
+<Sync time="740.956"/>
+ampak, #eee, smo skupaj, a ne, 
+<Sync time="742.802"/>
+za, za rešiti to zadevo. 
+</Turn>
+<Turn speaker="spk1" startTime="744.394" endTime="749.011" fidelity="high">
+<Sync time="744.394"/>
+Torej s povezljivostjo teh podatkov računate na večjo zanesljivost? 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="749.011" endTime="750.148" fidelity="high">
+<Sync time="749.011"/>
+<Who nb="1"/>
+Točno tako, točno tako. 
+<Who nb="2"/>
+Tako, dobro. 
+</Turn>
+<Turn speaker="spk2" startTime="750.148" endTime="911.317" fidelity="high">
+<Sync time="750.148"/>
+In tudi izboljšanje njihovih virov 
+<Sync time="752.227"/>
+in pri nekaterih primerih sprim(), sprememba nekaterih metodologij pa tudi sprememba virov, ne, 
+<Sync time="757.247"/>
+recimo bom kar konkreten. 
+<Sync time="758.978"/>
+#Eem, o umrlih, a ne, 
+<Sync time="760.782"/>
+#eee, boste videli met() metodološko bo kmalu objavljeno, ko bomo to uspeli spremeniti, nočem dati datuma, ker saj veste, tehnično se nam lahko kaj zaplete, ampak v roku naslednjega tedna upam, da ja. 
+<Sync time="771.488"/>
+Bomo predstavljali tudi, #eee, umrle, ki jih dobimo iz, #eem, dajmo reči linkanja vitalnega statusa, #eee, in pač covid, #eee, covid pozitivnosti. Tako dela tudi Public het() Health England in vzame 
+<Sync time="784.464"/>
+tiste smrti, ki so, ki se zgodijo osemindvajset dni od pozitivnosti 
+<Sync time="789.526"/>
+kot najverjetneje povezane s covidom, a ne, kar je, kar je, kar je dobro 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, zgubiš sicer neke smrti, ki so kasneje, ujameš notri kakšno smrt več, ampak 
+<Sync time="798.607"/>
+ampak je pomembno. Ker tisti podatek, dnevni, 
+<Sync time="801.399"/>
+v eni agregirani številki, če je ta dvajset, trideset, štirideset, javnozdravstveno sklepanje ni relevantno, mi pa moramo videti večjo sliko. Ta novi sistem 
+<Sync time="809.907"/>
+nam bo omogočil 
+<Sync time="810.874"/>
+ugotoviti vse smrti, kjerkoli so se zgodile, doma ali, ali v bolnici ali 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ kjerkoli, bo imel 
+<Sync time="817.664"/>
+mogoče zadnjih petih dneh, kjer še vedno pride do ene zamude, 
+<Sync time="821.241"/>
+v teh zadnjih petih dneh pa bomo to opolnomočili z enim hibridnim sistemom 
+<Sync time="826.333"/>
+te standardne prijave smrti za nalezljivo bolezen, ki ji uporabljamo sedaj. 
+<Sync time="830.428"/>
+To bo, to bo en, en nov sistem, ki bo dal, #eee, dal en dober vpogled. 
+<Sync time="835.045"/>
+Če pa se že 
+<Sync time="836.479"/>
+vrtiva, no, okoli, #eee, okoli smrti, 
+<Sync time="840.086"/>
+#eem, in o klasičnem vprašanju, ki mi ga niste še, še postavila, samo ga vidim nekje v zraku, #eee. 
+<Sync time="846.266"/>
+Smrt s covidom, ob covidu, nad covidom, pod covidom 
+<Sync time="849.916"/>
+in pri covidu, 
+<Sync time="851.265"/>
+#eee, trenutno to je 
+<Sync time="853.62"/>
+popolnoma irelevantno vprašanje. Dajte odpreti stran euromomo pika eu, 
+<Sync time="858.147"/>
+kjer, #eee, kjer smo isto zdaj v tej naši prenovi skupaj, stopili skupaj na NIJZ-ju, 
+<Sync time="863.388"/>
+z, #eee, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ inštitutom na Danskem, 
+<Sync time="866.838"/>
+kjer imamo, 
+<Sync time="867.996"/>
+#eee, kjer modeliramo presežek umrljivosti, celokupne, celokupne, to pomeni vse smrti, ne covid smrti, da ne bo kdo rekel: "Kje so pa zdaj izginile ostale smrti?" Tam notri vidite vse smrti. 
+<Sync time="878.838"/>
+Vidite, da za(), modeliramo tudi zamude za, #eee, za, #eee, prijave in vidite, da v zadnji teden, za katerega imamo analizo narejeno, 
+<Sync time="886.585"/>
+imate 
+<Sync time="887.765"/>
+dvajset standardnih odklonov plusa, 
+<Sync time="891.385"/>
+#eee, v primerjavi s pričakovanimi smrtmi v tem obdobju. 
+<Sync time="894.686"/>
+To je vse, 
+<Sync time="895.726"/>
+kar, kar je potrebno vedeti, če se sprašujemo, če 
+<Sync time="898.879"/>
+pa zaradi pandemije se umira več v Sloveniji, dvajset standardnih 
+<Sync time="903.284"/>
+odklonov več, ne. In očitno, ki, kateri, kaj pa je letos različno, ki ni bilo zadnjih pet let, pa mislim, da je vsem jasno. 
+</Turn>
+<Turn speaker="spk1" startTime="911.317" endTime="955.067" fidelity="high">
+<Sync time="911.317"/>
+#Mmm. 
+<Sync time="912.178"/>
+Saj v bistvu te podatke je tudi, #eee, statistični urad 
+<Sync time="915.743"/>
+pred dnevi, 
+<Sync time="916.71"/>
+#eee, predstavil, ne. Smrtnost glede na prejšnja leta, ne. 
+<Sync time="920.678"/>
+#Eem, če 
+<Sync time="922.855"/>
+preidem, #eee, k vam, doktor Muršičeva, tudi verjetno se strinjate vi, da je za sledilnik, 
+<Sync time="929.296"/>
+#eee, pač izjemnega pomena, da so ti podatki, ki jih prikazujete na, 
+<Sync time="934.24"/>
+moram 
+<Sync time="934.974"/>
+reči, da po moje zelo, #eee, fotogeničen način, 
+<Sync time="939.175"/>
+#eee, da so točni. 
+<Sync time="940.758"/>
+#Eem, 
+<Sync time="941.662"/>
+vi ne črpate podatkov samo od NIJZ-ja, od kdo vse, katere so vse vaše baze podatkov 
+<Sync time="948.803"/>
+in, 
+<Sync time="949.44"/>
+#eee, v kolikšni meri se te baze podatkov 
+<Sync time="952.275"/>
+med sabo tudi ujemajo? 
+</Turn>
+<Turn speaker="spk3" startTime="955.067" endTime="1068.947" fidelity="high">
+<Sync time="955.067"/>
+#Eem, res je, #eem, najprej še pozdravljeni iz moje strani in hvala za povabilo. 
+<Sync time="960.201"/>
+Torej, #eem, mi črpamo podatke iz različnih virov, čeprav, kot je Mario povedal, se bo to sedaj verjetno vse nekako združilo, tudi s pomočjo NIJZ-ja 
+<Sync time="968.955"/>
+v nadaljevanju. 
+<Sync time="970.029"/>
+In sicer smo informacijo o potrjenih primerih dnevnih, do nedavnega prijemali kar neposredno z Inštituta za mikrobiologijo in imunologijo 
+<Sync time="978.295"/>
+Medicinske fakultete Univerze v Ljubljani, 
+<Sync time="980.429"/>
+sedaj nam te informacije pošilja NIJZ, to se pravi, da smo v tem prehodnem obdobju. 
+<Sync time="985.755"/>
+#Eem, sicer pa recimo informacije o zasedenosti bolnišničnih postelj na intenzivni nekje dobivamo neposredno od Ministrstva za zdravstvo, 
+<Sync time="993.406"/>
+#eee, dobivamo jih tudi neposredno kar pri vodjah teh enot intenzivne nege, 
+<Sync time="997.853"/>
+in sicer iz trinajstih bolnišnic covid. 
+<Sync time="1000.284"/>
+Poleg tega imamo tudi neke podatke, recimo tudi mi smo sedaj nedavno objavili graf o presežnih smrtih, kjer smo dobili tudi podatke iz Ministrstva za notranje zadeve, 
+<Sync time="1009.132"/>
+iz tega centralnega registra prebivalcev. 
+<Sync time="1012.03"/>
+In pa, #eem, zbiramo tudi podatke iz Ministrstva za šolstvo, o tem, koliko je bilo okužb v šolah, takrat, ko so bile odprt(), ko so bile še odprte, 
+<Sync time="1020.962"/>
+#eee, recimo tudi podatke iz aplikacije Ostani zdrav. 
+<Sync time="1024.887"/>
+Tukaj bi pa omenila še en tak, #eee, verjetno v prihodnosti, 
+<Sync time="1028.834"/>
+bomo imeli tudi podatke, oziroma naši modelerji nekateri imajo tudi že podatke o prisotnosti virusa v odpadnih vodah, ki pa jih dobivamo neposredno iz, 
+<Sync time="1036.994"/>
+#eee, Nacionalnega inštituta za biologijo. 
+<Sync time="1039.447"/>
+Tako, da v bistvu iz različnih virov črpamo. 
+<Sync time="1041.942"/>
+#Eee, kakšno je ujemanje, kot je Mario že v bistvu povedal, vedno pride do kakšnih človeških napak, več ljudi, ki gre čez te podatke, lažje jih opazimo in jih popravimo, to je nekaj čisto normalnega, 
+<Sync time="1051.99"/>
+da se prizna napake, se popravi, očitno bo prihajalo do sprememb tudi v naslednjem tednu, dveh, 
+<Sync time="1056.7"/>
+#eee, ko bo ta prehod se zgodil. 
+<Sync time="1058.631"/>
+#Eem, sicer pa tako skrbimo, da je ujemanje čim večje in točnost čim višja in počasi bomo v bistvu 
+<Sync time="1064.393"/>
+prišli do, 
+<Sync time="1065.518"/>
+do 
+<Sync time="1066.188"/>
+bolj kvalitetnih podatkov, kot je že Mario povedal. 
+</Turn>
+<Turn speaker="spk1" startTime="1068.947" endTime="1086.748" fidelity="high">
+<Sync time="1068.947"/>
+Kako se pa odločate, v bistvu, katere podatke boste, oziroma kje, od, iz katerih baz boste, #eem, 
+<Sync time="1075.07"/>
+črpali, 
+<Sync time="1076.131"/>
+#eee, in koliko ste recimo pri tem, #eee, selektivni? Verjetno ne morete kar 
+<Sync time="1081.066"/>
+od vseh, 
+<Sync time="1082.734"/>
+vseh podatkov, ki jih imate na voljo, ki jih lahko najdete. 
+</Turn>
+<Turn speaker="spk3" startTime="1086.748" endTime="1192.353" fidelity="high">
+<Sync time="1086.748"/>
+Ja, v() ...
+<Sync time="1088.255"/>
+V bistvu tukaj je zadaj je ekipa več ljudi, ki je v kontaktu z različnimi ljudmi in iz bolnišnic, iz NIJZ-ja, iz različnih raziskovalnih inštitucij 
+<Sync time="1096.839"/>
+in, #eee, želimo imeti čim bolj neposreden vir podatkov, ne, ker to v bistvu omogoča neko kvaliteto, 
+<Sync time="1102.398"/>
+#eee, in pa neko konstantno, zdaj ves čas so podatki nekako primerljivi. 
+<Sync time="1106.633"/>
+#Eem, sicer pa ne vem, lahko zdaj izpostavim neki primer ravno te presežne smrti, ne, mi smo jih spremljali že nekaj časa znotraj sledilnika 
+<Sync time="1114.222"/>
+pa v bistvu nismo še dali teh podatkov v javnost, dokler nismo dejansko dobili nekih, 
+<Sync time="1118.591"/>
+#eee, smo se tudi uskladili z NIJZ-jem pa tudi z drugimi deležniki, torej z Ministrstvom za notranje zadeve in to in smo dobili najbolj ažurne, najbolj kakovostne podatke 
+<Sync time="1126.645"/>
+in smo se potem recimo odločili, 
+<Sync time="1128.461"/>
+#eee, po nekaj iteracijah, da gremo s tem grafom recimo tudi naprej. In to se v bistvu zgodi praktično za vsako vizualizacijo. 
+<Sync time="1135.687"/>
+Ko pridemo do neke točke, da je zanimiva za uporabnike in uporabnice naše spletne strani, 
+<Sync time="1141.246"/>
+torej, da, da lahko glede na to, kar vidijo na podatkih, s(), 
+<Sync time="1144.344"/>
+jim omogočimo boljše razumevanje 
+<Sync time="1146.394"/>
+epidemije in pa v bistvu tudi ustrezno ravnanje v času epidemije, recimo prilagoditev svojega vedenja in podobno takrat v bistvu. In ko smo tudi mi zadovoljni s kakovostjo, točnostjo podatkov, 
+<Sync time="1156.718"/>
+takrat v bistvu se odločimo 
+<Sync time="1158.407"/>
+za neke prikaze. Pri prikazih pa se pravzaprav, mi imamo, res imamo strokovnjake v naši ekipi, z zelo različnih področij, od vizualizacij podatkov, ki imajo izkušnje z drugačnimi podatki in potem nekako preko debate, pogovorov, 
+<Sync time="1172.448"/>
+se trudimo ugotoviti, kaj je najboljši način, da to predstavimo, malo tudi se zgledujemo recimo po kakšnih tujih spletnih straneh in podobno. 
+<Sync time="1179.589"/>
+#Eem, na tem delamo. In vedno so tudi dobrodošli, #eee, pripombe, predlogi, izboljšave, 
+<Sync time="1185.509"/>
+ki jih dobivamo recimo na naš, #eee, preko maila, Twitterja in podobno. 
+<Sync time="1189.574"/>
+In se trudimo v bistvu, da sledimo temu tako. 
+</Turn>
+<Turn speaker="spk1" startTime="1192.353" endTime="1221.278" fidelity="high">
+<Sync time="1192.353"/>
+Zakaj ste se pa spo(), sploh lotili tega projekta Sledilnik? Mislim saj vem, da vi niste bili, 
+<Sync time="1198.103"/>
+#eee, med prvimi, ki so skupaj, #eee, stopili, ampak, #eee, a je bila recimo v ospredju dobra prezentacija, vizualizacija, ki je morda v tistem trenutku v našem prostoru manjkala? 
+<Sync time="1211.047"/>
+#Eem, pa tudi 
+<Sync time="1212.651"/>
+kakšno obiskanost imate sploh strani? Pa a ste pričakovali, da bo v bistvu to takšna uspešna zgodba? 
+</Turn>
+<Turn speaker="spk3" startTime="1221.278" endTime="1334.461" fidelity="high">
+<Sync time="1221.278"/>
+#Eem, ja, v bistvu začetnik sledilnika je v bistvu navdušenec nad podatki, Luka Renko, že ima() marsikdaj je bil že v medijih in predstavljen. 
+<Sync time="1229.799"/>
+In kasneje so se mu potem sčasoma pridružili še drugi in ta skupina je vedno bolj rasla, res smo iz zelo različnih strokovnih ozadij. 
+<Sync time="1237.386"/>
+In skupaj so potem v tistem času prišli na idejo, da bi postavili spletno stran, v bistvu bolj po naključju. 
+<Sync time="1243.402"/>
+Na začetku je bila to samo neka, #eee, razpredelnica, 
+<Sync time="1246.879"/>
+ki mimogrede, ta 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ razpredelnica danes praznuje devetmesečni rojstni dan, ravno devet mesecev je od tako() takrat, ko je bila ustvarjena. 
+<Sync time="1255.284"/>
+No, in potem so pač ta skupina, manjša skupina okoli Luka Renke, Renka, 
+<Sync time="1259.073"/>
+je prišla na idejo, da se postavi spletno stran in neke osnovne vizualizacije za začetek, 
+<Sync time="1264.547"/>
+ki bi, kot sem že prej rekla, ne, v bistvu, pa tudi ker je Mario rekel, a ne, nekako informirala akcijo, oziroma reakcijo na to, kar se nam dogaja, ne. 
+<Sync time="1272.673"/>
+Mi smo verjetno imeli v mislih, 
+<Sync time="1274.256"/>
+saj recimo moj ant(), interes zraven sledilnika, je predvsem to predstaviti širši javnosti, torej dejansko ljudem, ker 
+<Sync time="1280.379"/>
+glede na to, da smo mi gostitelji 
+<Sync time="1281.992"/>
+virusa, mi lahko z našim vedenjem ta virus lahko tudi zaustavimo in s temi, če imaš podatke, tudi veš, kako 
+<Sync time="1288.391"/>
+bolje reagirati 
+<Sync time="1289.74"/>
+in se odzvati na to in kako ustrezno ravnati v tem času. 
+<Sync time="1293.347"/>
+#Eem, sicer pa vizualizacija podatkov je definitivno pomembna, da ljudem predstaviš na čim bolj enostaven 
+<Sync time="1300.115"/>
+in pa hkrati ne, ne prilagajaš podatkov, oziroma čim bolj neposreden prikaz. 
+<Sync time="1305.016"/>
+Pri tem bi jaz opozorila, da se pogostokrat pozabi, da imamo mi na sledilnikovi spletni strani tudi, 
+<Sync time="1310.554"/>
+#eee, pogosta vprašanja in odgovore, kjer v bistvu opišemo, kaj kateri podatek je na spletni strani, od kje smo ga pridobili, 
+<Sync time="1317.229"/>
+kaj recimo pomeni potrjeni primer, kaj pomeni, ne vem, 
+<Sync time="1320.679"/>
+število ljudi v bolnišnicah in podobno, kjer ljudje lahko vidijo 
+<Sync time="1324.553"/>
+zelo jasno, kaj kakšen podatek je. 
+<Sync time="1327.523"/>
+#Eee, sicer pa dnevno obišče našo spletno stran med osemdeset do sto tisoč uporabnikov in uporabnic. 
+</Turn>
+<Turn speaker="spk1" startTime="1334.461" endTime="1338.514" fidelity="high">
+<Sync time="1334.461"/>
+Čeprav nimam primerjave, je to verjetno ogromno, ne? 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1338.514" endTime="1342.346" fidelity="high">
+<Sync time="1338.514"/>
+<Who nb="1"/>
+Primerjava z drugimi, #eee, spletnimi stvar() stranmi. 
+<Who nb="2"/>
+Ja. 
+</Turn>
+<Turn speaker="spk1" startTime="1342.346" endTime="1366.576" fidelity="high">
+<Sync time="1342.346"/>
+#Eeem, 
+<Sync time="1343.547"/>
+#eee, doktor Cizelj, vi pa vsak dan, #eem, 
+<Sync time="1347.485"/>
+ustvarjate napovedi glede, #eem, 
+<Sync time="1350.723"/>
+poteka epidemije. 
+<Sync time="1352.157"/>
+#Eee, zakaj() ste s(), zakaj ste se za to odločili, #eee, pa 
+<Sync time="1356.316"/>
+zakaj recimo vključujete noter različne variante, 
+<Sync time="1359.914"/>
+zdaj že, #eee, 
+<Sync time="1361.484"/>
+slavne črke R? 
+<Sync time="1363.457"/>
+Reprodukcijskega števila. 
+</Turn>
+<Turn speaker="spk4" startTime="1366.576" endTime="1522.965" fidelity="high">
+<Sync time="1366.576"/>
+#Eee, dober dan, hvala lepa za vabilo, za priložnost. Ne, saj tudi mi smo se zadeve lotili nekako po naključju, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ to naključje malo manjše, 
+<Sync time="1376.412"/>
+#eee, ker smo v osnovi, 
+<Sync time="1379.247"/>
+naša osnovna dejavnost je povezana z jedrskimi objekti in z jedrsko varnostjo, ne, in prav zelo dobro razumem tisto, kar je Mario prej rekel, 
+<Sync time="1386.919"/>
+na te stvari moraš biti pripravljen prej, ne, ker takrat, ko se začnejo, 
+<Sync time="1391.005"/>
+ko se začnejo dogajati, ne veš, kje se te glava drži, ne, in včasih prav občudujem tiste, ki so v prvih bojnih vrstah, ker še vedno stojijo in delajo, ne. 
+<Sync time="1399.64"/>
+To je, za nas je to malo lažje. 
+<Sync time="1402.101"/>
+#Eee, ampak bili smo po naključju pripravljeni, kolega Matjaž Leskovar je pač par tednov prej opazil, kaj se v Wuhanu dogaja in je, in je, 
+<Sync time="1409.9"/>
+ker ga te stvari zelo zanimajo, 
+<Sync time="1412.17"/>
+nastavil ta+prvi model 
+<Sync time="1415.035"/>
+in s tem modelom smo začeli. Takrat smo seveda pogledali naokoli, a kdo to dela, a kdo ne dela, ne, in 
+<Sync time="1420.734"/>
+pozanimali smo se, a lahko koristimo komu. 
+<Sync time="1423.823"/>
+Odzvala se je takrat vladna skupina za, 
+<Sync time="1427.23"/>
+#eee, spremljanje virusa, da ja, da nimajo takšne podpore in da bi bili zelo veseli, 
+<Sync time="1432.428"/>
+no, in od takrat naprej to delamo. Seveda obveščamo zraven, 
+<Sync time="1435.547"/>
+#eee, vsak dan tudi direktno javnost, to je pač v teh časih ta transparentnost in direktni, direktni pristop k stvari je pomemben. 
+<Sync time="1443.015"/>
+Zakaj? #Eee, z 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+,
+<Sync time="1445.392"/>
+#eee, napovedujemo prihodnost. 
+<Sync time="1447.866"/>
+Zdaj zelo, zelo poenostavljeno povedano, ne, epidemija ima svoje matematične zakonitosti in 
+<Sync time="1454.18"/>
+tako nekako za štirinajst dni naprej smo jo že definirali, ne. 
+<Sync time="1457.193"/>
+Karkoli danes naredimo, se bo poznalo 
+<Sync time="1459.688"/>
+štirinajst dni kasneje. 
+<Sync time="1461.576"/>
+Torej, #eee, nekako 
+<Sync time="1463.252"/>
+je prvih, prva dva tedna sta definirana s tem, kaj se je že zgodilo, od tam naprej pa ne vemo čisto dobro, kaj bo, ne. Ne znamo čisto napovedati, kako se bojo ljudje obnašali, ker to je pravzaprav edino, 
+<Sync time="1473.776"/>
+kar, kar je zelo pomembno za nadaljnji razvoj epidemije. 
+<Sync time="1478.117"/>
+Torej pokažemo več scenarijev za naprej, ne, 
+<Sync time="1480.888"/>
+kaj bi se lahko zgodilo, če bi 
+<Sync time="1484.55"/>
+se več srečevali ali manj srečevali, ne. 
+<Sync time="1487.618"/>
+V tem je, 
+<Sync time="1488.921"/>
+#eee, ta naša, 
+<Sync time="1490.079"/>
+ta naša napoved, #eee #eee. 
+<Sync time="1492.074"/>
+Iščemo pa recimo značilne datume, ne. 
+<Sync time="1494.675"/>
+Ker recimo značilen datum je, ali se uvedejo kakšni ukrepi, torej imamo štirinajst dni kasneje potem bi se to moral videti na številkah. 
+<Sync time="1501.91"/>
+Ali se včasih, ne, ne vidi se vedno, ne. Ali se začne kakšna šola, ali so kakšni razlogi, kjer sumiš, da bo šlo za več 
+<Sync time="1509.115"/>
+združevanja, ne, in ti potem v teh datumih 
+<Sync time="1512.722"/>
+projiciramo naprej spremembe. 
+<Sync time="1515.323"/>
+Ki jih pa ne znamo čisto dobro napovedati, pravzaprav ne verjamem, da kdo dobro zna napovedati, kaj se bo zgodilo, ne, z, 
+<Sync time="1521.213"/>
+z, s konkretnim ukrepom. 
+</Turn>
+<Turn speaker="spk1" startTime="1522.965" endTime="1535.636" fidelity="high">
+<Sync time="1522.965"/>
+#Mhm. 
+<Sync time="1523.666"/>
+Ker tudi zdaj se vidi, da v bistvu tisti ukrepi, ki so 
+<Sync time="1528.304"/>
+spomladi določene učinke 
+<Sync time="1530.799"/>
+prinašali, jih zdaj v takšni meri ne, ne? Sami ukrepi. 
+</Turn>
+<Turn speaker="spk4" startTime="1535.636" endTime="1549.461" fidelity="high">
+<Sync time="1535.636"/>
+#Eee, ja, jaz sicer osebno vedno se, se ukrepom izogibam, ne, ljudje smo se takrat obnašali drugače. 
+<Sync time="1543.211"/>
+Ukrepi so samo pripomoček, ne, naše obnašanje je tisto, ki 
+<Sync time="1547.212"/>
+ki pravzaprav definira potek, ne. 
+</Turn>
+<Turn speaker="spk1" startTime="1549.461" endTime="1568.365" fidelity="high">
+<Sync time="1549.461"/>
+#Mhm. Prej ste govorili, da ste v bistvu t(), #eee, takoj po, #eee, začetku dogajanja v Wuhanu začeli delati prve modele. 
+<Sync time="1557.736"/>
+Na podlagi kakšnih podatkov takrat in pa zdaj v bistvu, na podlagi kakih, #eee, od kod črpate zdaj podatke? 
+<Sync time="1564.899"/>
+Vse, na podlagi katerih delate vi projekcije. 
+</Turn>
+<Turn speaker="spk4" startTime="1568.365" endTime="1666.209" fidelity="high">
+<Sync time="1568.365"/>
+#Eee, 
+<Sync time="1569.129"/>
+najraje rečem, da gre za recimo, 
+<Sync time="1572.036"/>
+mislim, da gre za tri skupine podatkov, ne. Eni so seveda tile dnevni podatki, ki nastajajo v Sloveniji, najbolj pomembni so pozitivni testi, ne, število ljudi v bolnicah, število umrlih. 
+<Sync time="1583.039"/>
+Ker gre praktično za isti proces, ki se pa v različnih, #eee, magnitudah pa v različnih časovnih, časovnimi zamiki pojavlja, ne. Torej delež tistih, ki so pozitivno testirani, se bo pojavil nekaj dni kasneje v bolnicah, ne. 
+<Sync time="1595.718"/>
+#Eee, nekaj od njih se jih bo pojavilo spet v, v intenzivnih enotah in 
+<Sync time="1599.974"/>
+na žalost jih bo nekaj od teh tudi umrlo. Skratka te 
+<Sync time="1603.135"/>
+relacije, to je, to je drug sklop, #eee, podatkov, je 
+<Sync time="1607.23"/>
+kakšni deleži, #eee, 
+<Sync time="1609.025"/>
+ljudi se prestavljajo iz predalčka v predalček, kot pravijo tem predalčkastim modelom epidemij, ne. 
+<Sync time="1615.254"/>
+In ti so na začetku bili iz literature, ne, zdaj se jih da že po tem času tudi iz domačih podatkov do neke mere oceniti, vsaj v povprečju, kaj se dogaja, ne. 
+<Sync time="1624.992"/>
+#Eee, 
+<Sync time="1626.096"/>
+seveda vsi značilni časi epidemije, vključno z inkubacijsko dobo, dobo kužnosti, to so podatki iz epidemije, 
+<Sync time="1632.304"/>
+potem je pa seveda zelo pomembno, ne, vsak model ima pač svojo, svojo množico predpostavk, poenostavitev 
+<Sync time="1641.991"/>
+in omejitev, ne, in prednosti in tudi te 
+<Sync time="1645.895"/>
+je treba zelo dobro razumeti oziroma mora modelar zelo dobro vedeti, kaj počne. 
+<Sync time="1650.42"/>
+In podatki in, 
+<Sync time="1651.96"/>
+praktično podatki so vedno nezanesljivi, ne, 
+<Sync time="1654.527"/>
+modeli so vedno nezanesljivi, #eee. 
+<Sync time="1657.604"/>
+Zdaj znotraj tega potem na koncu prevlada njegova, modelarjeva, #eee, 
+<Sync time="1662.454"/>
+interpretacija tega, kaj vidi in česa ne vidi, ne. 
+</Turn>
+<Turn speaker="spk1" startTime="1666.209" endTime="1679.661" fidelity="high">
+<Sync time="1666.209"/>
+#Mhm. #Eem, 
+<Sync time="1668.543"/>
+v bistvu s tem ste malo tudi odgovorili na moje vprašanje, kako se pač odločate, katero spremenljivko boste noter vnesli v, 
+<Sync time="1676.987"/>
+#eee, modelacijo, ne? 
+</Turn>
+<Turn speaker="spk4" startTime="1679.661" endTime="1749.988" fidelity="high">
+<Sync time="1679.661"/>
+#Eee, ja, v nekaj meri ja, ne, zdaj to še rečejo, to naj še rečem, da sta recimo bila, #eee, da da sta dva ključna cilja, ne, recimo naših modelov od začetka. 
+<Sync time="1688.882"/>
+Prvi je pogruntati, ali se epidemija ustavlja ali se ne, ne. Ta je čisto kvalitativni, 
+<Sync time="1694.941"/>
+oziroma kako hitro se ustavlja oziroma kako hitro napreduje, čim prej seveda, ne. 
+<Sync time="1700.097"/>
+Iz mrtvih se to da zelo elegantno videti, ampak na žalost, #eee, je takrat je že pravzaprav skoraj vseeno, ali to vidimo ali ne, ne. 
+<Sync time="1708.448"/>
+Čim prej torej pozitivni cesti, #eee, 
+<Sync time="1711.283"/>
+#eee, kolegica Zarja je omenila tudi tele, kaj so že, odplake, v odplakah se to razmeroma zelo hitro vidi, ne, je pa istočasno zelo težko oceniti magnitudo, samo vidiš ali je ali ni, ne. 
+<Sync time="1722.031"/>
+Kar je zdajle v tem trenutku, seveda je, ne. 
+<Sync time="1725.405"/>
+Na začetku mogoče bi, bi bila ta zadeva, #eee, zelo uporabna. 
+<Sync time="1729.597"/>
+#Eee, skratka gre, gre za, d() ta drugi cilj je pa potem, ko vidimo, kam se zadeva pelje, #eee, na neki način napovedati, kaj bo v bolnicah čez en teden, dva tedna, ne. 
+<Sync time="1740.359"/>
+Da kolegom v bolnicah vsaj malo damo 
+<Sync time="1743.979"/>
+namiga, 
+<Sync time="1745.286"/>
+a je treba takoj preseliti oddelek ali je mogoče še kakšen dan časa, v tem smislu. 
+</Turn>
+<Turn speaker="spk1" startTime="1749.988" endTime="1769.045" fidelity="high">
+<Sync time="1749.988"/>
+#Mhm. Kako točne pa so vaše napovedi? 
+<Sync time="1753.735"/>
+Recimo v spomladanskem, #eem #eee, epidemičnem valu, #eee, ko sem gledala. 
+<Sync time="1760.091"/>
+Kaj ste napovedali skupno število smrti, se je 
+<Sync time="1763.486"/>
+zelo ujemalo, #eee, s tem, 
+<Sync time="1766.371"/>
+kako se je potem razpletlo, ne. 
+</Turn>
+<Turn speaker="spk4" startTime="1769.045" endTime="1807.817" fidelity="high">
+<Sync time="1769.045"/>
+Ja, mislim, da se tudi zdaj, ne, razen seveda tegale, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+to je bilo ne() nenapovedljivo da, bomo več kot mesec obviseli na platoju, ne, ta je, ta je presenečenje, pravzaprav po moje za vse. 
+<Sync time="1780.048"/>
+Ne, in ta tudi spada na neki način med tiste, med tiste ključne stvari, ki jih je zelo težko napovedati, da se opazi, 
+<Sync time="1786.659"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ ali gremo s platoja ali ne, ne, težko bomo pa napovedali, koliko časa bomo še na platoju. 
+<Sync time="1791.921"/>
+#Eee, ne, je pa recimo, mene je zadnjič razveselil, #eee, kratek pogovor z enim kolegom zdravnikom, ne, ki mi je rekel, da 
+<Sync time="1799.678"/>
+da so se zjutraj, da so pogledal številke, #eee, naše številke pa svoje številke pa so rekli: 
+<Sync time="1805.801"/>
+"Ma glej, že spet gre po planu, ne." 
+</Turn>
+<Turn startTime="1807.817" endTime="1809.845">
+<Sync time="1807.817"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1809.845" endTime="1813.07" fidelity="high">
+<Sync time="1809.845"/>
+Saj to je nekoliko žalostno, ampak že spet gre po planu, ne. 
+</Turn>
+<Turn startTime="1813.07" endTime="1815.659">
+<Sync time="1813.07"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1815.659" endTime="1853.019" fidelity="high">
+<Sync time="1815.659"/>
+#Eee, glavno, da v teh časih tudi na podlagi takih številk kaj 
+<Sync time="1820.212"/>
+pozitivga naj(), pozitivnega najdemo, ali kako? 
+<Sync time="1823.564"/>
+#Eeem, zdaj, #eee, če smo že pri številkah o tem, da 
+<Sync time="1828.211"/>
+da, da smo zdaj že en mesec na platoju. 
+<Sync time="1831.873"/>
+#Eem, 
+<Sync time="1832.968"/>
+zanima me, 
+<Sync time="1834.678"/>
+a je 
+<Sync time="1836.015"/>
+to 
+<Sync time="1837.067"/>
+posledica tudi tega, da se v takšni meri, 
+<Sync time="1841.502"/>
+mislim, da se v bistvu 
+<Sync time="1843.106"/>
+v bistveno večji meri zdaj opravljajo hitri testi 
+<Sync time="1848.317"/>
+in nam dajejo več okuženih. 
+<Sync time="1851.406"/>
+Ali ne? 
+</Turn>
+<Turn speaker="spk4" startTime="1853.019" endTime="1885.06" fidelity="high">
+<Sync time="1853.019"/>
+#Eee, ne bi rekel, vsaj, vsaj iz tega, kar vidimo, #eee, iz podatkov, sicer tile hitri testi so razmeroma novi, ampak 
+<Sync time="1861.306"/>
+na prvo žogo ne bi rekel, ne. 
+<Sync time="1863.131"/>
+Zdaj takole po naši oceni je recimo štirikrat več okuženih kot tistih, ki doživijo pozitivni test, ne, ki ga zares vidijo, tako nekako. 
+<Sync time="1872.627"/>
+In zdaj tile hitri tisto verjetno po tej populaciji, malo, malo merijo, ne, in kakšne hitre teste zraven prinesejo, ali je to zelo pomembno ali ne, 
+<Sync time="1883.087"/>
+bi rekel, da ne. 
+</Turn>
+<Turn speaker="spk1" startTime="1885.06" endTime="1886.134" fidelity="high">
+<Sync time="1885.06"/>
+Gospod Fafangel. 
+</Turn>
+<Turn startTime="1886.134" endTime="1887.78">
+<Sync time="1886.134"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1887.78" endTime="1891.981" fidelity="high">
+<Sync time="1887.78"/>
+Ja, ne, trenutno so še vedno, #eee, vse PCR potrjeno, ne. 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1891.981" endTime="1896.5" fidelity="high">
+<Sync time="1891.981"/>
+<Who nb="1"/>
+#Aha, ni(), niso še podatki od hitrih testov noter v statistiki? 
+<Who nb="2"/>
+Ne, ne masovno. 
+</Turn>
+<Turn speaker="spk2" startTime="1896.5" endTime="2042.934" fidelity="high">
+<Sync time="1896.5"/>
+Hitri testi lahko sedaj vplivajo le v smislu, da nam pomagajo identificirati nekaj, kar bomo potem, #eee, pač potrdili s PCR-jem, ne. Tako da to, to, to tre(), to trenutno, 
+<Sync time="1906.557"/>
+definicija primera ECDC-ja boste, bo spremenjena verjetno 
+<Sync time="1910.495"/>
+tudi v ponedeljek 
+<Sync time="1911.547"/>
+in bomo pač potem enačili pozitiven hitri antigenski test s pozitivnim PCR-testom. 
+<Sync time="1917.106"/>
+Ampak, #eee, javnozdravstveno, kaj, kaj si želimo, mi želimo testirati, testirati vse, a ne, in izolirati bolne. In ne jih izolirati deset dni 
+<Sync time="1926.059"/>
+po začetku simptomov, ko pride do PCR-ja in dobi rezultat še v dveh dneh in potem še ne vem kdaj, in ko, ko testiramo praktično ose(), izoliramo osebo, ki praktično za prenos okužbe je skoraj irelevantna. 
+<Sync time="1937.179"/>
+Mi moramo dobiti osebo 
+<Sync time="1939.292"/>
+tisti dan, ko malo posumi, pa še po možnosti tudi, če ne posumi, a ne, zato ker covid vemo, da petdeset, šestdeset odstotkov imamo asimptomatskih, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, oligosimptomatskih vsi taki, ki te malo zaboli glava pa se zdaj ne boš šel testirat. 
+<Sync time="1952.459"/>
+Javnozdravstveno, mi moramo tukajle, 
+<Sync time="1955.334"/>
+mi hočemo, mislim lepo, vem, da je, da je, da je namenjena podatkom tale, tole naše srečanje danes, ampak okej, ampak podatki za akcijo, ne. 
+<Sync time="1964.256"/>
+In bomo videli kaj, kaj bomo prišli s teh testiranj, ampak testiranje je bolj kot ne javnozdravstveno testiranje zdaj tisto, ki je relevantno, ne klinično toliko. Javnozdravstveno, da najdemo tiste pozitivne, 
+<Sync time="1974.685"/>
+kam, takoj jih izoliramo, takoj, in to, to je tisto, ki bo omeji() omejilo širjenje, to je tisto, ke 
+<Sync time="1981.726"/>
+ke Leon pa Zarja in vsi mi hočemo videti s podatki, ne. In potem se pač usmerjati, #eee #eee, kje jih uporabiti bolj pametno. 
+<Sync time="1988.898"/>
+Ke bom res izkoristil še, ke sem dobil nazaj besedo, samo za Leona pa Zarjo pohvaliti, ampak ta koncept, 
+<Sync time="1994.745"/>
+da je, da, da je na vseh nas, da je na ljudi, 
+<Sync time="1997.249"/>
+okej, na koncu te, tisto, ki izmerimo. Ampak ne, ne na način, da rečeš, da so ljudje odgovorni, ampak je na, je na vsakem posamezniku, kako bo ravnal, mi jim pa moramo to omogočiti. 
+<Sync time="2007.955"/>
+Javnozdravstvena komunikacija in pristop do ljudi z ne, 
+<Sync time="2012.126"/>
+ni nikoli prinesla nič dobrega, ker mi zdaj ne komuniciramo z bolno osebo, 
+<Sync time="2016.391"/>
+tule je komunikacija z zdravimi, ki je čisto nekaj drugega, tako da, ne, 
+<Sync time="2020.392"/>
+ni dobra opcija. 
+<Sync time="2021.771"/>
+Imej distanco ni dobra opcija, če v fabriki, če v fabriki ne moreš imeti distanco. Naša dolžnost je, da omogočimo, da si doma, 
+<Sync time="2029.664"/>
+da imaš stoodstotno nado() nadomestilo, da imaš varno delovno okolje, ne, ne reči: "Ne, tega smeš," 
+<Sync time="2035.851"/>
+ampak, da tudi človek lahko potem s tem, to tudi naredi, ne, da mu je omogočeno. 
+<Sync time="2040.171"/>
+Javnozdravstveni 
+<Sync time="2041.245"/>
+delček. 
+</Turn>
+<Turn speaker="spk1" startTime="2042.934" endTime="2068.281" fidelity="high">
+<Sync time="2042.934"/>
+#Aam, 
+<Sync time="2044.198"/>
+v bistvu pa želite, #eem, s temi 
+<Sync time="2048.23"/>
+podatki oziroma čim več informacijami transparentnimi, 
+<Sync time="2052.253"/>
+#eee, tudi spodbuditi ljudi, 
+<Sync time="2054.642"/>
+da bi se o() 
+<Sync time="2056.013"/>
+obnašali, #eem, odgovorno, ali kako? 
+<Sync time="2058.954"/>
+Da bi 
+<Sync time="2059.879"/>
+spoštovali te ukrepe, ki dejansko so 
+<Sync time="2062.361"/>
+pomembni za, 
+<Sync time="2063.804"/>
+#eem, to, da se 
+<Sync time="2066.053"/>
+konča ta epidemični val? 
+</Turn>
+<Turn startTime="2068.281" endTime="2070.458">
+<Sync time="2068.281"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2070.458" endTime="2071.786" fidelity="high">
+<Sync time="2070.458"/>
+Jaz ali Leon? 
+</Turn>
+<Turn speaker="spk1" startTime="2071.786" endTime="2074.226" fidelity="high">
+<Sync time="2071.786"/>
+#Eee, vas sprašujem. 
+</Turn>
+<Turn speaker="spk2" startTime="2074.226" endTime="2129.529" fidelity="high">
+<Sync time="2074.226"/>
+Ja, ampak Leon bi rekel isto, verjamem, a ne. Seveda, ne, to je, to je transparentnost, da vidiš, kaj se dogaja, da vidiš, da tisto, ki ti mi svetujemo, je, je pač, #eee, je pač smotrno, ne. 
+<Sync time="2085.144"/>
+In ne, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ampak ne smemo podcenjevati, a ne, pač, najprej izčrpanost to() toliko časa teh ukrepov in ne smemo podcenjevati, da smo družbena bitja, 
+<Sync time="2095.744"/>
+da si želimo biti zraven nekomu, a ne. 
+<Sync time="2098.366"/>
+In, in najbolj zdaj, ko bojo tudi prišli prazniki, bo ta želja še toliko bolj močna in nasvet je seveda, bodi v tvojem mehurčku, ampak čeprav vemo, 
+<Sync time="2105.962"/>
+ker vemo, da ne ni odgovor, in vemo, da se nekatere stvari bodo zgodile vseeno, 
+<Sync time="2110.651"/>
+potem pa dajmo pomagati ljudem in jim povedati, kako to narediti na varen način, 
+<Sync time="2114.61"/>
+okej? Ker epidemiološko bo bistveno bolj učinkovito, kakor, kakor imeti 
+<Sync time="2118.972"/>
+ne() ne() skrivalnice v zaprtih, slabo prezračenih oko() okoljih oseb, 
+<Sync time="2123.767"/>
+ke nismo jim niti povedali, kako lahko varno ravnajo. 
+<Sync time="2126.546"/>
+Tako da, ja, to je namen teh podatkov. 
+<Sync time="2128.668"/>
+Leon, popravi me. 
+</Turn>
+<Turn startTime="2129.529" endTime="2131.63">
+<Sync time="2129.529"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2131.63" endTime="2189.667" fidelity="high">
+<Sync time="2131.63"/>
+Ja, če lahko jaz tukaj, ene par številk bi dodal, mislim, da ima Mario čisto prav, ne, in zdaj, #eee ... 
+<Sync time="2137.053"/>
+Je pa, je pa en pogled na številke, ki mogoče lahko pri tem tudi malo koristi, ne. 
+<Sync time="2141.988"/>
+Takole recimo, mi imamo približno tisoč petsto potrjenih PCR-testov na dan v povprečju v zadnjem tednu, ne, kar je, kar nekaj malega več ko eden na minuto, ne. 
+<Sync time="2151.824"/>
+In če zdaj upoštevamo, da je recimo dejansko okuženih, ne vem, štirikrat več, to je ena takšna ocena, ne, 
+<Sync time="2159.538"/>
+#eee, imamo opravka s štirimi srečanji zdravega z okuženim na minuto v Sloveniji. 
+<Sync time="2165.288"/>
+In to, takšnih uspešnih s prenosom niso vsa srečanja, uspešna s prenosom, tu me bo Mario verjetno lahko 
+<Sync time="2171.644"/>
+popravil, ne. 
+<Sync time="2172.642"/>
+Torej teh srečevanj je veliko, 
+<Sync time="2174.628"/>
+zelo veliko, 
+<Sync time="2175.723"/>
+ne. 
+<Sync time="2176.5"/>
+Zdaj ali je, a morajo biti ali ni treba, ne. Te, o tem težko sodim, vidim pa iz številk, da jih je 
+<Sync time="2183.323"/>
+štiri na minuto. Vsako minuto, ne. 
+<Sync time="2186.972"/>
+To 
+<Sync time="2187.545"/>
+mislim, da je dobro tukaj dodati. 
+</Turn>
+<Turn speaker="spk1" startTime="2189.667" endTime="2197.67" fidelity="high">
+<Sync time="2189.667"/>
+#Mmm. 
+<Sync time="2190.528"/>
+To, #eee, opazimo tudi vsi, ki imamo recimo nameščene te sledilnike, #eem ...
+<Sync time="2196.533"/>
+Oziroma ne sledilnike, 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2197.67" endTime="2199.325" fidelity="high">
+<Sync time="2197.67"/>
+<Who nb="1"/>
+to aplikacijo. 
+<Who nb="2"/>
+Ne sledilnike. 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2199.325" endTime="2203.441" fidelity="high">
+<Sync time="2199.325"/>
+<Who nb="1"/>
+Aplikacijo. 
+<Who nb="2"/>
+Aplikacijo, ki nobenemu ne sledi. Ja, hvala. 
+</Turn>
+<Turn speaker="spk1" startTime="2203.441" endTime="2228.746" fidelity="high">
+<Sync time="2203.441"/>
+Zdaj sem se pa, #eem, 
+<Sync time="2205.223"/>
+malo nerodno zarekla, tako. 
+<Sync time="2207.875"/>
+#Eee, če pa gremo nazaj k sledilniku, doktor Muršičeva. 
+<Sync time="2213.349"/>
+#Eee, vi ste mi zadnjič v pogovoru dali eno, #eee, zanimivo tezo, da se z, da se bo, #eee, s hitrimi testi iskalo ta vrh. 
+<Sync time="2223.026"/>
+Ne bo se kazal vrh epidemije, ampak da se ga bo iskalo. 
+<Sync time="2226.803"/>
+A sem vas jaz prav razumela? 
+</Turn>
+<Turn speaker="spk3" startTime="2228.746" endTime="2326.586" fidelity="high">
+<Sync time="2228.746"/>
+Jaz bom tukaj najprej prosila Maria, naj me popravi, ampak, #eee, v zadnjem, v zadnjem času res se je veliko govorilo o teh antigenskih testih. 
+<Sync time="2236.724"/>
+#Eem, jaz bi rekla, da je mogoče pri nas, #eee, ni še prišla v javnost čisto pravo razumevanje teh antigenskih testov, ki bi dejansko služili 
+<Sync time="2244.184"/>
+bolj kot diagnosticiranju pravzaprav nekemu presejanju populacije, torej nadzoru nad epidemijo, 
+<Sync time="2250.371"/>
+mogoče presejanje ni najboljša beseda, ampak na neki način, 
+<Sync time="2252.908"/>
+če vas zdravo populacijo lahko testiramo 
+<Sync time="2255.806"/>
+čim večji del, oziroma mogoče na delih Slovenije, kjer vemo, da je, da je večja prevalenca, večja razširjenost bolezni, 
+<Sync time="2262.595"/>
+damo v tiste dele recimo več takih testov, 
+<Sync time="2265.311"/>
+lahko zaznamo več kužnih oseb 
+<Sync time="2267.221"/>
+v tej skupini. 
+<Sync time="2268.443"/>
+In na ta način jih lahko, 
+<Sync time="2270.268"/>
+#eem, 
+<Sync time="2271.023"/>
+če jim omogočimo, seveda moramo poskrbeti tudi za njihovo izolacijo, jim dati, #eee, ekonomska pomoč in vse ostale stvari, da, da imajo lahko varno izolacijo, 
+<Sync time="2279.51"/>
+jih lahko na zelo frekventen, torej večkraten in pa hiter način 
+<Sync time="2284.636"/>
+damo v izolacijo, a ne. 
+<Sync time="2286.728"/>
+In na neki način bi lahko se potem 
+<Sync time="2288.629"/>
+ta slavni procent, delež pozitivnih testov, čeprav, če bi gledali samo antigenske, verjetno niti ne bi bil tako visok, ker bi jih toliko več naredili, 
+<Sync time="2296.746"/>
+bi na ta način to skalo, o kateri govorimo, a ne, ko govorimo o pozitivnem deležu testov na dan, 
+<Sync time="2301.923"/>
+v bistvu to skalo, ki naj(), ki se nam skriva nekje pod morjem trenutno, odkrili, a ne, počasi bi jo odkrivali in bi na en() na neki način prišli do tega, 
+<Sync time="2310.134"/>
+da bi v bistvu 
+<Sync time="2311.802"/>
+našli večino ljudi, ki so v določenem obdobju kužni 
+<Sync time="2315.273"/>
+in lahko bolezen širijo naprej. In to je naš cilj, 
+<Sync time="2318.116"/>
+da, da ustavimo v bistvu 
+<Sync time="2319.919"/>
+ta del ljudi, 
+<Sync time="2321.617"/>
+ki širi bolezen. 
+<Sync time="2323.115"/>
+Mario, prosim, če, če dodaš, ker si ti strokovnjak na tem področju. 
+</Turn>
+<Turn speaker="spk2" startTime="2326.586" endTime="2474.634" fidelity="high">
+<Sync time="2326.586"/>
+Ne, p() perfektno, perfektno povedano, Zarja, saj ni, ni 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ ne bi, #eee, preveč, ampak bi samo rekel, res je, da naj() najprej uporaba teh testov za širjenje kapacitet, 
+<Sync time="2337.143"/>
+ne. Širjenje kapacitet testiranj. Jaz, občutek je ta, ko gledamo, saj seveda zato gledamo potem hospitalizacije in umrle na žalost. 
+<Sync time="2344.23"/>
+Mi tudi platojamo, ker nekako s trenutnimi kapacitetami testiranja gledamo nekje našo krivuljo na meter in pol višine in ne vidimo, kaj se v njej dogaja, 
+<Sync time="2352.984"/>
+ko nekaj se dogaja tam na štiri metre in pol višine verjetno, ne, in tega ne moremo videti, ne. 
+<Sync time="2357.558"/>
+In zdaj to je širitev kapacitet s hitrimi antigenskimi za ta del, ne, tudi simptomatičnih, ampak absolutno to, kar je Zarja rekla, ne. 
+<Sync time="2365.633"/>
+Absolutno, da, da omogočimo dostopnost, pravočasnost testiranja, 
+<Sync time="2370.270"/>
+simptomatskih, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+praktično vseh, a ne, ker s tem bomo pač to ledeno goro videli in bomo dejansko lahko vplivali epide() na epidemijo 
+<Sync time="2377.633"/>
+ker bo, glejte, 
+<Sync time="2378.8"/>
+ljudi, ki bojo, če ti imaš pozitiven 
+<Sync time="2381.571"/>
+hitri antigenski test in ti nekdo reče, da si pozitiven, velika večina ljudi 
+<Sync time="2386.039"/>
+bo ostala doma, najbolj, če je zagotovljeno, da lahko, da lahko, da je izpad dohodka pokrit, kar je pomembno, da tudi mi omogočimo. 
+<Sync time="2392.765"/>
+Takšni bojo doma in to bomo najbolj vplivali na potek epidemije, to je t(), to je tisto, ki sedaj izgubljamo s tem, da najdemo 
+<Sync time="2400.585"/>
+izven tega okvira ljudi, ki so že skoraj proti koncu kužnosti, najbolj relevantno je tistih pet dni 
+<Sync time="2406.462"/>
+po začetku simptomov, kjer je in, in nekaj, nekaj dni in nekaj časa pred začetkom simptomov, 
+<Sync time="2411.894"/>
+kjer, kjer si najbolj, najbolj kužen in najbolj pač lahko širiš. In to moramo ujeti 
+<Sync time="2416.787"/>
+in hitri antigenski lahko najdejo, imajo svoje omejitve, a ne, 
+<Sync time="2420.152"/>
+ampak, ampak nekako moramo prestopiti v kontekst 
+<Sync time="2423.135"/>
+javnozdravstvene uporabe teh, #eee, teh, #eee, teh, teh testov in mislim, da, 
+<Sync time="2427.879"/>
+#eem, da() da, da lahko naredijo spremembo. Tole in vse ostalo, ne, še enkrat. 
+<Sync time="2433.069"/>
+Niso edina stvar, zraven imamo še pa vseeno tiste naše načine komunikacije in to, da 
+<Sync time="2438.237"/>
+da nekako omogočamo, da varno ravnaš, a ne, da vsak, ke vseeno se ne bo šel testirat, ne, ali pa kakorkoli ne bo prišel, 
+<Sync time="2445.005"/>
+da ravna na način, da ne more biti 
+<Sync time="2446.851"/>
+neki super spreader in ne more, ne more bolezen širiti naprej, tako da to bo, 
+<Sync time="2451.285"/>
+to bo. Iz() Izjemno relevantno je en, en, en močen adut, ko imamo, ko imamo v rokah, ker moramo zdaj, 
+<Sync time="2457.814"/>
+zdaj ga pač usmeriti, usmeriti pravilno, 
+<Sync time="2460.585"/>
+da bomo, da bomo 
+<Sync time="2461.743"/>
+izkopali to goro, #eee, ledeno, ki je za tem, o kateri je, je govorila Zarja in in 
+<Sync time="2466.432"/>
+res potem vplivali, ne, ne samo, da štejemo in samo gledamo številke, ampak, da, da, da dejansko javnozdravstveno ukrepamo za nekaj spremeniti. 
+</Turn>
+<Turn speaker="spk1" startTime="2474.634" endTime="2510.743" fidelity="high">
+<Sync time="2474.634"/>
+#Mhm. 
+<Sync time="2476.013"/>
+#Eee, doktor Muršičeva, jaz bi vas še, še vprašala glede podatkov in, #eem, 
+<Sync time="2483.015"/>
+recimo 
+<Sync time="2484.279"/>
+dezinformacij ali pa meni() manipulacij, 
+<Sync time="2487.844"/>
+ki so se, če so se 
+<Sync time="2489.618"/>
+pojavljale na podlagi teh podatkov, ki jih sledilnik, 
+<Sync time="2492.686"/>
+#eem, 
+<Sync time="2494.248"/>
+objavlja. Ali so se, ste to opažali, recimo jaz sem, 
+<Sync time="2498.653"/>
+#eee, marsikatere 
+<Sync time="2500.936"/>
+manipulacije s temi podatki opažala na, #eem, družbenih omrežjih, ko se je želelo zminimalizirati pač pomen, 
+<Sync time="2508.184"/>
+#eem, novookuženih. 
+</Turn>
+<Turn speaker="spk3" startTime="2510.743" endTime="2738.684" fidelity="high">
+<Sync time="2510.743"/>
+#Eem, ja, mislim, jaz ne bi rekla, da gre to točno glih za podatke sledilnika, ker 
+<Sync time="2515.466"/>
+tako ali tako so to podatki, ki jih ima v bistvu NIJZ ali pa jih je tudi predstavljala vlada. 
+<Sync time="2519.977"/>
+#Eem, pojavilo se je nekaj dezinformacij, ena izmed teh večjih pa mogoče bolj pomembnih tudi za samo razumevanje, kako je skupnost razumela dogajanje, 
+<Sync time="2528.328"/>
+je bila ta ideja o mogoče nižji smrtnosti, ki se je čez poletje in potem septembra zelo veliko pojavljala, 
+<Sync time="2534.557"/>
+ker nekateri podatki mogoče še niso bili čisto ulovljeni, 
+<Sync time="2537.634"/>
+virus se je tudi širil po drugem delu populacije in potem vedno vidimo, da v bistvu pride do starejših in teh ranljivejših populacij, ne. 
+<Sync time="2544.966"/>
+To je bila ena taka 
+<Sync time="2546.209"/>
+in, #eee, mogoče tudi to, ko se je govorilo, kaj so pravzaprav potrjeni primeri, pa saj to to najdejo jih, ko so ljudje razmišljali tudi o tem, 
+<Sync time="2553.953"/>
+da, da so to kar naključno najdemo ljudi, čeprav se je jasno ves čas poudarjalo, koga se testira, mogoče celo malo premalo, 
+<Sync time="2560.827"/>
+tako da to se seveda do() dogaja, ne. 
+<Sync time="2562.991"/>
+Bi pa jaz samo omenila, da na, na sledilniku, že prej sem omenila, mi imamo pogosta vprašanja, kjer skušamo razložiti, kaj kateri podatek pomeni, 
+<Sync time="2570.578"/>
+na vsake toliko časa tudi kakšne interpretacije podajamo, 
+<Sync time="2573.985"/>
+#eee, tudi sami imamo nekaj modelerjev v naši skupini, 
+<Sync time="2577.38"/>
+in sicer tudi na naši strani objavljamo recimo napovedi skupine pod vodstvom Maje Pohar Perme iz Inštituta za biostatistiko in medicinsko informatiko, 
+<Sync time="2586.367"/>
+#eee, Janeza Žiberta iz, #eee, Zdravstvene fakultete in pa Žige Zaplotnika 
+<Sync time="2591.374"/>
+iz, #eem, Fakultete za matematiko in fiziko in ti modeli so tudi dnevno, se obnavljajo in dajemo podatke tja. 
+<Sync time="2598.295"/>
+Bi bila pa pri teh modelih, še posebej pri napovedih, ki so daljše od teh dveh tednov, kakor je, 
+<Sync time="2602.997"/>
+#eee, pred mano profesor Cizelj omenil, ne, 
+<Sync time="2605.853"/>
+zelo previdna, ker če lahko dam samo eno prispodobo, no. 
+<Sync time="2609.324"/>
+Če gledamo vreme, 
+<Sync time="2611.212"/>
+napovedi vremena, 
+<Sync time="2612.506"/>
+recimo, #eem, če, če je jutri napovedano sonce in dam jaz v svoj ruzak dež, ko, ko se odpravim na sprehod, 
+<Sync time="2620.526"/>
+to ne bo vplivalo, ali bo jutri deževalo ali ne, 
+<Sync time="2623.497"/>
+ali bo jutri sonce ali ne, v bistvu. 
+<Sync time="2625.971"/>
+Medtem ko če dam v napoved ven, da čez mesec dni 
+<Sync time="2630.439"/>
+bomo imeli zgolj tristo potrjenih primerov na dan, v bolnišnicah bo samo še petsto ljudi, 
+<Sync time="2635.404"/>
+na intenzivni nekje pa lahko pri ljudeh lahko spremeniš vedenje, torej jim daš neko 
+<Sync time="2639.639"/>
+lažno upanje, optimizem in ravno to potem v bistvu ljudje premislijo: 
+<Sync time="2644.277"/>
+"#Ah, pa saj, zdaj se grem pa lahko družit v neki zaprti prostor." 
+<Sync time="2647.727"/>
+In med pogovori med ljudmi lahko pride do tega: "#Ah, kaj pa ti to tako resno jemlješ, saj čez, čez en mesec bo pa samo še tristo novih primerov, a ne." 
+<Sync time="2655.25"/>
+Ampak, ker smo ljudje gostitelji virusa, smo točno mi tisti, ki vplivamo na te modelske napovedi lahko, a ne. 
+<Sync time="2661.17"/>
+In to je ta naključnost, ta negotovost teh modelov, ki jo moramo upoštevati, da smo mi tisti akterji, nismo neodvisni od modelov, ne, nisi() nismo neodvisna spremenljivka notri. 
+<Sync time="2671.685"/>
+In, in zato v bistvu, s tem, da 
+<Sync time="2674.392"/>
+da z našimi boljšimi odločitvami in v bistvu, če, če, če jim ponujamo preuranjene interpretacije modelov, lahko v bistvu 
+<Sync time="2681.415"/>
+pride epidemija v neko čisto drugačno smer, in to j(), to se je treba zavedati pri tem, ko smo ljudje dejansko akterji. 
+<Sync time="2687.856"/>
+In na neki način lahko pa zagotoviš neko bolj, #eem, 
+<Sync time="2691.696"/>
+predvidljivo vedenje s tem, da imaš jasno začrtano in nedvoumno strategijo, 
+<Sync time="2696.046"/>
+ki jo v bistvu izvajaš na dolgi rok, čez ta maraton, čez katerega v bistvu zdaj gremo, no. 
+<Sync time="2700.917"/>
+Samo to bi, to bi poudarila v bistvu, da, #eem, seveda pa vprašanje je bilo o dezinformacijah, manipulacijah, seveda pride do tega, ampak se v bistvu trudimo, 
+<Sync time="2708.937"/>
+da čim bolj odkrito predstavljamo in ponujamo interpretacije stvari, ki jih ponujamo in seveda vedno smo na voljo za 
+<Sync time="2714.708"/>
+morebitna vprašanja, morebitne pomisleke, če kdo česa ne razume 
+<Sync time="2718.328"/>
+in, in se trudimo, da bi bilo tega čim manj, seveda pa se temu ne moremo izogniti, ker pač 
+<Sync time="2723.496"/>
+ta del družbe obstaja, vedno je in, 
+<Sync time="2726.361"/>
+#eem, zdaj bo še več tega verjetno tudi, saj spremljamo vsi. Tudi cepiva, vem, da to ni pogovor o cepivih, ampak tudi 
+<Sync time="2732.272"/>
+bo v bistvu treba biti 
+<Sync time="2733.664"/>
+ažuren in popravljati mog() možne zmote in podobno. 
+</Turn>
+<Turn speaker="spk1" startTime="2738.684" endTime="2798.804" fidelity="high">
+<Sync time="2738.684"/>
+Tam se, 
+<Sync time="2739.948"/>
+na tistem področju se žal bojim, da se nam še več tega, #eee, obeta. 
+<Sync time="2746.144"/>
+Ampak upam, da bomo(), 
+<Sync time="2747.324"/>
+morda pa ne, tokrat. 
+<Sync time="2749.055"/>
+#Eee, doktor Cizelj, 
+<Sync time="2750.307"/>
+#eem, 
+<Sync time="2751.601"/>
+#eee, prej, kar je, #eee, Zarja Muršič, #eee, razlagala glede 
+<Sync time="2758.263"/>
+tega, kakšna je nevarnost, kaj lahko s() z napovedmi 
+<Sync time="2762.676"/>
+dosežemo kontra učinek pri 
+<Sync time="2765.052"/>
+#eee, ljudeh, ne. 
+<Sync time="2766.495"/>
+#Eee, kako se pa 
+<Sync time="2768.383"/>
+vi odločate, recimo, 
+<Sync time="2770.463"/>
+kaj boste kot spremni tekst, #eem, dali ob napovedi? 
+<Sync time="2775.271"/>
+Ker včasih recimo lahko zaznam, 
+<Sync time="2778.084"/>
+#eem, mogoče en 
+<Sync time="2780.015"/>
+podton, #eee, da 
+<Sync time="2782.446"/>
+pozivate, #eee, ljudi k odgovornemu obnašanju in tako naprej, a imate kdaj ta strah, da bi recimo z, 
+<Sync time="2790.037"/>
+#eee, optimistično napovedjo 
+<Sync time="2792.277"/>
+v bistvu naredili to kontra 
+<Sync time="2794.569"/>
+produktivno 
+<Sync time="2796.003"/>
+obnašanje pri ljudeh? 
+</Turn>
+<Turn speaker="spk4" startTime="2798.804" endTime="3004.429" fidelity="high">
+<Sync time="2798.804"/>
+#Eee, hvala, zelo zanimivo vprašanje, ne, ki je sicer do neke mere povezano s podatki, ne, po drugi strani 
+<Sync time="2804.559"/>
+pa lahko takoj odpreva precej globoko filozofsko debato, ne. Zdaj se je še čisto vsako znanstveno odkritje 
+<Sync time="2812.57"/>
+dalo uporabiti v, v dobre ali slabe namene, ne, dobre in slabe namene, ni, 
+<Sync time="2818.956"/>
+ne. Torej, 
+<Sync time="2820.272"/>
+#eee, 
+<Sync time="2820.942"/>
+kot s(), kot bi rekel, ne, niti dobri niti slabi podatki ne povzročajo širjenje virusa, ne, niti dobre pa niti slabe interpretacije tudi ne povzročajo širjenje virusa. 
+<Sync time="2830.596"/>
+Se pa strinjam, #eee #eee 
+<Sync time="2832.242"/>
+#eee, s kolegico, doktor Muršičevo, da je pravzaprav, #eee, 
+<Sync time="2835.976"/>
+te, kaj že pravijo temu, samoizpolnljive se napovedi, ne, so v sociologiji precej znana zadeva. 
+<Sync time="2843.275"/>
+#Eee, ja, to je, to je seveda težava, ne, ki je 
+<Sync time="2847.637"/>
+do neke mere nepremostljiva, ne, in je prepuščena malim posebnim interpretacijam. 
+<Sync time="2853.068"/>
+Tako bom rekel, ne, k sreči je 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, k sreči smo ljudje različni 
+<Sync time="2857.757"/>
+Ne, in torej različna sporočila različnim ljudem različne stvari pomenijo. In zdaj k sreči imamo tudi različne s() centre sporočanja, 
+<Sync time="2865.586"/>
+ki niso vsi uradni, ne, torej 
+<Sync time="2868.687"/>
+upam, da dosežemo dovolj veliko število ljudi vsi skupaj in jim, in jim poskušamo sporočiti, kaj bi lahko bilo za njih dobro. 
+<Sync time="2875.913"/>
+Ne, zdaj seveda, ker je, ker je tudi vsako, vsaka informacija, ne, ma dobro in slabo plat, dobro s() in slabo stran kovanca, 
+<Sync time="2884.285"/>
+#eee, ne, bi pač postavil, #eee, na mizo recimo tole, ne. 
+<Sync time="2889.602"/>
+Seveda so napovedi lahko tipa, če 
+<Sync time="2892.755"/>
+se bo zgodilo nekaj, 
+<Sync time="2894.805"/>
+ne, oziroma, če bomo zelo uspešni, potem smo lahko do konca februarja v zeleni 
+<Sync time="2900.419"/>
+coni. 
+<Sync time="2900.835"/>
+In to drži, ne. Ta napoved drži. 
+<Sync time="2903.882"/>
+Če bomo se resno lotili tega, bomo s koncem februarja v zeleni coni. 
+<Sync time="2909.135"/>
+Ampak ali se bom res tega lahko lotili resno ali ne, ne. 
+<Sync time="2913.633"/>
+Na to vprašanje pa seveda ne znam odgovoriti. 
+<Sync time="2916.412"/>
+In 
+<Sync time="2916.964"/>
+ravno ta informacije se da, torej kot rečeno, 
+<Sync time="2919.956"/>
+razumeti kot, #eee, in kot grožnja in kot spodbuda, a ne, pač odvisno od sprejemnika, na žalost. 
+<Sync time="2925.952"/>
+#Eee, sicer pa takole, o manipulacijah pravzaprav ne, ne bi rekel, da se je zgodila pri nas kakšna manipulacija, vsaj, da bi jo opazili ne. 
+<Sync time="2934.197"/>
+Bi pa vseeno, #eee, 
+<Sync time="2937.392"/>
+tale, #eee, komunikacija okoli teh stvari, okoli, #eee, pri epidemiji, še posebej takrat, ko smo bili v vzponu, ne, ko smo se podvojevali v, v, v približno enem tednu, 
+<Sync time="2948.17"/>
+takrat je bilo izjemno pomembno, da se številke recimo komentirajo: današnji dan današnje, naslednji dan naslednje. 
+<Sync time="2955.766"/>
+Ker so bile razlike deset procentov, recimo, dnevno povečanje je bilo v rangu deset, dvanajst procentov in 
+<Sync time="2962.653"/>
+včasih, pa včasih, ne, smo se pogovarjali potem še ene dva, tri dni kasneje o številkah, ali v petek o številkah iz ponedeljka, ki so bile že čisto mimo. 
+<Sync time="2970.813"/>
+#Eee, saj je, zanimivo je v tem, ne, zanimivost zadeve je v tem, da je, da je ta eksponentna dinamika s hitrim podvojevanjem je človeški intuiciji čisto tuja, 
+<Sync time="2981.137"/>
+ne in, #eee, in je zato 
+<Sync time="2984.544"/>
+včasih bilo o tem nekoliko težko govoriti, ne. 
+<Sync time="2988.533"/>
+Tudi 
+<Sync time="2990.061"/>
+potem kakšna napoved včasih izgleda nekoliko pretirana, ker si ljudje ne predstavljajo, kaj to, da če se v enem tednu podvoji, se bo v dveh tednih početverilo, ne. 
+<Sync time="2999.069"/>
+In v, v treh tednih smo tako rekoč že vsi Slovenci ven, 
+<Sync time="3002.804"/>
+ne, potem je to je zelo hitro. 
+</Turn>
+<Turn speaker="spk1" startTime="3004.429" endTime="3006.169" fidelity="high">
+<Sync time="3004.429"/>
+#Mhm. 
+</Turn>
+<Turn speaker="spk4" startTime="3006.169" endTime="3007.752" fidelity="high">
+<Sync time="3006.169"/>
+Toliko o tem. 
+</Turn>
+<Turn speaker="spk1" startTime="3007.752" endTime="3060.914" fidelity="high">
+<Sync time="3007.752"/>
+#Eem, 
+<Sync time="3009.398"/>
+zdaj pa bi imela v bistvu še vprašanje, zdaj za vse tri. 
+<Sync time="3014.724"/>
+#Eem, 
+<Sync time="3016.37"/>
+a lahko recimo zdaj vsak dan mi damo ven 
+<Sync time="3020.711"/>
+število, #eem, 
+<Sync time="3022.697"/>
+okuženih, število mrtvih, #eee, zaradi ali pa za covidom, 
+<Sync time="3028.375"/>
+#eem. 
+<Sync time="3029.194"/>
+A nam, 
+<Sync time="3030.565"/>
+a nas lahko v bistvu, #eee, vsakodnevno, #eem, to, #eem, navajanje zgolj statističnih številk 
+<Sync time="3037.791"/>
+naredi na en način neobčutljive 
+<Sync time="3040.571"/>
+na to, kaj se pa dejansko 
+<Sync time="3042.705"/>
+dogaja? 
+<Sync time="3043.766"/>
+Recimo zadnjič sem se mogoče jaz malo zamislila, ko sem slišala 
+<Sync time="3048.455"/>
+ministra Gantarja, ki je rekel, da 
+<Sync time="3050.81"/>
+mi, kar govorimo o petdesetih mrtvih na dan, ne zavedamo pa se tega, da je v bistvu to, 
+<Sync time="3056.581"/>
+#eem, cel avtobus 
+<Sync time="3058.546"/>
+ljudi, ki umrejo s covidom. 
+</Turn>
+<Turn startTime="3060.914" endTime="3063.282">
+<Sync time="3060.914"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3063.282" endTime="3067.623" fidelity="high">
+<Sync time="3063.282"/>
+Ne vem, kdo, kdo bi prvi to komentiral. 
+</Turn>
+<Turn speaker="spk2" startTime="3067.623" endTime="3155.897" fidelity="high">
+<Sync time="3067.623"/>
+Lahko začnem, ke je taka nehvaležna tema. 
+<Sync time="3071.433"/>
+#Eee, 
+<Sync time="3072.388"/>
+ja, človek se na marsikaj navadi, ne. 
+<Sync time="3074.361"/>
+Jaz sem, #eee, 
+<Sync time="3075.846"/>
+po svetu, ko smo se odzivali na druge epidemije, ebole in tako naprej, 
+<Sync time="3079.665"/>
+vidiš, na kaj vse se lahko človek navadi. 
+<Sync time="3081.787"/>
+Ampak ni, ni, ni, ni normalno, ne, in, in, kakšenkrat ta medijska, 
+<Sync time="3087.706"/>
+tako, ne, #eee. 
+<Sync time="3089.828"/>
+Vsak dan to številko, pa je štirideset, pa je petdeset, pa je šestdeset, pa res ti rata samo številka, ne, in dokler, dokler te ne dotakne osebno, 
+<Sync time="3096.675"/>
+dokler ne bomo prešteli vsi 
+<Sync time="3098.555"/>
+ob praznikih, ali ko se bomo spet vsi skupaj našli, 
+<Sync time="3101.538"/>
+#eee, tiste prazne stolice, 
+<Sync time="3103.363"/>
+ke bojo za našimi mizami, ne, 
+<Sync time="3105.264"/>
+ne bomo točno 
+<Sync time="3106.571"/>
+imeli občutek, kaj vse to pomeni, ne. 
+<Sync time="3108.684"/>
+#Eee, je, je prav, da so ene številke komunicirane transparentno in dnevno, 
+<Sync time="3113.84"/>
+ker to pomeni, #eee, to pomeni, da, da ni tisti občutek v Sloveniji, veš, da, da ko se nekje nekaj zalomi, potem podatki izginejo, ne, in potem ne veš, kaj se dogaja. 
+<Sync time="3123.294"/>
+To, to, to se ne sme zgoditi, tako da iz tega vidika transparentnosti je pomembna. 
+<Sync time="3127.559"/>
+Zdaj tudi 
+<Sync time="3128.357"/>
+ljudje, 
+<Sync time="3128.964"/>
+no, R je ratalo nekaj vsakdanjega, ne, kar prej, prej smo se učili smo tekom specializacije, #eee, epidemiologije. 
+<Sync time="3135.787"/>
+Tako da trenutno ljudje si pričakujejo, da bojo to vedeli, da bojo, da bojo videli, da bojo imeli en občutek, kaj se dogaja. 
+<Sync time="3142.428"/>
+#Eee, ampak ta drugi del, 
+<Sync time="3144.775"/>
+da imeti šestdeset mrtvih na dan je nesprejemljivo, in kaj bomo storili? Torej iz številk v akcijo, 
+<Sync time="3152.723"/>
+je pa tisto, ke, ke nam manjka in moramo se več o tem pogovarjati. 
+</Turn>
+<Turn startTime="3155.897" endTime="3161.15">
+<Sync time="3155.897"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3161.15" endTime="3261.107" fidelity="high">
+<Sync time="3161.15"/>
+Ja, jaz lahko še dodam, no. 
+<Sync time="3163.39"/>
+#Eem, mislim, #eem, eden izmed meni zelo ljubih znanstvenih novinarjev tujih, Ed Young, je v septembru napisal v bistvu neko, 
+<Sync time="3171.941"/>
+#eem, neko razlago, kaj se nam dogaja na bolj tej družbeni ravni, no, in je zaključil 
+<Sync time="3176.643"/>
+s to, #eee, habituacijo oziroma navajenostjo na grozo, na neki način, a ne, in 
+<Sync time="3182.448"/>
+za vsemi temi številkami, o katerih mi dnevno poročamo, so ljudje, so prijatelji, so starši, so otroci nekoga, ne. 
+<Sync time="3189.165"/>
+In to se je treba zavedati in, 
+<Sync time="3190.947"/>
+#eem, seveda sedaj nam 
+<Sync time="3193.027"/>
+dnevno umre en avtobus ljudi in gre to kar nekako mimo nas, 
+<Sync time="3197.389"/>
+ampak ne sme iti. 
+<Sync time="3198.768"/>
+Treba je opozoriti na to, 
+<Sync time="3200.126"/>
+treba je tudi opozoriti, da 
+<Sync time="3201.823"/>
+nekateri ljudje bojo tudi šli čez daljše časovno obdobje, ko bojo v bistvu, 
+<Sync time="3206.151"/>
+#eem, spet prihajali k sebi in v bistvu šli čez to po bolezni, po recimo preživljanju nekaj tednov na intenzivni nekje, jaz si ne znam predstavljati, kako je to, ampak verjamem, da je težko za telo in bojo potem imeli tudi 
+<Sync time="3218.944"/>
+dolgotrajne posledice oziroma bo še kar nekaj časa v bistvu to trajalo, ne. Pri tem moramo tudi razmišljati o, 
+<Sync time="3225.161"/>
+#eem, zdravstvenih delavcih in delavkah, ki so v bistvu pod 
+<Sync time="3228.823"/>
+ogromnim pritiskom trenutno in jim je težko 
+<Sync time="3232.061"/>
+in, in bojo imeli mogoče tudi težave recimo z duševnim zdravjem, in vse to. 
+<Sync time="3236.084"/>
+Pa tudi do vseh ljudi v bistvu, ki smo na neki način trenutno v t() malo 
+<Sync time="3241.846"/>
+ločeni en od drugega in nimamo teh vseh stikov, ne, vse to je treba razumeti, 
+<Sync time="3246.026"/>
+v bistvu to pandemijo na nekaj širši ravni, družbeni ravni in jo postaviti v ta, v ta kontekst in nikakor 
+<Sync time="3251.704"/>
+se v bistvu prav zavestno in, #eem, z razmišljanjem boriti proti temu, da bi se navadili na to, 
+<Sync time="3257.891"/>
+#eee, na to, kar se nam doba(), dogaja, ne. 
+</Turn>
+<Turn speaker="spk2" startTime="3261.107" endTime="3286.432" fidelity="high">
+<Sync time="3261.107"/>
+Ja, ker ni pande(), ker ni pandemija, ne, je sindemija, je več pandemij skupaj, ene, s katerih je pandemija nalezljive bolezni, 
+<Sync time="3268.342"/>
+druge bojo pa 
+<Sync time="3269.403"/>
+duševne, nenalezljive, 
+<Sync time="3271.503"/>
+vse, kar bo ekonomsko zraven peljalo, in verjetno bomo, 
+<Sync time="3275.089"/>
+da ne bomo prav tako črn(), črnogledi totalno, mislim, luč na koncu tunela je cepljenje. 
+<Sync time="3280.351"/>
+#Eee, bomo verjetno prej zaključili prvo pandemijo nalezljive bolezni kakor vse ostale pandemije, ki bojo v tej sindemiji. 
+</Turn>
+<Turn startTime="3286.432" endTime="3289.373">
+<Sync time="3286.432"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3289.373" endTime="3292.101" fidelity="high">
+<Sync time="3289.373"/>
+Doktor Cizelj, ste še vi hoteli dodati? 
+</Turn>
+<Turn speaker="spk4" startTime="3292.101" endTime="3303.083" fidelity="high">
+<Sync time="3292.101"/>
+#Eee, ja, če lahko, #eee, malo dodam. Se pravzaprav zelo strinjam s temle, mogoče samo še dodaten vidik, #eee, lahko prinesem ali pa dodatno osvetlitev. 
+<Sync time="3301.84"/>
+#Eee, zdaj, #eee ...
+</Turn>
+<Turn startTime="3303.083" endTime="3304.844">
+<Sync time="3303.083"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3304.844" endTime="3379.629" fidelity="high">
+<Sync time="3304.844"/>
+Torej, številke, ne, če smo pri številkah. Ta trenutek smo pri tam, med petdeset, šestdeset mrtvih na dan, zaradi covida, ne. K temu dodam, da je recimo dolgoletno slovensko povprečje 
+<Sync time="3316.865"/>
+nekje približno petinpetdeset smrti na dan. 
+<Sync time="3320.154"/>
+Ne, sicer je na prvo žogo težko reči, da smo zdaj s covidom podvojili, ne, te, te statistike, malo zamujajo, ampak vsekakor je covid ta trenutek ali pa tisto, kar pišemo na račun covida, 
+<Sync time="3331.645"/>
+daleč najmočnejši vzrok smrti, ne, v v novembru in bo tudi v decembru, ne. 
+<Sync time="3338.786"/>
+#Eee, kar je še mogoče pri teh številkah, 
+<Sync time="3342.181"/>
+ker, #eee, ker opazujemo, 
+<Sync time="3344.876"/>
+ne, v tem, vsaj v javnem prostoru, #eem, 
+<Sync time="3348.092"/>
+mogoče na neki način doživljamo tole, tole zanimivo obdobje, ki so informacije, ne, podatki in informacije so na voljo vsakomur. 
+<Sync time="3355.539"/>
+Operiramo z dnevnim številkami, 
+<Sync time="3358.098"/>
+#eee, pa, #eee, nekoliko la(), nekoliko ne opazimo, da smo recimo v kompletnem prvem valu, ne, ja do julija izgubili, 
+<Sync time="3366.237"/>
+ne bom rekel samo, ampak, #eee, glede na to, kaj se zdaj dogaja, samo, nekaj več kot sto ljudi. 
+<Sync time="3372.551"/>
+Ne, zdaj smo pa pri, v novembru na tisoč sto, v decembru bomo po vsej verjetnosti prebili tisoč dvesto 
+<Sync time="3378.789"/>
+v mesecu, ne. 
+</Turn>
+<Turn startTime="3379.629" endTime="3381.624">
+<Sync time="3379.629"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3381.624" endTime="3405.378" fidelity="high">
+<Sync time="3381.624"/>
+Tako, da je, da je ta stvar, #eee, 
+<Sync time="3384.183"/>
+da jo damo malo v perspektivo 
+<Sync time="3386.126"/>
+in, #eee, tu se recimo misel od Maria ponovi, mogoče z nekimi drugimi besedami. 
+<Sync time="3392.482"/>
+#Eee, 
+<Sync time="3393.204"/>
+številke seveda so nujne, ne, za, za, za ukrepanje, #eee, za razumevanje, kaj se dogaja, pa za ukrepanje, ne. 
+<Sync time="3400.43"/>
+Ampak za javno debato je še pa veliko bolj pomembno, kaj je za narediti, da se pred tem lahko skrijemo, ne. 
+</Turn>
+<Turn startTime="3405.378" endTime="3408.539">
+<Sync time="3405.378"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3408.539" endTime="3447.697" fidelity="high">
+<Sync time="3408.539"/>
+Dobro. 
+<Sync time="3409.812"/>
+#Eem, 
+<Sync time="3411.352"/>
+bi zaključila to debato. 
+<Sync time="3413.559"/>
+Hvala, ker ste bili z mano, #eem, ali bi morda kdo hot() hotel še kakšno zaključno besedo? 
+<Sync time="3421.676"/>
+Je še kdo 
+<Sync time="3423.013"/>
+kaj pozabil povedati 
+<Sync time="3424.625"/>
+vmes? 
+<Sync time="3425.665"/>
+#Eee, vidim, da ne. 
+<Sync time="3427.002"/>
+#Eee, hvala vam, da ste z mano govorili, #aam, 
+<Sync time="3431.461"/>
+hvala tudi vsem, #eee, ki ste nas spremljali. 
+<Sync time="3435.429"/>
+#Eem, STAznanost portal z razpravami nadaljuje tudi v prihodnjem tednu, 
+<Sync time="3441.454"/>
+tako da, #eee, vabim, 
+<Sync time="3443.449"/>
+da se nam pridružite in nas tudi spremljate v prihodnje. 
+</Turn>
+<Turn startTime="3447.697" endTime="3451.341">
+<Sync time="3447.697"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
