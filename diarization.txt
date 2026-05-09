@@ -1,2 +1,0 @@
-SPEAKER_00 speaks between t=0.031s and t=0.925s
-SPEAKER_00 speaks between t=2.393s and t=33.342s

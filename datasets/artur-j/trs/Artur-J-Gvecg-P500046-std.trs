@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Mitja" audio_filename="Artur-J-Gvecg-P500046-avd" version="9" version_date="220124">
+<Topics>
+<Topic id="to1" desc="Spletni dogodek"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Artur-J-G3018" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+<Speaker id="spk2" name="Artur-J-G3090" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+<Speaker id="spk3" name="Artur-J-G3091" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="1632.895" topic="to1">
+<Turn startTime="0" endTime="141.877" speaker="spk1" fidelity="high">
+<Sync time="0"/>
+Danes bomo predstavili eno izmed rešitev oziroma o njej tudi spregovorili, to je nova 
+<Sync time="5.438"/>
+platforma za digitalno plačevanje Eli Pos, ki trgovcem 
+<Sync time="8.896"/>
+na eni napravi o() 
+<Sync time="10.602"/>
+na prodajnem mestu, 
+<Sync time="12.256"/>
+#eee, omogoča, #eem, sprejemanje klasičnih in tudi alternativnih digitalnih plačilnih metod, 
+<Sync time="18.666"/>
+tudi kriptovalut. 
+<Sync time="20.209"/>
+Vsi deležniki v tem projektu, tako družba BTC Eligma kot ustanovitelji Lab for pay, 
+<Sync time="25.986"/>
+verjamejo, da je povezovanje ključ do uspeha. 
+<Sync time="29.948"/>
+Dolgoletno znanje na področju maloprodaje, upravljanja trgovskih centrov ter znanja s področja plačilnih sistemov 
+<Sync time="36.071"/>
+in inovacij so tako strnili v en sam produkt, 
+<Sync time="38.917"/>
+ki malim kot velikim trgovcem omogoča enostavnejše poslovanje in sprejem digitalnih 
+<Sync time="44.124"/>
+plačil. Eden večjih izzivov pri digitalnih storitvah je, 
+<Sync time="48.411"/>
+predvsem o tem bomo danes spregovorili, 
+<Sync time="50.851"/>
+kako jih zasnovati čim bolj inovativno, obenem strankam prijazno, 
+<Sync time="55.403"/>
+jih približati čim širšemu krogu uporabnikov 
+<Sync time="58.38"/>
+in obenem pri tem zadostiti zahtevam regulatorjev, nadzora in tudi varnosti. 
+<Sync time="64.723"/>
+O nastanku in izzivih prvega androidnega POS-terminala v Sloveniji bomo spregovorili z današnjimi 
+<Sync time="70.384"/>
+gosti, z nami so Miha Culiberg, direktor in soustanovitelj 
+<Sync time="73.855"/>
+Lab for pay, Miha, pozdravljeni. 
+<Sync time="77.446"/>
+Dejan Roljič, direktor Eligme in predstavnik investitorjev Lab for pay ter plačilne metode GoCrypto, 
+<Sync time="84.129"/>
+pa magister Damjan Kralj, glavni izvršni direktor družbe BTC in predstavnik investitorjev Lab for pay, 
+<Sync time="90.694"/>
+ter z nami je tudi Danijel Lamperger, 
+<Sync time="93.481"/>
+direktor Obrtno-podjetniške zbornice Slovenije, vsem prav prijazen pozdrav. 
+<Sync time="99.61"/>
+Ker je, 
+<Sync time="100.71"/>
+ker je čas tudi 
+<Sync time="102.575"/>
+vse bolj, #eem, 
+<Sync time="105.071"/>
+vse bolj zaželena vrlina in vse bolj dragocen, bomo začeli kar s prvim vprašanjem. 
+<Sync time="111.083"/>
+S podporo ostalim sistemom zaposlovanja, kot so daljša blagajna, programi zvestobe, darilni boni, registracija delovnega časa ali celo oglaševanje na prodajnem mestu, 
+<Sync time="121.534"/>
+omogoča ta prvi slovenski androidni POS-terminal 
+<Sync time="125.365"/>
+enostavno digitalizacijo poslovanja brez nekih velikih finančnih vložkov za posameznega trgovca. 
+<Sync time="131.498"/>
+#Eee, tako je zapisano, gospod Culiberg, kje so ti začetki 
+<Sync time="134.993"/>
+prvega androidnega POS-terminala v Sloveniji in 
+<Sync time="138.905"/>
+bistvene prednosti takšnega terminala? 
+</Turn>
+<Turn startTime="141.877" endTime="148.442">
+<Sync time="141.877"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="148.442" endTime="161.316" fidelity="high">
+<Sync time="148.442"/>
+Torej to so bili začetki, zdaj pa te, #eem, prednosti, glavni izziv prvega androidnega POS-terminala, 
+<Sync time="155.716"/>
+v bistvu gre za platformo povezovanja, kako lahko opišete ta prvi androidni POS-termina()? 
+</Turn>
+<Turn startTime="161.316" endTime="168.139">
+<Sync time="161.316"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="168.139" endTime="188.067" fidelity="high">
+<Sync time="168.139"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ Prav pri globalni plačilni metodi se bova ustavila, gospod Roljič, kakšno je v Sloveniji zanimanje za plačilo s kriptovalutami, kje so 
+<Sync time="177.703"/>
+večji zadržki pri trgovcih, mogoče pri kupcih? 
+<Sync time="181.278"/>
+Je že, ponotranjamo kriptovalute ali smo mogoče še pred izzivom spoznavanja te valute? 
+</Turn>
+<Turn startTime="188.067" endTime="196.988">
+<Sync time="188.067"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="196.988" endTime="285.763" fidelity="high">
+<Sync time="196.988"/>
+Te lahko dopolnim? 
+<Sync time="199.107"/>
+Ja, #eee, mogoče je bil Dejan tukaj ške() 
+<Sync time="201.755"/>
+celo malo preveč skromen, je eden velikih, #eee, podpornikov, #eee, bitcoin koncepta, generalno, ne, v Sloveniji, jaz bi rad samo spomnil, 
+<Sync time="211.082"/>
+da je pomagal, da je BTC City, a ne, 
+<Sync time="213.698"/>
+kot prepoznan brand v Sloveniji, postal pravo bitcoin mesto in prvo bitcoin mesto na svetu. 
+<Sync time="219.458"/>
+V letu dva tisoč dvajset, #e, je Dejan z ekipo omogočil tisočo lokacijo v Sloveniji, GoCrypto lokacijo, to pomeni, da se da plačevati s kriptovalutami. 
+<Sync time="229.182"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ Po eni strani, tako kot pravi Dejan, 
+<Sync time="231.529"/>
+eno je povpraševanje, eno je pa tudi, če imamo kakšnega močnega promotorja, le-tega, ne, saj tudi veste, samo trg, 
+<Sync time="237.516"/>
+kriptotrg je zdajle dosti naklonjen in tudi, #e, vedno več Slovencev se engagea v te zadeve. 
+<Sync time="243.321"/>
+#Eee, ampak bi rad poudaril, no, da v zadnjih dveh letih je bilo ogromno delo narejeno, 
+<Sync time="248.151"/>
+in ravno tisoča lokacija, #eee, GoCrypto lokacija je bila pri nas, 
+<Sync time="252.938"/>
+#eee, za časa prenovljenega kartinga v BTC Cityju, a ne, gokarting, 
+<Sync time="257.139"/>
+ki sicer zdaj, ke so pandemične razmere, je malo odprt, malo zaprt in tako naprej, upam, da bo tudi stalno lahko odprt, 
+<Sync time="263.314"/>
+in to je bilo v letu dva tisoč dvajset, no, to se mi zdi zelo tako pomemben mejnik, a ne, 
+<Sync time="267.432"/>
+da potem zdaj, ker, ker se vstopa v novo zgodbo Eli Posa, je kar taka močna pot že prehojena, ne. 
+<Sync time="273.696"/>
+In glede na to, da je tukaj integrirano plačilo, ker ga mi absolutno podpiramo, in tudi mislim, da bojo naši trgovci, partnerji zelo veseli, a ne, 
+<Sync time="280.463"/>
+da je to eno od plačil, 
+<Sync time="281.905"/>
+ki je pa neko pot že prehodilo tudi v Sloveniji, ja. 
+</Turn>
+<Turn speaker="spk1" startTime="285.763" endTime="307.024" fidelity="high">
+<Sync time="285.763"/>
+#Eee, gospod Kralj, ko ste ravno pri besedi, BTC City se ponaša z nazivom digitalnega in inovativnega mesta, 
+<Sync time="293.025"/>
+kakšni so koraki do takšnega naziva, kdo vse mora za to imeti posluh? 
+<Sync time="297.429"/>
+In vidim, da tudi to sodelovanje in povezovanje, a ne, #eem, 
+<Sync time="302.036"/>
+startupov in inovativnih idej 
+<Sync time="305.06"/>
+rojeva takšno mesto. 
+</Turn>
+<Turn speaker="spk2" startTime="307.024" endTime="468.281" fidelity="high">
+<Sync time="307.024"/>
+Tako, saj zdaj, to zadnje povezovanje, kar se tiče Mihe 
+<Sync time="310.828"/>
+iz, #e, Laba for paya iz Dejana iz Eligme in BTC-ja, je mogoče čisto neka 
+<Sync time="316.802"/>
+logična posledica, z Dejanom sodelujemo že vrsto let, 
+<Sync time="320.618"/>
+a veste, mi imamo strategijo 
+<Sync time="322.551"/>
+že večletno, lahko rečem že šest, sedem let, da smo zvesti inovacijam in digitalizaciji in smo to zadevo tudi želeli uresničevati, potrjevati. 
+<Sync time="331.818"/>
+Dejan je bil pač iniciator ABC-pospeševalnika, zdaj že teče šesto leto, ker neko stičišče, a ne, gospodarstva, inovacij, naložb ...
+<Sync time="340.449"/>
+Takrat so tudi engageal v to zadevo, #e, naše strateške partnerje, 
+<Sync time="344.77"/>
+Petrol, Zavarovalnica Triglav, Telekom, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ smo seveda ponosni, danes smo pri teh tudi 
+<Sync time="350.246"/>
+več kot devetdeset startupov. 
+<Sync time="352.551"/>
+In s tem smo nekako potrjevali koncept s() inovacij, digitalizacij, 
+<Sync time="357.02"/>
+#Eee, seveda smo nastavili tudi ekosistem Living Laba, kjer smo želeli določene zadeve testirati, implementirati in seveda tudi monetizirati, bodisi da gre za steber 
+<Sync time="365.14"/>
+trajnostne mobilnosti, 
+<Sync time="366.984"/>
+energetske učinkovitosti ali pa kaj v odnosu, 
+<Sync time="370.268"/>
+#e, kar se tiče samih tehnologij, odnosu do pametnega mesta. 
+<Sync time="373.958"/>
+In seveda mi ti zadeve z veseljem živimo, imamo tudi pač japonsko-slovensko partnerstvo, integrirali smo 
+<Sync time="380.385"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ baterijo, v primeru, če bo elektrika 
+<Sync time="383.705"/>
+padla, da ima() lažje uravnavamo, 
+<Sync time="386.318"/>
+#eee, nihanje elektrike v Ljubljani, 
+<Sync time="388.926"/>
+s tem zdajle pač gremo tudi v živo, #e, v letošnjem letu, 
+<Sync time="393.146"/>
+zato baterijo smo 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ BTC City. 
+<Sync time="395.961"/>
+#Eee, seveda, tako kot sem prej omenil, 
+<Sync time="398.726"/>
+bitcoin mesto, a ne, #eee, ker je seveda tudi 
+<Sync time="401.895"/>
+pomagal oziroma v celoti nastavil tudi, #e, Dejan s svojo ekipo, se mi zdi, je bil tak 
+<Sync time="406.64"/>
+ultimativen dokaz, #eee, te poti. 
+<Sync time="409.962"/>
+In zdaj ...
+<Sync time="411.068"/>
+Povzemam hitreje, ker vem, da, da smo s časom omejeni, ne smem biti, #e, predolg, 
+<Sync time="415.198"/>
+in seveda, zdaj ta zadnji korak, #eee, digitalizacije, #eee, 
+<Sync time="419.627"/>
+konkretno dotično za trgovce, morda tudi za tiste, ki ne razumejo toliko kripto, a ne, 
+<Sync time="424.098"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ integriramo vse te 
+<Sync time="425.6"/>
+plačilne zadeve v eni točki, se mi zdi taka lepa pika na i. 
+<Sync time="429.971"/>
+Drugače pa mi zasebno se povezujemo s startupi, ker s tem tudi lažje uresničujemo strategijo, 
+<Sync time="435.311"/>
+in, #eee, 
+<Sync time="436.687"/>
+na začetku je Miha rekel, Dejan da mladost, upam, da BTC ne da starost ali pa zrelost, ampak nekaj vmes, a ne, 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="443.628"/>
+ali pa sigurnost, 
+<Sync time="445.139"/>
+#eem, s tem tudi lažje zadeve implementiramo ali pa integrit() integriramo, #eee, v naše, #eee, stebre, saj veste, po eni strani imamo zelo močen ritem, imamo tudi logistiko, 
+<Sync time="454.737"/>
+
+<Event desc="breath" type="noise" extent="instantaneous"/>
+ in, #eee, moraš biti v koraku s časom, ne. 
+<Sync time="457.689"/>
+In moraš biti korajžen, 
+<Sync time="459.407"/>
+#eem, mislim pa, da produkt, ke ga danes, #e, Miha in Dejan predstavljata, 
+<Sync time="463.696"/>
+je pa mogoče en naših, #eee, ključnih konkurenčnih prednosti v danem trenutku. 
+</Turn>
+<Turn speaker="spk1" startTime="468.281" endTime="485.242" fidelity="high">
+<Sync time="468.281"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="468.781"/>
+Kako pa vaši trgovci in vaši kupci, zagotovo sledite, 
+<Sync time="473.351"/>
+#eee, temu razvoju, sledijo tej, tem korakom v večjo digitalno prihodnost? 
+<Sync time="479.143"/>
+Jih mogoče o tem tudi, #eee, poučujete, izobražujete, jih obveščate, osveščate? 
+</Turn>
+<Turn speaker="spk2" startTime="485.242" endTime="585.906" fidelity="high">
+<Sync time="485.242"/>
+No, #eee, 
+<Sync time="486.397"/>
+imeli smo kar nekaj konferenc, #eee, 
+<Sync time="488.988"/>
+sestankov in tako naprej, mislim, da je zadnje leto, vse lažje sprejemajo, a ne, 
+<Sync time="493.714"/>
+kot prej, morda je tudi kovid svoje prinesel, 
+<Sync time="496.378"/>
+vem, da včasih kriptovalute so bile totalen tabu, a ne. 
+<Sync time="499.438"/>
+Nov način plačevanja, #eee, 
+<Sync time="501.961"/>
+danes se to spreminja, mislim, da tudi 
+<Sync time="504.32"/>
+svet dokazuje, ne. 
+<Sync time="506.053"/>
+Če d() če se dotaknem spet kriptovalut, #e, da sprejemajo 
+<Sync time="509.791"/>
+plačila 
+<Sync time="510.781"/>
+v, v bitcoinih, da tudi naše, #eee, večji sistemi to lažje sprejemajo. 
+<Sync time="516.125"/>
+Mlajši so mogoče bolj, bolj vitki, bolj korajžni, ker morajo probavati nove zadeve, da tudi preživijo na daljši rok, #eee, večji so nekoliko bolj rigidni, previdni. 
+<Sync time="525.758"/>
+#Eem, ampak tako ke je že covid, #eee, pospešil, #e, spletno prodajo, #eee, več 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ sistemov na, na območju, a ne, 
+<Sync time="534.786"/>
+mislim, da j(), 
+<Sync time="535.619"/>
+da je to mogoče tudi pomagalo, #eee, 
+<Sync time="538.012"/>
+da so majčkeno bolj digitalno naravnani, za v bodoče bojo lažje sprejemali, 
+<Sync time="542.579"/>
+#eee, spremembe, ne. 
+<Sync time="544.231"/>
+Je pa, seveda, odvisno po branžah, ne, jaz bi rekel, da 
+<Sync time="547.274"/>
+mogoče so živilci 
+<Sync time="549.04"/>
+tradicionalno bolj previdni kakor ponudniki oblačil, a ne, 
+<Sync time="553.497"/>
+ampak sčasoma se bo to 
+<Sync time="556.293"/>
+spremenilo, a ne, tudi veste, da v Sloveniji je bilo mogoče še dve leti nazaj, 
+<Sync time="560.303"/>
+je bilo prevladujoče plačilo keš plačilo, ne, v denarju, a ne, to se zdaj spreminja, a ne. 
+<Sync time="565.039"/>
+Nam mogoče gre tudi vse skupaj malo na roko. 
+<Sync time="567.386"/>
+Drugače pa ja, do() vloga Mihe in Dejana je tukaj zelo pomembna, nam tudi pomagajo, 
+<Sync time="572.459"/>
+mislim, da tudi, #eee, neki korekten pristop do trgovcev, o() d() da jim razložiš, da to ni neki tabu. 
+<Sync time="579.566"/>
+In, #eee, mislim, da zdaj v tem času je mogoče lažje komunicirati, #eee, in tudi sprejemati te spremembe, a ne. 
+</Turn>
+<Turn speaker="spk1" startTime="585.906" endTime="619.097" fidelity="high">
+<Sync time="585.906"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="586.849"/>
+Zdaj smo pogledali na, #eee, izzive, #eee, in na digitalizacijo v BTC City, poglejmo še širše slovensko. 
+<Sync time="593.816"/>
+Gospod Lamperger, Obrtna zbornica Slovenije 
+<Sync time="596.833"/>
+si zagotovo želi olajšati svojim članom 
+<Sync time="599.385"/>
+poslovanje, kar ga je 
+<Sync time="600.941"/>
+ostalo v teh čudnih časih. Kakšni so 
+<Sync time="603.909"/>
+ti, #e, koraki v smer povečevanja števila digitalnih plačil, 
+<Sync time="608.3"/>
+omogočanja digitalizacije poslovanja 
+<Sync time="611.418"/>
+tudi najmanjšim podjetjem v tem trenutku in kje v bistvu sploh Slovenija je pri digitalizaciji poslovanja? 
+<Background time="612.768" type="other" level="high"/>
+
+<Background time="618.239" type="other" level="off"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="619.097" endTime="663.37" fidelity="high">
+<Sync time="619.097"/>
+Ja, najlepša hvala za vprašanje, jaz bom vendarle uvodoma izkoristil, #e, in na tem mestu čestital ekipi Eli Pos za lansiranje res, #e, uporabnega produkta in storitve, 
+<Sync time="628.594"/>
+za katerega verjamemo, da bo olajšala poslovanje marsikateremu, 
+<Sync time="632.853"/>
+#e, malemu obrtniku in podjetniku. 
+<Sync time="634.712"/>
+Zdaj kaj se našega gledišča tiče, 
+<Sync time="637.164"/>
+bi izpostavil ravno to, kar ste me pravzaprav vprašali, ne, Slovenija je tudi navidezno zelo pokritemu trgu glede možnosti plačila s karticami 
+<Sync time="645.097"/>
+še vedno, 
+<Sync time="646.829"/>
+#eee, na točki, kjer je izredno veliko, poleg tistih, ki pravzaprav, subjektov, ne, ki pravzaprav sploh ne prejemajo nobenega in ne omogočajo plačila niti s kreditnimi karci() 
+<Sync time="657.103"/>
+karticami, 
+<Sync time="657.91"/>
+kaj šele s kakšnimi kriptovalutami. Mi ocenjujemo, da je cirka trideset tisoč takih poslovni() ...
+</Turn>
+<Turn startTime="663.37" endTime="672.08">
+<Sync time="663.37"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="672.08" endTime="690.382" fidelity="high">
+<Sync time="672.08"/>
+... kot pa pravilo, recimo, vse ostale storitve recimo, manjša obrtna dela servisna, dela 
+<Sync time="676.815"/>
+inštalacije, pleskarska dela, celo taksi je takšen, da prej izjema kot pravilo, da ga lahko s kratico plačaš. 
+<Sync time="682.401"/>
+Recimo tudi šokirani boste, da je recimo več kot 
+<Sync time="684.908"/>
+sedemdeset procentov vseh slovenskih frizerjev še vedno ima vezano knjigo računov, a ne, sploh nimajo davčnih blagajn. 
+</Turn>
+<Turn startTime="690.382" endTime="700.695">
+<Sync time="690.382"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="700.695" endTime="736.43" fidelity="high">
+<Sync time="700.695"/>
+... možnosti in jih seznaniti z rešitvami, ki so v slovenskem trgu in, veseli smo, da so plod slovenskega znanja, 
+<Sync time="705.67"/>
+tako da potencial tega je res izredno velik, ne, in kdo si ne bi recimo pa želel, 
+<Sync time="709.875"/>
+da tako malo se pošalim, recimo, svojega pleskarja doma, a ne, ko, ko 
+<Sync time="714.246"/>
+se vedno malo treseš, koliko bo prišel račun, ne, morda pa vendarle na licu mesta s plačilno kartico plačati, kot pa da, 
+<Sync time="721.645"/>
+#e, skačeš potem nekam na bankomat ali pa karkoli podobnega ali pa da plačuješ po predračunu. Tako da potencial je velik, 
+<Sync time="727.343"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ torej, 
+<Sync time="728.376"/>
+#eee, mi smo zadovoljni in, #eee, verjamem, da bomo lahko tudi, #e, z 
+<Sync time="732.5"/>
+zbornično mrežo prispevali 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ k nadaljnjemu razvoju pro(). 
+</Turn>
+<Turn speaker="spk1" startTime="736.43" endTime="745.344" fidelity="high">
+<Sync time="736.43"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="736.954"/>
+#E, mogoče, gospod Lamperger, kje so pa glavni zadržki teh 
+<Sync time="740.548"/>
+trideset tisoč v bistvu ponudnikov, ki ste jih omenili, ki še vedno poslujejo samo ... 
+</Turn>
+<Turn startTime="745.344" endTime="755.07">
+<Sync time="745.344"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="755.07" endTime="778.07" fidelity="high">
+<Sync time="755.07"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+z gotovino, 
+<Sync time="756.562"/>
+vendar imajo pa to priložnost, da svojo podjetje, ne, spravijo na neko boljšo konkurenčni nivo, 
+<Sync time="763.086"/>
+da to tudi dejansko na licu mesta omogočijo, ne, mi zdaj recimo, tako kot sem prej omenjal, imamo številne servisne dejavnosti, 
+<Sync time="769.576"/>
+ki pridejo k vam, vam opravijo storitev na vašem domu in tako naprej, one ne poslujejo z gotovino kot tako, a ne, 
+<Sync time="775.706"/>
+vendar pa imajo pa zdajle tukaj rešitev ... 
+</Turn>
+<Turn startTime="778.07" endTime="788.518">
+<Sync time="778.07"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="788.518" endTime="803.416" fidelity="high">
+<Sync time="788.518"/>
+... in ali dejavnosti ki, so že ampak, predvsem ostale dejavnosti lahko s takim 
+<Sync time="794.099"/>
+s takimi, 
+<Sync time="794.99"/>
+#eee, recimo, da, da, da ponudijo strankam, ki pa nedvoumno želijo plačevati s karticami, ne, 
+<Sync time="800.792"/>
+da jim to ponudijo in to tudi za njih lahko neka konkurenčna prednost. 
+</Turn>
+<Turn startTime="803.416" endTime="804.954">
+<Sync time="803.416"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="804.954" endTime="817.741" fidelity="high">
+<Sync time="804.954"/>
+#Eee, gospod Culiberg, eden izmed 
+<Sync time="807.282"/>
+izzivov pri digitalizaciji plačil je zagotovo tudi varnost. 
+<Sync time="811.825"/>
+Kako ste v vašem primeru zadostili zahtevam regulatorjev, nadzora, varnosti? 
+</Turn>
+<Turn startTime="817.741" endTime="824.165">
+<Sync time="817.741"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="824.165" endTime="853.872" fidelity="high">
+<Sync time="824.165"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ #Eee, gospod Roljič, v zadnjič mesecih vlada, kot ste že rekli, povečano zanimanje na področju alternativnih digitalnih, zlasti tudi kriptovalutnih plačil, 
+<Sync time="833.857"/>
+nekaj prednosti ste, #e, že omenili, 
+<Sync time="836.618"/>
+potencial tudi, mogoče vprašanje, 
+<Sync time="839.157"/>
+k() kaj bi svetovali nekomu, 
+<Sync time="841.152"/>
+ki nima čisto nič izkušenj s kriptovalutami, 
+<Sync time="844.265"/>
+bi pa, recimo, rad vstopil v svet plačevanja s kriptovalutami, na koga oziroma 
+<Sync time="849.436"/>
+kam naj se obrne po nasvet, kakšni so tisti prvi koraki, ki naj jih stori? 
+</Turn>
+<Turn startTime="853.872" endTime="863.724">
+<Sync time="853.872"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="863.724" endTime="959.841" fidelity="high">
+<Sync time="863.724"/>
+#E, če lahko samo dopolnim, 
+<Sync time="865.439"/>
+#eee, 
+<Sync time="866.264"/>
+to se popolnoma strinjam, ne, 
+<Sync time="868.131"/>
+#eee, tudi izobraževanje, 
+<Sync time="870.504"/>
+#eee, generalno, ne. 
+<Sync time="871.993"/>
+V BTC Cityju lahko že kar nekaj časa, a ne, 
+<Sync time="875.217"/>
+na primer, ko se obišče frizerja, ki je bil prej omenjen, ne, 
+<Sync time="877.904"/>
+pač plačajo s kriptovaluto, ne. 
+<Sync time="880.159"/>
+Določenim, če gledam leto, dve nazaj, 
+<Sync time="882.897"/>
+je bilo to zanimivo, a ne, se pravi, da se ta možnost ponudi in tudi strankam je bilo zanimivo, 
+<Sync time="888.424"/>
+da na primer plačajo 
+<Sync time="890.226"/>
+pri frizerju 
+<Sync time="891.529"/>
+s tokeni od, #e, GoCrypta, ne, konkretno, ne. 
+<Sync time="894.729"/>
+In to se mi zdi neki tak proces učenja, 
+<Sync time="897.141"/>
+#e, kaj se je pa zdaj zgodilo v zadnjem obdobju s covidom, ne, se tudi, #e, mogoče manjša 
+<Sync time="902.712"/>
+zaupanje v določene trajne 
+<Sync time="904.934"/>
+poznane valute tipa dolar, #e, evro in tako naprej, a ne, je to še dodaten booster 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ temu trgu, in tako kot pravi Dejan, 
+<Sync time="911.413"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+dva soseda skregata, 
+<Sync time="913.376"/>
+en kupuje pri petsto procentih, a ne. 
+<Sync time="915.737"/>
+Ampak na kaj smo pa mi ponosni, ne, je pa na to, da smo v BTC Cityju tudi 
+<Sync time="920.41"/>
+izobraževali ne samo trgovce, ampak tudi stranke, ne, ni() niso samo najmlajši, tudi starejši so se posluževali tega, ne. 
+<Sync time="927.455"/>
+Je pa tako, kot pravi Dejan, proces, ki bo še trajal, 
+<Sync time="930.743"/>
+#eem, ta, #eee, produkt, #eee, Eli Pos, a ne, se mi zdi pa res 
+<Sync time="935.589"/>
+odlično, ne, ker omogoča nekomu, ki bo 
+<Sync time="938.02"/>
+doživljenjsko zvest 
+<Sync time="939.718"/>
+eni plačilni kartici, ni problema, ne. 
+<Sync time="943.11"/>
+#Eee, mi pa verjamemo, da+bo šlo itak v smer, da se bo uporabljalo pač, #eee, več teh načinov plačila, 
+<Sync time="949.132"/>
+in, #e, 
+<Sync time="950.342"/>
+mislim, da se je kar, #e, dobra pot, #e, tlakovala, 
+<Sync time="953.355"/>
+v smislu, da se je obiskovalce navajalo na nove načine plačevanja, ne. 
+<Sync time="957.961"/>
+Tako da na to sem kar ponosen. 
+</Turn>
+<Turn speaker="spk1" startTime="959.841" endTime="978.715" fidelity="high">
+<Sync time="959.841"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="960.664"/>
+Če ostaneva pri, #e, obiskovalcih, pri vaših kupcih, 
+<Sync time="964.342"/>
+so, #eee, tudi tisti lahko gonilo, 
+<Sync time="967.292"/>
+#eee, 
+<Sync time="968.244"/>
+ki s svojimi željami ustvarjajo 
+<Sync time="970.642"/>
+povpraševanje po 
+<Sync time="972.275"/>
+novejših, po digitalnih, #eee, rešitvah in tudi navsezadnje kriptovalutah, kot ste omenili? 
+</Turn>
+<Turn speaker="spk2" startTime="978.715" endTime="1054.07" fidelity="high">
+<Sync time="978.715"/>
+Ja, sigurno, ne, ampak jaz mislim, da so trije faktorji, ne. 
+<Sync time="982.222"/>
+Eno je, kaj ponuja 
+<Sync time="984.219"/>
+mogoče neki velik sistem, 
+<Sync time="986.001"/>
+saj poglejte primer, ne, zdajle smo odprli Ikeo, 
+<Sync time="988.353"/>
+tako kot nastopi Ikea, to zelo hitro se potem, #eee, sprejema, kaj ponujajo, oni so 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+
+<Sync time="994.483"/>
+covid, pa niso vedeli, ali bojo odprte ali ne bojo odprti, so zelo močno štartali s spletno prodajo pri rezervacijskem sistemu, kdo lahko sploh pride, a ne, 
+<Sync time="1002.79"/>
+in ljudje so se zelo hitro prilagodili tudi, a ne. 
+<Sync time="1005.709"/>
+Po drugi strani, tako kot pravi Dejan, tudi, #eee, stranke same, 
+<Sync time="1009.129"/>
+#eee, generirajo neko obliko povpraševanja, ne. 
+<Sync time="1012.568"/>
+Zdaj če je boost, #eee, neke kriptozgodbe, 
+<Sync time="1015.401"/>
+je to sigurno aktualno, ne. 
+<Sync time="1018.027"/>
+
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+ mi vsi skupaj, kako 
+<Sync time="1020.17"/>
+prijazne, na primer, produkte ali pa predvsem, bi rekel, enostavne damo na trg, ne, ker zdaj v poplavi sporočil, 
+<Sync time="1027.603"/>
+#eee, gledam na primer tudi, #eee, karkoli mi objavljamo, ne, #e #e, 
+<Sync time="1032.53"/>
+moraš skrbno izbirati, katera sporočila sploh daješ na trg, da si slišan, ne. 
+<Sync time="1037.143"/>
+#Eee, kaj šele, #e, kakšne produkte, ne, in smiselno je, bolj ke je enostaven produkt, ne, bolj ke je simple uporaba 
+<Sync time="1043.553"/>
+za tistega, ki ponuja, in tisti, ke sprejema, 
+<Sync time="1046.246"/>
+#e, lažje boš, #eee, uspešen, ne, se pravi, da 
+<Sync time="1049.061"/>
+prodreš do, 
+<Sync time="1050.276"/>
+#eee, neke stranke, ne, se pravi mora prvo sploh izvedeti, kaj ponujaš, ne. 
+</Turn>
+<Turn startTime="1054.07" endTime="1067.488">
+<Sync time="1054.07"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1067.488" endTime="1101.029" fidelity="high">
+<Sync time="1067.488"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ #Eem, 
+<Sync time="1068.614"/>
+gospod Lamperger, Slovenija je še vedno pod tem evropskim povprečjem, če gledamo na področje digitalizacije poslovanja. 
+<Sync time="1075.775"/>
+#E, omenila sva prej, da je, #eem, tukaj kar nekaj 
+<Sync time="1079.837"/>
+možnosti izboljšav. Kaj recimo Obrtna zbornica dela 
+<Sync time="1083.912"/>
+na tem področju, 
+<Sync time="1085.331"/>
+da bi, #e, čim bolj osveščala ponudnike, 
+<Sync time="1089.321"/>
+#eee, ponudnike izdelkov, ponudnike storitev 
+<Sync time="1092.394"/>
+na tej poti in, #e, in pokazala mogoče, 
+<Sync time="1095.928"/>
+#eem, kakšne so prednosti 
+<Sync time="1097.691"/>
+korakov v digitalno prihodnost? 
+</Turn>
+<Turn speaker="spk3" startTime="1101.029" endTime="1201.6" fidelity="high">
+<Sync time="1101.029"/>
+Zdaj, #eee, 
+<Sync time="1102.399"/>
+mi svda delamo na področju digitalizacije drobnega gospodarstva, najrazličnejše aktivnosti, 
+<Sync time="1108.57"/>
+ključna pa seveda je pa ozaveščanje in približevanje vseh najnovejših, #eee, 
+<Sync time="1113.906"/>
+#eee, produktov in storitev, ki so na tem področju na trgu, 
+<Sync time="1118.078"/>
+do njih, da jih lahko začnemo uporabljati, ne. 
+<Sync time="1120.867"/>
+Ta zgodba je tudi e() točno ena izmed teh, ne, mi pač želimo 
+<Sync time="1124.444"/>
+naše člane, obrtnike, podjetnike, tudi širše, ne, ozavestiti, da lahko 
+<Sync time="1129.399"/>
+na enostaven način, ker je bilo prejle 
+<Sync time="1131.518"/>
+zelo izpostavljeno, ne, 
+<Sync time="1133.122"/>
+da ne rabijo biti tukaj zato, 
+<Sync time="1135.271"/>
+#eee, ne vem, kako, #eee, d() digitalno recimo pismeni, ampak da bojo dobili napravo, ki jim bo pa do strank omogočala, a ne, 
+<Sync time="1143.859"/>
+da bo stranka pravzaprav na eni napravi 
+<Sync time="1146.519"/>
+lahko lahko(), 
+<Sync time="1148.024"/>
+#eee, se pravi, plačala s katerokoli metodo je stranka navajena, ne, mi nismo inštitucija, ki bi zdaj 
+<Sync time="1153.435"/>
+stranke kot take, #e, izobraževala, pa pač obrtnike, podjetnike, ki pač, 
+<Sync time="1158.178"/>
+#eee, s(), da se do teh strank lahko približajo, in kot sem omenil, mi vidimo tukaj največjo priložnost ravno v tem, ne, 
+<Sync time="1164.091"/>
+da tam, ko še ni, ne, ker mi, tako kot sem rekel, 
+<Sync time="1166.862"/>
+izredno veliko polje, bi bili presenečeni, če bi vedeli, kako veliko polje pravzaprav teh, ne, 
+<Sync time="1172.228"/>
+ki ne sprejemajo, a ne, ker mi gledamo zelo širše, po celotni Sloveniji, ne samo recimo Ljubljana pa urbana središča, 
+<Sync time="1178.242"/>
+katera že zdaj strankam omogočajo, da, da plačajo z različnejšimi karticami, ne. 
+<Sync time="1182.768"/>
+Ampak marsikje drugje pa ne 
+<Sync time="1185.04"/>
+in marsikatero storitev ne, in tukaj mi želijo ta preboj narediti in verjamemo, da ta produkt je res 
+<Sync time="1190.245"/>
+takšen, da 
+<Sync time="1191.401"/>
+lahko to ponudi, ne, in obrtniki in podjetniki pravzaprav, koliko smo mi lahko se seznanili s produktom, 
+<Sync time="1197.072"/>
+je res enostaven njim za uporabo, 
+<Sync time="1199.786"/>
+zato da lahko ga stranki ponudimo. 
+</Turn>
+<Turn speaker="spk1" startTime="1201.6" endTime="1213.436" fidelity="high">
+<Sync time="1201.6"/>
+#Mhm, hvala. 
+<Sync time="1202.846"/>
+#Eee, 
+<Sync time="1203.843"/>
+gospod Culiberg, a lahko plastično mogoče 
+<Sync time="1206.956"/>
+predstaviva, kako v praksi, 
+<Sync time="1209.373"/>
+#eee, izgleda ta androidni 
+<Sync time="1212.111"/>
+Eli Pos? 
+</Turn>
+<Turn startTime="1213.436" endTime="1224.547">
+<Sync time="1213.436"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1224.547" endTime="1302.169" fidelity="high">
+<Sync time="1224.547"/>
+Tako, slišali smo 
+<Sync time="1226.102"/>
+tudi vaše partnerje in prve odzive. 
+<Sync time="1228.749"/>
+Zdaj pa smo, so naši sogovorniki na voljo tudi za prva vprašanja s strani novinarjev, ki so se nam pridružili, 
+<Sync time="1236.265"/>
+naši virtualni konferenčni sobi. 
+<Sync time="1239.484"/>
+Torej, dragi novinarji, 
+<Sync time="1241.057"/>
+#eem, predlagam, da vprašate, izkoristite naše goste in jih vprašate, če mogoče 
+<Sync time="1246.744"/>
+na kaj še nismo odgovorili. 
+<Sync time="1248.876"/>
+#Eem, medtem ko čakamo, da se prvi 
+<Sync time="1251.507"/>
+javi k vprašanju, 
+<Sync time="1254.512"/>
+predlagam, da pogledamo še vprašanja, ki smo jih prejeli 
+<Sync time="1258.517"/>
+preko, #eem, spletne pošte, imamo mogoče trenutno že koga 
+<Sync time="1263.83"/>
+z vprašanjem tukaj? 
+<Sync time="1265.52"/>
+Sicer pa gremo na prvo vprašanje 
+<Sync time="1268.667"/>
+preko naše 
+<Sync time="1270.36"/>
+spletne pošte, sta afna v živo, #eee, 
+<Sync time="1274.91"/>
+klub 
+<Sync time="1275.705"/>
+sta afna sta pika si, je 
+<Sync time="1279.508"/>
+elektronski naslov, na katerem smo dobili kar nekaj vprašanj. 
+<Sync time="1283.235"/>
+In sicer, 
+<Sync time="1284.581"/>
+ali obstajajo, 
+<Sync time="1286.204"/>
+to bo gotovo, #eee, 
+<Sync time="1287.937"/>
+vprašanje za 
+<Sync time="1289.416"/>
+gospoda Lampergerja ali gospoda Roljiča, ali obstajajo kakšni podatki, 
+<Sync time="1294.023"/>
+ocene o tem, koliko uporabnikov v Sloveniji že plačuje s kriptovalutami? 
+<Sync time="1299.176"/>
+Imamo že 
+<Sync time="1300.393"/>
+mogoče podatek o tem? 
+</Turn>
+<Turn startTime="1302.169" endTime="1314.173">
+<Sync time="1302.169"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1314.173" endTime="1333.77" fidelity="high">
+<Sync time="1314.173"/>
+#Eee, še eno vprašanje imam, #e, s področja kriptovalut, 
+<Sync time="1319.086"/>
+kriptovalute in novi načini plačevanja prinašajo tudi poslovne priložnosti za podjetja, 
+<Sync time="1324.606"/>
+ki se ukvarjajo z razvojem tehnologij in produktov na tem področju. 
+<Sync time="1328.614"/>
+Koliko podjetij ima Slovenija že v tem segmentu, kolikšna je vrednost te niše? 
+</Turn>
+<Turn startTime="1333.77" endTime="1348.799">
+<Sync time="1333.77"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1348.799" endTime="1437.755" fidelity="high">
+<Sync time="1348.799"/>
+No, p() pa saj lahko mogoče jaz drugače odgovorim, ne, 
+<Sync time="1352.201"/>
+saj, #e, 
+<Sync time="1353.203"/>
+če pogledamo samo startupe, ne, določeni so imeli uspešen, #eee, 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, a ne, ali pa so drugače generirali kapital, 
+<Sync time="1361.811"/>
+in ki je bil prej omenjen, na primer origin 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, ker ima vzporeden protokol 
+<Sync time="1366.036"/>
+na temo blockchain, a ne, 
+<Sync time="1368.27"/>
+mislim, da so oni zelo uspešni, ne, in če gledamo samo potencial startupov ali pa na primer, #eee, primer, #eee, Dejanovga podjetja ali pa od Mihe podjetja, ne, 
+<Sync time="1377.049"/>
+če bojo sami fantje nekoč naredili exit, 
+<Sync time="1379.603"/>
+je velik potencial za slovenski trg, ne, kar se tiče pa samih korporacij, 
+<Sync time="1383.64"/>
+ključni izziv je to, da te novosti, na primer, tako kot je blockchain, ne, kdaj ali pa 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, kdaj se kaj 
+<Sync time="1390.158"/>
+vpelje v te standardne procese, ne. 
+<Sync time="1392.771"/>
+To pa lahko, da bo trajalo pač še leta in leta, a ne. 
+<Sync time="1395.265"/>
+Zdaj, točno to, kar smo mi na primer tudi testirali, #eee, 
+<Sync time="1399.159"/>
+na temo blockchaina, del verige ali pa sledljivost, #e, teh produktov v logistiki, ne, 
+<Sync time="1404.262"/>
+to so bili za naš pilotski projekti, ne, ampak 
+<Sync time="1406.932"/>
+trenutno zmaguje na tem trgu startup kot origin 
+<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+, preden bo pa to integriral v segment logistike pa, lahko da, bo pač trajalo leta. 
+<Sync time="1414.916"/>
+Isto, kakor na primer bo trajalo leta, da se bo na logistiki popolnoma avtomatiziralo delovne procese, a ne. 
+<Sync time="1420.962"/>
+Potencial, 
+<Sync time="1422.115"/>
+to je pa zdaj stvar špekulacije, a ne. Jaz mislim, da je to, da so to večmilijardni potenciali, a ne, 
+<Sync time="1426.93"/>
+#eee, na trgu, ne, zdaj pa 
+<Sync time="1428.823"/>
+tisto, ke bi vedel, 
+<Sync time="1430.326"/>
+bi mogel še tudi 
+<Sync time="1431.253"/>
+bitcoin kupoval 
+<Sync time="1432.567"/>
+sedem let nazaj, osem let nazaj pa mogoče še dve pa pol leti nazaj, ne, bi bilo tudi v redu. 
+</Turn>
+<Turn speaker="spk1" startTime="1437.755" endTime="1456.221" fidelity="high">
+<Sync time="1437.755"/>
+Imamo še eno vprašanje, in sicer, #eem, kakšna je izkušnja 
+<Sync time="1442.963"/>
+pri terminalu Eli Pos za kupca, ali je plačevanje pri vseh podprtih storitvah brezstično 
+<Sync time="1449.693"/>
+ali, #e, gre tudi 
+<Sync time="1451.66"/>
+na kakšen drug inovativen način? 
+<Sync time="1453.93"/>
+To je pa za gospoda Culiberga vprašanje. 
+</Turn>
+<Turn startTime="1456.221" endTime="1469.285">
+<Sync time="1456.221"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1469.285" endTime="1504.88" fidelity="high">
+<Sync time="1469.285"/>
+#Mhm. 
+<Event desc="breath" type="noise" extent="instantaneous"/>
+
+<Sync time="1470.191"/>
+#E, to je bilo vprašanje, ki ga je v chatu zastavil Matjaž Ropret. 
+<Sync time="1473.869"/>
+Tudi na chat vabim, vsi novinarji, ki ste se nam pridružili, 
+<Sync time="1477.812"/>
+če bi kdo imel kakšno vprašanje, 
+<Sync time="1479.795"/>
+#eee, lahko tudi na tak način zastavi pa ga bom zastavila sama. 
+<Sync time="1484.041"/>
+#Eee, še eno vprašanje imamo 
+<Sync time="1486.202"/>
+z vidika podjetnikov trgovcev, #eee, tudi za Miho. 
+<Sync time="1489.9"/>
+Kakšen je praktičen postopek z vidika za podjetnika trgovca, ki bi rad uporabljal Eli Pos, na koga se obrne, 
+<Sync time="1496.986"/>
+dobi neko usposabljanje za uporabo? 
+<Sync time="1499.313"/>
+Kakšen je vstopni ali sprotni strošek potem zanj, zato da ima Eli Pos? 
+</Turn>
+<Turn startTime="1504.88" endTime="1516.323">
+<Sync time="1504.88"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1516.323" endTime="1528.347" fidelity="high">
+<Sync time="1516.323"/>
+#Mhm. 
+<Sync time="1517.115"/>
+Pa še eno vprašanje, 
+<Sync time="1518.696"/>
+kakšne načrte oziroma cilje imate za produkt Eli Pos, kakšni so srednjeročni cilji glede števila prodajnih točk, 
+<Sync time="1526.035"/>
+kjer bi bil v uporabi Eli Pos? 
+</Turn>
+<Turn startTime="1528.347" endTime="1542.279">
+<Sync time="1528.347"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1542.279" endTime="1558.151" fidelity="high">
+<Sync time="1542.279"/>
+Nekaj skrivnosti vseeno ostaja, ampak verjamem pa, da smo na ostale skrivnosti danes odgovorili in tudi na več vprašanj. 
+<Sync time="1550.842"/>
+Bi mogoče 
+<Sync time="1552.124"/>
+želel kdo za zaključek 
+<Sync time="1554.108"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+ še zaključne besede pod črto, mogoče Miha? 
+</Turn>
+<Turn startTime="1558.151" endTime="1575.938">
+<Sync time="1558.151"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1575.938" endTime="1632.895" fidelity="high">
+<Sync time="1575.938"/>
+Najlepša hvala vsem vam, spoštovani gostje, 
+<Sync time="1578.706"/>
+predvsem tudi vsem gledalcem, 
+<Sync time="1581.033"/>
+približno tristo šestdeset jih je trenutno z nami, 
+<Sync time="1584.53"/>
+vsem, ki ste zastavili vprašanje in tako odkrili 
+<Sync time="1587.658"/>
+še kakšno, #eem, 
+<Sync time="1589.352"/>
+skrivnost, ki bi mogoče bila 
+<Sync time="1592.281"/>
+v tem trenutku še skrita. 
+<Sync time="1594.791"/>
+Popravljam številko, pozdravljam vseh štiristo gledalcev v živo, 
+<Sync time="1598.908"/>
+torej hvala vsem, ki ste bili, #eee, z nami, verjamemo, 
+<Sync time="1602.272"/>
+da je prihodnost še bolj digitalna in da je tudi Slovenija z velikimi koraki 
+<Sync time="1608.066"/>
+na poti v njo oziroma z eno nogo že tam, drugo bomo pa 
+<Sync time="1613.371"/>
+hitreje premaknili, 
+<Sync time="1615.024"/>
+in verjamem, da, #e, bo tudi projekt, ki smo ga danes 
+<Sync time="1618.739"/>
+predstavili, del te zgodbe. 
+<Sync time="1620.987"/>
+Hvala še enkrat vsem 
+<Sync time="1622.889"/>
+v imenu Slovenske tiskovne agencije in STA kluba, 
+<Sync time="1625.835"/>
+hvala tudi za pozornost in do naslednjič, do naslednjega projekta. Srečno in na svidenje! 
+</Turn>
+</Section>
+</Episode>
+</Trans>
