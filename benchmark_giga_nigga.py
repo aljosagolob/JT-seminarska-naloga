@@ -1,4 +1,5 @@
 import os
+import time
 import torch
 import soundfile as sf
 from pyannote.audio import Pipeline
@@ -10,6 +11,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 token = os.getenv("HF_TOKEN")
+
+DATASET_TIME_LIMIT = 300 # In seconds
 
 # ── M O D E L S ───────────────────────────────────────────────────────────────
 MODELS = [
@@ -67,9 +70,19 @@ for model_name in MODELS:
         # Per-file records for length analysis
         records = []
 
+        dataset_start = time.time()
+        timed_out = False
+
         for audio_file in os.listdir(audio_dir):
             if not audio_file.endswith(".wav"):
                 continue
+
+            #   T I M E O U T   C H E C K
+            elapsed = time.time() - dataset_start
+            if elapsed >= DATASET_TIME_LIMIT:
+                print(f"  ⏱  Time limit reached ({DATASET_TIME_LIMIT/3600:.1f}h) — stopping early.")
+                timed_out = True
+                break
 
             file_name  = os.path.splitext(audio_file)[0]
             audio_path = os.path.join(audio_dir, audio_file)
@@ -83,7 +96,8 @@ for model_name in MODELS:
             info = sf.info(audio_path)
             duration = info.duration
 
-            print(f"  Processing {file_name} ({duration:.1f}s)...")
+            elapsed_str = time.strftime("%H:%M:%S", time.gmtime(time.time() - dataset_start))
+            print(f"  Processing {file_name} ({duration:.1f}s) [elapsed {elapsed_str}]...")
 
             with ProgressHook() as hook:
                 output = pipeline(audio_path, hook=hook)
@@ -115,12 +129,18 @@ for model_name in MODELS:
 
             print(f"    DER={der:.3f}  JER={jer:.3f}  Miss={miss:.3f}  FA={false_alarm:.3f}  Conf={confusion:.3f}")
 
-        # ── W R I T E   R E S U L T S ─────────────────────────────────────────
+        total_elapsed = time.time() - dataset_start
+
+         #   W R I T E   R E S U L T S
         with open(result_file, "w", buffering=1) as result:
             result.write(f"Model: {model_name}\n")
             result.write(f"Dataset: {dataset}\n")
+            if timed_out:
+                result.write(f"NOTE: Run stopped early — time limit of {DATASET_TIME_LIMIT/3600:.1f}h reached.\n")
+                result.write(f"      Only {len(records)} file(s) were processed.\n")
+            result.write(f"Total elapsed: {time.strftime('%H:%M:%S', time.gmtime(total_elapsed))}\n")
             result.write("=" * 60 + "\n\n")
-
+ 
             # Per-file results
             result.write("PER FILE:\n")
             result.write(f"{'File':<30} {'Dur(s)':>7} {'DER':>7} {'JER':>7} {'Miss':>7} {'FA':>7} {'Conf':>7}\n")
@@ -130,7 +150,7 @@ for model_name in MODELS:
                     f"{r['file']:<30} {r['duration']:>7.1f} {r['der']:>7.3f} "
                     f"{r['jer']:>7.3f} {r['miss']:>7.3f} {r['false_alarm']:>7.3f} {r['confusion']:>7.3f}\n"
                 )
-
+ 
             # Overall averages
             if records:
                 result.write("\n" + "=" * 60 + "\n")
@@ -138,20 +158,21 @@ for model_name in MODELS:
                 for metric in ["der", "jer", "miss", "false_alarm", "confusion"]:
                     avg = sum(r[metric] for r in records) / len(records)
                     result.write(f"  Avg {metric.upper():<12} = {avg:.3f}\n")
-
+ 
             # Per bucket analysis
             result.write("\n" + "=" * 60 + "\n")
             result.write("BY AUDIO LENGTH:\n")
             buckets = {}
             for r in records:
                 buckets.setdefault(r["bucket"], []).append(r)
-
+ 
             for bucket, bucket_records in sorted(buckets.items()):
                 result.write(f"\n  {bucket} — {len(bucket_records)} file(s)\n")
                 for metric in ["der", "jer", "miss", "false_alarm", "confusion"]:
                     avg = sum(r[metric] for r in bucket_records) / len(bucket_records)
                     result.write(f"    Avg {metric.upper():<12} = {avg:.3f}\n")
-
-        print(f"  Results saved to {result_file}")
+ 
+        status = "⏱  partial (timed out)" if timed_out else "✓ complete"
+        print(f"  Results saved to {result_file} [{status}]")
 
 print("\nDone!")
