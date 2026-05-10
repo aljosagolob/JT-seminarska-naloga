@@ -39,7 +39,7 @@ print("Pipeline loaded...")
 
 #   M O V E   T O   G P U   I F   A V A I L A B L E
 if torch.cuda.is_available():
-    diarization_pipeline.to("cuda")
+    diarization_pipeline.to(torch.device("cuda"))
 
 #   L O A D   A U D I O
 audio_file = "datasets/artur-j/wav/Artur-J-Gvecg-P500030-avd.wav"
@@ -71,7 +71,7 @@ whisper_model = whisper.load_model("small")
 
 #   M O V E   T O   G P U   I F   A V A I L A B L E
 if torch.cuda.is_available():
-    whisper_model = whisper_model.to("cuda")
+    whisper_model = whisper_model.to(torch.device("cuda"))
 
 #   C O M B I N E
 print("\n=== ANNOTATED TRANSCRIPT ===")

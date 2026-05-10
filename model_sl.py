@@ -39,7 +39,8 @@ print("Pipeline loaded...")
 
 #   M O V E   T O   G P U   I F   A V A I L A B L E
 if torch.cuda.is_available():
-    diarization_pipeline.to("cuda")
+    print("Running on cuda")
+    diarization_pipeline.to(torch.device("cuda"))
 
 #   L O A D   A U D I O
 audio_file = "datasets/artur-j/wav/Artur-J-Gvecg-P500030-avd.wav"
