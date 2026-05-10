@@ -3,3 +3,5 @@ venv
 .env
 data
 audio.wav
+datasets/benchmark/VoxConverse/audio
+*wav

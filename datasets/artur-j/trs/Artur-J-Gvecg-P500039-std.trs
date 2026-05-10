@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Mitja" audio_filename="Artur-J-Gvecg-P500039-avd" version="4" version_date="220120">
+<Topics>
+<Topic id="to1" desc="Spletni dogodek"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Artur-J-G3078" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="1031.960" topic="to1">
+<Turn startTime="0" endTime="1.845">
+<Sync time="0"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1.845" endTime="208.263" fidelity="high">
+<Sync time="1.845"/>
+Tako, zdaj pa, 
+<Sync time="2.55"/>
+#e, začenjamo. 
+<Sync time="5.48"/>
+Spoštovane in 
+<Sync time="6.546"/>
+spoštovani, vsi skupaj, 
+<Sync time="8.613"/>
+pozdravljeni na posvetu z delovnim naslovom 
+<Sync time="11.957"/>
+Etika v znanosti: O čem in zakaj akademska skupnost molči. 
+<Sync time="16.705"/>
+Moje ime je Nataša Briški, sem članica 
+<Sync time="19.337"/>
+komisije za enakost v znanosti, ki 
+<Sync time="21.861"/>
+organizira ta posvet 
+<Sync time="23.297"/>
+in, #eem, 
+<Sync time="24.815"/>
+skozi 
+<Sync time="25.612"/>
+katerega, 
+<Sync time="26.348"/>
+#e, nas bom vodila. 
+<Sync time="27.852"/>
+Znanost ima tudi v naši družbi nesporen, pozitiven, etičen predznak. Mimogrede, 
+<Sync time="34.144"/>
+po raziskavi agencije Valicon 
+<Sync time="36.818"/>
+ki meri zaupanje v različne poklice, 
+<Sync time="39.646"/>
+znanstvenice 
+<Sync time="40.842"/>
+in znanstveniki 
+<Sync time="42.727"/>
+zasedajo 
+<Sync time="43.927"/>
+visoko mesto, tretje, 
+<Sync time="45.957"/>
+ljudje so v tej raziskavi še bolj pozitivno ocenili le 
+<Sync time="50.025"/>
+gasilce in medicinske sestre. 
+<Sync time="53.328"/>
+Ni pa, 
+<Sync time="54.364"/>
+ker ni vse samo zlato, ki se sveti, znanost 
+<Sync time="57.548"/>
+ni imuna na 
+<Sync time="59.628"/>
+neetične prakse, zato bomo danes z 
+<Sync time="62.558"/>
+imenitnimi sogovorniki in sogovornicami tudi odprli to temo in razpravo. 
+<Sync time="68.796"/>
+Vsem se vam, 
+<Sync time="69.868"/>
+#e, zahvaljujem za vaš čas in, #e, modre misli, 
+<Sync time="73.527"/>
+ki jih boste namenili tej temi. 
+<Sync time="75.545"/>
+#E, podrobnosti glede izvedbe današnjega posveta kmalu, najprej pa prosim predsednico 
+<Sync time="81.634"/>
+Komisije za enakost v znanosti, profesorico doktorico Andrejo Gomboc, 
+<Sync time="86.243"/>
+za nekaj uvodnih 
+<Sync time="87.751"/>
+besed. 
+<Sync time="88.671"/>
+Hvala lepa, profesorica Gomboc, ja, ti dnevi, #e, 
+<Sync time="91.896"/>
+kar, #e, 
+<Sync time="92.816"/>
+intenzivno aktivni, 
+<Sync time="94.503"/>
+torej v 
+<Sync time="95.402"/>
+panelni razpravi, v kateri se bomo pogovarjali o tem, kdo odloča o vprašanjih, #eee, 
+<Sync time="100.494"/>
+etike in integritete v Sloveniji, kakšna so merila, izkušnje, 
+<Sync time="104.71"/>
+mednarodna praksa, in, 
+<Sync time="106.767"/>
+#e, predlagali tudi konkretne rešitve in 
+<Sync time="109.33"/>
+priporočila za naprej. 
+<Sync time="111.321"/>
+#E, bodo z nami 
+<Sync time="112.638"/>
+profesor doktor Zdravko Kačič, rektor univerze 
+<Sync time="115.964"/>
+v Mariboru in, #e, predsednik rektorske konference, pa, 
+<Sync time="119.748"/>
+#e, doktorica Jana Javornik, #eem, 
+<Sync time="122.504"/>
+Leeds University, do nedavnega pa generalna direktorica 
+<Sync time="126.279"/>
+Direktorata za visoko šolstvo, 
+<Sync time="128.86"/>
+profesor doktor, #eee, Gregor Anderluh, direktor 
+<Sync time="132.305"/>
+Kemijskega inštituta, predsednik, #e, Koordinacije samostojnih 
+<Sync time="135.792"/>
+raziskovalnih inštitutov Slovenije, pa doktorica Alma Sedlar, 
+<Sync time="139.365"/>
+Transparency International Slovenija, 
+<Sync time="141.486"/>
+in profesorica doktorica 
+<Sync time="143.863"/>
+Alenka Zupančič, #e, znanstvena svetnica in redna profesorica, 
+<Sync time="148.943"/>
+zaposlena na Filozofskem inštitutu 
+<Sync time="151.906"/>
+ZRC 
+<Sync time="152.799"/>
+SAZU. 
+<Sync time="153.622"/>
+#Eee, 
+<Sync time="154.092"/>
+vam želim res, #e, lep pozdrav, najprej pa, 
+<Sync time="158.009"/>
+da nekako postavimo, 
+<Sync time="159.986"/>
+#eee, ogrodje današnji 
+<Sync time="161.873"/>
+razpravi, 
+<Sync time="162.926"/>
+#eee, 
+<Sync time="163.457"/>
+pa bosta 
+<Sync time="164.607"/>
+doktorica 
+<Sync time="165.645"/>
+Urša Opara Krašovec, 
+<Sync time="167.572"/>
+ki prihaja s Fakultete za elektrotehniko Univerze v Ljubljani in je tudi sicer članica Komisije za 
+<Sync time="173.545"/>
+enake možnosti na področju znanosti, bo predstavila, 
+<Sync time="176.729"/>
+kakšne so bile 
+<Sync time="178.732"/>
+aktivnosti naše komisije, kaj se je v preteklosti naredilo. 
+<Sync time="182.881"/>
+#E, najprej pa k besedi vabim 
+<Sync time="185.17"/>
+prav tako, #e, člana Komisije za enake možnosti, 
+<Sync time="188.273"/>
+#e, na področju znanosti, doktorja Saša 
+<Sync time="190.808"/>
+Dolenca, 
+<Sync time="192.198"/>
+in sicer, 
+<Sync time="193.298"/>
+da predstavi rezultate ankete 
+<Sync time="196.489"/>
+o pojavnih oblikah 
+<Sync time="198.282"/>
+kršenja pravil 
+<Sync time="199.703"/>
+in vrednot, 
+<Sync time="201.256"/>
+#e, znanosti 
+<Sync time="202.537"/>
+na ...
+<Sync time="203.329"/>
+Kriminologija 
+<Sync time="204.346"/>
+slovenske 
+<Sync time="205.22"/>
+znanosti. 
+<Sync time="206.382"/>
+Doktor Dolenc, 
+<Sync time="207.486"/>
+izvolita. 
+</Turn>
+<Turn startTime="208.263" endTime="210.031">
+<Sync time="208.263"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="210.031" endTime="831.533" fidelity="high">
+<Sync time="210.031"/>
+Hvala lepa, doktor Dolenc, 
+<Sync time="212.131"/>
+za 
+<Sync time="212.724"/>
+to predstavitev in za delo, ki ga na tem področju, 
+<Sync time="215.826"/>
+#e, namenjate in delate, sploh v okviru Kvarkadabre, in hvala za, 
+<Sync time="220.286"/>
+#e, vrsto iztočnic 
+<Sync time="222.176"/>
+ki bodo služile, #eee, 
+<Sync time="224.128"/>
+tudi za pogovor na okrogli mizi. 
+<Sync time="226.241"/>
+No, zdaj pa, #eee, 
+<Sync time="228.092"/>
+preden pogledamo, kaj drugje 
+<Sync time="229.615"/>
+delajo, poglejmo še 
+<Sync time="231.059"/>
+kaj je v okviru tega področja delala Komisija, 
+<Sync time="234.794"/>
+#e, za enakost v znanosti. 
+<Sync time="237.158"/>
+In, #e, doktorica 
+<Sync time="238.74"/>
+Urša Opara 
+<Sync time="240.032"/>
+Krašovec, #e, nas bo popeljala, 
+<Sync time="242.975"/>
+#e, 
+<Sync time="243.338"/>
+kaj je bilo v tem pogledu 
+<Sync time="245.024"/>
+narejenega. 
+<Sync time="246.035"/>
+Izvolite. 
+<Sync time="247.052"/>
+#Hhh, 
+<Sync time="247.882"/>
+vse v redu, doktorica Opara Krašovec, 
+<Sync time="250.291"/>
+#e, najlepša hvala tudi vam za to 
+<Sync time="252.584"/>
+predstavitev, no, zdaj pa gremo na 
+<Sync time="254.705"/>
+okroglo mizo, na kateri bomo, #eee, več izvedeli 
+<Sync time="258.238"/>
+se pravi, kako naši gostje razmišljajo o tem vprašanju, kaj se dogaja konkretno na določenih inštitucijah, 
+<Sync time="264.314"/>
+kako rešujejo te težave in 
+<Sync time="266.878"/>
+mogoče tudi predlagali na kakšno 
+<Sync time="269.7"/>
+konkretno rešitev za naprej. 
+<Sync time="272.251"/>
+#Aaa, kot sem omenila, gostje so profesorica Alenka Zupančič, doktorica Alma Sedlar, 
+<Sync time="278.405"/>
+#eee, 
+<Sync time="279.09"/>
+doktorica Jana Javornik, #e, profesor Zdravko Kačič in tudi profesor Gregor 
+<Sync time="284.486"/>
+Anderluh, 
+<Sync time="285.197"/>
+lepa hvala vsem, res, #e, da ste 
+<Sync time="287.783"/>
+skupaj z nami, 
+<Sync time="288.969"/>
+#e, v tej, 
+<Sync time="289.797"/>
+#e, debati, in 
+<Sync time="291.32"/>
+hvala za, 
+<Sync time="292.495"/>
+#eee, da ste prijazno počakali, #e, mogoče 
+<Sync time="295.502"/>
+profesor Anderluh, začenjam z vami. 
+<Sync time="298.616"/>
+In, #e, bom vsem hvaležna, 
+<Sync time="300.629"/>
+če boste lahko v svojih odgovorih čim bolj konkretni. 
+<Sync time="303.857"/>
+Se pravi, vi, #eem, 
+<Sync time="305.219"/>
+vodite, profesor Anderluh, #eem, 
+<Sync time="307.708"/>
+Kemijski inštitut, 
+<Sync time="309.251"/>
+a lahko 
+<Sync time="310.018"/>
+poveste konkretno, recimo o teh vprašanjih, 
+<Sync time="312.374"/>
+ko gre za etiko v znanosti, 
+<Sync time="314.229"/>
+#eee, 
+<Sync time="314.955"/>
+a dobivate kaj prijav, 
+<Sync time="316.718"/>
+kakšne so in, #eee, 
+<Sync time="318.578"/>
+kako jih 
+<Sync time="319.455"/>
+rešujete? 
+<Sync time="321.085"/>
+#Mhm, 
+<Sync time="321.816"/>
+#e, profesor Anderluh, omenili ste, v teh zadnjih letih, šest, mislim, da ste rekli, ne, 
+<Sync time="326.068"/>
+koliko je prijav bilo, 
+<Sync time="327.372"/>
+a se vam zdi to visoka številka? 
+<Sync time="330.106"/>
+Nizka? 
+<Sync time="331.05"/>
+#Mhm. 
+<Sync time="331.925"/>
+A lahko mi 
+<Sync time="332.564"/>
+prosim poveste še to, #e, omenili ste, da pač na Kemijskem imate neki določen pravilnik, 
+<Sync time="337.187"/>
+na podlagi česa ste, 
+<Sync time="338.516"/>
+#eee, 
+<Sync time="339.17"/>
+kdo vam je bil, 
+<Sync time="340.249"/>
+kaj vam je bilo za zgled, ko ste ta, #e, 
+<Sync time="342.334"/>
+pravilnik, 
+<Sync time="342.906"/>
+#eee, 
+<Sync time="343.796"/>
+sestavljali, naredili, 
+<Sync time="345.477"/>
+in kdo v bistvu odloča, če nekdo nekaj prijavi, a se to naredi, ne vem, 
+<Sync time="349.496"/>
+dva-, tri-, petčlanski odbor, kdo ga sestavlja, kdo odloči na koncu. 
+<Sync time="353.774"/>
+#Aaa, kdo je imel prav, kdo ne, ali je bila 
+<Sync time="356.175"/>
+praksa 
+<Sync time="356.981"/>
+neprimerna in podobno. 
+<Sync time="358.897"/>
+#Mhm, da gre včasih tudi v drugo smer. 
+<Sync time="361.359"/>
+Hvala lepa zaenkrat, no. 
+<Sync time="362.693"/>
+Vsi, ki nas spremljate, naj, #e, 
+<Sync time="365.309"/>
+ponovim še to, da lahko vprašanja 
+<Sync time="367.844"/>
+za goste na, v tej razpravi, pošljete 
+<Sync time="370.997"/>
+na naslov 
+<Sync time="371.891"/>
+klub 
+<Sync time="372.52"/>
+sta 
+<Sync time="373.389"/>
+afna 
+<Sync time="374.15"/>
+sta 
+<Sync time="374.927"/>
+pika si. 
+<Sync time="376.251"/>
+#Eee, in jih bom in tekom pogovora ali pa na koncu, #e, 
+<Sync time="379.636"/>
+poskušala, #e, nasloviti vsem gostom, no. 
+<Sync time="382.413"/>
+#Aaa, vprašanje naslednje 
+<Sync time="384.195"/>
+pa za vas, profesor Kačič, #eee, 
+<Sync time="387.117"/>
+#e, profesor Andrluh je 
+<Sync time="389.257"/>
+malo opisal situacijo na Kemijskem, a lahko vi poveste, kako se pa s temi, 
+<Sync time="394.036"/>
+#eee, 
+<Sync time="394.6"/>
+morebitnimi kršitvami 
+<Sync time="396.518"/>
+etičnega delovanja soočate na Univerzi v Mariboru. 
+<Sync time="399.618"/>
+#E, kakšne prijave dobivate 
+<Sync time="401.417"/>
+in, #eee, 
+<Sync time="402.316"/>
+kako jih, 
+<Sync time="403.063"/>
+#e, rešujete? 
+<Sync time="404.827"/>
+#Mhm. 
+<Sync time="405.675"/>
+#E, imam pa, profesor, #e, Kačič, za vas eno vprašanje, ki smo ga dobili tudi od teh, ki spremljajo debato, 
+<Sync time="412.034"/>
+in sicer 
+<Sync time="413.097"/>
+piše, 
+<Sync time="414.369"/>
+#eee, citiram: "Na predvolilnih rektorskih okroglih mizah ste zagotavljali spremembe. 
+<Sync time="420.795"/>
+Zdaj pa imamo 
+<Sync time="422.152"/>
+namesto etičnega kodeksa 
+<Sync time="424.52"/>
+esej iz 
+<Sync time="425.894"/>
+leta dva tisoč petnajst 
+<Sync time="427.744"/>
+in etično komisijo, ki se ni niti enkrat sestala, kaj šele da bi kaj obravnavala." 
+<Sync time="433.445"/>
+Kakšen je vaš odgovor? 
+<Sync time="434.836"/>
+#Mhm, s kom pa pripravljate ta etični kods() kodeks, je tukaj 
+<Sync time="438.531"/>
+dialog z akademsko skupnostjo v sodelovanju z, 
+<Sync time="441.773"/>
+#eee ... 
+<Sync time="443.033"/>
+#Mhm. 
+<Sync time="443.672"/>
+Hvala lepa zaenkrat, 
+<Sync time="444.909"/>
+profesor Kačič, #eee. 
+<Sync time="446.93"/>
+Profesorica Zupančič, vi 
+<Sync time="448.878"/>
+ste se z vprašanjem etike, #mmm, ste se, se ukvarjate v filozofskem smislu, #mmm, 
+<Sync time="454.913"/>
+vseeno pa kot znanstvenica. 
+<Sync time="456.684"/>
+Kakšen je vaš komentar 
+<Sync time="458.205"/>
+na 
+<Sync time="458.78"/>
+te 
+<Sync time="459.327"/>
+naštete neetične 
+<Sync time="461.289"/>
+prakse, 
+<Sync time="462.308"/>
+ki jih je 
+<Sync time="462.983"/>
+uvodoma 
+<Sync time="463.796"/>
+izpostavil, 
+<Sync time="464.905"/>
+#eee, 
+<Sync time="465.804"/>
+skozi raziskavo, ki so jo naredili, 
+<Sync time="468.536"/>
+doktor Dolenc, #eee, 
+<Sync time="470.904"/>
+kako si vi predstavljate, ne vem, etično držo, 
+<Sync time="474.04"/>
+#e, znanstvenika oziroma znanstvenice? 
+<Sync time="477.399"/>
+#Mhm. 
+<Sync time="478.263"/>
+#A, me bo zelo zanimalo slišati, doktorica Sedlar, koliko so pa 
+<Sync time="482.276"/>
+znanstveniki in znanstvenice 
+<Sync time="483.73"/>
+aktivni pri samem prijavljanju ...
+<Sync time="485.944"/>
+
+<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+
+<Sync time="487.03"/>
+Mogoče samo najprej skok še v tujino k doktorici, 
+<Sync time="490.871"/>
+#e, Javornik, #e. 
+<Sync time="492.577"/>
+Vi 
+<Sync time="493.165"/>
+ste, 
+<Sync time="493.804"/>
+#eee, z izjemo, #eee, 
+<Sync time="495.784"/>
+direktovanja na Ministrstvu 
+<Sync time="498.132"/>
+za šolstvo in šport 
+<Sync time="500.227"/>
+ter izobraževanje, 
+<Sync time="501.668"/>
+ste vrsto let 
+<Sync time="503.227"/>
+delovali in delujete v tujini, ne. 
+<Sync time="505.921"/>
+Zdaj, 
+<Sync time="506.253"/>
+slišali smo malo nekaj slovenskih izkušenj, 
+<Sync time="509.501"/>
+a lahko vi z nami delite pa, 
+<Sync time="512.088"/>
+#e, kakšna je pa vaša mednarodna izkušnja, ne, 
+<Sync time="515.128"/>
+koliko pogosto se prijavlja, kakšne so prim(), #eee, 
+<Sync time="518.307"/>
+pravilniki, kdo odloča in tako dalje? 
+<Sync time="521.207"/>
+#Eee, mi je bilo to super, da ste, #eee, izpostavili, 
+<Sync time="524.443"/>
+ko ste na tej, #e, svoji matični univerzi, 
+<Sync time="527.075"/>
+kako visoko so te stvari. 
+<Sync time="528.683"/>
+Bi me zanimalo, če bi zdaj lahko 
+<Sync time="530.61"/>
+v, v real timu, 
+<Sync time="532.541"/>
+z lepo slovensko besedo, 
+<Sync time="534.34"/>
+#e, prišli čez, #eee, strani slovenskih znanstveno-raziskovalnih inštitucij, 
+<Sync time="539.772"/>
+fakultet in univerz? 
+<Sync time="540.947"/>
+Ena stvar mi je bila še zelo zanimiva, no, 
+<Sync time="543.72"/>
+se mi zdi, da je ravno obratno, vsaj če poslušam, 
+<Sync time="546.452"/>
+#e, kolege in ker() ne kolege, znanstvenike in znanstvenice, s katerimi se pogovarjam na to temo, in sicer vi ste omenili, 
+<Sync time="552.885"/>
+da 
+<Sync time="553.269"/>
+višje, 
+<Sync time="554.368"/>
+kot je nekdo v 
+<Sync time="555.431"/>
+hierarhiji, 
+<Sync time="556.587"/>
+#e, strožje je 
+<Sync time="558.727"/>
+presojanje, ko gre 
+<Sync time="559.846"/>
+za razne kršitve. A lahko malo več poveste, 
+<Sync time="562.665"/>
+kaj to pomeni, a so višje kazni ali je prej 
+<Sync time="565.582"/>
+odpoved delovnega razmerja ali 
+<Sync time="567.65"/>
+na kakšen način to? 
+<Sync time="569.2"/>
+A sem vas jaz prav razumela, #e, da ste omenili, 
+<Sync time="572.142"/>
+da ni veliko prijav? 
+<Sync time="574.09"/>
+#Mhm. 
+<Sync time="574.665"/>
+Mogoče samo še stavek, dva o tem, 
+<Sync time="576.95"/>
+vi ste delovali nekaj let tudi na Švedskem. 
+<Sync time="579.549"/>
+Skandinavce, 
+<Sync time="580.967"/>
+se mi zdi, da 
+<Sync time="582.357"/>
+vsaj v Sloveniji vidimo, kot da so visoko na teh lestvicah 
+<Sync time="586.243"/>
+spoštovanja pravil, 
+<Sync time="587.755"/>
+#e, dogovorov. A je kakšna razlika med, #eee, Združenim kraljestvom in, #e, tem, ko ste delovali na Švedskem? 
+<Sync time="594.511"/>
+#Mhm. 
+<Sync time="595.157"/>
+Hvala lepa. #Eee, 
+<Sync time="596.509"/>
+doktorca Alma Sedlar, vi 
+<Sync time="598.181"/>
+ste pa tisti, ki ste, 
+<Sync time="599.787"/>
+#eee, 
+<Sync time="600.685"/>
+tako rekoč se 
+<Sync time="602.603"/>
+podrobnoe, podrobneje spustili na 
+<Sync time="605.457"/>
+področje tudi raziskovalno-znanstveno, na področje žvižgaštva. 
+<Sync time="609.705"/>
+Kakšni so pravilniki, kako se postopa in tako dalje? 
+<Sync time="613.147"/>
+Pa me zanima, 
+<Sync time="615.045"/>
+#e, 
+<Sync time="615.706"/>
+po vaših izkušnjah, ne, 
+<Sync time="617.958"/>
+a mogoče imate kakšne konkretne primere, tudi mi jih boste lahko delili. #E, kako pripravljeni so 
+<Sync time="623.627"/>
+znanstveniki in znanstvenice, #e, govoriti o kršitvah in sploh kakšen sistem ocenjujete, da imamo v Sloveniji 
+<Sync time="631.194"/>
+za zaščito, 
+<Sync time="632.892"/>
+#eee, 
+<Sync time="633.536"/>
+teh, ki so poškodovani in tako dalje? 
+<Sync time="636.818"/>
+No, to sem ravno želela, #e, ker ste bili, ja, druga, ki je omenjala, 
+<Sync time="641.312"/>
+grejo v medije pa v Sloveniji posebno prakso, vprašanja, zakaj grejo v medije, ne. 
+<Sync time="646.283"/>
+Če bi se to 
+<Sync time="647.203"/>
+reševalo verjetno na katerih drugih nivojih, 
+<Sync time="649.684"/>
+#e, ne vem, 
+<Sync time="650.895"/>
+če je eden na 
+<Sync time="652.326"/>
+milijon, 
+<Sync time="653.064"/>
+ki mu ustreza 
+<Sync time="654.163"/>
+to, kar se lahko potem zgodi, ko enkrat zadeve 
+<Sync time="656.626"/>
+pridejo v medije, ne. 
+<Sync time="657.98"/>
+#A, deloma ste omenili, 
+<Sync time="659.651"/>
+doktorica Sedlar, 
+<Sync time="660.857"/>
+dva tisoč devetnajst je bila sprejeta ta, #e, nova vseevropska, 
+<Sync time="665.126"/>
+so bila pravila sprejeta glede žvižgaštva. 
+<Sync time="667.528"/>
+In države so imele dve leti časa, se pravi, do konca letošnjega leta, 
+<Sync time="671.596"/>
+da se temu prilagodijo, če vas prav razumem, 
+<Sync time="674.088"/>
+#e, Slovenija zaenkrat še nikjer ni oziroma tisto, kjer je, se pripravlja v tajnosti. 
+<Sync time="680.28"/>
+#Mhm, hvala lepa, vprašanje za 
+<Sync time="682.789"/>
+rektorja Univerze v Mariboru, profesor Kačič, za vas, torej. 
+<Sync time="687.139"/>
+#Eee, 
+<Sync time="687.814"/>
+poslala je skupina Rezistenca, in sicer sprašuje naslednje: 
+<Sync time="692.466"/>
+"Že pravilnik o ukrepih za varovanje dostojanstva zaposlenih in študentov Univerze v Ljubljani 
+<Sync time="698.9"/>
+ni zadosten, 
+<Sync time="700.372"/>
+je pa edini, ki študente dejansko vključuje. 
+<Sync time="703.229"/>
+Univerza v Mariboru pravilnika, 
+<Sync time="705.693"/>
+ki bi varoval študente, sploh nima 
+<Sync time="708.723"/>
+in glede na to, 
+<Sync time="710.036"/>
+da predstavljate 
+<Sync time="711.916"/>
+napredne prakse vaše univerze," pišejo, 
+<Sync time="715.251"/>
+"kako 
+<Sync time="715.883"/>
+lahko razložite odsotnost 
+<Sync time="718.392"/>
+zaščite študentov in študentk?" 
+<Sync time="721.073"/>
+#Mhm, ne() s tem povezano še eno vprašanje za vas, #eee, 
+<Sync time="726.233"/>
+#e, na temo, kako vi spraš() 
+<Sync time="728.422"/>
+spoštujete pravičnost, 
+<Sync time="730.267"/>
+#eee, da naj bi na Univerzi v Marivo() v Mariboru 
+<Sync time="733.443"/>
+evidentno veljala dvojna merila, 
+<Sync time="735.334"/>
+ena za dekane, ena za navadne zaposla(), #e, zaposlene. 
+<Sync time="739.262"/>
+Ali je parola, ki jo je na enem od senatov vzkliknila 
+<Sync time="742.855"/>
+dekanica pravne 
+<Sync time="744.342"/>
+fakultete: 
+<Sync time="745.303"/>
+"Mi moramo ja zaščititi tiste na vrhu 
+<Sync time="747.778"/>
+piramide"
+<Sync time="748.764"/>
+v skladu s pravičnostjo, ki jo zapoveduje 
+<Sync time="751.568"/>
+kodeks 
+<Sync time="752.436"/>
+vaše univerze? 
+<Sync time="754.025"/>
+#E, 
+<Sync time="754.917"/>
+vprašanje na vas, profesorica, #e, Zupančič, #eee, 
+<Sync time="759.135"/>
+ste ena vidnejših filozofinj pri nas, z vprašanjem etike, kot sva omenili, se ukvarjate v 
+<Sync time="763.852"/>
+filozofskem smislu, 
+<Sync time="765.201"/>
+ste pa tudi članica znanstvenega sveta ARRS. 
+<Sync time="768.637"/>
+In me 
+<Sync time="769.337"/>
+čisto konkretno zanima, a so ta vprašanja nekaj, kar so kdaj 
+<Sync time="772.944"/>
+v tem času, kar ste vi članica, 
+<Sync time="774.841"/>
+bila na 
+<Sync time="775.884"/>
+dnevnem redu, 
+<Sync time="776.942"/>
+kako se teh vprašanj lotevate? Ker imamo primere, 
+<Sync time="779.977"/>
+#eee, ne vem, različnih, #eem, 
+<Sync time="782.282"/>
+bom rekla, 
+<Sync time="783.268"/>
+ARRS-jev, Nemčija, Luksemburg, Avstrija, 
+<Sync time="786.104"/>
+kjer, #eee, 
+<Sync time="787.108"/>
+proaktivno k reševanju tega pristopajo. 
+<Sync time="789.892"/>
+Pa me zanima, kakšno je pa vaše 
+<Sync time="792.286"/>
+delovanje, no. 
+<Sync time="793.589"/>
+#Mmm, omenili ste, ja, da je pol mogoče s temi raznimi, #khm, 
+<Sync time="797.699"/>
+komisijami in tako 
+<Sync time="798.895"/>
+malo zmede, a pa mislite, da bi 
+<Sync time="800.861"/>
+ena institucija, kot je ARRS, 
+<Sync time="802.991"/>
+morala biti tista, ki bi, 
+<Sync time="804.881"/>
+#e, 
+<Sync time="805.464"/>
+kazala pot? 
+<Sync time="806.82"/>
+Ja. 
+<Sync time="807.501"/>
+Profesor Anderluh, #e, 
+<Sync time="809.328"/>
+vi ste pa poleg tega, da vodite 
+<Sync time="811.682"/>
+Kemijski inštitut, 
+<Sync time="813.062"/>
+ste tudi predsednik Koordinacije samostojnih 
+<Sync time="816.039"/>
+raziskovalnih inštitutov v Sloveniji. 
+<Sync time="818.929"/>
+Popravite me, če se motim, 
+<Sync time="820.891"/>
+#e, če sem si slabo zapomnila, #e, da se 
+<Sync time="823.732"/>
+ob tej problematiki 
+<Sync time="825.848"/>
+škodljivih praks, #eee, na Kosrisu ne pogovarjate ali niste še pogovarjali? 
+</Turn>
+<Turn startTime="831.533" endTime="833.112">
+<Sync time="831.533"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="833.112" endTime="1031.960" fidelity="high">
+<Sync time="833.112"/>
+Ja, 
+<Sync time="833.48"/>
+potem pa eno vprašanje še za vas, 
+<Sync time="835.139"/>
+ki je tudi, #e, 
+<Sync time="836.434"/>
+prišlo na naš naslov, no, #e, gre v tem kontekstu, o čemer ste pravkar govorili namreč, 
+<Sync time="842.263"/>
+o 
+<Sync time="842.877"/>
+javnem opozarjanju na, 
+<Sync time="844.809"/>
+#eem, tudi težave in škodljive prakse v slovenski znanosti. 
+<Sync time="848.631"/>
+#E, kakšno je vaše stališče, a je primerno, 
+<Sync time="852.087"/>
+#e, opozarjanje, ker nekateri znanstveniki 
+<Sync time="855.529"/>
+menijo, in če vas prav razumem, 
+<Sync time="857.946"/>
+ste mogoče malo vi v tej skupini, 
+<Sync time="860.261"/>
+da to škodi ugledu, #e, 
+<Sync time="862.673"/>
+znanosti. Kaj bi bili nekako 
+<Sync time="864.416"/>
+po vašem 
+<Sync time="865.78"/>
+mnenju 
+<Sync time="866.74"/>
+argumenti za/proti 
+<Sync time="868.213"/>
+javnemu izpostavljanju problemov? 
+<Sync time="870.176"/>
+#Mhm, ja, vas bom vse pozvala v, k zaključni besedi, v kateri 
+<Sync time="874.544"/>
+boste, upam, predlagali, kako in kaj bi se lahko šlo naprej, pred tem samo za vas vprašanje še, doktorica Javornik, 
+<Sync time="880.634"/>
+#e, 
+<Sync time="881.109"/>
+tisti, ki prijavljajo 
+<Sync time="883.053"/>
+ali pa opozarjajo na škodljive prakse, vaša mednarodna izkušnja. 
+<Sync time="887.534"/>
+#Eee, tukaj v Sloveniji se 
+<Sync time="888.99"/>
+pogosto, ali pa nekateri dobijo občutek, 
+<Sync time="891.36"/>
+da 
+<Sync time="892.265"/>
+so demonizirani. 
+<Sync time="893.486"/>
+#Eem, 
+<Sync time="894.23"/>
+kako se te 
+<Sync time="895.27"/>
+prijavitelje torej in prijaviteljice 
+<Sync time="897.342"/>
+obravnavalo 
+<Sync time="898.952"/>
+v vaših okoljih, kjer ste delovali v tujini? 
+<Sync time="901.727"/>
+Hvala lepa, doktorica Javornik, #eee, 
+<Sync time="904.311"/>
+no, ta krog, 
+<Sync time="905.159"/>
+#e, nadaljujemo. 
+<Sync time="906.555"/>
+Zaključnih besed za doktorico Sedlar, #eee, 
+<Sync time="909.519"/>
+se pravi, ja, 
+<Sync time="910.71"/>
+izpostavljene so bile nekatere 
+<Sync time="912.31"/>
+škodljive prakse, zdaj stvari 
+<Sync time="914.844"/>
+se same od sebe ne bodo zgodile, ne, 
+<Sync time="917.077"/>
+#e, kaj je treba narediti, doktorica Sedlar? 
+<Sync time="920.967"/>
+Največje vprašanje je nekako letelo na vaš naslov, #eee, 
+<Sync time="924.776"/>
+če nadaljujem to, kjer je doktorica Sedlar končala, 
+<Sync time="927.644"/>
+ni dovolj 
+<Sync time="928.693"/>
+pristopanje 
+<Sync time="929.684"/>
+k raznim deklaracijam, pravilnikom, zdaj Univerza v Mariboru je pristopila, 
+<Sync time="934.403"/>
+je bilo tudi vprašanje k deklaraciji Dora in, 
+<Sync time="936.703"/>
+#eee, Leiden manifestu, kdaj bo viden 
+<Sync time="939.667"/>
+pristop v 
+<Sync time="940.801"/>
+praksi, kdaj se bodo opazile spremembe? 
+<Sync time="943.433"/>
+Hvala lepa, profesor Kačič, #eee, 
+<Sync time="945.703"/>
+profesorica Zupančič, #e, 
+<Sync time="947.88"/>
+vaša zaključna beseda. 
+<Sync time="950.553"/>
+#Mhm, hvala lepa tudi vam, #e, profesor Anderluh, vi ste sproti že nekaj o tem, kako in 
+<Sync time="955.578"/>
+kaj bi bilo dobro iti naprej, ampak vseeno, 
+<Sync time="957.947"/>
+#e, za konec, kaj bi še bilo vaše sporočilo? 
+<Sync time="961.374"/>
+#Eee, se zdi, da je res to vpraša(), da so ta vprašanja kar vroča, no. Jaz se vsem opravičujem, ker smo malo podaljšali, ampak 
+<Sync time="967.787"/>
+bi očitno lahko še par ur o teh stvareh govorili. 
+<Sync time="970.925"/>
+Hvala lepa, profesor Anderluh, in mogoče še zadnja, #e, 
+<Sync time="974.297"/>
+doktorica Javornik, 
+<Sync time="975.426"/>
+#e, do nedavno ste bili vpeti v delu na ministrstvu, 
+<Sync time="979.041"/>
+ste mogoče kaj seznanjeni z n() z njihovimi načrti, #eee, 
+<Sync time="982.531"/>
+na področju urejanja teh vprašanj, 
+<Sync time="984.421"/>
+o katerih smo govorili? 
+<Sync time="986.452"/>
+#Eee, hvala lepa, doktorica Javornik, in bi se na tem mestu res vsem vam, 
+<Sync time="990.98"/>
+#e, sodelujočim zahvaljujem za posvet na okrogli mizi, za, #e, čas, ki ste ga 
+<Sync time="996.807"/>
+velikodušno namenili tej temi, 
+<Sync time="998.887"/>
+hvala lepa tudi, 
+<Sync time="1000.205"/>
+#e, doktorju Dolencu in, 
+<Sync time="1002.202"/>
+#e, doktorici Opara Krašovec za uvodni predstavitvi, da sta pomagala postaviti to ogrodje. 
+<Sync time="1007.8"/>
+Hvala za vprašanja, ki ste nam jih, #eee, 
+<Sync time="1009.829"/>
+poslali, in za spremljanje debate. 
+<Sync time="1012.527"/>
+Jutri ob dv() deseti uri pa vas v imenu Komisije za enakost v znanosti, 
+<Sync time="1017.736"/>
+#e, vabim še na 
+<Sync time="1019.208"/>
+razpravo z delovnim naslovom 
+<Sync time="1021.528"/>
+Kje so kandidatke za napredovanja 
+<Sync time="1024.343"/>
+in nagrade, odločevalke in akademikinje? 
+<Sync time="1027.929"/>
+Pa prijeten 
+<Sync time="1028.848"/>
+četrtek 
+<Sync time="1029.68"/>
+še naprej. 
+<Sync time="1030.34"/>
+Na svidenje. 
+</Turn>
+</Section>
+</Episode>
+</Trans>
