@@ -8,3 +8,4 @@ pyannote.metrics
 python-dotenv
 datasets
 numpy
+noisereduce

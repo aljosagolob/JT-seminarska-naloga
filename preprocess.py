@@ -1,6 +1,7 @@
 import soundfile as sf
 import torch
 import torchaudio.functional as F
+import noisereduce as nr
 
 # Default params for preprocessing
 PARAMS = {
@@ -18,7 +19,10 @@ PARAMS = {
 
     # Dynamic range compression
     "comp_threshold_db": -20.0,   # sound above this threshold (too loud) will be compressed
-    "comp_ratio":         1.0,    # how strong should the compression be 
+    "comp_ratio":         1.0,    # how strong should the compression be
+
+    # Noise reduction (0.0 = off, 1.0 = maximum)
+    "noise_reduce":       0.0,
 }
 
 
@@ -62,5 +66,10 @@ def preprocess(waveform: torch.Tensor, sample_rate: int, params: dict = PARAMS) 
 
     if params["gain_db"] != 0.0:
         waveform = F.gain(waveform, params["gain_db"])
+
+    if params.get("noise_reduce", 0.0) > 0.0:
+        audio_np = waveform.numpy()[0]
+        reduced = nr.reduce_noise(y=audio_np, sr=sample_rate, prop_decrease=params["noise_reduce"])
+        waveform = torch.tensor(reduced).unsqueeze(0)
 
     return waveform, sample_rate
