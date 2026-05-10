@@ -2,6 +2,9 @@ pyannote.audio
 torch
 openai-whisper
 soundfile
-dotenv
 transformers==4.44.2
 accelerate
+pyannote.metrics
+python-dotenv
+datasets
+numpy
