@@ -1,0 +1,47 @@
+Model: pyannote/speaker-diarization-3.1
+Dataset: artur-j
+NOTE: Run stopped early — time limit of 0.8h reached.
+      Only 12 file(s) were processed.
+Total elapsed: 00:45:08
+============================================================
+
+PER FILE:
+File                            Dur(s)     DER     JER    Miss      FA    Conf
+---------------------------------------------------------------------------
+Artur-J-Gvecg-P500002-avd        424.2   0.079   0.079   0.079   0.000   0.000
+Artur-J-Gvecg-P500014-avd       3275.5   0.097   0.112   0.083   0.002   0.012
+Artur-J-Gvecg-P500015-avd       2669.8   0.046   0.058   0.045   0.001   0.000
+Artur-J-Gvecg-P500016-avd       1237.6   0.058   0.058   0.053   0.004   0.001
+Artur-J-Gvecg-P500020-avd       3317.7   0.051   0.056   0.049   0.002   0.001
+Artur-J-Gvecg-P500021-avd        858.7   0.039   0.038   0.038   0.001   0.000
+Artur-J-Gvecg-P500026-avd       2426.7   0.110   0.125   0.091   0.001   0.017
+Artur-J-Gvecg-P500027-avd       3451.3   0.048   0.055   0.043   0.004   0.001
+Artur-J-Gvecg-P500029-avd       1726.8   0.017   0.017   0.017   0.000   0.000
+Artur-J-Gvecg-P500030-avd        976.5   0.029   0.029   0.029   0.000   0.000
+Artur-J-Gvecg-P500034-avd        620.3   0.095   0.029   0.029   0.066   0.000
+Artur-J-Gvecg-P500035-avd        560.4   0.140   0.140   0.139   0.001   0.000
+
+============================================================
+OVERALL AVERAGES:
+  Avg DER          = 0.067
+  Avg JER          = 0.066
+  Avg MISS         = 0.058
+  Avg FALSE_ALARM  = 0.007
+  Avg CONFUSION    = 0.003
+
+============================================================
+BY AUDIO LENGTH:
+
+  long (5-15min) — 4 file(s)
+    Avg DER          = 0.088
+    Avg JER          = 0.072
+    Avg MISS         = 0.071
+    Avg FALSE_ALARM  = 0.017
+    Avg CONFUSION    = 0.000
+
+  very long (>15min) — 8 file(s)
+    Avg DER          = 0.057
+    Avg JER          = 0.064
+    Avg MISS         = 0.051
+    Avg FALSE_ALARM  = 0.002
+    Avg CONFUSION    = 0.004

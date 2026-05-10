@@ -1,0 +1,30 @@
+Model: pyannote/speaker-diarization-3.1
+Dataset: alimeeting
+NOTE: Run stopped early — time limit of 0.8h reached.
+      Only 2 file(s) were processed.
+Total elapsed: 06:05:35
+============================================================
+
+PER FILE:
+File                            Dur(s)     DER     JER    Miss      FA    Conf
+---------------------------------------------------------------------------
+R8001_M8004_N_SPK8013           1551.8   0.249   0.224   0.136   0.094   0.018
+R8001_M8004_N_SPK8014           1551.8   1.172   0.071   0.047   1.121   0.004
+
+============================================================
+OVERALL AVERAGES:
+  Avg DER          = 0.711
+  Avg JER          = 0.147
+  Avg MISS         = 0.092
+  Avg FALSE_ALARM  = 0.607
+  Avg CONFUSION    = 0.011
+
+============================================================
+BY AUDIO LENGTH:
+
+  very long (>15min) — 2 file(s)
+    Avg DER          = 0.711
+    Avg JER          = 0.147
+    Avg MISS         = 0.092
+    Avg FALSE_ALARM  = 0.607
+    Avg CONFUSION    = 0.011

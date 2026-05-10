@@ -1,0 +1,29 @@
+Model: pyannote/speaker-diarization-3.1
+Dataset: ami
+Total elapsed: 00:09:09
+============================================================
+
+PER FILE:
+File                            Dur(s)     DER     JER    Miss      FA    Conf
+---------------------------------------------------------------------------
+ES2002a                         1272.6   0.206   0.236   0.066   0.123   0.016
+ES2002b                         2279.8   0.100   0.125   0.057   0.024   0.019
+ES2002c                         2423.7   0.094   0.107   0.044   0.030   0.020
+
+============================================================
+OVERALL AVERAGES:
+  Avg DER          = 0.133
+  Avg JER          = 0.156
+  Avg MISS         = 0.056
+  Avg FALSE_ALARM  = 0.059
+  Avg CONFUSION    = 0.018
+
+============================================================
+BY AUDIO LENGTH:
+
+  very long (>15min) — 3 file(s)
+    Avg DER          = 0.133
+    Avg JER          = 0.156
+    Avg MISS         = 0.056
+    Avg FALSE_ALARM  = 0.059
+    Avg CONFUSION    = 0.018

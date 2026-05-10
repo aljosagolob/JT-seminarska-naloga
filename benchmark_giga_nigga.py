@@ -12,21 +12,18 @@ from dotenv import load_dotenv
 load_dotenv()
 token = os.getenv("HF_TOKEN")
 
-DATASET_TIME_LIMIT = 300 # In seconds
+DATASET_TIME_LIMIT = 2700 # In seconds
 
 # ── M O D E L S ───────────────────────────────────────────────────────────────
 MODELS = [
-    #"pyannote/speaker-diarization-community-1",
+    "pyannote/speaker-diarization-community-1",
     "pyannote/speaker-diarization-3.1",
 ]
 
 # ── D A T A S E T S ───────────────────────────────────────────────────────────
 DATASETS_ROOT = "datasets"
 
-datasets = [
-    d for d in os.listdir(DATASETS_ROOT)
-    if os.path.isdir(os.path.join(DATASETS_ROOT, d))
-]
+datasets = ["VoxConverse"]
 
 # ── B U C K E T S   B Y   A U D I O   L E N G T H ────────────────────────────
 def get_duration_bucket(duration_seconds):
