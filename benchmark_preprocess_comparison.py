@@ -16,7 +16,7 @@ AUDIO_DIR   = Path("datasets/VoxConverse/wav")
 RTTM_DIR    = Path("datasets/VoxConverse/rttm")
 RESULT_FILE = Path("datasets/VoxConverse/comparison_result.txt")
 
-MAX_FILES = None  # set to an int to limit, None = all files
+MAX_FILES = 10  # set to an int to limit, None = all files
 
 MODELS = [
     "pyannote/speaker-diarization-3.1",
