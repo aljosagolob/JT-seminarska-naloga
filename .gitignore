@@ -5,3 +5,5 @@ data
 audio.wav
 datasets/benchmark/VoxConverse/audio
 *wav
+__pycache__/
+*.pyc
