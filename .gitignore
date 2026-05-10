@@ -1,9 +1,47 @@
+# Virtual environments
 .venv
 venv
-.env
-data
-audio.wav
-datasets/benchmark/VoxConverse/audio
-*wav
+env
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment variables
+.env
+*.env
+
+# Audio / media files
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.mp4
+
+# Generated output files
+output.rttm
+diarization.txt
+*.log
+
+# Databases (Optuna, etc.)
+*.db
+
+# Data directories
+data/
+datasets/benchmark/VoxConverse/audio
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
