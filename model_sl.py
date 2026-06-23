@@ -32,7 +32,7 @@ load_dotenv()
 #   D I A R I Z A T I O N
 print("Loading diarization pipeline...")
 diarization_pipeline = Pipeline.from_pretrained(
-    "pyannote/speaker-diarization-community-1",
+    "pyannote/speaker-diarization-3.1",
     token=os.getenv("HF_TOKEN"),
 )
 print("Pipeline loaded...")
@@ -55,7 +55,8 @@ diarization = diarization_pipeline(audio_input)
 
 #   S A V E   S E G M E N T S   I N   L I S T
 segments = []
-for turn, _, speaker in diarization.speaker_diarization.itertracks(yield_label=True):
+annotation = diarization.speaker_diarization if hasattr(diarization, "speaker_diarization") else diarization
+for turn, _, speaker in annotation.itertracks(yield_label=True):
     # print(f"[{turn.start} - {turn.end}] - {speaker}")
     segments.append({
         "start": turn.start,
