@@ -1,35 +1,20 @@
-import soundfile as sf
 import torch
 import torchaudio.functional as F
 import noisereduce as nr
 
-# Default params for preprocessing
 PARAMS = {
-    # Basic stuff
-    "speed":              1.0,      # Audio file speed
-    "highpass_cutoff":    0.0,      # Cuts off frequencies below this
-    "lowpass_cutoff":     8000.0,   # Cuts off frequencies above this
-    "gain_db":            0.0,      # Loudness boost/decrease in dB
-    "target_lufs":       -23.0,     # loudness that all audio should be normalized to
-
-    # EQ / Bell filter -> boosta frekvence okoli sredine bell krivulje
-    "eq_center_freq":    2000.0,  # Center frequency for EQ
-    "eq_gain_db":         0.0,    # dB boost/cutfor EQ at centre
-    "eq_q":               1.0,    # how wide the bell filter is
-
-    # Dynamic range compression
-    "comp_threshold_db": -20.0,   # sound above this threshold (too loud) will be compressed
-    "comp_ratio":         1.0,    # how strong should the compression be
-
-    # Noise reduction (0.0 = off, 1.0 = maximum)
+    "speed":              1.0,
+    "highpass_cutoff":    0.0,
+    "lowpass_cutoff":     8000.0,
+    "gain_db":            0.0,
+    "target_lufs":       -23.0,
+    "eq_center_freq":    2000.0,
+    "eq_gain_db":         0.0,
+    "eq_q":               1.0,
+    "comp_threshold_db": -20.0,
+    "comp_ratio":         1.0,
     "noise_reduce":       0.0,
 }
-
-
-def load_audio(path: str) -> tuple[torch.Tensor, int]:
-    audio, sample_rate = sf.read(path, dtype="float32")
-    waveform = torch.from_numpy(audio).unsqueeze(0)  # (1, time)
-    return waveform, sample_rate
 
 
 def preprocess(waveform: torch.Tensor, sample_rate: int, params: dict = PARAMS) -> tuple[torch.Tensor, int]:
@@ -73,3 +58,11 @@ def preprocess(waveform: torch.Tensor, sample_rate: int, params: dict = PARAMS) 
         waveform = torch.tensor(reduced).unsqueeze(0)
 
     return waveform, sample_rate
+
+
+class Preprocessor:
+    def __init__(self, params: dict | None = None):
+        self.params = params or PARAMS.copy()
+
+    def process(self, waveform: torch.Tensor, sample_rate: int) -> tuple[torch.Tensor, int]:
+        return preprocess(waveform, sample_rate, self.params)

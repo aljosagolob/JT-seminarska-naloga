@@ -1,102 +1,61 @@
 import warnings
 warnings.filterwarnings("ignore")
 
+import os
 import torch
-import soundfile as sf
+from pathlib import Path
 from pyannote.audio import Pipeline
 from dotenv import load_dotenv
-import whisper
-import numpy as np
-import os
 
-def merge_segments(segments, gap_threshold=0.5):
-    if not segments:
-        return segments
-    
-    merged = [segments[0].copy()]
-    
-    for current in segments[1:]:
-        previous = merged[-1]
-        gap = current["start"] - previous["end"]
-        
-        if current["speaker"] == previous["speaker"] and gap < gap_threshold:
-            previous["end"] = current["end"]
-        else:
-            merged.append(current.copy())
-    
-    return merged
-
+from utils import load_audio
+from preprocessor import Preprocessor
+from transcriber import Transcriber
 
 load_dotenv()
 
-#   L O A D   D I A R I Z A T I O N   P I P E L I N E
-print("Loading diarization pipeline...")
-diarization_pipeline = Pipeline.from_pretrained(
-    "pyannote/speaker-diarization-community-1",
-    token=os.getenv("HF_TOKEN"),
-)
-print("Pipeline loaded...")
 
-#   M O V E   T O   G P U   I F   A V A I L A B L E
-if torch.cuda.is_available():
-    diarization_pipeline.to(torch.device("cuda"))
+class DiarizationModel:
+    def __init__(self, asr: str = "whisper", whisper_size: str = "small", preprocess_params: dict | None = None):
+        self.preprocessor = Preprocessor(preprocess_params)
+        self.transcriber = Transcriber(asr, whisper_size)
 
-#   L O A D   A U D I O
-audio_file = "datasets/artur-j/wav/Artur-J-Gvecg-P500030-avd.wav"
-waveform, sample_rate = sf.read(audio_file)
-if waveform.ndim > 1:
-    waveform = waveform.mean(axis=1)
-waveform_tensor = torch.tensor(waveform, dtype=torch.float32).unsqueeze(0)
-audio_input = {"waveform": waveform_tensor, "sample_rate": sample_rate}
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        print("Loading diarization pipeline...")
+        self._diarization = Pipeline.from_pretrained(
+            "pyannote/speaker-diarization-community-1",
+            token=os.getenv("HF_TOKEN"),
+        )
+        self._diarization.to(device)
+        print("Diarization pipeline loaded.")
 
-print("Running diarization...")
-diarization = diarization_pipeline(audio_input)
+    def _extract_segments(self, diarization) -> list:
+        return [
+            {"start": turn.start, "end": turn.end, "speaker": speaker}
+            for turn, _, speaker in diarization.speaker_diarization.itertracks(yield_label=True)
+        ]
 
-#   S A V E   S E G M E N T S   I N   L I S T
-segments = []
-for turn, _, speaker in diarization.speaker_diarization.itertracks(yield_label=True):
-    # print(f"[{turn.start} - {turn.end}] - {speaker}")
-    segments.append({
-        "start": turn.start,
-        "end": turn.end,
-        "speaker": speaker
-    })
+    def _save(self, lines: list[str], output_path: str) -> None:
+        Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines))
+        print(f"Saved to {output_path}")
 
-#   M E R G E   S E G M E N T S
-segments = merge_segments(segments=segments)
+    def execPipeline(self, audio_file: str, output_path: str = "output/transcript.txt") -> list[str]:
+        # Load audio
+        waveform, sample_rate = load_audio(audio_file)
+        # Preprocess 
+        waveform, sample_rate = self.preprocessor.process(waveform, sample_rate)
 
-#   L O A D   W H I S P E R   M O D E L
-print("Loading Whisper...")
-whisper_model = whisper.load_model("small") 
+        print("Running diarization...")
+        # Diarization
+        diarization = self._diarization({"waveform": waveform, "sample_rate": sample_rate})
 
-#   M O V E   T O   G P U   I F   A V A I L A B L E
-if torch.cuda.is_available():
-    whisper_model = whisper_model.to(torch.device("cuda"))
+        # Transcription
+        segments = self._extract_segments(diarization)
+        waveform_np = waveform.numpy()[0]
+        print("\n=== ANNOTATED TRANSCRIPT ===")
+        lines = self.transcriber.run(waveform_np, sample_rate, segments)
 
-#   C O M B I N E
-print("\n=== ANNOTATED TRANSCRIPT ===")
-output_lines = []
-
-for seg in segments:
-    start_sample = int(seg["start"] * sample_rate)
-    end_sample = int(seg["end"] * sample_rate)
-    
-    audio_chunk = waveform[start_sample:end_sample].astype(np.float32)
-    
-    # Skips segment if less than 0.5s
-    duration = seg["end"] - seg["start"]
-    if duration < 0.5: 
-        line = f'{seg["speaker"]} [{seg["start"]:.2f}s-{seg["end"]:.2f}s]: [too short]'
-    else:
-        result = whisper_model.transcribe(audio_chunk, language="sl")
-        text = result["text"].strip()
-        line = f'{seg["speaker"]} [{seg["start"]:.2f}s-{seg["end"]:.2f}s]: {text}'
-    
-    print(line)
-    output_lines.append(line)
-
-#   S A V E   R E S U L T
-with open("output/transcript.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(output_lines))
-
-print("Saved to output/transcript.txt") 
+        # Save to file
+        self._save(lines, output_path)
+        return lines

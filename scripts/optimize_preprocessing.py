@@ -10,7 +10,8 @@ from pyannote.audio import Pipeline
 from pyannote.database.util import load_rttm
 from pyannote.metrics.diarization import DiarizationErrorRate
 import torch
-from preprocess import load_audio, preprocess
+from utils import load_audio
+from preprocessor import preprocess
 
 load_dotenv()
 

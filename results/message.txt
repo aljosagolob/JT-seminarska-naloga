@@ -1,0 +1,53 @@
+```Model: pyannote/speaker-diarization-3.1
+================================================================
+File                    Raw DER   Prep DER      Delta    Better?
+----------------------------------------------------------------
+aepyx                    0.1162     0.2593    +0.1431        raw
+aggyz                    0.1209     0.1109    -0.0100       prep
+aiqwk                    0.1832     0.1770    -0.0062       prep
+aorju                    0.1116     0.0976    -0.0140       prep
+auzru                    0.0286     0.0221    -0.0065       prep
+bgvvt                    0.1244     0.1305    +0.0061        raw
+bidnq                    0.1971     0.2310    +0.0338        raw
+bjruf                    0.1832     0.1799    -0.0033       prep
+bmsyn                    0.3325     0.3100    -0.0225       prep
+bpzsc                    0.0890     0.0987    +0.0097        raw
+
+AVERAGES:
+Metric                 Raw   Preprocessed      Delta
+----------------------------------------------------
+DER                 0.1487         0.1617    +0.0130
+JER                 0.3868         0.3996    +0.0129
+Miss                0.0455         0.0596    +0.0141
+False Alarm         0.0503         0.0381    -0.0122
+Confusion           0.0528         0.0640    +0.0112
+
+Preprocessing HURTS (or ties)
+
+Model: pyannote/speaker-diarization-community-1
+================================================================
+File                    Raw DER   Prep DER      Delta    Better?
+----------------------------------------------------------------
+aepyx                    0.1360     0.1441    +0.0081        raw
+aggyz                    0.0670     0.0608    -0.0063       prep
+aiqwk                    0.1125     0.1092    -0.0034       prep
+aorju                    0.1029     0.1159    +0.0130        raw
+auzru                    0.0285     0.0223    -0.0061       prep
+bgvvt                    0.1255     0.1325    +0.0070        raw
+bidnq                    0.1999     0.2084    +0.0085        raw
+bjruf                    0.1598     0.2139    +0.0541        raw
+bmsyn                    0.3282     0.3206    -0.0076       prep
+bpzsc                    0.0953     0.1051    +0.0097        raw
+
+AVERAGES:
+Metric                 Raw   Preprocessed      Delta
+----------------------------------------------------
+DER                 0.1356         0.1433    +0.0077
+JER                 0.3283         0.3393    +0.0110
+Miss                0.0455         0.0596    +0.0141
+False Alarm         0.0503         0.0381    -0.0122
+Confusion           0.0397         0.0455    +0.0058
+
+Preprocessing HURTS (or ties)
+
+```
