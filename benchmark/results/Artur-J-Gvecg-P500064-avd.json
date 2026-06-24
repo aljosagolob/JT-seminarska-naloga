@@ -1,0 +1,3436 @@
+{
+  "file_id": "Artur-J-Gvecg-P500064-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500064-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.13881736724266844,
+      "miss": 0.07180642944700173,
+      "fa": 0.021636356957445594,
+      "confusion": 0.0453745808382211,
+      "total_duration": 3239.5009999999465
+    },
+    "der_collar0.25": {
+      "der": 0.12864612394657968,
+      "miss": 0.05989024122992225,
+      "fa": 0.023030576699353614,
+      "confusion": 0.045725306017303825,
+      "total_duration": 3016.2509999999465
+    },
+    "wer": {
+      "wer": 0.2073416700282372,
+      "ref_words": 7437,
+      "hyp_words": 6828
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_02",
+        "start": 0.453,
+        "end": 24.687,
+        "text": "Torej, spoštovani gostje, v prvi vrsti seveda bolniki z atopijskim dermatitisom, njihovi svojci, vsi tisti, ki vas ta tematika današnja, torej tematika atopijskega dermatitisa iz takšnega ali drugačnega razloga zanima in bi danes radi se kaj novega v tej tematiki naučili, kaj novega izvedeli, preprosto kaj novega slišali, cenjeni naši govorci,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 25.327,
+        "end": 39.33,
+        "text": "Spoštovani novinarji, za katere upamo, da boste nam pomagali širiti glas in prave informacije, predvsem o atopijskem dermatitisu, lahko rečemo vsako slovensko vas, prav vsi, ki ste danes z nami, tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 40.585,
+        "end": 45.888,
+        "text": "Tisti, ki ste tukaj v knjižničnih prostorih, predvsem pa veliko več vas je pred računalniškimi ekrani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 46.209,
+        "end": 56.215,
+        "text": "Vse skupaj vas v imenu organizatorja današnjega dogodka, to je Zavoda Atopike, lepo pozdravljam in se vam zahvaljujem, da ste si vzeli čas za naše druženje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 56.235,
+        "end": 63.2,
+        "text": "V Zavodu Atopika obeležujemo Svetovni dan atopijskega dermatitisa že tretje leto zapored, prvič v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 63.92,
+        "end": 74.086,
+        "text": "Sicer pa je 14. september, svetovni dan atopijskega dermatitisa, vse od leta 2018, to vrstne pobude pa so obstajale že vrsto let predtem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 74.166,
+        "end": 78.489,
+        "text": "Vsako leto poteka pod drugačnim geslom, letošnji se glasi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 78.989,
+        "end": 104.715,
+        "text": "hashtag uniteforatopikexem, kar bi lahko v prevodu povzeli nekako takole, stopimo skupaj za atopijski dermatitis, pomagajmo bolnikom seznaniti se z vsemi posledicami te bolezni, pomagajmo jim, opolnomočimo jih, da se sprejmejo takšne kot so, da sprejmejo svoje bolezensko stanje, predvsem pa širimo prave informacije o tej bolezni v družbi,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 105.415,
+        "end": 118.559,
+        "text": "da bodo bolj razumljeni, da bodo sprejeti, ne pa zavrnjeni, ožigosani, stigmatizirani, ker se žal, lahko rečemo, še vedno zaradi nepoznavanja bolezni v družbi, še vedno prepogosto dogaja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 119.259,
+        "end": 127.541,
+        "text": "Prav to, kaj pomeni živeti z atopijskim dermatitisom, je že v rani mladosti doživela na lastni koži izkusila naša prva govorka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 127.621,
+        "end": 131.202,
+        "text": "Danes to je ustanoviteljica zavoda Atopika, gospa Tina Mesarič."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 131.723,
+        "end": 132.803,
+        "text": "Gospa Tina, pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 133.343,
+        "end": 148.374,
+        "text": "Med odraščanjem ste v primežu močno poškodovane kože in pa neznosnega srbeža, ki spremlja praviloma vse le atopijske dramatite, sami na lastni koži občutili vse tisto, kar občutijo vsi bolniki, ki se soočajo z hudo obliko te bolezni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 148.574,
+        "end": 156.06,
+        "text": "Nam lahko zaupate nekaj grenkih izkušenj iz svojega otroštva, kako se je čutila bolezen in vse še čuti pri vas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 156.614,
+        "end": 158.595,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 158.695,
+        "end": 168.54,
+        "text": "Morda najprej bi se želela zahvaliti vsem, ki ste danes z nami tukaj, da boste z nami preživeli današnji dan, svetovni dan atopijskega dermatitisa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 168.9,
+        "end": 179.525,
+        "text": "Predvsem bi se želela zahvaliti gostom okrog le mize, da ste si vzeli čast in da bomo skupaj ozaveščali o atopijskem dermatitisu in da bomo naslovili težave, s katerimi se bolniki soočamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 179.885,
+        "end": 197.642,
+        "text": "Z atopijskem dermatitisom se soočam že od zgodnega otroštva, bolezen spremlja vneta, rdeča, razdražena, razpraskana, suha koža z izjemno močnim, nepredstavljivim srbežom, gre za srbež, ki ga zdrav človek ne more občutiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 198.363,
+        "end": 227.584,
+        "text": "Bolezen pa spremljajo tudi lahko pri težjih oblikah zelo obširne rane, lahko bolečine, bolečine so kar prisotne, ampak tudi številna pridružena bolezenska stanja od različnih alergij, astme, dihalnih stisk, lahko bolečinov v sklepih, artritis, lahko tudi kronične vnetne črvesne bolezni, depresija, anksioznost, ADHD in tudi drugo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 228.265,
+        "end": 231.289,
+        "text": "Drugače, kako sem se počutila?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 231.35,
+        "end": 238.821,
+        "text": "Počutila sem se v bistvu kot vsi bolniki z atopijskim dermatitisom, osamljeno, izolirano, nerazumljeno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 240.343,
+        "end": 243.167,
+        "text": "Počutila sem se v bistvu predvsem nemočno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 243.908,
+        "end": 252.296,
+        "text": "In brez nekih pomembnih informacij, ki bi jih recimo potrebovala, da bi se lahko uspešneje soočila z boleznjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 252.356,
+        "end": 263.967,
+        "text": "Zdaj, ker si vprašala glede grenkih izkušenj, zdaj, atopijski dermatitis lahko ima veliko obrazov, lahko poteka v zelo blagi obliki, lahko pa poteka v izjemno težkih oblikah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 264.327,
+        "end": 289.213,
+        "text": "In tukaj bi morda želela izpostaviti, da te težke oblike so lahko res težke in ohromijo lahko bolnika do take mere, da si ne more opravljati osnovnih zadev, kot je recimo, da si bi pripravil hrano, da bi si lahko negoval kožo, recimo, da bi lahko šel v trgovino do zdravnika, vse to je v bistvu zelo, zelo za bolnika težko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 289.893,
+        "end": 311.547,
+        "text": "Drugače bolezen, kot sem že večkrat povedala, močno pri zadane odnose, pri zadane družinske odnose, partnerske odnose, bolniki se pa pogosto soočajo tudi z različnimi oblikami nasilja, predvsem pri naših otrokih, najmlajših, z medvrstniškim nasiljem, ki se že lahko začne pač z izolacijo, že odvrca naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 311.847,
+        "end": 314.589,
+        "text": "O vsem tem bomo danes še govorili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 314.87,
+        "end": 320.695,
+        "text": "Tule gre torej precej več, kot zgolj za kožno bolezen, kot si marsikdo v javnosti predstavlja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 321.115,
+        "end": 331.585,
+        "text": "No in prav zaradi vsega tega, kar ste zdaj našteli, se je v vas že zelo kmalo porodila želja, da bi pomagali ljudem, bolnikom s podobnimi oziroma enakimi bolezenskimi znaki, kot ste jih imeli sami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 332.005,
+        "end": 336.029,
+        "text": "Zdaj je potoliko, ne bom rekla letih, desetletih praktično izkušen, lahko"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 336.029,
+        "end": 356.257,
+        "text": "Kako rečete, da je danes vendarle bovnikom kaj lažje, da je javnost vendarle bolj ozaveščena, da je zdravljenje in bolezen sistemsko bolje obrajena, da je kvaliteta bovnikov z atopijskim dermatitisom vendarle višja in zavedanje tako med stroko bovniki kot v širši javnosti višje, kot je bilo recimo pred nekaj desetletji, ko ste se vi prvič sočili?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 356.735,
+        "end": 368.744,
+        "text": "Ja, mislim, da lahko rečem, da je stanje v zadnjih letih veliko boljše, zavedanje o bolezni tako med javnostjo kot tudi med stroko veliko više, kot je to bilo prej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 369.525,
+        "end": 375.75,
+        "text": "O bolezni se torej zelo, zelo veliko govori in upam, da bomo še s tem tudi nadaljevali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 376.09,
+        "end": 383.074,
+        "text": "Za bolnike se recimo danes izvaja tudi veliko aktivnosti, če se mi recimo včasih nismo imeli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 383.094,
+        "end": 398.163,
+        "text": "Recimo v Zavodu Atopika tako organiziramo podporne skupine, izobraževanja, delavnice, sodelujemo z stroko, organiziramo izobraževalne kongrese, imamo recimo letos bomo izdali že drugo našo izobraževalno revijo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 398.483,
+        "end": 407.369,
+        "text": "Imamo tudi različne prostočasne aktivnosti, letos smo recimo naše bolnike in njihove starše peljali v živalski vrt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 407.429,
+        "end": 413.153,
+        "text": "Drugače smo pa recimo zelo ponosni tudi na našo online svetovalno platformo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 413.553,
+        "end": 422.338,
+        "text": "kjer svetujeta dve dermatologini, v kateri tudi naša doktor Olga Točkova, alergolog, psihologinja in farmaceutka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 422.738,
+        "end": 429.922,
+        "text": "To so v bistvu bolniki lahko zastavijo različno vprašanje in potem zdravniki na njih oziroma strakonjaki na ta vprašanje odgovorijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 430.462,
+        "end": 434.585,
+        "text": "Bolniki imajo tudi na voljo več zdravil, kot smo jih imeli včasih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 435.406,
+        "end": 452.039,
+        "text": "So pa področja, na katerih mislimo, da je še vedno potrebno veliko dela, to je to, kaj mi že v bistvu v sodelovanju z Ostrovko večkrat omenjamo, da pač potrebujemo multidisciplinarno timsko obravnavo, nekaj, se pravi, obravnavo, ki je orientirana na bolnika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 453.901,
+        "end": 465.829,
+        "text": "Na ta način smo mnenja, da je edini način, da lahko bolnikom zagotovimo res neko celostno podporo, tako za zdravstvenega vidika, kot psihosocialno podporo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 466.19,
+        "end": 468.451,
+        "text": "Morda še to velik problem, recimo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 469.763,
+        "end": 480.226,
+        "text": "Še vedno vidim recimo pri težkih bolnikih, pri katerih se določene pravice, ki bi se jim morale priznati, se jim nažalost še ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 480.726,
+        "end": 485.027,
+        "text": "To mislim, da bomo pač s časoma prišli tudi do tja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 485.327,
+        "end": 494.429,
+        "text": "Prijav imamo tudi, zelo sem žalostna, ko recimo pridajo starši, ki se že soočajo z težko obliko bolezni pri otroku in se recimo zaradi nerazumevanja javnosti"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 494.789,
+        "end": 503.813,
+        "text": "recimo se jim lahko zgodi, da so pač, jih ostavijo na cesti in jim grozijo pač, da zanemarja otroka, da jo bo prijavljen na centr za socialno delo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 503.853,
+        "end": 510.397,
+        "text": "To so res težke zgodbe, o katerih je treba upozarjati, na katere je potrebno upozarjati in se pravi ozaveščati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 510.857,
+        "end": 523.063,
+        "text": "Ampak želela bi morda samo povedati tukaj, to so v bistvu samo zgodbe, to so bolnikove zgodbe, pripovedi, s pomočjo katerih mi lahko seveda ozaveščamo, ampak"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 523.763,
+        "end": 527.987,
+        "text": "Težko pa bomo na ta način prišli do nekih sistemskih sprememb."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 528.047,
+        "end": 543.362,
+        "text": "Mislim, da tukaj je nujno potrebna analiza stanja, trenutnega stanja in to mislim, da bomo lahko si, to bomo ravno naredili z projektom, ki ga mi trenutno izvajamo in sicer Active Citizen Spawn Slovenije, pogled globje, sem več kot moja kožja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 543.963,
+        "end": 551.626,
+        "text": "Gre za projekt, ki ga izvajamo v sodelovanju z Univerzitetnim kliničnim centrom in Severno norveško kliniko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 552.086,
+        "end": 560.829,
+        "text": "V sklopu tega projekta bomo izvedli več aktivnosti, tako da vabim številne bolnike, da se te aktivnosti pogledate na naši spletni strani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 561.549,
+        "end": 566.591,
+        "text": "Gre za participativn projekt, tako da res si želimo, da se bolniki vključujajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 567.031,
+        "end": 580.359,
+        "text": "Ampak najpomembnejše pri tem projektu je, da bomo v bistvu lahko izvedli neko nacionalno raziskavo, analizo trenutnega stanja in raziskali kvaliteto življenja bolnikov z atopijskim dermatitisom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 581.02,
+        "end": 589.165,
+        "text": "Vprašalnik je tudi zastavljen zelo inovativno, vprašalnik smo oblikovali skupaj bolniki in pa njihovi svojci,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 589.525,
+        "end": 601.688,
+        "text": "ključno za stroko, za zdravniki in psihologi in upamo, da bomo vprašalnik lahko lansirali naslednji mesec, tako da vabim bolnike, da res vprašalnik izpolnijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 602.168,
+        "end": 609.51,
+        "text": "Ogromno istočnit ste nam dali, gospodina Mesarič, hvala lepo za zdaj pomoč, torej je lepo iskati, jo je treba."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 609.91,
+        "end": 613.732,
+        "text": "Zdaj pa bi vam rada predstavila današnje osrednje govorce."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 614.192,
+        "end": 634.244,
+        "text": "Z nami so doktorica medicine, dermatologinja in vodja otroške ambulante v Univerzitetnem kliničnem centru v Ljubljani, gospa Olga Točkova, gospod Jure Mikolič, magister farmacije z Zavoda za zdravstveno zavarovanje Slovenije, gospod Dušan Mikuš, generalni direktor direktorata za družino z Ministrstva za delo družino socialne zadeve in"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 634.244,
+        "end": 635.645,
+        "text": "in enake možnosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 635.845,
+        "end": 650.699,
+        "text": "Potem gospod Boštjan Vernik Šetinc, pravnik in pa strokovni sodelovec zagovornika načela enakosti, ki je danes, tisti boste v nekateri morda opazili, razkorak med vabilom, njegova kolegica je nam zbolela, ampak vendar le dobrodošli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 651.62,
+        "end": 657.726,
+        "text": "In pa gospa Tika Hribar, blogarka za Nego kože, sicer pa tudi sama bovnica"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 658.311,
+        "end": 662.212,
+        "text": "prav tako od rane mladosti z atopijskim dermatitisom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 662.332,
+        "end": 664.793,
+        "text": "Doktor Točkova, predlagam, da začneva midve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 665.293,
+        "end": 687.381,
+        "text": "Nam lahko za začetek, da ste predstavite nekaj osnovnih informacij o sami bolezni, kaj atopijski dermatitis sploh je, zakaj nekdo zboli za njim, kdo običajno, v katerem življenjskem obdobju, kako poteka postavitev, same diagnoze in kam po pomoč, če sumimo na atopijski dermatitis pri sebi, še bolj pogosto pa se to dogaja pri naših otrocih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 690.238,
+        "end": 708.13,
+        "text": "Torej se za bolnika, ker gre v veliko primerjih za mlajše, za otroke, v bistvu za njihove cele družine začne nek cikl, neka spirala, nek dolg proces, jih čakajo najprej postavljanja, diagnoze, na to zdravljanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 708.29,
+        "end": 713.994,
+        "text": "Nekako je omenila že gospodina na začetku, da se boležen seveda ne kaže samo na koži."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 714.034,
+        "end": 719.138,
+        "text": "Katere so še tisti drugi simptomi, ki spremljajo atopijski dermatitis?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 721.741,
+        "end": 724.762,
+        "text": "Morda omenili ste blaga, zmerna in pa huda oblika bolezni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 724.842,
+        "end": 737.108,
+        "text": "Koliko odstotkov je tistih najhujših oblik, kjer dejansko, kot je gospodina povedala, je človek, bovnik nezmožen za vsakodnevno funkcioniranje in potrebuje pomoč?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 737.228,
+        "end": 738.849,
+        "text": "In bolezen je v porastu, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 739.069,
+        "end": 740.31,
+        "text": "To je tudi pomembno povedati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 747.948,
+        "end": 772.86,
+        "text": "Glede na to, da ste dejali, da se bolezen pri različnih bolnikih kaže, zelo različno je tudi zdravljenje, kot ste dejali, prilagojeno vsakemu posamezniku, a vendar le lahko kaj poveste, kako poteka tisto osnovno zdravljenje, s čim poskusite najprej in če kaj še dodajate oziroma čemu, kako se odločate potem za nadaljevanje zdravljenja, če nekatere zdravila delujejo, druga ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 776.534,
+        "end": 778.375,
+        "text": "Hvala lepa za zdaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 778.475,
+        "end": 787.139,
+        "text": "Predsej smo sedaj že povedali o zdravljenju, zato bi gospod Jure Mikolič mi dva nadaljevala, ker tukaj smo z gospod Točkov okončali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 787.82,
+        "end": 793.362,
+        "text": "Torej vseh teh letih se je zdravljenje vendarle predsej spremenjalo, prva bojna linija, torej so vedno bili..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 794.843,
+        "end": 802.992,
+        "text": "kot je že dr. Točkova dejala, kortikosterojidi, mimo katerih ne more praktično noben bolnik z zatopijskim dermatidisom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 803.052,
+        "end": 815.505,
+        "text": "Vemo tudi, da se okoli njih, tako kot v obštevilnih drugih boleznih in zdravilih, nemajo vroče razprave o njihovih stranskih učinkih, o tem, kakšno zdravljenje bi bilo najbolj primerno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 815.785,
+        "end": 830.576,
+        "text": "Potem so tu še antihistaminiki za zdravljenje alergij pa imunosopresivi, kot ste dejali, torej zdravila za zaviranje imunskega odziva, kot sta ciklosporin in metotreksat, ki pa naj bi prav tako imeli celo vrsto stranskih učinkov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 830.596,
+        "end": 836.521,
+        "text": "Sedaj imamo že več vrst bioloških zdravil, kot ste mi dejali, predtem prihajajo vedno nova."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 836.561,
+        "end": 840.124,
+        "text": "Na drugi strani številni bolniki, ki so sredi zdravljenja"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 840.524,
+        "end": 859.991,
+        "text": "obupanje, ker se jim stanje kože ne popravi tako, kot bi si želeli, seveda bi vsi želeli, da se nam to zgodi tako in zdaj, da pride olajšanje, potem posežejo po različnih tako imenovanih naravnih preparatih, ki pa so se žal večkrat izkazali, da niso ne le naravni, ampak da so večkrat"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 860.251,
+        "end": 866.033,
+        "text": "tudi nevarni, tako da precej zapleteno in zahtevno področje je zdravljenje atopijskega dermatitisa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 866.133,
+        "end": 889.102,
+        "text": "Moje vprašanje bi bilo, ali trenutno obstajajo pravila, do katerih oblik zdravljenja sobovniki z atopijskim dermatitisom upravičeni oziroma kdaj, oziroma ali je treba preden, morda posežemo po teh novejših bioloških zdraviljih, še vedno najprej potrebno je zdravljenje z drugimi sistemskimi zdraviljih, katere je omenila že doktor Točkova."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 890.407,
+        "end": 893.309,
+        "text": "Ja, lepo zdrav."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 894.369,
+        "end": 906.096,
+        "text": "Torej, tako kot je doktor Točkova rekla v prejšnjem govoru, za zdravljanje atopijskega dermatitisa imamo smernice, mednarodne smernice evropske, ki se jih držijo tudi naši dermatologi."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 906.156,
+        "end": 910.478,
+        "text": "Tako da vedno je v bistvu, tudi pri drugih boleznih, je vedno stopensko zdravljanje."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 910.698,
+        "end": 918.563,
+        "text": "Zdravila, s katerimi se začne zdravljanje in končna linija zdravljanja, kot ste omenili, to biološko zdravilo dopiksent."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 919.263,
+        "end": 926.646,
+        "text": "Pomembno se mi zdi omeniti, tako kot ste tudi sami namignili, vsa zdravila ima svoje stranske očinke."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 927.507,
+        "end": 931.849,
+        "text": "Tudi ta najnovejša tarčna zdravila Dupixent ima določene stranske očinke."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 932.869,
+        "end": 936.951,
+        "text": "Mislim, da najbolj pogosti je z vnetjem oči in pa vek."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 938.471,
+        "end": 941.013,
+        "text": "Nedolgo nazaj smo razvrstili tudi novo zdravilo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 943.394,
+        "end": 946.997,
+        "text": "Imenuje se Olumiant baricitinib."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 947.578,
+        "end": 953.984,
+        "text": "To zdravilo se uporablja per os, se pravi jemlje se v tabletah vsakodnevno."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 954.964,
+        "end": 961.61,
+        "text": "To zdravilo je ravno tako razvrčeno za zdravljanje zmerno dohude oblike atopijskega dermatitisa."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 962.311,
+        "end": 975.999,
+        "text": "Edino, kar je, se pravi, če smo rekli, da je uporaba tabletev vsakodnevno malce lažja kot Dupixent, ki se uporablja subkotana, ima pa mogoče malinko slabšo očinkovitost."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 976.059,
+        "end": 978.68,
+        "text": "Tako da ima določeno prednost, ima določena slabost."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 981.194,
+        "end": 993.014,
+        "text": "Mogoče bi omenil še to, se pravi tudi pri tem novemu zdravilu so resni pomislike pri določenih stranskih očimkih, globoka venska tromboza, pručna embolija, tudi kakšne maligne bolezni."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 994.66,
+        "end": 1011.267,
+        "text": "Se pa na tem področju dela veliko raziskav, nedolgo nazaj smo dobili informacijo, da še ena mednarodna firma prihaja z še enim novim zdravilom, ki bo imela tudi boljšo učinkovitost in bo imela uporabo ravno tako v tabletah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1012.547,
+        "end": 1019.47,
+        "text": "Imajo torej trenutno slovenski bolniki z atopijskim dermatitisom na voljo vsaj najboljša zdravila kot drugi je po svetu?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1020.395,
+        "end": 1042.691,
+        "text": "Po mojem mnenju ja, vedno je v bistvu na zavralnici, vedno čakamo, da firma, proizvajalec pripravi vlogo za to, da bi se zdravilo razvrstilo, da bi bilo namenjeno za uporabo za naše bolnike, tako da mi vedno počakamo, da firma pripravi vlogo za to novo zdravilo, ko dobimo vlogo, se to pregleda, oceni."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1043.412,
+        "end": 1054.221,
+        "text": "In trenutno lahko rečemo, da naši bolniki imajo vso terapijo, ki je dosegljiva v svetu, tudi pri nas razvrščeno za naše bolnike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1054.341,
+        "end": 1057.903,
+        "text": "Oba z dr. Točkovo sta že omenila stranske učinke."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1058.064,
+        "end": 1059.605,
+        "text": "Nekateri bolniki, predvsem tisti,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1059.865,
+        "end": 1079.885,
+        "text": "z zmerno ali pa v večjem številu še z hudo obliko bolezni, opozarjajo na te stranske učinke, da se lahko zaradi uporabe teh zdravil kortikosteroidnih v prvi vrsti razvijajo dolgotrajne posledice, jih pa, kot sami pravijo, predvsem na primarni ravni zdravniki radi predpisujejo,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1081.246,
+        "end": 1100.839,
+        "text": "mnogi včasih porečejo, seveda v ljuči tega, kar smo že pred dejali, ker so preprosto obupani, ker zdravila ne pomagajo, da niso slišani, da to obstaja takore kot števu tema pri nas in da je to zdravljenje za njih morda še težje preizkušnje kot samo soočanje z boleznjo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1100.899,
+        "end": 1101.96,
+        "text": "Kaj vi porečete na to?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1104.837,
+        "end": 1105.538,
+        "text": "Ja, absolutno."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1105.618,
+        "end": 1111.483,
+        "text": "Pogovor z zdravnikom se pravi, če res določeno zdravljanje ni tako zelo očinkovito, kot bi se želeli."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1111.884,
+        "end": 1118.59,
+        "text": "Če so neželeni očinki, se z svojim zdravnikom pogovorijo in potem grejo lahko na naslednjo linijo zdravljanja."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1118.61,
+        "end": 1127.338,
+        "text": "Tako kot ste prej rekli, obstajajo še sistemske zdravila, ki se uporabljajo in na koncu tudi Dupixent in Olumiant."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1127.939,
+        "end": 1152.743,
+        "text": "Predlega ste mi zastavili še vprašanje, ali je za predpisovanje dupiksenta, se pravi biološkega zdravila, potrebno zdravljanje za sistemski zdravili, ne v umetni predpisovanju, pri nas imamo napisano, da ko je bolnik primeren za sistemsko zdravljanje, lahko dobi ali tarčno biološko zdravilo, ali ostala sistemsko zdravljanje, se pravi v isti liniji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1152.863,
+        "end": 1158.882,
+        "text": "To je pa potem odločitev vsakega posameznega zdravnika, specialista, dermatologa v tem primeru, gospodočko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1161.183,
+        "end": 1165.565,
+        "text": "Torej, dolgotrajna in kompleksna bolezen zahteva dolgotrajno in kompleksno zdravljenje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1165.865,
+        "end": 1183.913,
+        "text": "Še tole bi vas morda vprašala, že obasta sedaj govorila o teh zdravilih, kako pomembna je pravilna, dosledna uporablja teh, ste, gospa doktorica Točkova, kdaj so očeni, čutite tisto nemoč, predvsem staršev teh otrok, ki pridejo veliko zahtevati,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1183.913,
+        "end": 1185.994,
+        "text": "zahteva ta bolezen od njih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1186.294,
+        "end": 1196.119,
+        "text": "Veliko se morajo naučiti, kako se te starši, seveda otroci so premajhni, sploh soočijo, kako vam jih uspe vsega tega naučiti, konec koncev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1199.321,
+        "end": 1205.164,
+        "text": "In vaše izkušnje so, starši so dovzetni, konec koncev in drugega verjetno ne preostane, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1207.808,
+        "end": 1212.249,
+        "text": "Gospod Mikolič, kaj pa stroški zdravljanja?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1212.929,
+        "end": 1225.913,
+        "text": "Vemo, atopijski dermatitis, večkrat smo že povdarili, poseže močno v življenje takšnih družin, po nekaterih ocenah tudi do 20 in celo več odstotkov družinskega proračuna gre za"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1226.033,
+        "end": 1242.745,
+        "text": "za zdravljanje, za vse, kar potrebujejo ti bovniki, to so številne negovalne kreme, potem so tu potrebna primerna oblečila, primerna prehrana, da ne govorimo o luksusu, ki si ga lahko prevoščijo le redki, da ko je najhuje, ne, vemo, da je atopijski dermatitis"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1242.925,
+        "end": 1253.978,
+        "text": "Pri večini bolnikov najholjši v zimskih mesecih, ko je vreme neprijazno in takrat se nekatere družine, če le imajo možnosti, bolniki omaknijo kam natoplo, ampak to vendarle vse stane."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1254.579,
+        "end": 1258.003,
+        "text": "Zelo problematično je, kot opozarjajo bolniki, da ZZZS"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1258.383,
+        "end": 1267.706,
+        "text": "Pri teh bolnikih ne krije stroškov za tako osnovne stvari, kot so dovolj mazila, kot so vatiranci, kot so tipo voji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1268.006,
+        "end": 1281.49,
+        "text": "Zakaj je temu tako in na vas se obračamo z vprašanjem, kaj naredimo lahko kot skupnost, da vendarle tukaj gremo nas proti bolnikom in njihovim družinam, da bi bilo več teh izdatkov kri tih strani zavarovalnice."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1283.257,
+        "end": 1292.161,
+        "text": "Glede količine mazil, je že doktor Točkova omenjala, da je navedeno v evropskih smernicah, kakšna količina pripada vsakemu bolniku."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1292.921,
+        "end": 1302.505,
+        "text": "Jaz mislim, da se vse en zdravniki glede na vsak primer bolnika težo bolezni odločajo ali se ta količina vseeno lahko prilagodi."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1303.246,
+        "end": 1307.228,
+        "text": "So pa določene kreme, ki pa jih zavod ne krije."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1309.888,
+        "end": 1322.437,
+        "text": "Kolikor sem videl, so v bistvu to stare kreme, ni mi znano, ali jih je včasih zavarovalnica plačevala ali ne, ampak pri teh kremah imamo dve možnosti."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1322.597,
+        "end": 1329.782,
+        "text": "Ena možnost je, da recimo na priporočilo društva bolnikov,"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1330.102,
+        "end": 1340.216,
+        "text": "prosite firmo, proizvajalca te kreme, da pripravi vlogo, da bi zavarovalnica krila stroške zdravljenja tudi z tem mazilom."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1340.857,
+        "end": 1341.698,
+        "text": "To je ena možnost."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1341.758,
+        "end": 1345.884,
+        "text": "Druga možnost pa je, da spet ali društvo bolnikov"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1348.985,
+        "end": 1364.888,
+        "text": "pripravi oziroma prosi zdravnika, dermatologa, recimo dermatološko kliniko, če lahko dajo pobudo na zavrvalnico, da se te določene kreme, katere jih zavod ne plačuje, če bi se jih lahko vključilo v zavrvanje."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1365.468,
+        "end": 1373.29,
+        "text": "To potem zavod obravnava na sejah za nova zdravila in ukolikor je zdravila učinkovito, dokazano, varno,"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1373.69,
+        "end": 1376.812,
+        "text": "Ne vidim razloga, zakaj se recimo v take stvari ne bi."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1376.832,
+        "end": 1381.755,
+        "text": "Ampak mora pa pridati pobudost ali strani klinik, ali pa strani proizvajalca."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1381.895,
+        "end": 1388.84,
+        "text": "Torej v bistvu vračate žogico in pozivate sami takšna društva, zavode, zdravnike?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1389.88,
+        "end": 1398.586,
+        "text": "Zavod ima veliko vlog vsakodnevno, tako da dejansko mi ne iščemo proaktivno sami kaž, kaj bi še lahko recimo dodatno financirali."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1399.103,
+        "end": 1403.553,
+        "text": "Pa vprašanje je bilo še to o vezilni materjal."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1403.854,
+        "end": 1406.159,
+        "text": "Tudi tu sem ugotovil, da"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1407.878,
+        "end": 1414.502,
+        "text": "je krito, ampak za določene bolnike."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1414.682,
+        "end": 1425.709,
+        "text": "Se pravi, za njega na domu pri, čakajte, to moram pa pogledati, se upravičujem, za bolnike z ranami, razjedami,"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1430.272,
+        "end": 1433.893,
+        "text": "pri bolezenskih stanjih, nekaj v tem stilu."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1433.933,
+        "end": 1446.517,
+        "text": "Tako da, v bistvu tudi tukaj, pri obveznilnem materijalu je treba dati neko pobudo, da bi se vključilo tudi bolnike z atopijskem dermatitisom, da bi kriv zavod stroške tudi zadeval."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1446.537,
+        "end": 1457.16,
+        "text": "Naprimer, če sem jaz prav obeščena, bolniki z luskavico so upravičeni in z nekaterimi drugimi bolezenskimi stanji do vseh teh dodatkov, ali drži to?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1458.487,
+        "end": 1474.657,
+        "text": "Torej, pričakujete torej kakšno pobudo in se lahko potem zgodijo premiki tudi na tem področju, ker bi se bolniki verjetno zaslužili, ne da se poleg vseh tegob, ki jih imajo, ukvarjajo še s temi finančnimi posledicami bolezni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1475.918,
+        "end": 1492.114,
+        "text": "Bovniki, hvala lepa, bovniki že dalj časa opozarjajo na potrebo po celostni obravnavi, mnogi tarnajo, da so zapostavljeni strani države, pogosto se počutijo preslišene, osamljene zaradi premalo poznavanja držav."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1494.616,
+        "end": 1514.123,
+        "text": "bolezni v družbi, se počutijo, da so deležni številnih kravic, verjetno je to naloga in kriv danes vse, ker, kajte, ko smo že večkrat podalili, je bolezen vendarle še vedno premalo poznana in prav zato smo v današnjo sredino danes povabili tudi gospoda Dušana Mikuža, generalnega direktorja, direktorata za družino."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1514.143,
+        "end": 1515.584,
+        "text": "Gospod Mikuž, pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1515.784,
+        "end": 1524.107,
+        "text": "Kdo torej odloča, ali družina otroka z atopijskim dermatitisom dobi dodatek za njego in na podlagi česa se zato odločite?"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1525.362,
+        "end": 1527.383,
+        "text": "Hvala za vabilo najprej."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1528.364,
+        "end": 1551.081,
+        "text": "In res te družine, ki se soočajo s takimi boleznimi, ki niso tako redke, pa tudi z redkimi boleznimi, pa drugimi stani, so res soočene z neko preizkušnjo, kako vse to tako časovno kot finančno nekako predelati in živeti s tem."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1552.7,
+        "end": 1574.973,
+        "text": "Na ministerstvu za delo je bil že pred časom sprejeta možnost in pravica, da v primeru, če so določene hude bolezni ali pa tudi določena stanja pri zadetost otrok, pripada staršem pravica do dodatka za nebo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1575.693,
+        "end": 1580.336,
+        "text": "In sicer ta pravica se uvljavlja na Centru za socialno delo,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1581.016,
+        "end": 1593.339,
+        "text": "kjer vložijo starši vlogo z vsemi, z vso kartoteko, z vsemi dokazili, ki dokazujo, da so lahko upravičeni do tega dodatka."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1594.539,
+        "end": 1606.282,
+        "text": "In sicer katere vrste bolezni so pripoznane za dodatek oziroma tudi za različne višine dodatka, je določeno v pravilniku."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1607.273,
+        "end": 1621.822,
+        "text": "In na podlagi tega potem Centar za socialno delo ne odloča sam, ampak to dokumentacijo, se pravi zdravniško dokumentacijo, pošlje zdravniški komisiji prve stopnje."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1621.882,
+        "end": 1632.229,
+        "text": "Zdravniških komisij prve stopnje v Sloveniji jih je šest, sicer pet zdravniških komisij je na prvi stopni in ena je na drugi stopni."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1632.991,
+        "end": 1646.749,
+        "text": "Te zdravniške komisije delujejo v povečjih krajih v Sloveniji, v zdravstvenih domovih, recimo Mariboru, Ljubljani, Kopru, potem pa tudi na univerzitetnem kliničnem centru, na pediatrični kliniki."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1647.824,
+        "end": 1657.295,
+        "text": "To je primarna stopnja in potem je še ena zdravniška komisija, ki deluje na sekundarni stopni, ki je tudi na pediatrični kliniki."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1658.116,
+        "end": 1667.868,
+        "text": "Se pravi, ko starši oddajo to vlogo, gre vloga na zdravniško komisijo, ki oceni vsako vlogo individualno"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1668.631,
+        "end": 1679.993,
+        "text": "pregleda konkretno, za katero stvar gre, na kakšni stopni je bolezen in na podlagi tega mnenja Centra socialno delo odloči."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1680.693,
+        "end": 1695.236,
+        "text": "Tako na začetku ste dejali, da so te družine v časovni in finančni stiski, kako dolgi pa so te postopke, omenili ste več komisij, ali dobijo takšne družine pomoč potem pravočasno ali bi vendarle, morda tu lahko bili hitrejši?"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1696.542,
+        "end": 1707.725,
+        "text": "Tukaj se trudimo in res tudi prednostno se opravnava za ostankov na tem področju ni in jih tudi res redno rešujemo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1707.825,
+        "end": 1725.39,
+        "text": "Tudi zdravniška komisije so zelo odzivne, tudi v času epidemije so se prilagodile, so ocenjavale te vloge nadaljavo, tako da je teklo in smo tudi to dali kot neko prednost, da stvar redno teče."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1726.411,
+        "end": 1734.26,
+        "text": "Se pa zgodi kdaj, da recimo starši imajo možnost, če je dobilo negativno odločbo, da se pritožijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1734.74,
+        "end": 1737.864,
+        "text": "Koliko pa je morda teh negativnih odločev, imate morda podatek?"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1738.696,
+        "end": 1758.89,
+        "text": "Ne, zdaj trenutno ga ne bi imel točnega podatka, ampak na podlagi teh pritožb potem dejansko ocenuje še komisija na drugi stopni, se pravi, da je nekako zagotovljen strokovni pregled in tudi, če slučajno neka zdravniška komisija kaj spregleda, je potem na drugi stopni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1759.705,
+        "end": 1775.189,
+        "text": "Nekateri starši nam poročajo, starši otrok z atopijskim dermatitisom, da so dobili dodatek takšni otroci oziroma družine le, če je bila prisotna potrljena alergija na tri osnovna hranila, pa čeprav gre v resnici za dve ločeni bolezenski stanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1775.249,
+        "end": 1784.191,
+        "text": "Starši otrok z atopijskim dermatitisom tukaj, kot nam sami pravijo, prizadane tudi predvsej različna praksa pri odločanju za ta dodatek."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1784.471,
+        "end": 1788.872,
+        "text": "Od junija letos naj bi bilo še slabše, saj naj bi bili do tega dodatka, kot smo obiščeni,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1789.152,
+        "end": 1797.856,
+        "text": "upravičeni samo tisti, pri katerih pride doh hospitalizacij, vemo pa, da je bilo teh vendarle zaradi koronavirusa, kot ste omenili, manj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1799.016,
+        "end": 1805.199,
+        "text": "Na vas bi se želeli, tako kot prej, na gospoda zavoda za zdravstveno zavodanje obrniti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1805.919,
+        "end": 1812.362,
+        "text": "Želijo, da nam daste na svet, kaj lahko skupno z bovnikom naredi, da tukaj vendarle naredimo kakšen korak naprej."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1814.465,
+        "end": 1816.027,
+        "text": "Hvala za pobodo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1816.167,
+        "end": 1825.738,
+        "text": "Na ministrstvu spremljamo vse pobode, ki jih dajo različna društva, združenja, zavodi."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1826.178,
+        "end": 1831.404,
+        "text": "Jih potem tudi posredujemo naprej zdravniškim komisijam."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1832.065,
+        "end": 1844.072,
+        "text": "in pravilnik, v katerem so določeni kriteriji in seznam hudih bolezni in stan, za katere se upravičim potem do dodatka, se dejansko posodablja."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1844.892,
+        "end": 1860.081,
+        "text": "In redno se posodablja na določeno obdobje, zadnja posodobitev je bila prav letos, kot ste omenili, in posodobitev je narejena na podlagi mnen zdravniških komisij."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1861.242,
+        "end": 1884.61,
+        "text": "Se pravi, tukaj puščamo odprta vrata stroki, zbiramo pa pobude vse, ki se iz društev, od posameznikov, od vseh, ki se jih to tiče, zbiramo in potem posredujemo zdravniškim komisijam, da potem vse to skupaj pregledajo in podajo svoje mnenje za spremembo prevljenika."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1884.85,
+        "end": 1886.571,
+        "text": "Gre tukaj za živo stvar."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1887.832,
+        "end": 1898.257,
+        "text": "Dejansko, kot je bilo prej omenjeno, že na pristopi, načini zdravljenja, zdravila se spreminja, nekatero se izboljšujejo tudi."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1898.789,
+        "end": 1912.863,
+        "text": "Vkrati se pa pojavlja tudi nove bolezne, neke redke bolezni, tako da to mora biti živa stvar in dejansko je in se tukaj na podlagi predlogov tudi spremeni oziroma prilagodi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1913.423,
+        "end": 1917.147,
+        "text": "Postopki pa so žal dolgotrajni, tako kot marsiki in druge še."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1917.487,
+        "end": 1929.98,
+        "text": "Poskušamo jih, koliko se da, skrajšati, koliko se nekaj zaostankov ni in tukaj smo res dajemo prednost temu in smo zelo pozorni, da."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1930.2,
+        "end": 1935.606,
+        "text": "Omenili ste že nakratko, tudi v času koronavirusa, torej to področje ni zastalo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1936.066,
+        "end": 1936.866,
+        "text": "Ne, nisem star."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1936.886,
+        "end": 1938.947,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1939.147,
+        "end": 1946.649,
+        "text": "Še en zelo pomemben vidik bolezni atopijskega dermatitisa smo morda v tej diskusiji do zdaj nekoliko zanemarili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1946.729,
+        "end": 1951.27,
+        "text": "To je stigma, ki jo bovnik z atopijskim dermatitisom dobi v družbi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1951.29,
+        "end": 1962.293,
+        "text": "Mnogi bovniki nam povedo, da so bile te duševne bolečine, da so bile izključeni, marginalizirani, stigmatizirani, kot je gospodina dejala,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1962.813,
+        "end": 1970.84,
+        "text": "žrtve medvrstniškega nasilja, da jih je to bolelo še celo bolj kot vse telesne posledice bolezni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1971.62,
+        "end": 1978.106,
+        "text": "Gospod Boštjan Vernik Šetinc, vi se današnje diskusije torej udeležujete v imenu zagovornika načela enakosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1978.206,
+        "end": 1987.774,
+        "text": "Jasno je, da jo bolezni treba ozaveščati, zato tudi takšni dogodki kot tale današnji, najprej, če začneva pri najrajniljbejših, torej otrocih,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1988.294,
+        "end": 1996.319,
+        "text": "ki pa so, ki so torej najbolj pogosto boniki z atopijskim dermatitisom, na drugi strani pa znajo biti otroci tudi najbolj kruti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1996.479,
+        "end": 2013.929,
+        "text": "Kaj svetujete staršem otrok z atopijskim dermatitisom, kako naj obranijo svoje otroke pred medvrstniškim nasiljem, oziroma verjetno se ta zgodba ne začne in ne konča pri otrocih, pač pri odraslih, kaj ne?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2016.644,
+        "end": 2018.045,
+        "text": "Najlepša hvala."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2018.805,
+        "end": 2042.216,
+        "text": "Prihajam iz institucije, ki je zdaj postala stamostojen organ in je dolžan preprečvati in odpravljati diskriminacijo, se pravi to izključevanje iz družbe in po drugi strani si prizadevamo za enako obravnavanje, za tisto, kar je prav, za enake možnosti med ljudmi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2043.076,
+        "end": 2043.696,
+        "text": "Sigurno je"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2045.922,
+        "end": 2072.162,
+        "text": "možno na diskriminacijo pa na te procese izključevanja gledati tudi, če lahko malo parafraziram, kot na eno družbeno bolezen oziroma patologijo, ki v bistvu je, zdaj, danes nimamo časa razmišljati, ampak nesmiselna iz najrazličnejših možnih vzornih kotov, škodljiva, nesmiselna v bistvu"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2075.47,
+        "end": 2098.268,
+        "text": "Je pa med nami in pač treba se znov ukvarjati kljub temu, da je v bistvu en tak fenomen, ki ga tako ali pa drugače skušamo nekako pomest pod preprogo toliko časa, dokler se nas ne dotakne v tem smislu, da bi se prepoznali kot žrtve tega izključevanja."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2099.389,
+        "end": 2102.031,
+        "text": "Diskriminacija pravzaprav"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2103.871,
+        "end": 2126.587,
+        "text": "največkrat, ne vedno, ampak največkrat sigurno nastaja kot nekaj zelo nezavednega, kot nekaj, kar pravzaprav nimamo vzaveščeno, da nekoga s tem svojem ravnanjem izključujemo ali pa pravzaprav niti ne preuprašamo teh izhodišč, iz katerih nastopamo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2127.447,
+        "end": 2131.11,
+        "text": "Zdaj pri tem, pri tej konkretni bolezni,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2132.575,
+        "end": 2138.039,
+        "text": "je pač en pisten vidik, da je vidna."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2138.559,
+        "end": 2154.41,
+        "text": "Se pravi, vides ljudi je tisto, kar v ljudeh, ki se srečujejo s takimi bolniki, prebudi nek strah, neko, zdaj ne vem, irracionalen strah, da se boš okužil pred"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2155.323,
+        "end": 2172.418,
+        "text": "s to isto boleznjo ali te pač odbija v tem smislu, da ne veš kaj bi ob tem, kako bi se obnašal, a moramo zdaj spremeniti vedenje do nekega bolnika ali pa recimo nekoga z invalidnostjo, je klasično vprašanje,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2174.223,
+        "end": 2195.222,
+        "text": "Skratka, neko nelagodje, nek strah, neka nevednost je ponovno tisti razlog, zaradi kjer ga potem ljudje odreagirajo na prvo žogo včasih, na podlagi svojih predsodkov, na podlagi tega, kako so se naučili reagirati v takih situacijah tudi v razmerju dokoljga drugega."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2197.207,
+        "end": 2222.873,
+        "text": "Tako da to ravnanje ljudi, ki izključujejo to skušen podart, ni vedno v bistvu izhod dobije iz zlobe, namenoma, želečku, da ve, tako mu čeprav tudi, ampak je v bistvu en tak sicer človeški odziv lahko na te situacije, ki pa je v bistvu ga treba vzavestati, treba pravzaprav tem ljudem, ki se tako obnašajo, pomagati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2224.021,
+        "end": 2225.442,
+        "text": "jih izobraziti."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2225.762,
+        "end": 2227.664,
+        "text": "Da ne bojo več tako ravnali."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2227.764,
+        "end": 2241.394,
+        "text": "Pravzaprav, ljudje, ki so žrtve tega ravnanja, sveda, treba tudi njim pomagati, ampak oni niso tisti, ki bi mogli biti v fokusu, v smislu, da bi mogli zdaj oni se začeti drugače obnašati ali pa biti opolnomočeni."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2241.574,
+        "end": 2247.158,
+        "text": "Pravzaprav, treba celo družbo opolnomočiti, da zna prepoznavati te vzorce vedenja izključevalne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2247.198,
+        "end": 2249.48,
+        "text": "Pa imate tukaj kakšne konkretne vzvode,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2250.667,
+        "end": 2255.802,
+        "text": "Jaz lahko rečem, da imamo v Sloveniji srečo, to srečo, da imamo"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2257.282,
+        "end": 2277.748,
+        "text": "relativno namrekovaji hradodarno zakonodajo, tako da vsaj, kar se diče tistega, kaj je prepovedano, pri nas nimamo težavo s tem, da bi pač prepoznali to kot zdravstveno stanje, marsikje, recimo, je prepovedana diskriminacija samo zaradi invalidnosti v vsakdanjem življenju."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2278.369,
+        "end": 2285.571,
+        "text": "Pri nas pravzaprav ni težava pravzaprav predoliti nekega področja družbenega življenja, kjer je prepovedana,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2286.577,
+        "end": 2292.04,
+        "text": "Lahko je tudi težava, recimo, ko ste omenili otroke."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2292.961,
+        "end": 2307.43,
+        "text": "Težava je lahko ugotavljati, a je nekaj prepovedano ali pa nekdo lahko posreduje v situacijah, ko so se otroci med sabo zbadali na poti iz šole, ampak nekakršna"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2308.582,
+        "end": 2324.565,
+        "text": "Težava pa ni, oziroma bi moralo biti jasno, da je treba take stvari nasloviti recimo v šolskem prostoru, v vrtcu, pred nekimi organi v oblasti, v zdravstvenem varstvu ali pa zavarovanju."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2325.005,
+        "end": 2336.007,
+        "text": "Na vseh teh področjih pač velja pripoved diskriminacije, se pravi tega, da bi bili ljudje slabše obronaveni zaradi te neke osebne okoliščine, kakršna je pač lahko ta konkretna bolezen."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2336.388,
+        "end": 2337.468,
+        "text": "Ali pa tudi vides."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2337.708,
+        "end": 2338.028,
+        "text": "Jaz bi"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2338.568,
+        "end": 2349.17,
+        "text": "Zdaj, ne bi rad zaključkov delal, ampak tudi to vprašanje, ali je sam vides lahko osebno okoličen, ni čisto brezpredmetno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2349.51,
+        "end": 2365.414,
+        "text": "Ampak če nekako otroke lahko vsaj do neke mere razumemo, da so nezavedno hudobni do svojih vrstnikov, kaj pa, kaj svetujete odraslim, ki so diskriminirani zaradi svojega videsa, v tem primeru, kot je posledica bolezni na delovnem mestu, poznamo takšne primere?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2366.52,
+        "end": 2383.871,
+        "text": "Če se smem samo zahipše vrniti nazaj kot rokom, naša zakonodaja je tudi v tem smislu pronicljiva, da pripoznava, da so otroci posebej ranljivi za vse karšitve človekovih pravic, pa tudi diskriminacije."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2384.151,
+        "end": 2387.533,
+        "text": "Ne samo zaradi svoje starosti, kar se sami ne morejo braniti,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2389.467,
+        "end": 2397.546,
+        "text": "ker sami niso pravzaprav svoji, pravzaprav se v velikih zadevah starši odločajo za njih ali pa na mesto njih."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2399.352,
+        "end": 2402.333,
+        "text": "ampak tudi v tem smislu, kakšne so posledice za otroke."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2402.833,
+        "end": 2409.856,
+        "text": "Zato naša zakonodaja pravi, da pač diskriminacija nad otroci v vsakem primeru štreje za hujšo obliko diskriminacije."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2409.936,
+        "end": 2424.702,
+        "text": "To ima tudi določene posledice, ampak v tem smislu, da so lahko sankcije više ali pa bolj stroge, ampak tudi v smislu teh varstvenih dožnosti, ko sem jih že omenil, recimo zelo pomembno je in"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2425.222,
+        "end": 2448.594,
+        "text": "podobno bila pravzaprav tudi za odrasle pa situacija na delu na mestu, ta okolja institucionalna, kot je šola, vrtec, imajo posebne odgovornosti, ne samo da sami ne diskriminirajo, ampak tudi da skušajo preprečati takšno ravnanje med otroci samimi ali pa strani pravzaprav koga drugega, ne vem, starša drugega otroka in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2449.454,
+        "end": 2450.455,
+        "text": "Še to bi omenil,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2450.973,
+        "end": 2459.941,
+        "text": "diskriminiran nisi samo zaradi svojih lastnih osebnih okoliščin, ampak lahko tudi zaradi stanja tvojega starša."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2460.101,
+        "end": 2471.091,
+        "text": "Če otroke zbadajo zaradi njegovega starša, če škakšen je njegov vides, najbrž to enako grozno pač temu otroku in obratno, konec koncev, če te..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2474.064,
+        "end": 2480.028,
+        "text": "če starša zaradi lastnosti nekoga otroka nekdo ponižuje, nadleguje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2480.489,
+        "end": 2481.51,
+        "text": "To sem hotel reči."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2481.73,
+        "end": 2497.381,
+        "text": "Recimo v teh situacijah si jaz lahko predstavljam tudi druge oblike diskriminacije, ampak ena od njih je pa ta najbolj, da tako rečem, stereotipno, klasična, še posebej v otroških okoljih, ki se je reče nadlegovanje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2498.442,
+        "end": 2503.406,
+        "text": "Nadlegovanje ni samo tisto spolno nadlegovanje, ki je mogoče en tak arhetip,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2504.365,
+        "end": 2521.522,
+        "text": "tega ravnanja, ampak je lahko tudi kakšno drugo ravnanje, ki je ponižujoče, želivo ogrožujoče in krši človeko dostojanstvo tistega, ki mu je tako ravnanje namenjeno, temeli pa na eni od osebnih okoliščin."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2521.662,
+        "end": 2521.942,
+        "text": "Se pravi,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2523.451,
+        "end": 2547.679,
+        "text": "Ne vem, če je v šoli najbrž ogromno bilo zbadanj na račun ljudi, ki nosijo očala, ali pa so bolj krepki, ali pa je njihov naglas, zaradi tega, ker so starši od neko druge, malo drugačen in podobno, prav isto se lahko dogaja tudi ljudem zaradi njihovega videza in te bolezni, da tako rečem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2548.612,
+        "end": 2550.994,
+        "text": "Ampak kaj bi bil vaš pravi odgovor?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2551.214,
+        "end": 2566.547,
+        "text": "Jaz mislim, da je prav, da se teh stvari ne pušča ne naslovljenih, da se ne skuša debeliti kožo, da se ne pusti stvar, ker bo izvenela."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2566.607,
+        "end": 2567.107,
+        "text": "Zato, ker"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2567.748,
+        "end": 2583.994,
+        "text": "To se žal velikrat ne zgodi, tudi skupinsko v stvari deluje, ta skupinska dinamika sploh med otroci je lahko taka, da nekdo, ki je bolj ranljiv, ga bo izključvali samo zato, ker je bolj ranljiv, ker mu to lažje naredijo kot nekomu drugmu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2584.774,
+        "end": 2591.917,
+        "text": "Zato pač jaz mislim, da je potrebno na take dogodke upozoriti, recimo tudi v teh okoljih, ki sem že omenil,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2592.757,
+        "end": 2597.661,
+        "text": "vzgojiteljce ali pa še predtem, če si temu priča, pač neposredno sam."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2598.962,
+        "end": 2601.144,
+        "text": "Tudi otroka je treba naučiti, da reče, da to"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2601.987,
+        "end": 2610.991,
+        "text": "Ne bo trpel tazga ravnanja, da sicer bo pa povedal, ne vem, tu v rešici ali pa učiteljci v šoli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2611.591,
+        "end": 2612.552,
+        "text": "Širjenje znanja."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2612.572,
+        "end": 2617.954,
+        "text": "Veliko stvari se da rešiti z neko pametno, umerjeno besedo ena na ena."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2618.535,
+        "end": 2623.137,
+        "text": "Če pa to ni možno, so pa, je pa tudi potrebno kdaj uporabiti kakšen"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2623.857,
+        "end": 2626.862,
+        "text": "kakšno pot."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2627.022,
+        "end": 2635.055,
+        "text": "Jaz lahko rečem, da pri zagovorniku načela enakosti lahko tudi glede tega svetujemo, se pravi, na voljo smo"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2636.227,
+        "end": 2640.029,
+        "text": "za nasvete, kako v takih situacijah ravnati."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2640.089,
+        "end": 2644.412,
+        "text": "Lahko pa tudi v skrajnem primeru pravzaprav zagovornik posreduje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2644.472,
+        "end": 2645.393,
+        "text": "To je dobro vedeti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2645.813,
+        "end": 2655.699,
+        "text": "Pa imate morda več primerov pritošb oziroma bovnikov, žrtev, ki pridajo do vas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2656.12,
+        "end": 2662.624,
+        "text": "Bolj me zanima morda v tej odrasli dobi, ko so žrtve na delovnem mestu, tukaj se vendarle da zakonsko ukrepati?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2665.471,
+        "end": 2668.456,
+        "text": "Sigurno imajo odrasli več orodij na voljo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2669.678,
+        "end": 2672.562,
+        "text": "Predvsem tudi zato, ker jih imajo sami na voljo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2674.212,
+        "end": 2681.455,
+        "text": "Žal je tako, da večino teh situacij pravzaprav lahko naslovimo samo, če se bo nekdo pritožil."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2682.235,
+        "end": 2702.124,
+        "text": "Ni pa čisto izključeno, da bi tudi pravzaprav bilo drug posredoval, ne vem, če zdaj razmišljamo o kakšni šolski inšpekciji ali pa konc konca tudi zagovornik lahko v poradni dožnosti, če bi bilo zdaj nek množič nakršitev, pa se ne daj identificirati posamezne žrtve, mogoče kako ukrepav,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2703.743,
+        "end": 2712.012,
+        "text": "Je pa tako, da pač to veliko breme tudi nalagajo tem ljudem, ki so se, da tako rečem, poklicani vpred."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2712.453,
+        "end": 2720.201,
+        "text": "In tle bi pač položil na srce tistim, ki so v takih dilemah, pa reči, da se posvetujajo, pa"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2722.188,
+        "end": 2732.332,
+        "text": "ne skušajo delati preveč na pamet, zato ker je včasih tudi težko zbrati med temi pravnimi sredstvi, jih je več, ne samo eno."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2732.652,
+        "end": 2750.12,
+        "text": "Drugo pa, da pač delajo z misljo, da ne gre pravzaprav samo za njih pa njihove otroke, ampak da je mogoče to treba narediti zato, da se bo tako ravnanje končal, da se bo drugim pomagal razumeti, da se to ne sme in da mogoče drugi ne bojo deležni tazega ravnanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2750.2,
+        "end": 2756.824,
+        "text": "Vsekakor pa ne pomesti pod predprogo, kajti potem lahko težave nastanejo še večje, ne pa manjše."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2756.864,
+        "end": 2757.824,
+        "text": "Hvala lepa tudi vam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2757.944,
+        "end": 2762.367,
+        "text": "Zdaj pa spoznajmo še našo današnjo zadnjo gostjo, to je gospod Tika Hribar."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2763.167,
+        "end": 2778.376,
+        "text": "Njen tiksi beauty blog je zelo obiskan, njeni nasvetijo neki kože z atopijskim dermatitisom, s katerim se sooča tudi samo vse od otroških let, zelo iskani in recimo temu popularni medanes vedno širšo, če nam je všeč ali pa tudi ne,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2778.736,
+        "end": 2780.097,
+        "text": "Hvala za obilo in pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2780.117,
+        "end": 2784.04,
+        "text": "Po vsem, kar sem slišala danes, sem jaz pokaj lajk in sem zvedla veliko novega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2799.256,
+        "end": 2804.479,
+        "text": "Nekaj, kar sem jaz, vse te informacije, ki sem jaz zelo pogrešala v bistvu celo življenje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2804.9,
+        "end": 2816.847,
+        "text": "Jaz sem zbolela z atopijskem dermatitisom že zelo dolgo nazaj in takrat niti slučajno ni bilo na voljo toliko informacij, zato sem si večinoma potem kasneje pomagala sama."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2817.548,
+        "end": 2825.273,
+        "text": "Tudi sam sistem zdravljanja, zdravniki niso ponujali dovolj informacij, vsaj tako sem jaz to"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2826.053,
+        "end": 2838.656,
+        "text": "In veliko sem se res pomagala sama, zato sem tudi začela pisati blog, zato sem se tudi povezala z ostalimi bolniki, da smo si med sebojno pomagali."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2839.656,
+        "end": 2846.438,
+        "text": "Še vedno sicer dobivam ogromno informacijo o tem, kako sistem še vedno ne deluje tako, kot bi bilo treba."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2847.098,
+        "end": 2855.36,
+        "text": "Zato sem zelo vesela takih dogodkov, ker res je dejansko rdeča niti to, ko vsem skupaj razmišljam, da ni dovolj informiranja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2856.04,
+        "end": 2873.962,
+        "text": "In vse to, kar sem danes zvedla, dejansko mora iti v svet, ker od tega, kot je doktor Točkova opisala, kako vi obravnavate bolnike, je tako sanjsko, ampak nihče od teh, s katerimi se spogovarjam, ni tega doživel na tak način."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2875.193,
+        "end": 2885.956,
+        "text": "je pa res, da so mogoče tudi že določeni, obupali nad sistemom, niso več del zdravstvenega sistema, si poskušajo sami pomagati, pa še vedno ne pridobijo dovolj informacij."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2886.336,
+        "end": 2897.538,
+        "text": "Vključno s tem, kako priti do nekih pomagal, kako odreagirati, ko pride do diskriminacije, kakšne stranske učinke imajo zdravila in kakšne so sploh njihove možnosti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2898.199,
+        "end": 2903.54,
+        "text": "Kar se jaz še dan danes pogovarjam z bolniki, tri četrte te stvari ne vejo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2903.64,
+        "end": 2903.92,
+        "text": "Tako da,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2904.792,
+        "end": 2912.724,
+        "text": "Se res želim, da ne samo na 14. september, ampak tudi na druge dni govorimo več o teh storih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2912.824,
+        "end": 2914.727,
+        "text": "Doktor Točkova, morda kakšen komentar?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2915.147,
+        "end": 2916.249,
+        "text": "Zakaj tak prepad?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2920.553,
+        "end": 2935.208,
+        "text": "Morda še kakšno vprašanje iz publike, videla sem, da ste nekatere predvsem dame prikimavale, gospe Tiki Hribar, morda kakšen komentar na vse danes slišano, kakšne so vaše osebne izkušnje?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2937.968,
+        "end": 2943.552,
+        "text": "Jaz ne poznam nobenega bolnika, ki je doživel tako obravnavo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2943.973,
+        "end": 2955.321,
+        "text": "Mogoče sem tudi pristranska, kar imamo na socialnih omrežjih za akcijo Prava koža, ko so mi bolniki pošiljali svoje fotografije in svoje zgodbe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2956.182,
+        "end": 2957.863,
+        "text": "To so res grozne zgodbe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2957.883,
+        "end": 2963.027,
+        "text": "Tako kot Tina ste na začetku povedala, zelo je v tem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2963.367,
+        "end": 2966.63,
+        "text": "Takih obravnav ni, posebno morda v Ljubljani,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2968.023,
+        "end": 2979.466,
+        "text": "V Sloveniji pa ne in vsaj te zgodbe, ki jih še dan danes delijo z zmano, ni te podpore, ni te psihične podpore, ni tega razumevanja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2980.546,
+        "end": 2983.367,
+        "text": "Običajno odpravijo pacijente v desetih minutah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2983.627,
+        "end": 2985.067,
+        "text": "Jaz razumem, da je sistem tak."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2985.167,
+        "end": 2992.789,
+        "text": "Jaz razumem, da dermatolog ima take time slote, v katerih mora poskušati rešiti nekaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2993.889,
+        "end": 2997.59,
+        "text": "Predpišejo se kortikosteroidi, da se premalo navodil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2998.82,
+        "end": 3010.545,
+        "text": "prihaja do stranskih učinkov, neostrezne uporabe teh zdravil, pride začaran krog, skratka, večina zgod, ki jih jaz poznam, so takšne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3011.166,
+        "end": 3017.969,
+        "text": "Je pa res na drugi strani, da verjetno tistih dobrih zgod pa ne slišimo, ker tisti, ki nimajo težav, se ne pretežujajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3018.029,
+        "end": 3019.47,
+        "text": "To je vendarle treba tudi povedati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3019.49,
+        "end": 3019.91,
+        "text": "Tudi res."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3022.934,
+        "end": 3052.521,
+        "text": "Saj to je verjetno zdaj danes tudi težava, ne, toliko informacij na toliko mestih in jaz sem pripričana, da je tudi stroka veliko krat dela najbolje, kar ve in zna, verjetno ste tudi sami zdravniki, kdaj dejali smo, ponovili večka danes, zelo kompleksna bolezen, z veliko neznankami, tudi pri vas, ki se izobražujete celo življenje na tem področju, verjetno ste tudi sami kdaj v stiski, ko imate bovnika, družino, starše in ki tudi sami več ne veste, kako jim pomagate."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3052.921,
+        "end": 3059.522,
+        "text": "Še eno vprašanje in gospa iz publike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3059.622,
+        "end": 3062.703,
+        "text": "Hvala lepa za ta komentar, zelo smo ga veseli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3062.763,
+        "end": 3065.303,
+        "text": "Tina, morda tudi kakšen komentar z vaše strani?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3065.343,
+        "end": 3070.764,
+        "text": "Ja, ja, sem tudi zelo, zelo vesela in hvaležna za vse naše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3070.944,
+        "end": 3078.306,
+        "text": "Bi pa želela po eni strani, obstaja seveda nek prepad med stroko in bolniki, ampak"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3080.262,
+        "end": 3103.921,
+        "text": "To ne pomeni morda v tem trenutku nič slabega, pač vsaki ima svojo absolutno resnico, vsaki shaja iz svojih lastnih izkušenj, iz svojega izobrazbe, iz svojega znanja in mislim, da čeprav smo morda nekoliko na obeh bregovih,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3104.221,
+        "end": 3116.29,
+        "text": "bi si želeli ta prepad izmanjšati in tukaj se mi zdi, da je naše poslanstvo, da nekako povežemo tako strokov kot bolnike in da"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3118.7,
+        "end": 3121.121,
+        "text": "Cilj je, da drug drugega slišimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3121.561,
+        "end": 3127.004,
+        "text": "Tako da zdravniki slišijo bolnike, kaj bolniki pravijo, s kakšnimi težavami se soočajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3127.404,
+        "end": 3135.228,
+        "text": "Po drugi strani pa tudi, da bolniki skušajo razumeti, da zdravniki ima tisti omejen čas, ki ga ima na voljo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3135.568,
+        "end": 3142.132,
+        "text": "Naprimer, ko smo mi zdaj sestavljali ta naš vprašalnik, so bolniki in starši povedali točno to,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3142.612,
+        "end": 3163.173,
+        "text": "Zdravnik bi nam moral razložiti vse naše pravice, kaj nam pripada, ampak je ravno dr. Vojko Berce, s katerim sodelujem, povedal, mi nimamo časa, mi se moramo ukvarjati z bolnikom, ker sama obravnava bolnika, da želi dati njemu ves čas so svojo pravico."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3164.735,
+        "end": 3190.623,
+        "text": "obravnavo, da bo najbolj kvalitetno obravnavanje, je rekel, mi žal nimamo časa se s tem ukvarjati in mi smo to v bistvu slišali in upam, da bomo v naslednjih mesecih letu morda enostavno skupaj sodelovali na nek način, da bomo naredili eno brošuro, kjer bo zbrane vse te osnovne strokovne informacije, kaj je atopijski dermatitis, kaj bolnikom prepada in tako, da bo v bistvu lahko dejansko na eni točki"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3191.363,
+        "end": 3208.172,
+        "text": "informirani o stvarih, ki so pač pomembne, da se ne pripisuje krivda na nek način zdravnikom, ker enostavno morda preveč pričakujemo,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3208.492,
+        "end": 3224.958,
+        "text": "na strani... Točno to, tudi zdravniki veliko krat priznate, da ne veste vsega in da se le trudite in da nimate odgovor na vse, nasploh pri tako kompleksnih boleznih, ki kot vidimo pri vsakem vovniku skoraj da se izraža nekoliko drugače."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3225.578,
+        "end": 3230.42,
+        "text": "Lepo bi bilo s tem pozitivno misljo zaključiti, a vendar le imamo še eno vprašanje, prosim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3233.761,
+        "end": 3235.142,
+        "text": "Morda še kakšno vprašanje?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3237.753,
+        "end": 3266.71,
+        "text": "Ne, sicer pa se naš čas ravno izsteka, smo pri koncu okrog lomize, ne pa še čisto pri koncu druženja, vsem, ki ste kakorkoli danes sodelovali v tej razpravi, tako govorci kot vi v publiki z vašimi vprašanji se v imenu organizatorja dogodka, to je Zavoda Atopika, iskreno zahvaljujemo in vam želimo prijetno nadaljevanje dneva, predem pa se razidemo, vas vabim, da si skupaj pogledamo tole fotografsko razstavo, fotografinje Ines Krivec,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3266.71,
+        "end": 3268.731,
+        "text": "Tudi danes tole z nami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3270.492,
+        "end": 3282.358,
+        "text": "Namen te razstave, takšnih fotografij je seveda enak nameno današnjega druženja, to je, da ozaveščamo, širimo znanje, vedenje o bolezni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3282.758,
+        "end": 3301.912,
+        "text": "In prav je, da dolžni nekako smo tem, predvsem našim mladim bovnikom, ki so se pogumno postavili pred fotografski objektiv, da so nastale te čudovite fotografije, s katerim dokazujemo, da je tudi drugačno lahko lepo, kot vidimo nasmejano, sproščeno objektiv."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3301.912,
+        "end": 3312.455,
+        "text": "in da lahko tudi bolezen, kot Tina večkrat saj meni reče, ji je marsikaj vzela in ji je pa tudi prinesla veliko novega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3312.515,
+        "end": 3318.877,
+        "text": "Torej vabljeni na ogled razstave in pa tudi v predverje na klepet, prigrizek, da skupaj nekaj popijemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3319.158,
+        "end": 3322.579,
+        "text": "Čisto za konec pa bi rada z vami delila še eno misel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3322.859,
+        "end": 3326.08,
+        "text": "Če že morajo imeti nekateri ljudje atopijski dermatitis, naj..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3326.92,
+        "end": 3346.661,
+        "text": "Atopijski dermatitis nima njih, torej znanjem, vedenjem, spoznavanjem samega sebi, odkrivanjem svoje bolezni se da, kot smo tudi slišali in videli, tu imamo žive dokaze, otroke na fotografijah, Tino, Tiko in še marsikoga iz publike, da se da tudi z bolednjo kvalitetno in lepo živeti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3346.701,
+        "end": 3348.283,
+        "text": "Hvala lepa in srečno vsem."
+      }
+    ],
+    "runtime_sec": 847.8078260421753
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.11422098650378434,
+      "miss": 0.04068404362276616,
+      "fa": 0.027658889440071662,
+      "confusion": 0.04587805344094651,
+      "total_duration": 3239.5009999999465
+    },
+    "der_collar0.25": {
+      "der": 0.10756996019230397,
+      "miss": 0.03216741577540989,
+      "fa": 0.029396757763197175,
+      "confusion": 0.046005786653696895,
+      "total_duration": 3016.2509999999465
+    },
+    "wer": {
+      "wer": 0.31665994352561516,
+      "ref_words": 7437,
+      "hyp_words": 6732
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.453,
+        "end": 39.468,
+        "text": "Torej spoštovani gostje v prvi vrsti seveda bolniki za topijskim drmatitisom njihovi svojci, vsi tisti, ki vas ta tematika današnja torej tematika topikega drmatitisa iz takšnega ali drugačnega razloga zanima in bi danes radi se kaj novega od tej tematiki naučili, kaj nove ga izvedeli, preprosto kaj novega slišali, cenjeni naši govorci s poštovanji novinarji, za katere upamo, da boste nam pomagali širiti glas in pa pravi informacije pred vsem avtopijskim dramat drmatisu lahko rečemo vsako slovensko vas, prav vsi, ki ste danes z nami tako."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 40.565,
+        "end": 156.192,
+        "text": "Tisti, ki ste jo tule v knjižničnih prostorih, predvsem pa veliko več, vas je pred računalniškimi ekrani, vse skupaj vas v imenu organizatorja današnjega dogodka, to je zavoda Atopike, lepo pozdravljam in se vam zahvaljujem, da ste si vzeli čas za naše druženje.V zavodu Atopika obeležujemo svetovni dan atopijskega dermatitisa že tretje leto zapored, prvič v Ljubljani, sicer pa je štirinajsti september svetolni dan natopijskih dermatitisov vse od leta dva tisoč osemnajst tovrstne pobude pa so obstajale že vrsto let pred tem vsako leto poteka pod drugačnim geslom letošnji seglasi, hashtag Unite for Atopike ksem, kar bi lahko v prevodu povzeli nekako takole, stopimo skupaj za atopijskih dermatitis, pomagajmo bolnikom seznaniti s vsemi posledicami te bolezni, pomagajmo jim, opolnomočimo jih, da se sprejmejo takšne kot so, da sprejamejo svoje bolezensko stanje, predvsem pa širimo prave informacije o tej boleznji v družbi, da bodo bolniki bolje razumljeni, da bodo sprejeti ne pa zavrnjeni ožigosani stigmatizirani, kar se žal, lahko rečemo še vedno zaradi nepoznavanja bolezni v družbi, še vidno prepogosto dogaja.Prav to, kaj pomeni živeti za topijskim drmatitisom, je že v rani mladosti doživela na lastni koži izkusila naša prva govorka, danes stoje ustanoviteljica zavoda Atopika Gospatina Mesarič, Gospati na pozdravljeni. Med odraščanjem ste v primežu močno poškodovane kože in neznosnega srbeža, ki spremlja praviloma vselejatopijski dramatiti sami na lastni koži občutili vse tisto, kar občutiljo vsi bolniki, ki se soočajo s hudo obliko te bolezni, nam lahko zaupate nekaj grenkih izkušenj iz svojega otroštva, kako se je čutila bolezen in se še čuti pri vas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 156.58,
+        "end": 157.39,
+        "text": "Ala?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 158.42,
+        "end": 158.437,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 158.437,
+        "end": 197.789,
+        "text": "Morda najprej bi se želela zahvaliti vsem, ki se danes z nami tukaj, da boste z nam preživeli današnji dan svetovni dan atopijskega drmatitisa, predvsem bi se želela zahljati gostom okrogle mize, da ste si vzeli čast in da bomo skupaj ozaveščali v atopiskem drmatitisu in da bodo naslovili težave, s katerimi se bolniki soočamo.Za topiskem drmotiti sem vse soo čam že od zgodnjega otroštva bolezen spremlja vneta rdeča razdražena, razpraskana suha koža z izjemno močnim nepredstavljivim srbežom, gre za srbski segaz, ki ga zdrav človek ne more občutit."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 198.683,
+        "end": 311.037,
+        "text": "Bolezen pa spremljajo tudi lahko pri težjih oblikah zelo obširne rane, lahko bolečine, bolećine so kar prisotne, ampak tudi številna pridružena bolezenska stanja od različnih alergij astmedihalnih stisk, lahkobolečino v sklepih, artritis, lahkod tudi kronične vnetne črevesne bolezni, depresija, anksioznost, adehade in tudi drugo.Drugače, kako sem se počutila, počotila sem se bistvu kot vsi bolniki za topiškem dermatitisom osamljeno izolirano nerazumljena, po čutila sem se ob bistvu predvsem nemočno in brez nekih pomembnih informacij, ki bi jih recimo potrebovala, da bi se lahko uspešneje soočila z boleznjem. Zdaj, ker si je vprašala glede grenkih izkušenj, zdaj atopski dermatitis lahko ima veliko obrazov, lahko poteka v zelo blagi obliki, lahkopa poteka in izjemno težkih oblikah in tukaj bi morda želela izpostavi, da te težke oblike so lahko res težkje in ohromijo lahko bolnika do take mere, da si ne more opravljati osnovnih zadev kot je recimo, da se bi pripravil hrano, da bi si lahko negoval kož, recimo da bi lahko šel v trgovino do zdravnika, vse to je ob istvu zelo zelo za bolnika težka.Drugače bolezen, kot sem že večkrat povedala močno pri zadane odnose, pri zadanju družinske odnose, partnerske od nose, bolniki se pa pogosto soočajo tudi z različnimi oblikami nasilja, predvsem pri naših otrokih najmlajših z medvrstniškim nasiljem, ki se že lahko začne z izolacijo že od vrtce."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 311.037,
+        "end": 312.218,
+        "text": "Saj naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 312.286,
+        "end": 312.303,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 312.303,
+        "end": 356.296,
+        "text": "Vsem tem bomo danes še govorili, tule gre torej precej več kot zgolj za kožno bolezen, kot si marsikdo v javnosti predstavlja. No in prav zaradi vsega tega, kar ste zdaj našteli, se je o vas že zelo kmalu porodila želja, da bi pomagali ljudem bolnikom s podobnimi oziroma enakimi bolezenskimi znaki, kot ste jih imeli sami, zdaj po toliko ne bom rekla letih, desetletjih praktično izkušenj, lahko rečete, da je danes vendarle bolnikom kaj lažje, da ji je javnost vendarle boleza veščena, da jo zdravljenje in bolezen sistemsko bolje urejena, do kvaliteta bolnikov za tobijskim dramatiti, so vendarle višje in zavedanje tako med stroko bolniki kot v širši javnosti višji, kot je bilo reciva pred nekaj desetletij, ko ste sevi prvič soočili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 356.718,
+        "end": 368.817,
+        "text": "Ja, mislim, da lahko rečem, da je stanje v zadnjih letih veliko boljše, zavedanje o bolezni tako med javnostjo kot tudi med strokov veliko višje, kot je to bilo prej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 369.374,
+        "end": 452.23,
+        "text": "Obolezni se torej zelo, zelo veliko govori in upam, da bomo še s tem tudi nadaljevali.Za bolnike se recimo danes izvaja tudi veliko aktivnosti, če sami recimo včasih nismo meli, recimo, v Zavodu Atopika tako organiziramo podporne skupine, izobraževanja delavnice, sodelujemo z stroko, organiziramo izobraževalne kongrese, imamo recimo letos bomo izdali že drugo našo izobraševalno revijo, imam tudi različne prostocasne aktivnosti, letos smo recimo nae bolnike in njihove starše peljali v živalski vrt, drugače smo pa recimo zelo ponosni tudi našo onespetovalno platformo, kjer svetujeta dve dermatologinji, v katero tudi odnaša doktor Olga Točkova, alergolog, psihologinja in farmacevtka, to se bi so bolniki lahko zastavil različno vprašanja in potem zdravniki na njih oziroma strokovnjaki na ta vpraše odgovorijo. Bolniki imajo tudi na voljo več zdravil, kot smo jih imeli včasih, so pa področja, na katerih mislimo, da je še vedno potrebno veliko delato, je tokaj mi že ob istvu v sodelovanju za stroko večkrat omenjamo, da pač potrebujemo multidisciplinarnotimsko obravnavo, nekaj se pravi obravnavo, ki je orientirana na bolnika."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 452.753,
+        "end": 453.412,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 453.968,
+        "end": 601.81,
+        "text": "Na ta način bistvu smo mnenja, da je edini načina lahko bolnikom zagotovimo res neko celostno podporo tako z zdravstvenega vidika kot s psihosocialno podpora, morda še to velik problem recimo, še vedno vidim recimo pri težkih bolnikih, pri katerih se določene pravice, ki bi se jim morale priznat, se jima žalost še ne. To mislim, da bomo pa s časoma prišli tudi do tja, prijavljamo tudi zelo se žalstnjak v recimo pridejo starši, ki se že soočajo za težko obliko bolezni pri otroku in se zaradi nerazumevanja javnosti, recimo, se jim lahko zgodi, da so pač jih ustavijo na cesti in igrozijo, pa če da zanemarja otroka, da ji bo prijavljen na center za socialno delo, to so res težke zgodbe, o katerih je treba opozarja, na katere je potrebno opozarat in se pravi ozaveščat.Ampak želela bi morda samo povedati tukaj, to svojih bistvu samo zgodb, toso bolnikove zgodbi pripovedi, s pomočjo katerih mi lahko seveda ozaveščamo, ampak težko pa bomo na ta način prišli do nekih sistemskih sprememb, mislim da tukaj je nujno potrebna analiza stanja, trenutnega stanja in to mislim, da bomo lahko si, to bomo ravno naredili z projektom, ki ga mi trenutno izvajamo in sicer Active Citizens Pound Slovenije, Poglej Globje sem več kot moja kožja, gre za projekt, ki ji ga izvaja v sodelovanju z Univerzitetim kliničnim centrom in Severno norveško kliniko.V sklopu tega projekta bomo izvedli več aktivnosti, tako da vabim številne bolnike, da se te aktivnostje pogledate na naši spletni strani, gre za participativni projekt, tak da res si želimo, da so bolniki vključujejo, ampak najpomembnejše pri tem projektu je, da bomo bistvu lahko izvedli neko nacionalno raziskavo analizo trenutnega stanja in raziskali kvaliteto življenja bolnikov za topiškim dramatitvom.Vprašalnik je tudi zastavljen zelo inovativno, vprašalnik smo oblikovali skupaj bolniki in pa njihovi svojci, vključno z zastroku za zdravniki v psihologi, in upamo, da bomo vpraševanje lahko lansirali naslednji mesec, tako da vabim bolnike, da res vpra šalnik izpolnja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 602.097,
+        "end": 687.518,
+        "text": "Ugromno iztočni, ste nam dali gospatina Mesarić, pa le lepo za zdaj pomoč, torej je le poiskati jo je treba.Zdaj pa bi vam rada predstavila današnje osrednje govorce, z nami so doktorica medicine, dermatologinja in vodja otroške ambulante v univerzitetnem kliničnem centru v Ljubljani, gospa Olga Točkova, gospod Jurem Mikolić, magister farmacije Zavoda za zdravstveno zavarovanje Slovenije, gospodu Dušan Mikuž, generalni direktor direktorata za družino z ministrstva za delo Družino socialne zadeve in enake možnosti, potem gospod Boštjan Bernik Šetinc, pravnik in pa strokovni sodelovec zagovornika načela enakosti, ki je danes tisti vosten v nekaterim morda opazili razkorak med Vabilom, njegova kolegica je namenj zbolela, nam pa kvendar le dobrodošli. In pa Gospa Tika Hribar, blogerka za nego kože, sicer pa tudi sama bolnica prav tako odrane mladosti z atopijskim dermatitisom. Doktor Točkova predlagam, da začneva midve, nam lahko za začetek, da ste predstavite nekaj osnovnih informacij o sami bolezni, kaj atopijski dramatitis sploh je, zakaj nekdo zboli za njim, kdo običajno v katerem življenjskem obdobju, kako poteka postavitev same diagnoze in kampo pomoč, če sumimo na atopiji dramatitis pri sebi, še bolj pogosto pa se to dogaja pri naših otrocih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 690.235,
+        "end": 719.429,
+        "text": "Torej se je zabolnika, ker gre v veliki primeri, v veliko primerih za mlajše, za otroke, v bistvu za njihove cele družine, začne nek cikel, neka spirala, nek dolg procesih čaka najprej postavljanja diagnoze na to zdravljenja, ne kako je omenila že gospatina na začetku, da se boležno seveda ne kaže samo na koži, katere so še tisti drugi simptomi, ki spremljajo atopijski dramatitis?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 721.792,
+        "end": 735.376,
+        "text": "Morda omenili ste blaga, zmerna in bahuda oblika boleznih koliko odstotkov je tistih najhujših oblik, kjer dejansko, kot jo gospatina povedala, je človek bolnik nezmožen za vsakodnevno funkcioniranje in potrebuje pomoč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 737.013,
+        "end": 740.422,
+        "text": "In bolezen je v porasto, ne? To je tudi povzelo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 739.392,
+        "end": 747.796,
+        "text": "Absolutno, tako ena dvakrat do trikrat glede številku v Evropi in nekakor narašča pojavnost datopijskega dermatitisa."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 747.948,
+        "end": 773.041,
+        "text": "Glede na to, da ste dejali, da se bolezen pri različnih bolnikih kaže zelo razlišno, je tudi zdravljenje kot sta dejali prilagojeno vsakemu posamezniku, a vendarle lahko kaj poveste, kako poteka tisto osnovno zdravnjenje, s čim poskusite najprej in če kaj še dodajate oziroma čemu, kako se odločate potem za nadaljevanje zdravljenja, če nekatera zdravila delujejo, druga ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 776.585,
+        "end": 889.208,
+        "text": "Hvale lepa za zdaj, precej smo sedaj že povedali o zdravljenju, zato bi gospodo Jurem Mikolič midva nadaljevala kar tu, kjer s Gospotočkovo končali.Torej vseh leti so iz zdravlenje vendarle precej spreminjalo prva bojna linija, torej so vedno bili kot je že doktor točkova dejala, kurti kosteroidi mimo katerih ne more praktično noben bolnik z zatopijskim dermatidisom, vemo tudi, da se okoli njih tako kočejo v obštevilnih drugih boleznih in po zdravilih vnemajo vroče razprave o tem, o njihovih stranskih učinkih, o tem, kakšno zdravljenje bi bilo najbolj primerno, potem so tu še antihistaminiki za zdravnjenje alergij pa immunosopresivi kot sta dejali torej zdravila zaviranja imunskega odziva, kot sta ciklus porin in metotreksiki, ki so sredi zdravljenja obupani, ker se jim stanje kože ne popravi tako kot bi si želeli, seveda bi vsi želel, da se nam to zgodi tako in zdaj, da pride olajšanje. Potem posežijo pri porazličnih, tako imenovanih naravnih preparatih, ki pa so sežal večkrat izkazali, da niso ne le naravnjene, pa da so več krat tudi nevarni tako, da precej zapleteno in zahtevno področje je zdravljenja atopijskega dermatitisa moja vprašanja bi bilo ali trenutno obstajajo pravila do katerih oblik zdravlenja so bolniki za topijskim dermatitisom upravičeni oziroma kdaj, ozirioma ali je treba priden, se morda posežemo po teh novejših bioloških zdravilih še vedno najprej potrebno jo torej zdravljenje z drugimi sistemskimi zdravilni, katere je omenila že Doktor Točkova."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 890.423,
+        "end": 891.908,
+        "text": "A me, ja, lepo zdrav."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 892.921,
+        "end": 893.41,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 894.288,
+        "end": 918.976,
+        "text": "Torej tako, kar je doktor Toškova rekla v prejšnjem govoru, za zdravljenje natopskega debnatitisa imamo smernice mednarodne smerniče Evropske, ki se jih držijo tudi naši dermatologi, tako da vedno je obvesto tudi pri drugih boleznih vednostopensko zdravlenje, zdravilo s katerimi se začne zdravljenje in končna linija zdravnjena, kot sta omenili to biološko zdravilo do piksin."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 910.167,
+        "end": 910.606,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 919.297,
+        "end": 920.495,
+        "text": "A, pomembno?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 921.018,
+        "end": 941.993,
+        "text": "Sem izdi omeniti, kako ste tudi sami in namignili, vsa zdravila imajo svoje stranske učinke, tudi ta najnovejša tarčna zdravilja, Dubhih cent ima določene stranskje učinko, mislim, da najbolj pogostije z unitjem oči in pa vek, nedolgo nazaj smo razvrstili tudi novo zdravilo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 943.411,
+        "end": 954.127,
+        "text": "Imenuje se Alumijan, barici trenip.To zdravilo se uporablja peros, se pravi jemlje v tabletah vsakodnevno."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 954.869,
+        "end": 961.855,
+        "text": "To zdravilo je ravno tako razvrščeno za zdravljenje zmerno do hude oblike od obiskega drmatitisa."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 962.497,
+        "end": 966.85,
+        "text": "Edino, kar je, se pravi če smo rekli, da je uporaba..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 967.407,
+        "end": 979.827,
+        "text": "Tabljete vsakodnevno, malce lažje kot do piksen, ki se uporablja sobkotana, ima pa mogoče malinko slabše učinkovito, zna od koda ima določeno prednost, imajo dolo če na slabost."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 981.11,
+        "end": 993.125,
+        "text": "Mogoče bi omenil, še to se pravijo tudi pri temu novemu zdravilu so resni pomisleki pri določenih stranskih učinkih, globoka venska truboza, pručna ambulija, tudi kašne maligne bolezni."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 994.677,
+        "end": 1011.417,
+        "text": "Se pa na tem področju dela veliko raziskav, nedolgo nazaj smo dobili informacijo še ena mednarodna firma prihaja z še jednim novim zdravilom, ki bo imelo tudi boljšo učinkovitojstvo in bo imelel uporabo ravno tako v tabletah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1012.43,
+        "end": 1019.568,
+        "text": "Imajo torej trenutno slovenski bolniki za topiškim dramatiti, so na voljo vsa najboljša zdravila kot drugje po svetu."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1020.378,
+        "end": 1053.537,
+        "text": "Po mojem mnenju ja vedno je v bistvu na zavaralnici vedno čakamo, da firma proizvajalec pripravi vlogo za to, da bi se zdravilo razvrstilo, da bilo namenjeno za uporabo za naše bolnike, tako da mi vedno počakamo do firma pripravi vlogo za to novo zdravilo, kot objimo vlogo, se to pregleda o oceni in trenutno lahko rečemo, ja naši bolnik imajo vso terapijo, ki je dosegljivo v svetu tudi pri nas razvrščeno za naše bolnike."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1053.537,
+        "end": 1102.103,
+        "text": "Oba z doktor točkovo sta že omenila stranske učinke, nekateri bolniki predvsem tisti z zmerno ali pa v večjem številu še s hudo obliko bolezni opozarjajo na te stranski učinkje, da se lahko zaradi uporabetih zdravil kurti kostroidnih v prvi vrsti razvijejo dolgotrajne posledice, jih pa, kot sami pravijo, predvsem na primarni ravni zdravniki radi predpisujejo, mnogi včasih porečejo seveda valjuči tega, ker smo že prej dejali, ker so preprosto obupanje, ne, ker zdravila ne pomagajo, da niso slišani, da to obstaja tako rekoč tebu tema pri nas in da je to zdravljenje za njih morda še težje preizkušnja kot samo soočanja z boleznijo, kaj vi porečete na to?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1104.348,
+        "end": 1152.847,
+        "text": "Je absolutno pogovor z zdravnikom, spravi če res določeno zdravljenje ni tako zeločen, kovitak odbese želeli, če so neželeni učinki se s svojim zdrav nikom pogovarjajo in potem birejo lahko na naslednjo linijo zdravnega, kot ko sta prerekli, obstajajo še sistemska zdravila, ki se uporabljajo in na koncu tudi dupeksent in aluminijant. Predvsem mi zastavilišo vprašanje ali je za zapredpisovanje dupekenta, se pravi biološkega zdravilja, potrebno zdravljenje z sistemskimi zdravili ne v umitvi predpisovanja pri nas imamo napisano, da ko je bolnik primeren za sistemsko zdravnje, lahko dobi ali tarčno biloško zdravojno ali ostala sistemska zdravne, se pravi v isti liniji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1152.847,
+        "end": 1159.343,
+        "text": "To je pa potem odločitev vsakega posameznega zdravnika specialista, drmatologa v tem primeru, gospa točkov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1161.2,
+        "end": 1196.283,
+        "text": "Torej dolgotrajna in kompleksna bolezen zahteva dolgotraino in kompeksno zdravljenje, še to le bi vas morda vprašala, že obasta se da je govorila o teh zdravilih takšni, kako pomembna je pravilna dosledna uporaba leteh, s tega spadaj drica točkova, kdaj sooče ni čuti tisto nemoč predvsem starša v teh otrok, ki pridejo veliko zahteva ta bolezen od njih, veliko se morajo naučiti, kako se te starši, seveda otroci so premajhni, sprošsoučijo, kakovom jih uspe vsega tega nauči konec koncev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1198.966,
+        "end": 1205.429,
+        "text": "In vaše izkušnje so, starši so dovzetni, konec koncev in drugega verjetno ne preostane, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1202.425,
+        "end": 1202.948,
+        "text": "Zesni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1207.825,
+        "end": 1281.637,
+        "text": "Gospod Mikolič, kaj pa stroški zdravljenja?V mojo atopski dramatiti svečkrat smo že poudarili poseže močno v življenju takšnih družin, po nekaterih ocenah tudi do dvajset in celo več so številne, nekaj, neč le naš najhuje, ne vemo, da je atopijski dramatitis v privečini bolnikov najhujši v zimskih mesecih, ko je vreme neprijazno in takrat se nekatere družine čele imajo možnosti, bolniki umaknejo kam na toplo, ampak to vendarle vse stane.Zelo problematično je, kot opozarjajo bolninki, da z za za vsem pri teh bolnikih ne krije stroškov za tako osnovne stvari, kot so dovolj mazila, kot suvatiranci, kot si ovoji.Zakaj je temu tako in navaz se obračamo z vprašanjem, kaj naredimo lahko kot skupnost, da vendarle tukaj gremo nasproti bolnikom in njihovim družinam, da bi bilo več teh izdatkov ukritih s strani zavarovalnice?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1283.273,
+        "end": 1308.232,
+        "text": "Glede količine mazil je že doktor Točkova omenjala, da je navedeno v evropskih smernicah, kakšna kolićina pripada vsakemu bolniku, je smiseln, da se vse in zdravniki glede na vsak primer bolnika težo bolezni odločajo ali sta kolišina vseeno lahko prilagodi, so pa določene kreme, ki pa jih zavod ne krije."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1309.868,
+        "end": 1319.555,
+        "text": "Ko kar sem videl svoj bistvu to stare kreme, nimi ja ni mi znano ali jih je včasih zdorovalnica plačvala ali ne, ampak pri..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1320.196,
+        "end": 1323.672,
+        "text": "Teh kremah imamo dve možnosti, ena možnost je da..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1324.465,
+        "end": 1346.825,
+        "text": "Recimo na priporočilo društva bolnikov, prosite firmo proizvajalca, ti kreme, da pripravi vlogo, da bi zavarovalnica krila stroške zdravljenja tudi z tem mazilom. To je ena možnost, druga mošnost pa je, da spet ali društvo bolnikov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1349.018,
+        "end": 1381.874,
+        "text": "Pripravijo zema prosizdravnika, dermatologa, recimo, dermatološko kliniko, če lahko dajo pobudo na zavarovalnico, da se te določene kreme, katere jih zavod ne plačuje, čaj bi se jih lahko vključilo v zavarovanje. To potem zavoda obravnava na sejah za nova zdravila in okolikor je zdravilo učinkovito dokazano varno, ne vidim razloga, zakaj se recimo take stvari nebi, ampak mora pa pridat pobuda, spravi ali strani klinik ali pa strani proizvajalca."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1381.857,
+        "end": 1388.945,
+        "text": "Torej obisvo vračate, žogico in pozivate sami takšna društva, zavode, vzravnike."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1389.434,
+        "end": 1402.495,
+        "text": "Zavod ima veliko vlog, vsakodnevno, tako da dejansko mi ne iščemo proaktivno sami kaj bi šele horecimo dodatno financirati.Pa vprašanje je bilo še to obvezilni material..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1403.221,
+        "end": 1407.136,
+        "text": "A, tudi to, ja, sem ugotovil, da..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1407.862,
+        "end": 1419.337,
+        "text": "Je krito, ampak za določene bolnike.Se pravi za njegov na domu pri..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1420.332,
+        "end": 1429.546,
+        "text": "Čak te to moram pa poklejacel, pravič čujem.Za za bolnike z ranami razjedami..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1430.356,
+        "end": 1446.725,
+        "text": "Pri boleznjskih stanjih nekaj tenštih, lahko da obvesto tudi tukaj, pri obveznilnem materialu je treba, je trebar dat neko pobudo, da bi se vključilo tudi bolnike z atopskim dermatitisom, da b krivozavo stroške tudi za terapri."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1446.387,
+        "end": 1456.934,
+        "text": "Na primer, če sem jaz prav obveščena bolnik iz Luskavico, so upravičeni in z nekaterimi drugimi bolezenskimi stanji do vseh teh dodatkov ali drži to."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1457.069,
+        "end": 1457.609,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1458.487,
+        "end": 1524.248,
+        "text": "Torej pobuda pričakujete torej kakšno pobudo in se lahko potem skodijo premiki tudi na tem področju, ker bi si bolniki verjetno zaslužili, ne da se poleg vseostni obravnavi mnogi tarnajo, da so zapustavljeni strani države pogosto se počutijo preslišanje osamljenja zaradi premalo poznavanja bolezni v družbi se počutijo, da so deležni številnih kravic verjetno je to naloga in krivda nas vse, ker, kajti ko smo že večkrat podali, je bolezen vendarle še vedno premalopoznana in prav zato smo današnjo sredino, a danes povabili je tudi gospoda Dušana Mikuža, generalnega direktorja, direktorata za družino, gospod Mikuš Pozdravljeni, kdo torej odloča ali družina otroka za topijskim dermatitisom dobi dodatek za nego in na podlagi česa se zato odloćite."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1463.363,
+        "end": 1465.675,
+        "text": "Takrat potem zgodijo premiki tudi na tem poču."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1465.675,
+        "end": 1465.709,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1525.379,
+        "end": 1551.097,
+        "text": "Ja, hvala za vabilo, najprej in res te družine, ki se soočajo s takimi redkmi, s takim boleznimi, ki niso tako redke pa tudi z redkimi bolezni pa drugimi stani, so res soo čene z neko preizkušnjo, kako vse to tako časovno kot finančno nekako, predelat in živeta s tem."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1552.683,
+        "end": 1606.7,
+        "text": "Na ministrstvu z delo je bil že pred časom sprejeta možnost in pravica, da v primeru, če so določene hude polezni ali pa tudi dološena stanja prizadetost otrok, pripada staršem pravica do dodatka za nego. Mi sicer ta pravicam se uglavlja na centru za socialno delo, kjer ložijo starši vlogo z vsemi kartoteko, z vsemi dokazili, ki dokazujejo, da so lahko upravičeni do tega dodatka.In sicer katera vrsta bolezni so pripoznane za dodatek, nazivoma tudi za različne višine dodatka je določeno v pravilniku."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1607.223,
+        "end": 1621.297,
+        "text": "In na podlagi tega potem center socialno delo ne odloča sam, ampak to dokumentacijo s prav zdravniško dokumentacije pošlje zdravnejški komisiji prvestopni."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1621.28,
+        "end": 1621.482,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1621.482,
+        "end": 1680.038,
+        "text": "Zdravniški komisij prve stopnje v Sloveniji jih je šest, sicer pet zdravničkih komisiji je na prvi stopnji in ena je na drugi stopnju.Te zdravnaške komisije delujejo po večjih krajh v Slovenijo, v zdravstvenih domovih, recimo Mariboru, Ljubljani, Kopru, potem pa tudi na Univerzitetnih kliničnih centrov pediatrični kliniki, to primarna stopnja in potem je še ena straniška komisija, ki deluje na sekundarni stopnji, ki je na pediatrični kliniki, se pravi ko starši oddajo to vlogo, gre vloga nad zdravniško komisijo, ki oceni vsako vlogo individualno, pregleda konkretno za katero stvar gre na kakšni stopnji, je bolezen in na podlagi tega mnenja, center socialno delo odloči."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1628.958,
+        "end": 1629.093,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1629.093,
+        "end": 1629.11,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1680.393,
+        "end": 1695.378,
+        "text": "Na tako na začetku ste dejali, da so te družine v časovni in finančni stiski, kako dolgi pa so te postopki omenili ste več komisij ali dobijo takšne družnine pomoč po tem pravo času ali bi vendarle morda tu lahko bili hitrejši."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1696.508,
+        "end": 1734.494,
+        "text": "Toki se trudimo in res prednostno se opravnava zaostankov na tem področju ni in jih tudi redno rešujemo, tudi zdravniške komisije so zelo odzivne, tadi v času epidemije so se prilagodile, so ocenjevale te vloge na daljavo, kot da je teklo in smo odtali to dalj od nekoprednost, da stvar redno, redno teče.Se pa zgodi kdaj, da recimo ostaljši imajo možnost, če dobijo negativno odločbo, da se pritožijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1733.347,
+        "end": 1733.448,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1734.697,
+        "end": 1737.869,
+        "text": "Koliko pa je morda teh negativnih odločev, imaste mordo podatev?"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1738.696,
+        "end": 1758.963,
+        "text": "Ne z trenutno ga ne bi imel totočnega podatka, ampak na podlagi teh pritožb potem dejansko ocenjuje še komisije na drugi stopnji, se pravi, da je nekako zagotovljen strokovni pregled in tudi čez lučajno nekajzraniške komisije Kaj spregleda je ob tem na drugi stopnji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1759.688,
+        "end": 1812.49,
+        "text": "Nekateri staršinom poročajo, starši otrok za topijskim drmatiti so, da so dobili dodate k takšni otroci ozdravne družine le, če je bila prisotna potrjena alergija na tri osnovne hranila, pa čeprav gre v resnici za dve ločeni obolezenski stan samo tisti, pri katerih pride do hospitalizacij, vemo pa, da jo je bil vendarle zaradi korona virusa, kot so menili manj.Na vas bi se živeleli tako kot prej na Gospoda zavoda za zdravstveno zavrniti, želijo, da nam da ste nasvet kako, kaj lahko skupnost bolnikov naredi, da tukaj le vendarle naredimo kakšen korak naprej?"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1814.498,
+        "end": 1831.508,
+        "text": "Ja, hvala za pobodo, na ministrstvu spremljamo vse vse pobude, ki jih dajejo različna parodna društva, združenja zavodi, jih potem tudi posredujemo naprej zdravniškim komisijam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1817.131,
+        "end": 1817.502,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1817.502,
+        "end": 1817.519,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1820.995,
+        "end": 1821.316,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1821.316,
+        "end": 1821.333,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1832.116,
+        "end": 1844.198,
+        "text": "In pravilnik, v katerem so določeni kriterij in seznam hudih bolezni in stanj, za katere so opravičeni potem dodatka, se dejansko posodablja."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1844.738,
+        "end": 1913.69,
+        "text": "In redno se posodablja na nadoločeno obdobje, zadnjo po sodibitovi je bila prav letos kot ste omenili in po sodibilitev je narejena na podlagi nen zdravniških zdravnicih komisij. Se prav toki puščamo odprta vrata stroki, zbiramo pa pobude vse, ki se iz društev, posameznikov, od vseh, ki si to tiče, izbiramo in potem posredujemo z raniškim komisijem, da potem vse to skupaj pregledajo in podajo svoje mnenje za spremembo pravilnika.Gre tudi za živo stvar dejansko, ko kreplo prej omenjenju že na pristopi načini zdravljenja zdravila se spreminijo, nekaj katera se izboljšujejo tudi, hkrati se pa pojavlja tudi nove bolezne, neke redke bolezni, kot to mora bit živa stvar in dejansko je in se tudi na podlagi prilogov spre spremini oziroma prilagodi preden."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1861.259,
+        "end": 1861.58,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1884.85,
+        "end": 1884.968,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1884.968,
+        "end": 1885.087,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1911.817,
+        "end": 1912.087,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1913.437,
+        "end": 1918.162,
+        "text": "Postopki pa so žal dolgotrajni tako kot marsikje drugjejše, da onurdaš."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1917.537,
+        "end": 1930.075,
+        "text": "Poskušamo jih, kokrstneko do skrajšati, kokrsneko zaostankov ni in tokij smo res dajoma prednost, temoje smo zelo pozoni dan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1928.877,
+        "end": 1929.164,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1930.075,
+        "end": 1933.248,
+        "text": "Omenili ste že na kratko, tudi v času koronavirusa torej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1933.838,
+        "end": 1935.728,
+        "text": "To področje ni zastalo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1936.117,
+        "end": 1937.045,
+        "text": "Ne, ni sestal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1937.585,
+        "end": 1987.855,
+        "text": "Pa lepa, še en zelo pomemben vidik bolezni avtopijskega drmatitisa smo morda v teh diskusih do zdaj nekoliko zanemarili, to je stigma, ki jo bolnik za topiskim drmatitisom dobi v družbi, mnogi bolniki nam povedo, da so bile torej te duševne bolečine, dejstvo da so bili izključeni, marginalizirani, stigmatiziranji kot je gospatina dejala žrtve medvrstniškega nasilja, da jih je to bolelo še celo bolj kot vse telesne posledice bolezni.Gospod Bošjan Vernih Šetinc, vi se današnje diskusije torej udeležujete v imenu zagovornika načela enakosti, jasno je, da jo boleznik treba zaveščati zato tudi takšni dogodki kot tale danačnji najprej če začneva pri najraj nilvejših torej otrocih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1988.378,
+        "end": 2014.028,
+        "text": "Ki pa so, ki so torej najbolj pogosto, bolniki za topijskim dermatiti so na drugi strani poznajo biti otroci tudi najbolje kruti.Kaj svetujete s staršem otrok z topijskim dermetitvom, kako naj obranijo svoje otroke pred medvrstniškim nasiljem oziroma verjetno se ta zgodba ne začne in ne konča pri otrocih, pa če pa pri odraslih, kajne?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2016.661,
+        "end": 2023.276,
+        "text": "Ja, najlepša hvala prihajam iz institucije, ki je zdaj postala s tamostojen organ."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2023.917,
+        "end": 2031.275,
+        "text": "In je dolžan preprečvet in odpravljal diskriminacijo, si prav to izključevanje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2032.068,
+        "end": 2035.696,
+        "text": "Iz družbe in po drugi strani si prizadevamo za..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2036.405,
+        "end": 2041.163,
+        "text": "Enako obravnavanje za tisto, kar je prav za enake možnosti med ljudmi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2041.906,
+        "end": 2044.825,
+        "text": "Sigurna je..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2045.905,
+        "end": 2052.419,
+        "text": "Možno na diskriminacijo pa na te procese izključevanja gledat tudi, če lahko mal parafraziram."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2052.993,
+        "end": 2053.685,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2054.242,
+        "end": 2060.08,
+        "text": "Kot naj na družbeno bolezen oziroma patologijo, ki v bistvu..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2061.835,
+        "end": 2062.156,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2062.679,
+        "end": 2073.53,
+        "text": "Zdonastnije omanj časa razmišlja tamak nesmiselna iz najrazničnejših možnih zornih kotov, škodljiva nesmiselna ob bistvu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2075.437,
+        "end": 2082.473,
+        "text": "Je pa med nami in pač treba se znova ukvarjati klub temu, da je obvestvo en tak fenomen, ki ga..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2084.195,
+        "end": 2089.257,
+        "text": "S kol pa drugače skušamo nekak pomest pod preprogo?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2089.763,
+        "end": 2099.669,
+        "text": "Tolk časa dokler se nas ne dotakne, v tem smislu da bi se prepoznal kot žrtve tega izključevanja."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2100.361,
+        "end": 2102.791,
+        "text": "Diskriminacija pravzaprav..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2103.803,
+        "end": 2115.751,
+        "text": "Največkrat, ne vedno, ampak največ krat sigurno nastaja kot neki zlo nezavednega, kot nekaj, kar pravzaprav nimamo vzaveščeno, da ne koga s tem svojim ravnanjem."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2116.46,
+        "end": 2122.973,
+        "text": "Izkločujemo, al pa prozvrniti ne preuprašamo teh izhodišč, iz katerih..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2123.48,
+        "end": 2173.193,
+        "text": "Nastopamo, ne? Zdaj pri tem, pri tej konkretni bolezni je pač jen pistem vidi kdaj vidna, ne, se prav videz ljudje t, kar v ljudeh, ki se srečujejo s takimi bolniki, prebudi nek strah, neko zdaj ne vema, iracionalen strah da se bo šokužil pred sto isto boleznijo, ali te pač odbija v tem smislu, da ne veš kaj bi, ob tem, kako bi se obnašal, a moramo zdaj spremeniti vedenje do nekega bolni kalpa, recimo nekoga z invalibnostjo, je klasično vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2174.189,
+        "end": 2196.481,
+        "text": "Skratka nekonele godje, nek strah, neka nevednost je ponovat tist razlog zaradi, kjer ga potem ljudje odreagirajo na prvo žogo včasih na podlagi svojih predsodkov, na podlagi tega, kako so se naučil reagira, tu tak situacijah, tudi v razmerju do koga druzga?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2197.139,
+        "end": 2208.496,
+        "text": "Tko, da to ravnanje ljudi, ki izključujejo, no, to skušan podat ni vedno ob istoizhodobije z zlobe namenoma želeč, škodovet komu čeprav tudi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2209.019,
+        "end": 2211.483,
+        "text": "Ampak je ob bistvu en tak..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2213.322,
+        "end": 2222.992,
+        "text": "Sicer človeški odziv lahko na te situacije, ki pa je v bistvu ga treba ozavestati, prevzaprav tem ljudem, ki se tako obnašajo pomagat."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2224.004,
+        "end": 2224.426,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2224.088,
+        "end": 2225.354,
+        "text": "Nih izobraziti."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2225.219,
+        "end": 2243.225,
+        "text": "Da ne bojo več skoravnalne, pravzaprav ljudje, ki so žrtve tega ravnanja, vse je treba tudi njim pomagati, ampak oni niso tisti, kaj bi mogli biti v fokusu, usmislil, da bi mogle zdaj oni se začel drugač obnašat ali pa bito polnomočeni, pravozapravo treba celo družbo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2243.123,
+        "end": 2243.14,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2243.14,
+        "end": 2243.562,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2243.41,
+        "end": 2247.19,
+        "text": "Oponom oču, da zna prepoznavat te vzorce vedenja izključevalne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2247.173,
+        "end": 2249.671,
+        "text": "Pa imate tudi kakšne konkretne vzvode?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2250.667,
+        "end": 2256.472,
+        "text": "Ja, jaz lahko rečem, da imamo v Sloveniji srečo, to sreća, da mamo..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2257.248,
+        "end": 2260.387,
+        "text": "Relativno onrekovajih radodarno zakonodajo, kot ko da..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2261.213,
+        "end": 2261.551,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2262.226,
+        "end": 2285.767,
+        "text": "Kar sediča tistega, kaj je prepovedano, ne?Pri nas nimamo težavo s tem, da bi pač prepoznajo to kot zdravstveno stanje.Marsikir, recimo, je prekovedana diskriminacija samo zaradi invalidnosti po vsegdanjem življenju, pri nas pravzaprav ni težava, pravzaprov predolit nekega področja družbenega življenja, kjer je prepovedana."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2286.577,
+        "end": 2292.095,
+        "text": "Lahko je tudi težava, ne recimo, ker ste omenali otroke."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2292.888,
+        "end": 2294.812,
+        "text": "Težava je lahko..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2295.706,
+        "end": 2307.704,
+        "text": "Ugotavljata je neki prepovedano, ali pa anekdo lahko posreduje v situacijah, ko so se otroci med sabo zbadal na poti iz šole, ampak nikakršna..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2308.582,
+        "end": 2317.373,
+        "text": "Težava pa ni oziroma bi moralo biti jasno, da je triata take stvari naslovit recimo v šolskem prostoru v vrtcu."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2316.547,
+        "end": 2316.918,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2318.099,
+        "end": 2320.799,
+        "text": "Pred nekimi organi oblasti..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2321.98,
+        "end": 2338.197,
+        "text": "V zdravstveno barstvu, ali pa z varovanju na vseh teh področjih, pač velja, pri povedu diskriminacije se prav tega dobi v ljudje slabše obravnaven zaradi te nekaj osebne okoliščine kakršneje pač lahko ta konkretna boleza. Al pa tudi videz, da je zbi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2339.176,
+        "end": 2348.373,
+        "text": "Zdaj ne bi rad zaključkov delov, ampak tudi to vprašanje, ali je sam videz lahko osebno okoličinen nič iz brezpredmetno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2348.373,
+        "end": 2348.643,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2348.643,
+        "end": 2349.318,
+        "text": "Čem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2349.402,
+        "end": 2365.552,
+        "text": "Ampak če nekako otroke lahko vsaj do neki mer razumemo, da so nezavedno hudobni do svojih vrstnikov, kaj pa kaj svetujete odraslin, ki so diskriminirani zaradi svojega videza, v tem primeru, kot je posledica bolezni na delovnem mestu, poznamo takšne primere."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2366.446,
+        "end": 2369.467,
+        "text": "Če se smem sam za hip še vrn, nazaj kot rokom."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2371.255,
+        "end": 2374.985,
+        "text": "Naša zakonodaja je tudi v tem smislu pronicljiva, da..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2375.896,
+        "end": 2378.866,
+        "text": "Pripoznava, da so otroci posebej ranljivi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2379.423,
+        "end": 2388.569,
+        "text": "Za vse kršitve človekih pravic pa tudi skriminacije, ne sam zaradi svoje starosti, recimo, kar se sami namorijo brand."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2389.278,
+        "end": 2410.49,
+        "text": "Ker sami niso pravzaprav svoji, naj prav zaprav se v velikih zadevah starši odločajo za njih ali pa namesto njihov, ampak tudi tem smislu kakšne so posledice za otroke, no, zato naše zakonodaje pravi, da pač diskriminacije nad otroci, v vsakem primeru števaj za hujšo obliko diskriminacije."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2411.148,
+        "end": 2412.633,
+        "text": "Določene posledice, ampak."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2413.139,
+        "end": 2424.952,
+        "text": "V tem smiselu, da so lahko sankcije višja ali pa bolj stroge, ampak tudi v smislu teh varstvenih dolžnosti, ne, ko sem jih že omenil, recimo, zelo pomembno in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2422.589,
+        "end": 2422.977,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2425.087,
+        "end": 2442.721,
+        "text": "Podobno bila pravzaprav tudi za odraslep situacije na delovnem mestu, ta okolja, ne, institucionalna kot je šola vrtec, maj posebne odgovornosti ne samo da sami ne diskriminirajo, ampak tudi skušajo preprečat takšno ravnanje med otroci samimi."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2442.383,
+        "end": 2442.822,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2442.805,
+        "end": 2457.284,
+        "text": "A pa strani pravzaprav koga druzga, ne vem, starša drugega otroka in tako naprej.Še to bi omeno diskriminiran nisi samo zaradi svojih lastnih osebnih okoliščin, ampak lahko tudi zaradi..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2458.246,
+        "end": 2472.37,
+        "text": "V stanje tvojega starša, če otroke zbadajo zaradi njegovga staršo, čez kakšen je njega uvides najbrž to enako grozno pač temu otroku in obratno konec koncev, četje..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2474.007,
+        "end": 2482.327,
+        "text": "Če starša zaradi lastnosti in dolga otroka nekdo ponižujejo, nadlegujejo. To sem hotel rečt, predvsemo!"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2482.968,
+        "end": 2484.487,
+        "text": "V teh situacijah si jaz..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2485.617,
+        "end": 2490.241,
+        "text": "Lahko predstavljam tudi druge oblike diskriminacije, ampak ena od njih je pa ta."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2491.0,
+        "end": 2503.623,
+        "text": "Najbolj dodkorečen stereotipno, klasično še posebej v troških okolih, ki se reče nadlegovanje. Nadlegovenje ni samo tisto spolno nadlegovanje, ker je mogoče en tak arhetip."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2504.332,
+        "end": 2522.101,
+        "text": "Tega ravnanja, ampak je lahko tudi kakšno drugo ravnanje, ki je ponižujoče, željivo ogrožujače in krši človekov dostajanstvo, tisga, ki mu je pač tako ravnanja namenjeno, temelji pa na eni od osebnih okoliščin, ne se prav."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2523.417,
+        "end": 2548.021,
+        "text": "Ne vem, če je v šoli najbrž ogromno blost badanj na račun ljudi, ki nosijo očala, ali pa so bolj krepki, ali je njihovna glas zaradi tega, ker so starši od neko drugje mal drugačen in podobno, prav isto se lahko dogaja tudi ljudem zaradi njihovega videza in te bolezni, da tako rečem."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2548.612,
+        "end": 2549.084,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2548.848,
+        "end": 2551.885,
+        "text": "Ampak kaj bi bil v vaš pravi odgovor, kaj?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2551.43,
+        "end": 2552.476,
+        "text": "Je, smisem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2552.729,
+        "end": 2552.847,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2552.847,
+        "end": 2562.162,
+        "text": "Jaz mislim, da je prav, da se tekst stvari ne pušča nenaslovlenih, da si ne skuša debelit kožo, da tako rečem."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2562.061,
+        "end": 2562.5,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2562.5,
+        "end": 2567.326,
+        "text": "Da se ne pusti stvar, ker da bo izvenela, ne zato kar..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2566.162,
+        "end": 2566.567,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2567.714,
+        "end": 2584.117,
+        "text": "To se žal velikrat nezgodi, tudi skupinsko stvari delujejo ta skupinjska dinamika sploh med otrocijo lahko taka, da nekdo, ker je bel ranljiv, ga bo izključevaj sam zateja, ker jo bol ranlljivo, ker mu to lažje naredijo kot nekomu drugemu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2584.623,
+        "end": 2601.548,
+        "text": "Zato pač, jaz mislim, da je potrebno na take dogodke opozorit, recimo ne, tudi bo teh okolika sem že omenil vzgojitelce ali pa še pred tem, če si temu priča, pač neposredno sam. Toto troka je treba naučiti, da reče, da to..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2589.095,
+        "end": 2589.466,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2601.987,
+        "end": 2608.619,
+        "text": "Ne bo trpel ta zgravnanja, da sicer bo pa povedal, ne vem, to v rešici ali pa..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2608.619,
+        "end": 2609.024,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2608.67,
+        "end": 2611.117,
+        "text": "Učitelj si v šoli, a..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2611.505,
+        "end": 2613.226,
+        "text": "Širje znanje, prej."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2611.623,
+        "end": 2635.265,
+        "text": "Velik stvari se da rešet z neko pametno umirjeno besedo ena na ena, če pa to ni možnost, so pa, je pa tudi pot pot, jaz lahko rečem v prizagovorniku načela enakosti lahko tudi, klede tega svetujemo, se prav na voljo smo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2632.48,
+        "end": 2632.683,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2636.159,
+        "end": 2639.045,
+        "text": "Za nasvete, kako v takih situacijah ravnat?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2639.737,
+        "end": 2643.753,
+        "text": "Lahko pa tudi v skrajnem primeru pravzaprav zagovornik posreduje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2643.753,
+        "end": 2644.023,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2644.023,
+        "end": 2644.563,
+        "text": "Na to je bilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2644.158,
+        "end": 2647.583,
+        "text": "To je dobro vedeti, pa imate morda..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2648.343,
+        "end": 2662.771,
+        "text": "Več primerov pritožb oziroma bolnikov žrtev, ki pridejo do vas, bolj me zanema morda te odrasli dobih, ko so žrtve na delovnem mestu tukaj vse vendarle da zakonsko ukrepati."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2663.902,
+        "end": 2664.34,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2665.437,
+        "end": 2671.478,
+        "text": "Mi so sigurno maj odrasli več orodij na voljo, predvsem tudi zato, ker jih maj sami."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2672.069,
+        "end": 2672.761,
+        "text": "Na voljo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2673.368,
+        "end": 2690.294,
+        "text": "Žal je tako, da večino teh situacij pravzaprav lahko naslovimo samo, če se bo nekdo prtožil.Ni pa čist izključeno, da bi tudi prav zaprav do drug posredov, ne vem, čezdaj razmišljamo kršni šolski inšpekciji ali pa..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2690.868,
+        "end": 2709.11,
+        "text": "Kon skonstantov z zagovornik lahko poradi dolžnosti, če je bilo zdaj nek množična kršitev, pa se ne da identificirati posamezne žrtve mogoče kakov krepav, je pa tako, da pač to veliko breme tudi nalaga tem ljudem, ki so se."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2710.021,
+        "end": 2712.586,
+        "text": "Da, tako rečem, poklicani v pred."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2712.333,
+        "end": 2712.67,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2712.67,
+        "end": 2712.704,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2713.362,
+        "end": 2720.821,
+        "text": "In je tle bi pač v položu na srce tistim, ki so v takih dilemah, prvič da se posvetujejo, pa..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2722.171,
+        "end": 2745.948,
+        "text": "Ne skušajo delati preveč na pamet, zato ker je včasih tudi težko zbrt med temi pravnimi sredstvi, jih je več ne samo eno, ne? Drugo pa da pač delajo zmislijo, da ne gre pravzaprav samo za njihove otroke, ampud je mogoče to treba narediti za to, da se bo tako ravnanje končal, da so po drugim pomagali razumet, da sveto ne sme."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2745.998,
+        "end": 2746.015,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2746.015,
+        "end": 2746.37,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2746.471,
+        "end": 2750.251,
+        "text": "In da mogoče drugi ne bo deležni, ta je zgravnanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2750.217,
+        "end": 2788.355,
+        "text": "Vsekakor pa ne, pomesti pod predprogo, kajti potem lahko težave nastanejo še večje, ne pa manjše, hvala lepa tudi vam.Zdaj pa spoznajmo še našo današnjo zadnjo gostjo, to je gospatika Hribar, njen tik sibuti blok je zelo obiskan, njeni nasvetijo neki kože za topijskim dramatitisom, s katerim se sooča tudi sami vse od otroških let zelo iskani in recimo temu popularni medanes svetno širšo, če nam je ošečali pa je tudi ne, a v publiku na družbenih omrežjih. Gospah Ribar kaj bi kot nekdo, ki se za topiskim so jem bori že celo življenje, porečete na vsoto diskusijo danes, Tule."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2789.03,
+        "end": 2794.97,
+        "text": "Štala za vabilo in pozdravljeni, povsem kar sem slišalo danes, se mi spokaj laik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2795.881,
+        "end": 2798.362,
+        "text": "In sem zvedla veliko novega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2799.256,
+        "end": 2808.841,
+        "text": "Nekaj, kar sem jaz vse te informacije, ki sem jih jaz zelo pogrešala ob bistvu celo življenje, jaz sem zbolela za atopijski intervjavtiti, sem že zelo dolgo nazaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2809.685,
+        "end": 2816.89,
+        "text": "In takrat niti slučajno ni bilo na voljo toliko informacij, zato sem si večinoma potem kasneje pomagala sama."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2817.498,
+        "end": 2825.395,
+        "text": "Tudi sam sistem zdravljenja zdravniki niso onujali dovolj informacij, vsaj tako sem jaz to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2826.121,
+        "end": 2826.948,
+        "text": "Doživljala?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2827.505,
+        "end": 2828.348,
+        "text": "In..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2828.855,
+        "end": 2838.777,
+        "text": "Veliko sem se res pomagala sama, zato sem tudi začela pisa blog, zator sem se tudi povezala z ostalimi bolniki, da smo si medsebojno pomagali."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2839.52,
+        "end": 2855.517,
+        "text": "Še vedno sicer dobivamo ogromno informacijo o tem, kako sistem še vedo ne deluje tako kot bi bilo treba, zato sem zlovesela takih dogodkov, ker res je dejansko rdeča nito, ko vsem skupaj razmišlja, da ni dovolj informiranja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2856.479,
+        "end": 2859.871,
+        "text": "In vse to, kar sem danes zvedla dejansko mora ito svet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2860.428,
+        "end": 2868.798,
+        "text": "Ker od tega, kot je doktor točkova vpisala, si kako bi obravnavala te bulnike, je tako sanjsko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2869.726,
+        "end": 2874.029,
+        "text": "Ampak nihče od teh, s katerimi se spogovarjam, ni tega doživel na tak način."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2875.193,
+        "end": 2902.43,
+        "text": "Je pa res, da so mogoče tudi že določeni obupali nad sistemom, niso več del zdravstvenega sistema si poskušajo sami pomaga, pa še vedno ne pridobijo dovolj informacij.Vključno s tem, kako priti do nekih pomagal, k ko odreagirati, ko pride do diskriminacije, kakšne stranske učinke imajo zdravila in kakše so sploh njihove možnosti, kar se je še dan danes pogovarjamo z bolniki tri četrt te stvari ne vejo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2903.678,
+        "end": 2910.715,
+        "text": "Skoda si res želim, da ne samo na štirinajsti september, ampak tudi na druge dni govorimo več o teh storeh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2912.74,
+        "end": 2916.773,
+        "text": "Doktor Točkova, morda kakšen komentar?Zakaj tak prepad?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2920.857,
+        "end": 2928.586,
+        "text": "Morda še kakšno vprašanje iz publike, videla sem, da ste nekatere predvsem dami prikimavale, gospet, tiki hribar..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2929.109,
+        "end": 2930.645,
+        "text": "Morda kakšen komentar?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2931.202,
+        "end": 2932.535,
+        "text": "Na vse danes slišano?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2933.564,
+        "end": 2935.336,
+        "text": "Kajšnje so vaše osebne izkušnja?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2937.985,
+        "end": 2955.4,
+        "text": "Vjest ne poznam obmega bolnika, ker bi mi rekel, da kjer je doživel tako obravnavo, no, jim omogočam tudi pristranska, kar mam na socialnih omrežjih z akcijo prava koža, ko so mi bolniki pošiljali svoje fotografije in svoja zgodbe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2956.109,
+        "end": 2966.791,
+        "text": "To so res grozne zgodbe, tako kot Tina sta na začetku povedala, vzelo je v tem takih obravnav ni posebno mogoče morda v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2968.006,
+        "end": 2974.553,
+        "text": "V Sloveniji pa ne, in vsaj te zgodbe, ki jih še dan danes delijo z zmano ni..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2975.06,
+        "end": 2979.515,
+        "text": "Ni tega, ni te podpore, niti psihične podporenje, nita tega razumevanja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2980.493,
+        "end": 2992.846,
+        "text": "Običajno odpravijo paciente v desetih minutah, je s razumem, da je sistem tak, je z razumim, da dermatolog ima take time slote, v katerih mora poskušati rešiti nekaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2993.842,
+        "end": 2997.925,
+        "text": "Predpišejo vse, kot kosteroidi, da se premalo navodil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2998.803,
+        "end": 3002.853,
+        "text": "Prihaja do stranskih učinkov neustrezne uporabe teh zdravil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3003.663,
+        "end": 3005.283,
+        "text": "Pride začaran krog."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3006.582,
+        "end": 3010.7,
+        "text": "Skratka, tek, večina zgodb, ki jih je spoznam, so takšne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3011.037,
+        "end": 3020.116,
+        "text": "Je pa res na drugi strani, da verjetno tistih dobrih zgodb ne slišimo, ker tisti, ki nimajo težavse, ne pritežujejo. To je vendarle treba tudi povedati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3023.002,
+        "end": 3052.718,
+        "text": "Saj to je verjetno, da je danes tudi težava ne toliko informacij na toljikom mestih in jaz sem prepričana, da si tudi stroka velika ukradela najbolje kar ve in zna verjetnosti tudi sami zdravniki kdaj dejali smo ponovili večkrat danes zelo kompleksna bolezen z veliko neznankami tudi pri vas, ki se izobražujete celo življenje na tem področju, s verjetnosti tudi sami kdaj ustiski, ko imate bolnika, družino, starše in ki tudi same več neveste, kako jim pomagati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3055.064,
+        "end": 3057.427,
+        "text": "Še eno vprašanje, gospa iz publike?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3059.57,
+        "end": 3065.729,
+        "text": "Hvala lepa za ta komentar, zelo smo ga veseli Tina Morda, tudi kakšni komentar za aše strani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3065.729,
+        "end": 3069.779,
+        "text": "Tudi zelo, zelo vesela in hvaležna za vse naše."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3070.488,
+        "end": 3073.508,
+        "text": "Bi pa želela po eni strani..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3074.42,
+        "end": 3078.352,
+        "text": "Obstaja seveda ni prepad med stroko in bolniki, ampak..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3080.225,
+        "end": 3117.805,
+        "text": "To ne pomeni morda v tem trenutku nič slabega, pač vsak ima svojo absolutno resnico, vsak izhaja iz svojih lastnih izkučen, da so vlošali, da ne bi številnega znanja in mislim, da čeprav smo morda nekoliko na obeh v pregovih, bi si želeli ta prepad zmanjšati in tukaj bistvu se mi zdi, daje naše poslanstvo,Kako povežemo tako stroko kub bolnike in da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3118.683,
+        "end": 3164.245,
+        "text": "Cilj je, da drug drugega slišimo, tako da zdravniki slišejo, bolnike kaj bolniki pravijo s kakšnimi težavami se soočajo, po drugi strani pa tudi, da bolninki izkušajo razumet, da zdrvnik ima tisti omejen čas, ki ga ima na voljo, na primer ko smo mi zdaj sestavljali ta našo vprašalnik, se je bilo, so bolniki in starši povedali točno to, zdravnik bi nam moral razložiti vse pač naše pravice, kaj nam pripada, ampak je ravno doktor Vejo Koberces, s katerim sodelujem, bo vedel, mi nimam od časa, mi se moramo ukvarjati z bolnikom ne, ker sama obravnava bolnika, da želi dat njemu ves čas so svojo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3155.183,
+        "end": 3155.622,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3164.718,
+        "end": 3211.09,
+        "text": "Obravnavo, da bo najbolj kvalitetno obravnavanje reko mi žal nima močasa se s tem ukvarjati in mi smo to bistvu slišali in upam, da bomo v naslednjih mesecih letu morda enostavno skupaj sodelovali na nek način, da bodo naredili eno brošuro, kjer bo zbrane vse te osnovne strokovne informacije, kaj avtobijski dramatiti se kaj bolnikom pripada in tako da bo obilstvo lahko dejansko na eni točki iz, mislim, informirani o stvarih, ki bi jim lahko, ki so pač pomembne, da se ne...Točno to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3210.382,
+        "end": 3230.632,
+        "text": "Točno to tudi zdravniki velikokrat priznate, da ne veste vsega in da se le trudite in da nimate odgovorov na vseh nesploh pri tako kompleksnih boleznih, ki kot vidimo pri vsakem bolniku skorajda se izraža nekoliko drugače. Lepo bi bilo s tem pozitivno mislijo zaključiti, vendarle imamo še eno vprašanje, prosim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3225.923,
+        "end": 3226.278,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3233.703,
+        "end": 3235.34,
+        "text": "Morda, še kakšno vprašanje?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3237.787,
+        "end": 3326.228,
+        "text": "Nen, sicer pa se naš čas ravno izteka, smo pri koncu okrogla mize, ne pa še čisto v pri konju druženja, vsem, ki ste kakorkoli danes sodelovali v tej razpravi tako o govorci, kot vi v publiki z vašimi vprašanji se je v imenu organizatorja dogodka to je zavoda Topika iz Kreno, zahvaljujemo in vam želimo prijetno nadaljevanje dneva, preden pa se razidemo v osvabnem, da si skupaj pogledamo to le fotografsko razstavo, fotografinje Ines Krivec, ki je tudi danes stole z nami.Na men te razstave takšnih fotografij je seveda enak, namen od današnjega druženja to je, da ozaveščamo širimo znanje, vedenje o bolezni in prav je, že dolžni nekako smo o tem predvsem našim mladim bolnikom, ki so se pogumno postavili pred fotografski objektiv, da so nastale te čudovite fotografije, s katerim dokazujemo, da je tudi drugačno lahko lepo, kot vidimo nasmejano sproščeno in da lahko tudi bolezen, kot Tina večkrat, saj meni, reče, jo ji je marsikaj vzela in pa tudi prinesla veliko novega, torej vabljeni na ogled razstave in pa to le v preddverje na klepet pregrizek, da skupaj nekaj popijemo. Čisto za konec pa bi rada zami delila še eno misel, če že morajo imeti nekatere ljudje atopijski dramatitis naj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3327.005,
+        "end": 3348.453,
+        "text": "Atopijski dramatitis nima njih, torej znanjem, vedenjem, spoznamenjem samega sebi odkrivanjem svoje bolezni sedah, kot smo tudi slišali in videli, tu imamo žive dokaze otroke na fotografijah Tino, Tiko in še marsikoga iz publika, da se da tudi z boleznijo kvalitetno in lepo živeti, hvala lepa in s trečno vsem."
+      }
+    ],
+    "runtime_sec": 792.7647392749786
+  }
+}

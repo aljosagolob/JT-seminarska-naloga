@@ -1,0 +1,1450 @@
+{
+  "file_id": "Artur-J-Gvecg-P500029-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500029-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.05237481142634511,
+      "miss": 0.05237481142634511,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 1726.115999999978
+    },
+    "der_collar0.25": {
+      "der": 0.04014800904426959,
+      "miss": 0.04014800904426959,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 1529.3659999999782
+    },
+    "wer": {
+      "wer": 0.21305014232537772,
+      "ref_words": 4567,
+      "hyp_words": 3935
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.757,
+        "end": 6.281,
+        "text": "Ja, hvala lepa, spoštovani novinari, dragi kandidati, lepo pozdravljeni vsi skupaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 7.262,
+        "end": 9.103,
+        "text": "Sem aktualni predsednik Atletske zveze."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 9.624,
+        "end": 18.37,
+        "text": "Zdaj, večina ljudi me pozna, pa kljub samo za tiste, ki mi morda ne, ker sem zelo ponosen, da je stvar uživo in da seveda se lahko vse enakopravno predstavimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 18.71,
+        "end": 25.495,
+        "text": "Sem družinski človek doma iz Komende, iz občine, torej na ravnini pravzaprav Ljubljanskega polja, pod..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 26.356,
+        "end": 30.0,
+        "text": "pod Kamniškimi in Savinskimi Alpami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 30.1,
+        "end": 44.315,
+        "text": "Vse življenje pravzaprav se ukvarjam s sportom, sem izrazito kot pravi družinski človek, imam dva z Petro, mojo ženo, od ratnih dobni, kar imava dva čudovita otroka, en je v devetem razredu, en pa v drugem letniku fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 44.615,
+        "end": 50.576,
+        "text": "In v sprosti čas, pravzaprav, ko smo skupaj, glede na to, da sem poslovnež, prebijemo pravzaprav športno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 50.896,
+        "end": 73.782,
+        "text": "Zelo, zelo sem ponosen, da sem lahko štiri, pet let nazaj, ko ni bilo nikjer, pravzaprav nikogar, ko se je zveza se suvala in je imela kar nekaj težav, ponudil ne samo svoj položaj, ampak svojo energijo in pa svoj zanos, pravzaprav zato, da sem poleg ostalega športa, ki mu pomagam 25 let,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.602,
+        "end": 79.885,
+        "text": "preko raznih podjetij in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 80.145,
+        "end": 88.25,
+        "text": "Sem seveda spoznal, da je atletika tako pomembna pri razvoju otrok, da sem jim namenil posebno pozornost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 88.331,
+        "end": 101.759,
+        "text": "Tudi sam sem tekel krose, veliko seveda tudi gorsko se udeležujem in ko so me povabili v upravni odbor Atletske zveze, niti malo nisem pomišljal, nisem že takrat, ne kot predsednik,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 101.939,
+        "end": 109.463,
+        "text": "Ampak kot član upravnega odbora, zato sem še posebej ponosen, pripeljal denar in mrsi kdo ga ni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 109.924,
+        "end": 123.672,
+        "text": "In ta denar seveda, ker so spoznali takrat, ko se je Atletska zveza imela resne organizacijske in finančne težave, so me prosili, da pravzamem Atletsko zvezo in sem jo nesebično to pomoč ponudil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 126.273,
+        "end": 138.303,
+        "text": "Z dogovorom, katerega seveda je potrebno si zaslužiti in jaz upam, da sem si ga, je pa, da seveda mojo to ambicijo udejanim v dveh mandatih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 138.383,
+        "end": 148.172,
+        "text": "To pomeni prvi mandat, kjer sem Atletsko zelo Slovenijo nesporno finančno uredil, organizacijsko, pisarna je izjemno dobra, pisarna deluje za res vse klube."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 148.312,
+        "end": 152.893,
+        "text": "Klemen seveda tega ne more vedeti, ker je z nami zdaj dva meseca še manj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 153.033,
+        "end": 175.359,
+        "text": "Mi zelo dobro sodelujemo s klubi, nekaj navijaška zdaj seveda je, ker jaz nič ne usporavam, vsaki ima svojega kandidata in to ni nič narobe, ampak jaz vsem zagotavljam, pisarna deluje vrhunsko, javlja se na telefone, vse maile odgovarja, imamo vse račune plačane, imamo pravzaprav tako stanje, ki ga 2015, 2016 nismo niti sanjali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 176.999,
+        "end": 187.083,
+        "text": "In jaz sem vs moj trud in vse moje noči v petih letih pravzaprav namenil postavljanju atletske družine in pa atletske hiše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 187.423,
+        "end": 187.783,
+        "text": "Zakaj?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 187.903,
+        "end": 201.708,
+        "text": "Zato ker sem rekel, da v drugem mandatu, v tem, sedaj pa že zdaj smo ogromno naredili, je pa čas še za izjemne razvojne projekte, ki jih bom predstavil, če bomo v dveh krogih to delali, sicer bi pa samo še to rekel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 202.008,
+        "end": 208.351,
+        "text": "Izpeljali smo atletsko ligo Slovenije v tem mandatu že ne samo letos, tudi lani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 208.752,
+        "end": 210.152,
+        "text": "Svet se drastično spreminja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 210.232,
+        "end": 216.096,
+        "text": "Kdor govori o 15 letih nazaj ali 20, ali pa tudi 5 let nazaj, je popolnoma neprimerljivo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 216.136,
+        "end": 227.422,
+        "text": "In seveda to ve iz poslovnega sveta ali pa iz današnjih dni, ko pravzaprav se zelo malo športnih organizacij lahko postavlja stako,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 227.742,
+        "end": 232.063,
+        "text": "organizacijsko strukturo in pa tudi finančnimi rezultati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 232.383,
+        "end": 241.365,
+        "text": "Imamo, tako kot sem rekel, pri tem milijonu prihodkov, imamo vse plačane račune in posebej sem pa ponosen, da smo društveni sklad."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 241.425,
+        "end": 243.766,
+        "text": "To so pa podatki, ki so javni in ne lažajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 244.146,
+        "end": 254.869,
+        "text": "Vsako leto smo šli za skoraj 50 tisoč evrov na vzgor iz leta 2016, ko je bil moj mandat, iz 180 tisoč evrov društvenega sklada, to je naš kapital, smo prišli na 250, 2017,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 256.649,
+        "end": 266.131,
+        "text": "na 280 tisoč evrov 2018 in pa kar 364 tisoč oziroma 346 tisoč v letu 2019."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 267.351,
+        "end": 284.555,
+        "text": "To pomeni, da Atletska zveza seveda stoji, da je finančno stabilna, da ima na računu dovolj finančnih sredstev, da pravzaprav plačamo vse naše vorkunske atlete in pa vse naše mlajše selekcije in pa tudi otroško atletiko, gorsko atletiko,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 284.915,
+        "end": 293.164,
+        "text": "veteransko atletiko in pa trejle, ultramaratone, da pravzaprav se razvijamo v smeri, ki si jo vsak lahko se može li."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 293.224,
+        "end": 300.673,
+        "text": "Tako da jaz bom hnjučil in seveda si želim vaše pozornosti in pa enega mandata tudi v naslednjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 302.054,
+        "end": 302.235,
+        "text": "To je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 302.802,
+        "end": 304.844,
+        "text": "Hvala lepa za vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 305.564,
+        "end": 308.988,
+        "text": "Poglejte, še enkrat bi rekel, naši programi so v bistvu zelo podobni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 309.028,
+        "end": 310.349,
+        "text": "Gre za kredibilnost dela."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 310.949,
+        "end": 319.617,
+        "text": "Tako kot je imel Peter takrat osem let, vem, da je za vsako stvar potrebnih vsaj osem let oziroma dva mandata."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 320.258,
+        "end": 322.56,
+        "text": "Če grem na program, tako kot sem rekel,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 322.9,
+        "end": 339.941,
+        "text": "Se pravi, ključno je, da mi naša področja, da to naš razvojni načrt izvedemo in naša pisarna, ki se mi je uspel sestaviti skupaj, je zdaj sigurno tako operativna, da nismo skregani in da delamo z vsemi klubi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 341.463,
+        "end": 351.554,
+        "text": "Bistveno več denarja, 40% več atletov dobi denar pravzaprav danes, kot ga je leta 2015, ko sem jaz prevzel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 351.714,
+        "end": 356.98,
+        "text": "In seveda povečam smo tudi iznesek trenerskega dela iz 30% na 39%."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 357.06,
+        "end": 358.802,
+        "text": "Če vam pa povem, kaj bom naredil od teh naprej,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 363.907,
+        "end": 373.43,
+        "text": "v prihodnem delu, vam pa lahko rečem, da bistveno povečujemo za mojim dogovorom naprej tudi sponzorska sredstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 373.69,
+        "end": 390.795,
+        "text": "Jaz sem tukaj resnično, imam veliko dogovorov, imam zelo dobre povezave na vseh straneh in bom vrhunski atletiki, mladinski atletiki priskrbel še več denarnih sredstv in pa še več seveda tega regijskega povezovanja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 391.075,
+        "end": 417.383,
+        "text": "Seveda, ključno je, da se regijsko prilagodimo, da bomo delali tudi regijska tekmovanja, se pravi, da ne bomo imeli samo uradni tekmovalni del, ampak da bomo imeli mogoče gorenjsko, dolensko, štajersko ligo, kar pomeni, da bodo klubski delavci imeli in pa naši klubi možnost sodelovanja vseh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 417.923,
+        "end": 442.89,
+        "text": "Potem, kot sem rekel, povečanje sponzorskega dela na tem segmentu, da več denarja pride v vrhunjsko atletiko, povečanje opreme, se pravi povečanje segmenta fizioterapija, zdravstvenih pomoči, v primeru, da naši atleti in atletinje potrebujejo pomoč,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 443.27,
+        "end": 454.04,
+        "text": "In pa dogovorili smo se, da bomo vsem atletom, atletinjam nižje starosti, se pravi v mladinski selekciji, vso opremo dali v stanolast."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 454.26,
+        "end": 456.802,
+        "text": "Vem pa povem še eno zelo pomembno novico."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 456.902,
+        "end": 459.405,
+        "text": "Ja, regijsko povezovanje za župani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 460.786,
+        "end": 461.666,
+        "text": "Jaz to počnem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 461.826,
+        "end": 469.088,
+        "text": "Mene so javno, to je preverljiv podatek, podprli Župan Kranja, kjer imamo kar dva kandidata in seveda velike ambicije naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 469.108,
+        "end": 470.349,
+        "text": "Gospod Rahovc me je podprl."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 470.429,
+        "end": 476.59,
+        "text": "Potem me podpira Župan Novega mesta, kjer smo naredili športno dvorano zaprto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 477.131,
+        "end": 480.532,
+        "text": "Župan Ljubljane in pa seveda tudi v Mariboru sem bil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 480.632,
+        "end": 485.273,
+        "text": "Kar pomeni, da ta pomoč pri infrastrukturi je nekaj, kar jaz že delam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 485.693,
+        "end": 487.874,
+        "text": "In sem zelo pravzaprav ponosen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 487.934,
+        "end": 491.596,
+        "text": "To so samo mogoče take ključni povdarki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 491.936,
+        "end": 503.721,
+        "text": "Seveda zatem, da bomo delali atletska tekmovanja, bistveno bolj atraktivna, pripeljali bomo mednarodne tekmovanje zopet v Slovenijo, kakšen permit meeting."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 504.121,
+        "end": 517.996,
+        "text": "Zdaj je to čez za ta segment, potem bomo delali kakšen mednarodan, balkanski, mladinsko tekmovanje, seveda vse z namenom, da se popularizira naša atletika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 518.597,
+        "end": 519.317,
+        "text": "Ja, hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 519.958,
+        "end": 520.358,
+        "text": "Poglejte."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 521.84,
+        "end": 539.044,
+        "text": "Jaz zdaj, glede na to, da so nekateri prebrali, nekateri ne, da ne bo dileme, mi smo seveda imeli, ko sem jaz kandideral, tako kot oni dones, sem seveda sam napisal takrat, ker ga ne moreš drugače napisati, moj strateški razvoj in je bilo seveda potrebno zvezo urediti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 539.545,
+        "end": 544.286,
+        "text": "Potem smo pa, kar vam lahko povem, v upravnem odboru razdelili naloge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 544.866,
+        "end": 548.847,
+        "text": "Gospod Prezel, ki podpira naprimer Klemena Bošančiča,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 549.127,
+        "end": 549.707,
+        "text": "Ni nikoli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 549.727,
+        "end": 553.088,
+        "text": "30 let je v zvezi, pa niso prišli do strateškega dokumenta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 553.128,
+        "end": 559.909,
+        "text": "Tako da mi smo danes v bistvu naredili strateški razvojni načrt, ki se je delal celo leto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 560.189,
+        "end": 562.75,
+        "text": "To ni zadnja seja, lepo vas prosim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 562.85,
+        "end": 567.571,
+        "text": "To je dokument, ki je od spodaj na vzgor se samo kot quick win-e naredil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 567.651,
+        "end": 569.591,
+        "text": "To je naših osem, deset ciljev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 569.831,
+        "end": 577.193,
+        "text": "Jaz vam pa lahko povem, da desetletni plan delam v skladu z aregijskimi obiski po terenu in bo ljud sveta ogledal januarja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 578.033,
+        "end": 590.717,
+        "text": "Ker šteriletni program smo mi delali, to nam ni napisala Evropska atletska zveza, tudi zelo nas je pohvalila in izbrala kot naš en tak pilotni projekt, kako mala zveza lepo pravzaprav deluje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 590.757,
+        "end": 593.778,
+        "text": "In lahko samo še to povem a propos Petru Kukovici."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 594.078,
+        "end": 594.558,
+        "text": "In sicer..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 595.178,
+        "end": 611.909,
+        "text": "Gre za to, da imamo mi na PŠŠ, vsi naši 11 atletov oziroma trenerjev, ki so vključeni v zvezo, so danes del Atletske zveze Slovenije in seveda zato je delovanje in strošek dela tako večji in pride na tih 40%."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 611.969,
+        "end": 623.477,
+        "text": "Jaz sem ponosen, še večji iznesek bi imel, ker so te ljudje danes del Atletske zveze Slovenije in imamo 14 zaposlenih, ne pa tri, ker so to del in so to porezdaljeni ljudje po klubih,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 623.697,
+        "end": 632.925,
+        "text": "In seveda, da pride strošek drugačen, ampak ta denar pravzaprav dobijo naši treneri na terenu in to je odgovor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 633.045,
+        "end": 636.588,
+        "text": "Mi pa bomo rasli, mi smo zrasli, to je empirično dokazan podatek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 636.889,
+        "end": 649.54,
+        "text": "Tako z društvenim skladom, tako z stanjem v bilanci, se pravi v finančnih sredstvih konec leta imamo bistveno več denarja kot kadarkoli na računih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 649.6,
+        "end": 654.882,
+        "text": "Imamo tudi rezervirane sredstva za prve tri mesece."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 654.922,
+        "end": 662.024,
+        "text": "Vedno se je Atletska zveza borila za prvim kvartalom, kjer je bil problem, kako plačati naše atlete in atletine izame."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 662.244,
+        "end": 672.668,
+        "text": "Ne gre za predsednika, verjemite mi, gre za naše vrhunske atlete in pa mlade atlete, da dobijo tudi v prvih mesecih denar in nisem prepričan, da vsak,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 672.888,
+        "end": 684.136,
+        "text": "kandidat ve, kako težko je dobiti v teh časih bistveno več denarja, ko tako lahko in lahkotno govori o tem, kako bojo več denarja pripravljali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 684.156,
+        "end": 699.166,
+        "text": "Jaz sem poslal mrsikom od teh kandidatov prošne za sponzorstva, tako Klemenu, kot Petru, kot ne bom zdaj, ampak mrsik je tudi odgovaran, ni bilo niti telefonov, mislim, to je pomoč atletike, a veste, jaz sem pa štiri leta"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 699.466,
+        "end": 706.552,
+        "text": "dal roko in sem pripeljal noter denar, ki je v bistvu plačal čisto vse račune tudi za nazaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 708.153,
+        "end": 709.194,
+        "text": "Hvala lepa za vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 710.095,
+        "end": 712.417,
+        "text": "Absolutno bom delal za pisarno, ki jo imam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 712.617,
+        "end": 726.249,
+        "text": "Za razliko od drugih vam lahko povem, da sem verjetno prvi in sem na to ponosen, pa tudi če nisem prvi, da sem zaposlil same atlete in imam niti enega svojega človeka, kot rečejo, da bi gledal oportuno ali kar kol."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 726.309,
+        "end": 727.09,
+        "text": "Marija še je tako,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 727.31,
+        "end": 729.051,
+        "text": "je dobila službo v mojem mandatu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 729.391,
+        "end": 734.332,
+        "text": "In je seveda velika podpornica atletike in si želim, da bi ostala na zvezi tudi naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 735.433,
+        "end": 741.915,
+        "text": "Imamo tukaj Nejca Jarašo, imamo Japla iz Kronosa, imamo vrhunsko ekipo v..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 744.556,
+        "end": 748.618,
+        "text": "v Petra Kasteljica in pa našega starosta zdravkota."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 748.798,
+        "end": 754.541,
+        "text": "Zdaj pa, da bovemo v obstaječih atletih, jaz sem mislil, da tega vprašanja vse ne bom, ampak ker ga je Klemen izpostavil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 754.921,
+        "end": 767.046,
+        "text": "Poglejte, največji problem teh kandidatov, ki zdaj govorijo, je to, da govorijo o razdvojenostih karate, jih pa predlagajo točno te ljudje, ki sem jaz čutil v šterih letih, da so delali razdvojenost v upravnem odboru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 767.066,
+        "end": 768.367,
+        "text": "Gospod Prezel je"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 768.367,
+        "end": 771.728,
+        "text": "je 35 let noter in je največji podpornik Klemena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 772.008,
+        "end": 779.09,
+        "text": "Jaz mislim, če bi bil jaz na njega v mestu, bi sigurno dal možnost ženskam, mladim in bi se počasu maknul iz te atletike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 779.15,
+        "end": 779.97,
+        "text": "Ne pomaga doma."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 780.19,
+        "end": 787.792,
+        "text": "Ko je me on prosil, da je Rožle prezel kandidat za Evropsko zvezo, sem jaz seveda takoj bil za to in sem mu to priložnost tudi dal, ampak ga niso zbrali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 787.992,
+        "end": 789.293,
+        "text": "zato ker pač ni bil priljubljen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 789.513,
+        "end": 791.134,
+        "text": "To so ljudje, ki delijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 791.234,
+        "end": 797.419,
+        "text": "Hudej podpera Nikoliča, nač hudega, jaz bom vedno podperal tudi Velenje, tudi Celje in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 797.98,
+        "end": 798.8,
+        "text": "Masme podpera."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 798.84,
+        "end": 813.091,
+        "text": "Zdaj, da vam pa povem, obstoječi atleti, mene so sami klicali, to je Gregor Cankar, bi se rad vključil, Marija Šestak, Vodovnik, Fridrik Boško, Uroš Vrhovnik, Vukmirovič Rodič, se pravi, se je prej pisala Helena Javornik in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 813.291,
+        "end": 822.014,
+        "text": "Zdaj bo zelo verjetno Matija Kranc prevzel tudi tole organizacijo, da bojo zastopali zopet atlete noter."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 822.234,
+        "end": 823.755,
+        "text": "To so vsi ljudje, ki z mano delajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 823.815,
+        "end": 827.296,
+        "text": "Najbolj sem pa ponosen, da mene najbolj podpira obstoječi atleti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 827.596,
+        "end": 828.717,
+        "text": "A veste, to je ključno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 828.737,
+        "end": 832.838,
+        "text": "Obstoječi atleti so danes zadovoljni in to je zelo, zelo pomembno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 832.919,
+        "end": 837.14,
+        "text": "Luka Janežič, Maruša Mišmaš, Mihalinec in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 837.44,
+        "end": 839.381,
+        "text": "To so ljudje, ki nimajo pripomp"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 839.461,
+        "end": 842.222,
+        "text": "in vedno podpisujemo pogodbe z nasmehom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 842.423,
+        "end": 847.205,
+        "text": "To vedo vsi novinarji in vedo tudi vsi atleti in sem seveda zato na to ponosen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 847.225,
+        "end": 855.87,
+        "text": "Lahko vam samo še to povem, da bom jaz vključil noter tudi seveda bo zelo močno trenersko organizacijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 855.89,
+        "end": 857.851,
+        "text": "Jaz mislim, da je centar naše atletike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 857.931,
+        "end": 859.252,
+        "text": "Poleg atletov so treneri."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 859.832,
+        "end": 860.693,
+        "text": "Tako je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 860.973,
+        "end": 869.621,
+        "text": "Z Vladimirem Kevom je bil ključen človek, da smo zadevo uredili in umirili v tem obdobju, ki je prišel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 869.661,
+        "end": 878.93,
+        "text": "Jaz bom strokovni svet razširil tudi na človeka, poleg seveda Vladimira Kevo, še z nekom, ki bo pomagal pri reprezentanciji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 879.05,
+        "end": 884.554,
+        "text": "In imam z parimi ljudmi kot vodja reprezentance in bodo sodelovali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 884.614,
+        "end": 892.138,
+        "text": "Sicer pa jaz stroko napolno podpiram, ker smo noter vključeni, oziroma so vključeni vsi naši vrhunski atleti in atletinje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 892.439,
+        "end": 897.282,
+        "text": "In seveda si ne želim nekega kreganja, ker zadeva v bistvu teče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 897.562,
+        "end": 905.905,
+        "text": "Hvala, jaz bi morda samo rekel, skom pa ne bi sodeloval, ker vem, kdo je v krog hodil zdaj za proti kandidati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 905.945,
+        "end": 921.03,
+        "text": "Jaz vse štiri oziroma tri spoštujem res, ker jih poznam in vem njihove kvalitete, tudi teh kandidatov in sem vesel, da se za to funkcijo poteguje, ker je samo dokaz, da sem dobro uredil zvezo in da bom v naslednjem mandatu, seveda, da bomo šli na gor na primer."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 921.17,
+        "end": 937.938,
+        "text": "S Petro Kukovico je okrog hodil Mikuš, stari direktor, no jaz njega ne bi nazaj pripeljil, ker mislim, da pa Peter pa se z njem to pogovarja, ker zelo veliko negativnih, bom rekel, energij je pa okrog tega in mene je prav, da tudi to povem, se pravi, s kom bi delal in s kom ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 938.939,
+        "end": 939.419,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 939.78,
+        "end": 949.727,
+        "text": "Ja, čisto nakratko, tudi jaz mislim, da bo pravni odbor nov, si želim mladih kandidatov tudi, nekaj bo pa tudi starih, ki jih seveda zelo spoštujem in je prav, samo za Primoža."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 949.967,
+        "end": 963.338,
+        "text": "Jaz se pa tle s Klemenom samo toliko strinjam in sicer Primož Kozmos je popolnoma iste besede uporabljal z mano in je človek, ki je res pozitiven in vse in samo zato tudi jaz osebno pomagal in atletska zveja Slovenije imel,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 963.678,
+        "end": 985.048,
+        "text": "ima pogodbo, imel je oziroma dela za razvoj kadrov v športu, jaz sem tudi v olimpijskem komiteju in seveda Primož Kozmos mora seveda pri sebi tudi razčistiti, a ne, kje bi najraje delal, ker Primož se je že veliko krat premislil, ampak jaz ga zelo spoštujem z nobenih zamer, on tudi je mene poklical in je rekel, Roman Dobnikar,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 985.328,
+        "end": 994.712,
+        "text": "absolutno nobenih zamer, vse v redu, samo on enostavno pač tak je in v življenju se je že večkrat premislil, jaz mu to ne zamerim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 994.972,
+        "end": 997.394,
+        "text": "Jaz absolutno ga bom vključval tudi naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 997.454,
+        "end": 998.894,
+        "text": "Primo šele najboljši atlet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 998.954,
+        "end": 999.615,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1000.055,
+        "end": 1000.695,
+        "text": "Ja, hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1000.775,
+        "end": 1002.236,
+        "text": "Pozdravljam tudi gospod Završnik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1002.676,
+        "end": 1029.566,
+        "text": "Res je, tukaj pa se prav z vsemi strinjam, ni takega kreganja kot zgleda, jaz imam samo več informacij, seveda in s temi istimi ljudmi bodo pač pršli v stik tudi ostali, jaz vam lahko samo eno stvar zagotovim, izjemni klubi, nobenega kreganja, sem predsednik vseh, če me kaj odlikuje je to, da delam z vsemi, a ne, in od Petra Brti ima Kranjski klub, ki vrhunsko dela, sem bil veliko krat gor in ga seveda zelo podperam, ne,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1029.946,
+        "end": 1038.734,
+        "text": "Tudi v Kranju so ostali mali klubi, ki delajo vrhunsko atletsko drobno oziroma kids athletics in otroško atletiko v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1039.054,
+        "end": 1048.103,
+        "text": "Ni, to je neko normalno rivalstvo med klubi, kjer se pravzaprav enkrat na leto borijo, kdo se bo vpisal v klub, ampak delamo pa skupno politiko in sploh ni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1048.323,
+        "end": 1055.95,
+        "text": "Poglejte, večina ljudi se šola v Ljubljani in vedo ljudje, da pridajo pravzaprav atleti iz periferije na Ljubljani,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1055.95,
+        "end": 1072.561,
+        "text": "v mesto in zato kot predsednik sem vedno podperal tudi male klube, zato da jim zagotovimo vse, da imajo tudi pri otroški, mladinski atletiki dovolj sredstev, da preživijo tudi poleg tega, da preživijo veliki klube."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1072.621,
+        "end": 1080.046,
+        "text": "Tako da z moje strani odprta vrata za vse, če me kaj odlikuje, me odlikuje pravzaprav ta mirnost in pa povezovalnost prav vseh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1080.807,
+        "end": 1082.99,
+        "text": "Jaz bom pa tukaj kar konkreten."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1083.331,
+        "end": 1088.338,
+        "text": "Jaz pa absolutno bom povabil vse, zato ker vse tri zelo dobro poznam in jih cenim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1088.858,
+        "end": 1095.948,
+        "text": "Stojan, že danes vrhunski menedžer in pomaga Mrsi, kateremu"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1096.349,
+        "end": 1102.931,
+        "text": "Športu, Klemena Boštjančiča, vsem sem poslal v Bila tudi za sponzorstva in pa Petra."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1103.191,
+        "end": 1120.615,
+        "text": "Petru sem celo ponudil, da v primeru, da jaz zmagam, ker mislim, da imam res realno dobre šanse, da se skupaj pravzaprav usedeva in morda za njega bi bilo bistveno bolje, kot da je ponovno predsednik, da kandidera za Evropsko atletsko zvedo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1120.835,
+        "end": 1127.696,
+        "text": "Tukaj moja povezovalnost kaže prav čez meje mojega egotripa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1127.736,
+        "end": 1131.317,
+        "text": "Tako da jaz bom vse povabil in jih seveda zveseljem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1131.557,
+        "end": 1136.758,
+        "text": "Tako kot sem jaz, za razliko od drugih, sem prišel v upravni odbor in finančno pomagal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1136.838,
+        "end": 1141.979,
+        "text": "Torej, moj pogoj ni bil, da sem bil predsednik in sem lepo v upravnem odboru pomagal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1142.039,
+        "end": 1149.521,
+        "text": "Potem, ko je bilo vse narobe ali pa veliko organizacijskih stvari in finančnih narobe, so me pravzaprav te kandidati, ki danes podperajo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1149.961,
+        "end": 1172.491,
+        "text": "Mr si koga, mene podpira pravzaprav izjemno število klubov, seveda sem na to pristal in jaz ne bom izključval in bom zelo vesel, če bojo te tri kolegi z mano in bomo potegnili atletiko naprej, ker ima res velik potencial in sem prepričan, da bomo z neko veliko kolajno prišli v naslednjem mandatu in pa z bistveno večjimi sponzorstvi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1172.511,
+        "end": 1173.011,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1173.451,
+        "end": 1174.872,
+        "text": "Ja, ja, vse v redu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1175.012,
+        "end": 1191.948,
+        "text": "Se pravi, jaz sem bil 26 let od samega začetka na vrhunskih pozicijah v petrolu, od direktorja malo prodaje, vele prodaje, član uprave in pravzaprav res na top pozicijah direktor skladiščenja, dobil sem"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1194.19,
+        "end": 1203.398,
+        "text": "ponudbo strani skupine Gen, oziroma Genija, ki jo nisem mogel zavrniti in zdaj delam na tem področju in sem se odločil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1203.658,
+        "end": 1208.642,
+        "text": "Tudi zato lahko povem, ker mnogi so me vprašali, kako je petrolni sponzor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1208.722,
+        "end": 1216.409,
+        "text": "Petrol imamo gentleman agreement in nismo sponzorirali tisti, ki je bil predsednik Atletske zveze Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1216.769,
+        "end": 1229.693,
+        "text": "Zdaj pa imam dogovor in ga lahko tudi razkrijem, da v naslednjem mandatu, če dobim, bo seveda tudi petrol stopil zraven, ker sem jaz pač v drugi funkciji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1229.753,
+        "end": 1236.075,
+        "text": "Se pravi, delam v managementu in sem pravzaprav zelo zadovoljen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1236.415,
+        "end": 1239.797,
+        "text": "Sem pa človek, ki zelo nerad menja in seveda bom rekel,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1241.137,
+        "end": 1251.864,
+        "text": "Jaz strmim k neki stalnosti, zato sem pravzaprav zelo ponosen, da bi to nadeleval tudi v katletski zvezi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1252.384,
+        "end": 1254.365,
+        "text": "Ne, gospod Šemrov Vuroš, sploh ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1254.645,
+        "end": 1255.926,
+        "text": "Jaz sam ta trend nadaljujem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1255.946,
+        "end": 1258.267,
+        "text": "Jaz pravzaprav sem dobil skoraj..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1259.108,
+        "end": 1265.715,
+        "text": "ne bom rekel, zvezo, ki je bila zelo, zelo slabo deluje oča in to vejo vsi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1265.735,
+        "end": 1282.791,
+        "text": "Tako da začeti z nič, pa smo prišli do sem, če nadaljujem s tem trendom in absolutno bom, imam kar nekaj dogovorov konkretne, sem lahko tudi konkreten seveda z sponzorstvi, zakaj sem tako zelo pozitiven uroč za to,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1283.392,
+        "end": 1292.875,
+        "text": "ker vem, da so večina ljudi, ki poslovnih, ki z njimi sodelujem, so opazili, kako zelo smo uredili Atletsko zvezo Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1292.955,
+        "end": 1311.781,
+        "text": "To je osnova, da seveda lahko pridobivaš sponzorska sredstva in tudi rezultati prihajajo, ker delali smo na mladi generaciji, ki danes pravzaprav Kristjan Čeh in tako naprej prihajajo in bomo tudi z novimi projekti in z novimi uspehi tudi laže pridobiva sredstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1311.801,
+        "end": 1313.062,
+        "text": "Tako da jaz se veselim tega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1313.834,
+        "end": 1315.375,
+        "text": "Ja, hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1316.016,
+        "end": 1327.246,
+        "text": "Absolutno, imam izjemno število, tako kot je rekel Stojan Številk, če smo parafiriziramo Jurija v mojem telefonskem imeniku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1328.367,
+        "end": 1336.814,
+        "text": "Pravzaprav sem vesel, da v tem športu kljub samo ni tako levo, desno, gor, dol, ampak gre za dobre in nedobre stvari."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1337.054,
+        "end": 1337.435,
+        "text": "In jaz"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1337.915,
+        "end": 1343.977,
+        "text": "To počnem z vso mojo odgovornostjo in imam res kontaktov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1344.017,
+        "end": 1358.241,
+        "text": "Jaz sem bil v izjemno veliko nadzornih svetih, v zelo veliko funkcijah, delam na lokalni ravni, bil sem od, da ne bom našteval, od SDH-ja do kapitalske družbe, do..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1358.941,
+        "end": 1360.962,
+        "text": "soda, do genenergije in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1361.062,
+        "end": 1373.148,
+        "text": "Tako da imam z vseh področji zelo veliko prijateljev, ampak bolj kot to je pomembno to, da seveda vidijo, da delamo dobro."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1373.508,
+        "end": 1385.934,
+        "text": "Mene so podprli in me podperajo zato, ker stvari stabiliziram, ker jih umirjam, ker atletiko peljemo lepo naprej in se nam kažejo izjemni rezultati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1386.194,
+        "end": 1406.541,
+        "text": "tudi športni in v naslednjem mandatu sem jaz prepričan, da bo nov predsednik imel tudi, bom rekel, še lahko zapokazati zelo veliko tudi športnih rezultatov, ki pa zopet seveda pomenijo novo priložnost za sponzorstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1406.621,
+        "end": 1410.542,
+        "text": "Jaz pomagam tudi regijsko, ker pomeni klubom,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1410.882,
+        "end": 1416.428,
+        "text": "ki ne gre do direktno čez Atletsko zvezo in sem seveda zelo ponosen na to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1416.788,
+        "end": 1427.719,
+        "text": "Ja, jaz sem pozitiven in imam moj prijatelj, ene nazadnje, zelo dober tudi Aleksandar Šeferin in pa seveda se tukaj bom rekel tudi podpiramo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1427.799,
+        "end": 1429.501,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1429.561,
+        "end": 1430.222,
+        "text": "Ja, hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1431.858,
+        "end": 1446.411,
+        "text": "Moje mnenje je, da bodo klubi izbrali zelo modro, zelo se pravzaprav želim, da postanemo pozitivni in da ni kakšne kregarije, ker mislim, da je res atletika ne potrebuje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1446.731,
+        "end": 1449.454,
+        "text": "Če bo prvi krog, seveda bom vesel, v drugem krogu"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1449.914,
+        "end": 1466.307,
+        "text": "V primeru, da bo, sem odprt za vse, klubi bodo odločali, vse ne bo kandidat sam poklical klube in jih razvrstil, ljudje se bodo odločali in sami klubi pravzaprav, ker je prav in se ne tako tudi odločijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1466.567,
+        "end": 1469.21,
+        "text": "Jaz imam prav za vse odprta vrata."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1469.81,
+        "end": 1474.633,
+        "text": "in bom pomagal čisto vsem klubom in prav nobenih zamer."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1474.973,
+        "end": 1489.643,
+        "text": "Zdaj, kar se tiče, mislim, da je Uroš vprašal za politično stranko, to je sicer popolnoma nepomembno, jaz danes nisem član nobene stranke, sem pa ponosen, ker sem se kot mladi mož v komendi lotil izgradnje oziroma pomoči izgradnje"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1490.043,
+        "end": 1493.184,
+        "text": "neke infrastrukture za naše otroke in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1493.244,
+        "end": 1503.706,
+        "text": "Takrat sem bil kot občinski svetnik član socialnih demokratov in sem na to tudi ponosen, ker smo zelo veliko naredili, ampak samo v tistem obdobju takrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1504.246,
+        "end": 1510.328,
+        "text": "Sicer pa ne uporabljam nobenih teh stvari, ker v poslovnem svetu delam popolnoma neodvisno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1510.948,
+        "end": 1517.529,
+        "text": "Na lokalnem nivoju pa ja in sem zelo vesel, da sem pomagal tudi družbeno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1517.589,
+        "end": 1519.67,
+        "text": "Mislim pa, da to v tem"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1520.03,
+        "end": 1523.635,
+        "text": "pomenu niti ni tako pomembno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1523.675,
+        "end": 1537.433,
+        "text": "Jaz mislim, da jo lahko realno pričakujem tudi v prvem, ampak res ne želim prejudicirati, bom zelo vesel podpore katerega kol kandidata v drugem kolu v primeru, da se zgodi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1537.713,
+        "end": 1538.474,
+        "text": "Mislim pa, da si ljudi"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1538.474,
+        "end": 1541.457,
+        "text": "Ljudje ne želijo, da si želijo tega konec, da bomo delali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1541.517,
+        "end": 1550.867,
+        "text": "Predvsem klubska javnost je zelo modra, ve, kdo je kaj naredil in kakšni so časi danes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1551.247,
+        "end": 1555.732,
+        "text": "Jaz to stabilnost ponujem v zelo negotovih časih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1555.932,
+        "end": 1561.178,
+        "text": "Jaz vem, da bom stvar peljal varno naprej za lepo rastjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1562.723,
+        "end": 1589.917,
+        "text": "Ja, moje stališče in pa tudi v to smer delam je, da mi rastemo z rastjo, mislim, da bomo prišli z nacionalnimi sredstvi, se pravi tako z sredstvi države, olimpijskega komiteja iz Tujine in pa z našimi sponzorskimi sredstvi v štirih letih, se pravi v naslednjem mandatu tja do milijona osemsto,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1590.297,
+        "end": 1608.17,
+        "text": "To je tudi moj cilj in mislim, da je to kar lepa rast, se pravi tako povečanje sponzorskih sredstev, kot povečanje sredstev strani države, ki pa se seveda zgodi hkrati z boljšimi rezultati naših atletov, ki se pa dogajajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1608.431,
+        "end": 1614.215,
+        "text": "In to je taka zelo ambiciozna ocena, realna in jaz sem jo seveda pripravljen podpisati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1615.475,
+        "end": 1621.783,
+        "text": "Hvala lepa, absolutno, pritarjujem Boštjanu, delamo točno to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1621.923,
+        "end": 1631.335,
+        "text": "Če vam dam samo en primer, zakaj smo vrnili atletsko ligo, ki je mednarodna, Slovenska atletska liga Telekom Slovenije, zato ker so se dokler ni bilo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1631.776,
+        "end": 1650.505,
+        "text": "korona krize, je prijavljali tudi naši zunanji, torej tujci na to in so tekmovali vsi naši atleti v času najhujše krize in vsi mediji nam pravzaprav čestitajo, da smo naredili tako vrhunsko ligo, tako da mi verjemite, da sem zelo ponosen, da smo to naredili na šestih krajih po Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1650.865,
+        "end": 1659.67,
+        "text": "Absolutno bom naredil vse, da bo velenski miting, ali pa dogovor imam tudi z Kladivarjem v celju, da bo nek permit miting prišel nazaj v"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1660.21,
+        "end": 1666.513,
+        "text": "Slovenijo, ta denar se že pripravlja in absolutno mislim, da to moramo narediti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1666.673,
+        "end": 1675.737,
+        "text": "Jaz bi sam mogoče stojan, vsej morda ne ve, ampak Ljubljanski maraton seveda ni privatni dogodek, ampak slovenska atletika mu je dala"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1676.157,
+        "end": 1683.728,
+        "text": "možnosti in pa se pravi IAF, svetovna atletika, tudi značko in je eden od certificiranih maratonov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1684.088,
+        "end": 1692.2,
+        "text": "Mi imamo mnogo krat tam tudi, oziroma imamo tudi državno prvenstvo ali polmaraton ali maraton, tako da še kako smo seveda povezani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1693.201,
+        "end": 1717.319,
+        "text": "Bi pa tukaj tudi rekel, da klemno, mi seveda pa imamo že dogovore z Balkansko atletsko zvezo in bomo, oziroma z Balkanom in seveda je to naš teritorij, kjer poslovno lahko veliko naredimo tudi sponzorsko, tako da z županom Ljubljane imamo dogovor v primeru, da se takoj, ko se odpre tudi atletska dvorana,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1717.619,
+        "end": 1724.454,
+        "text": "da naredimo eno veliko tekmovanje v Ljubljani, seveda evropskega tipa."
+      }
+    ],
+    "runtime_sec": 370.84018421173096
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.008352856934296455,
+      "miss": 0.008352856934296455,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 1726.115999999978
+    },
+    "der_collar0.25": {
+      "der": 0.0072108311548709295,
+      "miss": 0.0072108311548709295,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 1529.3659999999782
+    },
+    "wer": {
+      "wer": 0.3558134442741406,
+      "ref_words": 4567,
+      "hyp_words": 3649
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.74,
+        "end": 6.359,
+        "text": "Ja, hvala le pa spoštovani novinarji, dragi kandidati, lepo pozdravljeni vsi skupaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 6.882,
+        "end": 106.343,
+        "text": "Sem aktualni predsednik atletske zveze, zdaj večina ljudi me pozna pa kljub vsemu za tiste, ki mi morda ne, ker je, sem zelo ponosen, da je stvar uživo in da seveda se lahko vse enakopravno predstavimo.Sem družinski človek domajske omende iz občine, torej na ravnini prozapravse ukvarjam s športom sem izrazito kot pravi družinski človek, imam dva z Petro moja žena, vratnih domnikarjih imava dva čudovita otroka, eni je v devetem razredu, eden pa v drugem letniku fakultete in ves prostičnost pravzaprav, ko smo skupaj, glede to, da sem poslovnež prebijemo prav zaprav športno.Zelo, zelo sem ponosil, da so lahko štiri, pet let nazaj, ko ni bilo nikjer prav zaprav nikogar, ko se je zveza sesuvala in je imela kar nekaj težav ponudu nesom v svoj položaj, ampak s svojo energijo in pa svoji zanos, prav za to, da sem poleg ostalega športa, ki ga, ki mu pomagam petindvajset let v preko raznih podjetij in tako naprej sem seveda spoznal, da je atletika tako pomembna pri razvoju otrok, da sem jim namenu posebno, posebne pozornost tudi sam sem tekel krosje veliko sveta tudi gorsko se udeležujem in ko so me povabili v upravni odbor atletske zveze niti malo nisem pomišljal nisam že takrat ne kot predsednik, ampak od član upravnega odbora, ampaks je v posebej ponosen pripeljal denar."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 107.153,
+        "end": 180.728,
+        "text": "In mrsi kdoga ni, in ta denar seveda, ker so spoznate kratkosti atletska zveza pravzaprav imela resne organizacijske in finančne težave, so me prosili, da prozamamo atletsko zvezo in sem jo nesebično to pomoč ponudil z dogovorom, katerega seveda je potrebno si zaslužiti in jo supanjam, da sem si ga, je pa, da seveda mojo ambicio v dejanju v dveh mandatih, to pomeni. Prvi mandat, kjer sem atletsko zdaj v Slovenijiesporno, finančno uredil organizacijsko pisarna je izjemno dobra, pisarna deluje za res vse klube, Klemen seveda tega ne more vedet, ker je z nami zdaj dva meseca še manj. Mi zelo dobro sodelujemo s klubi, nekaj navijaštvo, da seveda je, ker jaz načne usporavam, vsak ima svojega kandidata in to ni nič narobe, ampak jaz sem zagotavljam. Pisarna deluje vrhunsko, javlja se na telefone, vse meje le odgovarja, imamo vse račune plačane, imam opravzaprav tako stanje, ki ga dva petnajst, dva šestnajst nitmo niti sanjali in je sem ves moj trud in vse moje noči v petih letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 181.319,
+        "end": 300.608,
+        "text": "Pravzaprav namenil postavljanju atletske družine in pa atletski hiše, zakaj?Zato ker sem rekel, da v drugem mandatu v ten sedaj pa že zdaj smo ogromno naredili, je pa čez še za izjemne razvojene projekte, ki jih bom predstavil, če bomo v dveh krogih to delali, sicer bi pa samo še to rekel.Izpeljali smo atletsko ligo Slovenije v tem mandatu že nesomoletost tudi lani, svet se drastično spreminja kdor govorijo o petnajstih letih nazaj ali dvajst ali pa tudi pet let nazaj, je popolnoma neprimerljivo in sveta to ve iz poslovnega sveta ali pa iz današnjih dni, ko pravzaprav se zelo malo športnih organizacij lahko postavlja s tako organistijsko strukturo in pa tudi finančnimi rezultati, imamo tako kot sem rekel pri tem milijonu prihodkov, imam vse plačane račune posebej sem pa ponosen, da smo društveni sklaj, to so pa podatki, ki so javni ne laženjo, vsako leto smo šli za skoraj petdeset tisoč evrov navzgor iz leta dva tiso čez najst, ko je bil moj menda iz sto osemdesett tisoć evrov društega sklada, to je eneč kapital, smo prišli na dvesto petdesett dva sedemnajst, na dvesto osem deset tisov od dva osemnajst in pa kar tristo šestdeset, tiso, oziroma tristo, šestinšestdeset tisoč, odziroma tristo šestinštirideset tisov v letu dva devetnajst to pomeni, da atletska zveza seveda stoji, da je finančno stabilna, da ima na računu dovolj finančnih sredstev, da pravzaprav plačamo vse naše borkunske atlete in pa vse neše mlajše selekcije, in pa tudi otroško atletiko, gorsko atLetiko, veteransko atLetiko in pa trele ultramaratone, da pravzaprav se razvijamo v smeri, ki si jo vsak lahko samo želi tako, da jaz bom lahko hnjočju in svoda si želim vaši pozornosti in pa enega mandata tudi v naslednjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 302.026,
+        "end": 340.805,
+        "text": "To je, hvala lepa za vprašanje, poglejte še enkrat bi rekel, naši programi so v bistvu zlo podobni, gre za kredibilnost dela, tako kot je imel Peter takrat osem let, vem, da je za vsakostvar potrebnih vsaj osemlet vziroma dva mandata in če grem na program, tako kot sem rekel, se pravi ključno je, da mi naša pravzaprav področja, da to naš razvojni načrt izvedemo in našo pisarna, ki se mi je uspel sestavič skupje, je zdaj sigurno tako operativna, da nismo skregani in da seveda delamo z vsemi klubi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 341.581,
+        "end": 430.445,
+        "text": "Bistono več denarja štirideset procentov več atletov dobi denar pravzaprav danes, kot ga je leta dva tisoč petnajstkosemdes prevzel in seveda povečamo tudi iznesek trenerskega dela iz trideset procentov na devetintrideset porcent, če vam pa povem kaj bom naredil o teh v naprej v prihodnjem delu, vam pa lahko rečem, da bistveno povečujemo z mojim dogovorov, imamo zelo dobre povezave na vseh straneh in bom vrhunski atletiki, mladinski atleti pri skrbel še več denarnih sredstev in pa ševeč seveda tega regijsko prilagodimo, da bomo delali tudi regijska tekmovanja, se pravi, da ne bomo imeli samo uradni tekmovalni del, ampak da bomom imeli mogoče gorenjsko, dolenjsko štajersko ligo, ker pomeni, da bodo klubski delavci imeli in pa naši klubi možnost sodelovanja vseh, ne? Potem kot sem rekel, povečanje sponzorskega dela na tem segmentu, da veš denarja pride v vrhun svoj atletiko povečanje opreme, se pravi povećanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 431.002,
+        "end": 521.317,
+        "text": "Ko bistveno povečanje segmenta fizioterapija zdravstvenih tehle, se pravi zdravstevnih pomoči, v primeru da naši atleti in atletinje potrebujejo pomoć in pa dogovorili smo, saj da bomo vsem atletom, atletenjem nižje starosti se pravi v mladinski selekciji vso opremo dali v stalno last, vam pa povem še eno zelo pomembno novico, ja, regijsko povezovanje za županji, je s to počnem, mene so javno, to bi preverljiv podatek podprli ž Kranja, kjer imamo kar dva kandidata in seveda velike ambicije naprej gospotrakovc me je podprl, potem me podpira župaj novega mesta, ker smo naredili športno dvorano zaprto župani Ljubljane in pa seveda tudi v Mariboru sem bil, kar pomeni, da ta pomoč pri infrastrukturi je nekaj, kar jaz že delam in sem zelo pravzaprav ponosen, nato so samo mogoče ključni poudarki seveda za tem, da bomo dela atletska tekmovanja bistveno bolj atraktivna, pripeljali bomo mednarodno tekmovanje zupet v Slovenijo, kakšen permit miting, zdaj je to čez ta segment potem bomo delali kakše mednaroden balkanski mladinsko tekmovaj svoda vse z namenom, da se popularizira naša atletika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 521.873,
+        "end": 706.672,
+        "text": "Je zdaj glede na to, da so nekateri prebral neketeri ne, da ne bodi le me, nismo seveda imel, ko sem jaz kandidiral tako kot oni dones, ne, sem seveda sam napisal takrat, ker ga ne moreš drugač napisat moj strateški razvoj in je bilo se da bi bilo vločnega, da so vlošene, da bomo vladi, da bodo v točki leto, to ni zadnja seja lepo, ves prosim. To je dokument, ki je od spodnje navzgor, se samo kot kvikvine naredil, to je naših osem, deset ciljev, jaz sem pa lahko povem, da desetletni plan dela v skladu z regijskimi obiski po terenu in bo Lut sveta ogledal januarja, ne, ker štiriletni program smo mi delalo, to nam njivno pisala evropska atletska zveza, tudi zelo nas je pohvalila in izbrala kot neš en tak pilotni projekt, kako mala zveza lepo vzaprav deluje in lahko samo še to povem, a propo Petru Kukovici.In sicer gre za to, da mamomi ne pa še še, je se pravi vsi naši enajst atletov, oziroma trenerjev, ki so vključeni v zvezo Sudan so danes del atletske zveze Slovenije in so, sveta, zato je delovanje in strošek dela tako večji in pride na teh štirideset procentov.Jaz sem ponosen, še veči znesek bi imel, ker so te ljudje danes dele atletski zvezi Slovenije, in imamo štirinaj zaposlenih ne pa, ne, ker so to del in so to porazdaljeni ljudje po klubih in seveda da pride strošek drugačen, ne?Ampak to so ta denar pravzaprav dobijo naši trenerji na terenu in to je odgovor.Mi pa bomo rasli, mi smo zrasli, to je empirično dokazen podatek tako za Zadruščanim skladom, tako z stanjem v bilanci, se pravi v finančnih sredstvih konec leta imamo bistveno več denarja kot kadrkol na računih, imamo tudi, imam tudi pravzaprav rezervirana sredstva za prve tri mesece vedno se je atletska zveza borila z prvim kvartalom, kjer je bil problem, kako plačat naše atlete in atletine izame ne gre za predsednika verjetnemi, gre za naše vrhunske atleti in pa mlade atletje, da dobijo tudi v prvih mesecih denar in nisem prepričan, da vsak kandidat ve, kako težko je dobit v teh časih bistveno več denarja kot tako lahko in lahkotno govorijo o tem, kakovajo več genare pri pripravljali?Jaz sem posloval mrsi komu, od teh kandidatov prošne za sponzorstva tako Klemenu kot Petru kot ne bom zrejal, ampak mrski, ki je tudi odgovora ni bilo niti telefonov, niso dvine.To je pomoč atletike, a veste, jaz sem pa štiri leta dal roko, a ne in sem pripeljal noter denar, ki je v bistvu plačal čisto vse račune tudi za nazaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 708.123,
+        "end": 1080.098,
+        "text": "Ala lepa za vprašanje, ja, absolutno bom delal zapisarno, kje jo imam, za razliko od drugih vam lahko povem, da sem verjetno prvi in na to ponosen pa tuče nisem prvi, da se zaposlil same atlete in imam niti enega svojega človeka, kot rečejo, da bi gledal oportuno Al Krko, Marija Šestak je dobila službo v mojem mandatu in je seveda velika podpornica atletike in si želim, da bi ostala na zvezi tudi naprej.Imamo tukaj Nejca Jerašo, imamo Japla iz Kronosa, imam skratka imamo v vrhunsko ekipo v Petra Kasteljica in pa našega starosta zdravkota, zdaj pa da bovemo o ustaječih atletih, kjer se mi so do tega vprašanja vse ne bomo kar ga Klemen izpostavil. Poglejte, največji problem teh kandidatov, ki zdaj govorijo je to, da govoril o razdvojenostih karatej, jih pa predlagajo točno telo odje, ki sem jo sčutil v štirih letih, da so delal razd vojenost po upravnem odboru.Gospod Prezelj je petintrideset let notarji in je največji podpornik Klemena, ne?Je smiseln, če bi bil jesne njegovo mesto, bi sigurno dal možnost ženskam, mladim in bi se po času makno iz te atletike ne pomaga doma, ko imejo proso, da je rožlej prezel kandidat z Evropsko zvezo, so me svoda takoj bil za to in sem v to priložnostu zdavnil, pa ga niso zbral, zato kar pač ni bil priljubljen.To so ljudje, ki delijo hude podpira Nikolića, nadškodega jaz bom vedno podpiral tudi Velenje, tudi Celje in tako naprej Masme podpera, zdaj da vam pa povem obsoječi atleti, mene so sami klicali, to je Gregor Cankar, bi se raztukločil Marija Šestak, vodovnik Fridrik Boško, Uroš Vrhovnik, Vukmirović Rodič se pravi, saj je prej pisala Helena Javornik in tako naprej, zdaj bo zelo verjetno Matija Kranjc prevzel tudi tole organizacijo, da bojo zastopal zopet atlete enoter in to so vsi ljudje, ki z mano delajo najbolj sem poponosen, da mene najbolje podpere obstoječi atleti, a veste, to je ključno, obstojiči akleti so danes zadovoljni in to je zelo zelo pomembno Luka Janežić Maruša Mišmaš, Mihalinec in tako naprej.To so ljudje, ki nimajo pripomb in vedno podpisujemo pogodbe z nasmehom. To vedo vsi novinarji in vedo tudi vsi atleti in se sreda zato nato ponosen lahko, samo še to povem, da bom jaz vključil noter, tudi seveda bo zelo močno trenersko organizacijo, izminsen dej center naše atletike, poleg atletov so trenerji. Tako je, z Vladimirjem Kevom je bil ključen človek, da smo zadevo uredili v in umirili v tem obdobju, ki je prišelzbom, strokovni svet razširu tudi na človeka poleg vlademira Kevo še z nikom, ki bo pomagal pri reprezentanci in imam za parimi ljudmi kot vodja reprezenstanci in bodo sodelovali sicer pa jez stroko napolno podpiram, ker smo noter vključeni oziroma sovklju češni vsi naši vrhunski atleti in atletinje in seveda si ne želim nekega kreganja, ker zadedo je okrog hodil zdaj za pač zaproti kandidati, jaz vse štiri oziroma tri spoštujev res, kar jih poznam in vem njihove kvalitete, tu teh kandidatov in sem vesel, da se zato funkcijo potegujejo, ker je samo dokaz, da sem dobro uredil zvezo in da bo v naslednjo mandatu, so le da bomo šli na gor, na primer s Petro Kukovico je okrog hodil Mikuš, stari direktor, no, jes njega ne bi nazaj pripelju, ker mislim, da pa Peter pa se z njem to pogovarja, ker zelo veliko negativnih, bomo rekel energij, je pa okrog tegaena, je prav, da tu to pove, ne se pravi skombi delov in skomb ne. Hvala lepa, čisto na kratko, tudi jaz mislim, da bo upravni odbor nov, si želi mladih kandidatov tudi, nekaj bo pa tudi stari, ki jih seveda zelo spoštujem in je pravo samo za Primoža, je se pa tle s Klemenom samo toliko strinjam in sicer Primoz, ko smo si popolnoma iste besede uporabljali z mano in je človek, ki je res pozitiven in vse in sem mu zato tudi jo sosebno pomagal in atletska zveza Slovenije imel, ima pogodbo, imel je oziroma dela za razvoj kadrov v športu, sem tudi v olimpijskem komiteju in seveda Primož Kozmus mora seveda pri sebi tudi razčistiti, a ne kje bi najraje delo, ker Primo se je že velikokrat premislu, ampak jaz ga zelo spoštujem, nobenih zamer on tudi je mene poklical in je rekel Romadobnikar absolutno nobeni zamer vse v redu, samo on enostavno pač tak je in v življenju se že večkrat prvih svet smo to ne zameril.Jez, absolutno ga bomo ključal tudi na prej primo š le najboljši atlet, hvala lepa. Ja, hva la lepa, pozdravljeni tudi gospod Završnik, res je, tukaj pa se prv z vsemi strinjam ni takega kreganja kot zgleda, jaz imam samo več informacij, seveda in s temi istimi ljudmi bodo pač vpršli v stik tudi ostali, jasem lah na vesem zelo, da bi bilo, da so se odlo Kranju so ostali mali klubi, ki dela vrhunsko atletsko drobno kataljik sinutroško atletiko v Ljubljani.Ni, to je neko normalno rivalstvo med klubji, kjer se pravzaprav enkrat na leto borijo, kdo se bo vpisal v klub, ampak delamo pa skupno politiko in sploh ni poglejte, večina ljudi se šola v Ljubljani in vedo ljudje, da pridejo pravzaprav atleti iz periferije na mestu.In zato kot predsednik sem vedno podpiral tudi male klube, zato da jim zagotovimo vse, da imajo tudi pri otroški mladinski atletiki dovolj sredstev, da preživijo tudi poleg tega, da reživajo veliki klubi.Tako da z moji strani odprta vrata za vse če me kaj odlikuje, me odlikujem prostoprav ta mirnost in pa povezovalnost pro vseh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1080.925,
+        "end": 1313.142,
+        "text": "Ja, jezum pa tukaj kar konkreten, je pa absolutno bom povabil vse zato, ker vse tri zelo dobro poznam in jih cenim. Stojan že danes vrhunski menedžer in pomaga mrsij kateremu športu Klemena Boštjančiča, vsem sem poslov vabila tudi za sponzorstva in pa Petra.Petru sem celo ponudil, da v primeru, da je zmagan, ker mislim, da imam res veseljem tako kot sem jaz za razliko občutek.Je pa prav zaprav teken didati, ki danes je bil vse nabijal, da bi se povedalo, da so našli odločili, da je bil pri vseh dneo pristal.In jaz ne bom izključval in bom zelo vesel, če bojo te trije kolegi z mano in bomo potegnil atletiko naprej, ker ima res velik potencial in sem prepričan, da bomo z neko veliko kolajno prišli v naslednjo mandatu in pa z bistveno večjimi sponzorci. Kvala lepa! Jaja, vse v redu, se pravi, je sem bil šestindvajset let od samega začetka na vrhunskih pozicijah v Petrolu, od direktorja malo prodaje veleprodaje član uprave in pravzaprav resna na to pozicijah direktorsk ladiščenja v dobil sem ponudbo s strani skupine Gen, oziroma Gen Nija, ki jo niso mogel zavrnjati in zdaj delam seveda na tem področju in sem se odločil tudi za to lahko povem, da, ker mnogi so me vprašali, kako je Petrolni sponzor, Petrol seveda imamo dženteljnei griment in nismo sponzoriral tisti, ki je bil predsednik, ne?Atletske zveze Slovenije, zdaj pa imam dogovor in ga lahko tudi razkrijem, da v naslednjem mandatu, če dobim, bo seveda tudi Petrolzelo zadovoljen, sem pa človek, ki izlo ne rad menja in seveda bom rekel me, je strmin k neki stalnosti, zato sem povedal, da bi bilo še našli, da so pričajni,udi v katletski zvezi. Ne, gospod Šemrovo Uroš, sploh ne, sam ta trend nadaljujejo, jaz pravza prav sem dobil skoraj, ne bom rekel zvezo, ki je bila zelo, zelo slabo deluje oča in to vejo vsi, tako da začeti z nič pa smo prišli do sam če nadaljujem s tem trendom in absolutno bom, imam kar nekaj dogovorov konkretne, sem lahko tudi konkreten z seveda sponzorstvi, zakaj sem tako zelo pozitiven uroš za to, ker vem, da so večina ljudi, ki poslovnih, ki z njimi sodelujem, so opazili, kako zelo smo uredil atletsko zvezo Slovenije. To je osnova, da sva lahko pridobila sponzorska sredstva in tudi rezultati prihajajo, ne? Ker dela smo na mladi generaciji, ki danes pa vzuprav Kristjan Čehi in tako naprej prihaja in bomo tudi z novimi projekti in pa z novim uspehi tudi lažje pridobila sredstva, tako da jaz veselim tega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1313.834,
+        "end": 1428.483,
+        "text": "Ja, hvala lepa. Absolutno imam izjemno števil od kogot je rekel Stojan Številk v čez smo parafiriziramo, ne, Jurija, v mojem telefonskem imeniku, iz, pravzaprav sem besel, da v tem športu kljub sem oni tako levo desno gordol, ampak gre za dobre in nedobre stvari in jaz to počnem z vso mojo odgovornostjo in imam res kontaktu, je sem bil iz izjemno velik nadzornih svetih v zelo veliko funkcijah delam na lokalni ravni, bil sem od, da ne bom naštelovno od SDH do kapitalske družbe do soda do gen energije in tako naprej po, kot ko da imam, imam z vseh pravzaprav področij, zelo veliko prijateljev, ampak bolj kot to je pomembno, da seveda vidijo, da delamo dobro in mene so prav zaprav potprli in me podpirajo za to, ker stvari stabiliziram, ker jih umirjam, ker atletiko peljemo lepo naprej in se nam kažejo izjemni rezultati tudi športni.In v naslednjem mandatu pravzaprav sem jo sprepričan, da bo nov predsednika imel tudi bom rekel še, še lahko zapokazat zelo velik tudi športnih rezultatov, ki pa zopet seveda pomenijo novo priložnost za sponzorstva jaz, pomagam tudi regijsko, ker pomeni klubom, ki ne gredo direktno čez atletsko zvezo in sem seveda zelo ponosen odhodkov, da jaz sem pozitiven in imam, moj prijatelj je nenazadnje zelo dober tudi Aleksandr Čeferin in pa seveda se tukaj v omreku tudi podpiramo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1429.445,
+        "end": 1522.156,
+        "text": "Ja, hvala lepa. Moje mnenje je, da bodo klubi zbrali zelo modro, zelo si pravzaprav želim, da postanemo pozitivni in da ni kakšne kregarije, ker mislim, da jo res atlet se ne tako tudi odločijo, jaz imam prav za vse odprta vrata in bom pomagal čisto vsem klubom in prav nobenih zamer, ne? Zdaj kar se tiče, mislim, da ju Rošu vprašal za politično stranko, to je sicer popolnoma nepomembno, jezdanostni sem član obenestranke, sem pa ponosen, ker sem se kot mladi mož v komendi lotil izgradnje oziroma pomoči izgradne nekaj infrastrukture za naše otroke in tako naprej in takrat sem bil kot občinski svetnik, član socialnih demokratov in sem nato tudi ponosen, ker smo zelo velik naredili, ampak samo v tistem obdobju takrat, ne?Sicer pa ne uporabljam nobenih teh stvari, ker v poslovnem svetu delam popolnoma neodvisno, na lokalnem nivoju pa ja in sem zelo vesel, da pravzaprav sem pomagal tudi družbeno, mi se pa to v tem pomenu niti ni tako pomembno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1523.472,
+        "end": 1561.34,
+        "text": "Jaz mislim, da jo lahko realno pričakujem tudi v prvem, ampak res ne želim prejudicirati, bom zelo vesel podpore katerega kolj kandidata v drugem komu v primeru, da se zgodi, ne? Mislim pa, da si ljudje ne želijo, da ji želajo tega konec, da bomo dela predvsem klubska javnost, ne klubsa javnost, je zelo pravzaprav modra, ve, kdo je kaj na redu in kakšni so časi danes, je s to stabilnost ponujam v prav zaprav zelo negotovih časih, ne? Jaz vem, da bo mstvar peljal varno, naprej z lepo rastjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1562.707,
+        "end": 1614.175,
+        "text": "Ja, moje stališče in pa tudi v to smer delam je, da mi bo rastemo z rastjo, mislim, da bomo prišli z nacionalnimi sredstvi, se prav tako z sredsti države olimpijskega komiteja iz tujine in pa z našimi sponzorskimi sredstvi v štirih letih, se pravi v naslednjem mandatu Tjado milijona osemsto, to je tudi moj cilj in mislim, da je to kar lepa rast, sepravi tako bovečanje sponzorskih sredstev kot povešanje sredstva v strani države, ki pa se seveda zgodi hkrati z boljšimi rezultati naših atletov, ki se pa dogajajo, ne?In to je taka zelo ambiciozna ocena realna in njasom jo seveda pripravljen podpisat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1615.458,
+        "end": 1723.39,
+        "text": "Pa le pa absolutno pritrjujejo Boštjanu, delamo točno to, če vam nam sam en primer, zakaj smo vrnili atletsko ligo, ki je mednarodna slovenska atletska liga Telekom Slovenije, zdokler so se dokler ni bilo korona krize, prijavljajo t naši zunanji, torej tujci nato in so tekmovalo vsi naših atletij v času najhujši križe in vsi medijinem pravzaprav čestitajo, da smo naredili tako vrhunsko ligo, tako da mi verjemite, da sem zelo ponosen, da sva to naredil na šestih krajih po Sloveniji.A absolutno bom naredil vse, da bo velenjski miti kalpa dogovorom tudi z Zakladivarjem v Celju, da bodo nek permit miting prišel nazaj v Slovenijo, ta denar se že pripravlja in absolutno mislim, da to moramo narediti, je z visam muboče stojan vse morda neveno, ampak ljubljanski maraton svoda ni privatni dobodek, ampaks slovenska atletika mu je dala možnost in pa se prav IAF, svetovna atletica tudi zna, da bi še vločilo, da so vloževali, da se mu je odvz oziroma za Balkanom, je to naš teritorij, kjer poslovno lahko velik naredimo tudi sponzorsko, kot ko da z županom Ljubljane imamo dogovor v primeru, da se takoj, ko se odpre tudi atletska dvorana, da naredimo eno veliko tekmovanje v Ljubljeni seveda evropskega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1724.234,
+        "end": 1726.411,
+        "text": "Evropskega tipa."
+      }
+    ],
+    "runtime_sec": 480.83190631866455
+  }
+}

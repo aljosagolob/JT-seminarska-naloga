@@ -1,0 +1,586 @@
+{
+  "file_id": "Artur-J-Gvecg-P500034-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500034-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.12898714431714228,
+      "miss": 0.06253632958021584,
+      "fa": 0.06645081473692645,
+      "confusion": 0.0,
+      "total_duration": 576.3209999999975
+    },
+    "der_collar0.25": {
+      "der": 0.12567750357970847,
+      "miss": 0.053817318812007194,
+      "fa": 0.07186018476770129,
+      "confusion": 0.0,
+      "total_duration": 530.0709999999975
+    },
+    "wer": {
+      "wer": 0.3300229182582124,
+      "ref_words": 1309,
+      "hyp_words": 1156
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_02",
+        "start": 0.031,
+        "end": 3.932,
+        "text": "Hvala lepa in lep pozdrav tudi z moje strani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 4.753,
+        "end": 18.018,
+        "text": "Tako kot je že gospod Kacin povedal, smo mi najmanjša bolnišnica med splošnimi bolnišnicami v Sloveniji in sicer tako po številu zaposlenih, kot verjetno tudi po obsegu dejavnosti, ki jih izvajamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 18.438,
+        "end": 23.8,
+        "text": "Imamo cirka 350 zaposlenih ljudi,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 24.28,
+        "end": 38.525,
+        "text": "Smo pa seveda v tem drugem valu postali Covid bolnišnica in sicer smo se organizirali tako, da smo postavili dva Covid oddelka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 38.865,
+        "end": 47.308,
+        "text": "Kot smo slišali, se tudi v našem okolju okužba širi, ne moremo si zatiskati oči pred tem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 47.72,
+        "end": 56.046,
+        "text": "No, pa nekako osvetlim se eno, kaj to pomeni za nas, za naše postelje, se pravi za funkcioniranje celotne bolnišnice."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 56.366,
+        "end": 58.808,
+        "text": "Naša bolnišnica ima vseh postelj 130."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 58.888,
+        "end": 68.855,
+        "text": "To pomeni tudi tiste pediatrične, pa na negovalnem modelku, pa kirurške in ginekološko-porodne postelje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 69.295,
+        "end": 74.699,
+        "text": "No, in od teh 130 postelj smo namenili 34 postelj zdravljanju"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 77.268,
+        "end": 82.869,
+        "text": "COVID bolnikov, kar pomeni za nas 26% vseh postelj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 83.309,
+        "end": 91.311,
+        "text": "To, če za primerjavo tako proporcionalno pogledamo, pomeni, kot da bi imel klinični centr v Ljubljani 570 postelj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 91.451,
+        "end": 105.734,
+        "text": "Seveda so to za nas hude obremenitve, tako da vsa ta porast okušb nam ne predstavlja nekega res zadovoljstva, ampak gledajte, trudimo se po svojih najboljših močeh in"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 106.175,
+        "end": 121.052,
+        "text": "Naj povem to, da na teh 34 covidnih postelj znotraj dveh oddelkov, spostavljenih dveh oddelkov, postelje so praktično kar med 30 in 40 so več čez polne, vsaj v zadnjem obdobju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 121.43,
+        "end": 132.793,
+        "text": "Ja, tudi intenzivne postelje, kajti na COVID-1, na prvem COVID-odelku imamo osem intenzivnih postelj, tudi te so pravilo makar polne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 133.313,
+        "end": 140.195,
+        "text": "Danes je sedem intenzivnih postelj zasedenih, vseh zasedenih postelj pa je 32 postelj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 142.405,
+        "end": 151.85,
+        "text": "No, pacijenti so, tako kot je bilo že povedano, k nam prihaja od Litije pa vse te do Zidanega mosta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 151.97,
+        "end": 164.057,
+        "text": "Imamo približno 80%, bom rekla, domačih, domačih, no, se pravi, bolnikov iz našega okolja, 20% pa jih beležimo tudi od drugot."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 164.718,
+        "end": 170.281,
+        "text": "V zadnjem času predvsem z Maribor, Aptuja, tukaj največ."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 170.688,
+        "end": 187.159,
+        "text": "No, pa bi mogoče glede na situacijo, kaj se je dogajalo pri nas v zadnjem mesecu, pa pol se pravi, od razglasitve epidemije, nekako smo zdravili v naši bolnišnici 115 bolnikov, COVID-bolnikov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 187.72,
+        "end": 194.284,
+        "text": "Odpustili smo jih v tem času že 65, žal jih je tudi 28 umrlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 194.925,
+        "end": 196.946,
+        "text": "Poprečna starost tukaj je 80,3 leta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 198.532,
+        "end": 206.897,
+        "text": "Seveda so to bolniki z hujšimi pridruženimi boleznimi in slabšim bolezenskim stanjem tudi sicer."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 207.278,
+        "end": 217.805,
+        "text": "Na COVID-intenzivi pa smo zdravili 36 bolnikov, intenzivnih bolnikov, tudi tukaj, tu jih je umrlo deset."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 218.585,
+        "end": 226.03,
+        "text": "Ja, kot sem že rekla, kadrovsko že zadevo zelo težko obvladujemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 226.662,
+        "end": 233.445,
+        "text": "Kajti, zgodil se nam je tudi udor v Belocono, tako kot tudi po drugih bolnišnicah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 233.505,
+        "end": 241.79,
+        "text": "Res imamo trenutno še vedno 32 aktivno okuženih zaposlenih, to pomeni cirka 9%."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 243.31,
+        "end": 252.235,
+        "text": "Na pomoč nam prihajajo še vedno prostovoljci, tako prostovoljci Rdečega križa, kot seveda tudi ostali, kar 12 takšnih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 252.852,
+        "end": 257.094,
+        "text": "ki delajo potem na različnih področjih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 257.274,
+        "end": 259.335,
+        "text": "Na COVID-u dela samo eden."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 259.836,
+        "end": 267.419,
+        "text": "Na pomoč so nam prišli iz zdravstvenega doma Zagorje tudi dve medicinski sestri, ena diplomirana, ena sredna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 267.82,
+        "end": 271.922,
+        "text": "Tako da se trudimo, da to situacijo obvladojemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 272.802,
+        "end": 282.587,
+        "text": "Smo jo obladovali in upamo, da se nekje tudi že svetlika lučka na koncu tunela, da bo ta pritisk na bolnišnice"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 282.873,
+        "end": 287.574,
+        "text": "se zmanjšal in da bomo to zdržali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 289.775,
+        "end": 307.3,
+        "text": "Preden bi zaključila, pa mogoče bi se želela res še iskreno zahvaliti vsem našim zaposlenim, vsem zaposlenim po bolnišnicah, ki se trudijo, vsem tistim na COVID-19 oddelkih, kajti to delo ni primerljivo z običajnim delom"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 307.662,
+        "end": 323.833,
+        "text": "Tukaj se rabi dvakrat, tudi do trikrat več kadra, sploh intenzivne postelje so tiste, ki potrebujo ogromno kadra in ti zaposleni nosijo največje breme trenutne zdravstvene krize."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 324.253,
+        "end": 327.556,
+        "text": "Seveda pa največja zahvala gre še prostovoljcem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 327.676,
+        "end": 332.399,
+        "text": "To pa so srčni ljudje, ljudje s srcem, brez katerih pa mislim, da tudi"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 332.89,
+        "end": 340.196,
+        "text": "naša dva COVID-19 oddelka ne bi zmogla tega, kar trenutno zmoreta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 340.216,
+        "end": 344.52,
+        "text": "Hvala lepa naši gosti, direktorici in doktorici Romani Martinčič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 345.02,
+        "end": 347.622,
+        "text": "Zdaj so na vrsti novinarke z vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 347.782,
+        "end": 349.484,
+        "text": "Pet hiš imamo prijavljenih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 350.004,
+        "end": 354.448,
+        "text": "Prvo vprašanje bo zastavila gospa Vanja Kovač v imenu TV Slovenija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 355.553,
+        "end": 372.564,
+        "text": "Zdravljeni, jaz bi vas vprašala, če morda veste oziroma čemu vi pripisujete ver okužb, ko prihajajo k vam okuženi bolniki v bolnišnico, glede na to, da je njez kot glavni ver prepoznal delovne organizacije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 372.664,
+        "end": 374.005,
+        "text": "Kaj vi pravite?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 374.045,
+        "end": 379.109,
+        "text": "Ker zadnjič je nek zdravnik, mislim, da je bil, je povezal to z martinovanjem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 379.549,
+        "end": 381.05,
+        "text": "Kakšna so vaša opažanja?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 382.25,
+        "end": 397.938,
+        "text": "Ja, gledajte, mi vidimo, da prav ta pravega vera, težko rečemo, pokažemo nam, kje je tisti glavni, ali je to službeno okolje, ali so to doma zabave, privatne ali kakorkoli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 397.998,
+        "end": 402.66,
+        "text": "Mi ugotavljamo, da prihaja do kušb na vseh področjih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 403.201,
+        "end": 410.925,
+        "text": "Tako zaposleni prinese od doma, zdopusta se nam je zgodil, da je zaposleni prišel v službo in nekaj dneh pač"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 411.882,
+        "end": 414.903,
+        "text": "izkazal simptome bolezni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 414.943,
+        "end": 422.124,
+        "text": "Dogaja se nam v bolnišnici tudi, da kadr zboleva zato, ker imamo obolele pacijente."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 422.404,
+        "end": 435.427,
+        "text": "Čeprav na vse pacijente, ki jih hospitaliziramo, testiramo in so vsi negativni, ko jih sprejmemo, pa potem v nekaj dnevih se ti simptomi pokažejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 435.747,
+        "end": 440.568,
+        "text": "Takrat je lahko mogoče že prepozno, tudi kateri"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 440.924,
+        "end": 443.685,
+        "text": "ta prenos se že izvrši."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 443.946,
+        "end": 456.872,
+        "text": "Ja, težko, jaz mislim, da je tale epidemija in virus se tako reširil med nami, da zdaj pokazati, tukaj je to, tukaj je tam, ja, verjetno so zabave."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 456.892,
+        "end": 463.775,
+        "text": "Verjetno so tudi zabave tiste, ki prinesejo več okužbam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 464.116,
+        "end": 470.539,
+        "text": "Če samo pogledam tam, kjer pač sem jaz doma, ko vidiš, da so v spomladanskem delu pa le"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 471.215,
+        "end": 476.083,
+        "text": "so nekateri v bližnji okolici se zabavali, kot da virusa ni, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 476.383,
+        "end": 483.134,
+        "text": "Zdaj se to ne dogaja, ne vem, je to razlog pač temperature ali karkoli ali pa že ta"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 483.517,
+        "end": 486.16,
+        "text": "večja ozaveščenost, najbrž tudi to."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 486.56,
+        "end": 507.38,
+        "text": "Skratka, lejte, virus je med nami in tudi v obzadnem udoru v našo belo cono internega oddelka se s tem ukvarjamo z analizo že približno deset dni, pa ni težko rečemo, kaj je pa tisti glavni razlog, da se nam je to zgodilo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 507.42,
+        "end": 508.261,
+        "text": "Se je govorila"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 509.065,
+        "end": 535.364,
+        "text": "Govorila sem o tem, da nismo mi s hitrimi testi testirali pacijentov, mi jih testiramo z PCR testi, tako da vemo, da zdaj so hospitalizacije manjše, v manjšem obsegu jih izvajamo, ne tako kot v času, ko ni epidemije in zato smo tudi vse pacijente, ki jih sprejmemo, tudi z testiramo, tako da na PCR testi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 537.803,
+        "end": 551.113,
+        "text": "Mi posebej, da bi se vključevali v to, ne, če so pa pacijente vozili verjetno tudi k nam, mislim, kolikor mi je pa znano, so pa večino vozili v celje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 551.773,
+        "end": 556.757,
+        "text": "Čeprav je to območje, ki gravitira tudi na našo bolnišnico."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 558.318,
+        "end": 567.245,
+        "text": "Ja, testiramo zdaj tudi s hitrimi, ampak glede na situacijo, ki še vedno jo obravnavamo kot kritično,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 567.706,
+        "end": 575.228,
+        "text": "testiramo še poleg hitrih, z hitrimi antigenskimi testi, še z PCR testi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 576.348,
+        "end": 588.871,
+        "text": "Zgodilo se nam, da če imamo primer, ko je bil negativen, bom rekla, hitri test pokazal negativen rezultat, med tem, ko je PCR test pokazal pozitiven rezultat."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 589.291,
+        "end": 590.711,
+        "text": "Seveda, kaj to pomeni?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 591.031,
+        "end": 594.672,
+        "text": "Lahko pomeni to, da pač takrat, ko je bil hitri test obzet,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 595.128,
+        "end": 613.603,
+        "text": "takrat ta ne zazna še, ni tako občutljiv in ne zazna in če to danes vzeti, šele jutri pa se pokažejo, bom rekla, hujši simptomi ali pojutrišnjem, ne vem, pač v roku parih dni, seveda ni to najbolj zanesljivo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 613.683,
+        "end": 618.987,
+        "text": "Imeli smo primer zaposlenega, kjer se je zgodilo ravno to."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 619.047,
+        "end": 619.868,
+        "text": "Hvala tudi vam."
+      }
+    ],
+    "runtime_sec": 98.29126715660095
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.08463512521667652,
+      "miss": 0.014885801489100714,
+      "fa": 0.06974932372757581,
+      "confusion": 0.0,
+      "total_duration": 576.3209999999974
+    },
+    "der_collar0.25": {
+      "der": 0.08888809234989309,
+      "miss": 0.01343782248038464,
+      "fa": 0.07545026986950845,
+      "confusion": 0.0,
+      "total_duration": 530.0709999999975
+    },
+    "wer": {
+      "wer": 0.3537051184110008,
+      "ref_words": 1309,
+      "hyp_words": 1165
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_02",
+        "start": 0.031,
+        "end": 168.443,
+        "text": "Ja, hvala lepa in lep pozdrav tudi z moje strani, tako kot je že gospod Kacin povedal, smo mi najmanjša bolnišnica med splošnimi bolničnicami v Sloveniji, in sicer tako po številu zaposlenih kot verjetno tudi po obsegu dejavnosti, ki jih izvajamo.Imamo cirka tristo petdeset zaposlenih ljudi, smo pa seveda v tem drugem valu postali tudi v drugem valu postali kovit bolnišnica in sicer smo se organizirali tako, da smo postavili dva kovit oddelka.Kot smo slišali, se tudi v našem okolju okužba širi ne moremo si zatiskati oči pred tem, no pa ne nekako osvetlim, saj enok, to pomeni za nas, sta naše postelje, se pravi za funkcionirane celotne bolnišnice.Naše bolničnico ima vseh postelj sto trideset, to opomeni tudi tiste pediatrične pa na njegovalnem oddelku pa kirurške in in ginekološko porodne postelje, no in od teh sto tridesetih postelj smo namenili štiriintrideset posteljs zdravljenju kovit bolnikov, kar pomeni za nas šestindvajset procentov vseh postelj, to če za primerjavo, tako proporcionalno pogledamo, pomeni kot da bi imel klinčni center v Ljubljani petsto sedemdeset postel.Seveda so to za nas hude obremenitve, kot da vsa te ta porast okužb ne predstavlja nekega reza dovoljstva, ampak glede trudimo se po svojih najboljših močeh in naj povem to, da na teh štiriintridesetih kovidnih postelj znotraj dveh oddelkov, vzpostavljeni dvek oddelkov sem, da to postelje so praktično kar med trideset in štirideset so ves čez polne, vsaj v zadnjem obdobju.Tudi intenzivne postelja kajti na covid ena, na prvem covid oddelku imamo osem intenzivernih postelj, tudi te so praviloma kar polne.Danes je sedem intenzovnih postalj zasedenih vseh posteh, vsezasedenjih postev pa je dvaintrideset. No, pacienti so tako kot je bilo že povedano, k nam prihaja od letije pa vsatja dozidanega mosta, imamo približno osemdeset procentov domačih nosepravi bolnikov iz našega okolja, dvajset procentov pa jih beležimo tudi od drugod, v zadnjem času predvsem z Maribora Ptujan."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 168.983,
+        "end": 216.993,
+        "text": "Tukaj največ, pa bi mogoče glede na situacijo nekaj se je dogajalo pri nas od v zadnjem mesecu pa povse pravi od razglasitve epidemije, nekako smo zdravili v naši bolnišnici sto petnajst bolnikov, kovid bolnikove odpustili smo jih v tem času že petinšestdeset, žal jih je tudi osemindvajset umrlo, povprečna starost tukaj je osemdeset cela tri leta, seveda so to bolniki z hujšimi pridruženimi boleznimi in slabšim bolezenskim stanjem tudi sicer na kovit intenzivi pa smo zdravili šestintrideset bolnikov, intenzivnih bolnikom, tudi tukaj, tu jih je umrlo deset."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 217.516,
+        "end": 239.639,
+        "text": "Kadrovsko že zadevo zelo težko obvrdujemo, kajti zgodil se nam je tudi udor v Belo cono tako kot tudi po drugih bolnišnicah, res imamo trenutno še vedno dvaintrideset aktivno okuženih zaposlenih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 240.23,
+        "end": 287.665,
+        "text": "To pomeni cirka devet procentov, na pomoč nam prihaja še vedno prostovoljci, tako prostovolični rdečega križa, kot seveda tudi ostali kar dvanajsti takšnih, ki delajo potem na različnih področjih, na kovito delku dela samo eden, na pomoč so nam prišli iz zdravstvenega doma za gorje tudi dve medicinski sestri, ena diplomirana ena srednja, tako da se trudimo, da to situacijo obvladujemo, smo jo obvladovali in upamo, da bo, da se nekje tudi že svetlika lučka na koncu tonela, da bota pritisk na bolnišnice vse zmanjšal in da bomo to zdržali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 288.323,
+        "end": 338.881,
+        "text": "No, preden bi zaključila, pa mogoče bi se želela res še iskreno zahvalit vsem našim zaposlenim, sem zaposledin po bolnišnicah, ki se trudijo, privsem tistim na kovid oddelkih, kajti to delo ni primerljivo z običajnim delom, tukaj se rabi dvakrat, tudi do trikrat več kadra sploh intenzivne postelje so tiste, ki potrebujejo ogromno kadra in ti zaposleni nosijo breme, največje breme trenutne zdravstvene krize, seveda pa najvešja zahvala pa gre še prostovoljcem, to pa so srčni ljudje, ljudi s srcem, brez katerih pa mislim, da tudi naša dvakovid oddelka ne bi zmogla tega, kar trenutno zmoreta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 340.214,
+        "end": 354.558,
+        "text": "Koala lepa, naši gosti, direktorici, doktorici Romani Martinčič, zdaj so na vrsti novinarkejev z vprašanji, pet hiš imamo prijavljenih, prvo vpraševanje bo zastavila gospavanja Kovač v imenu Teve Slovenija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 355.52,
+        "end": 381.17,
+        "text": "Zdravljeni, jaz bi vas vprašala, če morda veste oziroma čemu vi pripisujete najver okužb, ko prihajajo k vam okuže nji bolniki v bolnišnico, glede na to, da je ni z kot glavni ver prepoznal delovne organizacije.Kaj vi pravite, ker zadnjič je nek zdravnik mislim, da je bil, je povezal to z martinovanjem?Kakšna so vaša opažanja?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 382.233,
+        "end": 437.33,
+        "text": "Ja, glede mi, vidimo, da prv ta pravega vira težko rečemo, pokažemo nanj, kje je tisti glavni ali je to službeno okolje, al so to lahko doma zabave, privatne, kakor koli. Mi ugotavljamo, da prihaja do okužb na vseh področjih. Lahko tako zaposleni prinese od doma, stopusta se nam je zbudil, da je zaposljeni prišel službo in nekaj dneh pač izkazal simptome bolezni, dogaja se nam obolnišnici, da kadrc boleva zato, ker imamo obolele paciente, čeprav na vse pacientekih hospitaliziramo testiramo in so vsi negativni, ko jih sprejmemo, pa potem v nekaj dnevih se ti simptomi pokažejo, skratka in..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 437.887,
+        "end": 465.106,
+        "text": "Takrat je lahko mogoče že prepozno, tudi kateri ta prenos se že izvrši. Ja, težko, je smiseln, da je tale epidemija in virus tako reširil med nami, da zdaj pokazat, tukaj je to, tuka je tam, ja verjetno so zabave, jaz če se samo pogleda, verjetnost od izabave tiste, ki prinesejo k več okužbam, če samo pogredam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 465.612,
+        "end": 505.808,
+        "text": "Tam, kjer pač se mi z doma ne, ko vidiš, da so v spomladanskem delu, pa le so se nekateri v bližnji okolici se zabavali kot da virusa ni ne, zdaj se to tega, to ne dogaja, ne vem me to razlog, pač temperature, alkarkoli ali pa že ta večja ozaveščenost, najbrž tudi to, no, skratka le te virus je med nami in tudi ob zadnjem udoru našo belo cono internega oddelka s tem ukvarjamo z analizo že približno deset dni pa ni težko rečemo, kaj je pa tisti glavni razlog, da se nam je to zgodilo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 506.787,
+        "end": 508.441,
+        "text": "No, se govorila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 509.048,
+        "end": 526.362,
+        "text": "Govorila so mu, da nismo mi hitri s hitrimi testi testiral pacientov, mi jih testiramo s pisjar testi, tako da vemo, da zdaj se hospitalizacije manjše ne v manjšem obsegu izvajamo ne tako kot v času, ko ni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 526.97,
+        "end": 536.302,
+        "text": "Epidemije in zato smo tudi vse paciente, ki jih sprejmemo, tudi testiramo, kot da na spisi artisti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 537.82,
+        "end": 551.202,
+        "text": "Mi posebej, da bi se vključevali o to nečo, so pa paciente vozili verjetno tudi k nam, mislim pa, kolikor mi je poznano, so povečino vozili v Celje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 551.725,
+        "end": 617.808,
+        "text": "Čeprav je to območje, ki gravitira tudi na našo bolnišnico.Testeramo z tudi hitrimi, ampak glede na situacijo, ki še vedno jo obravnavamo kot kritično, testiramo še poleg hitrih, s hitrimi antigenskimi testi še s pisjar testi.Zgodilo se namreč, je mamo primer, ko je bil negativen, bom rekel, hitri test pokazal pač negativen rezultat, medtem ko je pisji artist pokazal pozitiven rezultaj. Seveda kaj to pomeni, to je lahko pomenil to, da pač takrat, ko je bil hitri test odvzet, takrat ta nezaznaša ni tako občutljivne in nezazing, če to danes oed, šele jutri pa se pokažejo, bom rekla hujši simptomi ali pojutrišnjem ne, ne vem pač v roku parih dni, seveda ni to najbolj zanesljivo. Mel smo primer zaposlenega, kjer se je zgodilo ravno to."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 618.82,
+        "end": 619.951,
+        "text": "Ah, vala tudi vam."
+      }
+    ],
+    "runtime_sec": 99.15750813484192
+  }
+}

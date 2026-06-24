@@ -36,6 +36,7 @@ diarization.txt
 # Data directories
 data/
 datasets/benchmark/VoxConverse/audio
+datasets/*
 
 # IDE
 .vscode/
