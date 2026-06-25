@@ -31,9 +31,9 @@ OPTIMIZE_DENOISE = True  # include denoise params in search space
 # Search space (min, max) 
 PARAM_RANGES = {
     # Acoustic preprocessing
-    "speed": (0.8, 1.2),
-    "highpass_cutoff": (0.0, 300.0),
-    "lowpass_cutoff": (4000.0, 8000.0),
+    "speed": (0.33, 3),
+    "highpass_cutoff": (0.0, 500.0),
+    "lowpass_cutoff": (2000.0, 12000.0),
     "target_lufs": (-32.0, -16.0),
     "eq_gain_db": (-6.0, 12.0),
     "comp_threshold_db": (-40.0, -10.0),

@@ -49,9 +49,10 @@ class DiarizationModel:
             f.write("\n".join(lines))
         print(f"Saved to {output_path}")
 
-    def diarize(self, audio_file: str):
+    def diarize(self, audio_file: str, preprocess: bool = True):
         waveform, sample_rate = load_audio(audio_file)
-        waveform, sample_rate = self.preprocessor.process(waveform, sample_rate)
+        if preprocess:
+            waveform, sample_rate = self.preprocessor.process(waveform, sample_rate)
         return self._diarization({"waveform": waveform, "sample_rate": sample_rate})
 
     def execPipeline(self, audio_file: str, output_path: str = "output/transcript.txt") -> list[str]:
