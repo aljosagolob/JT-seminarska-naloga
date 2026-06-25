@@ -4,7 +4,7 @@ import importlib
 import torch
 import numpy as np
 
-# Make project root importable (preprocess.py lives there)
+# Make project root importable (model.py lives there)
 _PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 if _PROJECT_ROOT not in sys.path:
     sys.path.insert(0, _PROJECT_ROOT)
@@ -55,38 +55,28 @@ if not hasattr(torchaudio, "info"):
         )
     torchaudio.info = _torchaudio_info
 
-_diarization_pipeline = None
-_whisper_model = None
+_model = None
+_whisper_pipeline = None
 
 
 def _load_models():
-    global _diarization_pipeline, _whisper_model
-    if _diarization_pipeline is not None:
+    global _model, _whisper_pipeline
+    if _model is not None:
         return
 
-    from dotenv import load_dotenv
-    from pyannote.audio import Pipeline
+    from model import DiarizationModel
     from transformers import pipeline as asr_pipeline
 
-    load_dotenv()
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    print(f"[OurPipeline] Loading diarization pipeline on {device}...")
-    hf_token = os.getenv("HF_TOKEN")
-    try:
-        _diarization_pipeline = Pipeline.from_pretrained(
-            "pyannote/speaker-diarization-3.1",
-            token=hf_token,
-        )
-    except TypeError:
-        _diarization_pipeline = Pipeline.from_pretrained(
-            "pyannote/speaker-diarization-3.1",
-            use_auth_token=hf_token,
-        )
-    _diarization_pipeline.to(device)
+    print(f"[OurPipeline] Loading DiarizationModel on {device}...")
+    _model = DiarizationModel(
+        asr=None,
+        pyannote_model="pyannote/speaker-diarization-3.1",
+    )
 
     print("[OurPipeline] Loading Slovenian Whisper model...")
-    _whisper_model = asr_pipeline(
+    _whisper_pipeline = asr_pipeline(
         "automatic-speech-recognition",
         model="shripadbhat/whisper-medium-sl",
         device=0 if device.type == "cuda" else -1,
@@ -119,29 +109,22 @@ def run_our_pipeline(audio_path: str) -> list:
     Returns: [{"speaker": str, "start": float, "end": float, "text": str}, ...]
     """
     import time
-    from preprocess import load_audio, preprocess, PARAMS
+    import soundfile as sf
 
     _load_models()
-
-    import soundfile as sf
 
     t0 = time.time()
     raw_audio, sr = sf.read(audio_path, dtype="float32")
     if raw_audio.ndim > 1:
         raw_audio = raw_audio.mean(axis=1)
-    waveform_tensor, sample_rate = load_audio(audio_path)
-    waveform_tensor, sample_rate = preprocess(waveform_tensor, sample_rate, PARAMS)
-    t_preprocess = time.time() - t0
+    diarization = _model.diarize(audio_path)
+    t_preprocess_diarize = time.time() - t0
 
-    t0 = time.time()
-    audio_input = {"waveform": waveform_tensor, "sample_rate": sample_rate}
-    diarization = _diarization_pipeline(audio_input)
     annotation = diarization.speaker_diarization if hasattr(diarization, "speaker_diarization") else diarization
     raw_segments = []
     for turn, _, speaker in annotation.itertracks(yield_label=True):
         raw_segments.append({"start": turn.start, "end": turn.end, "speaker": speaker})
     raw_segments = _merge_segments(raw_segments)
-    t_diarization = time.time() - t0
 
     t0 = time.time()
     output = []
@@ -154,7 +137,7 @@ def run_our_pipeline(audio_path: str) -> list:
         if duration < 0.5:
             text = ""
         else:
-            result = _whisper_model({"array": audio_chunk, "sampling_rate": sr})
+            result = _whisper_pipeline({"array": audio_chunk, "sampling_rate": sr})
             text = result["text"].strip()
 
         output.append({
@@ -166,8 +149,8 @@ def run_our_pipeline(audio_path: str) -> list:
     t_asr = time.time() - t0
 
     audio_duration = len(raw_audio) / sr
-    print(f"  [OurPipeline] preprocess={t_preprocess:.1f}s  diarization={t_diarization:.1f}s  "
-          f"asr={t_asr:.1f}s  total={t_preprocess+t_diarization+t_asr:.1f}s  "
-          f"(audio={audio_duration:.1f}s  RTF={( t_preprocess+t_diarization+t_asr)/audio_duration:.2f}x)")
+    total = t_preprocess_diarize + t_asr
+    print(f"  [OurPipeline] preprocess+diarization={t_preprocess_diarize:.1f}s  asr={t_asr:.1f}s  "
+          f"total={total:.1f}s  (audio={audio_duration:.1f}s  RTF={total/audio_duration:.2f}x)")
 
     return sorted(output, key=lambda x: x["start"])
