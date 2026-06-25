@@ -1,0 +1,3808 @@
+{
+  "file_id": "Artur-J-Gvecg-P500027-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500027-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.0673347215754479,
+      "miss": 0.06085801563383011,
+      "fa": 0.0021122367392126733,
+      "confusion": 0.004364469202405114,
+      "total_duration": 3414.3899999999458
+    },
+    "der_collar0.25": {
+      "der": 0.05701089221620131,
+      "miss": 0.05137754499026374,
+      "fa": 0.0019619674415424465,
+      "confusion": 0.003671379784395117,
+      "total_duration": 3215.1399999999458
+    },
+    "wer": {
+      "wer": 0.21492935810434977,
+      "ref_words": 8989,
+      "hyp_words": 8030
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2.123,
+        "end": 6.627,
+        "text": "Lep pozdrav na okrogli mizi v okviru portala SCA Znanost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 7.048,
+        "end": 11.552,
+        "text": "Zakaj bomo danes govorili o statističnih številkah v času epidemije COVID-a?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 12.272,
+        "end": 15.375,
+        "text": "Ker te praktično krojijo način našega življenja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 15.495,
+        "end": 28.187,
+        "text": "Da nimo na podlagi kriterijev, ki temeljijo na številu novo okuženih v deločenem časovnem obdobju ter številu hospitaliziranih v bolnišnicah, bodo tudi sproščali umetvene ukrepe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 29.427,
+        "end": 44.557,
+        "text": "Zaradi vsega tega je še kako pomembno, kako so ti podatki številke zbrani, kdo jih obdeluje, kdo morda tudi interpretira in kako se na podlagi teh podatkov delajo na povedi o poteku epidemije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 45.498,
+        "end": 56.645,
+        "text": "Za pojasnila in verjamem tudi tvorno debato so zato z nami danes vodje od Ceka za reaktorsko tehniko na institutu Jožef Stefan Leon Cizel,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 57.22,
+        "end": 70.768,
+        "text": "predstavnica sledilnika za COVID Zarja Muršič in predstojnik Centra za nalezive bolezni Nacionalnega inštituta za javno zdravje Mario Fafangel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 71.148,
+        "end": 77.392,
+        "text": "Lepo pozdravljeni tudi vi, ki nas spremljate v živo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 77.812,
+        "end": 79.313,
+        "text": "Najpa se še jaz predstavim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 79.413,
+        "end": 85.917,
+        "text": "Moje ime je Anja Gorenc in sem novinarka Slovenske tiskovne agencije in bom moderirala to razpravo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 86.532,
+        "end": 99.978,
+        "text": "Doktor Fafangal, če se ne motim, tako sledilnik kot tudi doktor Cizel je emljeta ključne statistične podatke od Nacionalnega inštituta za javno zdravje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 102.685,
+        "end": 116.201,
+        "text": "prišepnjeno mi je bilo, da v bistvu, ko ste vi prišli na NEZ, so se začeli nekak tektonski premiki na področju zbiranja podatkov, epidemioloških podatkov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 116.701,
+        "end": 118.884,
+        "text": "Am nam lahko poveste, kako je bilo recimo"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 119.827,
+        "end": 127.494,
+        "text": "takrat, ko ste prišli na institut in mogoče kako se izbirajo zdaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 127.915,
+        "end": 140.126,
+        "text": "Kako je ta razlika, pa kako bi recimo zdaj izgledalo v trenutnih epidemioloških podatkih, razmerah, kako bi izgledalo takšno izbiranje kot recimo marca."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 141.808,
+        "end": 144.43,
+        "text": "Po pozdravljeni, hvala lepa za vabilo in za priložnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 145.612,
+        "end": 160.321,
+        "text": "Ja, jaz bom kar začel z, še malo prej, preden sem jaz prišel, z leta 2017, je imela Slovenija VHO odita v sistemu spremljanja in odzivanja na takšne grožnje, kot je epidemija in pandemija nelezljive bolezni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 160.881,
+        "end": 170.527,
+        "text": "Najslabšo ceno je takrat Slovenija dobila dvojko, mogo bi biti cvek, je dobila dvojko, ravno na področju spremljanja in zaradi digitalizacije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 170.907,
+        "end": 172.167,
+        "text": "In to je to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 172.367,
+        "end": 181.389,
+        "text": "In zdaj, po vrstu let, nas ta zadeva še vedno grize odzadaj, ker zdaj plačujemo davek tega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 181.749,
+        "end": 183.97,
+        "text": "Sistem je bil papirnati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 184.81,
+        "end": 199.673,
+        "text": "Papirnati sistem, ki je super za zbrati in za obladovati en manjši izbruh, nikakor ne za voditi epidemijo, nikakor ne za imeti podatke v živo, kakor zdaj je potrebno, nikakor za imeti podatke, ker kaj govorimo o podatkih, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 199.713,
+        "end": 200.854,
+        "text": "Ampak zakaj nas zanima?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 201.154,
+        "end": 203.036,
+        "text": "Podatke so information for action."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 203.076,
+        "end": 204.037,
+        "text": "Mislim, to je pomembno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 204.337,
+        "end": 215.025,
+        "text": "Da s temi krojimo, ne samo da gledamo, kaj se nam bo zgodilo, ampak da jih interpretiramo in svetujemo pametno, kako iti po eni poti ali vbrati drugo, če vidimo, da ena pot ne deluje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 215.546,
+        "end": 219.089,
+        "text": "Papirna ta prijava nelezljive boleznikov je COVID-19."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 219.389,
+        "end": 232.475,
+        "text": "19, s trenutnimi številkami in razmahom epidemije, pomeni, da če bi ostali tam, kjer smo bili, trenutno ne sledilnik, ne inštitut Jožefa Štefana, ne naša javnost, bi imeli nula podatkov o COVID-u."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 232.935,
+        "end": 235.176,
+        "text": "Bi bili popolnoma slepi, ker ne bi vedeli, kje smo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 235.656,
+        "end": 239.018,
+        "text": "Ker v resnici inštitut še vedno, naš inštitut mi,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 239.673,
+        "end": 266.724,
+        "text": "generiramo pravzaprav te podatke, jih zbiramo, ne samo zbiramo, da nekdo bi si mislil, mogoče in to bom danes jaz izkoristil priložnost, da jaz mi lepo sedimo tukile, ko nam te digitalni podatki v strukturirano lepo letijo v bajto, ne, in zdaj epidemiologi tukile sedimo, če prispodoba iz gospodarja prstano, ko zmavkne na našem kupu denarja in podatkov in razmišljamo, če bomo klikli tipko send in to delili, ali bomo zadržali to za nas, ker ne bomo delili z nobenim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 267.024,
+        "end": 268.005,
+        "text": "Daleč od tega, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 268.225,
+        "end": 283.143,
+        "text": "Podatki so na prvi fazi rabili ogromno ročnega obdelovanja, koordinacije s terenom, da sploh pridejo v eno obliko, za katero mi, ker smo odgovorni za njih, lahko stojimo, da jih sploh potem obdelamo in damo v obdelavo drugim in interpretiramo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 283.423,
+        "end": 284.305,
+        "text": "In zdaj so tle razlike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 284.345,
+        "end": 287.528,
+        "text": "Smo šli pač iz papirnate oblike na..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 287.969,
+        "end": 306.373,
+        "text": "da je, mora reči, digitalno prijavo, ki v enem začetni fazi je bila skvazi digitalna, mora reči, podatek, ki je bil v resnici še vedno analogen zadaj in še vedno ročne obdelave, do razvoja aplikacij, iz katerega se prijave trenutno avtomatično zljivajo pozitivnih primirov iz laboratorijev, kar je bistveno"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 307.055,
+        "end": 311.241,
+        "text": "pospešilo in omogočilo sploh na takšen volumen delati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 311.562,
+        "end": 322.479,
+        "text": "V enem dnevnem trenutku so bili laboratoriji v tem sistemu obremenjeni ročno, ker so utipkavali pa na njihovi strani, kar spet ni bilo dobro, razvili rešitev, da naredimo to avtomatizirano iz njihovih sistemov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 322.799,
+        "end": 343.504,
+        "text": "In zdaj v naslednjem tednu z vsem tem tektonski premiki, ki nas še čakajo, hitri antigenski testi, uvedba leteh in ukrepanje leteh, pa se premikamo še na eno dodatno izboljšavo, ker jaz si želim, da bo tudi ena izboljšava za vse druge pandemije, ki nas čakamo, je pa črpanje iz podatkov iz centralnega registra prebivalstva na en nov sistem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 343.724,
+        "end": 347.669,
+        "text": "In to bojo spet dodatni premiki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 347.749,
+        "end": 363.307,
+        "text": "Torej, eno skupno stičišče, ker se bi ozljivali vsi podatki, pozitivni in negativni COVID-testiranja, hitri antigenski PCR-i in potem pač en sodoben data flow, ki pride do nas in mi potem ga lahko obdelamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 363.687,
+        "end": 365.427,
+        "text": "prikažemo, kar lahko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 365.908,
+        "end": 385.332,
+        "text": "Še enkrat smo čisto razvrclani na vseh področjih, od odziva do tracinga, do vsega, ampak enkrat, ko imamo to, pa potem podatke dali javnosti in interesiranim javnosti in takšnim sodelovcem in kolegom in strokovnjakom, kot kar inštitut Joževa Štefana Sledilnik in vsi ostali."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 385.372,
+        "end": 386.793,
+        "text": "Zdaj,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 388.274,
+        "end": 400.166,
+        "text": "Mi na vaši spletni strani najdemo določene podatke o epidemiji, naprimer nove vkljužene, smrti med zdravstvenimi delovcim, VDSO-jih in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 401.007,
+        "end": 405.452,
+        "text": "Kaj pa vse glede epidemija ne je za zbira?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 405.552,
+        "end": 409.516,
+        "text": "Katere podatke in katere objavite, katere pa morda tudi ne in zakaj?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 411.14,
+        "end": 413.763,
+        "text": "Večina podatkov zbiramo na jazaju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 413.883,
+        "end": 416.146,
+        "text": "Večina podatkov pride do nas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 416.166,
+        "end": 424.636,
+        "text": "Nekatere so ene paralelni sistemi poročanja, ki grejo mimo nas, ampak večina teh podatkov dejansko pride pri nas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 424.816,
+        "end": 426.839,
+        "text": "V odločenju, kaj ne objavljati,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 427.019,
+        "end": 433.044,
+        "text": "V resnici je vedno največja skrb zasebnost posameznika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 433.405,
+        "end": 443.714,
+        "text": "Zdaj, ta skrb ni tako relevantna, ne ob takšnih številkah, ampak se moramo zavedati, da ta anonimizacija in pseudononimizacija potem gre paditi, ko govorimo o majhnih številkah na dan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 444.255,
+        "end": 446.537,
+        "text": "To je tista moja prva skrb za to, kar rejte,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 446.797,
+        "end": 455.3,
+        "text": "stigma okolkovida obstaja in vsi tisti, ki so šli često, vejo, kako zgleda, vejo, kako zgleda v majhni vasi, vejo, kako zgleda tudi v velikem mestu in pri sosedji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 455.34,
+        "end": 470.024,
+        "text": "Tako da, mislim, tisto je ena prioriteta, ker vseeno zdravje državljano in njihova zasebnost, podatki so v resnici njihovi, njihovi, osebni, strogovarovani podatki, ki moramo mi skrbeti, da takšni pač ostanejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 470.084,
+        "end": 473.507,
+        "text": "In velika večina je skanalizirana preko nas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 474.208,
+        "end": 488.201,
+        "text": "O smrti tisti dnevni podatki grejo mimo nas, ampak tudi tukaj le, spoiler alert, pripravljamo upam naslednji teden en malček drugačen prikaz, ki bi spet prilagodili sistem tudi prikaza umrlih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 489.17,
+        "end": 498.873,
+        "text": "na način, da bi bili podatki čim bolj kvalitetni in čim bolj popolni in čim manj odvisni od človekove napake pri izbiranju in poročanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 499.473,
+        "end": 505.535,
+        "text": "In to je tudi ta en sistem, ki bo pomagal pri transparentnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 505.835,
+        "end": 508.136,
+        "text": "To je tisto, ki je najbolj pomembno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 508.456,
+        "end": 510.777,
+        "text": "Jaz tukaj našo vlogo trenutno vidim tako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 511.057,
+        "end": 518.602,
+        "text": "inštitut, centar za nalezljive bolezni z omejenimi kapacitetami, ki je vpleten v celoten COVID odziv."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 518.702,
+        "end": 520.824,
+        "text": "Podatki in zagotavljene podatke so eno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 521.084,
+        "end": 539.477,
+        "text": "Seveda bi si želel imeti ekipo za modeliranje že narejeno znotraj hiše, pa imeti top strokovnjake, ki so bistveno više, moram priznati, tudi v paygradu, torej v plačilnem razredu, ki lahko tu v javnem sektorju imamo, kot nasledilniku, ki furajo vizualizacijo podatkov na neki ravni, ki tukaj pač pri nas ni mogoče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 539.677,
+        "end": 557.495,
+        "text": "Ampak trenutno naš fokus je to, da mi zagotovimo kvalitetne podatke, da zagotovimo vizualizacije, kar lahko, imamo pač te zunanje pomoči, nam pri tem pomagajo, čeprav naši, moram priznati, naš centar, zdravstveno podatkovni centar, poleg centra za nalezebo bolezni in pristopov v"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 557.615,
+        "end": 566.52,
+        "text": "totalno pomoč in zdaj v tem novem premiku, ki ga sedaj delamo, so naredili fantastične zadeve, tudi z vizualizacijo, ker so super, ampak najbolj s to strukturo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 566.58,
+        "end": 581.148,
+        "text": "Torej, da mi zagotovimo strukturo, kvaliteto, popolnost teh podatkov in da so te podatki na voljo pač za obdelavo, vizualizacijo, odločevalcem in kot epidemiologi na koncu dneva smo potukili vseeno najbolj za interpretacijo teh kazalnikov"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 581.408,
+        "end": 586.809,
+        "text": "in zausmirjati te kazalniki tam, kjer so potrebni za obvladovanje epidemije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 587.689,
+        "end": 594.371,
+        "text": "Mi nismo samo generiranje podatkov, epidemiologija je pač širša reč."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 595.291,
+        "end": 601.692,
+        "text": "Govori se že o točnosti pa kakovosti teh podatkov, zbranih, ki jih potem tudi posredujete naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 602.172,
+        "end": 603.973,
+        "text": "Koliko pa dejansko so točni in"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 605.624,
+        "end": 612.552,
+        "text": "kakovostni ti podatki in koliko je napak na podlagi recimo človeškega faktorja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 612.952,
+        "end": 618.338,
+        "text": "Ja, seveda, točnost, vse je odvisno od kvaliteti in od vrste zajema."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 618.518,
+        "end": 621.602,
+        "text": "Kar je pa pomembno pri interpretaciji je pa tisto, da seveda"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 621.942,
+        "end": 633.49,
+        "text": "moraš poznati in tukaj večinoma vseh nas, ki pozna teren, pozna, kako pride do sploh, ki je izvor teh podatkov, kako se generira, kdo vtipkava te zadeve in koliko je administrativno, koliko ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 633.87,
+        "end": 637.493,
+        "text": "Mi skušamo ta človeški vpliv čim bolj omejiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 637.613,
+        "end": 640.555,
+        "text": "Ena zadeva, ki ni bila mogoče nam do učiri,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 641.23,
+        "end": 652.5,
+        "text": "na naslednji teden, je, da smo dosegli z veliko truda, da v PKP 6 lahko končno povezujemo našo bazo COVID z drugimi administrativnimi viri podatkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 652.88,
+        "end": 654.521,
+        "text": "In tle so napake bistveno manjše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 654.581,
+        "end": 662.168,
+        "text": "To pomeni, da bomo sedaj, in boste tudi upazili mogoče, ko bomo prenovili naslednji teden ta podatek ene popravke za nazaj,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 662.408,
+        "end": 665.712,
+        "text": "Ja, ampak so spremljivi, zato ker bomo izboljšali točnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 665.752,
+        "end": 674.221,
+        "text": "Ne morem reči občina, mogoče bo kašna strigla gor dol, ker prelep je bilo narejeno ročno, zdaj bo pa iz administrativnih podatkih se je pač povezalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 674.601,
+        "end": 679.967,
+        "text": "In to moramo razmišljati, zato ker, ko bo prišli hitri antigenski testi v široko uporabo, te številke bojo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 681.393,
+        "end": 683.395,
+        "text": "Za en čas zagotovo še višje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 683.776,
+        "end": 690.863,
+        "text": "In v tistem trenutku ne bomo mogli zagotoviti generiranje podatkov, ki ga delamo z epidemiološkim anketiranjem sedaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 690.964,
+        "end": 697.451,
+        "text": "Ročno moramo zagotoviti čim večjo število podatkov iz drugih administrativnih virov, ki jih že imamo na razpolago."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 697.711,
+        "end": 727.238,
+        "text": "In to je tisto, zamujamo več let, zdaj to delamo v največji javnozdravstveni in zdravstveni krizi sodobnega časa, ampak se trudimo in nismo sami očitno, zato ker so se preklopili takšni najprej centri znotraj našega inštituta, poleg centra za nalezljive bolezni, zdravstveno-podatkovni centr, ki ga vodi Metka Zaletev, njena krastna ekipa, naša ekipa, malo se tanjša, z bolniškimi in višjimi silami,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 727.698,
+        "end": 729.619,
+        "text": "in vemo, kaj je to vleče za seboj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 729.939,
+        "end": 736.602,
+        "text": "Vhoj tekrat reku, da mi smo zmožni voditi na epidemijo orto zaradi kadrovskih stisk, ki je njih par tednov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 736.982,
+        "end": 744.065,
+        "text": "Vemo, koliko časa jo vodimo sedaj, tako da to se vse pozna, ampak smo skupi, da rešimo to zadevo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 744.485,
+        "end": 748.547,
+        "text": "Torej, z povezljivostjo teh podatkov računate na njihovo večjo zanesljivost?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 748.91,
+        "end": 749.991,
+        "text": "Točno tako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 750.191,
+        "end": 752.032,
+        "text": "In tudi izboljšanje njihovih virov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 752.292,
+        "end": 756.995,
+        "text": "In pri nekaterih primerjih sprememba nekaterih metodologij, pa tudi sprememba virov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 757.355,
+        "end": 760.437,
+        "text": "Recimo bom kar konkreten o umrlih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 761.758,
+        "end": 765.821,
+        "text": "Boste videli metodološko boh malo objavljen, ako bomo to uspeli spremeniti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 765.841,
+        "end": 771.124,
+        "text": "Nočem datuma, ker seveda tehnično se nam lahko kaj zaplede, ampak v roku naslednjega tedna upam, da ja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 771.404,
+        "end": 781.03,
+        "text": "bomo predstavljali tudi umrle, ki jih dobimo iz linkanja vitalnega statusa in pač COVID pozitivnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 781.09,
+        "end": 791.817,
+        "text": "Tako dela tudi Public Health England in vzame tiste smrti, ki so, ki so se zgodilo 28 dni od pozitivnosti, kot najverjetneje povezane s COVID."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 791.857,
+        "end": 793.979,
+        "text": "kar je dovolj približno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 794.019,
+        "end": 807.329,
+        "text": "Zgubiš sicer neke smrti, ki so kasneje, ujameš notri kašno smrt več, ampak je pomembno, ker tisti podatek dnevni o eni agregirani številki, če je ta 20, 30, 40, javno zdravstveno za uskrepanje ni relevantno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 807.349,
+        "end": 808.89,
+        "text": "Mi pa moramo videti večjo sliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 808.93,
+        "end": 816.576,
+        "text": "Ta nov sistem nam bo mogoče ugodoviti vse smrti, kjer koli so se zgodile doma ali v bolnici ali v dosegu kjer koli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 816.916,
+        "end": 830.169,
+        "text": "bo imel mogoče zadnjih petih dneh, ker še vedno pride do ene zamude, v teh zadnjih petih dneh bomo to opolnomočili z enim hibridnim sistemom te standardne prijave smrti za nalezljivo bolezen, ki jo uporabljamo sedaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 830.429,
+        "end": 834.813,
+        "text": "To bo en nov sistem, ki bo dal en dober upogled."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 835.093,
+        "end": 835.614,
+        "text": "Če pa se že"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 836.457,
+        "end": 845.427,
+        "text": "vrtiva okoli smrti in o klasičnem vprašanju, ki mi ga niste še postavila, sem ga videl nekje v zraku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 846.368,
+        "end": 851.634,
+        "text": "Smrt s COVID-om, ob COVID-om, nad COVID-om, pod COVID-om in pri COVID-u."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 851.975,
+        "end": 852.696,
+        "text": "Trenutno to je"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 853.501,
+        "end": 855.222,
+        "text": "Popolno manj relevantno vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 855.282,
+        "end": 872.014,
+        "text": "Dajte odpred stran euromomo.eu, kjer smo isto zdaj v tej naši prenovi stopli skupaj na NJZ-ju z Statem Serum Institutom na Danskem, kjer modeliramo presežek umrljivosti, celokupne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 872.394,
+        "end": 877.017,
+        "text": "To pomeni vse smrti, ne covid smrti, da ne mogu da reku, kje so pa zdaj zginile ostale smrti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 877.297,
+        "end": 878.558,
+        "text": "Tam notri vidite vse smrti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 878.678,
+        "end": 894.362,
+        "text": "vidite, da modeliramo tudi za prijave in vidite, da v zadnji teden, za kateri imamo analizo narjeno, imate 20 standardnih odklonov plusa v premirjavi s pričakovanjimi smrti v tem obdobju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 894.442,
+        "end": 902.004,
+        "text": "To je vse, kar je potrebno vedeti, če se sprašujemo, če zaradi pandemije se umira večosloveni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 902.024,
+        "end": 903.164,
+        "text": "20 standardnih odklonov"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 903.164,
+        "end": 904.546,
+        "text": "kolonov več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 904.886,
+        "end": 912.275,
+        "text": "In očitno, kaj pa je letos različno, ki ni bilo zadnjih pet let, pa mislim, da je vsem jasno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 912.295,
+        "end": 920.064,
+        "text": "V bistvu te podatke je tudi statistični urad pred dnevi predstavo, smrno se glede na prejšnje leta."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 921.828,
+        "end": 940.414,
+        "text": "Če preidem k vam, doktor Moršičeva, tudi verjetno se strinjate vi, da je zasledilnik izjemnega pomembna, da so ti podatki, ki jih prikazujete na, moram reči, da po moje zelo fotogeničen način, da so točni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 941.707,
+        "end": 953.577,
+        "text": "Vi ne črpate podatkov samo od najazaje, od kod vse, kjer so vse vaše baze podatkov in v kolikšni meri se te baze podatkov med sabo tudi ujemajo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 955.072,
+        "end": 956.012,
+        "text": "Res je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 956.032,
+        "end": 959.534,
+        "text": "Najprej še pozdravljeni iz moje strani in hvala za povabilo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 960.235,
+        "end": 969.78,
+        "text": "Torej, mi črpamo podatke iz različnih virev, čeprav, kot je Mario povedal, se bo to verjetno sedaj vse nekako združilo, tudi s pomočjo njezaja v nadaljevanju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 970.1,
+        "end": 978.224,
+        "text": "In sicer smo informacijo o potrjenih primerih dnevnih donedavnega prijemali kar neposredno z Inštituta za mikrobiologijo in imunologijo Zagreba."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 978.224,
+        "end": 980.246,
+        "text": "Medicinske fakultete univerza v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 980.566,
+        "end": 986.012,
+        "text": "Sedaj nam te informacije pošilja NIJZ, to se pravi, da smo v tem prehodnem obdobju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 986.793,
+        "end": 993.0,
+        "text": "Sicer pa recimo informacije o zasedenosti bolnišnišnih postelj na intenzivni negi dobivamo neposredno od Ministrstva za zdravstvo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 993.8,
+        "end": 999.787,
+        "text": "Dobivamo jih tudi neposredno, ker pri vodijah teh enot intenzivne nege in sicer iz 13 bolnišnic COVID-19."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1000.027,
+        "end": 1020.523,
+        "text": "Poleg tega imamo tudi neke podatke, recimo tudi mi smo sedaj nedavno objavili graf o presežnih smrtih, kjer smo dobili tudi podatke iz Ministrstva za notranje zadeve iz tega centralnega registra prebivalcev in pa zberamo tudi podatke iz Ministrstva za šolstvo o tem, koliko je bilo kušb v šolah, takrat, ko so bile še odprte."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1020.783,
+        "end": 1024.607,
+        "text": "recimo tudi podatke iz aplikacije o stanji zdrav."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1024.927,
+        "end": 1038.842,
+        "text": "Tukaj bi pa omenila še en tak, verjetno v prihodnosti bomo imeli tudi podatke oziroma naši modeleri, nekateri imajo tudi že podatke o prisotnosti virusa v odpadnih vodah, ki pa jih dobivamo neposredno iz Nacionalnega inštituta za biologijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1039.463,
+        "end": 1046.726,
+        "text": "Tako da v bistvu iz različnih vira odčrpamo, kakšno je ujemanje, kot je Marjo že v bistvu povedal, vedno pride do kakšnih človeških napak."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1046.766,
+        "end": 1050.327,
+        "text": "Več ljudi, ki gre čez te podatke, lažje jih opazimo in jih popravimo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1050.347,
+        "end": 1053.468,
+        "text": "To je nekaj čisto normalnega, da se prizna napake se popravi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1053.488,
+        "end": 1058.35,
+        "text": "Očitno bo prihalo tudi do sprememb v naslednjem tednu, dveh, ko bo ta prehod se zgodil."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1059.21,
+        "end": 1068.414,
+        "text": "Sicer pa tako skrbimo, da je ujemanje čim večje in točnost čim višja in počasi bomo v bistvu prišli do bolj kvalitetnih podatkov, kot je že Marjo povedal."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1068.998,
+        "end": 1079.287,
+        "text": "Kako se pa odločite v bistvu, katere podatke oziroma iz kjerih vas boste črpali in kako ste recimo pri tem selektivni?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1079.367,
+        "end": 1086.774,
+        "text": "Verjetno ne morete, ker od vseh podatkov, ki jih imate na voljo, ki jih lahko najdete, če ne je tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1088.418,
+        "end": 1106.119,
+        "text": "Tukaj je zadnji ekipa večjih ljudi, ki je v kontaktu z različnimi ljudmi in iz bolnišnic, iz NIJZ-ja, iz različnih raziskovalnih inštitucij in želimo imeti čim bolj neposreden vir podatkov, ker to v bistvu omogoča neko kvaliteto in pa neko konstantnost, da je v vaš čas so podatki nekako primerljivi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1106.339,
+        "end": 1111.6,
+        "text": "Sicer pa, ne vem, lahko zdaj izpostavim nek primer ravno te presežne smrti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1111.62,
+        "end": 1128.125,
+        "text": "Mi smo jih spremljali že nekaj časa znotraj sledilnika, pa v bistvu nismo še dali teh podatkov javnost, dokler nismo dejansko dobili nekih, smo se tudi tu shledili z njezajem, pa tudi z drugimi deležniki, torej z Ministrstvom za notranje zadeve in to, in smo dobili najbolj ažurne, najbolj kakovostne podatke in smo se potem recimo odločili,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1128.445,
+        "end": 1132.407,
+        "text": "po neka iteracija, kda gremo s tem grafom recimo tudi naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1132.428,
+        "end": 1135.329,
+        "text": "In to se v bistvu zgodi praktično za vsako vizualizacijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1135.71,
+        "end": 1143.835,
+        "text": "Ko pridemo do neke točke, da je zanimiva za uporabniki in uporabnice naše spletne strani, torej, da lahko glede na to, kar vidijo na podatkih,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1144.375,
+        "end": 1159.413,
+        "text": "in omogočimo boljše razumevanje epidemije in pa v bistvu tudi to strezno ravnanje v času epidemije, recimo prilagoditev svojega vedenja in podobno, takrat v bistvu, in ko smo tudi mi zadovoljni z kakovostjo, točnostjo podatkov, takrat v bistvu se odločimo za neke prikaze."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1159.613,
+        "end": 1179.165,
+        "text": "Pri prikazih pa se pravzaprav, res imamo strokovnjake v naši ekipi z zelo različnih področjih, od vizualizaciji podatkov, ki imajo izkušnje z drugačnimi podatki in potem nekako preko debate, pogovorov, strudimo ugotoviti, kaj je najboljši način, da to predstavimo, malo tudi se zgledujemo po recimo kakšnih tujih spletnih stranih in podobno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1179.425,
+        "end": 1181.125,
+        "text": "na tem delamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1181.185,
+        "end": 1189.247,
+        "text": "In vedno so tu dobrodošli pripombe, predlogi, izboljšave, ki jih dobivamo recimo na naše preko maila, Twitterja in podobno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1189.687,
+        "end": 1192.488,
+        "text": "In se trudimo v bistvu, da sledimo temu toku."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1192.568,
+        "end": 1195.988,
+        "text": "Zakaj ste se pa sploh lutili tega projekta Sledilnik?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1196.028,
+        "end": 1204.75,
+        "text": "Mislim, se vem, da vi niste bili med prvimi, ki so skup stopli, ampak je bila recimo v ospredju"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1205.21,
+        "end": 1215.478,
+        "text": "dobra prezentacija, vizualizacija, ki je morda v tistem trenutku v našem prostoru manjkala, pa tudi kakšno obiskanost imate sploh v strani."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1215.699,
+        "end": 1220.302,
+        "text": "Pa, a ste prečakovali, da bo v bistvu to takšna uspešna zgodba?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1221.292,
+        "end": 1236.681,
+        "text": "Ja, v bistvu začetnik sledilnika je v bistvu navdušenost nad podatki Luka Renko, že imaš se kdaj v medijih predstavljen in kasneje so se mu potem s časoma pridružili še drugi in ta skupina je vedno bolj rasla, res smo iz zelo različnih strokovnih ozadij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1237.441,
+        "end": 1243.229,
+        "text": "In skupaj so potem v tistem času prišli na idejo, da bi postavili spet na stran, v bistvu bolj po naključju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1243.529,
+        "end": 1254.705,
+        "text": "Na začetku je bila to samo neka razpredelnica, ki mimo grede ta slavnova kuglova razpredelnica danes praznuje devetmesečni rojsni dan, ravno devet mesecev je od takrat, ko je bila ustvarjena."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1255.025,
+        "end": 1272.383,
+        "text": "No in potem so pač ta skupina, manjša skupina okoli Luka Renka, je prišla na idejo, da se postavi spletno strani neke osnovne vizualizacije za začetek, ki bi, kot sem že prej rekla, v bistvu pa tudi, kar je Mario rekel, nekako informirala akcijo oziroma reakcijo na to, kar se nam dogaja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1272.723,
+        "end": 1273.885,
+        "text": "Mi smo verjetno merili v mislih,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1274.245,
+        "end": 1292.681,
+        "text": "Saj recimo moj interes ravne sledilnika je predvsem to predstaviti širši javnosti, torej dejansko ljudem, ker glede na to, da smo mi gostiteli virusa, mi lahko z našim vedenjem ta virus tudi zaostavimo in s temi, če imaš podatke, tudi veš, kako bolje reagirati in se odzvati na to in kako ustrezno ravnati v tem času."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1293.061,
+        "end": 1304.707,
+        "text": "Sicer pa vizualizacija podatkov je definitivno pomembna, da ljudem predstaviš na čim bolj enostaven in pa hkrati ne prilagajaš podatku oziroma čim bolj neposreden prikaz."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1305.008,
+        "end": 1319.896,
+        "text": "Pri tem bi jaz upozorila, da se pogosto krat pozabi, da imamo mi na sledilnikovi spletni strani tudi pogosto vprašanja in odgovore, kjer v bistvu opišemo, kaj kater podatek je na spletni strani, od kje smo ga pridobili, kaj recimo pomeni potrjen primer, kaj pomeni, ne vem,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1320.601,
+        "end": 1327.006,
+        "text": "število ljudi v bolnišnicah in podobno, kjer ljudje lahko vidijo zelo jasno, kakšen podatek je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1327.787,
+        "end": 1334.512,
+        "text": "Sicer pa dnevno obišče našo spletno stran med 80 do 100 tisoč uporabnikov in uporabnic."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1334.532,
+        "end": 1338.736,
+        "text": "Čeprav nimam primerjave, je to verjetno ogromno, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1338.816,
+        "end": 1338.936,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1338.996,
+        "end": 1342.879,
+        "text": "Primerjave z drugimi spletnimi strani."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1343.94,
+        "end": 1349.224,
+        "text": "Doktor Cizel, vi pa vsak dan postvarjate na povedi glede..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1350.709,
+        "end": 1351.69,
+        "text": "poteka epidemija."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1352.41,
+        "end": 1366.839,
+        "text": "Zakaj ste se zato odločili, pa zakaj, recimo, vključujete noto različne variante, zdaj že slavne črke R, reprodukcijskega števila?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1366.879,
+        "end": 1369.081,
+        "text": "Dobar dan, hvala lepa za vabilo, za priložnost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1369.161,
+        "end": 1373.624,
+        "text": "Sej tudi mi smo se zadeve tudi nekak po naključju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1373.664,
+        "end": 1377.866,
+        "text": "Ta naključje je mogoče malo manjše, ker smo v osnovi"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1379.208,
+        "end": 1398.869,
+        "text": "Naša osnovna dejavnost je povezana z jedrskimi objektimi in z jedrsko varnostjo in prav zelo dobro razumem tisto, kar je Mario prej rekel, na te stvari moraš biti pripravljen prej, ker takrat, ko se začnejo dogajati, ne veš, kje se te glava drži in včasih prav občudujem tiste, ki so v prvih bojnih vrstah, ki še vedno stojijo in delajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1399.009,
+        "end": 1400.751,
+        "text": "Za nas je to malo lažje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1401.972,
+        "end": 1413.577,
+        "text": "Ampak bili smo po naključju pripravljeni, kolega Batjaš Leskovar je pač par tednov prej opazil, kaj se v Wuhanu dogaja in je, ker ga te stvari zelo zanimajo, nastavil ta prvi model."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1415.053,
+        "end": 1416.334,
+        "text": "In s tem modelom smo začeli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1416.394,
+        "end": 1419.935,
+        "text": "Takrat smo seveda pogledali na okolj, na kdo to dela, a kdo ne dela."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1420.015,
+        "end": 1423.337,
+        "text": "Pozanimali smo se, ali lahko koristimo komu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1424.017,
+        "end": 1431.88,
+        "text": "Odzvala se je takrat vladna skupina za spremljanje virusa, da ja, da nimajo takšne podpore in da bi bili zelo veseli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1431.9,
+        "end": 1433.601,
+        "text": "In v takrat naprej to delamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1433.621,
+        "end": 1437.463,
+        "text": "In seveda obveščamo zraven vsak dan tudi direktno javnost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1437.503,
+        "end": 1442.525,
+        "text": "To je pač v teh časih ta transparentnost in direktni pristop k stvari je pomemben."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1442.945,
+        "end": 1447.39,
+        "text": "Zakaj z eri napovedujemo prihodnost?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1447.971,
+        "end": 1456.802,
+        "text": "Zdaj, zelo ponastavljeno povedano, epidemija ima svoje matematične zakonitosti in tako nekako za 14 dni naprej smo jo že definirali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1457.262,
+        "end": 1462.008,
+        "text": "Kar koli danes naredimo, se bo poznal 14 dni kasneje, torej nekako"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1463.009,
+        "end": 1469.431,
+        "text": "je prva dva tedna sta definirana s tem, kaj se je zgodilo od tam naprej, pa ne vemo čisto dobro, kaj bo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1469.451,
+        "end": 1477.693,
+        "text": "Ne znamo čisto napovedati, kako se bodo ljudje obnašali, ker to je pravzaprav edino, kar je zelo pomembno za nadaljni razvoj epidemije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1478.133,
+        "end": 1486.895,
+        "text": "Torej pokažemo več scenarijov za naprej, kaj bi se lahko zgodilo, če bi se več srečevali ali manj srečevali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1487.555,
+        "end": 1489.576,
+        "text": "V tem je ta naša"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1490.043,
+        "end": 1491.204,
+        "text": "ta naša napoved."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1492.104,
+        "end": 1512.037,
+        "text": "Iščemo pa recimo značilne datume, recimo značilni datumi, ali se uvedejo kakšne ukrepi, torej imamo 14 dni kasneji, potem bi se moral to videti na številkah, ali se včasih, ne, ne vidi se vedno, ali se začne kakšna šola, ali so kakšne razlogi, kjer sumiš, da bo šlo za več združevanja in ti potem v teh datumih"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1512.638,
+        "end": 1517.241,
+        "text": "projeciramo naprej spremembe, ki jih pa ne znamo čisto dobro napovedati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1517.301,
+        "end": 1523.184,
+        "text": "Pravzaprav ne verjamem, da je kdo dobro zna napovedati, kaj se bo zgodilo z konkretnim ukrepom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1523.685,
+        "end": 1534.571,
+        "text": "Kar tudi zdaj se vidi, da v bistvu tisti ukrepi, ki so spomladi določene učinke, prinašali jih zdaj v takšni meri ne, ne, same ukrepi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1535.656,
+        "end": 1540.438,
+        "text": "Ja, jaz sicer osebno vedno se ukrepam, zogibam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1540.478,
+        "end": 1542.819,
+        "text": "Ljudje smo se takrat obnašali drugače."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1543.259,
+        "end": 1545.2,
+        "text": "Ukrepi so samo pri pomoček."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1545.26,
+        "end": 1548.821,
+        "text": "Naše obnašanje je tisto, ki pravzaprav definira potek."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1550.061,
+        "end": 1557.424,
+        "text": "Prej ste govorili, da ste v bistvu takoj po začetku dogajanja v Wuhanu začeli delati prve modele."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1557.844,
+        "end": 1564.527,
+        "text": "Na podlagi kakšnih podatkov takrat in pa zdaj v bistvu na podlagi kakih, odkud črpate zdaj podatke?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1564.951,
+        "end": 1567.703,
+        "text": "vse na podlagi katerih delate vi projekcije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1569.102,
+        "end": 1574.385,
+        "text": "Najraj rečem, da gre za, recimo, mislim, da gre za tri skupine podatkov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1574.726,
+        "end": 1589.515,
+        "text": "Eni so seveda tile dnevni podatki, ki nastajajo v Sloveniji, najbolj pomembni so pozitivni testi število ljudi v bolnicah, število umrlih, ker gre praktično za isti proces, ki se pa v različnih magnitudah pa v različnih časovnih zamiki pojavlja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1589.575,
+        "end": 1595.019,
+        "text": "Torej, delež tistih, ki so pozitivno testirani, se bo pojavil nekaj dni kasneje v bolnicah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1595.579,
+        "end": 1601.944,
+        "text": "Nekaj od njih se jih bo pojavilo spet v intenzivnih enotah in na žalost jih bo tudi nekaj od teh umrlo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1602.004,
+        "end": 1614.575,
+        "text": "Skratka, te relacije, to je drug sklop podatkov, je kakšni deleži ljudi se predstavljajo iz predalčka v predalček, kot pravijo o tem predalčke s tem modelom epidemije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1615.315,
+        "end": 1623.943,
+        "text": "In ti so na začetku bili iz literature, zdaj se jih da že po tem času tudi iz domačih podatkov do neke mere oceniti, vsaj v povprečju, kaj se dogaja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1624.975,
+        "end": 1631.757,
+        "text": "Seveda vsi značilni časi epidemije, vključno zikubacijsko dobo, dobo kužnosti, to so podatki iz epidemije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1632.277,
+        "end": 1641.32,
+        "text": "Potem je pa seveda zelo pomembno, vsak model ima svojo množico predpostavk, poenostavitev,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1641.8,
+        "end": 1656.152,
+        "text": "in omejitev in prednosti in tudi te je treba zelo dobro razumeti oziroma mora modelar zelo dobro vedeti, kaj počne in podatki in praktično podatki so vedno nezanesljivi, modeli so vedno nezanesljivi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1656.212,
+        "end": 1665.04,
+        "text": "Zdaj, znotraj tega potem na konc prevlada njegova modelarjeva interpretacija tega, kaj vidi in časa ne vidi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1666.235,
+        "end": 1678.653,
+        "text": "V bistvu s tem ste malo tudi odgovorili na moje vprašanje, kako se pač odločate, katero spremenljivko boste noter unesli v modelacijo, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1679.633,
+        "end": 1681.815,
+        "text": "Ja, v neki meri."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1681.875,
+        "end": 1688.302,
+        "text": "To naj še rečem, da sta dva ključna cilja naših modelov od začetka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1688.883,
+        "end": 1693.188,
+        "text": "Prvi je pogruntati, ali se epidemija ustavlja ali se ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1693.368,
+        "end": 1694.649,
+        "text": "Ta je čisto kvalitativni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1695.07,
+        "end": 1698.333,
+        "text": "Oziroma, kako hitro se ustavlja ali kako hitro napreduje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1698.513,
+        "end": 1699.274,
+        "text": "Čim prej, seveda."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1700.035,
+        "end": 1708.178,
+        "text": "Iz mrtvih se to da zelo elegantno videti, ampak nažalost je takrat že pravzaprav skoro seno, a to vidimo ali ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1708.518,
+        "end": 1728.745,
+        "text": "Čim prej, torej pozitivni cesti, kolegica Zarja je omenila tudi te, kaj so že odplake, v odplakah se to razmeroma zelo hitro vidi, je pa istočasno zelo težko oceniti magnetudo, samo vidiš, ali je ali ni, kar je zdaj v tem trenutku, seveda je, na začetku mogoče bi bila ta zadeva zelo uporabna,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1729.6,
+        "end": 1749.593,
+        "text": "Ta drugi cilj je pa potem, ko vidimo, kam se zadeva pelje, na nek način napovedati, kaj bo v bolnicah čez en teden, dva tedna, da kolegom v bolnicah vsaj malo damo na miga, ali je treba takoj preseliti del, ali je mogoče še kakšen dan časa v tem smislu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1750.733,
+        "end": 1752.935,
+        "text": "Kako točne pa so vaše napovedi?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1753.802,
+        "end": 1767.708,
+        "text": "Recimo v spomladanskem epidemičnem valu, ko sem gledala, kaj ste napovedali skupno število smrtih, se je zelo ujemalo s tem, kako se je potem razpletlo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1769.088,
+        "end": 1776.511,
+        "text": "Mislim, da se tudi zdaj, razen seveda tega, to je bilo nenapovedljivo, da bomo več kot nek mesec viseli na platoju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1776.771,
+        "end": 1779.413,
+        "text": "Ta je presenečen, je pravzaprav po moje za vse."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1780.033,
+        "end": 1785.215,
+        "text": "In ta tudi spada na nek način med tiste ključne stvari, ki jih je zelo težko napovedati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1785.235,
+        "end": 1791.078,
+        "text": "Ne da se upaziti pomir, pa gremo s platoja ali ne, ne težko bomo pa napovedali, koliko časa bomo še na platoju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1791.953,
+        "end": 1807.701,
+        "text": "Recimo, mene je zadnjič razveselil kratek pogovor z enim kolegom zdravnikom, ki mi je rekel, da so se zjutraj pogledali naše številke, svoje številke in so rekli, da že spet gre po planu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1809.922,
+        "end": 1816.045,
+        "text": "Sej, to je nekoliko žalostno, ampak že spet gre po planu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1816.245,
+        "end": 1819.107,
+        "text": "Glavno, da v teh časih tudi na podlagi takih številk"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1820.202,
+        "end": 1825.284,
+        "text": "pozitivnega najdemo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1825.704,
+        "end": 1847.131,
+        "text": "Če smo že pri številkah o tem, da smo že en mesec na platoju, zanima me, a je to posledica tudi tega, da se v takšni meri, mislim, da se v bistveno večji meri zdaj opravljajo hitri testi,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1848.333,
+        "end": 1853.376,
+        "text": "in nam dajojo več okuženih, ali ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1853.696,
+        "end": 1862.642,
+        "text": "Ne bi rekel vsaj iz tega, kar vidimo iz podatkov, sicer tile hitre testi so razmeroma novi, ampak na prvo žogo ne bi rekel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1863.098,
+        "end": 1871.904,
+        "text": "Zdaj, takole po naši oceni je recimo štirkrat več okuženih kot tistih, ki doživijo pozitivni test, ki ga zares vidijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1872.024,
+        "end": 1879.949,
+        "text": "In zdaj tile hitre testi verjetno po tej populaciji malo mirijo in kakšne hitre teste zraven prinesijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1879.969,
+        "end": 1885.092,
+        "text": "Ali je to zelo pomembno ali ne, bi rekel, da ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1885.192,
+        "end": 1886.033,
+        "text": "Gospod Fafangel?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1887.787,
+        "end": 1891.55,
+        "text": "Ja, ne, trenutno so še vedno vse je PCR potrjeno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1892.051,
+        "end": 1895.454,
+        "text": "Aha, niso še podatki od hitrih testov notri v statistiko?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1895.494,
+        "end": 1896.134,
+        "text": "Ne, ne masovno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1896.495,
+        "end": 1904.282,
+        "text": "Hitri testi lahko sedaj vplivajo le v smislu, da nam pomagajo identificirati nekaj, ki bomo potem pač potrdili s PCR-jem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1904.562,
+        "end": 1909.807,
+        "text": "Tako da to trenutno definicija premira SDC-ja bo spremenjena verjetno"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1910.247,
+        "end": 1916.612,
+        "text": "tudi v pondeljek in bomo pač potem načli pozitiven, hitri antigenski test z pozitivnim PCR testom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1917.173,
+        "end": 1919.494,
+        "text": "Ampak javno zdravstveno, kaj si želimo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1919.534,
+        "end": 1923.638,
+        "text": "Mi želimo testirati, testirati vse in izolirati bolne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1923.758,
+        "end": 1931.224,
+        "text": "Ne jih izolirati deset dni po začetku simptomov, ko pride do PCR-ja in dobi rezultat še v dveh dneh in potem še ne vem kdaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1931.524,
+        "end": 1938.51,
+        "text": "In ko izoliramo osebo, ki praktično za prenos okužbe je skoraj irelevantna, mi moramo dobiti osebo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1938.85,
+        "end": 1940.853,
+        "text": "tisti dan, ko malo posumi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1940.913,
+        "end": 1942.796,
+        "text": "Pa še po možnosti tudi, če ne posumija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1942.836,
+        "end": 1952.209,
+        "text": "Zato, ker COVID, vemo, da 50-60 odstotkov imamo asimptomatskih, pavci simptomatskih, oligosimptomatskih, vsi taki, ki te malo zaboli glava, pa se zdaj ne bo šel testirati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1952.569,
+        "end": 1954.152,
+        "text": "Javno zdravstveno, mi moramo tukaj le."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1954.392,
+        "end": 1974.963,
+        "text": "Mi hočemo, mislim, lepo, vem, da je namenjena podatkov tale našo srečanje danes, ampak ok, ampak podatki za akcijo in bomo videli, kaj bomo prišli iz teh testiranj, ampak testiranje je bolj kot ne javno zdravstveno testiranje tisto, ki je relevantno, ne klinično toliko, javno zdravstveno, da najdemo tiste pozitivne, kam..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1975.283,
+        "end": 1980.807,
+        "text": "takoj, jih izoliramo takoj in to je tisto, ki bo omejilo širjenje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1980.867,
+        "end": 1988.573,
+        "text": "To je tisto, ki Leon pa Zarija in vsi mi hočemo potem videti z podatki in potem se pač usmirjati, kje jih uporabiti bolj pametno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1988.653,
+        "end": 1996.78,
+        "text": "Kaj bom res izkoristil, še ki sem dobil nazaj besedo, samo za Leona pa tudi Zarijo pohvaliti, ampak ta koncept, da je na vseh nas, da je na ljudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1997.12,
+        "end": 1999.301,
+        "text": "Na koncu tisto, ki izmerimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1999.381,
+        "end": 2002.861,
+        "text": "Ampak ne na način, da rečeš, da so ljudje odgovorni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2003.141,
+        "end": 2007.663,
+        "text": "Ampak je na vsakemu pozamezniku, kako bo ravnal, mi jim pa moramo to omogočiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2008.023,
+        "end": 2016.185,
+        "text": "Javno zdravstvena komunikacija in pristop do ljudi z ne ni nikoli prinesla nič dobrega, ker mi zdaj ne komuniciramo zboljno o sebi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2016.245,
+        "end": 2019.205,
+        "text": "Tukaj je komunikacija z zdravimi, ki je čisto nekaj drugega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2019.265,
+        "end": 2021.466,
+        "text": "Tudi ne ni dobra opcija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2021.886,
+        "end": 2026.347,
+        "text": "Mej distanco ni dobra opcija, če v fabriki nam moraš mej distanco."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2026.567,
+        "end": 2033.491,
+        "text": "Naša dožnost je, da omogočimo, da si doma, da imaš odstotno nadumestilo, da imaš varno delo na okolje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2033.571,
+        "end": 2039.674,
+        "text": "Ne reči, ne, tega ne smeš, ampak tudi človek lahko potem s tem to tudi naredi, da mu je omogočeno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2040.254,
+        "end": 2043.296,
+        "text": "Javno zdravstveni delček."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2043.416,
+        "end": 2055.642,
+        "text": "V bistvu pa želite s temi podatki oziroma čim več informacijami transparentnimi tudi spodbuditi ljudi, da bi se ob"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2056.03,
+        "end": 2058.193,
+        "text": "obnašali odgovorno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2058.313,
+        "end": 2068.026,
+        "text": "Da bi spoštovali te ukrepe, ki dejansko so pomembni za to, da se končata epidemični val."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2070.589,
+        "end": 2072.051,
+        "text": "Jaz ali Leon?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2072.231,
+        "end": 2073.273,
+        "text": "Vas sprašujem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2074.289,
+        "end": 2076.37,
+        "text": "Ja, ampak te le on bi rekel isto, verjamem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2076.77,
+        "end": 2084.914,
+        "text": "Seveda, to je transparentnost, da vidiš, kaj se dogaja, da vidiš, da tisto, ki ti mi svetujemo, je pač smotrno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2085.235,
+        "end": 2095.48,
+        "text": "In ne znejem, ampak ne smemo podcenjevat najprej izčrpanost toliko časa teh ukrepov in ne smemo podcenjevat, da smo družbena bitja,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2095.72,
+        "end": 2098.481,
+        "text": "da si želimo biti zraven nekomu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2098.601,
+        "end": 2101.942,
+        "text": "In najbolj zdaj, ko bodo tudi prišli prazniki, bo ta želja še toliko bolj močna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2101.962,
+        "end": 2104.463,
+        "text": "In na svet je seveda, bodi v tvojem mehurčku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2104.503,
+        "end": 2114.387,
+        "text": "Ampak čeprav vemo, ker vemo, da ne, ni odgovor in vemo, da se nekatere stvari bodo zgodile vseeno, potem pa dejmo pomagati ljudem in jim povedati, kako to narediti na varen način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2114.587,
+        "end": 2126.23,
+        "text": "Epidemiološko bo bistveno bolj učinkovito, kot med ene skrivalnice zaprtih, slabo prezlačenih okoljih oseb, ki nismo jim niti povedali, kako lahko varno ravnajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2127.29,
+        "end": 2128.391,
+        "text": "To je namen teh podatkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2128.811,
+        "end": 2131.652,
+        "text": "Leon, popravme."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2131.692,
+        "end": 2134.152,
+        "text": "Ja, če lahko jaz tukaj ene par številk bi dodal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2134.172,
+        "end": 2135.473,
+        "text": "Mislim, da ima Marijo čisto prav."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2137.064,
+        "end": 2141.247,
+        "text": "je pa en pogled na številke, ki mogoče lahko pri tem tudi malo koristi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2141.307,
+        "end": 2150.493,
+        "text": "Tako da rečemo, mi imamo približno 1500 potrmenih PCR testov na dan v povprečju v zadnjem tednu, kar je nekaj malega več kot 1 na minuto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2151.897,
+        "end": 2164.788,
+        "text": "In če zdaj upoštevamo, da je recimo dejansko vkuženih, ne vem, štirikat več, to je ena takšna ocena, ne, imamo upravka za štirimi srečanji zdravega z vkuženim na minuto v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2165.368,
+        "end": 2172.374,
+        "text": "In to takšnih uspešnih s prenosom, niso vsa srečanja uspešna s prenosom, to me Marijo verjetno lahko popravil, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2172.694,
+        "end": 2175.777,
+        "text": "Torej, teh srečevanj je veliko, zelo veliko, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2176.467,
+        "end": 2181.251,
+        "text": "Zdaj, ali je, a morajo biti, ali ni treba, te o tem težko sodim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2181.371,
+        "end": 2186.195,
+        "text": "Vidim pa številk, da jih je štiri na minuto, vsako minuto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2187.035,
+        "end": 2191.299,
+        "text": "To mislim, da je dober tukaj dodati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2191.399,
+        "end": 2195.482,
+        "text": "To opazimo tudi vsi, ki imamo recimo namaščene te sledilnike."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2196.599,
+        "end": 2199.18,
+        "text": "oziroma nesledilnike, to aplikacijo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2199.44,
+        "end": 2202.261,
+        "text": "Aplikacijo, ki noveme nesledilnike."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2202.281,
+        "end": 2202.821,
+        "text": "Ja, hvala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2203.181,
+        "end": 2207.462,
+        "text": "Zdaj sem se pa malo nerodno zarekla."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2209.043,
+        "end": 2222.287,
+        "text": "Če pa gremo nazaj k sledilniku dr. Muršičeva, vi ste mi zadnjič v pogovoru dali eno zanimivo tezo, da se bo s hitrimi testi iskalo ta vrh."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2223.127,
+        "end": 2226.088,
+        "text": "Ne bo se kazal vrh epidemije, ampak da se ga bo iskalo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2226.856,
+        "end": 2228.256,
+        "text": "A sem vas jaz pravo razumela?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2228.896,
+        "end": 2236.338,
+        "text": "Jaz bom tukaj, najprej prosila Marja, naj me popravi, ampak v zadnjem času res se je veliko govorila o teh antigenskih testih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2236.858,
+        "end": 2250.082,
+        "text": "Jaz bi rekla, da je mogoče pri nas ni še prišla v javnošči spravo razumevanje teh antigenskih testov, ki bi dejansko služili bolj kot diagnosticiranju, pravzaprav nekamu presejanju populacije, torej nadzoru nad epidemijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2250.382,
+        "end": 2255.243,
+        "text": "Mogoče presejanje je najboljša beseda, ampak na nek način, če v zdravo populacijo lahko testiramo"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2255.763,
+        "end": 2268.033,
+        "text": "čim večji del oziroma mogoče na delih Slovenije, kjer vemo, da je večja prevalenca, večja razširjenost boležni, damo v tiste dele recimo več takih testov, lahko zaznamo več kužnih oseb v tej skupini."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2268.473,
+        "end": 2269.674,
+        "text": "In na ta način jih lahko..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2271.035,
+        "end": 2286.535,
+        "text": "če jim omogočimo, še vedno moramo poskrbeti tudi za njihovo izolacijo in dati ekonomska pomoč in vse ostale stvari, da imajo lahko varno izolacijo, jih lahko na zelo frekventen, torej večkraten in pa hiter način damo v izolacijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2286.796,
+        "end": 2288.398,
+        "text": "In na nek način bi lahko se potem"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2288.618,
+        "end": 2311.202,
+        "text": "ta slavni procent delaž pozitivnih testov, čeprav, če bi gledali samo antigenske, verjetno niti ne bi bil tako visok, ker bi jih toliko več naredili, bi na ta način to skalo, v kateri govorimo, ko govorimo o pozitivnem delažu testov na dan, v bistvu to skalo, ki se nam skriva nekje pod morjem trenutno, odkrili, počasi bi jo odkrivali in bi na nek način prišli do tega, da bi v bistvu"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2311.602,
+        "end": 2322.806,
+        "text": "našli večino ljudi, ki so v določenem obdobju kužni in lahko bolezen širijo naprej in to je naš cilj, da obstavimo v bistvu ta del ljudi, ki širi bolezen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2323.227,
+        "end": 2326.428,
+        "text": "Mario, prosim, če dodaš, ker si ti strokovnjak na tem področju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2326.908,
+        "end": 2329.829,
+        "text": "Perfektno povedano, Zarja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2329.889,
+        "end": 2337.251,
+        "text": "Skrining ne bi preveč, ampak bi sem rekel, res je, da najprej uporaba teh testov za širjenje kapacitet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2337.411,
+        "end": 2339.172,
+        "text": "Širjenje kapacitet testiranje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2339.232,
+        "end": 2343.853,
+        "text": "Občutek je ta, ko gledamo, vse seveda, za to gledamo potem hospitalizacijo in umrlje, nažalost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2344.053,
+        "end": 2357.398,
+        "text": "mi tudi platojamo, ker nekako s trenutnimi kapacitetami testiranja gledamo nekje našo krivuljo na metri in pol višine in ne vidimo, kaj se v njej dogaja, kot nekaj se dogaja tam na štiri metri in pol višine, verjetno, in tega ne moramo videti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2357.818,
+        "end": 2365.141,
+        "text": "In zdaj to je širitev kapacitet s kitrimi antigenskimi za ta del, tudi simptomatičnih, ampak apsolutno to, kar je Zarija rekla,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2365.501,
+        "end": 2372.984,
+        "text": "Apsolutno, da omogočimo dostopnost, pravočasnost, testiranja simptomatskih pavci v praktično vseh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2373.144,
+        "end": 2379.186,
+        "text": "S tem bomo tole deno goro videli in bomo dejansko lahko vplivali na epidemijo, ker bo ljudi, če ti imaš pozitiven..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2381.347,
+        "end": 2386.99,
+        "text": "hintri antigenski test in ti nekdo reče, da si pozitiven, velika večina ljudi bo ostala doma."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2387.13,
+        "end": 2397.315,
+        "text": "Najbolj, če je zagotovljeno, da lahko da izpad dohodka pokriti, kar je pomembno, da mi omogočimo takšni bojo doma in to bomo najbolj vplivali na potek epidemije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2397.476,
+        "end": 2399.997,
+        "text": "To je tisto, ki se zdaj izgubljamo s tem, da najdemo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2400.297,
+        "end": 2415.306,
+        "text": "izven tega okvira ljudi, ki so že skoraj proti koncu kužnosti, najbolj relevantno je tistih pet dni po začetku simptomov in nekaj časa pred začetkom simptomov, kjer si najbolj kužen in najbolj pač lahko širiš."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2415.566,
+        "end": 2422.791,
+        "text": "In to moramo ujeti in hitre antigenski lahko najde, imajo svoje omejitve, ampak nekako moramo prestopiti v kontekst"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2423.011,
+        "end": 2431.879,
+        "text": "javno zdravstvene uporabe teh tekstov in mislim, da lahko naredijo spremenbo tole in vse ostalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2431.939,
+        "end": 2450.374,
+        "text": "Še enkrat, niso edina stvar, zdraven imamo še pa vse te naše načine komunikacije in to, da nekako omogočamo, da varno ravnaša, da vsak, ki vseeno se ne bo šel testirati ali pa kakorkoli ne bo prišel, da ravna na način, da ne more biti nek super spreder in ne more bolezen širiti naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2450.394,
+        "end": 2450.915,
+        "text": "Tako da to bo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2451.175,
+        "end": 2474.585,
+        "text": "To bo izjemno relevantno, je en močen adut, ki imamo v rokah, ki moramo zdaj ga pač usmiriti pravilno, da bomo skopali to goro ledeno, ki je za temo, o kateri je govori Lazarija in res potem vplivali, ne samo, da štejemo in samo gledamo številke, ampak da dejansko javno zdravstveno ukrepamo za nekaj spremenitev."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2475.205,
+        "end": 2494.811,
+        "text": "Dr. Muršičeva, jaz bi vas še vprašala glede podatkov in recimo dezinformacij ali pa manipulacij, ki so se, če so se pojavljale na podlagi teh podatkov, ki jih sledilnik objavlja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2495.051,
+        "end": 2497.172,
+        "text": "Ali so se ste to opažali?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2497.212,
+        "end": 2499.933,
+        "text": "Recimo jaz sem marsikaterje"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2500.889,
+        "end": 2509.962,
+        "text": "Manipulacijo s temi podatki bo pažala na družbenih omrežjih, ko se je želelo zminimalizirati pač pomen novo okruženje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2510.879,
+        "end": 2519.686,
+        "text": "Ja, mislim, jaz ne bi reka, da gre to točno v oblik za podatke sledilnika, ker tako in tako so to podatke, ki jih ima v bistvu NIJZ ali pa jih je tudi predstavljala vlada."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2521.087,
+        "end": 2522.709,
+        "text": "Pojavljajo se je neki dezinformacije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2522.729,
+        "end": 2536.58,
+        "text": "Ena izmed teh večjih, pa mogoče bolj pomembnih tudi za samorazumevanje, kako je skupnost razumela dogajanje, je bila ta ideja o mogoče nižji smrtnosti, ki se je čez poletje in potem septembra zelo veliko pojavljala, ker nekateri podatki mogoče še niso bi čisto"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2536.58,
+        "end": 2544.366,
+        "text": "ulovljeni, virus je jim tudi širil po drugem delu populacije in potem vedno vidimo, da v bistvu pride do starejših in do teh rendljivejših populacij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2544.406,
+        "end": 2545.848,
+        "text": "To je bila ena taka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2546.268,
+        "end": 2560.44,
+        "text": "In mogoče tudi to, ko se je govorilo, kaj so pravzaprav potrjeni primeri, pa sej to najdejo jih, ko so ljudje razmišljali tudi o tem, da to kar naključno najdemo ljudi, čeprav se je jasno v vaš čas povdarjalo, koga se testira, mogoče celo malo premalo,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2560.88,
+        "end": 2562.581,
+        "text": "Tako da to se seveda dogaja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2563.101,
+        "end": 2570.286,
+        "text": "Bi pa jaz samo omenila, da na sledilniku že prej sem omenila, mi imamo pogosto vprašanje, kjer skušamo razložiti, kaj kater podatek pomeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2570.627,
+        "end": 2573.649,
+        "text": "Na vsake toliko časa tudi kakšne interpretacije podajamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2574.249,
+        "end": 2585.957,
+        "text": "Tudi sami imamo nekaj modelerjev v naši skupini in sicer tudi na naši strani objavljamo recimo na povedi skupine podvodstvo Maja Pohar, Prmej z Inštituta za biostatistiko in medicinsko informatiko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2586.277,
+        "end": 2597.943,
+        "text": "Jan je za Žibrta iz zdravstvene fakultete in pa Žiga je za Plotnika iz fakultete za matematiko in fiziko in te modeli so tudi dnevno, vse obnavljajo in dajemo podatke tja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2598.303,
+        "end": 2610.39,
+        "text": "Bi bila pa pri teh modelih, še posebej pri napovedih, ki so daljši od teh dveh tednov, kot je pred mano profesor Cizel omenil, zelo previdna, ker, če lahko dam samo eno prispodobo, če gledamo vreme,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2611.15,
+        "end": 2612.21,
+        "text": "napovedi vremena."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2612.65,
+        "end": 2625.633,
+        "text": "Recimo, če jutri je napovedano solnce in jaz v svoj ruzak drž, ko se odpravim na sprehod, to ne bo vplivalo, ali bo jutri drževalo ali ne, ali bo jutri solnce ali ne, v bistvu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2626.133,
+        "end": 2634.535,
+        "text": "Medtem, ko, če dam napoved ven, da čez mesec dni bomo imeli zgolj 300 potrjenih primerov na dan, v bolnišnicah bo samo še 500 ljudi,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2635.315,
+        "end": 2638.436,
+        "text": "na intenzivni negi, pa lahko pri ljudeh spremeniš vedenje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2638.516,
+        "end": 2654.981,
+        "text": "Torej jim daš neko lažno upanje, optimizem in ravno to v bistvu potem ljudje premislijo, ah, pa sej, zdaj se grem pa lahko družiti v nek zaprt prostor in med pogovori med ljudmi lahko pride do tega, ah, kaj pa ti to tako resno jemljaš, saj čez en mesec bo pa samo še 300 novih primerov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2655.342,
+        "end": 2660.883,
+        "text": "Ampak ker smo ljudje gostitelje virusa, smo točno mi tisti, ki v bistvu vplivamo na te modelske napovedi lahko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2661.203,
+        "end": 2662.724,
+        "text": "In to je ta naključnost, ta"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2663.024,
+        "end": 2672.006,
+        "text": "negotovost teh modelov, ki jo moramo upoštevati, da smo mi tisti akteri, nismo neodvisni od modelov, nismo neodvisna spremenilka notri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2672.146,
+        "end": 2687.449,
+        "text": "In zato v bistvu s tem, da z našimi boljšimi odločitvami in v bistvu, če im plenujemo preuranje na interpretaciji modelov, lahko v bistvu pride epidemija v neko čisto drugačno smer in to se je treba zavedati pri tem, ko smo ljudje dejansko akteri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2687.989,
+        "end": 2690.55,
+        "text": "In na nek način lahko pa zagotoviš neko bolj"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2691.61,
+        "end": 2700.635,
+        "text": "predvidljivo vedenje s tem, da imaš jasno začrtano in nedvomno strategijo, ki jo v bistvu izvajaš na dolgi rok, čez ta maraton, čez katerega v bistvu zdaj gremo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2700.975,
+        "end": 2717.925,
+        "text": "Samo to bi povdarjala v bistvu, da seveda pa vprašanje je bilo o dezinformacijah, manipulacijah, seveda pride do tega, ampak se v bistvu trudimo, da čim bolj odkrito predstavljamo in ponujemo interpretacije stvari, ki jih ponujemo in seveda vedno smo na voljo za morebitna vprašanja, morebitne pomislike, če kdo česa ne razume,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2718.205,
+        "end": 2720.426,
+        "text": "in se trudimo, da bi bilo tega čim manj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2720.506,
+        "end": 2737.215,
+        "text": "Seveda pa se temu ne moremo izogniti, ker pa ta del družbe obstaja, vedno je in zdaj bo še več tega, verjetno tudi se spremljamo vsi, tudi cepiva, vem, da to ni pogovor o cepivih, ampak tudi tam bo v bistvu treba biti ažuren in popravljati možne zmote in podobno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2738.816,
+        "end": 2745.74,
+        "text": "Tam se, na tistem področju se žal bojim, da se nam še več tega obeta."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2746.167,
+        "end": 2749.209,
+        "text": "Ampak upam, da morda pa ne tokrat."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2749.309,
+        "end": 2766.939,
+        "text": "Doktor Cizel, prej, kar je Zarja Mošič razlagala, glede tega, kakšna je navarnost, kaj lahko z napovedmi dosežemo kontraočinek pri ljudeh."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2767.059,
+        "end": 2774.923,
+        "text": "Kako se pa vi odločate, kaj boste kot spremni tekst dali ob napovedi"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2775.327,
+        "end": 2786.997,
+        "text": "ker včasih lahko zaznam mogoče en podton, da pozivate ljudi k odgovornemu obnašanju in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2787.217,
+        "end": 2797.326,
+        "text": "A imate kdaj ta strah, da bi z optimistično napovedjo naredili ta kontraproduktivno obnašanje pri ljudih?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2798.817,
+        "end": 2808.747,
+        "text": "Hvala, zelo zanimivo vprašanje, ki je sicer do neke mere povezano s podatkim, po drugi strani lahko takoj odpreva predvsej globoko filozofsko debato."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2809.027,
+        "end": 2816.475,
+        "text": "Zdaj se je še čisto vsako znanstveno odkritje dalo uporabiti v dobre ali slabe namene."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2816.555,
+        "end": 2818.196,
+        "text": "Dobre in slabe namene."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2820.265,
+        "end": 2830.111,
+        "text": "kot bi rekel, niti dobri, niti slabi podatki ne povzročajo širjenja virusa, niti dobre pa niti slabe interpretacije tudi ne povzročajo širjenja virusa."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2830.151,
+        "end": 2844.178,
+        "text": "Vse pozdravljam s kolegico dr. Muršičevo, da je pravzaprav te, kaj že pravijo temu, samo izpolnjive se napovedi so v sociologiji predvsej znana zadeva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2844.278,
+        "end": 2846.119,
+        "text": "To je seveda težava, ki je"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2847.518,
+        "end": 2852.481,
+        "text": "do neke mire nepremostljiva in je preopoščena malih posebnim interpretacijam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2853.101,
+        "end": 2854.582,
+        "text": "Tako bom rekel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2854.802,
+        "end": 2861.285,
+        "text": "K sreči smo ljudje različni in torej različna sporočila različnim ljudem različne stvari pomeni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2861.325,
+        "end": 2867.228,
+        "text": "In zdaj k sreči imamo tudi različne centre sporočanja, ki niso vsi uradni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2867.289,
+        "end": 2875.133,
+        "text": "Torej upam, da dosežemo dovolj veliko število ljudi vsi skupaj in jim poskušamo sporočiti, kaj bi lahko bilo za njih dobro."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2875.868,
+        "end": 2888.759,
+        "text": "Zdaj, seveda, ker je tudi vsaka informacija, ima dobro in slabo plat, dobro in slabo strankovanca, bi pač postavili na mizo recimo tole."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2889.64,
+        "end": 2894.043,
+        "text": "Seveda so napovedi lahko tipati, če se bo zgodilo nekaj,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2894.684,
+        "end": 2900.77,
+        "text": "Oziroma, če bomo zelo uspešni, potem smo lahko do konca februarja v zeleni coni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2900.931,
+        "end": 2903.413,
+        "text": "In to drži, ta napoved drži."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2903.934,
+        "end": 2908.659,
+        "text": "Če bomo se resno lotili tega, bomo v koncu februarja v zeleni coni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2909.199,
+        "end": 2915.927,
+        "text": "Ampak ali se bomo res lahko tega lotili resno ali ne, na to vprašanje pa seveda ne znamo odgovoriti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2916.925,
+        "end": 2926.19,
+        "text": "Ravno ta informacija se da se kot rečeno razumeti in kot grožnja in kot spodbuda, pač odvisno od spremnika, na žalost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2926.65,
+        "end": 2933.694,
+        "text": "Sicer pa takole, v manipulacijah pravzaprav ne, ne bi rekel, da se je zgodila pri nas kakšna manipulacija, saj da bi opazili, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2934.234,
+        "end": 2935.355,
+        "text": "Bi pa vse,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2937.448,
+        "end": 2955.086,
+        "text": "Ta komunikacija okoli teh stvari, okoli pri epidemiji, še posebej takrat, ko smo bili v usponu, ko smo se podvojevali v približno enem tednu, takrat je bilo izjemno pomembno, da se številke komentirajo današnji dan današnje, naslednji dan naslednje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2955.687,
+        "end": 2971.06,
+        "text": "ker so bile razlike 10%, recimo dnevno povečanje je bilo v rangu 10-12% in včasih, polčasih, smo se pogovarjali potem še na dva, tri dni kasneje o številkah, ali v petek o številkah iz mondelka, ki so bile že čisto mimo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2971.96,
+        "end": 2983.189,
+        "text": "Zanimivo je v tem, zanimivost zadeve je v tem, da je ta eksponentna dinamika s hitrim podbojevanjem med človeški intuiciji čisto tuja in je zato"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2984.527,
+        "end": 2988.611,
+        "text": "včasih je bilo o tem nekoliko težko govoriti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2988.711,
+        "end": 2998.439,
+        "text": "Tudi potem kakšna napoved včasih izgleda nekoliko pretirana, ker si ljudje ne predstavljajo, kaj je to, da če se v enem tednu podvoji, se bo v dveh tednih početverilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2999.18,
+        "end": 3004.304,
+        "text": "In v treh tednih smo tako rekočili vsi Slovenci, potem je to zelo hiter."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3004.344,
+        "end": 3006.666,
+        "text": "Toliko o tem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3009.383,
+        "end": 3029.461,
+        "text": "Zdaj pa bi imela v bistvu še vprašanje, zdaj za vse tri, a lahko recimo zdaj vsak dan mi damo ven število okuženih, število mrtvih zaradi ali pa s covidom, a nam lahko"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3030.629,
+        "end": 3043.359,
+        "text": "A nas lahko v bistvu vsako dnevno to navajanje zgolj statističnih številk naredi na en način neobčutljive na to, kaj se pa dejansko dogaja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3043.82,
+        "end": 3055.83,
+        "text": "Recimo zadnjič sem se mogoče jaz malo zamislila, ko sem slišala ministra Gantarja, ki je rekel, da mi kar govorimo o 50 mrtvih na dan, ne zavedamo se pa tega, da je v bistvu to"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3056.583,
+        "end": 3063.393,
+        "text": "cel avtobus ljudi, ki umrejo s COVID-om."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3063.433,
+        "end": 3067.759,
+        "text": "Ne vem, kdo bi prvo to komentiral."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3067.799,
+        "end": 3070.723,
+        "text": "Lahko začnem, ker je taka nehvaližna tema."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3072.361,
+        "end": 3074.124,
+        "text": "Človek se namar si kaj navadi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3075.826,
+        "end": 3081.434,
+        "text": "Po svetu, ko smo se odzivali na druge epidemije, bolje in tako naprej, vidiš, na kaj vse se človek navadi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3081.835,
+        "end": 3084.359,
+        "text": "Ampak ni normalno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3084.579,
+        "end": 3086.442,
+        "text": "In kaj še enkrat ta medijska..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3087.363,
+        "end": 3104.912,
+        "text": "Tako, ne, vsak dan to številko, pa je 40, pa je 50, pa je 60, pa res ti rata samo številka, ne, dokrat te ne dotakne osebno, dokrat ne bomo prešteli vsi o praznikih ali ko se bomo spet vsi skupaj najdli tiste prazne stolice, ki bojo za našimi mizami, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3105.132,
+        "end": 3109.115,
+        "text": "Ne bomo točno imeli občutek, kaj vse to pomeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3109.395,
+        "end": 3123.605,
+        "text": "Je prav, da so ene številke komunicirane transparentno in dnevno, ker to pomeni, da ni tisti občutek v Sloveniji, da ko se nekje kaj zalomi, potem podatki izginejo in potem ne veš, kaj se dogaja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3123.705,
+        "end": 3124.766,
+        "text": "To se ne sme zgoditi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3124.786,
+        "end": 3127.288,
+        "text": "Tako da iz tega vedika transparentnost je pomembna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3127.508,
+        "end": 3135.314,
+        "text": "R je rad tudi nekaj vsakdanjega, ker prej smo se učili samo te konspecializacije epidemiologije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3135.955,
+        "end": 3141.719,
+        "text": "Trenutno ljudje si pričakujo, da bojo to vedli, da bojo videli, da bojo imeli občutek, kaj se dogaja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3143.08,
+        "end": 3155.97,
+        "text": "Ampak ta drugi del, da med 60 mrtvih na dan je nesprejemljivo in kaj bomo storili, torej iz številk v akcijo, je pa tisto, ki nam manjka in moramo se več o tem pogovarjati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3161.174,
+        "end": 3163.016,
+        "text": "Ja, jaz lahko še dodam, no."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3164.257,
+        "end": 3182.132,
+        "text": "Mislim, eden izmed meni zelo ljubih znanstvenih novinarjev tujih, Ed Young, je v septembru napisal v bistvu neko razlago, kaj se nam dogaja na te družbeni ravni in on je zaključil s to habituacijo oziroma navajenostjo na grozo na nek način, a ne in"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3182.352,
+        "end": 3188.796,
+        "text": "Za vsemi temi številkami, v katerih mi dnevno poročamo, so ljudje, so prijatelji, so starši, so otroci nekoga."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3189.196,
+        "end": 3190.557,
+        "text": "In to se je treba zavedati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3191.677,
+        "end": 3198.622,
+        "text": "Seveda, sedaj nam dnevno omre en avtobus ljudi in gre to kar nakako mimo nas, ampak ne smeji iti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3198.802,
+        "end": 3205.746,
+        "text": "Treba opozoriti na to, treba je tudi opozoriti, da nekateri ljudje bojo tudi šli čez daljše časovno obdobje, ko bojo v bistvu"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3206.146,
+        "end": 3213.433,
+        "text": "spet prihajali k sebi in v bistvu šli čez to po bolezni, po recimo preživljanju nekaj tednov na intenzivni negi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3213.513,
+        "end": 3222.723,
+        "text": "Jaz si ne znam predstavljati, kako je to, ampak verjamem, da je to težko za telo in bojo potem imeli tudi dolgotrajne posledice oziroma bo še kar nekaj časa v bistvu to potrajalo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3222.983,
+        "end": 3228.248,
+        "text": "Pri tem moramo tudi razmišljati o zdravstvenih delavcih in delavkah, ki so v bistvu pod"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3228.809,
+        "end": 3235.814,
+        "text": "ogromnim pritiskom trenutno in jim je težko in bojo imeli mogoče tudi težave recimo z doševnim zdravjem in vse to."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3236.154,
+        "end": 3244.6,
+        "text": "Pa tudi do vseh ljudi, ki smo na nek način trenutno malo ločeni eno od drugega in imamo teh vseh stikov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3244.64,
+        "end": 3257.41,
+        "text": "Vse to je treba razumeti, v bistvu to pandemijo na neki širši ravni, družbeni ravni in jo postaviti v ta kontekst in nikakor se v bistvu prav zavesno in z razmišljanjem boriti proti temu, da bi se navadili na to"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3257.75,
+        "end": 3261.311,
+        "text": "na to, kar se nam dogaja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3261.411,
+        "end": 3286.435,
+        "text": "Kar ni pandemija, je sindemija, je več pandemij skupaj, ena iz katerih je pandemija nalezljive bolezni, druge bojo pa duševne, nenalezljive, vse, kar bo ekonomsko zraven peljalo in verjetno bomo, da ne bomo prav tako črnogledi totalno, mislim, luč na koncu tunela je cepljenje, bomo verjetno prej zaključili pandemijo nalezljive bolezni, kot vse ostale pandemije, ki bojo v tej sindemiji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3289.39,
+        "end": 3292.414,
+        "text": "Doktor Cizel, ste še vi hoteli dodati?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3292.495,
+        "end": 3302.129,
+        "text": "Ja, če lahko malo dodam, ker se pravi zelo strigam s tem, da mogoče samo še dodatni vidik lahko prinesem ali pa dodatno osvetlitev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3302.229,
+        "end": 3302.469,
+        "text": "Zdaj,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3304.848,
+        "end": 3312.493,
+        "text": "Torej številke, če smo pri številkah, v ta trenutek smo pri 50-60 mrtvih na dan zaradi Covid-a."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3312.833,
+        "end": 3319.198,
+        "text": "K temu dodam, da je recimo dolgoletno slovensko povprečje približno 55 smrti na dan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3320.137,
+        "end": 3339.124,
+        "text": "Sicer je na prvo žogo težko reči, da smo zdaj s COVID-om podvojili, te statistike malo zamujajo, ampak vsekakor je COVID, ta trenutek ali pa tisto, kar pišemo na računku COVID-a, daleč najmočnejši vzrok smrti v novembru in bo tudi v decembru."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3339.464,
+        "end": 3346.747,
+        "text": "Kar je še mogoče pri teh številkah, ker opazujemo vsaj v javnem prostoru"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3348.098,
+        "end": 3371.607,
+        "text": "mogoče na nek način doživljamo tole zanimivo obdobje, ki so informacije, podatki informacije so na voljo vsakomor, operiramo s dnevnimi številkami, pa nekoliko ne opazimo, da smo v kompletnem prvem valu, tja do julija, zgubili, ne bom rekel samo, ampak glede na to, kaj se zdaj dogaja samo, nekaj več kot sto ljudi,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3372.567,
+        "end": 3378.024,
+        "text": "Zdaj smo pa prihvali novembro na 1100, v decembru bomo pa posebej vrednosti prebili 1200 v mesecu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3381.595,
+        "end": 3386.179,
+        "text": "Tako da je ta stvar, da damo malo perspektivo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3386.219,
+        "end": 3392.944,
+        "text": "In tu se recimo misel od Marija ponovim, mogoče z nekimi drugimi besedami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3393.324,
+        "end": 3399.91,
+        "text": "Številke seveda so nujne za ukrepanje, za razumevanje, kaj se dogaja pa za ukrepanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3400.51,
+        "end": 3405.194,
+        "text": "Ampak za javno debato je še veliko bolj pomembno, kaj je za narediti, da se pred tem lahko skrijemo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3408.737,
+        "end": 3409.057,
+        "text": "Dobro."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3411.397,
+        "end": 3413.078,
+        "text": "Bi zaključila to debato."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3413.559,
+        "end": 3416.221,
+        "text": "Hvala, ker ste bili z mano."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3416.981,
+        "end": 3421.305,
+        "text": "Ali bi morda kdo hotel še kakšno zaključno besedo?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3421.725,
+        "end": 3425.869,
+        "text": "Je še kdo kaj pozabil povedati?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3425.949,
+        "end": 3427.29,
+        "text": "Vidim, da ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3427.39,
+        "end": 3429.291,
+        "text": "Hvala vam, da ste z mano govorili."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3431.513,
+        "end": 3435.877,
+        "text": "Hvala tudi vsem, ki ste nas spremljali."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3436.417,
+        "end": 3440.981,
+        "text": "SAA Znanost portal z razpravami nadaljuje tudi v prihodnjem tednu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3441.502,
+        "end": 3447.466,
+        "text": "Tako da vabim, da se nam pridružite in nas tudi spremljate v prihodnje."
+      }
+    ],
+    "runtime_sec": 2096.3988971710205
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.03515737803824252,
+      "miss": 0.029951177223455788,
+      "fa": 0.004005693549945809,
+      "confusion": 0.0012005072648409306,
+      "total_duration": 3414.3899999999458
+    },
+    "der_collar0.25": {
+      "der": 0.03130190287203587,
+      "miss": 0.026332290351274972,
+      "fa": 0.0038645284497717844,
+      "confusion": 0.001105084070989115,
+      "total_duration": 3215.1399999999458
+    },
+    "wer": {
+      "wer": 0.34008232283902545,
+      "ref_words": 8989,
+      "hyp_words": 8059
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2.123,
+        "end": 11.624,
+        "text": "Lepo zdravno okrogli mizi v okviru portajala Esta znanost, a zakaj bomo danes govorili o statističnih številkah v času epidemije covida?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 12.215,
+        "end": 28.313,
+        "text": "Kar te praktično krojijo način našega življenja, le nimo na podlagi kriterijev krije temeljijo v številu novo okuženih v deločenem časovnem obdobju ter številu hospitaliziranih v bolnišnicah bodo tudi sproščali umetvene ukrepe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 29.41,
+        "end": 44.632,
+        "text": "Zaradi vsega tega je še kako pomembno, kako so ti podatki številke zbrani, kdo jih obdeluje, kdor morda tudi interpretira in kako se na podlagi teh podatkov delajo napovedi o poteku epidemije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 45.357,
+        "end": 61.996,
+        "text": "Zapojasnila in verjamem tudi tvorno debato, se zato znami danes vodje odceka za reaktorsko tehniko na institutu Jožef Stefan Leon Cizelj, predstavnica sledilnika za Kovid Darjem Muršić."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 62.519,
+        "end": 72.442,
+        "text": "In pa predstojnik centra za nalezive bolezni nacionalnega inštituta za javna zdravje Marijofa Fangel. Lepo pozdravljeni v..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 73.049,
+        "end": 101.365,
+        "text": "Tudi vi, ki nas spremljate v živo, naj pa se še je s predstavim, moj ime Anja Gorenjci in sem novinarka s Slovenska tiskovna agencija in bom moderirala to razpravo. Doktorfa Fangel, če se ne motim tako sledilnik kot tudi doktor Cizl, jemlje ta ključna sta tistične podatke od načunalnega inštituta za javno zdravje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 102.631,
+        "end": 119.033,
+        "text": "Prišepnjeno mi je bilo, da ob istvu v kostevi pršli na neje z sose začeli nekak tektonski premiki na področju izbiranja podatkov, epidemioloških podatakov, a nam lahko poveste, kako je bil orecimo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 119.827,
+        "end": 140.195,
+        "text": "Takrat ko ste bili, ko ste prišli na inštut in takrat in mogoče kako se izbirajo zdaj, hakej ta razlika pa, kako bi recimo zdaj izgledalo ob trenutnih epidemioloških podatkih, razmerja, razmere, kakovji izglealo takšna zbiranja kot recimo marca."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 141.815,
+        "end": 144.532,
+        "text": "Opozdravljeni, hvala le pa za vabilo in za priložnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 145.578,
+        "end": 182.804,
+        "text": "Kja, jih zbom krv začel s še mal prej, preden sem jaz spršal z leta dva sedemnajst, je imela Slovenija VHO Odita, ne, sistemu spremljanja in odzivanja na takšne grožnje, ko krije epidemije in pandemija ne le zlive bolezni.In najslabšo ceno je takrat Slovenija dobila dvojko, mogo bi cvek, je dobila dobojko ravno na področju spremljanja in zaradi digitalizacije. In to je tova ne, in zdaj po vrsto let ne nastaja zadeba še vedno grize, grize od zadajk razli plačujemo davek, dave k tegane."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 183.412,
+        "end": 184.002,
+        "text": "Papirnati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 184.728,
+        "end": 385.405,
+        "text": "Kabirnati sistem, ki je super za zbrat in zaobvladovati en manjši izbruh, nikakor ne zaradi epidemijo, nikako ne zame podatke v živo, kakor zdaj je potrebno, nikakovost zamet podatki, kaj govorimo podatkih, ampak zakaj nas zanima?Podatke so informečni for eksion, ne mislim prej pomembno, da s tem krojimo nesem odgledamo kaj sem bo zgodilo, ampak da jih interpretiramo in svetujemo pametno kako it po eni poti ali obrat drugo čevitmo, da ena pot ne deluje. Papirna ta prijava na lezljive boleziko odje kovit devetnajst s trenutnimi številkami na razmahu epidemije pomeni, da če bi ostali tam, kjer smo bili trenutno nesledilni kne inštitutju ževa Štefana, ne naša javnost, imeli nula podatkov v kovidu, bi bili popolnoma slepi, ker ne bi vedeli, kje smo. Ker v resnici inštitut še vedno naši in štitut mi generiramo pravzaprav te podatki izbiramo, ne samo zbiramo da nekdo bi si mislil mogoče in to bom danes izkoristil priložnost, da jaz mi lepo sedimo tukile, ko nam te digitalni podatke v strukturirano lepo letijo v bajto, ne?In zdaj epidemiroki tukile sedimo, če je prispodobaj z gospodarja prstanov ko zmavk nanašča na našem kupu denarja in podatkov in razmišljamo, čev bomo klikli tipko send in to delili ali bomo zadržali to za nas, kar ne bomo delili z no, da so vseh nekaj, da je bilo, da se bošo, že bi štiri, le pa bi številni, le bi šestroje, le boši šest rojstveni, le bomo, le bodo, ali bi šli, da bomo šest strojstvega, le so šest dobro, le smolike. Smo šli pač iz papirnate oblike na demoreč digitalno prijavo k vojnem začelni fazi bila skvazi digitalna nek, moraš podatek pa bi uresnici še vedno analogen zadaj in še vidno ročne obdelave do sistema ki do razvoja aplikacij, s katerega se prijave trenutno avtomatično zlivajo pozitivnih primerov iz laboratorij, kar je bistveno pospešilo in olajšejo in omogočlo sploh na takšen volumen delat, v enandem trunku so bili laboratorije, v tem sistemu obremenjeni ročno krasov tip kavali pa na njihovi strani, kar spet ni bilo dobro razvili rešitev, da naredimo to avtomatizirano iz njihovih sistemov in zdaj v naslednjem tednu z vsem tem tektonski premiki, ki nas še čakajo hitre antigenski testi uvedba leteh in ukrepanje leteh pa se premikamo še na eno dodatno izboljšavo, ker jaz si želim, da bo tudi neizboljše za vse druge pandemije, ki nas čakamo, je pa črpanje iz podatkov iz centralnega registra prebivalstva na inov sistem in to bojo spet dodatni premiki, torej enoskupnosti s tičišče, ker se bi ozlivali vsi podatki pozitivni in negativni kovit testiranja hitre antigenski pisjarji in potem pač en sodoben dataflov, ki pride do nas. In mi potem ga lahko obdelamo, prikažemo, kar lahko še enkrat smo čistne razfreclani na vseh področjih, ne odziva do prejzinga do vsega ampak, enkrad komamo to pa potem podatke dalj javnosti in interesiranimi javnosti in takšnimi takšnim sodelovcem in kolegom in strokovnjajniku Kokr, inštitutjo že v Štefanah sledilniki nosijo stali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 386.62,
+        "end": 400.272,
+        "text": "Zdaj mi na vaši spletni strani najdemo določene podatke o epidemiji, na primer novo okuženje smrti med zdravstvenimi delavci v desovih in skonaprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 400.93,
+        "end": 409.604,
+        "text": "Kaj pa ne je za obisok, kaj vse glede epidemije ne je zazbira, katere podatke in katere objavite, katerem pa morda tudi ne in zakaj?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 411.19,
+        "end": 488.393,
+        "text": "Večina podatkov zbiramo na nejo zajune v resnici, večina ponadkov pride do nas nekatere, so jo neparalelni s sistemi poročanja, ki grejo mimo nas, ampak večino teh podatkodiansko pride pri nas.V odločanju kaj ne objavlja v resnici je vedno največji, najvešji, ne večja skrb zasebnost posameznika. Zdeta ta skrp ni nitko relevantna ne ob takšnih številkah, pa si moramo zavedati, da ta anonimizacija in psevdonanimizacija potem gre padet, ko govorimo o majhnih Številkah na dan, ne? To to je tista moja prva skrba za to, kar lejte stigma, koliko vi da obstaja in vsi tisti, ki so šliče s to vejo kako zgleda, vejo, kako gleda v manjih nevasi, veju, kakko zgledajo tudi v velikem mestu in sosedi.Tako da nisem tisto ena prioriteta, ker je vseeno zdravil državljanov in nikova zasebnost podatki so resniti njihovi, ne, v njihovih osebni strogovarovani podatkiki, ki moramo mi skrbet, da takšni pač ostanejo, ne.In velika večina skanalizirana preko nas, ne? O smrti recimo tisti dnevni podatek grejo mimo nas, ampak tudi tudi le spojlja ralrta, ne, pripravljamo upam naslednji teden in malček drugačen prikaz, ki bi spet prilagodili sistem tudi prikaza umrlih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 489.153,
+        "end": 593.137,
+        "text": "Na način, da bi bili podatki čim bolj kvalitetni in čimbolj popolni in šim manj odvisni od človekove napake pri izbiranju in poročanju, ne?In to je tudi ta in sistem, ki bo, mislim, pomagal pritransparentnosti, no, to je tišno mogoče, ki najbolj pomembno, je sklenal našo vlogo trenutno vidim, ko inštitut centra za nalezljive boleznice z omejenimi kapacitetami, ki jo vpletem v celoten kovit odzivne podatki zagotavljene podatku so eno, seveda bi si želel med ekipo zaodeliranje že narjeno znotraj hiše, pa med top strokovnjake, k svojo visno višje moram prizna tudi pe igreju ter v plačilnem razredu, ki lahko tu v javnem sektorju mamo kot na sledilniku, ki furajo vizualizacijo podatkov na neki ravni, ki tukile pač prenos ni mogoče, ampak trenutno naš fokus je to, da mi zagotovimo kvalitetne podatke, da zagotavimo vizualizacije kar lahko, mamo pač tej zunanje pomoči nam pri tem pomagajo, čeprav naši moram priznat naš center zdravstno podatkovni center poleg centrara zanelezejo bolezni pristopov v totalno pomoč in zdaj v tem novem premiku, ki ga sedaj delamo, so naredili fantastične zadebe tudi z vizualizacijo, ker so super, ampak najboljsto struktur, torej da mi zagotovimo strukturo kvalitetu popolnost teh podatakov in da so te podatki na voljo pač za obdelavo, vizualizacijo odločevalcem in kot epidemiologi na koncu dneva smo potukilo vseeno najbolj za interpretacijo teh kazalnikov in za usmerate kazalniki tanker so potrebni za obvladovanje epidemije, kar ne opozababno je, mi nismo samo generiranje podatkov epidemiologija, je pač Širšarić."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 585.813,
+        "end": 585.83,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 585.83,
+        "end": 586.218,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 593.407,
+        "end": 604.983,
+        "text": "Kolik govori se že o točnosti pa kakovosti teh vdatkov zbranih, ki jih potem tudi posredujejo na prej? Koliko pa dejansko so točni in..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 605.59,
+        "end": 612.138,
+        "text": "Kako vas niti podatki in koliko je napak na podlagi, recimo človeškega faktorja?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 612.256,
+        "end": 680.667,
+        "text": "Ja, seveda, netočnosti, se da vse je od odvisno kvalitet in od vrste zajema.Kar je pa pomembno pri interpretaciji, pa tisto, da morš poznat in klej večinoma vseh nas, ki pozna ter en pozna, kako pride do sploh, do izkije izvorteh podatkov, kakos se generira, kdo utip kavati zadevi, koliko je administrativno, kolko ne?Mi skušamo ta človeški vpliv čim bolj omejitne, ena zadeva, ki nima bomo mogoče nam do včeraj, naj bo pomogočena naslednji teden, je da peka, smo dosegli, z veliko truda, da v PKP šest lahko končno povezujemo našo bazo kovit z drugimi administrativnimi viri podatkov in tle so napake bistveno manjše. To pomeni, da bomo sedaj in bomo bojo tudi, boste tudi opazli mogoče, ko bomo prenovili naslednji teden ta podatek ene popravke za nazaj, ja, ampak so spremljivi zato, ker bomo izboljšali točnost, ne morec občina mogoče bo kakšna strigla, gordoljka prelepoblonarreno ročno, zelo pa iz administrativnih podatkih se je pač povezalo.In to moramo razmišljati, da to, kar ko bo v pršli hitri retigenski testi v široku uporabo, te številke bojo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 655.692,
+        "end": 655.928,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 681.41,
+        "end": 744.151,
+        "text": "Za en čas zagotovo še višje, ne?In v tistem trenutku ne bomo mogli zagotovit generiranje podatkov, ki ga dedelamo z epidemiloškim anketiranjem sedaj, ročno moramo zagotovači in večjo število podatkov iz drugih administrativnih virov, ki jih že imamo na razpolago.In to je tisto, zamujemo več let, zdaj to delamo v največji javnozdravstveni in zdravstvimi krizi sodobnega časa, ampak se trudmo in nismo nismo sami očitno za to, ker so si preklopili takšni najprej centri znotraj našega inštituta, poleg centra za nalezljive bolezni, zdravstno podatkovni center, ki ga vodi medka zaletel, njihova njenakrasta ekipa, naša ekopa mal se tanjša z bolniškimi in višjami silami, ne vemo kaj je kaj to obleče za seboj, v hojtekrat rekli, da mi smo zmožni voditi na epidemijo ortozarat kadrovskih stisk, jenih par tednov, vemo, kak časa jo vodimo sedajtko, da to se vse pozna, ampak smo skupjane za rešitev zabe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 734.431,
+        "end": 734.566,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 744.421,
+        "end": 748.572,
+        "text": "Torej z povezljivostjo teh podatkov računata na njihovo večje zanesljivo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 748.943,
+        "end": 835.833,
+        "text": "Točno tako, tako in tudi zboljšanje njihovih virov in pri nekaterih premembih sprememba nekaj metodologij pa tudi spremembav virov, ne? Recimo bom krv konkreten o umrlihane, boste videli metodološko bo hmalo objavljen, ko bomo to uspeli spremeniti nočem datuma, kar seveda tehnično se nam lahko kaj zaplede, ampak v roku naslednjega tedna upam, da ja bomo predstavljali tudi umrle, ki jih dobimo iz, ne moreš, velinkanja vitalnega statusa in pač kovit pozitivnosti.Tako dela tudi Pavlik Helsingland in vzame tiste smrti, ki so, kjer si zgodijo osemindvajset dni od pozitivnosti kot najverjetneje povezane s covidoma, ne kar je dovolj približno zgubiš, sicer neke smrtiki, so kasneje ujameš notrikačno smrt več, ampak je pomenokrat tisti podatek dnevni oenjagregirani številki, če je ta dvajset, trideset, štirideset javnost zdravstvenost za oskrepanje ni relevanto mi pa moramo viditi večjo sliko.Ta nov sistem naj bo mogočo ugodovit vse smrti, kjer koli so se zgodile doma ali obolnici ali bodo so kjerkoli, bo me v mogoče zadnjih petih dneh, ker še vedno pridelo in je zamude, v teh zadnjih petih dnih bomo to opolnomočili z enim hibridnim sistemom te standardne prijave smrti za nalezljivo bolezen, ki uporabljamo sedaj, to bo eno sistem, ki bo dal en dobr pogled."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 750.074,
+        "end": 750.547,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 836.474,
+        "end": 853.012,
+        "text": "Vrtivano okoli smrti in v klasičnem vprašanju, ki me ga niste še postavila, sem ga vidim neki ozraku.Smrt s covidom, ob covidom nad covidom pod covidom in pri covidu trenutno to je..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 853.518,
+        "end": 866.191,
+        "text": "Polno merjelevantno vprašanje, dete od predstran Evromomo Pika EU, kjer smo isto zdaj v tej naši prenovi stopli skupaj na nejazeju z statem Sirominstitutom na Danskem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 866.765,
+        "end": 910.64,
+        "text": "Kjer imamo, kjer modeliramo presežek umrljivosti celo kupne, celo kopne to pomeni vse smrti nekovič smrte, da moglerh okesu pa zdi zginle ostale smrt, tam noterjavite vse Smrti.Vite, da za modelirano tudi zamude za prijave in vidite, že v zadnji tededen, za katerem imamo analizo narjeno, imate dvajset standardnih odklonov plusa v primerjavi s pričakovanimi smrti v tem obdobju. To je vse, kar je potrebno vediti, če se sprašujemo, čez radi pandemije se umira več v Sloveniji dvajset standardnih od kolonov več, in očitno, kikaj pa je letos različno, ki ni bilo zadnjih pet let, pa mislim, da je vsem jasno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 911.332,
+        "end": 953.738,
+        "text": "Vse ob isto te podatke je tudi statistični urad pred dnevi, predstavo ne, smrna sledena prejšnja leta, ne?Če preidem k vam, Doktor Mošičeva, to tvaretno se strinjate vi, da je zasledilnik izjemnega pomembna, da so te podatki, ki pripezuje na, moram reče, da pomoja zelo fotogeničen način, da se točni. Vi ne črpate podatkov samo od neje za odod vse, kjer so vse vaše baze podatkov in v kolikšni meri se te baze ponadkov med sabo tudi ujemajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 955.072,
+        "end": 985.143,
+        "text": "Res je najprejše pozdravljeni iz moje strani in hvale za povabilo, torej mi črbamo podatki iz različnih virov, čeprav kot je Marjo povedal, se bo to verjetno sedaj vse nekak združilo tudi s pomočjo Nijezeja v nadaljevanju, in sicer smo informacijo o potrjenih primerih dnevnih do nedavnega prijema likar neposrednost inštituta za mikrobiologijo in immunologijo medicinske fakultete Univerze v Ljubljani, sedaj nam te informacij pošilja niz z to se pravi, da smo v tem prehodnem obdobju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 985.733,
+        "end": 1038.94,
+        "text": "Sicer pa recimo informacije o zasedenosti bolnišničnih postelj na intenzivni negi dobivamo neposredno od ministrstva za zdravstvo, dobivam jih tudi neposrebnje kar pri vodjih teh enot intenzive nege in sicer iz trinajstih bolničnic kovit, poleg tega imamo tudi nekaj podatke, recimo tudi mi smo sedaj nedavno objavili graf o presežnih smrtih, kjer smo dobili tudi podatke iz ministrstva za notranje zadeve iz tega centralnega registra prebivalcev in pa zbiramo tudi ponadke iz Ministrstvo za šolstvo o tem, koliko je bilo vkušp v šolah, takrat, so bile še odprte, recimo tudi podatke iz aplikacije ostani zdrav, tudi bi pa omenila še en tak verjetno v prihodnosti, bomo medje tudi podratega oziroma našimi modelerji nekateri imajo tudi že podatki o prisotnosti virusa v odpadnih vodah, ki pa jih dobivamo neposredno iz Nacionalnega inštituta za biologijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1039.48,
+        "end": 1065.012,
+        "text": "Tako da ob isto iz različnih virov črpamo, kakšne je ujemanje kot je Marjoži ob isto povedal vedno pride do kakršnih človeških napak, več ljudi, ki gre čez te podatke lažje jih opazimo in jih popravimo, to je nekaj čisto normalnega, da se priznane pa, kaj se popravi očitno bo prihalo tudi do spremembo v naslednjem tednu dveh, ko bo ta prehod se zgodil, sicer pa tako skrbimo, da je ujemanje čim večje in točnoščin višja in počasi bomo ob isto prišli do."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1065.535,
+        "end": 1068.64,
+        "text": "Do bolj kvalitetnih podatkov, kot je že Marja opovedal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1068.961,
+        "end": 1080.571,
+        "text": "Kako se pa odločite, v bistvu katere podatka, bo te oziroma od izkirih baz boste črpali in koks te recimo pri tem selektivni, verjetno ne morete kar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1081.094,
+        "end": 1081.921,
+        "text": "Od vseh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1082.697,
+        "end": 1087.355,
+        "text": "Vseh podatkov, ki jih mate na voljo, ki lahko najde te odštev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1086.68,
+        "end": 1087.625,
+        "text": "Ja, up."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1088.418,
+        "end": 1191.743,
+        "text": "Bisto tudi ozadi ekipa večjih ljudi, ki je v kontaktu z različnimi ljudmi in iz bolnišnici, z njezeja iz razlišnih raziskovalnih inštitucij in želimo meč in bolj neposreden vir podatkov nekrat ob isto omogoča neko kvaliteto in pa neko konstantno zdaj ves čas so podatki nekak primerljivi, sicer pa ne vem lahko, da izpostavim nek primer ravno te presežne smrti, ne mi smo jih spremljali že nekaj časa znotraj sledilnika, pa ob isto ni smo še dalj teh podatkov javnost, dokler nismo dejansko dobili nekih, smo se tudi skladili z njezve, pa tudi z drugimi deležniki torej z ministrstvom za notranje zadeve in to, in smo dobili najbolj lažurne, najbolje kakovostne podatke in smo se potem recimo odločili po nekaj iteracijah, da gremo s tem grafom, recimo tudi naprej. In to se v bistvu zgodi praktično za vsako vizualizacijo, ko pridemo do nekje točke, da je zanimiva za uporabniki in uporabljice naše spletne strani, torej da lahko glede na to, kar vidijo na podatkih, jim omogočimo boljše razumevanje epidemije in pa ob isto to strezno ravnanje v času pidemirici, mu prilagoditev svojega vedenja in podobno takrat ob isto in ko smo tudi mi zadovoljni z kakovostjo, točnostjo podatkov takrat v bistvu se odločimo za neke prikaze, pri prikazih pa se je pravzaprav, imamo resmo mostrokovnjakve naši ekipi zelo različnih področij od vizualizacij podatko, ki imajo izkušnje drugačni podatki in potem nekak priko debate pogovorov strudimo ugotovit, kaj je najboljši način, da to predstavimo, mal tudi se zgledujemo po recimo košnih tujih spletnih straneh in podobno.Na tem delamo in vedno so tudi dobrodošli pripombe predlogi iz boljšave, ki jih dobivamo recimoimo na naše prikomeje, latvitarja in podobno in se trudimo, bi s tudi sledimo temu toku."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1189.921,
+        "end": 1190.461,
+        "text": "Trudimo bistro."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1192.368,
+        "end": 1220.667,
+        "text": "Zakast se pa sploh lotili tega projekta, sledilnik, mi se vem, da vi ni sta bili med prvimi, ki so skup stopli, ampak je bila recimo v ospredju dobra prezentacija, vizualizacije, ki je morda v tistem trenutku našem prostoru manjkala, pa kakšno obiskarnost imate sploh strani, pa a ste pričakovali, da bo obiso to takšna uspešna zgodba?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1221.325,
+        "end": 1254.822,
+        "text": "Ja, ob isto začetnik sledilnika je ob isto navdušenost nad podatki Luka Renko že je marsikdaj v Čiomedih in predstavljen in kasneje so se mu potem s časoma pridružili še drugi in ta skupina je vedno bolj rasla, res smo iz zlorazličnih strokovnih ozadij in skupaj so potem v tistem času prišli na idejo, da bi postavili spletno stran ob isto bolj po naključju. Na začetku je bila to samo neka razpredelnica, ki mimo gredeta slavnova guglova razporedelnica danes praznuje devetmesečni rojstni dan, ravno devet mesecev jo takrat, ko je bula ustvarjena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1251.228,
+        "end": 1251.667,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1255.193,
+        "end": 1292.774,
+        "text": "No in potem so pač ta skupina, manjša skupin okoli Luka Renka, je prišla na idejo, da se postavi spletno stran in nekaj osnovne vizualizacije za začetek, ki bi, kot sem že prerekla, ne obistopat tudi kar je Marjo reko nekak informirala akcijo oziroma reakcijo nato, ker se nam dogaja, ne?Mi smo verjetnoeli v mislih, saj recimo mojem interesraven sledilnikar je predvsem to predstaviti širši javnosti, torej dejansko ljudem, ker glede na to, da smo mi gostitelji virusa mi lahko z našim vedenjem ta virus tudi zaustavimo in s temi če imaš podatke, tu tveš kako bolje reagiran in in se odzvat na to in kako ustrezno ravnat v tem času."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1293.28,
+        "end": 1319.96,
+        "text": "Sicer pa vizualizacija podatkov je definitivno pomembna, da ljudem predstaviš način bolj enostaven in pa hkrati ne ne prilagajaš podatku oziroma čim bo neposreden prikaz, pri tem bi je opozorila, da se pogostokrat pozabi, da mamomina sledilnikov izpletni strani tudi pogosta vprašanjaje in odgovore, kjer v bistvu opišemo, kajkater podatek je na spletni stranji, od kje smo ga pridobili, kak recimo pomeni potrjen primer, kdaj pomenin ne vem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1320.635,
+        "end": 1323.942,
+        "text": "Število ljudi v bolnišnicah in podobno, kjer ljudje lahko vidijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1324.516,
+        "end": 1333.51,
+        "text": "Zelo jasno, kaj, kakšen podatek je.Sicer pa dnevno obišče našo spletnost ran med osemdeset do sto tisoč uporabnikov in uporabljic."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1334.472,
+        "end": 1337.459,
+        "text": "Čeprav nimam primerjave, je to verjetno ogromna ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1338.505,
+        "end": 1338.59,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1338.59,
+        "end": 1339.855,
+        "text": "Da, kar javast drugmi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1338.623,
+        "end": 1342.927,
+        "text": "Da, kar je jav z drugimi spletnimi stvari v strani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1343.568,
+        "end": 1350.065,
+        "text": "Doktor Cizl, vi pa vsak dan ustvarjate napovedi glede."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1350.655,
+        "end": 1362.552,
+        "text": "Poteka epidemije, zakaj ste se za to odločili pa, zakak je recimo vključujete noto različne variante, zdaj že slavne črke R."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1363.463,
+        "end": 1365.033,
+        "text": "Reproduktijskega števila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1366.585,
+        "end": 1378.55,
+        "text": "Dobro dan, hvala lepa, zavabila za priložnost, ne, se tudi mi smo se zadeve lotil nekak po naključju, no, tam naključijo mogoče mal manjše, ker smo v osnovi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1379.157,
+        "end": 1413.734,
+        "text": "Naša osnovna dejavnost je povezana z jadrskimi objekti in z jadersko varnostjo, ne, in prav zelo dobro razumem tisto, ker je Mariju prej rekel, na te stvari mož bit propravljen prej, ne?Ker takrat, ko se začnejo, ko si začnej odogaja, ne veš, kje se ta glava drži, ne in včasih prav občudujem tiste, ki so v prvih bojnih vrstah, kjer še vedno stojijo in delajo, ne? To je za nas, je to maja lažje. Ampak blispo po naključju pripravljeni kolega Matjaž Leskovak je pač par tednov prej ob bazu, kaj so uhanjo dogaja in je, ker ga te stvari zelo zanimajo nastavo ter prvi model."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1415.0,
+        "end": 1453.542,
+        "text": "In s tem modelom smo začeli, takrat smo seveda pogledali naokol, na kdo to dela, a kdo ne dela, da jim pozanimal smo se, a lahko koristimo komu, odzvala se je takrat vladna skupina za spremljanje virusa dajada, nimajo takšne podpore in debibli zlo veseli, in jo takrat naprej to delamo in seveda obveščamo zraven vsak dan tudi direktno javnost, to je pač v teh časih ta transparentnost in direktni pristop k stvari je pomemben.Zakaj z eri napovedujemo prihodnost, zdaj zelo ponastavljeno povedano, ne, epidemija ima svoje matematične zakonitosti in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1440.532,
+        "end": 1440.802,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1454.048,
+        "end": 1483.023,
+        "text": "Tako nekaj za štirinajst dni naprej smo že definiral, ne?Karkoli danes naredimo se bo poznal štirininkrat pesneje, torej nekak je prvih prva dva tedna sta definirana s tem, kaj si zgodilo tam naprejsko, pa ne vemo čist dober, kakaj bo, ne, ne znamo čist napoaj, kako se bojo vedeli, obnašali, ker te pravzaprav edino, kar je zelo pomembno za nadaljnje razvoj epidemije, torej pokažemo več scenarijev za naprejne, kaj bi se lahko zgodilo, če bi..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1484.558,
+        "end": 1488.119,
+        "text": "Se več srečevali ali maj srećevaline, v tem je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1488.912,
+        "end": 1522.46,
+        "text": "Ta naša napoved, me iščemo pa recimo značilne datume, ne? Recimo zna čilni datumi, ali se uvedejo kakšne ukrepi, torej imamo štirinajst dni kasneji, potem bi se moral to videti na številkah, ali si v času ne, ne vidi se vedno, ne, ali so začne kakršna šola, ali je so kakše razlogi, kjer sumiš, da bo šlo do več združevanja in ti potem v teh datumih projiciramo naprej spremembe, ki jih pa ne znamo oči z dobro napovedat, pravzaprav ne verjamem, da je kdo dobro znan napoveda, kaj se bo zgodilo z konkretnim ukrepom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1523.05,
+        "end": 1527.657,
+        "text": "Kar tudi zdaj se vidi, da obis vtisti ukrepi, ki so ovkrat."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1528.214,
+        "end": 1534.694,
+        "text": "Spomladi določene učinke prinašali jih zdaj v takšni meri, ne, ne sami ukrepi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1535.656,
+        "end": 1549.038,
+        "text": "Ja, je sicer osebno vedno se ukrepom z ugibam, ne? Ljudje smo se takrat obnašali drugače, ukrepi so samo pri pomoček, ne, naše obnaše je tisto, ki pravzaprav definira potekne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1549.426,
+        "end": 1567.82,
+        "text": "Prej ste govorili, da sta ob isto takoj po začetku dogajanja v Vohanu začeli delati prve modele na podlagi kakšnih podatkov, takrat in pa zdaj ob isto na podlagih kakih odkočar pa te zdaj podatke vse na podlage katerih delate vi projekcije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1568.461,
+        "end": 1582.518,
+        "text": "Najraje rečem, da gre za, recimo, mislim, da grede za tri skupine podatkov, ne, eni so seveda tile dnevni podatki, ki nastajajo v Sloveniji, najbolj pomembni so pozitivni testi, naj število ljubolnica in številu mrlih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1583.024,
+        "end": 1614.597,
+        "text": "Ker gre praktično za isti proces, ki se pa v različnih magnitudah, pa v znih časovnih s časonimi samiki pojavlja, ne torej delež tisti, ki so pozitivno testirani s sebo pojavo, nekaj dni krasnejo obornicah, ne, neka od njih se jih bo pojavalo spet v intenzivnih enotah in na žalost, jih tudi nekaj teh umrlo, skratka te relacije, to je drug sklop podatkov, je kakšni deleži ljudi se prestavljajo iz predalčkov predaljček, kot pravijo v tem predaljskem modelom epidemine."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1615.222,
+        "end": 1624.216,
+        "text": "In ti so na začetku bri z literature, ne zdaj se jih da že po tem času tudi z domačih podatkov do nekje mere ocenj, vsaj v uprečju, kaj se dogaja, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1624.958,
+        "end": 1625.38,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1626.055,
+        "end": 1637.986,
+        "text": "Sreda vsi značilni časi epidemije, vkušno zikobacijsko dobrokužnosti to so podatki iz epidemija, potem je pa sredo zelo pomembno, ne, vsak model ima pač svojo..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1638.526,
+        "end": 1656.7,
+        "text": "Množico predpostavk, poenostavitev in omejitev ne in prednosti in tudi te je treba zelo dober razumet, oziroma moramo delar zelo dobr vedeti kaj počne in podatki in praktični podatke so vedno nezenesljivi, ne, modeli so vedo nezenestljivji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1657.493,
+        "end": 1665.357,
+        "text": "Znotri tega potem na koncu prevlada njegova modelarjeva interpretacija tega, kaj vidi in časa ne vidi ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1666.218,
+        "end": 1667.483,
+        "text": "Hm, hm."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1668.597,
+        "end": 1678.756,
+        "text": "Obisvostim sem mal to odgovoril na mojo vprašanje, kako se pač odločate, katero spremenljivko bote noter vnesli v modelacijo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1679.65,
+        "end": 1721.635,
+        "text": "Ja, v neki meri ja, ne zve to še rečejo, to najša rečem, da sta recimo bila, da ta dva ključna cilja, ne recimo naših modelov od začetka prvi je pogruntat ali se epidemija ustavlja ali se ne ne, ta je čist kvaliteto tudi vziroma, kako hitro se ustavla ali kako hitro napreduje čim prej, sva danes iz mrtvih se to da zlo elegantno vide, tam pa nežalost je takrat že pravzobral skor vseeno, a to vidimo, ne, ne. Čim preji torej pozitivni cesti koleg Cezarja je omenila tudi tele, kaj so že odplake v odplaka k svetovemu razmerom zlohi ter vidi neje pa istočasno zelo težko ocenj magnetudo, samo vidiš ali je ali ni ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1715.037,
+        "end": 1715.527,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1721.905,
+        "end": 1724.335,
+        "text": "Kar je zdelo v tem trenutku, seveda je, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1725.348,
+        "end": 1728.976,
+        "text": "Na začetku mogoče bi biblata zadeva zlo uporabne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1729.583,
+        "end": 1749.631,
+        "text": "Skatka gre za ta drugi cilje, pa potem ko vidimo, kam se zadeva pelje o nenehnačin na povedat kaj bo v bolnicah čez en tedni dva tedna, da kolegom v bolnicah vsaj mal damo namiga, ali je treba takoj presel to delknejo, ali jim mogoče še kakšni dan časa o tem smislu?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1750.002,
+        "end": 1753.107,
+        "text": "Kako točne pa so vaše napovedi?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1753.765,
+        "end": 1762.928,
+        "text": "Predvimo v spomladanskem epidemičnem valu, ko sem ogledala, kaj ste napovedali skupno število smrkih seje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1763.502,
+        "end": 1767.974,
+        "text": "Zelo ujemalo s tem, kako se potem razpleto, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1769.071,
+        "end": 1786.098,
+        "text": "Ja, mislim, da so tudi zdaj ne razen sredo tega le teg, to je bilo nenapovedljivo, da bomo več kot od mesecev visele na platojo, ta presenečenje pravzaprav pomaja za vse, no in ta tudi spada na nek način med tiste ključne storike, ki je zlo težko napovedat, ne kda se opazi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1786.621,
+        "end": 1791.211,
+        "text": "Pomer pa gremo s platoja, a ne, ne težko bomo pa napovedal, kako k časa bomo še na platoju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1791.937,
+        "end": 1807.799,
+        "text": "Ne, je pa, recimo, mene je zadnjič razveselil kratek pogovor z njim kolegom Zavnikom nekaj merikuda, da so se zjutraj, da se pogledajo številke naše številke, po svoje števljke pa sva tekelj, malo le, že spet gre po planu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1809.74,
+        "end": 1813.148,
+        "text": "Sej to je nekoliko žalostno, ampak že spet gre po plano, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1815.629,
+        "end": 1823.054,
+        "text": "Glavno, da v teh časih tudi na podlagi takih številk, kaj pozitivnega najdemo, ali kako."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1823.628,
+        "end": 1847.303,
+        "text": "Če smo že pri številkah o tem, da smo zdaj že en mesec na platoju, zanima me, a je to posledica tudi tega, da se v takšni meri, mislim, da se v bistvu, v bistveno večji meri zdaj opravljajo hitri testi?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1848.316,
+        "end": 1851.978,
+        "text": "In nam dajejo več okuženih, ali ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1853.058,
+        "end": 1860.685,
+        "text": "Ne bi rekel vsaj iz teh, kar vidimo iz podatkov, sicer te lehitre testi so razmeroma novi, ampak..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1861.327,
+        "end": 1872.363,
+        "text": "Na prvo žogo ne bi rekel, ne? Zdaj tole po naši oceni je recimo štirikrat več okuženih kot tistih, ki doživijo pozitivni test, neki ga zares vidijo od ponekak."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1861.495,
+        "end": 1862.002,
+        "text": "Prvo žogožbo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1872.548,
+        "end": 1882.319,
+        "text": "In zdaj tile hitri testi verjetno po tej populaciji mal mal merijo, na en kakšne hitre teste zraven prnesijo ali je to zelo pomembno, ali ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1883.078,
+        "end": 1883.956,
+        "text": "Direktu, da ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1885.087,
+        "end": 1886.082,
+        "text": "Gospod Fafangel?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1887.787,
+        "end": 1891.769,
+        "text": "Je netrenutno, so še vedno vseje pisjar potrjene."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1891.938,
+        "end": 1895.549,
+        "text": "Ahani niso še podatki od hitrih testov noter v statistik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1891.955,
+        "end": 1893.203,
+        "text": "Aha, ni, niso še podal."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1895.38,
+        "end": 2041.636,
+        "text": "Nemasovno, hitri testi lahko te sedaj vplivajo le v spislu, da nam pomagajo identificirati nekaj, ki bomo potem pač potrdili s pisjarjem. To trenutno definicija primeraja za ceja bo spremenjena verjetno tudi pondeljek in bomo pač potem nanačli pozitiven hitri antigenjski test z pozitivnim pisjarjem. A pa k javno zdravstveno, kaj si želimo mi, želim testirati vse, a ne in izolirati bolni neih, izoliran deset dni po začetku simptomov, ko pride do pisjarja in dobira rezultat še v dveh dneh in potem še ne vem kdaj, in kot testiramo praktično osebo, ki praktišno za prenos okužbe je skoraj irelevantna, mi mormo dobit oseb tisti dan komal posumi pa še po možnosti tudi če ne posumija, zato Krakovid vemo, da petdeset, šestdeset odstotkov mamo asimptomatskih, pavcih simptomadskih oligosimptomskih vsi taki, ki te mal za boli glava pa se ne zdejo nebošo testirati. Javno zdravstveno ni mormo tukaj le, mi hočmo, mislim lepo, vem, da je namenjena podatku, podatkov tale našo srečanje danes, ampak okej, pa podatki za akcijo ne in bomo videli kaj bo vprašli iz teh testiranja, ampaks testiranje je bolj ko ne javno zdravstveno testiranjem zdi tisto, ki je relevantno ne klinično toliko.Javnozdravstvo najdemo tiste pozitivne kam takoj, jih izoliramo takoj in to je tisto, ki bo omejilo širje, ne to je težnjo k leon pazarje in vsi mi hočmo potem vidi spodatki, ne in potem se pač usmerjat, kje jih uporabiti bolj pametno.Ker bom res izkoristil še, ker sem dobu na zajbe sredo samo za leona pa to zarja pohvvatnema, ta koncept, da je na vseh nas, da ena ljudi, ok, na koncu tisto, ki izmerimo, pa pokne ne na način, da rečeš, da so ljudje odgovorni, a ne, ampak je na vsakemu pozamezniku kako bo ravnal, mi jim pa moramo to mogočiti, javno zdravstvena komunikacija in pristop do ljudi z ne ni nikoli prinesla nič dobrega, ker mi z njeni komuniciramo z bolno osebo, tle komunikacion z zdravimi, ki je čisto nekaj drugih, toda ne ni dobra opcija, medistanco ni dobro opcije, če v fabriki nam moraš med distanco naša dolžnost, je do omogočimo, da si doma, da maš tostoto nadomestilo, da imaš varno delno okolje ne rečt, ne tega ne smeš, ampak ti člok lahko potem s tem to tudi nerdi, ne da mu jo omogoćeno. Javno zdravstveni, delček!"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2042.969,
+        "end": 2046.884,
+        "text": "Ob bistvu pa želite s temi?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2048.183,
+        "end": 2068.113,
+        "text": "Podatki oziroma čim več informacijami transparentnimi, tudi spodbuditi ljudi, da bi se obnašali podgovornost, kako, da b spoštovali te ukrepe, ki dejansko so pomembni za to, da se končata epidemični val."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2070.492,
+        "end": 2071.252,
+        "text": "Jesel leon."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2071.758,
+        "end": 2073.428,
+        "text": "Vas, vprašujem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2074.475,
+        "end": 2128.289,
+        "text": "Ja, ampak le le on bi rekoistovarjavne manje, seveda ne, to je transparentnost, da vidiš kaj se dogaja, da vidiš, da tisto, ki mi svetujemo, je pač smotrno, ne? In ne z nejem, ampaks ne smemo pocenjevat, a ne, pač najprej izčrpanost toliko časa teh ukrepov in ne smejo poceneva, da smo družbena bitja, da si želimo bić zraven nekomuane in najbolj zdej ko bo tudi prišli prazniki, bo ta želja še tolko bolj močna in na svet je seveda bodil tvojem mehurčku, ampak čeprav vemo, krevemo, da ne ni odgovor in vemo, da se nekatere stvari bodo zgodile vseeno, potem pa demo pomagati ljudem in jim povedat, kako to naredit na varen način. Ok, ker epidemološko bo bistveno bolj učinkovito, kokrmet ne eneskrivalnice zaprtih slaboprezlačenih okoljih oseb, ker nismo jim niti povedali kako lahko varno ravnajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2126.77,
+        "end": 2126.787,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2126.787,
+        "end": 2127.074,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2128.711,
+        "end": 2129.437,
+        "text": "Le on poprav me."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2131.613,
+        "end": 2151.02,
+        "text": "Ja, če lahko je sluki ena par številk, bi da dal, mislim, da imam Marijoč iz prav ne in zdaj je pa en pogled na številke, ki mogoče lahku pri tem tudi mal koristi, ne?Tako le rečimo, mimamo približno tisoč petsto potrnjenih pecev na danu v prečju v zadnjem tednu, ne kar je neki mal ga več kot eno na minuto, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2151.88,
+        "end": 2175.877,
+        "text": "In če zdaj upoštevamo, da je, recimo dejansko okuženih, ne vemem štirikrat več, to je nadaljkšna ocena, ne? Mamo upravka z štirimi srečanih zdravega z okuževanjem na minuto v Sloveniji. In po takšnih uspešni sprenosom niso vsa srećanja uspežna s sprenozom tu me je omarjal verjetno lahko po pravu, ne?Torej tekst rečevanja je veliko, zelo veliko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2176.45,
+        "end": 2186.272,
+        "text": "Zdaj ali je, a morjo prita ni treba neti o tem težko sodim, vidim pa iz številk, da jih je štiri na minuto, vsako minuto ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2186.947,
+        "end": 2189.073,
+        "text": "To, mislim, da je dober tukaj dodat."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2189.697,
+        "end": 2202.944,
+        "text": "To opazimo tudi vsi, ki imamo recimo nameščene te sladilnike oziroma nesladilnika, to aplikacijo, aplikracijo in novene nesledi, jahvala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2197.78,
+        "end": 2198.033,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2198.033,
+        "end": 2202.404,
+        "text": "Aplikacijo, aplikacij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2202.944,
+        "end": 2202.978,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2203.197,
+        "end": 2222.485,
+        "text": "Ne sem se pa malnerodno zarekla, tako. Če pa gremo nazaj k sledilniku doktor Muršičeva, v istem izredniču pogovor vdali eno zanimivo tezo, da se bo s hitrimi testi iskalo ta vrh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2223.008,
+        "end": 2226.265,
+        "text": "Ne bo se kazal vrh epidemijamba, da se ga bo iskalo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2226.839,
+        "end": 2228.358,
+        "text": "A sem vas je sprav razumela."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2228.763,
+        "end": 2326.57,
+        "text": "Jaz bom tuki, naj priprostila Marija, ne me popravi, ampak v zadnjem času res se je veliko govorilo o teh antigenskih testih, je zbrekla, da je mogoče pri nas ni še prišla v javnošči spravo razumevanje teh antigenjskih testov, ki bi dejansko služili bolj ko diagnosticiranju prav za prav nekomu presejanju populacije torej nadzor v nadepidemijo, mogoče presejeni najboljša besedana pa k nanih način, še v zdravo populacijo lahko testiramo čim večji del oziroma mogoše na delih Slovenijeale stvari, da imajo lahko varno izolacion, jih lahko na zlo frektačne tega ne bi bilo, da so tudi vzvečali, da je bilo všečo, že bi biljo, da bi bil oblikovati, da se je bilato, da si je bilalo, da ga je bililo, da imajo lahko varno izolacijo, jih lahko nazlo frekventan, torej večkraten in pa hiter način damo v izolacion, ne?In na nek načini bi lahko se potem ta slavni procent delaš pozitivnih testov, čeprav če bi gledali samo antigenska verjetnost niti naj bi bil tako visok, ker bi jih toliko več naredili, bi na ta način to skalo, v kateri govorimo, neko govorim o pozitivnem deležu testov, na dan obisno to skano, ki se nam skriva nekje pod morjem trenutno odkrili, a ne počasi bi jo odkrivali in bi na eno nek načini prišli do tega, da bi ju obvo našli večino ljudi, ki so v določenem obdobju kužni in lahko bolezen širijo naprej, in to je naš cilj, da ustavimo bistvo ta del ljudje, ki širi bolezan. Marija, prosim, če dodalš, ker vsi ti strokovnjak na tem področju?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2324.647,
+        "end": 2324.748,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2326.57,
+        "end": 2432.562,
+        "text": "Ne, perfektno, prefektno povedano zarja si ni iz hri in gnibi prevečan, pa bi sem rekel res je, da najprej uporaba tek testu za širjenje kapacitet, ne, širjanje kapasiteti stranjez občutek je ta, ko gledamo vse seveda zato gledemo potem hospitalizacije in umrljena žalost. Mi tudi platojemo kar nekako s trenutnimi kapacitetami testiranja gledamo od neke našo krivuljo na meter in pol višine, in ne vidmo, kaj se v njej dogaja, ko neki se dogaja tam na štiri metri in polvišina verjetno, ne, in tega ne moremo videti, ne? In zdaj to je širitev kapacitetskihi antigenskimi za ta del, ne tudi simptomatičnih, ampak absolutno to, ker je Zarja rekla, ne? Absolutno, da omogočimo dostopnost, pravočasnost testiranja simptomatskih pavci v praktično vsehanje, k s tem bomo pač to le denogoro videli in bomo dejansko laku vplivali na epidemijo, kar bo, lejte, ljudi, ki bo, če ti imaš pozitiven, hintri antigenjski test in ti nekdo reče, da si pozitivnem velika večina ljudje bostala doma, najbolj čez zagotovljeno, da lahko, da izpad dohodka pokrit, kar je pomenodnimi omogočimo takšnih bojo doma in to bomo najbolj vplivali na potek epidemije.To je tisto, ki si da izgubljamo s tem, da najdemo izven tega okvira ljudi, ki so že skoraj proti koncu kužnosti najbolje relevantno tistih pet dni po začetku simptomov, kjer je in nekaj dnev in neke časa pred začitkom simptomov, kjere si najbolj kužen in najbolje pač lahko širiš, in to moramo ujeti in hitre antigenski lahko najde vmajo svoje omejitve, ampak nekako moramo prestopiti v kontekst javnozdravstvene uporabe teh tekst, so jim da lahko naredijo sprevembo tole in vse ostalo ne še enkrat."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2433.17,
+        "end": 2474.547,
+        "text": "Niso edina stvar, zdraven mamo še pa vse, niste naše načine komunikacije in toda, da nekako omogočemo, da varano ravnaša, da vsak k vsemu se ne bošo testirat, ne, ali pa kakor okoli ne bo pršel, da ravnana način, da namore bit nek super spreder in namore bolje zanj širit naprej, kot da to bo izjemno relevantno je en močen adut, kmamo v rokah, ki moramo zdaj ga pač usmerit pravilno, da bomo skopali to goro ledeno, ki je za temo, katere je govorila Zarja in res potem vplivali, ne ne samo da štejemo in samo gledamo številke, ampak da dejansko javno zdravstveno ukrepamo za neki spremenit."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2475.239,
+        "end": 2493.43,
+        "text": "Doktor Mošičeva je zbival še vprašala glede podatkov in, recimo, dezinformacij ali pa manipulaciji, ki so se, če so se pojavljale na podlagi teh podatkov, jih sledilnik."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2494.24,
+        "end": 2500.18,
+        "text": "Objavlja, ali so se ste to opažali, recimo jesem marsikatere?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2500.838,
+        "end": 2509.985,
+        "text": "Manipulacijo s temi podatki bo opažala na družbenih omrežjih, ko se je želelo zminimalizirati pač pomen novo okuženih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2510.896,
+        "end": 2610.56,
+        "text": "Ja, mislim, ne bi rekel, da gre to točno oblik za podatke sledilnika, kar tako od kosa to podatki, ki jih ima obstonija z ali pa jih je tudi predstavljala vlada, pojaval sejeniki dezinformacije na izmed teh večjih pa mogoče bolj pomembnih tudi za samorezumivanje, kako je skupnost razumela dogajanje, jeila ta ideja o mogoče nižji smrtnosti, ki se je čez poletje in potem septembra zelo veliko pojavljala, ker nekateri podatki mogoše še niso obveči vlavljeni virus, se jim tudi širil po drugem delu populacije in potem vedno vidimo, da obislu pride do starejših in do teh randljivejši populacij, to je ble ena taka in mogoče tu to, ko se je govorilo kaj so prav za prav potrjeni primeri, pa se ji to najdejo, jih, ko so ljudje ne vem razmišljali tudi o tem, da tokrat naključno najdemo ljudi, čeprav se jasno všeč spoudarjalo, koga se testira, mogo če celo malo premalo, tako da to se seveda dogaja, ne?Bi pa je samo menila, da na sledilniku že brez samo meni, imamo pogosto vprašanja, kjer skušamo razložit kajkater podatek pomeni, na vsake toliko časa tudi kakšne interpretacije podajamo, tudi sam imamo nekaj modelerjev v naši skupini, in sicer tudi na naših strani objavljamo recimo napovedi skopine podvozstva Majepuharpermej z Inštituta za biostatistiko in medicinsko informatiko Janeza Žiberta iz zdravstvene fakultete in pa Žige za Plotnika iz Fakultete za matematiko in fiziko, te modeli so tudi dnevno se obnavljajo in dajmo podatke tja, bi bila pri teh modelih, še posebej pri napovedih, ki so daljši od teh dveh tednov, ko je pred mano profesor Cizel omenil ne, zelo previdna, ker če lahko dam samo eno prispodobano, če gledamo vreme."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2611.184,
+        "end": 2691.087,
+        "text": "V napovedi vremena, recimo če je jutri napovetano sonce in nam je svoj ruzak dež, ko se odpravim na sprehod to ne bo vplivalo ali bo jutri deževalo ali ne, ali bojutri sonca ali ne obisvo.Medtem ko, če dam v napovec ven, da čez mesec dni bomo imeli zgolj tristo potrjenih primerov na danu, v bolnišnicah bo samo še petsto ljudi, na intenzivni negi pa lahko pri ljudeh spremeniš vedenje, torej jim daš neko lažno upanje optimizem in ravno to ob isto potem ljudje premislijo, ah pa sej zdaj se gre pa pa lahko druži tudi za prt prostor in med pogovori med ljudmi lahko pride do tega, ah kaj pa ti to skorazno jemlješ, saj čez en mesec bo pa samo še tristo novih primerov, a ne, ampak ker smo ljudje gostitelji virusu, smo točno mi tisti, ki v bistvu vplivamo na tem odelske napovedi, lahko,ko ne in to je ta naključnost negotovo s teh modelov, ki jo moramo upošteva, da smo mitisti akterji nismo neodvisni od modelov ne, nismo ni odvisna spremenilka notri in zato obisno s tem, da z našimi boljšimi odločitvami in ob isto če jim plenujemo preuranje in pretracimo delo, lahko bistvu pride epidemija v nekoč iz drugačno smer in to se je treba zavedat pri tem, ko smo ljudje dejansko akterji in na nek način lahko pa zagotoviš neko bolj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2691.728,
+        "end": 2722.863,
+        "text": "Predvidljivo vedenje je s tem, da imaš jasno začrtano in nedvoumno strategijo, ki jo ob isto izvajališ na dolgi rok, če sta maraton, čez katerega ob isto zdaj gremo, no?Samo to bi, to bi poudala ob isto, da seveda pa vprašanje bilo o dezinformacijah, manipulacijah. Seveda pride do tega, ampak se ob isto trudimo, da čim bolj odkrito predstavljamo in ponujmo interpretacije stvari, ki jih ponujemo in seveda vedno smo na voljo za morebitna vprašanja, morebitne pomisleke, če kdo česa ne razume in se trudimo dobi bilo tega čim manj, seveda pa se temu ne moremo izogniti, kar pa števrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2723.521,
+        "end": 2737.257,
+        "text": "Ta del družbe obstaja, vedno je in zdaj bo še več tega verjetno tudi, se spremljamo vsi, tu cepiva, vem, da to ni pogovor o cepivih, ampak tam bo bistvu treba bita žuren in popravljat možne zmote in podobna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2738.759,
+        "end": 2761.895,
+        "text": "Tam se na tistem področju se žal, bojim, da se nam še več tega obeta, ampak kupam, da morda pa ne tokrat. Doktor Cizel prej kar je Zarjemušič razlagala glede tega, kakšna je nevarnost, kaj lahko s zapovedmi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2762.62,
+        "end": 2779.411,
+        "text": "Dosežemo kontravčinek pri ljudehne, kako se pa vi odločata recimo, kaj boste kot spremni tekst dali ob napovedi, ker včasih recimo lahko znam mogoče en"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2779.968,
+        "end": 2793.991,
+        "text": "Pod ton, da pozivate ljudi k odgovornemu obnašanju in ko naprej. A ma te kdaj ta strah, da bi, recimo z optimistično napovedjo, obisun rdil tak kontrakturalega?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2794.598,
+        "end": 2797.366,
+        "text": "produktivno obnašanje pri ljudeh."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2798.783,
+        "end": 2819.945,
+        "text": "Hvala zelo zanimivo vprašanje, ne, ki je sicer do nekaj mere povezano s podatki, v nepo drugi strani pa lahko takoj odpreva predvseg lovoko filozofsko debato, ne? Zdaj se je še o čistov vsako znanstveno odkritje dalo uporabit v dobre ali slabe namene, ne, dobre in slabe name ni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2816.84,
+        "end": 2817.262,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2820.232,
+        "end": 2846.894,
+        "text": "Kot bi rekel ne, niti dobri niti slabi podatki ne povzročajo širjenja virusa, ne niti dobre pa niti slabe interpretacije tudi ne povočajo vzrošanja virusa.Vse postrinjam s kolegico Doktor Murčičevo, da je pravzaprav te kaj že pravjo temu samo izpolnjive se napovedi, ne so v sociologiji precej znana za dela?To je svoda težava, ne, ki je povedan."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2847.451,
+        "end": 2856.682,
+        "text": "Do neke mere nepremoskljiva, naj ene preupoščena malih osebnim interpretacijam, tako bom rekel nek sreči, je k sreki smo ljudje različni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2857.677,
+        "end": 2868.022,
+        "text": "Ne, in torej različna sporočila razlišnje ljudem razliše stvari pomenijo, zdaj sreči vam tudi razlićne centre sporoščanja, ki niso vsi uradni, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2868.663,
+        "end": 2875.345,
+        "text": "Upam, da dosežemo dovolj velko število ladi vsi skupni in jim poskušamo sporočit, kaj bi lahko bilo za njih dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2875.852,
+        "end": 2913.027,
+        "text": "Ne, zdaj seveda, ker je tudi vsaka informacija ne, ima dobro in slabo plat, dobro en slabo strankovanca, ne bi počkostavo na mizo recimo tole, ne? Seveda so napovedi lahko tipa če se bo zgodilo nekaj oziroma če bomo zelo uspešni, potem smo lahko do konca februarja v zeleni coni in to drži, ta napalve držij, če bodo se resno lotili tega, bomo ves koncu februari v zeleni coni, ampak ali se bomo res lahko tega lotili resno ali ne, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2913.635,
+        "end": 2915.828,
+        "text": "Zato vprašanje pa seveda ne znam odgovor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2916.908,
+        "end": 2925.38,
+        "text": "Ravno ta informacija se da s torej potrečeno v razumet kot in kot grožnja in kot spodbuda, ne pa čudvisno od sprejemnika na žalost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2925.97,
+        "end": 2936.028,
+        "text": "Sicer padkoli, v manipulacijah pravzaprav ne, ne bi rekel, da se je zgodila pri nas kakšna manipulracija, saj bi jo opazljen, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2937.395,
+        "end": 2983.48,
+        "text": "Tale komunikacija okoli teh stvari, okoli pri epidemiji, še posebej takrat, ko smo blivov vzponov, neko smo se podvojevali v približno enem tednu, takrat je bilo izjemno pomembno, da se številke recimo akumentirajo današnji dan danačne naslednji dans nasledne, ker so bile razlike deset procentov, recimo dnevno povečanje v lohrangu deset, dvanajst procentov in včasih počasnih ne smo se pogovarjali potem še na dva, tri dni kasneje o številkah, ali obetek o štelinkah iz modelka, ki so bile že čisto mimo. Se je zanimivo je v tem, ne, zanimivost zadeve je vtem, da je ta eksponentna dinamika s fitrim podvojevanjem med šloveški intuiciji čisto tuja in jih je zato..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2984.51,
+        "end": 2987.902,
+        "text": "Včasih bilo o tem nekoliko težko kovor, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2988.475,
+        "end": 2989.15,
+        "text": "Ja, tudi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2990.062,
+        "end": 3004.355,
+        "text": "Potem kakšne napove točasti zgleda nekolik pretirana, ker si ljudje ne predstavljajo, kaj toda časovene metri ne podvoji, se bo dveh tednih početvilo in v treh tednik smo tako rekoči vsi slovenci ven, potem je to zvoj hiter."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3003.73,
+        "end": 3004.135,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3004.979,
+        "end": 3005.452,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3006.16,
+        "end": 3006.7,
+        "text": "Toliko tem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3007.814,
+        "end": 3008.354,
+        "text": "A, m..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3009.417,
+        "end": 3015.239,
+        "text": "Zde pa bi imela v bistvu še vprašanje, zdaj za vse tri."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3016.387,
+        "end": 3029.718,
+        "text": "A lahko, recimo, zveč vsak dan mi damo v število okuženih številov mrtvih zaradi alpa s kovidom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3030.595,
+        "end": 3060.835,
+        "text": "A nas lahko bi s vsakodnevno to navajanje zgolj statističnih številk nerdi na enočin neobčutljive, nato kaj se pa dejansko dogaja. Recimo zadnjič sem se mogoče jes mal zamisla, ko sem slišala ministra Gantarja, ki je rekel, da mi kar govorimo o petdeset mrtvih na dan, ne zavedamo se pa tega, da jo bi soto cel avtobus ljudi, ki umrejo s kovidom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3063.282,
+        "end": 3066.1,
+        "text": "Ne vem, kdo bi prvu to komentiral."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3067.653,
+        "end": 3086.637,
+        "text": "Lahko začnem, ker je taka nehvaležna tema. Človstvena marsikaj navadi, ne? Jsem po svetu, ko smo se odzivali na druge epidemije, bo le in tako naprej, vidiš, nakaj vse se lahko člok navadi. Ampak ni ni ni normalno, ne, in kajšenkrat ta medijska..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3069.222,
+        "end": 3069.425,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3087.734,
+        "end": 3144.265,
+        "text": "Tko, ne, vsak dan to številko pa je štrdeset, pa je petdeset pa šestdeset prestirata samo številka, ne? Doker te ne dotakne vsebno, dokler ne bomo prešteli vsi ob praznikih alkohol, se bomo spet vsi skupaj najdli tiste prazne stolice, ker bojo z našimi izamine, ne bome odtočno medil občutek, kaj vse to pomeni. Je prav, da so jene številke komunicirane transparentno in dnevno, kar to pomemi, da ni tisti obču teko Slovenije veš, da ko se nekje kej zalomi, potem podatki izgine ne in potem ne veš kaj se dogaja, to se ne sme zgodit, kot da iz tega velika transparentnosti pomembna, le tudi ljudje, no, rrj je ratalo neki vsakdanjega, ne, ker prej smo se učili samo tekon specializacije epidemiologije, tako da trenutno ljude si pričakujejo, da bo jo to vedli, da bodo vidi, da bi o Melino počute kaj se dogaja, ampak ta drugi del."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3123.914,
+        "end": 3123.948,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3144.704,
+        "end": 3155.909,
+        "text": "Da med šestdeset mrtvih na dan je nesprejemljivo in kaj bomo storili, torej iz številk v akcijo, je pa tisto, k namanjke moramo se več od tem pogovarjati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3161.174,
+        "end": 3260.45,
+        "text": "Ja, je lahko še dodaj mno. Mislim, eden izmed meni zelo ljubih znanstvih novinarjev tujih Ed Jank je v septembru napisal bistveniko nekaj razlago kaj se nam dogaja nadbeljtaje družbeni ravni in on je zaključil s to habituacijo z romanavajenostjo na grozo, na nek način, a ne in za vsemi temi številkami, o katerih mi dnevno poročamo so ljudje, so prijatelji, so starši, so otroci nekoga, ne. In to se treba zavedati, seveda sedaj nam dneveno umre ob isto en avtobus ljudi in gre to kar nekako mimo nas, ampak ne smejiš, treba opozorit na to, trebaj tu to pozori, da nekateri ljudje bodo tudi šli čez daljše časovno obdobje, ko bojo obisto spet prihajali k sebi in ob isto šliče sto po bolezni porecim opreživljanju nekaj tednov na intenzivni negi, je si neznam predstavljati, kako je to, ampak verjamem, da je to težko za telo in bojo potem ali tudi dolgotrajne posledice oziroma bo še kar nekdaj časa, obisno to potrajevalo. Ne, pri tem moramo razmišljata o zdravstvenih delavcih in delavkah, ki so v bistvu pod ogromnim pritiskom trenutno in jim je težko in bojo imeli mogoče tudi težavnici mosoštevnim zdravjemu vsemu. Tudi do vseh ljudi v bistju, ki smo na nek način trenutna od malo ločenje ena od drugega in nimamo teh vseh stikov, ne? Vse to je treba razumet, bi se to pandemijo na neki širši ravni, družbeni ravnji in jo postal v ta kontekst in nikakor, se obisoprav zavesno in z razmišljanjem boriti proti temu, da bi se navadili nato, nato kar se nam dogaja ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3261.158,
+        "end": 3286.522,
+        "text": "Ker ni pandemija, ne je sindemija. Je več v pandemiji skupaj ena iz katerih je pandemijna nalezljiva bolezni, druge bo pa duševne nenalezlive vse ker bo ekonomsko zraven piljalo in verjetno bomo, da ne bomo prav tako črnogledi totalno mislimli luč na koncu tunela jecepljenje, bomo verjetno prej zaključili prvo pandemijo nalezljive bolezniki, kar vse ostale pandemije, ki bojo v tej sindimiji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3289.373,
+        "end": 3291.719,
+        "text": "Doktorcijal ste še vi hotel, da ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3292.073,
+        "end": 3303.076,
+        "text": "Ja, če lahko mal dodam besedval za bral zlo strinjam s tem le mogoče samo še dodaten vidik, lahko prnesem ali pododatno svetlitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3304.831,
+        "end": 3319.327,
+        "text": "Torej številke, ne če smo pri številkah, ta trenutek smo pri tam med petdeset še jaz pred mrtvih na dan zaradi kovida, da je k temu dodam, da jo redarcijo dolgoletno slovensko povprečje, ga je približno petinpetdeset smrti na dan."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3320.12,
+        "end": 3331.308,
+        "text": "Ne, sicer je na prvo žogo težko reč, da smo z Kobidom podvojili, ne, ter te statistike majel zamujajo, ampak vsekakor je kovik, ta trenutek pa tisto, kar pišemo na računku kovida."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3323.731,
+        "end": 3324.068,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3331.426,
+        "end": 3338.21,
+        "text": "Daleč najmočnejši vzrok smrti, ne v novembru in bo tudi v decembru, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3338.8,
+        "end": 3347.356,
+        "text": "Kar je še mogoče pri teh številkah, ker opazujemo ne v tem vsaj v javnem prostoru."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3348.115,
+        "end": 3365.311,
+        "text": "Mogoče na nek način doživljamo, tole zanimivo obdobje, k so informacije, ne podatki informacij, so na voljo vsakomur, operiramo z dnevnimi številkami pa nekolik le opazmo, da smo recimo v kompletnem prvem valu, ne, tja do julija zgubili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3366.205,
+        "end": 3371.825,
+        "text": "Ne bom rekel samo, ampak glede na to, kaj se zelo dogaja samo, nekaj več kot sto ljudi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3372.517,
+        "end": 3379.621,
+        "text": "Ne, zdaj smo pa pri novembru na tisoč sto, v decembru bomo pa posebej rednosti prebil tisoš dvesto, v mesecu, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3381.578,
+        "end": 3405.389,
+        "text": "Ko da je ta stvar, da je damo malo perspektivo in tu se recimo misel od Marija ponovim mogoče z nekimi drugimi besedami številke srva, da so nujne za ukrepanje, za razumevanje kaj se dogaja pa za ukrepanje, ne, ampak za javno debato je še povrti bolj pomembna, kaj zanuditi, da se pred tem lahko skrijemo, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3408.578,
+        "end": 3410.418,
+        "text": "Dobro."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3411.38,
+        "end": 3422.483,
+        "text": "Bi zaključila to debato, hvala, ker ste bliz mano ali bi morda kdo hodo še kakšno zakljujočno besedo, je še Kdo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3422.99,
+        "end": 3425.065,
+        "text": "Kaj pojzabo povedat v mestu?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3425.656,
+        "end": 3430.567,
+        "text": "Vidim, da ne. Hvala vam, da ste z mano govorili!"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3431.495,
+        "end": 3434.903,
+        "text": "Hvala tudi vsem, ki ste nas premljali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3435.41,
+        "end": 3447.577,
+        "text": "Esa znanost portal z razpravami nadaljujejo tudi v prihodnjem tednu, tako da vabim, da se nam pridružite in nas tudi spremljate v prihodnje."
+      }
+    ],
+    "runtime_sec": 2214.7176551818848
+  }
+}

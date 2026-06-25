@@ -1,0 +1,496 @@
+{
+  "file_id": "Artur-J-Gvecg-P500002-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500002-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.07796072536116734,
+      "miss": 0.07796072536116734,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 423.0719999999988
+    },
+    "der_collar0.25": {
+      "der": 0.05855844490086291,
+      "miss": 0.05855844490086291,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 396.3219999999988
+    },
+    "wer": {
+      "wer": 0.08469945355191257,
+      "ref_words": 732,
+      "hyp_words": 715
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 1.212,
+        "text": "Lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1.332,
+        "end": 17.269,
+        "text": "Svojih pet minut bom namenila predstavitvi tistih vprašanj, s katerimi se srečujemo o pripravi pravopisa, ki je na Slovenskem jezikovni priročnik z osnovnimi pravopisnimi in pravorečnimi pravili, napotki in priporočili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 18.931,
+        "end": 37.73,
+        "text": "Pri posodobljenem opisu knjižne norme skušamo raziskati vsa tri kodifikacijska merila, ki so jih pred desetletji postavili praški teoretiki knjižnega jezika in se kljub pospešeni jezikovni dinamiki elektronske dobe niso bistveno spremenila."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 38.371,
+        "end": 46.779,
+        "text": "Še vedno je hierarhično najpomembnejše merilo ustaljenost jezikovnih sredstev, torej naše kolektivne navade, naše norme."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 47.479,
+        "end": 55.386,
+        "text": "Na drugem mestu je ocena, v kolikšni meri opazovano jezikovno sredstvo zadovoli funkcionalne potrebe skupnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 56.107,
+        "end": 61.994,
+        "text": "Na tretjem mestu pa je ocena stopne skladnosti z nekim našim jezikovnim sistemom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 62.915,
+        "end": 73.428,
+        "text": "Da vsako skupino porajajočih se normativnih zadrek raziščemo z vseh treh vidikov, nas metodološko postavlja pred različne izzive."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.129,
+        "end": 103.496,
+        "text": "Celovita posodobitev sodobnih knjižno-jezikovnih standardov ni preprosta naloga še zlasti, če se zavedamo, da v Slovenščini letno izide okoli 5000 knjižnih publikacij, ki so najbrž jezikovno pregledane, da se dnevno stiskanimi časnikarskimi viri srečuje skoraj pol milijona bravcev, za registrirano lektorsko dejavnost se je porek urednikov lektorjev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 104.116,
+        "end": 112.378,
+        "text": "V založniških in medijskih hišah poklicno odločilo nad 1700 samostojnih podjetnikov in podjetnic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 113.078,
+        "end": 119.36,
+        "text": "Ti so se šoljali na štirih različnih univerzah pri različnih predavateljih slovenskega jezika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 120.28,
+        "end": 133.623,
+        "text": "Kljub tej pestrosti ustaljenost nekega jezikovnega sredstva v zapisanem jeziku vendarle nekako razmeroma pregledno lahko ujamemo ob pomoči jezikovno-tehnoloških orodij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 134.103,
+        "end": 139.907,
+        "text": "A pravopis na slovenskem ni normativen le zapis, tam več tudi zagovor ne navade."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 140.488,
+        "end": 144.03,
+        "text": "Zato smo v tem delu projekta predprecej bolj zahtevno nalogo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 144.631,
+        "end": 152.356,
+        "text": "Saj naj bi pravopis prinesel predvsem odgovore na vprašanja, kako naj v slovenščini izgovorimo nekatera imena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 152.977,
+        "end": 156.839,
+        "text": "Ali je res pravilno samo Džo ali ne tudi Džev?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 157.66,
+        "end": 165.783,
+        "text": "Ali se dopisnik RTV Slovenija oglaša iz jute ali iz utaha, kot to določa trenutni pravopis?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 166.543,
+        "end": 170.204,
+        "text": "Zakaj portugalec Ronaldo ni Ronaldo in podobno?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 171.025,
+        "end": 176.967,
+        "text": "Izgovor je bistvenega pomena za sklanjanje teh imen in za tvorbo pridevnikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 177.607,
+        "end": 190.616,
+        "text": "Po gosto zalovljenju soglasja med znanjem tujih jezikov in prožnostjo slovenskega sistema nimamo dovolj jezikovno-tehnoloških orodij niti sistematično urejenega zvočnega gradiva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 191.136,
+        "end": 192.197,
+        "text": "Kako si pomagamo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 193.138,
+        "end": 202.884,
+        "text": "Pomagamo si s dostopnimi možnostmi, od posnetkov na YouTube-u do arhivskega gradiva radijskih postaj, ki jih imamo na slovenskem spet več kot 80."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 204.404,
+        "end": 218.585,
+        "text": "Najbrž vse težijo k temu, da bi se radijski govorci za svoj poklic specializirali in izobrazili, a je najbolj izrazita pozornost knjižnemu jezikovnemu kodu posvečena na javni RTV."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 219.406,
+        "end": 235.414,
+        "text": "O poslušanju in primerjanju jezikovnih uresničitev njihovih govorcev opazimo razvito visoko stopnjo odgovornosti do jezikovnih izbir, kar je zagotovo posledica izobraževanja v RTV-jevem središču za kulturo govora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 236.054,
+        "end": 243.978,
+        "text": "Še bolj pa je zanimivo nadaljne individualno kultiveranje lastnega govora pri posameznih medijskih osebnostih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 244.718,
+        "end": 258.533,
+        "text": "Spremljanje radijskega in seveda tudi televizijskega diskurza, ki izraste iz takih osnov, je za normativistično jezikoslovje dragoceno merilo pri ugotavljanju raznolike knjižnojezikovne norme."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 259.906,
+        "end": 280.216,
+        "text": "In prav ta knjižno-jezikovna raznolikost, ki smo jo še pred desetletji opazovali z veliko zadržanostjo, hkrati pa, kakor bi se izrazil član naše pravopisne komisije, Andrej Ermen Skubic, idealizirali visoki red in disciplino, postaja naša realnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 280.696,
+        "end": 294.31,
+        "text": "Dopuščamo razmišljanje, da knjižni jezik ni podoben monolitni skaljni gmoti, temveč bolj prodnati obali, sestavljeni iz množice gradnikov, ki jo oblikujejo različni dejavniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 295.09,
+        "end": 316.808,
+        "text": "In če je še prednednavnim veljalo, da je pri preopisu domeni arhetipske podobe odločnega jezikoslovca, ki to skalo temeljito obdelal knjižni jezik po svoji podobi, naspeščeni prot jezikovne raznolikosti v sedanji dobi odločno opozarja, da je možnosti več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 317.669,
+        "end": 323.234,
+        "text": "Moj knjižni jezik se razlikuje od tvojega, a oba se izražava knjižno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 324.875,
+        "end": 330.838,
+        "text": "Očitno je kritikom našega dela ta misel tuja, a jo moram zato ponoviti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 331.518,
+        "end": 346.366,
+        "text": "V pravopisni komisiji leta 2020 ne moremo več govoriti o kodifikaciji, ki se oblikuje po jezikovnem občutku ali želi družbeno uglednega posameznika ali posameznikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 346.846,
+        "end": 355.988,
+        "text": "Temveč izhajamo iz gradivskih in empirično podkrepljenih raziskav, o katerih se pogovarjamo s strokovno javnostjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 357.268,
+        "end": 361.649,
+        "text": "Saj ta strokovna javnost to kodifikacijo potem uresničuje v praksi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 363.03,
+        "end": 372.912,
+        "text": "Najbrž si moramo večkrat ponoviti tudi, da je knjižna slovenščina danes vitalen in razvit polnofunkcijski jezik v zreli dobi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 375.196,
+        "end": 381.563,
+        "text": "Aktivno jo uporablja največje število govork in govorcev v njeni zgodovini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 382.343,
+        "end": 389.411,
+        "text": "Negledena težavnost naloge moramo sprijeti tudi ne več uniformno podobo tega jezika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 390.212,
+        "end": 394.876,
+        "text": "Zato je pomembno, da se pri razpravi o medijih, predvsem javnih,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 395.497,
+        "end": 416.452,
+        "text": "ki so zavezani k skrbi za ohranjanje jezikovne kulture, povdarja tudi tista vloga, ki odgovorno zrcali jezikovne dogovore in določila, ter tako vpliva na oblikovanje govornih norm v zavesti poslušalcev in poslušalk, ki bodo jutri govorci in govorke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 417.373,
+        "end": 421.315,
+        "text": "Za to ga lahko uporabljamo tudi za kodifikacijsko merilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 421.435,
+        "end": 422.816,
+        "text": "Hvala lepa."
+      }
+    ],
+    "runtime_sec": 44.99366021156311
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.0595123288707351,
+      "miss": 0.0595123288707351,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 423.0719999999988
+    },
+    "der_collar0.25": {
+      "der": 0.0467322026029331,
+      "miss": 0.0467322026029331,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 396.3219999999988
+    },
+    "wer": {
+      "wer": 0.12158469945355191,
+      "ref_words": 732,
+      "hyp_words": 727
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 17.412,
+        "text": "Je po pozdravljeni, svojih pet minut bom namenila predstavitvi tistih vprašanj, s katerimi se srečujemo ob pripravi pravopisa, ki je na slovenskem jezikovni priročnik z osnovnimi pravopsisnimi in pravorečnimi Pravili napotki in priporočili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 18.931,
+        "end": 37.915,
+        "text": "Pri posodobljenemu pisu knjižne norme skušamo raziskati vsa tri kodifikacijska merila, ki so jih pred desetletji postavili praški teoretiki knjižega jezika in se kljub pospešeni jezikovni dinamiki elektronske dobe niso bistveno spremenila."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 38.422,
+        "end": 62.131,
+        "text": "Še vedno je hierarhično najpomembnejše merilo ustaljenost, jezikovnih sredstev torej naše kolektivne navade, naše norme.Na drugem mestu je ocena v kolikšni meri opazovano jezikalno sredstvo za dovolil funkcionalne potrebe skupnosti, na tretjem mestu pa je ocena stopnje skladnosti z nekim našim jezikovnim sistemom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 62.789,
+        "end": 64.257,
+        "text": "Da vsako skupino."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 64.763,
+        "end": 73.623,
+        "text": "Porajajočih se normativnih zadrek raziščemo z vseh treh vidikov, nas metodološko postavlja pred različne izzive."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.163,
+        "end": 84.777,
+        "text": "Celovita posodobitev sodobnih knjižno-izikovnih standardov ni preprosta naloga, še zlasti če se zavedamo, da v slovenščini letno izide."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 85.469,
+        "end": 103.778,
+        "text": "Okoli pet tisoč knjižnih publikacij, ki so najbrž jezikovno pregledane, da se dnevno s stiskanimi časnikarskimi viri srečuje skoraj pol milijona bralcev za registrirano lektorsko dejavnost, se je poleg urednikov lektorjev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 104.302,
+        "end": 119.523,
+        "text": "V založniških in medijskih hišah poklicno odločilo nad tisoč sedemsto samostojnih podjetnikov in podjetnic, ti so se šolali na štirih različnih univerzah pri razlišnih predavateljih slovenskega jezika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 120.232,
+        "end": 121.818,
+        "text": "Skljub tej pestrosti?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 122.408,
+        "end": 133.833,
+        "text": "Ustaljenost nekega jezikovnega sredstva v zapisanem jeziku vendarle nekako razmeroma pregledno lahko ujamemo o pomoči jezikovno tehnoloških orodij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 134.407,
+        "end": 157.002,
+        "text": "A pravopis na slovenskem ni normativen le zapis, ne temveč tudi zagovorne navade.Zato smo v tem delu projekta pred precej bolj zahtevno nalogo, saj naj bi pravopsis prinesel predvsem odgovore na vprašanja, kako naj v slovenščini izgoborimo nekatera imena, ali je res pravilno samo džo ali ne tudi džev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 157.694,
+        "end": 170.367,
+        "text": "Ali se dopisnik RTV Slovenija oglaša izjute ali iz utaha, kot to določa trenutni pravopis?Zakaj Portugalec Ronaldo ni Ronaldo in podobno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 170.941,
+        "end": 174.721,
+        "text": "Izgovor je bistvenega pomena za sklanjanje teh imen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 175.362,
+        "end": 177.1,
+        "text": "In za tvor bo pridevnikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 177.742,
+        "end": 192.322,
+        "text": "Pogosto zalovljenje soglasja med znanjem tujih jezikov in prožnostjo slovenskega sistema nimamo dovolj jezikovno tehnoloških orodij niti sistematično urejenega zvočnega gradiva, kako si pomagamo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 193.081,
+        "end": 203.662,
+        "text": "Pomagamo si s dostopnimi možnostmi, od posnetkov na YouTubeu do arhivskega gradiva radijskih postaj, ki jih imamo na Slovenskem spet več kot osemdeset."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 204.404,
+        "end": 244.145,
+        "text": "Najbrž vse težijo k temu, da bi se radijski govorci za svoj poklic specializirali in izobrazili, a je najbolj izrazita pozornost knjižnemu jezikovnem ukodu posvečena na javni RTV.O poslušanju in primerjanju jezikovnih uresničitev njihovih govorcev opazimo razvito visoko stopnjo odgovornosti do jezikovnih izbir, kar je zagotovo posledica izobraževanja v Ertevejevem središtvu za kulturo gobora.Še bolj pa je zanim, nadaljnje individualno kultiveranje lastnega govora pri posameznih medijskih osebnostih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 244.837,
+        "end": 258.708,
+        "text": "Spremljanje radijskega in seveda tudi televizijskeljega diskurza, ki zraste iz takih odznov, je za normativistično jezikoslovje dragoceno merilo pri ugotavljanju raznolike knjižno-jezikovne norme."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 259.889,
+        "end": 294.533,
+        "text": "In prav ta knjižno jezikovna raznolikost, ki smo jo še pred desetletji opazovali z veliko zadržanostjo, hkrati pa kakor bi se izrazil član naše pravopisne komisije Andrej Ermend Skubic, idealizirali visoki red in disciplinoino postaja naša realnost, dopuščamo razmišljanje, da knjižni jezik ni podoben monolitni skalni gmoti, temveč bolj prodnati obali sestavljeni iz množice gradnikov, ki jo oblikujejo različni dejavniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 295.073,
+        "end": 308.067,
+        "text": "In če je še pred nedavnim veljalo, da je pris preopis v domeni arhitipske podobe odločnega jezikoslovca, ki to skalo temeljito oddel obdela v knjižni jeziki po svoji podobi?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 308.793,
+        "end": 317.011,
+        "text": "Na speščeni protjezikovne raznolikosti v sedanji dobi odločno opozarja, da je možnosti več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 317.568,
+        "end": 320.808,
+        "text": "Moj knjižni jezik se razlikuje od tvojega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 321.517,
+        "end": 323.407,
+        "text": "A oba se izražava knjižno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 324.875,
+        "end": 330.95,
+        "text": "Očitno je kritikom našega dela ta misel tuja, a jo moram zato ponoviti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 331.456,
+        "end": 356.245,
+        "text": "V pravopisniku misiji, leta dva tisoč dvajset, ne moremo več govoriti o kodifikaciji, ki se oblikuje po jezikovnem občutku ali želi družbeno uglednega posameznika ali posameznikov, temveč izhajamo iz gradivskih in empirično podkrepljenih raziskav, o katerih se pogovarjamo z strokovno javnostjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 357.157,
+        "end": 361.814,
+        "text": "Saj ta strokovna javnost to kodifikacijo potem uresničuje v praksi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 362.877,
+        "end": 373.154,
+        "text": "Najbrž si moramo večkrat ponoviti tudi, da je knjiž na slovenšči nadane zvitalen in razvid polno funkcijski jezik v zreli dobi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 375.196,
+        "end": 378.858,
+        "text": "Aktivno jo uporablja največje število govork?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 379.381,
+        "end": 381.642,
+        "text": "In govorcev v njeni zgodovini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 382.233,
+        "end": 394.99,
+        "text": "Ne glede na težavnost naloge moramo sprejeti tudi ne več uniformno podobo tega jezika, zato je pomembno, da se pri razpravi o medijih, predvsem javnih..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 395.513,
+        "end": 406.533,
+        "text": "Ki so zavezani k skrbi za ohranjanje jezikovne kulture, poudarja tudi tista vloga, ki odgovorno zrcali izikovni dogovore in določila."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 407.208,
+        "end": 416.557,
+        "text": "Ter tako vpliva na oblikovanje govornih norm, v zavesti poslušalcev in poslužalk, ki bodo jutri govorci in govorke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 417.282,
+        "end": 421.383,
+        "text": "Zato ga lahko uporabljamo tudi za kodifikacijsko merilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 422.125,
+        "end": 422.969,
+        "text": "Kvaj le lepe."
+      }
+    ],
+    "runtime_sec": 48.70467662811279
+  }
+}

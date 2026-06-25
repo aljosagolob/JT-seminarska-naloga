@@ -9,3 +9,5 @@ python-dotenv
 datasets
 numpy
 noisereduce
+whisperx
+jiwer

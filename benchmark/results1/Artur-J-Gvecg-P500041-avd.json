@@ -1,0 +1,1444 @@
+{
+  "file_id": "Artur-J-Gvecg-P500041-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500041-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.07868561434821386,
+      "miss": 0.077111518914288,
+      "fa": 0.001433608214670867,
+      "confusion": 0.000140487219254997,
+      "total_duration": 1252.7829999999856
+    },
+    "der_collar0.25": {
+      "der": 0.06844481274762275,
+      "miss": 0.06700951359607417,
+      "fa": 0.0013892612542348165,
+      "confusion": 4.603789731376231e-05,
+      "total_duration": 1107.7829999999853
+    },
+    "wer": {
+      "wer": 0.24332443257676903,
+      "ref_words": 2996,
+      "hyp_words": 2568
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1.465,
+        "end": 5.006,
+        "text": "Najprej en lep pozdrav vsem skupaj še z moje strani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 5.306,
+        "end": 11.068,
+        "text": "Me zelo veseli, da lahko sodelujem pri tako pomembni tematiki na tej okrogli mizi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 11.348,
+        "end": 12.448,
+        "text": "Hvala za organizacijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 13.289,
+        "end": 17.83,
+        "text": "Kar se tiče načrta kot z takega, jaz mislim, da je zelo absolutno dobrodošel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 18.25,
+        "end": 20.291,
+        "text": "Evropska komisija je že na začetku"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 20.939,
+        "end": 38.043,
+        "text": "svojega mandata izpostavila oziroma predsednica komisije Ursula von der Leyen je izpostavila boj proti raku kot eno izmed ključnih prioritet in so v bistvu to svojo, bom rekla, obljubo izpolnili potem februarja letos s tem načrtom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 38.183,
+        "end": 40.524,
+        "text": "Zdaj, poleg tega, da sem jaz članica"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 41.324,
+        "end": 52.2,
+        "text": "skupina evropskih poslancev za boj proti raku, sem tudi po novem, recimo da po novem od septembra lani, nadomestna članica posebnega parlamentarnega odbora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 52.9,
+        "end": 55.582,
+        "text": "ki se ukvarja s temi vprašanji, torej z bojem proti raku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 56.243,
+        "end": 69.854,
+        "text": "Ta odbor je sicer začasen, ampak zelo pomemben in že njegova ustanovitev kot taka pove veliko tudi o tem, da je to prioriteta ne le za Evropsko komisijo, ampak tudi za Evropski parlament."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 70.675,
+        "end": 77.801,
+        "text": "Jaz sem organizirala tudi več okroglih miz na to temo in pač preprosto nas je veliko, ki se zavedamo o pomembnosti"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 78.702,
+        "end": 80.103,
+        "text": "te teme."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 80.603,
+        "end": 106.797,
+        "text": "Kar se tiče priprave načrta strani komisije, mi kot evropski poslanci nismo neposredno sodelovali pri tem načrtu, so bili pa v središče posvetovanj postavljene organizacije, ki se neposredno ukvarjajo s temi vprašanji, torej zdravniki z resničnimi izkušnjami, s sreda strokovnim znanjem, pa tudi bolniki z rakom in jaz stvarjamem, da je v bistvu to bilo tisto, kar je"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 107.457,
+        "end": 135.396,
+        "text": "najbolj pripomoglo k celosni sliki, ki je dobra in jaz iskreno upam, čeprav načrt je zelo ambiciozen, ampak je prav, da je in jaz stvarjamem, da ga bomo skupnimi močmi tudi znotraj vseh evropskih institucij in tudi seveda s pomočjo držav članic, da ga bomo pač skupaj dejansko uspeli doseči, ker ključno je preprečevanje in to je tudi najbolje spostavljeno v tem načrtu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 137.242,
+        "end": 141.446,
+        "text": "Lep pozdrav vsem z moje strani in hvala lepa za povabilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 142.387,
+        "end": 152.418,
+        "text": "Prijetno veste, da je Slovenija v prvem predsedovanju prva izpostavila rak kot pomemben zdravstveni problem v Evropski uniji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 153.279,
+        "end": 157.983,
+        "text": "Sedaj s tem državnim EU Beating Cancer Planom se povzemajo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 158.544,
+        "end": 160.345,
+        "text": "stvari, ki so izredno pomembne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 160.806,
+        "end": 168.091,
+        "text": "V Sloveniji, tako informacijo, je pri moškem rak celo na prvem mestu pri pomrljivosti, pri ženskih pa na drugim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 168.512,
+        "end": 169.452,
+        "text": "Tam toliko bo vod."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 169.953,
+        "end": 175.757,
+        "text": "Mi smo lani praznovali deseto obletnico našega državnega programa za obladovanje raka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 176.278,
+        "end": 178.84,
+        "text": "Sedaj imamo petletne plane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 179.26,
+        "end": 189.867,
+        "text": "ki jim zaključujemo leto sta drugi petletni plan in seveda sedaj je v pripravi akcijski plan za leto 2022-2026."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 193.169,
+        "end": 207.879,
+        "text": "Morda na kratko, mi smo v tem desetih letih izredno veliko dosegli, prav na teh področjih, kjer evropski načrt izredno skostavlja, to pomeni primarna preprečevanje in sekundarna preventiva presajanje,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 208.64,
+        "end": 224.793,
+        "text": "Mi smo pri moških, kjer smo zareze znali, da je to v Sloveniji velik problem, dosegli, da se je po letu 2011 incidenca, ta starostno standardizirana incidenca, na katero lahko s preventivnimi ukrepi"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 225.093,
+        "end": 228.115,
+        "text": "proti kroničnim nerezljivim boleznim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 228.196,
+        "end": 238.304,
+        "text": "To je pri nas že od leta 20 so te, na primarnem nivoju te, ta izredno pomembna akcija uspeli, da se ta trend zviševanja incidence znižuje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 238.764,
+        "end": 254.317,
+        "text": "To je sigurno en tak izredno pomemben dosežek, trend, ki se počasi se ne obrne na vzgor, kar ne, ker če je trend na vzdolj, pomeni, da smo na dobri poti pri tem problemu raka pri moških."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 254.877,
+        "end": 258.142,
+        "text": "Po drugi strani pa nekaj tukaj opozorim, preden govorim na"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 259.707,
+        "end": 275.37,
+        "text": "to vaše vprašanje, pa se trend pri ženskih predvsem zaradi kadilskih rakov viša in leta 2016 je prvico zgodilo, da je v Sloveniji umrlo več žensk zaradi raka pluč kot zaradi raka dojke."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 276.05,
+        "end": 288.853,
+        "text": "In to je sigurno en bodoči problem v Sloveniji in ne samo v Sloveniji, tudi v evropski trendi je kadilski raki pri ženskih in tega se bomo mogli loti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 289.775,
+        "end": 307.97,
+        "text": "Seveda izredno veliko smo dosegali na našimi strani EU priporočenimi preseljalnimi programi za rak dojake, debelga črevesa in danke, pa ne bom delja šel v detajlet, verjetno bo še kasneje v tem kakšno vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 308.27,
+        "end": 323.643,
+        "text": "Padla je občutno incidenca za rak, ki je bil v Sloveniji nekoč najbolj pogosti rak pri nas, 1700-1800 novih letno, 400-500 je ta incidenca vsako leto padla."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 324.904,
+        "end": 331.41,
+        "text": "Odkujemo ga prej, izboljšuje se zato priživetje pri vseh teh treh rakih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 331.43,
+        "end": 334.052,
+        "text": "Izredno je tudi padla incidenca raka matričnega vrtu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 334.713,
+        "end": 339.596,
+        "text": "Toliko na kratko, zato sem povzel to naše desetletne uspehe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 340.276,
+        "end": 344.619,
+        "text": "Moram reči, da kot koordinator življenjega programa sem usmerjen predvsem na Slovenijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 345.62,
+        "end": 359.228,
+        "text": "In zdaj, ko delamo ta nov načrt, je izredno dobrodošel za nas tudi seveda ta 3. februarja, ki je bil v Evropskem parlamentu zagon tega EU Bitting Cancer Plan,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 362.776,
+        "end": 375.261,
+        "text": "Pa nekaj področji je, to je bilo vaše vprašanje, kjer področja so tista, ki bomo morali na osnovi tega evropskega dokumenta bolj vključiti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 376.122,
+        "end": 378.783,
+        "text": "Sigurno je to digitalizacija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 379.583,
+        "end": 394.446,
+        "text": "Sigurno je to ta Health Technology Assessment, tudi po slovensko se to reče, agencija za oceno zdravstvenih tehnologij."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 395.026,
+        "end": 399.527,
+        "text": "Ne samo za onkologijo, da takoj to popravim za celo medicino."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 401.988,
+        "end": 406.809,
+        "text": "Potem mi bomo se seveda še dodatno verjetno"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 408.203,
+        "end": 418.996,
+        "text": "Glede na to, kar bo v tem Evropskem planu prišlo, morda še kakšen neopresajalni program, se bomo pa držali tega Evropskega plana, ki je res temeljina dokaze."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 419.736,
+        "end": 421.438,
+        "text": "To je zelo važno tudi za naše"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 424.977,
+        "end": 434.48,
+        "text": "prebivalce, da vejo, da če se nekaj lotimo na nivoju države, mora biti zares v korist ne samo bolnikom, tudi celi populaciji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 434.7,
+        "end": 438.181,
+        "text": "In tega se mislimo mi teh priporočil držati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 438.501,
+        "end": 445.123,
+        "text": "Bojo ta poročila posodobili sedaj v tem evropskem programu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 445.583,
+        "end": 447.263,
+        "text": "Že takoj naslednje leto je ta plan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 449.564,
+        "end": 461.839,
+        "text": "Pri tem, če grem nazaj na to digitalizacijo, je tle zelo ambiciozen načrt in je prav, da je, strani ubitnih penserplenov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 462.558,
+        "end": 469.783,
+        "text": "Mi smo na tem področju začeli že zelo nad tem delati v preteklih petih letih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 470.663,
+        "end": 475.266,
+        "text": "Kot veste, je tukaj nekaj varovanja podatkov, je potrebna ustrezna zakonodaja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 475.366,
+        "end": 484.833,
+        "text": "Mi smo uspeli neko ustrezno zakonodajo v Sloveniji v zadnjih petih letih nekako uspešno zagotoviti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 484.973,
+        "end": 487.595,
+        "text": "Brez te zakonodaje vsa ta digitalizacija"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 488.275,
+        "end": 497.182,
+        "text": "in zbiranje teh podatkov, ki seveda se mora držati na čelo varovanja podatkov, tu je seveda stvar, ki je non plus ultra."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 497.282,
+        "end": 505.529,
+        "text": "Potem, mi imamo veliko tradicij z našim registrom, ki pa seveda leta 50 je bil ustanovljen, ki pa seveda"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 506.365,
+        "end": 511.49,
+        "text": "mora prejti na modernejšo zajem podatko in s tem tudi obdelavo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 512.591,
+        "end": 518.878,
+        "text": "Mi smo pričeli s to tako imenovano aktivno registracijo, ki je izredno pomembna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 518.898,
+        "end": 523.562,
+        "text": "S tem smo pričeli sedaj z odvajanjem kliničnih registrov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 524.303,
+        "end": 552.801,
+        "text": "ker namreč ta tako menovana personalizirana medicina, ki jo ta evropski plan izpostavlja in to je sedaj ta smer, v katero bo šla onkologija, temelji na nekih natančnih vzajemu, na nekih podatkih in v teh klinčnih registrih mi vse te molekularne tarče posameznega tumorja, ki so različne med bolnikami, te stvari, ki morajo biti seveda določene, da mi lahko potem ustrezne ukrepe terapevtske"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 553.261,
+        "end": 558.925,
+        "text": "Ne samo zdravilja, tudi ostali ukrepi so vezani danes že na to molekularno sliko tumorja upravljamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 559.485,
+        "end": 568.611,
+        "text": "Tu smo mi začeljnjamo in seveda digitalizacija onkologije ločenov zdravstvenega sistema smo ugotovili, da ni možna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 568.631,
+        "end": 575.236,
+        "text": "Mi smo naredili analizo in informacijske tehnologije"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 577.223,
+        "end": 578.224,
+        "text": "Najlepša hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 578.284,
+        "end": 584.228,
+        "text": "Jaz na začetku nisem želela biti toliko konkretna, ker sem želela počakati pa potem v nadaljevanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 584.428,
+        "end": 605.625,
+        "text": "Samo z evropskega vidika bi izpostavila mogoče dve stvari ali pa dopolnila sogovornike, ker pač vsi vemo, da so zdravstvene vprašanja oziroma, da je področje zdravstva v pristojnosti seveda držav članic, ampak ravno te trenutne razmere oziroma pandemija nam je vendarle pokazala, da je pomemben tudi evropski vidik oziroma, da je pomembna"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 606.265,
+        "end": 608.246,
+        "text": "zdravstvena unija kot tako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 608.286,
+        "end": 628.515,
+        "text": "Tako da jaz sem želela dve stvari samo izpostaviti in sicer glede ključnega raka oziroma glede kajenja, sem hotela povedati, da je ena od ključnih točk načrta tudi spodbojanje bolj zdravega načina življenja, tudi zmanjšanje kajenja po vsej uniji in seveda tudi redni zdravniški pregledi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 629.635,
+        "end": 633.637,
+        "text": "Tudi odbor, ta posebni parlamentarni odbor BK se osredotoči"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 633.637,
+        "end": 641.163,
+        "text": "konkretno na ukrepe za nadzor nad tobakom, na zmanjšanje debelosti, uživanje alkoholov, nasnežovanje zraka in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 642.043,
+        "end": 657.235,
+        "text": "Seveda tudi na načine podpiranja raziskav, torej mi si želimo dopolnjevat prizadevanja držav članic preko vzpostavljanja lažjega sodelovanja in izmenjavi informacij, tukaj pride prav seveda tehnologija oziroma digitalizacija, v kateri"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 657.515,
+        "end": 660.418,
+        "text": "Je že bilo veliko povedano."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 660.738,
+        "end": 663.501,
+        "text": "Omenjena je bila tudi neenakost glede dostopa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 663.561,
+        "end": 679.036,
+        "text": "Jaz se s tem strinjam, to je res zelo velik problem in v bistvu je glavno sporočilo oziroma slogan, bom rekla, pri zagotavljanju te fizične dostopnosti je ta, da poštna številka ne sme določiti možnosti za preživetje raka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 679.756,
+        "end": 698.35,
+        "text": "To mislim, da je ključno in nažalost je pač pandemija nekako še poslabšala to težavo, ki je že tako ali tako obstajala, ampak jaz verjamem, da bodo tudi pridobljene izkušnje tudi na podlagi zadnjega leta pripomogle k boljši obravnavi in tudi bolj enaki obravnavi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 699.635,
+        "end": 713.145,
+        "text": "Ja, najprej, če ta le poem personalizirana, mečken razčlenimo, da vemo, o čem govorimo, da ne govorimo zdaj v nekem laboratoriju v Vesolju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 713.205,
+        "end": 715.687,
+        "text": "Saj so dva aspekta, ki jih v praksi ločimo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 716.768,
+        "end": 723.012,
+        "text": "En je, da vsak bolnik, oseba, to pomeni, da se ga uravnava,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 724.272,
+        "end": 729.621,
+        "text": "ključno s celostno rehabilitacijo kot osebo in vsak ima svoje probleme."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 729.701,
+        "end": 734.329,
+        "text": "To je na prvem mestu ta personalizirana, ki ga moramo razumeti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 736.844,
+        "end": 743.486,
+        "text": "Zdravljenje, celostna obravnava, paliativa, tukaj ta personalizirana medicina."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 743.866,
+        "end": 759.152,
+        "text": "Seveda mi pa potem se po navadi high-tech razumemo, da ima vsak bolnik sedem različnih zdravil, glede na njegov profil tumorja in bolnika, genetski profil, molekularni profil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 759.712,
+        "end": 761.072,
+        "text": "To je seveda tudi del tega."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 761.912,
+        "end": 762.293,
+        "text": "Če gremo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 763.827,
+        "end": 772.072,
+        "text": "Na prvi del, mi moramo zagotavljati v glede tega enakost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 772.092,
+        "end": 778.115,
+        "text": "Ravno namen državnega programa je, da zagotavlja enakost vsem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 778.215,
+        "end": 779.536,
+        "text": "S katerimi mehanizmi to?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 779.676,
+        "end": 789.902,
+        "text": "Mi moramo kontrolerati obravnavo bolnikov, da vemo, da imajo enako dostopnost do nekega ozdravila na osnovi neke molekularne slike tumorov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 790.422,
+        "end": 812.93,
+        "text": "To sem jaz na začetku omenil, to je v našem programu v teh kliničnih registrih nekako vsebina tega, teh podatkov, vseh seveda potem izmenjujemo, ta podatek je na osnovi pregleda tumorja in krli bolnikov in da vemo, če je tak profil in kontroliramo, če je dobil tako zdravljenje, ne samo zdravilo, ampak zdravljenje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 813.531,
+        "end": 816.992,
+        "text": "In to ne glede, kje živi, ali to v Lendavi ali pa v Piranji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 817.642,
+        "end": 818.082,
+        "text": "To je ena stvar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 818.562,
+        "end": 826.124,
+        "text": "Druga stvar, enakost, ki jo pa že zagotavljamo, in to je, jaz mislim, največji dosežek, so pa te presajalni programi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 826.144,
+        "end": 842.549,
+        "text": "Gledajte, tlele res ni nobene razlike v dostopnosti v visoki srkovni obravnavi tako diagnostik, kot potem zdravljanja, ker spremljamo te intervale, kako časa traja od diagnoze pa do začetka zdravljanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 842.988,
+        "end": 850.035,
+        "text": "In to je ta enakost, ki jo kot posebno po glavi je izpostavlja ta EU Bitting Cancer Plan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 850.836,
+        "end": 853.879,
+        "text": "In mi seveda gledamo enakost v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 854.7,
+        "end": 857.543,
+        "text": "Seveda pa bojo med državami to primere."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 858.163,
+        "end": 866.752,
+        "text": "In te stvari si želimo, da bi mi lahko spremljali, da je to res enakost, ne deklarirali, da je to enakost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 867.797,
+        "end": 884.21,
+        "text": "Druga točka te personalizirane medicine, ki se mi pa zdi enako pomembna, je pa ta, da ima vsak posameznik zelo različne težave, različne posledice zdravljenja, različni značaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 884.43,
+        "end": 891.616,
+        "text": "Potem to celostno obravnavo, ki vodi v različne podporne specialnosti, ki mi nimamo dovolj kadrov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 892.617,
+        "end": 902.341,
+        "text": "enostavno tleni kadrovske, mi bomo zdaj na osnovi tega pilota nekako ocenili, kjer je kadrovske, kjer je kadre in koliko jih bi Sloveniji trebali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 902.361,
+        "end": 917.588,
+        "text": "In to morajo pa institucije nekako specializirati te kadre, seveda brez znanja te kadri niso vredni zelo malo, mislim so vredni, ampak so bistveno bolj vredni in to so te stvari, katere in je ta"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 918.945,
+        "end": 938.163,
+        "text": "področje celostne rehabilitacije, jaz 40 let delam kot klinik, izredno bolj komplicirano kot tisto področje personalizirane, high-tech medicine, kjer je seveda super, da ta znanost gre res naprej z raketno hitrostjo, ampak"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 938.483,
+        "end": 953.933,
+        "text": "Ta del smo do zdaj tudi malo zanemarjali, se strinjam, ampak zdaj se tega lotevamo in to bo treba, ne samo zdravniki, tukaj niso samo zdravniki, veliko drugih profilov tukaj vstopa v ta celostno vravnavo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 954.886,
+        "end": 966.631,
+        "text": "In potem, seveda, kvalitivno skrbo je pa, to je pa tist del, katerega bomo pa vsi potrebovali skoraj, ne, ker namreč vsod je tako, tako nas je Bog ustvarjal, da bomo vsi umrli, a veste, tako, tako in to moramo sprejeti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 966.651,
+        "end": 972.634,
+        "text": "Tako da temu smo se pa najmanj posvetili, ne, morate vedeti, da znanje na tem področju in"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 973.634,
+        "end": 985.278,
+        "text": "Dr. Bregon to velo lepo povedala, mi smo uspeli uvrstiti v klinične specializacije, ampak gledajte, mi smo uspeli en teden uvrstiti, mi smo hoteli vsaj dva tedna te izobrazbiti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 985.378,
+        "end": 989.899,
+        "text": "To je treba skladiti z različnimi zbornico, z ravniškim društvom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 990.279,
+        "end": 993.28,
+        "text": "In smo uspeli, leto dni smo še več na tem delali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 993.44,
+        "end": 1002.703,
+        "text": "Ampak gre o stvari to na preznanje, je tle predpogoj, tudi na tem področju tako imamo personalizirane, a veste mi, tudi to je personalizirana medicina."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1002.963,
+        "end": 1010.961,
+        "text": "Tako da ta personalizirana medzira, dajmo si jo položiti na tako poenostaviti in ti zdel, ki je enostavan, je bistveno bolj zapleten."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1012.227,
+        "end": 1029.05,
+        "text": "Ti zdel, ki gre pa tehnologija in mi smo povezani s tujimi centri onkologij, kaj se dela, mi imamo te laboratorije, ki lahko te preskave molekularne delamo, jih valideramo, te preskave, da so res prave, to je."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1029.25,
+        "end": 1041.392,
+        "text": "Tako, to bi v tem enakost, ne, enakost, personalizirana medicina, pa kaj je v bistvu tega spremljanja kvalitete, kako to delamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1043.513,
+        "end": 1070.002,
+        "text": "Ja, to je zelo pomembno in jaz stvarjamem, da bo tudi v predsedovanju Slovenije sveto Evropske unije to izpostavljeno tako ali drugače, če nič drugega že zato, ker bo med prednostnimi nalogami, to že zdaj vemo, seveda zaradi situacije, da bo postavljeno obvladovanje pandemije v okviru zdravstvenih vprašanj, jaz bi si želela, da bo bolj konkretno izpostavljen tudi boj proti raku in upam, da temu bo tako,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1070.362,
+        "end": 1082.07,
+        "text": "Ideja obstaja glede ponovne ustanovitve Evropskega posvatovalnega telesa za področje zdravstva ravno med slovenskim predsedovanjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1082.09,
+        "end": 1092.238,
+        "text": "Jaz sem govorila s predstavniki Mednarodnega foruma znanstveno-roziskovalnih farmaceutskih družb v zvezi s tem in v bistvu smo že v parlamentu, sem nekako..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1093.261,
+        "end": 1111.462,
+        "text": "začela inicijirati to zadevo pri seveda mojih kolegih tudi v okviru posebnega odbora zdaj vmes, zaradi tega, ker na ministerstvu za zdravje je bil začasni minister zdaj končno, je minister in verjamem, da bodo tudi stekle konkretnejše debate tudi z nami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1111.722,
+        "end": 1125.894,
+        "text": "z evropskimi poslanci in izmenjave mnen in resnično upam, da bo ta plan in implementacija plana in tematika boja proti raku izpostavljena med predsedovanjem Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1128.175,
+        "end": 1132.701,
+        "text": "Ko je prišla epidemija marca, je bil to za nas kršok."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1133.322,
+        "end": 1134.003,
+        "text": "Kaj smo takrat?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1134.023,
+        "end": 1136.566,
+        "text": "Vstavili smo vse tri presajalne programe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1137.627,
+        "end": 1139.089,
+        "text": "Življenje v Sloveniji se je vstavilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1139.169,
+        "end": 1143.335,
+        "text": "Na cesti ni bilo nobenega in takrat smo bili zelo uspešni sicer pri obledovanju epidemije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1144.156,
+        "end": 1149.6,
+        "text": "Samo mi smo se ustrašili, da bo to katastrofa za bolnike z rakom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1150.12,
+        "end": 1162.989,
+        "text": "Mi smo narejeli analizo v našem registru, primerjali smo število diagnoz v UKC Maribor in onkološki, ki pokrivata več kot polovico diagnoz raka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1163.95,
+        "end": 1172.313,
+        "text": "leto prej, spomladi 19 in spomladi 20 in kar 30% je bilo manj diagnoz raka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1172.353,
+        "end": 1176.954,
+        "text": "To pomeni, da bi mogli prijeti rak, ki ni zginil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1177.054,
+        "end": 1178.235,
+        "text": "To je jasno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1179.135,
+        "end": 1181.136,
+        "text": "Ko smo pa to analizo naredili jesen,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1182.06,
+        "end": 1194.725,
+        "text": "Ko pa je življenje, kljub tej grozni, takrat pa je bila grozna epidemija, je kljub temu teklo, ker se nismo več bali, ne, kot populacija, takrat je pa ta odstotek, ta razlika desetprocentna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1195.466,
+        "end": 1200.968,
+        "text": "To je še vedno preveč, ampak kljub temu je vsem boljš kot 30%."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1201.048,
+        "end": 1210.712,
+        "text": "In to, kaj to pove, zdaj ne vem, kako se bo ta COVID naprej razvijal, verjetno noben točno ne ve, ne sam jaz, ki sem onkolog, da bo treba s tem živeti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1211.707,
+        "end": 1222.894,
+        "text": "Ne bo treba s tem živeti in prijeti na tisto prejšnjo, mi z velikimi napori smo prišli do teh izboljšanj, preživetja in vseh teh, kar smo danes govorili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1222.914,
+        "end": 1229.498,
+        "text": "In zdaj, če se bomo mi tako držali, kot je bilo v marcu, bomo mi šli 20, 30 let nazaj na področju onkologije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1230.338,
+        "end": 1233.58,
+        "text": "In mi moramo s tem živeti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1234.22,
+        "end": 1236.382,
+        "text": "Od primarne preventive govorim, zdaj, ljudje,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1239.635,
+        "end": 1249.227,
+        "text": "Preseljalni programi zdaj so delajo, so delali se na vite in delajo in bodo delali, kot seveda zdravljenje in tudi seveda paliativna skrba."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1249.327,
+        "end": 1257.978,
+        "text": "To je nekakšen zaključek, kar zdaj lahko rečem na osnovi teh podatkov, ki pa so realni, tudi objavljeni v mednarodni literaturi."
+      }
+    ],
+    "runtime_sec": 387.4251399040222
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.061339433884398296,
+      "miss": 0.06078147612156146,
+      "fa": 0.0005579577628368363,
+      "confusion": 0.0,
+      "total_duration": 1252.7829999999856
+    },
+    "der_collar0.25": {
+      "der": 0.05332362023970305,
+      "miss": 0.05280546821895529,
+      "fa": 0.0005181520207477637,
+      "confusion": 0.0,
+      "total_duration": 1107.7829999999853
+    },
+    "wer": {
+      "wer": 0.3591455273698264,
+      "ref_words": 2996,
+      "hyp_words": 2557
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1.516,
+        "end": 135.368,
+        "text": "Najprej en lepo zdrav vsem skupaj, še z moje strani, na zelo veseli, da lahko sodelujem pri tako pomembni tematiki na tej okrogli mizi, kvalec za organizacijo.Kar se tiče načrta kot ta, kje ga je smislim, da je zelo absolutno dobrodošel, evropska komisija je že na začetku svojega mandata izpostavila oziroma predsednica komisije Ursov Afanderlain, je izpostavila boj proti Raku kot eno izmed ključnih prioritet in so v bistvu to svojo bom rekla obljubo izpolnili potem februarja letos s tem načrtom, zdaj poleg tega, da sem jaz članica skupina evropskih poslancev za boj proti raku, sem tudi po novem, resimo dopovnovem od septembra lani nadomestna članicja posebnega parlamentarnega odbora, ki se ukvarja s tem vprašanje torej z bojem proti raku, ta odbor je sicer začasen, ampak zelo pomemben in že njegova ustanovitelj kot taka pove veliko tudi o tem, da je to prioriteta ne le za evropsko komisijo, pa tudi za evropski parlament in jaz sem organizirala tudi več okroglih miz na to temo, in pač preprosto nas je veliko, ki se zavedamo pomembnosti te teme.Kar se tiče priprave načrta strani komisije mi kot evropski poslanci nismo neposredno sodelovali pri tem načrtu so bili pa v središče posvetovanj postavljeni organizacije, ki se neposredu ukvarjajo s njimi vprašanji, torej zdravniki z resničnimikušnjami, sveda strokovnim znanjem pa tudi bolniki, z rakom in jaz stvarjamem, da jo bistvu to bilo tisto, kar je najbolj pripomoglo k celostni sliki, ki je dobra in jas skreno upam, čeprav je načrtje zelo ambiciozen, ampak je prav, da je in jaz stvarjamem, da ga bomo s skupnimi močmi tudi znotraj vseh evropskih institucij in tu seveda s pomočjo držav članic, da bi ga bom o pač skupaj dejansko uspeli doseči, ker ključno je preprečevanje in to je tudi najbolj izpostavljeno v tem nečrtu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 136.972,
+        "end": 141.595,
+        "text": "Lepo zdrav sem, da je z moje strani lepa za pogabilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 142.287,
+        "end": 149.527,
+        "text": "Bredno veste, da je Slovenija v prvem predsedovanju prva izpostavila rak kot pomemben."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 150.303,
+        "end": 190.87,
+        "text": "Dravstveni problem v Evropskem uniji, sedaj s tem državnim iubitim tensorplenom je, pa vzemajo stvari, ki so izredno pomembne.V Sloveniji togo informacijo je pri moškem rak celo na prvem mestu po vločili, že bi števrat, ne bi štiri, ne bo štirpski plan za leto dva in dve do šestindvajst."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 191.663,
+        "end": 192.187,
+        "text": "Ee..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 193.013,
+        "end": 243.537,
+        "text": "Morda na kratko, mi smo v tem desetih letih zrednjo veliko dosegelj naprav na teh področjih, kjer evropski načrt izredno skostavlja topomin primarne preprečevanje in sekundarna preventiva presejanja.Mi smo pri moških, ker smo za za reze znali, da je to v Sloveniji velik problem, dosegli, da se po letu enajst incidenta sta starostnost standardizirana incidenta, na katero lahko s preventivnimi ukrepi protikroničnim nezljubim boleznim, to je pri nas že v leto dvajset so te na primarnem nevoju te ta izredno pomembna akcija uspeli, da se ta trend zviševanja incidente znižuje. To je sjo urno en tak izrednopomemben dosežek, trendi se zgodbajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 244.769,
+        "end": 259.096,
+        "text": "Počasi se ne obrnjajo zgor, kar naenkrat četrend navzdol pomeni, da smo na dobri poti pri tem problemu raka pri moških.V drugi strani pa nogi nekrat tukaj opozorim, preden govorim na obdobni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 259.67,
+        "end": 260.378,
+        "text": "To vašje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 261.053,
+        "end": 289.032,
+        "text": "Vprašanje pa se trend pri ženskah, predvsem zaradi kadilskih rakov Viša in leta dva šestnajst je prvico zgodilo, da je v Sloveniji umrlo več žensk zaradi raka Pluč kot za rak, zaradi reka Dojke. To je zgorno en bodoči problem v Slovenij in nesamosloveniji tudi evropski trendi je kadilski raki pri ženskah in tega se bomo moglo lotiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 289.758,
+        "end": 297.858,
+        "text": "Seveda izredno velik smo dosegel na našimi strani EU priporočenimi presajalnimi programi?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 298.617,
+        "end": 344.652,
+        "text": "Za Rak doj, kjer je bil večrevesen in danke, pa da ne bom delal še v detajle, verjetno bo še kasnev tem, kajšnjo vprašanje, padla je občutna incidentca za Rak, ki je bil Večrevesten in Danke, ki bi v Sloveniji nekoč nebel pogosti Rak pri nas, tisoč sedemsto tisko tiso časnost novih primerov letno, tam da štiristo do petsto je ta incidenta vsako leto padla pa izboljšuje se pa tudi odkrijemo ga prej, izboljuje se za to preživetje pri vseh teh trih rakih, izredno je tudi padna incidenta Raka matričnega vratu.Toliko na kratko zato sem povzel to naše desetletne, deset letne uspehe, moram reždža kot koordinator živonega programa, sem usmerjen predvsem na Slovenijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 345.547,
+        "end": 356.819,
+        "text": "In zdaj, ko imamo, kot delamo ta nov načrt, je izredno dobrodošel za nas, tudi seveda ta terjetega februarja, ki bil v evropskem parlamentu, stevijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 357.68,
+        "end": 361.966,
+        "text": "Zdivljanč, zrma zagon tega Pivu bitim kensor plan, kjer..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 362.793,
+        "end": 368.615,
+        "text": "Pa nekaj področij je, to je bilo vaša vprašanja, kjer da podrošja so tista."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 369.155,
+        "end": 384.427,
+        "text": "Ki bomo mogli moral na osnovi tega evropskega dokumenta bolj vključiti, sigurno je to digitalizacija, sigurno je ta heltehnologi asesment."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 385.625,
+        "end": 393.1,
+        "text": "Potrebno je poslovensko se to reče, agencija za oceno zdravstvenih tehnologij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 394.045,
+        "end": 399.614,
+        "text": "Ne samo za onkologijo, da se takoj to popravim z celo medicino."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 400.492,
+        "end": 400.964,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 401.96,
+        "end": 407.14,
+        "text": "Potem mi bomo se seveda še dodatno verjetno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 408.237,
+        "end": 418.953,
+        "text": "Glede na to, kar bo v tem evropskem planu prišlo morda še kakšen nov presajanji program, se bomo pa držali tega evropskega plana, ki res temelji na dokaz."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 419.678,
+        "end": 421.957,
+        "text": "To je zelo važno tudi za naše..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 422.851,
+        "end": 423.593,
+        "text": "Naši..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 424.977,
+        "end": 441.92,
+        "text": "Prebivalci da vejo, da če se neki lotimo na nivoju države, mora biti zres v korist, nesam bolnikom tudi celih populacij in tega se mislimo mi teh priporočil držat, bo jo ta poročila posodobel, sedaj v tem..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 442.713,
+        "end": 447.387,
+        "text": "V tem evropskem programu že takoj naslednje leto je ta plan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 448.315,
+        "end": 448.788,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 449.918,
+        "end": 451.184,
+        "text": "Pri tem, ne vemem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 451.775,
+        "end": 454.053,
+        "text": "Če grem nazaj na to digitalizacijo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 454.93,
+        "end": 455.335,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 455.993,
+        "end": 461.984,
+        "text": "Je tle zlo ambiciozen načrt, sej ni prav, da je strnil v bitni pencer plen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 462.541,
+        "end": 487.786,
+        "text": "Mi smo na tem področju začeli že zlo nad tem delat v preteklih petih letih, kot vesemlet le neki varovanje podatkov je potrebno ustrezne zakonodaja, mi smo uspel neko ustrezno zakonodarjo v Sloveniji v zadnjih petih letih nekak uspešno zagotovit brez te zakonodaje, vsata digitalizacija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 488.309,
+        "end": 496.24,
+        "text": "In zbiranje teh podatkov, ki seveda sem moral držati na čelu varovanja podatko, tu je seveda stvar, ki je non plus ultra."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 496.915,
+        "end": 501.657,
+        "text": "Potem mi imamo veliko trdvico z našim registrom, ki pa seveda."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 502.349,
+        "end": 504.323,
+        "text": "Leta petdeset je bila ustanovljen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 504.931,
+        "end": 505.808,
+        "text": "Ki pa seveda..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 506.365,
+        "end": 519.038,
+        "text": "Mora preid na modernejšo zajem podatkov in se z tem tudi obdelavom, mi smo pričeli s tem to tako imenovalno aktivno registracijo, ki je izredno pomembna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 519.595,
+        "end": 523.713,
+        "text": "V tem smo pričeli sedaj z uvajanjem kliničnih registrov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 524.371,
+        "end": 559.015,
+        "text": "Ker namreč ta tako imenovana personalizirana medicina, ki jo ta evropski plan izpostavlja in to je sedaj tam smer, v katero bo šla onkologija, temelji na nekih natančnih vzajemov, na nekih podatkih in v teh nišnjih registrih mi sem te molekularne tarče posameznega tumorja, ki so različne med bolnik in te stvari, ki morijo biti seveda določene, da mi lahko potem ustrezne ukrepe terapevtske ne samo zdravila, tudi ostali ukrepi so vezani danes že na to molekularnost luka tumorja upravljano."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 558.492,
+        "end": 558.914,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 559.403,
+        "end": 570.423,
+        "text": "To smo mi začenjamo in seveda digitalizacija, onkologije, ločena v zdravstvenega sistema smo ugotovili, da ni možna, mi smo naregnali z analizo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 572.33,
+        "end": 575.485,
+        "text": "In informacijske tehnologije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 577.207,
+        "end": 679.233,
+        "text": "Najlepša hvala je, saj na začetku nisem želela biti toliko konkretna, kar sem želila počakat pa potem v nadaljevanju, samo z evropskega vidika bi izpostavlja mogoče dve stvari ali pa dopolnila sogovornike, ker pač se ji vsi vemo, da so zdravstvena vprašanja oziroma, da je področji zdravnosti v pristojnosti seveda držav članic, ampak ravno te trenutne razmere ozirom pandemija nam je vendarle pokazala, da ji je pomembna do evropski vidika oziri, da jo je pomenna zdravstevna unija kot tak, kot ko daje sem želela dve stvari samo izpostavt in sicer glede ključnega raka oziroma gleda kajenja, sem hočla povedat, da so, da je eno od kljušnih točk načrta tudi spodbujanje bolj zdravega načina življenja, tudi zmanjšanja kajene pa vse uniji in seveda to redni zdravniški pregledi, tudi odbor ta posebni parlamentarni odbor Beka se osredotoča konkretno na ukrepe za nadzor nad tobakom, na zmanjšanje debelosti, uživanje alkoholu, nasložovanje zraka in to naprej. Seveda tudij na načine podpiranja raziskav torej mi si želimo dopolnjevat prizadevanja držav članic preko vzpostavljanja lažjega sodelovanja in izmenjavi informacij, tu ki pride prav seveda tehnologija oziroma digitalizacije, v kateri je že bilo veliko povedano, omenjena je bila tudi neenakost, glede dostopa je s tem strinjam to je res zelo velik problem in v bistvu je glavno sporočilo z roman slogan bom rekla pri zagotavljanju etni fizične dostopnosti, je ta da poštna številka ne sme določiti možnosti za preživetje raka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 679.79,
+        "end": 698.453,
+        "text": "To mislim, da je ključno in nežalostje pač pandemija nekako še poslabšala to težavo, ki ji je že tako ali tako obstajala, ampak jaz verjamem, da bodo tudi pri dobljeni izkušnji tudi na podlagi zadnjega leta pripomogle k boljši obravnavi in tudi bolj enaki obravnavi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 699.668,
+        "end": 700.023,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 701.221,
+        "end": 702.031,
+        "text": "Ne prečeva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 702.689,
+        "end": 712.088,
+        "text": "Tale poen personalizirana mečkanj predštlenmo, da vemo, če govorimo, da ne govorim o zeljevnikem laboratoriju v vesolju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 712.983,
+        "end": 715.801,
+        "text": "Sesa dva, dva aspek takih v praksi ločmo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 716.678,
+        "end": 718.265,
+        "text": "Ene, da vsak bolnik..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 719.092,
+        "end": 719.665,
+        "text": "Oseba."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 721.252,
+        "end": 723.412,
+        "text": "To to pomen, da so ga obravnava."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 724.289,
+        "end": 729.959,
+        "text": "Klušno, s celostno rehabilitacijo kot osebo in vsakma svoje probleme, a vesta, to je ta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 730.668,
+        "end": 734.262,
+        "text": "To je na prvem mestu ta personalizirana, ki ga moramo razumeti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 735.022,
+        "end": 735.427,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 736.861,
+        "end": 738.447,
+        "text": "Zdravljenje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 739.291,
+        "end": 741.181,
+        "text": "Celostno bronava, paliativa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 741.805,
+        "end": 753.382,
+        "text": "Kaj je ta personizirana medicina?Seveda mi pa potem poemem vse ponavadi, kaj tek, razumemo, da ma vsak bolnih sedem različnih zdravil glede na..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 754.242,
+        "end": 761.144,
+        "text": "Njegov profil tumorja in bolnika, ne, genetski profil, molekularni profil to je seveda tudi del tega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 761.836,
+        "end": 763.051,
+        "text": "In če gremo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 763.827,
+        "end": 777.344,
+        "text": "Na tabi na prvi del mi moramo zagotavljati glede tega enakost in prav namen državnega programa je, da zagotava enakosten."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 778.103,
+        "end": 812.933,
+        "text": "Iz kjerimi mehanizmi to mimrmo kontrolirati obravnavo bolnikov, da vemo, da imajo enako dostopnost do nekega recimo zdravila na osnovi nekaj molekulavne slike tumora.To sem v začetku omenu, to je v našem programu v teh plinjšnjih registrih nekak sebinaina tega teh podatkov, ki seveda po tem izmenjujemo ta podatek, ki je pač na osnovi pregleda tumorja in krebulniku in da vemo, če je tak profil in kontroliramo, četobiju tako zdravljenje, ne samo zdravilo zdravlo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 813.473,
+        "end": 816.916,
+        "text": "In to ne glede, kje živi, a je to v Lendavi ali pa v Piran."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 817.658,
+        "end": 842.296,
+        "text": "Druga stvar, enakost, ki jo pa že zagotavljamo in to je smisel največji dosežek, so pa te presajalni programi, le te klele res ni nobene razlike v dostopnosti v visoki strokovni obravnavi tako diagnostik, kot potem zdravljenja, ker spremljamo te intervalje kog časa traja od diagnoze pa do začutka zdravni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 842.988,
+        "end": 850.126,
+        "text": "In to je ta enakost, ki jo kot posebno poglavje izpostavlja ta jujubit in kensarple."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 850.75,
+        "end": 853.973,
+        "text": "In mi seveda gledamo enako z veslovenij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 854.632,
+        "end": 866.731,
+        "text": "Ne, seveda pa bojo med državom to primeril. In te stvari bi si želimo, da bi mi lahko spremljali, da je to res enakost ne deklarirali, že to enakosten."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 867.777,
+        "end": 874.207,
+        "text": "Druga točka te presumelizirane medicine, ki si mu pozdi enako pomembna, enako pomembna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 874.763,
+        "end": 875.995,
+        "text": "Je pa ta..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 876.957,
+        "end": 883.015,
+        "text": "Doma vsak posameznik ima zelo različne težave, razlišne posledice zdravljenost, razničnih značaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 883.842,
+        "end": 917.845,
+        "text": "Ta potem to celostno obravnavo, ki vodi v različne podporne specialnosti, ki mi nimamo dovolj kadrov, bodo enostavno tleni kadrovske, mi mimo zelo nasnovi tega potilota nekak ocenil kire kadrov s kirekadre in koliko je v Sloveniji rabili, in to morajo po institucije nekak teka specializirati kadre, saj le brez znanja te kadri niso vredni zelo mal, mislim so vrednji, ampak so bistveno bolj vredi.In to so te stvari katere in je ta..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 918.942,
+        "end": 921.052,
+        "text": "Področje celostne rehabilitacije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 921.71,
+        "end": 954.042,
+        "text": "Je štirideset delam kot kliniko, jaz sta izredno belj komplicirano kot tisto področje personalizirane hajtek medicine, kjer je seveda super, da to gre ta znanost gre res naprej z raketno hitrostjo.Ampak ta del smo do zdaj tudi mal zanemarjajo s strinjanjem, ampak zese tega lotevamo in to bo treba ne samo zdravniki, cilje niso samo zdraveniki tist, veliko drugih profilov tle vstopa v ta celostno bronavo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 954.869,
+        "end": 966.648,
+        "text": "In potem, seveda, kvalitivno skrbo je pa to je pa ti zdel, v katerega bomo pa vsi potrebovalsko, ne, ker namreč, sodaj tako nas je Boku stvarilo, vsi umrlo, a le te tako in to moramo sprejeti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 967.238,
+        "end": 969.533,
+        "text": "Ko je datemu smo se pa najmanj posvetil, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 970.04,
+        "end": 973.128,
+        "text": "Morda je vede, da znanja ne tem področju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 973.685,
+        "end": 1011.029,
+        "text": "Dotor Bregantava je lepo povedala, mi smo uspel uvrstiti v klinične specializacije, ampak lete, mi so uspel en teden uvrsit, mi svojo hotel vsaj dva tedna te izobrazbe, a res se to je zelo treba skladiti z različnimi zbornici odromniškim društvom in smo uspeli, zdaj leto dni smo še več na tem dele, ampak gre gre ustvaril to napreznanje, jetle pred pogolj tudi na tem področju tako mervanet personalizirane, a veste mi, tri to je personaliziran medicina. Kako ta personalizira medicina, da mu si jo položitna na kot poenostavt in ti zdel, ki je nastavanje bistveno belz zapreten."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1012.227,
+        "end": 1041.438,
+        "text": "A ne, tist del kakrje pa tehnologijo in mi smo povezani s tujimi centri onkologi, kaj se dela, mimamo te laboratorije, ki lahko te preiskave molekularne delamo, izzvalidiramo te preiskaost, ne, enakos, personalizirana medicina pa kaj je obistvo tega sprejemljanja kvalitete, kako to delamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1043.53,
+        "end": 1092.755,
+        "text": "Ja, to je zelo pomembno in je stvarjamem, da bo tudi predsedovanju v Sloveniji svetov Evropske unije to izpostavljeno tako ali drugače, če nič drugega že zato, ker bo med prednostnimi nalogami to zaželez vemo, seveda zaradi situacije, da pa postavlja obvladovanje pandemije v okviru zdravstvenih vprašanj je, bi si želela, da bo bolj konkretno izpostavljen tudi tudi boj proti Iraku in upam, da temu bo tako, ideja obstaja glede ustanovitve ponovne ustanovic tega evropskega posvetovalnega telesa za področje zdravstva, pravno v medslovenskim predsedovanjem, jo sem govorila s predstavniki Mednarodnega foruma Znanstveno raziskovalnih farmacevtskih družb v zvezi s tem in obestvu smo že v parlamentu, sem nekako..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1093.43,
+        "end": 1124.53,
+        "text": "Začela inicirati to zadevo pri sveze mojih kolegih tudi v okviru posebnega odbora, zdaj vmes, trd tega, ker na ministrstvu za zdravje je bil začasni minister zdaj končno, je minister in verjamem, da bodo tudi stekle konkretnejše debate tudi z nami, da z evropskimi poslanci in izmenjavem nen in resnično upam, da bo ta plan in implementacija plana in tematika boja proti Raku izpostavljena med predsedovanjem Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1125.779,
+        "end": 1126.825,
+        "text": "Ja, da."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1128.158,
+        "end": 1143.481,
+        "text": "Ker prišla epidemija marca, je bil to za naskršok.Kaj smo takrat ustavili, smo se ti tri prisajanja programe, življenje v Sloveniji se ustavilo, na cesti ni bilo nobenka in takrat smo bili zlo uspešni sicer pri obvladovanju epidemije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1144.223,
+        "end": 1163.292,
+        "text": "Samo mi smo se ustrašali, da bo to recimo katastrofa za bolnike z rakom.Mi smo nareli analizo v našem registru primerja svojo število diagnos v dveh Ukacamaribor in Onkološki, ki pokrivata več kot polovico diagnoz raka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1164.035,
+        "end": 1175.56,
+        "text": "Leto prej je spomladi devetnajst in spomladih dvajset, in kar trideset procentov je bilo manj diagnoz raka, to pomeni, da bi mogli prijatrak ni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1176.455,
+        "end": 1178.311,
+        "text": "Zginuj, to je jasno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1179.07,
+        "end": 1181.264,
+        "text": "Ko smo pa to analiza nareli jesen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1182.04,
+        "end": 1191.018,
+        "text": "Ko pa je že vljenje kljub tej grozni, takrat pa je bila grozna epidemija, je kljup temu te, kako se nismo več bal, ne kot populacija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1191.71,
+        "end": 1194.747,
+        "text": "Takrat je pa ta odstotek, ta razlika desetprocentna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1195.422,
+        "end": 1197.515,
+        "text": "To je še vedno preveč, ampak kljub temu..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1198.156,
+        "end": 1208.737,
+        "text": "Je vsem boljš kot trideset procent, to in to kaj to pove, zre ne vem, kako se ta kovit naprej razvija, verjetno na oben točno ne ve, nesam jaz, ki sem on kolok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1209.462,
+        "end": 1210.745,
+        "text": "Do bo treba s tem živet?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1211.707,
+        "end": 1229.577,
+        "text": "Da bo sreba tem živet in prijet na tisto prejšnjo, mi z velikimi napori smo prišli do teh izboljšanj, preživetja, Anja in vseh teh, kar smo odnos govorila, ne, je zdaj, če se mu midko državko krepalo marca, bomo mi šli dvajset, trideset let nazaj, na področju onkologij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1230.252,
+        "end": 1231.518,
+        "text": "In mimrmo s tem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1232.598,
+        "end": 1236.614,
+        "text": "Živet, prav. Od primarne preventive govorim, le le prav!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1237.137,
+        "end": 1238.555,
+        "text": "Ljudje, ljudje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1239.635,
+        "end": 1242.942,
+        "text": "Presijalni problemi tudi sodelajo, sodela leseje navite."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1243.465,
+        "end": 1245.052,
+        "text": "In delajo in bodo delali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1245.777,
+        "end": 1257.944,
+        "text": "Kot siveda zdravljenje in tudi apaliativna skrba, to je nekaj zaključek, kar le znes lahko rečem na snovi teh podatkov, ki pa so realni, nato objavljeni v mednarodno literatur."
+      }
+    ],
+    "runtime_sec": 394.87989139556885
+  }
+}

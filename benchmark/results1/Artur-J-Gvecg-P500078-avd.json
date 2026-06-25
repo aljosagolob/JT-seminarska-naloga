@@ -1,0 +1,3232 @@
+{
+  "file_id": "Artur-J-Gvecg-P500078-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500078-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.061396747886808586,
+      "miss": 0.06114249197956684,
+      "fa": 0.0,
+      "confusion": 0.0002542559072417433,
+      "total_duration": 3386.3519999999385
+    },
+    "der_collar0.25": {
+      "der": 0.04541134280763876,
+      "miss": 0.04513982836250269,
+      "fa": 0.0,
+      "confusion": 0.0002715144451360735,
+      "total_duration": 3171.1019999999385
+    },
+    "wer": {
+      "wer": 0.19614353211594943,
+      "ref_words": 7831,
+      "hyp_words": 7233
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1.398,
+        "end": 28.45,
+        "text": "Čeprav je svetovna zdravstvena federacija res že leta 97 opredelila debelost kot kronično bolezen, so zanimivi izsledki lanskoletno objavljene raziskave, ena izmed največjih, ki je naslavljala percepcijo debelosti, kamor je bilo vključenih okrog 12 tisoč oseb z debelostjo in skoraj 3 tisoč zdravstvenih delovcev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 29.09,
+        "end": 41.56,
+        "text": "88 odstotkov zdravstvenih delavcev je upredelila debelost kot bolezen, medtem ko je le 68 odstotkov bolnikov prepoznalo debelost kot bolezen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 42.221,
+        "end": 44.662,
+        "text": "Še bolj zanimivi so potem izsledki,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 45.323,
+        "end": 72.06,
+        "text": "tega znanja o bolezni, kaj dejansko, kako mi to zavedanje o bolezni uporabljamo, ker diagnoza debelosti je imela na to postavljeno le dobra tretjina bolnikov z debelostjo in okrog 20 odstotkov teh bolnikov je bilo v strani zdravstvenih delavcev, ki so sicer deklarirali debelost kot bolezen,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 72.34,
+        "end": 80.562,
+        "text": "Samo 20 odstotkov je bilo deližno neke obravnave, nekega pogovora, nekih kontrolnih pregledov na tem o debelosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 80.682,
+        "end": 98.706,
+        "text": "Tako da, čeprav nekako sprejimamo to vedenje o tem, da je to kronična bolezen, je pa ta informacija še nekaj deleč od nekega funkcionalnega uporabnega znanja, ki bi prevedla tudi v neko ukrepanje, v neko aktivno naslavljanje te bolezni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 100.572,
+        "end": 112.0,
+        "text": "To je zelo zanimivo vprašanje in včasih res, kot kolegica profesor Jenstrle pravi, s pacijenti ne dosežemo pravega soglasja o tem, kaj debelost je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 112.18,
+        "end": 118.244,
+        "text": "Naše gledišče, da je to bolezen, veliko krat trči tudi ob kakšno osebno prizadetost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 118.504,
+        "end": 123.368,
+        "text": "Ljudje vidijo debelost bolj kot estetsko motno, mogoče bolj kot"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 123.708,
+        "end": 140.184,
+        "text": "eno, en rezultat enega življenjskega sloga, dosti krat so v zanikanju, tako da so neredki primeri, ki pravzaprav zdravnik mora dati pacijentu en določen čas, da se s tem sooči."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 140.325,
+        "end": 145.97,
+        "text": "Je pa res, po svetovni klasifikaciji bolezni ima debelost svojo šifro E669,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 147.772,
+        "end": 155.663,
+        "text": "Tako kot ima hipertenzija I10, se ne znam vseh milijonov na pamet, ampak nekaj že, tiste, ki jih po gosteje srečujem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 155.823,
+        "end": 163.935,
+        "text": "Debelost je kronična bolezen predvsem zaradi tega, ker vidimo, da enkratna obravnava debelosti običajno ni uspešna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 164.275,
+        "end": 169.0,
+        "text": "Veliko ljudi poznam, ki mi rečejo, gospod doktor, jaz sem že 50, ki jih shujšal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 169.08,
+        "end": 173.745,
+        "text": "Oseba je še vedno debela in verjamem, da je shujšala in se potem nazaj zredila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 174.206,
+        "end": 179.451,
+        "text": "In tle je ta kontroverznost v gledanju, če rečemo debelost, je moj sovražnik."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 179.511,
+        "end": 180.893,
+        "text": "Zdaj se bom enkrat soočla."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 181.133,
+        "end": 184.654,
+        "text": "Sam pol bo tigar v kletki in je treba skozi paziti, da ne pride spet ven."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 184.734,
+        "end": 187.195,
+        "text": "Skozi ga bo treba mečkeno pomalem krutiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 187.715,
+        "end": 192.656,
+        "text": "To se pravi tudi debelost obravnavat po tem, ko dosežemo ciljno težo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 193.256,
+        "end": 195.417,
+        "text": "Zato je debelost kronična bolezen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 195.757,
+        "end": 206.66,
+        "text": "Da ne govorim o vseh komorbidnostih, sočasnih boleznih, ki debelost spremljajo, lahko gremo tudi čisto od odzuna in oznotr, od bolezni kože do bolezni okostja, celo rak."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 208.353,
+        "end": 226.19,
+        "text": "Žal, ni samo estetska napaka in če pacijent to sprejme, če tudi je to krivica, moja kolegica poje dvakrat toliko, kot jaz, gospodina mi je zadnjič razlagala, grem na kavo, spijem črno kavo, ona si naroči kavo smetano, pa še tortico zraven, pa je taka, pa mene pogledajte."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 226.831,
+        "end": 227.952,
+        "text": "Ja, so krivice."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 227.972,
+        "end": 232.896,
+        "text": "Imamo različne ravni metabolizma."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 233.496,
+        "end": 246.327,
+        "text": "Domač povedano, ene ljudje več pokurijo kot drugi, skozi starost nam to, možnost, da se znebimo kalorij, upada, teže je shujšati, ko si starejši, ampak če tudi je krivica, jo moramo sprejeti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 246.727,
+        "end": 258.894,
+        "text": "Če pa govoriva o tem, kar tudi pogosto slišimo, da je debelost pravzaprav rezultat neke druge bolezni, tu so pa odstotki zelo nizki, mogoče me bo kolegica popravila, mislim, da 5 do 7 procentov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 259.195,
+        "end": 262.517,
+        "text": "Vse ostalo je žal bolezen življenjskega sloga."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 262.577,
+        "end": 264.218,
+        "text": "V prvem približku smo debeli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 264.918,
+        "end": 269.584,
+        "text": "Postanemo debeli, se pridružijo druge bolezni in zavrteti to nazaj je težko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 269.784,
+        "end": 270.625,
+        "text": "Ni pa ne mogoče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 271.045,
+        "end": 275.371,
+        "text": "Vak moramo biti dobro motivirani in predvsem videti problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 275.811,
+        "end": 277.653,
+        "text": "Če ni problema, ni rešitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 278.334,
+        "end": 282.139,
+        "text": "Če to je problem in kroničen problem, ga bomo znali rešiti ali pa reševati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 283.514,
+        "end": 287.717,
+        "text": "Jaz se absolutno strinjam z obima deloma te definicije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 287.997,
+        "end": 297.603,
+        "text": "Treba je res v obravnavaji se zavedati te kroničnosti in same bolezanske definicije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 298.043,
+        "end": 300.164,
+        "text": "Ker zdaj, zakaj govorimo o kronični bolezni?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 300.244,
+        "end": 304.487,
+        "text": "To je nekaj, kar nastaja počasi in kar traja v bistvu doživljensko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 305.047,
+        "end": 311.191,
+        "text": "nastajo počasi kot posledica nekih majhnih kumulativnih odklonov v energijskem ravnovesju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 311.551,
+        "end": 314.453,
+        "text": "Kar pomeni, da pojemo več, kot porabimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 314.874,
+        "end": 322.379,
+        "text": "Ampak mit je, da se v bistvu ljudje z debelostjo res prekomerno hranijo v ogromnih količinah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 322.919,
+        "end": 328.083,
+        "text": "Že če prekršimo, če porušimo to energijsko ravnovesje za manj kot 0,4 odstotka,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 329.684,
+        "end": 338.127,
+        "text": "da porušimo ravnovese, kar pomeni samo 11 kalorij dodatnih dnevno in okrog 4000 kalorij dodatnih na leto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 338.587,
+        "end": 347.029,
+        "text": "To je v celem letu, da pojemo preveč samo 4 pice, ko jih porabimo, pridobimo vsako leto pol kilograma telesne teže."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 347.369,
+        "end": 355.972,
+        "text": "Če pojemo 8 pic preveč v celem letu, je to ena kila več, kar pomeni v desetih letih, da dobimo v bistvu deset kil preveč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 356.532,
+        "end": 359.114,
+        "text": "In potem tudi ta kroničnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 359.434,
+        "end": 381.308,
+        "text": "Že vsi vemo, da smo uspeli shujšati, ampak še večji izziv kot shujšati je potem obdržati to nizko telesno težo, ker so sami prelagoditveni mehanizmi, pa o tem mogoče malo kasneje, naravnani tako, da v bistvu težimo nazaj k relapsu, k recidivu, tako da je to nekaj kroničnega, s čim mora se borimo celo življenje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 381.828,
+        "end": 388.975,
+        "text": "Bolezen, kot je povedala docent Kopča Vargučkova, ima vse karakteristike za bolezen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 389.335,
+        "end": 404.95,
+        "text": "Poznamo etiologijo s dobro opredeljenimi prejemlišči etiologije, poznamo patologijo, vemo, kakšne so morfološke, biološke in organske spremembe zaradi belosti, poznamo zaplete in vemo, da to stani vpliva na prognozo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 405.571,
+        "end": 411.256,
+        "text": "Zdaj, indeks telesne mase nad 30 do 35 skrešuje življenjsko dobo, vsaj za 2 do 4 leta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 411.636,
+        "end": 417.741,
+        "text": "Če je ta indeks povišen med 40 in 50, je ta življenjska doba krajša za 5 do 10 let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 417.781,
+        "end": 428.31,
+        "text": "Tako da debelost ima vse karakteristike bolezni, z jasno definirani posledicami in okrneno prognozo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 431.018,
+        "end": 445.611,
+        "text": "Prepoznanih je več kot 250 genetskih označevalcev, ki so bili povezani z različnimi dejavniki, ki jih uporabljamo za opredelevanje prehranskega statusa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 446.051,
+        "end": 451.356,
+        "text": "Z indeksom telesne mase obsegom pa so visceralnega maščeva, kožne gube."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 451.876,
+        "end": 469.111,
+        "text": "Gre pa za poligensko bolezen, kar je pomembno, da je predvsem pomembna nagnjenost k debelosti, ki jo podedujemo, ali se pa to dejansko razvije, je pa odvisno od številnih drugih dejavnikov obisogenega okolja, vedenja, socialnih dejavnikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 469.531,
+        "end": 477.678,
+        "text": "Tako da nagnjenost podedujemo, ali se bo ta bolezen razvila, je pa seveda odvisno od dejavnika odveganja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 478.1,
+        "end": 503.062,
+        "text": "Tako kot smo že povedali, zelo, zelo redke bolezni, je debelost posledica monogenskih bolezni, imamo tudi take primere in tam je stvar v bistvu enostavnejša oziroma bo enostavnejša poznala, ker za nekatere oblike poznamo že tarčno terapijo, da mi v bistvu lahko s tarčnimi zdravili popravljamo to napako v genu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 503.362,
+        "end": 506.065,
+        "text": "Tiste lahko zdravimo etiološko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 506.605,
+        "end": 525.204,
+        "text": "Večinoma bi pa pomen genetski predispozicije sprepisovala predvsem v tem, da dovolj zgodaj prepoznamo ogrožene ljudi, ki bodo razvili, ki so bolj nagnani k debelosti in da tam začnemo s primarno preventivo res dovolj zgodi od najzgodnejšega otroštva dalje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 525.704,
+        "end": 532.83,
+        "text": "Ni potrebno nekih zapletenih genetskih analiz in sekvencioniran genoma, da to prepoznamo, ker pogledamo družino."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 532.85,
+        "end": 548.084,
+        "text": "Zdaj, otroci debelih oziroma odrastih z debelostjo imajo večjo nagranost k debelosti in to je še posebej krka ogrožena populacija, kjer moramo začeti s primarno preventivo od najzgodnejših let dalje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 550.595,
+        "end": 553.156,
+        "text": "Ja, tukaj gre spet za to, kako gledaš na stvar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 553.356,
+        "end": 570.742,
+        "text": "Pravzaprav že od samega začetka sta problematična, že pri otrocih, prekombeno pri radnih debeljih postane težava, zaradi tega, ker se to, kot je bilo ravno kar večkrat že povdarjeno, se to samo dodaja in slejko prej ta debelost pa vzroča sobolezni od..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 571.402,
+        "end": 579.752,
+        "text": "bolezni srčnožilnega sistema, do bolezni mišično-skeletnega sistema, za okvarami izkratka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 580.133,
+        "end": 588.182,
+        "text": "Slejko prej se to manifestira res z takimi jasnimi težavami, ki takega človeka omejujejo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 588.783,
+        "end": 593.93,
+        "text": "Kdaj se to pojavlja, je seveda malce tudi v bistvu od tega, kako izražena je debelost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 594.17,
+        "end": 599.257,
+        "text": "Ker veste, imamo prekomerno prehranjenost, debelost prve stopne, pa imamo pa ekstremno debelost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 599.597,
+        "end": 604.423,
+        "text": "To so tisti ljudje, recimo, ki se morajo z vozički premikati, ker ne morejo več hodati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 605.945,
+        "end": 616.708,
+        "text": "Pri nas tega, hvala Bogu, še ni, ampak če malo čez ocean pogledamo, vidim pa, da se tam zelo veliko ljudi prevaža, ker enostavno ne more več hoditi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 617.168,
+        "end": 619.948,
+        "text": "Ampak to je samo en del te zgodbe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 620.308,
+        "end": 635.732,
+        "text": "Kot sem rekel, seveda se je tudi na vseh drugih organih debelost odraža in to prepelje do tega, ker je bilo ravno kar pripovedano, da se skrajša naša pričakovana življenska doba za deset, tudi več let, tist, ker je pa še slabše kvaliteta"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 635.932,
+        "end": 657.629,
+        "text": "takega življenja, da se drastično poslabša, ker srčno popuščanje je povezano z debelostjo, kot sem rekel, težave s kletom so hude in taki ljudje niso mobilni, se jim predzaprav lahko najosnovnejše življenske te zadeve so jim skoraj unemogočene."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 657.969,
+        "end": 661.712,
+        "text": "Se pravi, ne more se jih samo umiti, ker ne more niti na noge stopati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 661.973,
+        "end": 662.973,
+        "text": "Tega je ogromen"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 664.315,
+        "end": 684.049,
+        "text": "Sam izvirni greh je pa lahko že v mladosti, pravzaprav že v nosečnosti, če smo čisto skriti, ker seveda prekomerno prehranjene ali pa celo debele mamice, to vpliva na epigenetski razvoj zarodka in toliko hujiš problem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 684.129,
+        "end": 686.711,
+        "text": "V bistvu že pred rojstvom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 687.491,
+        "end": 688.972,
+        "text": "Ja, že takrat se začne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 689.593,
+        "end": 692.895,
+        "text": "Prvi nastavki tega so lahko že pred rojstvom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 695.45,
+        "end": 697.992,
+        "text": "To je pomembno, kar je primarje celci spostavil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 698.392,
+        "end": 703.556,
+        "text": "Kako je treba opredeliti debelost pri posamezniku, te različne stopne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 704.276,
+        "end": 713.783,
+        "text": "Zdaj, mi poznamo tako enostavno definicijo debelosti, ki temeli na nekem priročnem indeksu telesne mase, ki je uporaben v populacijskem smislu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 714.063,
+        "end": 719.045,
+        "text": "In na podlagi tega je definirana debelost, različne stopne debelosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 719.065,
+        "end": 728.589,
+        "text": "Ampak pravzaprav nam ta indeks, ki je zelo priročen za populacijsko uporabo, relativno malo pove o prizadetosti posameznika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 729.049,
+        "end": 736.992,
+        "text": "Tako da tam pa pri upredelovanju debelosti obvezno vsi vključujemo dodatne ocene debelosti,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 737.452,
+        "end": 747.824,
+        "text": "En zelo preprost marker je obseg pasu, ki dodatno, neodvisno od indeksa telesne mase, opredeluje srčno žilj natveganja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 748.285,
+        "end": 757.196,
+        "text": "Zdaj, tukaj je zelo pomembna telesna sestava, kakšne so mišice, koliko je srkopenija, srkopenična debelost, ne gre za srkopenično debelost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 757.516,
+        "end": 766.042,
+        "text": "In potem zdaj težimo kres čim bolj na tančni opredelitvi debelosti, kjer uporabljamo klasifikacijo po Edmundsu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 766.142,
+        "end": 772.387,
+        "text": "To nič drugega ne pomeni kot to, kar smo povedali, da treba pogledati, koliko je dejansko debelosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 773.007,
+        "end": 779.333,
+        "text": "definirana kot prekomerno kopiče vemašaja, ki rezultira v negativnem vplivu na zdravje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 779.794,
+        "end": 794.809,
+        "text": "In zdaj po tej klasifikaciji mi upredelimo, koliko je v bistvu že pridruženih bolezni, koliko je predkliničnih, da javni kot vegan je pridruženih, ki so lahko povezani z debelosti, kako je uvirana funkcionalnost, kako je prizadeta kvaliteta življenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 795.029,
+        "end": 806.874,
+        "text": "In to je tisto, kar dejansko na nivoju posameznika opredeli pravo težo debelosti in potem tudi omogoča neko pravilno izhodišče za pristopati v terapevtskem smislu k takim bolnikom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 806.894,
+        "end": 821.76,
+        "text": "Tako da pogledati moramo res v širšem smislu, opredeliti vse potencialne povezave in posledice, oviranost v funkcionalnosti, kvaliteto življenja in potem naravniti pristop k posamezniku."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 824.392,
+        "end": 839.01,
+        "text": "Obravnava oseb s debelostjo bi se morala začeti na primarni ravni definitivno in prej, kot zaznamo problem, kot smo rekli, prej ga začnemo obravnavati boljše, so izhodne situacije resnici ili ljubo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 839.731,
+        "end": 844.153,
+        "text": "Naše preventivne ambulante so v tekom COVID-a precej zastale."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 844.973,
+        "end": 857.698,
+        "text": "Osebje, ki je malo brise, osebje, ki je cepilo, osebje, ki je cele dneve delalo v skafandrih, v ambulanti za COVID-pozitivne osebe, to je naše osebje, to ni dodatno osebje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 858.098,
+        "end": 862.02,
+        "text": "Mi smo morali naše diplomirane medicinske sestre žrtvovati v sistem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 862.36,
+        "end": 869.903,
+        "text": "zato v resnici naljubov v zadnjih nekaj mesecih ali pa celo v obeh letih so preventivni pregledi zelo zastali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 870.323,
+        "end": 876.386,
+        "text": "Sicer pa je pri osebnem izbranem zdravniku prav ta preventivni vidik zajet v tzv."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 876.986,
+        "end": 891.673,
+        "text": "referenčni ambulanti, kjer diplomirana medicinska sestra, v ambulantijo imamo samo pol, dve ambulanti si delimo eno, torej jaz svoje nimam, nimam svojo srednjo sestro, nimam svoje diplomirane, si jo delim s kolegico,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 891.993,
+        "end": 910.199,
+        "text": "Torej, ti diplomirane sestre izvajajo telesne meritve in s pomočjo tega najbolj uporabljenega inštrumenta, indeksa telesne mase, presejajo vse pacijente, ki so starejši od 30 let, vsaki ambulanti in sporočajo te rezultate svojemu zdravniku."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 910.539,
+        "end": 918.642,
+        "text": "Seveda ne delajo samo tega, da tehtajo in merijo, zmerijo krvni tlak, uporabljajo preventivne razgovore, uporabljajo vprašalnike, ki so prikladni posamezniku"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 918.942,
+        "end": 938.964,
+        "text": "in tako naprej, samo, ja, prva detekcija debelosti je tam, seveda pa usporedno, osebni izbrani zdravnik ravno tako pregleduje pacijente vsak dan, tudi sam lahko zazna spremembe v telesni teži, tako kot je kolegica slikovito rekla, recimo, jaz sem maturirala v tujini in tam se dobimo samo vsakih deset let."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 939.445,
+        "end": 950.531,
+        "text": "Če vsako leto pridobiš en kilogram in prišliš na naslednjo obletnico, deset kilogramov težite skoraj, da že nekdo ne spoznane, pa če rečeš, ah, sej, eno kilo na let, to pa res načni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 950.551,
+        "end": 966.099,
+        "text": "Tako da presejanje, da najdemo tiste ljudi, ki imajo nagnjenost k debelosti, družinski zdravniki imamo edinstveno priložnost, ker veliko krat poznamo več članov iste družine in je to sijajno, ne samo za debelost, tudi za preprečevanje"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 967.576,
+        "end": 977.863,
+        "text": "Tistih bolezni, ki se jih še da preprečiti, recimo tudi sladkorna bolezen, če je genetsko pogojena, lahko marsikaj naredimo, da jo vsaj odmaknemo v starost, če jo že ne moremo čisto preprečiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 978.004,
+        "end": 987.37,
+        "text": "Tako da to je definitivno mesto, kjer bi se moralo dogajati to presejanje in obravnavat debelosti, seveda tudi v šolskih ambulantah, prvi, tretji, peti, sedmi,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 988.231,
+        "end": 1004.28,
+        "text": "razred v osnovni šoli in prvi in tretji letnik v srednji šoli so tudi ti sistematski pregledi, ko pogledamo vse otroke, pravzaprav jih zmerimo, stehtamo in tudi najdemo tiste, ki bi našli obravnavo ravno od kopa, pediatri tudi že zaznavajo te probleme."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1004.56,
+        "end": 1006.542,
+        "text": "Zdaj, na kakšen način se tega lotevamo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1006.962,
+        "end": 1008.723,
+        "text": "Na različne načine."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1008.983,
+        "end": 1013.666,
+        "text": "Tukaj se res, kot ste že rekli, individualno približamo po samezniku, nekateri"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1014.286,
+        "end": 1023.316,
+        "text": "imajo rašče individualno obravnavo, tako mladi rečejo en na enga, da se en zdravnik, en terapevt ukvarja z enim pacijentom ali pa klijentom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1024.637,
+        "end": 1034.088,
+        "text": "V zdravstvenih domovih pa imamo tako zvane centre zakrepitev zdravja, kjer se nudijo številne delavnice brezplačno, ena od njih je"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1035.329,
+        "end": 1036.65,
+        "text": "Delavnica za hujšanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1037.01,
+        "end": 1043.636,
+        "text": "Jaz prihajam iz ene ustanove, kjer mislim, da smo v lanskem letu hujšali okrog tone ali tone in pol."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1043.836,
+        "end": 1055.465,
+        "text": "Nimam točne številke, koliko ljudi je prispevalo te kilograme v to tono in pol, ampak naše profesorice zdravstveno zgove so kar uspešne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1055.685,
+        "end": 1057.046,
+        "text": "Ljudje radi pridajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1057.827,
+        "end": 1061.91,
+        "text": "Nastopiva prva težava, ko se izkaže, da bojo morali aktivno sodelovati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1062.751,
+        "end": 1077.197,
+        "text": "tist sistem, ki ga jaz rado pokažem, tukaj imate zdrav teme, jaz bom čist primer, bi pa kar izvolite, ta sistem pri debelosti odpove, se je res treba motivirati in angažirati, sam mislim, da je vredno, temu posvečamo tudi današnji dan."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1079.947,
+        "end": 1085.092,
+        "text": "Različno in včasih je to res družinska obravnava, ko pride še nekdo zraven."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1085.512,
+        "end": 1096.462,
+        "text": "Pri meni v glavnem so polnoletni ljudje, torej polnoletni otroci in mama dosti krat reče, a smem biti zraven in jaz rečem, to je odvisno, zaradi mene lahko, ampak odvisno je od pacijenta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1096.682,
+        "end": 1103.288,
+        "text": "Zapravo ima on zagotovljeno mojo diskretnost, stvarovanje njegove skrivnosti in če ne dovoli, potem to ni tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1103.588,
+        "end": 1109.67,
+        "text": "Ampak velikokrat, največkrat družinski člani dovolijo prisotnost drugih članov ali pa celo jo želijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1110.21,
+        "end": 1114.132,
+        "text": "In takrat so stvari dosti bolj razumljive."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1114.252,
+        "end": 1123.215,
+        "text": "Izkušnje kažejo, da če nekomu nekaj povemo, on pride doma in pove nekaj drugega, ta drugi razume nekaj tretjega, četrtemu pove nekaj petega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1123.615,
+        "end": 1126.636,
+        "text": "Tako malo se mi zdi, kot včasih, ne vem, če se to igra,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1128.597,
+        "end": 1134.262,
+        "text": "ko sem jaz rekla kozarec, pa v mesto še tri gospe se dela in vi ste slišali palec."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1134.403,
+        "end": 1145.093,
+        "text": "Vsaka vam je malo prikrojila, tako se dogaja, ker kakšne take informacije dajemo tudi družini, da bi pacienta, ki je debel, suportirala, mu pomagala, mogoče krati z njim hušala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1145.253,
+        "end": 1147.373,
+        "text": "To so zelo taki dobri momenti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1147.454,
+        "end": 1166.698,
+        "text": "Nekateri ljudje res te skupinske obravnave, ki je v Centru zakrepitev zdravja, kjer je več pacijentov hkrati, mislim, da tri do pet, niso velike skupine, ampak nekateri ne želijo te obravnave v prisotnosti drugih ljudi z enakimi problemi, sicer takrat celoti imajo individualnih obravnav."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1167.358,
+        "end": 1175.02,
+        "text": "Je pa v Ljubljani tudi nekaj ustanov, ki se s hujšanjem profesionalno ukvarjajo, nekatere med njimi tudi so doseglive z napotnico."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1175.24,
+        "end": 1200.246,
+        "text": "Tako da obravnava debelosti mora biti najprej res usmerjena k ugotavljanju stanja, ki je sključevanje v teh možnostih, da gre za boleznsko debelost iz tih nekaj procentov, ne vem, če rečem, bolezni nadledvične žleze, kušingova bolezna, recimo, je zaradi bolezni človek debel in ko ciljno zdravimo osnovno bolezn, z debelostjo sploh ni problema, ker je povzročena z enim konkretnim vzrokom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1201.206,
+        "end": 1205.087,
+        "text": "Drugače pa čisto določene laboratorijske preiskave moramo narediti"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1205.227,
+        "end": 1209.071,
+        "text": "napraviti meritve in si zastaviti cilje, ki so realni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1209.551,
+        "end": 1213.094,
+        "text": "Seveda, nekdo bi razhojšal 10 kil na mesec, ne bo šlo tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1213.715,
+        "end": 1222.023,
+        "text": "Cilji morajo biti prvič merljivi in drugič realni, ker če si zastavimo nerealne cilje in jih ne dostegamo, potem smo samo še bolj obupani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1222.203,
+        "end": 1242.92,
+        "text": "Jaz sem že kar nekaj ljudi spremljala skozi to v Centru za krepitev zdravja, tudi na potim pacijente v kliniko zahujišanje, ampak moram reči v končni fazi, da videvam, tako kot je bilo že danes rečeno, da so najboljše oblovnave multidisciplinarne, tam, kjer se nas loti problema več."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1243.16,
+        "end": 1245.422,
+        "text": "Mogoče rabimo tudi fizioterapevta v timu,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1245.642,
+        "end": 1247.743,
+        "text": "Lahko pomaga tudi patronažna sestra."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1248.143,
+        "end": 1259.169,
+        "text": "Farmaceuti v lekarni definitivno so dobri svetovalci za kakšne stvari, ki se tičejo tudi debelosti, tudi če gre za kakšne preparate, ki niso nujno na recept."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1259.469,
+        "end": 1261.33,
+        "text": "Potem so tukaj psihologi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1262.031,
+        "end": 1264.552,
+        "text": "Debelost pušča grde posledice na duši."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1264.852,
+        "end": 1266.153,
+        "text": "Tem še nismo govorili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1266.193,
+        "end": 1273.597,
+        "text": "Jaz sem malo omenila stigmatizacijo, ki je zelo ena blaga stvar v primerjavi z depresijo, v primerjavi z motnjami hranjenja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1273.857,
+        "end": 1280.459,
+        "text": "primerjavi slabo samopodobo, primerjavi z demenco, ki je dokazano povezana s debelostjo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1280.899,
+        "end": 1288.482,
+        "text": "Tako da tukaj rabimo en širši tim in večja kot nas je mreža, ki stojimo nevidno okrog tega pacijenta, boljši bo šlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1288.902,
+        "end": 1292.523,
+        "text": "In družina, kot ste sami rekli, je zelo pomemben dejavnik v tej obravnavi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1295.373,
+        "end": 1304.498,
+        "text": "Glede na prevalentnost te bolezni, jaz mislim, da ne moramo večkrat povdarjati in da za to še enkrat povdarjam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1305.439,
+        "end": 1311.282,
+        "text": "Bolezen je zelo prevalentna, ker pomeni, da je obravnava stopenska na vseh nivojih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1311.522,
+        "end": 1317.125,
+        "text": "In glavni del piramide znotraj zdravstvenega sistema je vsekakor primarni nivo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1317.946,
+        "end": 1330.373,
+        "text": "Tukaj se razvijo res, zdaj žal za stal, zaradi epidemije, ampak druga centri zakrepitev zdravja in res ta ključna vloga družinskih zdravnikov, zaradi vsega, kar smo slišali danes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1330.433,
+        "end": 1337.597,
+        "text": "Jaz bi celo perspektivo še razširila izven zdravstvenega sistema pri obravnavi debelosti, to je v bistvu"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1337.797,
+        "end": 1357.163,
+        "text": "bolezen družbe, tukaj je treba vključiti zdravstvo vzgojne izobraževalne ustanove, tudi arhitekte, treba narediti mesta, da ne bomo šli v shopping mall, da se bomo sprehodili s kolesom od pekarne do mesarja, da bomo s ljudmi govorili, da se bomo družili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1357.563,
+        "end": 1361.945,
+        "text": "Potem seveda odločevalce politike, prehransko industrijo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1362.265,
+        "end": 1367.227,
+        "text": "Zanimiva sem desetki raziskav, zakaj se debelost splača iz Amerike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1367.427,
+        "end": 1374.91,
+        "text": "Danes v povprečju je ameriški otrok težji za pet kilogramov kot je bil leta 1976."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1375.31,
+        "end": 1386.194,
+        "text": "Že samo za zadovoljitev bazalnih potreb metabolizma na plus pet kilogramov, porabijo 400 dolarjev na leto ved, samo za osnovno prehranevanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1386.574,
+        "end": 1389.235,
+        "text": "Iz debeljih otrok rastejo debeli otroci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1389.535,
+        "end": 1390.136,
+        "text": "Odrasli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1390.156,
+        "end": 1393.879,
+        "text": "Odrasli, ker pomeni, da se zaslužek tukaj vrti naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1394.02,
+        "end": 1398.584,
+        "text": "Krati pa potem vsa te stroški povezani z posledicami debelosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1398.784,
+        "end": 1408.715,
+        "text": "Tukaj tukaj poleg zdravstvenega sistema bomo uspešni, ko bomo naslavljali to bistveno širše, te dimenzije grejo vse nivoje družbe,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1409.195,
+        "end": 1422.808,
+        "text": "do globalnega segrevanja, ker je v bistvu ravnovesje med pomankanjem hrane, pomankanjem predelavalnih površin, potrebo po hitro procesirani hrani, tako da te problemi so res zelo kompleksni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1423.228,
+        "end": 1430.035,
+        "text": "Ampak da se zdaj umejimo na to, ker pač ta vrtiček, ki ga lahko obvladujemo, ja, ključna ta vrtička,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1430.035,
+        "end": 1432.918,
+        "text": "najširši del piramide."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1433.359,
+        "end": 1435.821,
+        "text": "Zdaj, kaj lahko naredimo na sekundarni ravni?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1436.362,
+        "end": 1445.551,
+        "text": "V bistvu ni nekih usmerjenih, specialističnih centrov, razen pač zelo izjemni, na bolnišničnem nivoju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1445.571,
+        "end": 1451.498,
+        "text": "Tako da mi odpiramo, naslavljamo to temo, diagnosticiramo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1451.838,
+        "end": 1470.51,
+        "text": "Potem pa ekstremne debelosti pošiljamo na metabolično kirurgijo, tam pričakujemo uspehe zdravljanja od redukcije telesne teže od 30 do 40 odstotkov, ampak to gre za te ekstremne primere debelosti, to je tist vrh piramide, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1470.89,
+        "end": 1483.257,
+        "text": "Potem poširjamo iz sekundarnega nivoja nazaj na primarno raven, kjer je v bistvu v spredju promocija in sprememba in suport pri spremembi življenjskega sloga."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1483.658,
+        "end": 1488.761,
+        "text": "Potem pa tu in tam so uspehi nekje v povprečju 5 do 7%, zelo motivirani do 10%."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1491.022,
+        "end": 1501.946,
+        "text": "Potem imamo pa tukaj eno vrzelje v cilju zdravljanja, ki bi pa v bistvu targetiral v redukcijo telesne teže med 10, 15, 20 odstotkov telesne teže."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1502.766,
+        "end": 1512.229,
+        "text": "In tukaj pa zdaj prihaja nova upanja, ker v bistvu dobivamo orodja za farmakoterapijo pri obravnavi debelosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1512.549,
+        "end": 1516.551,
+        "text": "In tukaj jaz mislim, da bo mela po tem sekundarni nivo pomembnejšo vlogo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1516.891,
+        "end": 1526.014,
+        "text": "ko se bo to področje razvijalo in obeti v naslednjem desetletju so v bistvu na tem področju dobri."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1526.694,
+        "end": 1540.419,
+        "text": "Seveda z vsemi omejitvami za izbiro primernih oblikov bolnikov, z zavedanjem pač tudi tvegan, tako da bo treba zbrati primerne bolnike in vedeti, dokolj lahko gremo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1543.3,
+        "end": 1554.833,
+        "text": "Nivojska obravnava, multimodalna obravnava in vedno v širšem družbenem konsenzu, predvsem v primarno preventivo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1554.873,
+        "end": 1557.576,
+        "text": "Šele takrat bomo bitko proti debelosti dobili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1557.596,
+        "end": 1563.442,
+        "text": "Zdaj, mi se tako pogovarjamo o medicinskem hujšanju, tukaj dobivamo nova urodja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1564.023,
+        "end": 1579.676,
+        "text": "kjer bomo dosegli klinično pomembne redukcije telesne teže, ki bodo izboljšali te zaplete, ampak da pa v bistvu pozdravimo ljudi, je pa boljš, da te bolezni nikoli ne dobijo, ker če spremljamo v dveh letih,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1580.257,
+        "end": 1604.308,
+        "text": "se približno 50 odstotkov telesne teže pridobi nazaj po hujšanju, v petih letih nazaj pa dobijo 75 odstotkov telesne teže v povprečju in samo res 10% tistih najbolj motiviranih ustraja in vzdrži s tistim, kar so izgubili, da ni teh relapsev in za nekje za uspešno pozdravljeno možda imamo, če to uspejo zadržati petletne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1605.108,
+        "end": 1609.43,
+        "text": "Tako da premagati te relapse je v bistvu še večji izziv kot hujšanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1609.99,
+        "end": 1623.706,
+        "text": "Mi smo medijatori na sredi, verjetno bomo zapolnili to umestno vrzel za farmakoterapijo, drugače pa primarna raven, ključna znotraj zdravstvenega sistema."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1627.102,
+        "end": 1631.944,
+        "text": "enako kot cel svet, pravzaprav, morda celo malce slabše."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1632.284,
+        "end": 1648.509,
+        "text": "Namreč gre za to, da pred časom je bila narijena neka raziskava pribovnikih, ki so preboleli srčni infarkt šest mesecev potem, so jih pregledovali in Slovenci so bili med najbolj debeljimi v Evropi v tej skupini."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1648.609,
+        "end": 1649.87,
+        "text": "Dobro, vedeti moramo, da je to"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1650.17,
+        "end": 1652.611,
+        "text": "izbrana skupina, da ne možeš tega posploševati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1653.051,
+        "end": 1658.152,
+        "text": "Ampak vemo, da s tem smo imeli težave in jih imamo težave."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1658.572,
+        "end": 1671.016,
+        "text": "Znani so podatki, da so slovenski otroci med najdebelejšimi v Evropi, potem so z zelo kvalitetnim programom v šolah pravzaprav uspeli spraviti naše otroke med najboljše."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1671.236,
+        "end": 1674.677,
+        "text": "Žal je prišla korona in smo spet na izhodišču."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1675.533,
+        "end": 1685.562,
+        "text": "Tako da, kaj hočem reči, to kaže, da se za nekim javnim pristopom da stvar zagraben za roge."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1686.223,
+        "end": 1695.411,
+        "text": "In da lahko, če bi bili dost odločni in organizirani, bi lahko problem debelosti v Sloveniji drastično zmanjšal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1695.672,
+        "end": 1700.236,
+        "text": "Trenutno nismo na najboljši poti, ker pač COVID, kot je že tudi"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1700.98,
+        "end": 1708.467,
+        "text": "Gocen Gučkova rekla, nam je pravzaprav spodnaknil lestu in smo padli globoko nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1710.049,
+        "end": 1711.991,
+        "text": "Je pa nekaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1712.531,
+        "end": 1719.258,
+        "text": "Vidimo namreč še nekaj, da v teh raziskavah se je pokazalo, da osvečnost prebivalstva je velika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1722.074,
+        "end": 1726.796,
+        "text": "Volja, da pa kaj naredil, je pa deklarativno samo velika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1727.016,
+        "end": 1735.259,
+        "text": "Spremend življenjski slok je težko, vse veste, kar se Janezek nauči, to Janec zna in starga kozla spreminjati je strašno težko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1736.079,
+        "end": 1743.662,
+        "text": "In zaradi tega imamo ta jojo hujšanje, ko jaz z razliko dvajetih poznam ljudi, ki so že več ton zhujšali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1744.282,
+        "end": 1753.567,
+        "text": "Damač delam v ambulanti za presnovi Maščop, kjer je to naš vsak dani kruh tudi in mi se tudi zelo trudimo, ampak če je problem?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1754.128,
+        "end": 1761.792,
+        "text": "Ključen problem, ki ga jaz vidim, je v tem, da te ljudje treba stalno spodbujati, motivirati, opozarjati na prijazen način."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1762.032,
+        "end": 1764.033,
+        "text": "Z strašenjem ne boš nič naredil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1764.354,
+        "end": 1765.094,
+        "text": "To že vem ob."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1765.534,
+        "end": 1768.096,
+        "text": "Edino, kar strašenjem radiš, je, da ne pride več nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1768.396,
+        "end": 1776.123,
+        "text": "Skratka, treba jih je spodbujati in tukaj pridemo do tistega, kar je prej tudi rekla, družina je ključna zadeva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1776.463,
+        "end": 1783.91,
+        "text": "Če bo en sedran tebe klobaso jedel, ti boš pa otrobe toliko, ne vem, kako bo tako še ne dolg časa zdržal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1783.95,
+        "end": 1785.671,
+        "text": "To je podobno, kaj s kajenjem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1786.492,
+        "end": 1786.992,
+        "text": "Treba je"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1787.633,
+        "end": 1788.994,
+        "text": "To je bolezen družine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1789.074,
+        "end": 1806.786,
+        "text": "Jaz sem globoko prepričan, ne samo zaradi te genetske nagnjenosti, ampak zaradi tega, ker se tudi fenotip se zelo deduje in fenotip je tisti, ki te drobne poligenske spremembe zamotivira, da pridemo do prekomene telesne teže in deblosti in vsega, kar spada z ravno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1807.326,
+        "end": 1808.507,
+        "text": "Tako da Slovenci..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1810.128,
+        "end": 1826.021,
+        "text": "Smo tudi na tem področju v jojo obliki, skratka, bili smo že na zelo dobri poti, pa nas sta nas zadnji dve leti pahnili nazaj, ampak jaz sem prepričan, da te nastavki, ki smo jih takrat naredili, so taki, da bodo pognali naprej, ko se bodo stvari malce normalizirale."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1826.902,
+        "end": 1840.149,
+        "text": "Tukaj imamo tudi ogromen teh raznih društvenih in drugačnih za zdrav življenjski slok, kar izredno veliko pripomore k spodbujanju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1840.489,
+        "end": 1846.412,
+        "text": "Kot sem rekel, osveščeni so ljudje, praktično vsi ljudje vedo v Sloveniji, kakšen je ta prav"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1847.152,
+        "end": 1855.181,
+        "text": "krni tlak, kaj je treba narediti pri sladkovni bolezni, kaj je treba narediti pri motnih vopresnovih, maščop in še drugih stvarih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1855.742,
+        "end": 1859.286,
+        "text": "Ampak, da se tega tudi držijo, to je pa zdaj druga zgodba."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1860.026,
+        "end": 1864.511,
+        "text": "Tukaj bomo mogli bistveno več narediti in pravzaprav ravno tale pogovor je eden od teh, ki bomo vrda"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1864.972,
+        "end": 1878.195,
+        "text": "malo spodbudil ljudi, da se bodo zamislili, pa rekel, ne samo pred poletjem, prednje gremo v bikinke, moramo malo zhoviščati, ampak da boš tudi pol za jesen, tudi za kombinizacijo smučarskih suhostov, recimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1881.627,
+        "end": 1885.17,
+        "text": "Zdaj, v naših možganih se več centrov nahaja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1885.25,
+        "end": 1896.8,
+        "text": "Če tako poenostavimo, lahko razdalimo tako imenovane metabolične možgane na vsaj tri funkcionalne dele."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1896.96,
+        "end": 1902.124,
+        "text": "En del možganov, kjer je vključenih veliko jeder, skrbi za homeostatsko prehranjevanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1906.568,
+        "end": 1922.452,
+        "text": "To so deli možganov, jedr, ki sprejemajo informacije z periferije in stalno prejemajo signale o kroničnih zalogah energije, recimo izmaščeve, in pa o trenutnem aktualnem vnosu hranil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1922.752,
+        "end": 1926.116,
+        "text": "iz želoca, iz trebušne slinoke in iz črvesja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1926.577,
+        "end": 1939.572,
+        "text": "In te signale se integrirajo, vsi te signale iz periferije, se integrirajo v tem prvem funkcionalnem delu homeostatskih možganov, ki uravnavajo občutek sitosti in lakote."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1940.133,
+        "end": 1950.001,
+        "text": "Potem imamo pa zraven drug funkcionalni del možganov, ki je upleten v to energetsko homeostazo, ki je pa nagrejevalni, hedonistični del."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1950.461,
+        "end": 1955.746,
+        "text": "Tam so pa v bistvu dopamin, opioidi, kanaboidni receptori."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1956.046,
+        "end": 1965.05,
+        "text": "Kjer je pa čez te arhaične fiziologije bilo potrebno vedenje, iskanja hrane, ker je bilo seveda pomankanje hrane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1965.41,
+        "end": 1972.953,
+        "text": "V času, ko se je pač človek razvil, je bilo treba nagrajevati in vnuditi neke ugodne občutke ob hranjenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1972.973,
+        "end": 1976.194,
+        "text": "Tako da to je ta drug in to je ostalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1976.474,
+        "end": 1982.617,
+        "text": "Zdaj vemo, da v bistvu to je povezano z nekimi občutki ugodja, nagrajevanje, hranjenje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1982.877,
+        "end": 1991.521,
+        "text": "Potem imamo pa še tretji del funkcionalnih možganov, ki so vpleteni v energetsko hemostazo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1992.061,
+        "end": 2000.565,
+        "text": "To so pa prefrontarni korteks oziroma subkortikalne regije, ki pa uravnavajo nekje vedenje in"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2002.064,
+        "end": 2006.347,
+        "text": "izvršilno funkcijo tega hranjenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2006.367,
+        "end": 2024.3,
+        "text": "Tako da te povezave med periferijo, metaboličnimi celimi kompleksni možgani so zelo kompleksne, ogromno signalov se integrira in pri debeljih v bistvu pride domoten v tej signalizaciji, v receptivnosti,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2024.98,
+        "end": 2038.067,
+        "text": "signalov iz periferije, možgani ne slišijo signalov in ko se enkrat poruši to homostatsko ravnovesje, je zelo težko v bistvu hujšati in predvsem pa to težo zdržati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2038.087,
+        "end": 2053.555,
+        "text": "Tako da, tako kot je rekel primarje cevc, zdaj, če bomo mi razumeli to vzadje, bomo lahko razvili nek empatični odnos do bolnikov, da jih ne bomo proglasili za v bistvu posameznike, ki so se zaradi nekih"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2053.955,
+        "end": 2058.658,
+        "text": "življenjskih okoliščin v odloči za napačno izbiro življenjskega sloga."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2059.038,
+        "end": 2076.21,
+        "text": "Ampak jih bomo dejansko videli kot bolnike, z jasno identificirami prejemališči bolezenskimi in tudi potem te relapse po hujšanju ne bomo prepisali ne z možnostim posameznikom, da sledijo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2076.55,
+        "end": 2084.294,
+        "text": "na novo osvojenem zdravom življenjskem uslogu in njihovim slabostim, da se ne more tega naprej zdržati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2084.634,
+        "end": 2091.437,
+        "text": "Ampak bomo razumeli te prilagoditvene mehanizme organizma, ki sledijo ahujšanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2091.898,
+        "end": 2096.54,
+        "text": "Takrat se spet začnejo dogajati prilagoditvene mehanizme vsaj na treh nivojih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2096.8,
+        "end": 2107.031,
+        "text": "In sicer se zmanjša bazalni metabolizem, kar pomeni, da se v bistvu potreba po energiji zelo zmanjša, ko mi izhujšamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2107.372,
+        "end": 2112.958,
+        "text": "Kar pomeni, da za enako nos bo to avtomatsko prispevalo k pridobivanju telesne teže."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2113.338,
+        "end": 2115.219,
+        "text": "To je en nivo prilagoditev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2115.76,
+        "end": 2121.183,
+        "text": "Drugi nivo prilagoditev je sama endokrinologija hujšanja, se pravi zločanje hormonov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2121.564,
+        "end": 2131.591,
+        "text": "Dokazano je, da vsaj še eno leto po hujšanju z dietami ostaja raven hormonov, ki spodbujajo apetit, ki spodbujajo hranjenje povišjena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2131.951,
+        "end": 2136.817,
+        "text": "In raven tistih hormonov, ki nas poročajo, da smo siti, ostaja znižena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2136.837,
+        "end": 2139.74,
+        "text": "Tako da v bistvu se endokrinologija prilagodi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2139.881,
+        "end": 2143.545,
+        "text": "Ves organizem teži k temu, da bi vzpostavil tisto predhodno stanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2144.086,
+        "end": 2148.992,
+        "text": "In spremeni se tudi biologija mašče, to je pa ta tretji nivo prilagoditev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2149.693,
+        "end": 2150.333,
+        "text": "V bistvu..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2150.834,
+        "end": 2167.029,
+        "text": "Ko se adipociti, to so maščobne celice, skrčijo, mi maščobno tkivo si ne smemo predstavljati samo kot maščobne celice, tam je ogromno vnetnih celic, tam so kapilare, tako da je to en zelo, zelo aktiven presnovni organ."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2167.129,
+        "end": 2169.391,
+        "text": "In ko se te adipociti skrčijo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2170.072,
+        "end": 2181.281,
+        "text": "se doživi tako enomanciječni stres in tudi te celice z vsemi mehanizmi, ki se vklopijo, težijo k temu, da se dodato namnožijo, da zapolnijo tist prostor, da se ponovno povečajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2181.301,
+        "end": 2194.613,
+        "text": "Tako da te ljudje so dejansko ne žrtev svojih nezmožnosti, da bi sladili zdravmu življenjskemu slugu, ampak fiziologije, biologijo oziroma patofizologije in patoloških sprememb."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2195.013,
+        "end": 2207.258,
+        "text": "Tako da, če to razumemo, potem je možen ta zelo pomemben empatičen pristop pri obravnavi bolnikov z debelosti, ki je pa ključen pri uspehu in dolgotrajnem sodelovanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2207.939,
+        "end": 2218.543,
+        "text": "Tak lep odnos se mora razbiti med terapeutom, bolnikom, dolgotrajen, individualen, stalni kontakt, ker pot je dolga."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2222.025,
+        "end": 2223.806,
+        "text": "Pravzaprav bi težko rekel, kjer je niso."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2224.814,
+        "end": 2233.577,
+        "text": "Zdaj, ker praktično vse te kronične nenalezljive druge, kronične nenalezljive bolezni, ki se jih tako bojimo, so povezane tudi z odebljostjo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2233.937,
+        "end": 2245.301,
+        "text": "Od že večkrat omenjene srčno žilnih bolezni, do bolezni gibal, sladkorna bolezen in neposredno povezana s tem, povišen krni tlak in neposredno povezana s tem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2245.681,
+        "end": 2246.041,
+        "text": "Skratka,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2246.701,
+        "end": 2247.882,
+        "text": "Ni, da ni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2248.383,
+        "end": 2262.415,
+        "text": "Številna rakava obolenja so s tem povezana, tako da je težko reči, kaj ni povezano, oziroma kje debelost ne doda svojega zidaka k poslapšanju teh ostalih bolezni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2263.336,
+        "end": 2263.976,
+        "text": "Praktično vse."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2268.031,
+        "end": 2272.696,
+        "text": "Več kot 200 bolezni je identificirano povezanih z debelostjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2273.477,
+        "end": 2279.683,
+        "text": "Presnovni steber, mehanski steber in, kot smo se že dotaknili, predvsem psihični, duševni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2283.607,
+        "end": 2285.689,
+        "text": "Imate prav, hvala za to vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2285.709,
+        "end": 2288.192,
+        "text": "Mislim, da ima družba pri tem zelo veliko vlogo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2288.852,
+        "end": 2297.281,
+        "text": "Pa če začnemo mogoče tam, kjer smo prekončali pri primarni preventivi, tisto, da ne bi zboleli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2297.982,
+        "end": 2305.27,
+        "text": "Spomnim se nekaterih akcij ali pa nekaterih inicijativ, ki se mi zdijo, da ne bi bili debeli, da so bile pravzaprav tudi v to usmerjene."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2305.73,
+        "end": 2321.92,
+        "text": "Ne vem, razgibajmo Slovenijo, se spomnim, ali pa za zdravo telo vsi na kolo, ali pa že to, da so v Ljubljani številne postaje s temi bicikeloj, kolesi, ki te res ponesejo z ene točke na drugo, pa da se urejajo kolesarske steze."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2321.98,
+        "end": 2323.721,
+        "text": "Ne vem, samo to tako razumem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2323.761,
+        "end": 2327.263,
+        "text": "Lahko je to tudi cel mobilnost, ampak sta pa dva cilja v krati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2327.463,
+        "end": 2333.167,
+        "text": "Če se voziš s kolesom, pravzaprav se premakneš tja, kjer moraš biti, ampak ob tem nekaj narediš zase."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2333.247,
+        "end": 2334.928,
+        "text": "Če ignoriraš lift, kdaj"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2335.328,
+        "end": 2338.229,
+        "text": "in greš k prijateljci v devetena stroka, je peši, je to tudi nekaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2338.589,
+        "end": 2349.134,
+        "text": "Govorim o teh drobnih stvarih, ker imeti privatnega trenerja, se s tem poglobljeno ukvarjati, imeti dovolj časa za to, marsikdo ga resnično nima ali pa mu manjka sredstev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2349.654,
+        "end": 2357.557,
+        "text": "Ampak za en dober tek, enkrat sem napisala, ne dober tek, umke mislimo, ampak po gozdu, pravzaprav večkrat ene dobre copate ne rabeš."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2357.857,
+        "end": 2359.678,
+        "text": "Samo tako sem navrgla."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2359.758,
+        "end": 2364.982,
+        "text": "Zdaj, to se pravi, družba ima določeno odgovornost res tudi za to preprečevanje debelosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2365.322,
+        "end": 2379.833,
+        "text": "Na drugi strani reklamiranje stvari, ki nam delajo hudo škodo, mogoče bi le omenila sladkane pijače, ko smo delali raziskavo med najstniki in njihovim strogom življenja, rečem, mi, Bive nacionalni inštitut za javno zdravje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2380.233,
+        "end": 2389.215,
+        "text": "Jaz sem jo samo sledila, ampak se je izkazalo, da so slovenski otroci eni največjih porabnikov sladkih pijač nasploh."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2389.555,
+        "end": 2399.118,
+        "text": "Se moramo zazreti tudi vase in reči, a res otrokom ponudimo pravzaprav vodo kot nekaj dobrega, kvalitetnega in zdravega ali bi že od malega,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2399.538,
+        "end": 2405.139,
+        "text": "malega, malega res ponujemo sladke pijače, ne vem, se je za zamisliti nad tem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2405.499,
+        "end": 2419.882,
+        "text": "To so te zdaj primarna preprečevanje debelosti, tako da hotel sem pokazati, da nekaj reakcije so bile in še so, ki jih razumem kot tudi usmerjeno ciljenje na to, da ne bi zboleli za debelostjo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2420.583,
+        "end": 2426.484,
+        "text": "Zdaj, kar se pa tiče duševnih posledic, pa res stigmatizacija je zelo prisotna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2427.044,
+        "end": 2434.901,
+        "text": "So mi že povedali pacijentke, da na razgovoru za delovno mesto jim je bilo eksplicitno povedano, da estetsko ne ustrezajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2435.802,
+        "end": 2448.452,
+        "text": "Letalske družbe se nagibajo k tem, da bi čezmerno težki ali debeli morali plačati višjo karto, kot nekdo, ki tehta stokil s svojim kovčkom v red."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2448.532,
+        "end": 2451.914,
+        "text": "Kovčke strogo tehtamo, potnikov ne tehtamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2452.375,
+        "end": 2459.76,
+        "text": "Tukaj se pojavljajo neke teze, da nekdo, ki ima stokil, na nosilnosti aviona zauzame toliko, potem ima še kovček."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2460.101,
+        "end": 2462.863,
+        "text": "Samo interpretiram tisto, kar mi je poznano."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2464.27,
+        "end": 2481.262,
+        "text": "estetsko, zašli boste v trgovino, kjer od 42 številke, naprej sploh ni, moda sploh ni, ne za debele, mogoče tudi za starejše nemišljena, ne vem, to je stigmatizacija, vseeno so tudi starejši od 60 let,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2482.343,
+        "end": 2488.446,
+        "text": "Pa so tudi ljudje, ki ne ustrezajo mera manekenk, ki so tudi radi lepo oblečeni in urejeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2488.546,
+        "end": 2490.947,
+        "text": "In ja, tudi tukaj vidim določene preboje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2491.007,
+        "end": 2504.013,
+        "text": "Pri destigmatizaciji so seveda trgovine, ki ustrezajo tudi večjim številkam samo, tako pa piše gor, trgovina za močnejše, pa ne veš, ali bi šel noter ali ne, bi šel, ali kdo zdaj za tabo gleda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2504.753,
+        "end": 2508.295,
+        "text": "So tudi nekateri manekenke, ki zagovarjajo to polnost ali pa..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2510.356,
+        "end": 2512.457,
+        "text": "drugačno estetiko temu rečemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2513.417,
+        "end": 2522.261,
+        "text": "Če zaidem za trenutek na drugo stran, ekstremna suhost in anoreksija kot druga skrajna mohotna hranjenja je enako smrtna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2522.341,
+        "end": 2528.343,
+        "text": "Smrtnost je pravzaprav v obliki ene j krivulje, če je takole zarišem in je tle normalna teža."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2528.403,
+        "end": 2535.966,
+        "text": "To se pravi, z normalno težajo mrljivost najmanjša, višja je bolj kot si suh in zelo visoka je bolj kot si debel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2536.086,
+        "end": 2537.547,
+        "text": "Temu rečemo j krivuljeno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2537.947,
+        "end": 2549.917,
+        "text": "Ampak pozdravljala sem takrat eno potezo takratnega ameriškega predsednika Billa Clintona, ki je prepovedal ta anoreksičen vides na naslovnicah modnih revij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2550.197,
+        "end": 2562.308,
+        "text": "To niso bile samo deklici, ki so resnično, bile skoraj da skeleti, če smem ta izraz grob uporabiti, ampak ki so imele tudi te make-upe, mogoče ta grančne vides enega"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2562.668,
+        "end": 2565.67,
+        "text": "Se nekdo reče, pa si črna podočmina, zgledaš dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2565.73,
+        "end": 2568.052,
+        "text": "To je bila ta neka kontra in se mi je zdelo famozno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2568.492,
+        "end": 2578.419,
+        "text": "Otrokom od malega dajemo neke estetske norme, neke ozore, nekaj takega in so se mi te poteze, zdaj govorim o družbenem nivoju, tudi zdeli fajn."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2578.919,
+        "end": 2597.56,
+        "text": "Zdaj, če stopimo od stigmatizacije naprej, zdaj že vstopamo v polje, ko je lahko ranjena duša, zdaj slaba samopodoba, so pripombe, tudi otroci znajo biti izjemno kruti, najstniki so direktni, brez olepšal, ne vem, cesarjeva nova obločila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2597.92,
+        "end": 2605.488,
+        "text": "Otroček je zaklical, cesar je šel v naknih, če si ni upal reči pa se enak, ampak otroček ni imel nobenih zavor in rekel pa se enak."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2605.528,
+        "end": 2609.753,
+        "text": "Tako da otroci med sabo grdo obračunavajo in izločajo te otroke."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2609.793,
+        "end": 2618.482,
+        "text": "In te otroci se znajdajo v enem začarenem krogu, kjer ne moreš hitro teči in te ne povabijo se igrati s sabo ali pa reči, a ti počasneže ne boš z nami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2618.963,
+        "end": 2628.706,
+        "text": "In bolj, ko ti je sam bolje izoliran, bolj išče to lažbo drugje v tem centru za zadovoljevanje, ta drugem delu, tega centra, ki kontrolira hranjenje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2629.506,
+        "end": 2632.167,
+        "text": "In bolj, ko si sami žalosten, kaj te razveseli?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2632.287,
+        "end": 2634.388,
+        "text": "Da nekaj dobrega poješ, se drugega pa ženi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2634.708,
+        "end": 2635.608,
+        "text": "In si še bolj debel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2635.788,
+        "end": 2639.711,
+        "text": "in si še bolj debel in si še manj mobilen in si še bolj izločen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2640.032,
+        "end": 2649.72,
+        "text": "To so te neke poti, ki se formirajo, ki postanejo trte in je potem iz tega zelo, zelo težko izstopiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2650.001,
+        "end": 2656.066,
+        "text": "Osamljenost, slaba samopodoba, naslednja stvar je reže, depresivnost,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2658.552,
+        "end": 2662.974,
+        "text": "Če si depresivan, si slabo motiviran, če si depresivan, si slabo samoinicijativen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2663.614,
+        "end": 2668.916,
+        "text": "Zdaj bomo spet se dotaknili tezga, ker je bilo prstigmi, ker takole malo se vozimo, kot po enem lunaparku."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2669.436,
+        "end": 2672.557,
+        "text": "Ja, teži dobiš službo in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2673.098,
+        "end": 2684.282,
+        "text": "Tako da tista, ki so najnovejše odkritja, če že govorimo, v starosti pravimo, da imamo ene določene motnje psihološke nadaljevanja,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2684.962,
+        "end": 2688.645,
+        "text": "3D, ne, depresija, deliri in demenca."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2689.045,
+        "end": 2691.588,
+        "text": "Ja, demenca je povezana s čezmerno debelostjo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2692.108,
+        "end": 2700.275,
+        "text": "Zdaj pa, če hočemo biti čisto aktualni, to ni psihično, ampak je tudi povezava z infekcijskimi boleznimi, ki jo do zdaj nismo tako podarjali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2701.116,
+        "end": 2709.182,
+        "text": "Stroka je veliko krat opozorila in se je tudi dokazalo, da ljudje s čezmerno težo in debelostjo so teže prebolevali COVID."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2709.703,
+        "end": 2712.825,
+        "text": "To je dejstvo, za katero lahko stojim tudi s podatki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2713.666,
+        "end": 2723.533,
+        "text": "Tako da, in zdaj, če se vrnemo v to psihično sliko nekoga, ki je stigmatiziran, ki ne samozavesten, slaba samopodoba, že iskanje pomoči je težko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2724.114,
+        "end": 2727.216,
+        "text": "Že prid, grem jutro v zdravniku in bom rekel, ne mi pomaga skušati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2727.716,
+        "end": 2730.378,
+        "text": "Že to terja na določeno energijo, ki jo ta oseba nima."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2730.438,
+        "end": 2731.919,
+        "text": "No in zdaj smo tle spet pri družini,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2732.6,
+        "end": 2746.663,
+        "text": "kjer obstaja reč, ki mi rečemo napotovalni družinski sistem, kjer mama ali oče ali mož ali nekdo toliko časa beza ali pa rečete spremam, da nekoga spravi k zdravniku, pa recimo s problemom debelosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2747.163,
+        "end": 2749.304,
+        "text": "In tle pa potem moramo mi nastopiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2749.644,
+        "end": 2753.065,
+        "text": "Tako da ta stvar se zagotovo lahko odvije v drugo smer."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2753.125,
+        "end": 2758.926,
+        "text": "Boste me zdaj vprašali, a nekdo, ki bo uspešno shujšal in pridobil pozitivno samopodobo, bo menj"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2759.566,
+        "end": 2761.687,
+        "text": "temnih čustev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2761.927,
+        "end": 2766.208,
+        "text": "Ja, lahko se odvrti, to se pravi, mi rečemo, da je to reverzibilno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2766.308,
+        "end": 2768.849,
+        "text": "Gre tudi nazaj v obratno smer."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2768.929,
+        "end": 2781.152,
+        "text": "In tle je tisto, kar nas zdravnike najbolj izziva, da se tle pravzaprav da nekaj narediti in da moramo nekaj narediti in privabiti mogoče te ljudi, ki niti ne vedo, kakšne vse oblike pomoči obstajajo,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2781.672,
+        "end": 2794.934,
+        "text": "Zdaj, generalno, če samo omenim naših centrih zakrepitev zdravja, če temu pritisnemo na dva gumba, ena možnost, da več kalorij porabite, je, da jih manj pojeste, druga je pa ta, da več gibate."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2795.114,
+        "end": 2810.417,
+        "text": "Pri nas skušamo oboje nasloviti, tako da so te delavnice povezane tudi s telovadbo, s telesnim gibanjem, z rekreacijo, potem z meritvami zmogljivosti, ki se povečajo, seveda, ko imate toliko kil manj"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2810.697,
+        "end": 2818.639,
+        "text": "Tako da se mi zdijo, da so ti programi dobro zastavljeni in se zelo veselim, da bo spet steklino v naši hiši že."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2819.119,
+        "end": 2826.42,
+        "text": "Ponovno tečejo po covidu in mislim, da je tukaj še veliko kar lahko naredimo skupaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2826.84,
+        "end": 2829.941,
+        "text": "Vsak sam mora kaj narediti zase, ni pa osamljen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2830.261,
+        "end": 2833.582,
+        "text": "Ne vsi mu lahko pomagamo veliko, nas je, ki ga lahko podpiramo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2836.33,
+        "end": 2840.471,
+        "text": "Hitre oblube, to takoj povem, mislim, hitro dol, hitro gor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2840.531,
+        "end": 2846.292,
+        "text": "To sem strahotno zdaj poenostavila, ampak sem pripričana seboj profesor Jens, ki je vas malo strinjala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2846.572,
+        "end": 2856.734,
+        "text": "Ja, so rekorderi v hujšanju in tudi razne spodbude k temu ekstremno hitremu hujšanju, samo lepo vas prosim, to res ni zdravo, predvsem pa ni trajno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2856.814,
+        "end": 2858.714,
+        "text": "In smo spet pri tem, kaj smo rekli na začetku."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2859.074,
+        "end": 2865.115,
+        "text": "Naš cilj ni z hujšat, naš cilj je vzpostaviti tak življenjski slog, da bomo to težo znali obdržati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2867.498,
+        "end": 2888.068,
+        "text": "Ja, absolutno, zelo lepo ilustrirano na vse te stiske in pri destigmatizaciji, jaz mislim, da je pomembno tudi to osveščanje o dopolnenem tradicionalnem pogledu na debelost kot bolezen, tako kot smo že rekli, tradicionalni pogled je, da je bolezen"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2888.288,
+        "end": 2905.89,
+        "text": "debelost, posledica genetsko predisponiranega posameznika, ki si je izbral nezdrav življenski slug in potem nezmožnost hujšanja in relapsje v hujšanju, njegova nesposobnost, da bi vzdrževal zdrav življenski slug."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2906.21,
+        "end": 2925.824,
+        "text": "Če to dopolnimo, ta tradicionalni pogled z novimi znanstvenimi spoznanji o patofizologiji debelosti, da se zavedamo, da so tukaj vzadi prijemelišča, merljiva, prepoznana, da prepoznamo tvojo patologijo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2926.004,
+        "end": 2940.25,
+        "text": "in začnemo na posameznike s debelostjo gledati ne kot neke grešnike, ampak kot na žrtve vseh tih procesov, da bo tudi ta nov, novejši pogled s tem izpoznanjem pripomogal k destigmatizaciji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2940.79,
+        "end": 2946.973,
+        "text": "V prvi vrsti znotraj zdravstvenega sistema, kjer še vedno obstajajo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2948.347,
+        "end": 2966.5,
+        "text": "tudi določene stigme pri obravnavi teh bolnikov, pogosto in hitro odpravljamo, prepoznamo debelost, potem pa rečemo, jaz se manjajte, več ugibajte, ampak zdaj smo ilustrirali, da tako preprosto ni, kot potem v neki širšem družbenem konsenzu, da se bo to odsevalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2966.9,
+        "end": 2971.763,
+        "text": "Ta sprememba v perspektivi pogleda na samo debelost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2975.482,
+        "end": 2976.343,
+        "text": "Prosim te, Mari."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2976.403,
+        "end": 2977.864,
+        "text": "Jaz sem tukaj nekaj še rad dodal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2978.124,
+        "end": 2991.417,
+        "text": "To, kar je že doktor Gučkova pa tudi profesor Ještrova je rekla, strašno nevarne so te dijete, take in drugačne, shujševalne dijete, ker seveda, kot je bilo že enočkolika trečen, shujšati ni problem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2992.525,
+        "end": 2996.927,
+        "text": "Ključna težava je dolgo trajno vzdrževati zniženo težo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2997.267,
+        "end": 3005.231,
+        "text": "Vse te dijete obljubljajo 30 kg, 50 kg v enem mesecu boš shujšal, seveda v naslednjem mesecu jih boš 60 kg pridobil nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3006.171,
+        "end": 3010.013,
+        "text": "In sočasno s tem še depresijo, ker si sfalil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3010.914,
+        "end": 3016.957,
+        "text": "Tako da tukaj bi moral kaj narediti na tem področju, da bi se te stvari začele"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3017.737,
+        "end": 3037.588,
+        "text": "te reklame na nek način omejavati in sočasno s tem tudi čudežni preparati, ki so jih lekarne nažalost polne in ker se prodajajo, prinašajo dobiček, zato jih tudi propagirajo, vemo pa, da pravzaprav edini pravi način skošovanja je zdrava prehrana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3038.678,
+        "end": 3046.325,
+        "text": "ki je energetsko pač prilagojena vsakemu posamezniku z njegovimi temi nagnjeni, da bo shujšal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3046.485,
+        "end": 3056.174,
+        "text": "In vemo, da pravzaprav skozi genetski razvoj smo se najbolj približali prehrani, ki jo približno odraža mediteranska prehrana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3056.715,
+        "end": 3064.102,
+        "text": "Razne LCHF dijete, daž dijete, omejevalne dijete, take in drugače, to so zmeri dvorezen meč,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3064.362,
+        "end": 3068.866,
+        "text": "Praktično vsi shujšajo, ampak praktično vsi tudi vse to nazaj dobijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3068.926,
+        "end": 3083.958,
+        "text": "To je bilo kar nekaj raziskav, ki je jasno pokazalo, da edina dijeta, ki ima lahko, zelo edina prehrana, ki ima lahko dolgoročen učink, pozitiven učink, je pravzaprav mediteranska hrana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3084.038,
+        "end": 3088.884,
+        "text": "prehrana, ki je, ne nazadnje, tudi v Sloveniji nam je blizu tak način prehranevanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3089.285,
+        "end": 3092.289,
+        "text": "Tako da, ker to je pa naslednja stvar, ki je silno pomembna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3092.729,
+        "end": 3099.338,
+        "text": "Ko se mi z nekom pogovarjamo, ki je prekomena prehrana ali pa celodebev, pa mu svetujemo ribe, a on pa rib ne mara,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3099.698,
+        "end": 3102.899,
+        "text": "Pozabi, si že obsojen na propad."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3103.439,
+        "end": 3114.403,
+        "text": "Skratka, ključna zadeva je tudi to, da ko se mi pohlobarjamo, kakšno prehrano naj ta človek uporablja, da se približamo njegovemu okusu in njegovim potrebam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3114.964,
+        "end": 3115.404,
+        "text": "To se hodim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3115.444,
+        "end": 3118.365,
+        "text": "Sedaj dodati glede na te razno razne grozne dijete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3121.332,
+        "end": 3150.065,
+        "text": "Ja, bližnic ni, pot je dolga, po nej moramo hoditi skupaj, prilagajati, v bistvu proces je dinamičen, definirati v bistvu dosegljive cilje, opredeliti, kakšne cilje posameznik potrebuje glede na prizadetost njegovih tarčnih organov in pa v bistvu uporabljati vsa orodja, ki jih imamo na voljo in da zaključimo nekoliko bolj optimistično,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3150.425,
+        "end": 3180.332,
+        "text": "Zdaj na debelosti v bistvu bomo doživeli določene preboje, določene novosti, zapolnjena bo tudi tista vrzel, ki je do zdaj manjkala, tako da je nek optimizem, da tudi recimo farmakoterapija, ki prihaja, bo neka bergla v začetku, da bodo lahko osvojili zdrav življenjski slug in potem po upustitvi farmakoterapije, ki nekako"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3180.412,
+        "end": 3200.611,
+        "text": "dokler so ojemli pretentati prilagoditvene mehanizme, naše lasne možgane in naše lasno signale iz periferije, da bodo s to pomočjo potem lažje ustrajali na zdravem življenjskem slugu, ki pa je edina dolgoročna rešitev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3201.151,
+        "end": 3227.593,
+        "text": "pa se pravi, ni bližnic, pa nagrevet vsake majhne korake, ker tudi če ni nekih estetsko vidnih učinkov, že tudi redukcija telesne teže 5-10%, ker znakni telesni teži se mogoče še ne bo videl, ampak v medicinskem smislu so v bistvu to že pozitivne stvari, klinično pomembna redukcija telesne teže,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3227.813,
+        "end": 3237.033,
+        "text": "In je treba vse te mehne korake na tej dolgi težavni poti nagreveti, spodbujati in stati na empatičen način ob strani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3240.709,
+        "end": 3243.711,
+        "text": "Primarna raven je primarna, je tista prva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3244.191,
+        "end": 3249.053,
+        "text": "To je nizkopraženo dostop in vstop v zdravstveni sistem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3250.194,
+        "end": 3259.218,
+        "text": "In mislim, da smo lepo naslovili namen današnje okrogle mize s tem, da brez problemov ni rešitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3259.418,
+        "end": 3265.822,
+        "text": "Osnovna postavka, da pacijent sploh pride do nas, je to, da prepozna svoj problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3266.542,
+        "end": 3271.245,
+        "text": "Čim naredim prve korake, bomo začeli ta program reševati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3271.265,
+        "end": 3277.53,
+        "text": "Rešitve niso instantne, hitre rešitve so kratkoročne, vsaj kar se tiče debelosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3278.15,
+        "end": 3281.332,
+        "text": "Zato počasi in premišljeno, zato pa uspešno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3281.953,
+        "end": 3291.819,
+        "text": "In da se združijo vsi možni deležniki, ki lahko pri tem sodelujajo, vsako pomoč, ki jo lahko kdo dobi za hujšanje, naj sprejme,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3292.58,
+        "end": 3299.248,
+        "text": "Tudi centri za krepitev zdravja ali pa individualno hujšanje ali pa še drugi strokovnjaki in skupaj zmoremo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3301.304,
+        "end": 3321.774,
+        "text": "Tlugu se mi je nujno dodati, če družbo kot celoto brez tega ne bo šlo, kot sem prej povedal, pri otrokih se je krasno pokazalo, kako družba, se pravi šola, lahko ekstremno učinkovito izboljša situacijo in kako pravzaprav zunanji element to tudi na žalost zelo hitro poruši."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3321.974,
+        "end": 3326.397,
+        "text": "Mi vemo, da sladke pijače so smrt, so strup,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3326.937,
+        "end": 3336.079,
+        "text": "Vemo, da sladkor je tak, da se ga navadeš in da se ga težko... Je droga."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3336.279,
+        "end": 3336.919,
+        "text": "Ja, je droga."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3337.22,
+        "end": 3339.5,
+        "text": "Nekateri pravijo, da je celo skoraj kot kokain."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3340.02,
+        "end": 3342.121,
+        "text": "Ampak bi upozoril samo za eno stvar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3342.981,
+        "end": 3348.962,
+        "text": "Bila so zelo intenzivna gibanja o tem, da bi se sladke pijače dodatno obdavčili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3349.222,
+        "end": 3351.143,
+        "text": "Podobno kot pri kajenju, pri cigaretah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3351.423,
+        "end": 3357.185,
+        "text": "pa je družba to zavrljena zaradi kratkoročnih dobičkov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3357.525,
+        "end": 3372.529,
+        "text": "Mislim, da tukaj bo treba marsikaj narediti v tem področju in da se bo tudi spromoviralo, da bo v teh avtomatih, ki jih imamo po raznih ustanovah, naprimer pred diabetesom je krasna aparatka, je poln cukra."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3375.115,
+        "end": 3378.379,
+        "text": "To je treba na nek način spremeniti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3379.32,
+        "end": 3391.034,
+        "text": "In takole okrogle mi zaupam, da bo tudi kakšnega spomnila, da bi lahko tudi iz drugega konca poridel, da bo namreč, zakaj, zaradi tega, ker prilika delate tu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3391.535,
+        "end": 3395.356,
+        "text": "Če imaš na razpolago take stvari, bodo pač teli odjetov vzel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3395.436,
+        "end": 3396.676,
+        "text": "Če jih pa ne bo, pa ne bodo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3396.776,
+        "end": 3407.178,
+        "text": "Če bodo noter kruhki z zelenjavo, pa ne bodo nobene salamce zraven, bodo pač mogli kruhke z salatko jesti, da ne bodo lačni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3407.318,
+        "end": 3417.64,
+        "text": "In to je tisto, preko katerega bi mi lahko zelo dobro vplival na to slabo epidemiološko situacijo, kar se debelosti v Sloveniji tiče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3418.872,
+        "end": 3421.745,
+        "text": "Ampak ta razpoložljivost valja tudi za domačji hladilnik."
+      }
+    ],
+    "runtime_sec": 1390.580628156662
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.0234488322537048,
+      "miss": 0.02001977349076487,
+      "fa": 0.00322441376442819,
+      "confusion": 0.00020464499851173876,
+      "total_duration": 3386.3519999999385
+    },
+    "der_collar0.25": {
+      "der": 0.017951488157743604,
+      "miss": 0.014308275167433304,
+      "fa": 0.0034246769734933616,
+      "confusion": 0.0002185360168169376,
+      "total_duration": 3171.1019999999385
+    },
+    "wer": {
+      "wer": 0.32064870386923766,
+      "ref_words": 7831,
+      "hyp_words": 7088
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1.432,
+        "end": 28.55,
+        "text": "Ja, čeprav je zdaj svetovna zdravstvena federacija res že leta sedemindevetdeset opredelila debelost kot kronično bolezen, so zanimivi izsledki lanskoletno objavljanje raziskave, ene izmed največjih, ki je naslavljala precepcijo debelosti, kamor je bilo vključanih okrog dvanajst tisoč oseb z debelosten in skoraj tri tisoć zdravstvenih delavcev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 29.157,
+        "end": 98.885,
+        "text": "In oseminosemdeset odstotkov zdravstvenih delavcev je opredelilo debelost kot bolezen, medtem ko je le osemišestdesetodstotkov bolnikov prepoznalo debelust kot bolezen. Še bojo zanimivi so pa potem izsledki tega znanja o bolezni kajdejansko, kako mi to zavedanje o bolezni uporabljamo, ker diagnoza debelosti je imelo nato postavljeno le dobra tretjina bolnikov za debelstjo in okrog dvehset, le okrogd tvestet odstotkov teh bolnikov je bilo strani zdravstvenih delavcev, ki so sicer deklarirali bolezen, debelost kot bolezan, samo dvestetodstotkaj bo deležno nekje obravnave, nekega pogovora, nekih kontrolnih pregledov na temo debelosti, kot da čeprav nekako sprejemamo to vedenje o tem, da je tokronična bolezen, je pa ta informacija še neki deleč od nekega funkcionalnega uporabnega znanja, ki bi privedla tudi v neko ukrepanje, v nekako aktivno naslavanje te bolezni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 100.336,
+        "end": 124.568,
+        "text": "Da to je zelo zanimivo vprašanje in včasih res, kot kolegica profesor Jesterle pravi s pacienti ne dosežemo pravega soglasja o tem kaj debelostje.Naše gledišče, da je to bolezen, velikokrat trči tudi obkrkšno osebno prizadetost, ljudje vidijo debelost bolj kot estetsko motno, mogoče bolj, kot ena..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 125.277,
+        "end": 206.699,
+        "text": "In rezultatega življenjskega sloga nosi krat so v zanikanju, kot da so neredki primerik pravzaprav zdravnik more dat pacientom in določen čas, da se s tem sooči. Je pa res po svetovni klasifikaciji bolezni ima debelost svojo šifro, E šestinšestdeset devet, tako kot ma hipertenzija i deset, se ne znam vseh milijonov na pametam, pa k nekaj že te in ste, ki jih pogosteje srečujem. Debelost je kronična bolezen predvsem zaradi tega, ker vidimo, da enkratna obravnava debelosti običajno ni uspešna. Veliko ljudi poznam, ki mi rečejo gospodoktorje, sem že petdeset, ki izhušal osebej še vedno debelne verjamem, da je izhuševa in se potem nazaj zredila ne?In tle ta kontroverznost v gledanju, če rečemo debelost, je moj sovražnik, za se bom enkrat soočla, sam pol bo tiga rokletki in je treba skoz paziti, da ne pride spet ven, skozi ga bo treba mečkano pomalem korutit, to se pravi tudi debelos obravnavat po tem, ko dosežemo ciljno težo, zato je debelost kronična bolezen, da ne govorim o vseh komorbitnostih, sočasnih boleznih, ki debelos spremljajo, lahko gremo tudi čisto od zunaj navznoter od boleznik kože do boleznij okostja celo rak."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 208.336,
+        "end": 226.342,
+        "text": "Žal, ni samo estetska napaka in če pacient to sprejme, četudi to krivica, moja kolegica pojed dvakrat tolk katijevst, gospa mi je zadnjič razlagala grem na kavo, spijem črno kavo. Onas in roči kavo smetano pa še tortico zraven, pa tako pa mene poglejte."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 226.848,
+        "end": 260.429,
+        "text": "Ja, so krivice, mamo različne ravni metabolizma, domač povedano ene ljudje več pokurijo kot drugi skozi starost nam to možnost, da se z nebimo kalorij upada težje iz hujšat kosi starejši, ampak četudi je krivica, jo moramo sprejet.Če pa govoriva o tem, kar tudi pogosto slišimo ne, da je debelo spravzaprav rezultat nekaj druge bolezni, to so pa odstotki z zelo nizkim ugočem obok kolegica popravlja mislim, da pet do sedem procentov, vse ostalo je žal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 261.037,
+        "end": 264.327,
+        "text": "Bolezen življenjskega sloga v prvem približku smo debeli?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 264.985,
+        "end": 277.726,
+        "text": "Ostanemu debeli se pridružijo druge bolezni in zavrtet to nazaj je težko, ni pa nemogoče, ni panemogoča, lahko moramo bi dobro motivirani in predvsem videti problem, če ni problema, ni rešitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 278.266,
+        "end": 282.232,
+        "text": "Če to je problem in kroničen problem, ga bomo znali rešit, alba reševat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 283.548,
+        "end": 290.939,
+        "text": "Je se absolutno strinjam z obema deloma te definicije, ne? Treba je res v obravnavi, se zaveda."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 291.513,
+        "end": 428.504,
+        "text": "Te kroničnosti in same bolezenske definicije, ker zdaj za kaj govorimo o kronnični bolezni, to je nekaj, kar nastaja počasi in kar traja v bistvu doživljenjsko, nastaja podčasi kot posledica nekih mehnih kumulativnih odklonov v energijskem ravnovesju, ker pomen, da pojemo več kot porabimo, ampak za niti je, da se v bistvu ljudje z debelostjo res prekomerno hranijo ogromnih količinah, že če prekršimo, če porušimo to energijsko ravnovesje, zamenk od nula cela štiri odstotka, da poružimo to ravno vese, kar po mestu samo enajst kalorij dodatnih dnevno in okrog štir tisoč kaloriji dodatnik na leto, to je v celem letu, da pojemo preveč samo štiriri pice, kot jih porabimo, pridobimo vsako leto pol kilograma telesne teže, če pojema osem pit prevec v celem metu, je to ena kila več, kar pomen desetih letih, da dobimo ob mestu deset kil preveš ne.In potem tudi ta kroničnost že vsi vemo, da smo uspe shujšati, ampak še večji izziv kot shujsati je potem obdržati to nizkotelesno težo, ker so sami preagoditveni mehanizmi po tem mogoče mal kasneje naravnani tako, da je obistvo težimo k nazaj, k relapsu, k recidivu, tudi to nekaj kroničnega števnjica borimo celo življenje. Bolezen pa kako kaj podal, la docent Kovča Vargučkova obistvu ima vse karakteristike za bolezen, poznamo etiologijo z dobro opredeljenimi prejemljišči etiologie, poznamo patologijo, vemo, kakšne so morfološke biološki organske spremembe zaradi belosti, poznamo zaplete in vemo da v bistvu to stane vplivano prognozo.Zdaj indeks telesne mase nad trideset do petintrideset skrajšuje življenjsko dobo, vsaj za dve do štiri leta, če je ta indeks povišan med štirideset in petdeset, je ta živlenjska doba krajša za pet do deset let, tako da debelost ima ob istu vse karakteristike bolezni, z jasno definirajimi posledicami in okrnjeno prognozo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 431.018,
+        "end": 533.618,
+        "text": "Ja, prepoznanih je več kot dvesto petdeset genetskih označevalcev, ki so bili povezani z različnimi dejavniki, ki jih uporabljamo za opredeljevanje prehranskega statusa. Z indeksom telesne masa obsegom pa so visceralnega maščoja kožne gube, gre pa za poligensko bolezen, kar je pomembno, da predvsem pomemna nagnjenost k debelosti, ki jo podedujemo ali se pa to dejansko razvijeje po odvisno od številnih drugih dejavnikov obesogenega bi bilo vsega številna delavnost, ali je bilo našel všeč, če bi bilal nekaj, da so vsebnih dveh dolarov, da je bilal vseboj, da se bo vložilo, da ga je bilato, da sta bilo, da si je bilalo, da pa je bilano, da mu je bilono, da mi je bilan, posledica monoginskih boleznij, bolezni, mamo tudi take primere in tem je stvar v bistvu enostavnejša oziroma bolno ustavnejše poznala, ker za nekatere oblike poznamo že tarčno terapijo, da v bistvu lahko s tarčnimi zdravili popravljamo to napako v genu, tiste lahko zdravimo etiološko. Večinoma bi pa pomen genetski predispozicije sprepisovala predvsem o tem, da dovoz zgodaj prepoznamo ogrožene ljudi, ki bodo razvili, ki so bolj nagnani k debelosti in da te začnemo s primarno preventivo res dovo zgodi od najzgodnejšega otroštva dalje. Niva potrebo nekih zapletenih genetskih analiz in sekvencioniran genom, da to prepoznamo, ker pogledamo družino."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 534.226,
+        "end": 540.79,
+        "text": "Otrocih debelih oziroma odrastih z debelosti imajo večjo nagranjost k debelosten in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 541.297,
+        "end": 548.283,
+        "text": "To je še posebej krka ogrožena populacija, kjer moramo začec primarno preventivo od najzgodnejših let dalje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 550.612,
+        "end": 663.083,
+        "text": "To, ki je grespi za to, kako gledaš na stvar. Prvzaprav že od samega začetka sta problematična, že pri otrocih prekomenu prirednjih debilih postavne težava, zaradi ker se to, kot je bilo ravno kar večkrat že poudarjeno, se to samo dodaja in slej ko prej ta debelost povzroča sobolezni, od bolezni sočnožilnega sistema do boleznimišičnostkeletnega sestema z okvarami iz kakr slej Koprej se to manifestira z res takimi jasnimi težavami, težavam, ki takega človeka omejujejo.Kdaj se to pojav, je seveda malce tudi visno od tega kako izražene je debelost, ne? ker vesnemamo prekomembno prehranjanost pa debelst prve stopne pa imajo pa ekstremno debelust, to so tisti ljudje recimo, ki se morajo z vozički premikat, ker ne more več hodet.Pri nas tega hvala bogušenji, ampak če mal čez ocean pogledamo, vidim pa, da se tam zelo veliko ljudi prevaža, ker enostavno ne morevečč hodet, ampak to je samo en del te zgodbe, kot sem lekel, seveda se je tudi na vseh drugih organih debelost odražal in to prepele do tega, ker je bilo ravno kar pripovedano, da se skrajša naša pričakovana življenjska doba za deset tudi več let, tiskar je pa še slabše kvaliteta, takega življenja se drastično poslabša, ker srčno popuščanje je povezano z debelostjo kot sem rekel težave s skeletom, so hude in taki ljudi niso mobilni, se jim prvzaprav lahko najusnovnejše življenjske te zadeve so jim skoraj onemogočene, se prav ne more se it samo mit, ker ne more nikt ne noge stopa, skatka tega je ogromen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 664.315,
+        "end": 664.872,
+        "text": "Sam?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 665.547,
+        "end": 681.68,
+        "text": "Izvirni greh je pa lahko že v mladosti, prozaprav že v nosečnosti, če smo čisto skriti, ker seveda prekomerno pehranjene ali pa celo debele mamice tovpliva na epigenetski razvoj tudi zarodka in..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 682.996,
+        "end": 684.295,
+        "text": "Tok hujš problem, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 685.308,
+        "end": 692.969,
+        "text": "Bi so že pred rojstvom, a ne nam je...Ja, že takrat se začne, prvi nastavki tega so lahko že pred drojstvem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 687.4,
+        "end": 687.721,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 687.721,
+        "end": 687.772,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 687.772,
+        "end": 687.957,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 687.957,
+        "end": 688.463,
+        "text": "Že takrat..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 695.45,
+        "end": 703.634,
+        "text": "Kako je pomembno to, kar je primaricijevci s postavo, ne? Kako je treba opredeliti zdaj debelost pri posamezniku, ne te različne stopnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 704.157,
+        "end": 757.246,
+        "text": "Zdaj mi poznamo tako enostavno definicijo debelosti, ki temelji na nekem priročnem indeksu telesne mase, ki je uporaben v populacijskem smislu in na podlagi tega je definirana debelosta različne stopnje debelasti.Ampak pravzaprav nam ta indeks, ki jo zelo priročen za populacijsko uporabo, relativno malo pove o prizadetosti posameznika.Tako da tem pa pri predelovanju debelosti obvezno vsi vključujemo dodatne ocene debelusti in zloak preprost Marker je obseg pasu, ki dodatno neodvisno od indeksa telesne mase opredeluje srčno žilna tveganja, zdaj tle zlo pomembna telesna sestava kakšne so mišice kolkje srkopenije, gre za srtopenično debelost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 742.345,
+        "end": 742.801,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 757.465,
+        "end": 822.029,
+        "text": "In potem zdaj težimo, kjer s čim bolj natančni opredelitvi debelosti, kje uporabljamo klasifikacijo po Edmontu. To nač družba ne pomen, kot to, kar smo povedali, da treba pogledat kolke dejansko debelosten je definirana kot prekomerno kopičeve maščevja, ki rezultira v negativnem vplivu na zdravje.In zdaj po tej klasifikaciji mi opredelimo kolkje obistvo že pridruženih boleznikov, kukje predkritničnih dejavnikov tveganja pridrženjih, ki so lahko povezan z debelosti, kako je ovirana funkcionalnost, kakor prizadeta kvaliteta življenja in to tisto, kar dejansko na nivoju posameznika opredeli pravo težo debelasti in potem to omogoča neko pravilno izhodišče za pristopat v terapevtskem smislu k takim bolnikom.Tako da pogledati morm res v širšem smislu, opredeliti vse potencialne povezave in posledice oviranosti v funkcionalnosti kvaliteta življenja in potem naravnet pristop k posamezniku."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 824.408,
+        "end": 938.973,
+        "text": "Obravnava oseb z debelostjo bi se morala začet na primarni ravni definitivno in prej kot zaznamo problem, ko smo rekli, prej ga začnemo obravnavat boljše soizhodne situacije, resnici le ljubo, naše preventivne ambulante so te komkovi, da precej zastale osebje, ki je malo brise, osebe, ki jo cepilo, osobje kje cele dneve delajo v skafanderih, ambulanti za kovit pozitivne osebes, to je naše osebi, to ni dodatno osebo, mi smo morali naše diplomirane medicinske sestre žrtvovati v sistem, zato resnici na ljubov zadnjih nekaj mesecih ali pa celo v obeh letih so preventivni predgledi zelo zastali. Sicer pa je pri osebnem izbranem zdravniku prav ta preventivni vidik zajet v tako zvani referenčni ambulanti, kjer diplomirana medicinska sestra, v ambulantijo imamo samo pol, dve ambulanti si delimo eno, torej je svoje nimam, imam svojo srednjo sestre, nimam s s diplomirane, si oddelim s kolegico, torej ti diplomiranesesre izvajajo telesne meritve in s pomočjo tega najbolj uporabljenega inštrumenta indeksa telesne mase presejajo vse paciente, ki so starejši od trideset let vsaki ambulanti in sporočajo te rezultate svojemu zdravniku, seveda ne delajo samo tega, da tehtajo in merijo zmerjo krvnih tlak, opravijo preventivno razgovor, uporabljajo vprašalnika, ki so prikladni posamezniku in tako naprej. Samo ja prva detekcija debelosti je tem, seveda pa vzporedno osebni izbrani zdravnik ravno tako pregleduje paciente vsak dan, tudi sam lahko zazna spremembo v telesni teži, tako kot je kolegica Slikovito rekla, recimo, je samaturirala v tujini in tem se dobimo samo vsakih deset let."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 939.614,
+        "end": 966.175,
+        "text": "In če vsako leto pridobiš en kilogram in prično naslednjo obletnico deset kilogramov težitec, skoraj da že nekdo ne spoznane pa če rečeš akseno kilonalet to pa res načnine.Tako da presejanje, da bistvu najdemo tiste ljudi, ki imajo nagnjenost v debelosti družinski zdravnik imamo edinstveno priložnost, ker velikokrat poznamo več članov iste družine in je to sijajno ne samo za debelst tudi za preprečevanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 967.576,
+        "end": 987.455,
+        "text": "Tistih boleznik, ki se jih še da prepreči, trdcimo, tudi sladkorna bolezen, če je genetsko pogojena, lahko marsikaj naredimo, da jo vsaj odmaknemo starost, čevže ne moremoči spreprečiti. Tko, da to je definitivno mesto, kjer bi se moralo dogajati v to presejanje in obravnava debelosti, seveda tudi v šolskih ambulantah prvi tretji peti sedmi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 988.349,
+        "end": 1034.789,
+        "text": "Razvod v osnovni šoli in prvi in tretji letnik v srednji šoli so tudi ti sistematski pregledi, ko pogledamo vse otroke pravzaprav, jih zmerimo stehtemo in tudi najdemo tiste, ki bi našli obravnavo ravno kopa pediatri, tudi že zaznavajo te probleme, zna kakšen način se tega lotevamo na različne načine, tukaj se res, kot sta že rekli, individualno približamo posamezniku, nekateri imajo rašje individualno obravnavo, tako mladi rečejo en na enka, ne, da se en zdravnik in terapev tokvarja z enim pacientom ali pa klientom, v zdravstvenih domovih pa mu tako zvanje center za krepitev zdravja, kjer se nudijo številne delavnice brezplačno, ena od njih je..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1035.346,
+        "end": 1061.975,
+        "text": "Delavnica za hujšanje, je sprihajal iz ena ustanovi, kjer mislim, da smo v lanskem letu shujšali okrog tone al tone in pol.Ni vam točne številke koliko ljudi je prispevalo te kilogramov tona in pol, ampak naše profesorice zdravstvene vzgoje so kar uspešne, ljudje radi pridejo, nastopi pa prva težava, ko se izkažete, bojo morali aktivno sodelovati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1062.802,
+        "end": 1077.331,
+        "text": "Ne, tist sistem, kaj ga je zaradi pokažen, kleve mate zdravte meje, z bomči spomirbi pa kar izvoljte ne, ta sistem pri debelosti odpoved se res treba motivirati, ne ga življamo sam, mislim, da je vredno temu posvečamo tudi današnji dan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1068.286,
+        "end": 1068.387,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1079.98,
+        "end": 1123.349,
+        "text": "Različno in časih je to res družinska obravnava, ko pride še nekdo zraven, pri meni v glavnem so polnoletni ljudje torej polnolitni otroci in mama dosti, ker je tretjera asmembit zravan in jo srečam to odvisno, zaradi mene lahko pa kot odvisnajo pacienta, pravzaprav ima on zagotovljeno mojo diskretnost, varovanje njegovi skrivnosti in če ne dovoli, potem to ni tako, ampak ja velikokrat največkrat v družinski člani dovolijo prisotnost drugih članov ali pa celo jo želijo in takrat so stvari dosti bolj razumljive.Izkušnje kažejo, da če nekomu nekaj povemo, on pride doma in pove neki druzga, ta drugi razume neki tretga, četrte mu poveniki petga."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1094.982,
+        "end": 1095.472,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1123.602,
+        "end": 1292.605,
+        "text": "Tako mal se mi zdi kot včasih, ne vem če se to igre, sploh še igramo telefončke, ne?Ker sem jaz rekla kozarec, pa v mestu še tri gospe se delajo, viste slišali palec, ne, vsaka vam je mal prikrojila, tko se dogaja, kajor kakršne tak informacije dajemo tu družini, da bi pacienta, ki je debel suporterala, mu pomagala mogoče hkrati z njim hušala, so zlo taki dobri momenti, no. Nekateri ljudje res te skupinske obravnave, ki jo v centru zakrepitev zdravja, ker je več pacientov hkreati, mislim, da tri do pet, niso velike skupine, v nekateri ne želijo te obravnave v prisotnosti drugih ljudi z enakimi problemi sicer takrat celo timo individualnih obravnov, je pa v Ljubljanih tudi nekaj ustanov, ki se shujšanje profesionalno ukvarjajo, nekatere med njimi tudi so dosegljive z napotnico, tako da obravnava debelosti mora bit najprej res usmerjen na ugotavljanju stanja k izključevanju teh možnosti, da gre za bolezensko debelosistih nekaj procentov, ne vem če rečem bolezni nad ledvične žleze Kušingova bona, recimo je zaradi bolezni človek debel in ko silno zdravimo osnovno bolezn z debelostjo sploh ni problema, a ne, ker je povzročena z enim konkretnim vzrokom, drugače pa čisto določene laboratorijske preiskave mormonardit napravi tmeritve inenje, da so še vločne, da bomo vladišaj ljudi spremljala skozi to, v centru za krepitev zdravja tudi, tudi na potem paciente v kliniko zahujšanje, ampak moram reč v končni fazi, da videvam tako kot je blod že danes rečeno, da so najboljše oblovnave multidisciplinarne, temkjer se nas loti problema več.Mogoče rabimo tudi fizioterapeuta v Timu, lahko pomaga tudi patronaž na sestra, farmacevtni lekarni definitivno so dobri svetovalci za kakšne stvari, ki se tičejo tudi debelosti, tudi če gre za, recimo, kakše preparate, ki nisanujno na recept. Potem so tukaj psihologi debelos pušča grde posledice na duši, tem še nismo govorili, jaz sem malo umenla stigmatizacijo, ki je zlo ena blaga stvar v primerjavi z demenco, ki je dokazano povezana z debelostjo, tako da atler rabno in širši tim in večja kot nas je mreža, ki iz stojimo nevidno okrog tega pacienta, boljši bo šlo in družina, kot ste sami rekli zelo pomemben dejavnik v tej obravnavi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1291.39,
+        "end": 1291.829,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1295.373,
+        "end": 1304.57,
+        "text": "Je glede na prevalentnosti bolezni, je znesem, da ne moremo večkrat in poudarjati in za to še enkrat poudrja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1305.262,
+        "end": 1542.828,
+        "text": "Bolezen je zelo prevalentna, ker pomen, da je obravnava stopnjska na vseh nivojih in glavni del piramide znotraj zdravstvenega sistema je vsekakor primarni nivo.Tudi se razvijo res že vzostal zaradi epidemije, ampak druga centri za krepitev zdravja in res ta ključna vloga družinskih zdravnikov, zaradi vsega, ker smo slišali že danes, je zbicot perspektivo še razširila izven zdravstvenega sistema pri obravnavi debelosti, to bisto bolezen družbe, tlej treba vključvati zdravstven zgone izobraževalne ustanove, tudi arhitekte, treba narediti mesta, da ne bomo šli v šoping mol, da se bomo sprehodili s kolesom od pekarne do mesarja, da bomo mest ljudi z ljudmi govorili, da se bomo družali, potem seveda odločevalce politike prehransko industrijo zanimivosti desetk raziskav ob istu zakaj se debelo splačajo iz Amerike, saj pa prihajate raziskave.Danes v povprečju je ameriški otrok težji za pet kilogramov, kot je bil leta šestinseddeset, že samo za zadovoljitev teh bazalnih potreb metabolizma na plus pet kilogramev porabijo štirsto dolarjev na leto več, samo za osnovno prehranjevanje iz debelih otrok rast v debeli otroci, odrasli, ker pomen, da se zaslužek tukaj vrti na prej hkrati pa potem vsaj te stroški povezani z posledicami debelosti, ko je tudi poleg zdravstvenega sistema ob istov bomo uspešni, ko bomo naslavljato bistveno širše te dimenzije gre vse nivoje družbe do globalnega segrevanja, ker je bistvu ravnovesi med pomanjkanjem hrane, premanjkanju pridelovalnih površin, potrebo po hitro procesirani hrani, tako da te problemi so res zlo kompleksni, ampak da se zdel mejimo nato, ker pač ta vrtičaka ga lahko obvladujemo, ja ključna ta baza mi so najširši del piramide, zakaj lahko naredimo na sekundarni ravni obistu ni nekih usmerjenih specialističnih centrov, razen pa zelo izjemni, na bolnišničnem nivoju, tako da mi odpiramo naslavljamo to temo, diagnosticiramo, potem pa ekstremne debelosti pošiljamo na metabolično kirurgijo, tem pričakujemo uspehe zdravljenja od redukcija telesne težejo trideset do štirideset odstotkov, ampak to gre za te ekstremene primere debelosti, to je tist vrh piramide ne?Potem pošiljamo sekundarnega nivoja nazaj na primarno raven, kjer je v bistvu v ospredju promocija in sprememba in suport pri spremembih življenjskega sloga, potem pa pa tu intensa uspeh in nekje v povprečju pet do sedem procentov zbomotivirani do deset procentov, potemamo pa tudi eno vrzelne v cilju zdravljenja, ki bi pa ob isto trgetiral v reducijo telesne teže med deset, petnajst, dvajset odstotkov telesne Teže in tudi pa zdaj prihajajo nova upanja, ker ob isto dobivamo orodja za farmakoterapijo pri obravnavi debelosti.In tu, ki je smiselnem dobevala po tem sekundarni nivo pomembnejša vlogo, ko se bo to področje razvijalo in obeti v nasednjem desetletju so v bistvu na tem podroju dobri.Saveta z vsemi omejitvami za izbiro primernih bolnikov, za zavedanjem pač tudi tvegan, tako da bo treba zbrad primerne bolnike in vedet, za dokolj lahko gremo, takoda multi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1543.385,
+        "end": 1624.216,
+        "text": "Nivojska obravnava multimodalna obravnava in vedno v širšem družbenem konsenzu, predvsem v primarno preventivo, šele takrat bomo bitko proti develosti dobili. Zdaj mi se lahko pogovarjamo o medicinskem hujšanju, tudi dobivamo nova orodja, ne, kjer bomo dosegli klinično pomembne redukcije telesne teže, ki bodo izboljšale te zaplete, ampak da pa bistvu pozdravmo, ljudje pa boljš do te bolezni nikoli ne dobijo, ker če spremljamo v dveh letih se približno petdeset odstotkov telesne teže pridobi nazaj po hujšanju, v petih letih nazaj pridobijo petinsenst odstodkov telesna teže v povprečju in samo res deset procentov tistih najbolj motiviranih vztrajenj vzdrži stistim, ker so izgubili, da ni teh relapsov in za nekje za uspešno pozdravljeno, števmoče to začne uspel zadržati petletne, tako da premagati te relapse je ob isto še večji izziv kot hujšanje. Mi smo nekjetko mediatorji na sredi verjetno bomo zapolnil to mestno vrzel, za farmakoterapijo drugač pa primarne raven ključna znotraj zdravstvenega sistema."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1627.135,
+        "end": 1674.993,
+        "text": "Enako kot v cel svet, pravzaprav morda celo malce slabše.Najmeč gre za to, da pred časom je bila narjena neka raziskava pri bolnikih, ki so prebolel srčni in fard šest mesecev po tem, so jih pregledoval in Slovenci so bili med najbol debelimi v Evropi, v tej skupini. Dobro, vedrat moraš da je to izbrana skupina, da ne moreš tega posplašavati, ampak vamoda s tem smo imeli težave in jih imamo težava, znani so podatki, da so bi slovenski otrocici najdebelejšimi v Evropi, potem so z zelo kvalitetnim programom v šolah pravzaprav uspel spravc naše otroke med najboljše žal, je pršla korona in smo spet na izhodišču."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1675.499,
+        "end": 1693.589,
+        "text": "Tako, da, kaj, hodbšem reč, to kaže, da se z nekim javnim pristopom da stvar zagraben za roge in da lahko če bi bili dost odločni in organizirani, bi lahko problem debelosti v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1694.247,
+        "end": 1700.339,
+        "text": "Z rastično zmanjšo trenutno nismo na najboljši poti, ker pač škovit kot je že tudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1700.98,
+        "end": 1719.543,
+        "text": "Da Cengučkova rekla, nam je pa zaprav spodnakno lestu in smo pali globoko nazaj.Je pa nekaj, vidmo namreč še neki, da v teh reiskavah se je pokazal, da osveščnost prebivalstva je velika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1720.488,
+        "end": 1721.011,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1722.091,
+        "end": 1735.456,
+        "text": "Volja, da pkenar dila je pa deklarativno samo velika. Sprement življenjski slog je težko, se veste, kar se Janezek navči to Janeza zna in star ga kozel spreminjat, je strašno težka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1735.962,
+        "end": 1743.893,
+        "text": "In zaradi tega imamo ta jo-jo hujšanje, ne? Ko je z razliko dvaetvih pozna mladike, so že več ton s hujsal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1744.467,
+        "end": 1785.794,
+        "text": "Namač delam v ambulanti za presnovem maščob, kjer je to pravzapravnejšo vsakdanji kruh tudi in mi se zelo trudno ampakavčeje problem. Ključen problem, ki ga je sledil, je o tem, da te ljudi treba stalno spodbujat, motivirat, opozarjat na prijazen način, s strašenjem ne boš načina redu, to že vam ob, edinkar s straše mordi še da ne pride več nazaj, skatka treba jih je spodbujat in tudi pridemo do tiska, ker je prej tudi rekla družina, je ključna zadeva, če bo en zraven tebe klobaso jed ji do tivoš pa otrobe toliko ne vem, kako bo tak hujšane dolg časa zdržal, je podobno kaskajenjem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1786.385,
+        "end": 1787.262,
+        "text": "Treba je..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1787.768,
+        "end": 1809.571,
+        "text": "To je bolezen družine, jim sem globoko prepričan ne samo zaradi te genetske nagnjenosti, ampak zato je, ker se tu fenotip se zelo deduje in fenotipe tisti, ki te drobne poligenske spremembe zavativira, da pridemo do prekomentaristne teže in debel si in vsega krv spada zram, tako da slovenci..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1810.178,
+        "end": 1826.311,
+        "text": "Smo tudi na tem področju v JoJo obliki skatka, bili smo že na zelo dobri poti, pa nas sta na zadnjih dve leti pahnili nazaj, ampak jaz sem prepričan, da te nastavki, ki smo jih takrat naredil, so taki, da bodo pognali naprej, ko se bodo stvari malce normalizirale."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1826.952,
+        "end": 1839.355,
+        "text": "Tu, ki imamo to, ne se me pozava, da imamo mi tudi prav ogromen teh raznih društotak in drugačnih za zdrav življenjski slog, kar izredno veliko pripomore k spodbujanju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1839.963,
+        "end": 1878.438,
+        "text": "Kot sem rekel osveščeni, so ljudje praktično vsi ljudja vedo v Sloveniji kakšni taprav krvni tlak, kakše, kaj je treba naredila pri sladkovnem bolju, kkaj je ne treba nares pri motnjih v presnovi maščob in še drugih stvoreh ampak, da se tega tudi držijo, to pa zdaj druga zgodba.Tukje bomo mogli bistveno več naredili in prozaprogramno tale pogovori jedno od teh, ki bomo roda mal spodbudil ljudi, da sem bodo zamislili, pa rekel ne sam pred poletjem, preden gremo v bikinke, ne moramo mal shujšati, ampak ne bo štud pol za jesen, tudi za kombinizon smučarski suhu sto recimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1881.627,
+        "end": 1889.98,
+        "text": "Za naših možganjih se vedno centrov nahaja, ne?Tudi za.Če tako poenostavimo, v bistvu lahko razdelimo z..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1885.61,
+        "end": 1886.251,
+        "text": "To je tudi za..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1890.065,
+        "end": 1937.095,
+        "text": "Tako imenovane metabolične možgane na vsaj tri funkcionalne dele, en del možganov, kjer je vključenih veliko jedr skrbi za obistvo homeostatsko prehranjevanje. To so deli možgov jedr, ki sprejema informacije s periferije in stalno prejema signale o kroničnih zalogah energije, recimo Zmaštevja, in pa o trenutnem aktualnem vnosu hranil iz želodca iz trebušne sinoke in izčrevesja, in te signali se integrirajo vsi te signalji s preferije, se integrijo v tem prvem funkcionalnem delu homeostatskih možganov, ki uravnavajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1915.782,
+        "end": 1915.867,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1937.129,
+        "end": 2000.748,
+        "text": "Si občutak sitosti in lakote, potem imamo pa zraven drug funkcionalni del možganov, ki je vpleten v to energetsko komustazo, ki ji pa nagrajevalni, hedonistični del, ne, tam so pa ob istvu dopamin opioidi kanaboidni receptorji, kjer je pa čez te arhaične fizologije blopotrebno vedenje iskanja hrane, ker je bo sva do pomanjkanje hrane. V času ko se je pač štovek razvijal, jo bo treba nagrejevati in mnudet neke ugodne občutke ob hranjanju, tako da to je ta drug, in to je ostalo, ne, zdaj vemo, da v bistvu to je povezano z nekimi občudki ugodja nagrajevanja hranjenja. Potemamo pa še tretji del funkcionalni teh možganov, ki so vpleteni v energetsko hnimoostazo, to so pa prefrontarni kortek, tvozi doma subkortikalne regije, ki pa uravnava nekje vedenje in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2002.081,
+        "end": 2194.608,
+        "text": "S to izvršilno funkcijo tega hranjanja, tako da te povezave med pirapariferijo, metaboličnimi celimi kompleksni možgani so zlo komplekzne ogromno signalov s integrira in pri debelih ob isto pride pride domoten, v tej signizaciji, v receptivnosti, signalov iz periferije možganje neslišijo signalov in ko se enkrat poruši to komostatsko ravnovesje, je zlo težko v bistvuhujšat in predvsem pa to težo zdržev.Tako da je tako k reku primari cevc, zveče bomo mi razumel to vzadje, bomo lahko razvil nek empatični odnos do bolnikov, da jih ne bomo proglasil za ob isto posameznike, ki so se zaradi nekih življenjskih okoliščin odločili za napačno izbiro živlinskega sloga, ampak jih bomo dejansko videli kot bolnike z jasno identificirami prejemališči bolezenskimi in tudi potem te relapse po hujšanju ne bomo pripisali nezmožnosti in posameznikom, da sledijo na novo osvojenemu zdravomoženjskemu slogu in njihovim slabosti in se ne morete ga naprej vzdržet, ampak bomo razumeli te prilagoditvene mehanizme organizma, ki sledijo hujšanju, ker takrat se spet začnejo dogaja, te prilihoditevni mehanozem vsaj na treh nivojih in sicer se zmanjša bazalni metabolizem, kar pomen, da se v bistvu porava energije potreba po energiji zelo zmanjše, komu izhujšamo, kar pomen, da za enako nos bo to avtomatsko prispevalo k pridobivanju telesne teže, zaprav to je eni voprilagoditev, drug nivo prilagoditev je sama endokrinologija hujšanja, se pravi zločanje hormonov dokazano, da vsaj še eno leto po hujše s dietami ob isto ostaja raven hormonove, ki spodbujajo apetit, ki podbuja hranjenje povišana in raven tistih hormonov, ki nas poročajo, da smo siti ostaja znižana, tako da obisno se endokrilogija prilagodi ves organizem teži k temu, da bi vzpostavil tisto predhodnost stanje. In spremeni se tudi biologija mašča, to pa ta tretji nivo prilagoditev, v bistvu ko se Adi pociti to so maščobne celice s Krčijo, mi maš čobnje, ki vas ne smejo predstavljati samo kot maš šobne Celice, tam je ogromno vnetnih cedic, tam so kapilare, tako da to je en zlo vsemi mehanizmi, ki se oklopijo, težijo k temu, da se dodato namložijo, da zapolnijo, ti sprosta, da si ponovno povečajo, tako da te te celce, le ne so še našli, dajih nezmožnosti, da bi sladil zdravno življenjskem uslogu, ampak fizologije, biologijo z napatofizologije in patoloških sprememb."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2174.29,
+        "end": 2174.51,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2194.945,
+        "end": 2219.093,
+        "text": "Tko da še to razumemo, potem je možen ta zelo pomemben empatičen pristop pri obravnavi bolnikov z debelosti, ki je pa ključen pri uspehu in dolgotrajnem sodelovanju. Tak le podnos se mora razvit med terapevtem bolnikom, dolgotrajanj, individualen stan kontakt, ker pot je dolga ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2222.013,
+        "end": 2254.953,
+        "text": "Pravzaprav bi težko reko, kjer ne so, zate ker praktično vse ti krojnične nenalezljive druge, krojinične nalezlje bolezniki, saj tako bojimo so povezane tudi z debelostjo od že večkrat omenjen srčno žilnih bolezni do s tem povezana, tako da je težko rečt, kaj ni povezano zrmake."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2255.915,
+        "end": 2262.58,
+        "text": "Debelost ne doda svojega zidaka k poslabšanju teh ostalih bolezni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2263.255,
+        "end": 2264.15,
+        "text": "Praktično vse."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2267.677,
+        "end": 2272.773,
+        "text": "Ja, več kot dvesto bolezni identificirano povezanih za debelostjo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2269.938,
+        "end": 2269.955,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2269.955,
+        "end": 2270.022,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2270.022,
+        "end": 2270.225,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2273.414,
+        "end": 2280.434,
+        "text": "Presnovni steber, mehanski steber in kako smo se že doteknili predvsem psihični duševni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2283.623,
+        "end": 2283.64,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2283.64,
+        "end": 2283.674,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2283.674,
+        "end": 2283.725,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2283.725,
+        "end": 2288.433,
+        "text": "Imate prav uvahvalec za to vprašanje, mislim, da ima družba pri tem zelo veliko vlogo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2283.742,
+        "end": 2283.978,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2288.686,
+        "end": 2294.086,
+        "text": "Pa če začnemo mogoče, tem, kjer smo prej končali pri primarni..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2294.98,
+        "end": 2316.293,
+        "text": "Preventivine, tisto da ne bi zboleli, spomnom se nekaterih akcij ali pa nekterih iniciativ, ki se mi zdijo, da ne bili debeli, da so lepros v platutu to usmerjene. Ne vem, razgibajmo Slovenijo, se spomnim, al pa za zdravo telo vsi na kolo, alpa že to, da slo v Ljubljani številne postaje s njimi bicike lejo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2316.968,
+        "end": 2415.974,
+        "text": "Kolesi, ki ter res ponesejo z ene točke na drugo, pa da se urejajo kolesarske steze, ne vem, sama todko razumam, lahko je to tudi cilj mobilnost, namak sta pa dva cila hkrati, ne se tu če se voziš s kolesom, pravzaprav se premaknjuš tja, kjer moraš bit, ampak ob tem neki narediš zase, ne, in če ignoriraš lift, kdaj jim gre k prijateljci v devetranost roke peši, to je tudi neki, govorimo teh drobnih stvari, ker med privatnega trenerja s tem poglobljeno ukvarjati ime dovolj časa za to, marsikdo ga resnično nima ali pa mu manjka sredstev.Ampak za en dober tek, enkrat sem napisala ne dober teg, unka misloma pa pogozov, prvozaprav večkrat je ne dobre copate ne rabeš, ne?Samo od kosem na vrglasze to se pravi družba, ma določeno odgovornost res tudi zato preprečevanje debelosti, na drugi strani reklamiranje stvari, ki nam delajo hudo škodo, mogoče bi le omenila sladkane pijače, ko smo delali raziskavo z izkavo med najstniki in njihovim strogom življenja, rečem mi, bil je nacionalni inštitut za javno zdravje, je se mimo samo sledila, ampak se je izkazala, da so slovenski otroci eni največjih porabnikov sladkih pijač nasploh.Se moramo zazred tudi vase in rečt res otrokom ponudimo prav za pravo vodo kot neki dobrega kvalitetna in zdravka ali mži od malega, malega malega res ponujamo sladke pijače, ne vem, se je zazamizel nad tem. To so te zdaj primarna preprečevanje debelosti, tako da hotel sem pokazal, da nekje reakcije so ble in še so, ki jih razumem kot tudi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2416.598,
+        "end": 2435.026,
+        "text": "Usmerjeno ciljene na to, da ne bi zboleli za debelostjo. Zdaj krsepatiče duševnih posledic pa res stigmatizacija je zelo prisotna, so mi že povedale pacientke, da na razgovoru za delovno mesto in je bilo eksplicitno povedano, da estetsko ne ustrezajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2435.819,
+        "end": 2462.988,
+        "text": "Letalske družbe se nagibajo k tem, da bi čezmerno težko, le pa debeli morali plačati višjo kartov kot nekdo, ki tehta, ne vem, stokil s svojim kovčkom vredne, kovtške strogo tehtamo, potnikov ne tehtemo, recimo ne in tu, ker se pojavljajo nekaj teze, da nekdo, ki ima stokil, pač na nosilnosti aviona zavzame tolj, potem pa še kovček ne vem, samo interpretiram tisto, kar mi je poznano."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2464.287,
+        "end": 2509.208,
+        "text": "Estetsko, ne, zašli boste v trgovino, kjer od dvainštratdeset številke, na preizplohnine, moda sploh ni, ne za debele mogoče tudi za starejše nemnišljena, ne vem, to je stigmatizacija, ne vseeno so tudi starejši od šestdeset let, pa tudi ljudje, ki ne ustrezajo mera manekenk, ki so tudij radi lepo oblečeni in urejeni in ja, tudi tle vidim določene preboje pri destigmatizaciji s osredo trgovine, ki ustrezaju tudi večjem številkam samo, tako pa piše Gor, trgovina za močnejše ne pa ne veš, obi še noter ali ne bi šel vlgoze za tabo gledatko.So tudi nektare manekenke, ki zagovarjajo to polnost, ali pa..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2510.44,
+        "end": 2628.751,
+        "text": "Drugačno estetiko temu rečmo, in če zaidem za trenutek na drugo stran, ekstremna suhost in anoreksija kot druga skrajna motna hranjenja je enako smrtna, smrtnost je pravzaprav obliki eneje krivulje, če je odkoli zarišem in je tle normalna teža, to se pravi z normalno težejo umrljivost najmanjša, višja je bolj kot si suh in zelo visoka boljk od sider, o tem vrečemo jo krivuljano. Ampak pozdravljam sem takrat eno potezo, takrat nega ameriškega predsednika Bila Klintna, ki je prepovedal ta anoreksičen videz na naslovnicah modnih revij, to niso bile samo deklica, ki so resnično ble skorajda skeleti časnega ta izraz grob uporabiti, ampak ji so imele tudi te make-upe mogoče tak grančne, vidiš enga ne se nekdo reče pa si črna podučmina zlež dober, ne to bila tja neka kontra in se mi je zdelo famozno otrokom od malega dajamo neke estetske norme, neke vzore, nekaj takega in so se mi te poteze zagovorilo družbeno mnivujo tudi zdelefaj.Zdaj če stopimo od stigmatizacije naprej, zdaj že vstopamo v polje, ko je lahko ranjena duša ne zdaj slaba samopodoba, ne so pripombe, tudi otroci znajo izjem kruti, najstniki so direktni brez olepšav, ne vem cesarjih v nova oblačila, ne? Otroček je za klico, cesarje šolnak nihče se ni uporeč pasenak, ampak otroček nimel nobenih zavorili ko pasenakt, kot da otroci med sabo gr dobro čunavajo in izločajo te otroke, in te otroki si otroci se znajdajo v nam začaranem krogu, kjer ne moreš hiter tečt in te ne povabijo se igrec sabolparečati počasnežene bož z nami.In bolj kot je sam, bolje izoliran, bolj išče tolažbo drugje, v tem centru za zadovoljevanje ta druga del vnetega centra, ki kontrolira hranjenje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2626.996,
+        "end": 2627.519,
+        "text": "V centru, ki je bilo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2629.443,
+        "end": 2657.236,
+        "text": "In pol bolj, ko si sami žalosten kajter z veseli, da neki dobro ga poješ, se družska pa že ni. In si še bolj debel, in si šem bolj mobilen, in je šebolj izločen. To so te neke poti, ki se formirajo, ki postanejo utrte in jo potem iz tega zelo, zelo težko izstopit osamljenost, slaba samopodoba, ne vem naslednja stvari reže depresivnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2658.552,
+        "end": 2674.162,
+        "text": "Če si depresiven, si slabo motiviran, če si te presven, si slavo sami iniciativen, zdaj bomo spet sedel tak na tisga, ker je bilo prstigmi, kar kolem mal se vozmo kot po enem Luna parku, ja težje dobiš službo in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2674.668,
+        "end": 2684.219,
+        "text": "Tista, ki so najnovejše odkritja, če že govorimo ne, v starosti pravimo, da imamo ene določene motne psihološke na D."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2685.029,
+        "end": 2712.923,
+        "text": "Tri D, ne, depresija delirij in demenca. Ja, demenco je povezana s čezmerno debelostjo, z pa če hočmo bi čisto aktualni, to ni psihična, ampak je tudi povezava z infekcijskimi boleznimi, ki jo do zdaj nismo tako podarjali, stroka je velikokrat opozorila in se je t dokazala, da ljudje s čezmerno težo in debelostjo so težje prebolevali kovit.To je dejstvo, za katerem lahko stojim tudi s podatki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2713.818,
+        "end": 2759.077,
+        "text": "Skoda in zveča se vrnoma o to psihično sliko nekoga, ki je stigmatiziran, ki ni samozavesten, slaba samopodoba že iskanje pomoči je težko, že prid grem jutro k zdravniku in bom rekel, ne mi pomaga skušati, že to terja na določenju energij, o kje ta oseba nima no in zdaj smo tle spet pri družini, kjer obstaja rečki, mi rečemo napotovalni družinski sistem, kje mama ali oče ali mož ali nekdo tolk časa bezal pa rečete spremem, da nikoga spravi k zdravniku, pa recimo s problemom debelosti in tle pa potem mormo mi nastopati, tako da ta stvar se zagotovo lahko odvije v drugo smer, boste me zdaj vprašali, a nekdo, ki bo uspešno shujšal in pridobil pozitivno samopodobo, bo menj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2749.778,
+        "end": 2749.812,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2759.65,
+        "end": 2783.933,
+        "text": "Tem temnih čustv me objel, jo, lahko se od vrti, to se prav grečemo, da je to reverzibilno gre tudi nazaj v obratno smer. No in tle je tisto, ker na zdravnike najbolj izziva, da se tle opravzaprav da nekaj narediti in da mormo nekajo naredi in privabit mogoče te ljudi, ki niti ne vedo, kakšne vse oblike pomoči obstajajo, da je generalno če samo omenim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2784.71,
+        "end": 2833.715,
+        "text": "Naših centrih za krepitov zdravja, le če mu temu pritisnemo na dva gumba ne, ena možnost da več kalorij porabite, je dejman pojeste, druga pa ta da veš gibate. No in pri nas skušamo oba oboje naslovit, kot ko so te delavnice povezane tudi s telovadbo, s telesnim gibanjem z rekreacijo, potem z meritvami zmogljivosti, ki se povečajo, seveda, ko imate toliko kilmanj, tako da se mi zijo, da so ti programi dobro zastavljeni in se zelo veselim, da bodo spet stekli na vnaših hiši že, ponovno tečejo po kovidu in mislim, da je tukaj še veliko kar lahko naredimo skupaj, vsak sam mora kaj nardi zase ni pa osamljen, ne vsi mu lahko pomagamo, velik na sekega lahko podpiramo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2836.313,
+        "end": 2865.271,
+        "text": "Hitre oblube to takoj, povem mislem hiter dol, hiter gor, to sem strahotno zdi poenostal, ampak sem prepričala se v profesor Jens Treleva z mano strinjala ne jaz, so rekorderji v hujšanju in tudi razne spodbude k temu ekstremno hitremu hujše nju samo, lepo vas prosim to res ni zdravo, predvsem pa ni trajno in smo spet pri tem, kar smo rekli na začetku, naš cilj ni shujšek, na štiri je vzpostal tak življenjski slog, da bomo to težo znali obdržek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2867.515,
+        "end": 2868.68,
+        "text": "Ja, je..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2869.203,
+        "end": 2890.229,
+        "text": "Absolutno, zelo lepo ilustrirano, na vse te stiske in pred destigmatizacijo je smiselno najpomembno tudi to osveščanje o dopolnjenem tradicionalnem pogledu na debelost kot bolezen, tako ga smo že rekel tradicionalni pogled, je, da je debelost posledica."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2890.786,
+        "end": 2947.317,
+        "text": "Genetsko predisponiranega posameznika, ki si je izbral nezdravživljenjski slog in potem nezmožnost hujšanja in relapsij v hujše njegova nesposobnost, da bi vzdrževal zdravževljenjski slog. Če to dopolnimo ta tradicionalni pogled z novimi znanstvenimi spoznanji, ob patofizologiji debelosti, da se zavedamo, da so tudi v zadnji ubistvu prijemališča merljiva prepoznana, da prepoznamo to patologijo in začnemo na posameznike z debelostjo gledati ne kot neke grešnike, ampak od nažrtve vseh teh procesov, da bo tata nov, novejši pogled s tem iz poznani pripomogal k destigmatizaciji.V prvi vrsti znotraj zdravstvenega sistema, kjer še vedno obstajajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2948.313,
+        "end": 2972.883,
+        "text": "Tudi določene stigne pri obravnavi teh bolnikov pogosto je hitro, odpravljamo prepoznamo debelo, s potem pa rečemo, jaz se manjajte več, vibajte, ampak zdaj smo ilustrije, da tako preprosto ni kot potem v neki širšem družbenem konsenzu, da se bo to odsevalo. Ta sprememba v perspektivi pogleda na samodebelostne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2970.588,
+        "end": 2971.87,
+        "text": "Poklede ne samo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2975.498,
+        "end": 2976.663,
+        "text": "Brosim si, Marij."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2975.853,
+        "end": 2991.8,
+        "text": "Prosim, je manj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2992.508,
+        "end": 3010.295,
+        "text": "Ključna kržava je dolgotrajno vzdržavet z nižno težo, vse te diete obljubljajo trideset kot petdeset kil v eno mesto boš shujšal, seveda v naslednjem mestu jih bo šestdeset pridobil nazaj in so časov s tem še depresijo, ker si sfalil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3010.885,
+        "end": 3025.718,
+        "text": "Tako da tudi bi moral, kaj narest na tem področju, da bi se te stvari začele ta te reklame na neklač in omejvet, in sočasno s tem tudi čudežni preparati, ki so jih lekarne na žalost polne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3026.427,
+        "end": 3037.801,
+        "text": "In ker se prodajev prinašajo dobiček, zato jih tudi propagirajo, vam bo pa, da pa zaprav edini pravi način shuševanja je zdrava prehrana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3038.662,
+        "end": 3118.548,
+        "text": "Kje energijetsko pač prilagojeno, vsakemu posamezniku z njegovimi temi nagnjenji, da bo shujšal in v moda prozaprav skozi genetski razvoj smo se najbolj približali perhrani, ki jo približe odraža mediteranska prehrana razne, ljucah F diete, daž diete, omejevalne diete take in drugače to so zmeri dvorezen meč praktično vsi shujšajo, ampak praktišno vseh tudi vse to nazaj dobijo. To je bilo kar nekaj raziskav, ki je jasno pokazalo, da edina dieta, ki ima lahko zelo edina prehrana, ki ji ima dolgoročen učink, pozitivo načink je pravzaprav mediteranska prehruna, ki je nenazadnje tudi Slovenija, nam je blizu tak način prekranjevanja, tako da, ker to je pa naslednja stvar, ki si sino pomembna, ko se mi z nekom pogovarjamo, kje je prekomena prekrane ali sta celo debel, pa mu svetujemo ribe, a on pa rib ne mara, pozabi, si že obsojen napropad, skatka ključna zadeva je tudi to, da ko se mi pohlavarjamo kakšno prehrananej ta človk uporablja, da se približemo njegovemu okusu in njogovim potrebam. To so hodb, saj dodat glede na tele raznorazne grozne diete!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3117.029,
+        "end": 3118.818,
+        "text": "Razno razne, grozne dijete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3121.332,
+        "end": 3127.188,
+        "text": "Je bližnjic ni, pot je dolga, po njej moramo hvadač skupaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3127.728,
+        "end": 3180.53,
+        "text": "Prilagajat v bistvu proces je dinamičen, definirat v bisnju dosegljive cilje, opredelit kakšne cilji posameznik potrebuje glede na prizadetost njegovih tarčnih organov in pa v bistv uporabljati vsa orodja, ki jih imamo na voljo in da zaključmo nekoliko bolj optimistično, zdaj na debelosti ob isto bomo doživel določene preboje, dolo čene novosti, zapolnana bo tista vrzelke, da zdajosta imankala, tako da je neko optimizemno, da tudi recimo farmakoterapija, ki prihaja, bo neka bergla v začetku, da bodo lahko osvoji zdravživrenjski slog in potem po opustitvi farmakoterapije, ki nekak..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3181.66,
+        "end": 3199.835,
+        "text": "Dokler so jemlje pretentati prilagoditve mehanizme naše lastne možgane in naše lasno signale iz periferije, da bodo s to pomočjo potem lažje vztrajali na zdraven življenjskem slogu, ki pa je edina dolgoročna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3185.626,
+        "end": 3187.128,
+        "text": "Na še lastne mužgane?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3199.902,
+        "end": 3237.331,
+        "text": "Rašitev pa se prav ni bližnjic, pa nagraje vtore vsake majhne korake, ne, tudi, ker tuče še ni nekih zdaj estetskov vidnih učinkov že tudi redukcija telesne teže pet, deset procentov, kar prznarni telesni teži se mogoče še ne bo videl, ampak v medicinskem smislu so v bistvu to že pozitivne stvari klinično pomembna redukcija telesne teže in je treba vse temmehne korake na tej dolgi težavni poti nagreje vrt spujat instant na empatičen način ob strani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3237.449,
+        "end": 3237.753,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3237.753,
+        "end": 3237.77,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3240.689,
+        "end": 3265.951,
+        "text": "Primarna raven je primarne, je tista prva, to je nizkopražen odstop in vstop v zdravstveni sistem in mislim, da smo lepo naslovili namen današnje okrogle mize s tem, da brez problemov ni rešitev, osnovna postavka, da pacient sploh prijel do nas je to, da prepozna svoj problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3266.609,
+        "end": 3270.625,
+        "text": "Čim naredi prve korake, bomo začeli ta program reševat."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3271.165,
+        "end": 3283.045,
+        "text": "Rešitve niso instantne, hitre rešitvi so kratkoročne vsaj kar se tiče debelosti, zato počasi in premišljeno, zadovo uspešno in da se..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3281.746,
+        "end": 3281.948,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3283.433,
+        "end": 3291.922,
+        "text": "Združijo vsi možni deležniki, ki lahko pri tem sodelujejo, vsako pomoč, ki jo lahko kdo dobi za hujšanje naj sprejme."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3292.647,
+        "end": 3299.363,
+        "text": "Tudi centri za krepitev zdravja ali pa individualno hujšanje ali pa še drugi strokovnjaki in skupaj zmoremo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3301.304,
+        "end": 3342.58,
+        "text": "V klubu samo je nujno dodeče družbo kot celoto, brez tega ne bo šlo, kot sem prek povedal, pri otrokih se je krasno pokazal, kako družba se prav šola lahko ekstrebno učinkovito izboljša situacijo in kako pa zunanji element element tovno žalost zelo hitro poruš.Mi vemo, da sladke pijače so smrt, so strup, vemo pa prav sladkor, je prav, edik, je, je prvzaprav tak, da se ga navadaš in da se gav prv zaprav težko loja jedroga nekateri prave, da je celo skor kot kokain, ampak bi opozil samo za ena stvar."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3334.987,
+        "end": 3335.003,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3335.003,
+        "end": 3335.695,
+        "text": "Je droga."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3342.715,
+        "end": 3374.103,
+        "text": "Bla so zelo intenzivna gibanja o tem, da bi se sladke pijače dodatno obdavčil, podobno kot pri kajenju, pri cigaretah.Pa pa je družba to zavrlna zaradi kratkoročnih dobičkov, mislim, da tudi bo treba marsikaj naredil na tem področju in da se bo tudi spremoviral, da bo v teh avtomatih, na primer, ki jih imamo po raznih ustanovah, naprimer pred diabetesom, je krasna paradki, poln cukram."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3375.065,
+        "end": 3412.325,
+        "text": "To je treba na nek način spremeniti in takale okrogle miza upanj, da bo tudi kakšnega spomela, da bi lahko tudi iz druga konca poridel, da bodo namreč zakaj, zatekaj, ker prilka delata tu, če imaš na razpolago take stvari, bodo pač te ljudje to ozeljček, pa ne bo, pa ni bodo, če bodo noter kruhki z zelenjavo, pa nabo nobene salance zraven, bodlo pač mogel kruhe s solatko jest, da ne bodo lačni in to je tisto, prikokater ga bi mi lahko zelo dobro vplival na..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3413.017,
+        "end": 3417.742,
+        "text": "To slabo epidemiologško situacijo, kar so debelosti v Sloveniji niče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3418.855,
+        "end": 3421.808,
+        "text": "A pa ta razpoložljivo svaljat od zadomačih ladilnik."
+      }
+    ],
+    "runtime_sec": 1327.5470225811005
+  }
+}
