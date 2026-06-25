@@ -3,7 +3,42 @@ warnings.filterwarnings("ignore")
 
 import os
 import torch
+import torchaudio
+
+_torch_load_orig = torch.load
+def _torch_load_compat(*args, **kwargs):
+    kwargs["weights_only"] = False
+    return _torch_load_orig(*args, **kwargs)
+torch.load = _torch_load_compat
 from pathlib import Path
+
+# torchaudio 2.x removed AudioMetaData — patch before pyannote imports
+if not hasattr(torchaudio, "AudioMetaData"):
+    from dataclasses import dataclass
+    @dataclass
+    class _AudioMetaData:
+        sample_rate: int = 0
+        num_frames: int = 0
+        num_channels: int = 0
+        bits_per_sample: int = 0
+        encoding: str = ""
+    torchaudio.AudioMetaData = _AudioMetaData
+if not hasattr(torchaudio, "list_audio_backends"):
+    torchaudio.list_audio_backends = lambda: ["soundfile"]
+if not hasattr(torchaudio, "get_audio_backend"):
+    torchaudio.get_audio_backend = lambda: "soundfile"
+if not hasattr(torchaudio, "set_audio_backend"):
+    torchaudio.set_audio_backend = lambda backend: None
+if not hasattr(torchaudio, "info"):
+    def _torchaudio_info(path, format=None):
+        import soundfile as sf
+        info = sf.info(path)
+        return torchaudio.AudioMetaData(
+            sample_rate=info.samplerate, num_frames=info.frames,
+            num_channels=info.channels, bits_per_sample=16, encoding="PCM_S",
+        )
+    torchaudio.info = _torchaudio_info
+
 from pyannote.audio import Pipeline
 from dotenv import load_dotenv
 
@@ -20,7 +55,7 @@ class DiarizationModel:
         asr: str | None = "whisper",
         whisper_size: str = "small",
         preprocess_params: dict | None = None,
-        pyannote_model: str = "pyannote/speaker-diarization-community-1",
+        pyannote_model: str = "pyannote/speaker-diarization-3.1",
     ):
         self.preprocessor = Preprocessor(preprocess_params)
         self.transcriber = Transcriber(asr, whisper_size) if asr is not None else None
@@ -29,7 +64,7 @@ class DiarizationModel:
         print(f"Loading diarization pipeline ({pyannote_model})...")
         self._diarization = Pipeline.from_pretrained(
             pyannote_model,
-            token=os.getenv("HF_TOKEN"),
+            use_auth_token=os.getenv("HF_TOKEN"),
         )
         self._diarization.to(device)
         print("Diarization pipeline loaded.")
@@ -53,7 +88,7 @@ class DiarizationModel:
         waveform, sample_rate = load_audio(audio_file)
         if preprocess:
             waveform, sample_rate = self.preprocessor.process(waveform, sample_rate)
-        return self._diarization({"waveform": waveform, "sample_rate": sample_rate})
+        return self._diarization({"waveform": waveform.float(), "sample_rate": sample_rate})
 
     def execPipeline(self, audio_file: str, output_path: str = "output/transcript.txt") -> list[str]:
         if self.transcriber is None:

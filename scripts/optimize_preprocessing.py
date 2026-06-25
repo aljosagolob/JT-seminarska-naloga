@@ -24,7 +24,7 @@ RTTM_DIR  = _latest / "rttm"  if _latest else Path("datasets/artur-j/chunks/late
 OUTPUT_DIR = Path("results")
 
 # Run configuration
-N_EVAL_FILES = 10      # audio files used per trial (None = all)
+N_EVAL_FILES = 50      # audio files used per trial (None = all)
 N_TRIALS = 50
 STUDY_NAME = "diarization_preprocessing"
 STORAGE = f"sqlite:///{OUTPUT_DIR / 'optuna.db'}"
@@ -66,7 +66,7 @@ def evaluate(params: dict) -> float:
 
         diarization = model.diarize(str(audio_path))
         reference = load_rttm(str(rttm_path))[uri]
-        der_metric(reference, diarization.speaker_diarization, uem=None)
+        der_metric(reference, diarization, uem=None)
 
         print(f" DER={float(abs(der_metric)):.4f}")
 

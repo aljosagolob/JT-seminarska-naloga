@@ -5,12 +5,46 @@ import argparse
 import os
 import sys
 import torch
+import torchaudio
 import numpy as np
 import soundfile as sf
 from dotenv import load_dotenv
-from pyannote.audio import Pipeline
 
-from preprocess import load_audio, preprocess, PARAMS
+_torch_load_orig = torch.load
+def _torch_load_compat(*args, **kwargs):
+    kwargs["weights_only"] = False
+    return _torch_load_orig(*args, **kwargs)
+torch.load = _torch_load_compat
+
+if not hasattr(torchaudio, "AudioMetaData"):
+    from dataclasses import dataclass
+    @dataclass
+    class _AudioMetaData:
+        sample_rate: int = 0
+        num_frames: int = 0
+        num_channels: int = 0
+        bits_per_sample: int = 0
+        encoding: str = ""
+    torchaudio.AudioMetaData = _AudioMetaData
+if not hasattr(torchaudio, "list_audio_backends"):
+    torchaudio.list_audio_backends = lambda: ["soundfile"]
+if not hasattr(torchaudio, "get_audio_backend"):
+    torchaudio.get_audio_backend = lambda: "soundfile"
+if not hasattr(torchaudio, "set_audio_backend"):
+    torchaudio.set_audio_backend = lambda backend: None
+if not hasattr(torchaudio, "info"):
+    def _torchaudio_info(path, format=None):
+        import soundfile as _sf
+        info = _sf.info(path)
+        return torchaudio.AudioMetaData(
+            sample_rate=info.samplerate, num_frames=info.frames,
+            num_channels=info.channels, bits_per_sample=16, encoding="PCM_S",
+        )
+    torchaudio.info = _torchaudio_info
+
+from pyannote.audio import Pipeline
+from preprocessor import preprocess, PARAMS
+from utils import load_audio
 
 
 def merge_segments(segments, gap_threshold=0.5):
@@ -68,8 +102,8 @@ def run(audio_file: str, model_type: str, use_preprocess: bool, output_path: str
 
     print("Loading diarization pipeline...")
     diarization_pipeline = Pipeline.from_pretrained(
-        "pyannote/speaker-diarization-community-1",
-        token=os.getenv("HF_TOKEN"),
+        "pyannote/speaker-diarization-3.1",
+        use_auth_token=os.getenv("HF_TOKEN"),
     )
     diarization_pipeline.to(device)
 
