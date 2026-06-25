@@ -1,5 +1,10 @@
+# CUDA 12.8 wheels for torch/torchaudio (RTX 3070 Ti, Ampere sm_86).
+# Pulls the GPU build from the PyTorch index; everything else stays on PyPI.
+--extra-index-url https://download.pytorch.org/whl/cu128
+
 pyannote.audio
-torch
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
 openai-whisper
 soundfile
 transformers==4.44.2
@@ -11,3 +16,4 @@ numpy
 noisereduce
 whisperx
 jiwer
+pedalboard

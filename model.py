@@ -88,7 +88,10 @@ class DiarizationModel:
         waveform, sample_rate = load_audio(audio_file)
         if preprocess:
             waveform, sample_rate = self.preprocessor.process(waveform, sample_rate)
-        return self._diarization({"waveform": waveform.float(), "sample_rate": sample_rate})
+        with torch.inference_mode():
+            result = self._diarization({"waveform": waveform.float(), "sample_rate": sample_rate})
+        del waveform
+        return result
 
     def execPipeline(self, audio_file: str, output_path: str = "output/transcript.txt") -> list[str]:
         if self.transcriber is None:
