@@ -88,15 +88,11 @@ def _load_models():
     print("[OurPipeline] Loading Slovenian Whisper model...")
     _whisper_model = asr_pipeline(
         "automatic-speech-recognition",
-        model="samolego/whisper-small-slovenian",
+        model="shripadbhat/whisper-medium-sl",
         device=0 if device.type == "cuda" else -1,
-        chunk_length_s=20,
-        stride_length_s=2,
         generate_kwargs={
             "no_repeat_ngram_size": 3,
             "repetition_penalty": 1.1,
-            "language": "sl",
-            "task": "transcribe",
         }
     )
 
@@ -127,10 +123,14 @@ def run_our_pipeline(audio_path: str) -> list:
 
     _load_models()
 
+    import soundfile as sf
+
     t0 = time.time()
+    raw_audio, sr = sf.read(audio_path, dtype="float32")
+    if raw_audio.ndim > 1:
+        raw_audio = raw_audio.mean(axis=1)
     waveform_tensor, sample_rate = load_audio(audio_path)
     waveform_tensor, sample_rate = preprocess(waveform_tensor, sample_rate, PARAMS)
-    waveform = waveform_tensor.numpy()[0]
     t_preprocess = time.time() - t0
 
     t0 = time.time()
@@ -146,15 +146,15 @@ def run_our_pipeline(audio_path: str) -> list:
     t0 = time.time()
     output = []
     for seg in raw_segments:
-        start_sample = int(seg["start"] * sample_rate)
-        end_sample   = int(seg["end"]   * sample_rate)
-        audio_chunk  = waveform[start_sample:end_sample].astype(np.float32)
+        start_sample = int(seg["start"] * sr)
+        end_sample   = int(seg["end"]   * sr)
+        audio_chunk  = raw_audio[start_sample:end_sample].astype(np.float32)
 
         duration = seg["end"] - seg["start"]
         if duration < 0.5:
             text = ""
         else:
-            result = _whisper_model({"array": audio_chunk, "sampling_rate": sample_rate})
+            result = _whisper_model({"array": audio_chunk, "sampling_rate": sr})
             text = result["text"].strip()
 
         output.append({
@@ -165,7 +165,7 @@ def run_our_pipeline(audio_path: str) -> list:
         })
     t_asr = time.time() - t0
 
-    audio_duration = len(waveform) / sample_rate
+    audio_duration = len(raw_audio) / sr
     print(f"  [OurPipeline] preprocess={t_preprocess:.1f}s  diarization={t_diarization:.1f}s  "
           f"asr={t_asr:.1f}s  total={t_preprocess+t_diarization+t_asr:.1f}s  "
           f"(audio={audio_duration:.1f}s  RTF={( t_preprocess+t_diarization+t_asr)/audio_duration:.2f}x)")
