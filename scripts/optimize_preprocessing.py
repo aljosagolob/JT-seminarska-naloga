@@ -2,36 +2,58 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import json
-import os
+import sys
+from datetime import datetime
 from pathlib import Path
+
 import optuna
 from dotenv import load_dotenv
-from pyannote.audio import Pipeline
 from pyannote.database.util import load_rttm
 from pyannote.metrics.diarization import DiarizationErrorRate
-import torch
-from utils import load_audio
-from preprocessor import preprocess
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from model import DiarizationModel
 
 load_dotenv()
 
+# Paths
 AUDIO_DIR = Path("data/audio_test/audio")
 RTTM_DIR = Path("data/transcripts")
+OUTPUT_DIR = Path("results")
 
-# How many files to use per trial -> None uses all
-N_EVAL_FILES = 10
+# Run configuration
+N_EVAL_FILES = 10      # audio files used per trial (None = all)
+N_TRIALS = 50
+STUDY_NAME = "diarization_preprocessing"
+STORAGE = f"sqlite:///{OUTPUT_DIR / 'optuna.db'}"
+OPTIMIZE_DENOISE = True  # include denoise params in search space
 
-# Load model
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-pipeline = Pipeline.from_pretrained(
-    "pyannote/speaker-diarization-community-1",
-    token=os.getenv("HF_TOKEN"),
-)
-pipeline.to(device) # type: ignore
-# Runs the diarization model with the prepcrocessing parameters
+# Search space (min, max) 
+PARAM_RANGES = {
+    # Acoustic preprocessing
+    "speed": (0.8, 1.2),
+    "highpass_cutoff": (0.0, 300.0),
+    "lowpass_cutoff": (4000.0, 8000.0),
+    "target_lufs": (-32.0, -16.0),
+    "eq_gain_db": (-6.0, 12.0),
+    "comp_threshold_db": (-40.0, -10.0),
+    "comp_ratio": (1.0, 8.0),
+
+    # Denoising
+    "noise_reduce_strength": (0.0, 1.0),
+    "gate_threshold_db": (-50.0, -10.0),
+    "denoise_comp_threshold_db": (-40.0, -10.0),
+    "denoise_comp_ratio": (1.0, 8.0),
+    "low_shelf_gain_db": (0.0, 15.0),
+    "denoise_gain_db": (-3.0, 6.0),
+}
+
+model = DiarizationModel(asr=None)
+
+
 def evaluate(params: dict) -> float:
+    model.set_params(params)
     der_metric = DiarizationErrorRate()
-    # Get a list of audio files, limited with N_EVAL_FILES
     audio_files = sorted(f for f in AUDIO_DIR.glob("*.wav") if not f.name.startswith("."))[:N_EVAL_FILES]
 
     for i, audio_path in enumerate(audio_files):
@@ -40,55 +62,71 @@ def evaluate(params: dict) -> float:
 
         print(f"  [{i+1}/{len(audio_files)}] {uri}", end="", flush=True)
 
-        # Load, preprocess, diarize and evaluate
-        waveform, sample_rate = load_audio(str(audio_path))
-        waveform, sample_rate = preprocess(waveform, sample_rate, params)
-        output = pipeline({"waveform": waveform, "sample_rate": sample_rate}) # type: ignore
+        diarization = model.diarize(str(audio_path))
         reference = load_rttm(str(rttm_path))[uri]
-        der_metric(reference, output.speaker_diarization, uem=None)
+        der_metric(reference, diarization.speaker_diarization, uem=None)
 
         print(f" DER={float(abs(der_metric)):.4f}")
+
     return float(abs(der_metric))
 
-# Called by optuna for each trial, it tries to minimize the returned number: der
-def objective(trial: optuna.Trial) -> float:
 
-    # Define the search space for each parameter -> optuna tracks them across trials
+# Optimization objective function
+def objective(trial: optuna.Trial) -> float:
+    def suggest(name: str) -> float:
+        lo, hi = PARAM_RANGES[name]
+        return trial.suggest_float(name, lo, hi)
+
     params = {
-        "speed":              trial.suggest_float("speed", 0.5, 2.0),
-        "highpass_cutoff":    trial.suggest_float("highpass_cutoff", 0.0, 300.0),
-        "lowpass_cutoff":     trial.suggest_float("lowpass_cutoff", 4000.0, 8000.0),
-        "gain_db":            trial.suggest_float("gain_db", -6.0, 6.0),
-        "target_lufs":        trial.suggest_float("target_lufs", -32.0, -16.0),
-        "eq_center_freq":     trial.suggest_float("eq_center_freq", 500.0, 4000.0),
-        "eq_gain_db":         trial.suggest_float("eq_gain_db", -6.0, 12.0),
-        "eq_q":               trial.suggest_float("eq_q", 0.5, 3.0),
-        "comp_threshold_db":  trial.suggest_float("comp_threshold_db", -40.0, -10.0),
-        "comp_ratio":         trial.suggest_float("comp_ratio", 1.0, 8.0),
+        # Acoustic preprocessing
+        "speed":             suggest("speed"),
+        "highpass_cutoff":   suggest("highpass_cutoff"),
+        "lowpass_cutoff":    suggest("lowpass_cutoff"),
+        "target_lufs":       suggest("target_lufs"),
+        "eq_gain_db":        suggest("eq_gain_db"),
+        "comp_threshold_db": suggest("comp_threshold_db"),
+        "comp_ratio":        suggest("comp_ratio"),
+
+        # Denoising
+        "denoise":                   OPTIMIZE_DENOISE,
+        "noise_reduce_strength":     suggest("noise_reduce_strength") if OPTIMIZE_DENOISE else 0.75,
+        "gate_threshold_db":         suggest("gate_threshold_db")     if OPTIMIZE_DENOISE else -30.0,
+        "denoise_comp_threshold_db": suggest("denoise_comp_threshold_db") if OPTIMIZE_DENOISE else -16.0,
+        "denoise_comp_ratio":        suggest("denoise_comp_ratio")    if OPTIMIZE_DENOISE else 4.0,
+        "low_shelf_gain_db":         suggest("low_shelf_gain_db")     if OPTIMIZE_DENOISE else 10.0,
+        "denoise_gain_db":           suggest("denoise_gain_db")       if OPTIMIZE_DENOISE else 2.0,
     }
+
     der = evaluate(params)
     print(f"Trial {trial.number:3d} | DER={der:.4f} | {params}")
     return der
 
 
 if __name__ == "__main__":
-    print(f"Starting optimization on {N_EVAL_FILES} files, 50 trials...")
-    print(f"Audio: {AUDIO_DIR}")
-    print(f"Device: {device}\n")
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Create optuna instance
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    study_name = f"{STUDY_NAME}_{timestamp}"
+
+    print(f"Starting optimization — {N_EVAL_FILES} files, {N_TRIALS} trials")
+    print(f"Audio: {AUDIO_DIR}")
+    print(f"Device: {model._diarization.device}")
+    print(f"Optimize denoise: {OPTIMIZE_DENOISE}")
+    print(f"Study: {study_name}\n")
+
     study = optuna.create_study(
         direction="minimize",
-        study_name="diarization_preprocessing",
-        storage="sqlite:///optuna.db",
-        load_if_exists=True,
+        study_name=study_name,
+        storage=STORAGE,
+        load_if_exists=False,
     )
-    study.optimize(objective, n_trials=50)
+    study.optimize(objective, n_trials=N_TRIALS)
 
-    print("\nBest DER:", study.best_value)
+    print("\nBest DER:   ", study.best_value)
     print("Best params:", study.best_params)
 
     result = {"best_der": study.best_value, "best_params": study.best_params}
-    with open("best_params.json", "w") as f:
+    output_path = OUTPUT_DIR / f"best_params_{timestamp}.json"
+    with open(output_path, "w") as f:
         json.dump(result, f, indent=2)
-    print("Saved to best_params.json")
+    print(f"Saved to {output_path}")

@@ -15,18 +15,27 @@ load_dotenv()
 
 
 class DiarizationModel:
-    def __init__(self, asr: str = "whisper", whisper_size: str = "small", preprocess_params: dict | None = None):
+    def __init__(
+        self,
+        asr: str | None = "whisper",
+        whisper_size: str = "small",
+        preprocess_params: dict | None = None,
+        pyannote_model: str = "pyannote/speaker-diarization-community-1",
+    ):
         self.preprocessor = Preprocessor(preprocess_params)
-        self.transcriber = Transcriber(asr, whisper_size)
+        self.transcriber = Transcriber(asr, whisper_size) if asr is not None else None
 
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        print("Loading diarization pipeline...")
+        print(f"Loading diarization pipeline ({pyannote_model})...")
         self._diarization = Pipeline.from_pretrained(
-            "pyannote/speaker-diarization-community-1",
+            pyannote_model,
             token=os.getenv("HF_TOKEN"),
         )
         self._diarization.to(device)
         print("Diarization pipeline loaded.")
+
+    def set_params(self, params: dict) -> None:
+        self.preprocessor.params = params
 
     def _extract_segments(self, diarization) -> list:
         return [
@@ -40,22 +49,24 @@ class DiarizationModel:
             f.write("\n".join(lines))
         print(f"Saved to {output_path}")
 
-    def execPipeline(self, audio_file: str, output_path: str = "output/transcript.txt") -> list[str]:
-        # Load audio
+    def diarize(self, audio_file: str):
         waveform, sample_rate = load_audio(audio_file)
-        # Preprocess 
         waveform, sample_rate = self.preprocessor.process(waveform, sample_rate)
+        return self._diarization({"waveform": waveform, "sample_rate": sample_rate})
 
-        print("Running diarization...")
-        # Diarization
+    def execPipeline(self, audio_file: str, output_path: str = "output/transcript.txt") -> list[str]:
+        if self.transcriber is None:
+            raise RuntimeError("execPipeline requires an ASR model. Recreate DiarizationModel with asr='whisper' or asr='slovenian'.")
+
+        waveform, sample_rate = load_audio(audio_file)
+        waveform, sample_rate = self.preprocessor.process(waveform, sample_rate)
         diarization = self._diarization({"waveform": waveform, "sample_rate": sample_rate})
 
-        # Transcription
         segments = self._extract_segments(diarization)
         waveform_np = waveform.numpy()[0]
+
         print("\n=== ANNOTATED TRANSCRIPT ===")
         lines = self.transcriber.run(waveform_np, sample_rate, segments)
 
-        # Save to file
         self._save(lines, output_path)
         return lines

@@ -18,18 +18,10 @@ def build_model():
     return model
 
 
-def benchmark():
-    subprocess.run([sys.executable, "benchmark_files.py"])
-
-
 def diarize(model):
     audio_file = input("Audio file path: ").strip()
     output_path = input("Output path [output/transcript.txt]: ").strip() or "output/transcript.txt"
     model.execPipeline(audio_file, output_path)
-
-
-def optimize():
-    subprocess.run([sys.executable, "optimize_preprocessing.py"])
 
 
 def main():
@@ -39,9 +31,7 @@ def main():
         print("\n=== Speaker Diarization System ===")
         print("1. Load dataset to disk")
         print("2. Build model")
-        print("3. Benchmark model")
-        print("4. Diarize audio file")
-        print("5. Optimize preprocessing params")
+        print("3. Diarize audio file")
         print("0. Exit")
 
         choice = input("\nChoose option: ").strip()
@@ -52,14 +42,10 @@ def main():
             case "2":
                 model = build_model()
             case "3":
-                benchmark()
-            case "4":
                 if model is None:
                     print("Build a model first (option 2).")
                 else:
                     diarize(model)
-            case "5":
-                optimize()
             case "0":
                 break
             case _:

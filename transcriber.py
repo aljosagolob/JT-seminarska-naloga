@@ -6,13 +6,6 @@ import numpy as np
 
 
 class Transcriber:
-    """
-    Runs ASR on pre-diarized audio segments.
-
-    asr: "whisper" for OpenAI Whisper, "slovenian" for samolego/whisper-small-slovenian
-    whisper_size: model size passed to whisper.load_model() when asr="whisper"
-    """
-
     def __init__(self, asr: str = "whisper", whisper_size: str = "small"):
         if asr not in ("whisper", "slovenian"):
             raise ValueError(f"asr must be 'whisper' or 'slovenian', got '{asr}'")
