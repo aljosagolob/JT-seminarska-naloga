@@ -78,11 +78,15 @@ def _load_models():
     print("[OurPipeline] Loading Slovenian Whisper model...")
     _whisper_pipeline = asr_pipeline(
         "automatic-speech-recognition",
-        model="shripadbhat/whisper-medium-sl",
+        model="samolego/whisper-small-slovenian",
         device=0 if device.type == "cuda" else -1,
+        chunk_length_s=20,
+        stride_length_s=2,
         generate_kwargs={
             "no_repeat_ngram_size": 3,
             "repetition_penalty": 1.1,
+            "language": "sl",
+            "task": "transcribe",
         }
     )
 

@@ -13,9 +13,9 @@ import soundfile as sf
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 # ── Config ────────────────────────────────────────────────────────────────────
-AUDIO_DIR = Path("data/audio_test/audio")
-RTTM_DIR = Path("data/transcripts")
-OUT_BASE = Path("data/chunks")
+AUDIO_DIR = Path("datasets/artur-j/wav")
+RTTM_DIR = Path("datasets/artur-j/rttm")
+OUT_BASE = Path("datasets/artur-j/chunks")
 
 TARGET_DURATION = 30.0  # seconds — target max chunk length
 MIN_SPEAKERS = 2        # minimum unique speakers required per chunk

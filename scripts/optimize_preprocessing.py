@@ -16,9 +16,11 @@ from model import DiarizationModel
 
 load_dotenv()
 
-# Paths
-AUDIO_DIR = Path("data/audio_test/audio")
-RTTM_DIR = Path("data/transcripts")
+# Paths — pick the most recent chunk run automatically
+_CHUNKS_BASE = Path("datasets/artur-j/chunks")
+_latest = max(_CHUNKS_BASE.iterdir(), key=lambda p: p.name) if _CHUNKS_BASE.exists() else None
+AUDIO_DIR = _latest / "audio" if _latest else Path("datasets/artur-j/chunks/latest/audio")
+RTTM_DIR  = _latest / "rttm"  if _latest else Path("datasets/artur-j/chunks/latest/rttm")
 OUTPUT_DIR = Path("results")
 
 # Run configuration
@@ -109,6 +111,7 @@ if __name__ == "__main__":
     study_name = f"{STUDY_NAME}_{timestamp}"
 
     print(f"Starting optimization — {N_EVAL_FILES} files, {N_TRIALS} trials")
+    print(f"Chunks: {_latest}")
     print(f"Audio: {AUDIO_DIR}")
     print(f"Device: {model._diarization.device}")
     print(f"Optimize denoise: {OPTIMIZE_DENOISE}")
