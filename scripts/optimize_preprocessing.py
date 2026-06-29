@@ -1,12 +1,15 @@
 import warnings
 warnings.filterwarnings("ignore")
 
+import gc
 import json
+import random
 import sys
 from datetime import datetime
 from pathlib import Path
 
 import optuna
+import torch
 from dotenv import load_dotenv
 from pyannote.database.util import load_rttm
 from pyannote.metrics.diarization import DiarizationErrorRate
@@ -25,7 +28,8 @@ OUTPUT_DIR = Path("results")
 
 # Run configuration
 N_EVAL_FILES = 50      # audio files used per trial (None = all)
-N_TRIALS = 50
+N_TRIALS = 250
+EVAL_SEED = 42         # fixes which files are sampled, identical across trials
 STUDY_NAME = "diarization_preprocessing"
 STORAGE = f"sqlite:///{OUTPUT_DIR / 'optuna.db'}"
 OPTIMIZE_DENOISE = True  # include denoise params in search space
@@ -33,7 +37,6 @@ OPTIMIZE_DENOISE = True  # include denoise params in search space
 # Search space (min, max) 
 PARAM_RANGES = {
     # Acoustic preprocessing
-    "speed": (0.33, 3),
     "highpass_cutoff": (0.0, 500.0),
     "lowpass_cutoff": (2000.0, 12000.0),
     "target_lufs": (-32.0, -16.0),
@@ -56,7 +59,15 @@ model = DiarizationModel(asr=None)
 def evaluate(params: dict) -> float:
     model.set_params(params)
     der_metric = DiarizationErrorRate()
-    audio_files = sorted(f for f in AUDIO_DIR.glob("*.wav") if not f.name.startswith("."))[:N_EVAL_FILES]
+    all_files = sorted(f for f in AUDIO_DIR.glob("*.wav") if not f.name.startswith("."))
+    if N_EVAL_FILES is None:
+        audio_files = all_files
+    else:
+        # Seeded sample across all recordings (not the first N alphabetically,
+        # which would all come from one recording). Same seed -> identical eval
+        # set every trial, so trials stay comparable.
+        sampled = random.Random(EVAL_SEED).sample(all_files, min(N_EVAL_FILES, len(all_files)))
+        audio_files = sorted(sampled)
 
     for i, audio_path in enumerate(audio_files):
         uri = audio_path.stem
@@ -70,6 +81,16 @@ def evaluate(params: dict) -> float:
 
         print(f" DER={float(abs(der_metric)):.4f}")
 
+        # Drop references so the per-file arrays are freed immediately (refcount),
+        # preventing the accumulation across the loop that exhausted RAM before.
+        del diarization, reference
+
+    # One reclaim per trial — calling empty_cache() every file defeats the CUDA
+    # caching allocator and slows the GPU down.
+    gc.collect()
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+
     return float(abs(der_metric))
 
 
@@ -81,7 +102,7 @@ def objective(trial: optuna.Trial) -> float:
 
     params = {
         # Acoustic preprocessing
-        "speed":             suggest("speed"),
+        "speed":             1.0,  # fixed — no time/pitch change (resample skipped)
         "highpass_cutoff":   suggest("highpass_cutoff"),
         "lowpass_cutoff":    suggest("lowpass_cutoff"),
         "target_lufs":       suggest("target_lufs"),

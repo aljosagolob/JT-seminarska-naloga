@@ -1,3 +1,5 @@
+from fractions import Fraction
+
 import torch
 import torchaudio.functional as F
 from effects import bandpass_eq
@@ -29,7 +31,14 @@ def preprocess(waveform: torch.Tensor, sample_rate: int, params: dict = PARAMS) 
         waveform, sample_rate = noise_reduction(waveform, sample_rate, params)
 
     if params["speed"] != 1.0:
-        waveform = F.resample(waveform, orig_freq=int(sample_rate * params["speed"]), new_freq=sample_rate)
+        # Resampling cost depends only on the ratio orig_freq/new_freq, and the
+        # sinc kernel size scales with that fraction once reduced. Passing a raw
+        # int(sample_rate * speed) vs sample_rate gives an almost-coprime ratio,
+        # so the kernel blows up to multiple GB and OOMs. Approximate the speed
+        # with a small-denominator fraction to keep the kernel tiny — the audible
+        # effect is identical since only the ratio matters.
+        ratio = Fraction(params["speed"]).limit_denominator(100)
+        waveform = F.resample(waveform, orig_freq=ratio.numerator, new_freq=ratio.denominator)
 
     if params["highpass_cutoff"] > 0 or params["lowpass_cutoff"] < sample_rate / 2:
         audio_np = waveform.numpy()[0]
