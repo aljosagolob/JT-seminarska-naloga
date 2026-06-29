@@ -1,0 +1,4168 @@
+{
+  "file_id": "Artur-J-Gvecg-P500020-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500020-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.08847433842195694,
+      "miss": 0.08486282396737217,
+      "fa": 0.0030487284935363864,
+      "confusion": 0.0005627859610483695,
+      "total_duration": 3283.6639999999406
+    },
+    "der_collar0.25": {
+      "der": 0.07834162721099995,
+      "miss": 0.07511624263442587,
+      "fa": 0.002881502882498636,
+      "confusion": 0.00034388169407543583,
+      "total_duration": 3012.66399999994
+    },
+    "wer": {
+      "wer": 0.20367341804000502,
+      "ref_words": 7949,
+      "hyp_words": 7264
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1.162,
+        "end": 23.904,
+        "text": "Rahlo Zamudo predstavil, ta uvod, ki ga je dal predstavnik Evropske komisije, nekaj splošnih ugotovitev podal glede inovacije v Evropi, primerjavi z drugimi globalnimi bloki, sveda pa tudi omenil predvsem zelo uspešen inštrument Accelerator, tako imenovan, zadnji razpis je bil rekorden, preko 40 podjetij iz cele Evrope in izven Evrope je kandideralo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 24.685,
+        "end": 32.709,
+        "text": "Tako da očitno je navalna ta sredstva Evropska nepovratna predsejšen, razlog je tudi kriza, seveda tudi pomankanje vlastnih nacionalnih inštrumentov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 32.769,
+        "end": 39.073,
+        "text": "To zdaj bodo vse teme, da na naš tem okrog le mize v nadaljevanju, ki jo bo vodila kolegica Ina."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 40.666,
+        "end": 60.641,
+        "text": "In jaz se vam zahvaljujem za to pozornost in svedek, dokoli ima kakšno vprašanje, ga lahko tudi naslovi na mene in bom jaz potem naprej naslovil na Evropsko komisijo, lahko je to vprašanje pismeno po mailu, tako da ta praksa tudi obstoja, da se na ta način pridobi kakšne odgovore, tudi čisto operativna vprašanja, konkretna, da so tudi neposredno koristna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 61.021,
+        "end": 63.223,
+        "text": "Torej, toliko za enkrat z moje strani, hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 66.535,
+        "end": 82.118,
+        "text": "Zdaj, najprej bi na začetku povedal, da je v bistvu danes nekak predstavitev te knjige tudi bo potekla, se pravi, šla je prav nekaj dni nazaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 82.499,
+        "end": 85.84,
+        "text": "To je en od prvih prevodov te odlične knjige."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 87.341,
+        "end": 97.885,
+        "text": "V sodelovanju z Založbo UNKO smo se odločili, da to temo nekako predstavimo tudi širši javnosti, se pravi na tak način zizdajo te knjige."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 99.526,
+        "end": 111.735,
+        "text": "Sami se na inštitutu predvsem ukvarjamo z inovacijami, z inovacijsko politiko, poskušamo sami nekako se spokladati s temi vprašanji, ki se pojavljajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 111.855,
+        "end": 129.168,
+        "text": "Enkrat, ko raziskovalci v laboratorijih nekaj odkrijejo, izboljšajo nek postopek, potem pa vse ta proces od te neke inovacije, ki je prepoznana, do potem nekega približevanja njenih uporabnih vrednosti,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 129.732,
+        "end": 154.718,
+        "text": "Tukaj imamo velike zagate in probleme in tukaj mislim, da je smiselno jih nasloviti tudi širše, tako kot je lepo povedal gost iz Evropske komisije, včasih so države premehne, ko se te inovacijske politike pripravljajo in ukrepijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 154.758,
+        "end": 159.381,
+        "text": "in mehanizmi vzpostavljajo, ravno tako smo včasih inštitucije premehne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 159.441,
+        "end": 165.104,
+        "text": "Moramo delati v nekem okolju, ki to vrstne stvari podpira."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.504,
+        "end": 180.973,
+        "text": "Zdelo se nam je, da ta knjiga nekako zaobjame ta proces inoviranja, da na zelo lep način prikaže, kako pride do inovacij in kakšen pomen imajo seveda za družbo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 181.133,
+        "end": 191.743,
+        "text": "In v tem smislu tudi kot promocija tega področja se nam je zdelo zelo pomembno, zato smo seveda z veseljem pristopili k temu projektu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 191.803,
+        "end": 195.186,
+        "text": "Ja, to drži, pa mogoče malo bolj lahkotno, če lahko začnem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 196.047,
+        "end": 206.596,
+        "text": "Od prejšnjih sogovornikov smo slišali, da ne bi bila tudi sedanja kriza neka priložnost za razvoj, napredek in inovacije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 207.357,
+        "end": 216.682,
+        "text": "Žal lahko realno ugotovim, da kriza ni priložnost za izstrošeno slovensko zdravstvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 217.082,
+        "end": 218.203,
+        "text": "Žal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 218.303,
+        "end": 230.749,
+        "text": "Če se spominjate, smo Evropsko prvenstvo v košarki v zadnji minuti igrali brez najpomembnejšega igravca Gora Nadragiča in smo zmagali zaradi dolge klopi rezernih igravcev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 230.809,
+        "end": 235.592,
+        "text": "Če bi imel v sedanjem času dolgo izkušeno rezerno klop,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 236.112,
+        "end": 245.554,
+        "text": "bi v to krizo lahko prišli velik bolj merni in velik bolj nekih optimističnih podatkov povedali v javnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 246.234,
+        "end": 256.757,
+        "text": "Tako pa moramo gotoviti, da smo v zadnjih 20 letih v medicini, tudi v univerzitetnih ustanovah, ki naj bi bila neko valilnica znanja,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 258.286,
+        "end": 267.195,
+        "text": "Štir besede so bile najpogostejše in sicer racionalizacija, reorganizacija, standardizacija, sistematizacija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 268.136,
+        "end": 276.344,
+        "text": "Zelo malo smo v zadnjih 20 letih govorili o motivaciji sodelavcev, o inovacijah in pa morda optimizaciji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 277.265,
+        "end": 281.51,
+        "text": "In večkrat smo zgolj iskali cenejše in ne boljše rešitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 282.957,
+        "end": 293.001,
+        "text": "Dejstvo pa je, da če želimo imeti neko inovacijo, to zahteva bogato znanje, neko osnovno, bazično znanje, iz katerega črpamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 293.021,
+        "end": 304.386,
+        "text": "Tu lahko rečem, da so naši učitelji naredili ogromno dela in našim generacijam in mlajšim generacijam predali to znanje, se pravi tako, da osnovno znanje v medicini ga je dovolj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 305.468,
+        "end": 307.909,
+        "text": "Potem se je treba soočati s problemom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 308.089,
+        "end": 317.854,
+        "text": "To lahko samo naredijo tisti, ki so vsak dan v prvi bojni liniji in se srečujejo z problemi in doma iščejo neke nove ideje in rešitve tega problema."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 318.534,
+        "end": 323.217,
+        "text": "In na to je treba na tak problem pogledati iz več različnih perspektiv."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 323.677,
+        "end": 325.938,
+        "text": "Najprej odaleč iz neke ptiče perspektive,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 326.63,
+        "end": 337.799,
+        "text": "potem pa z nekih drugih zornih kotov in se potem povezati z drugimi skupinami in predstaviti ta problem in potem skupaj iskati neke inovativne nove rešitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 338.259,
+        "end": 341.802,
+        "text": "Skratka, inovacije so tudi plot povezovanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 342.503,
+        "end": 354.812,
+        "text": "Za povezovanja pa je potrebno imeti dovolj časa, dovolj miru, dovolj ustvarjalnega okolja in ne prenatrpane ambulante in izčrpane time ljudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 355.773,
+        "end": 372.679,
+        "text": "Danes lahko tudi ugotovimo, da dosti inovacij, jaz jih imenujem tako imenovane instant inovativne rešitve, prihajajo z industrije in niso vedno namenjene zgolj in isključno izboljšanja zdravlja ljudi, ampak zaslužka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 373.119,
+        "end": 381.722,
+        "text": "Tako lahko ugotovimo, da se določene kirurgske tehnike so praktično izumrle in jih zamenjale druge tehnike, čeprav morda niso za vse pacijente idealne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 382.182,
+        "end": 397.512,
+        "text": "predvsem operacija dimeljske kile, kot ena zelo enostavna in pogosta operacija, ki se je včasih delala na nek način nenapetosnih tehnik, kjer je bilo potrebno veliko znanja anatomije, dobra kirurgška tehnika, šivalna tehnika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 397.792,
+        "end": 399.612,
+        "text": "in natančno izveden poseg."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 400.032,
+        "end": 407.834,
+        "text": "Danes teh operacij praktično ni več in so vse nazamenjale tehnike za uporabo mrežice, ki pa predstavlja tuj material."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 408.174,
+        "end": 418.736,
+        "text": "In mlade generacije praktično prve rešitve sploh ne poznajo, ker jih je industrija naučila in prišla v ustanove zgolj za eno samo tehniko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 418.756,
+        "end": 423.017,
+        "text": "Vsekakor vsa zga posameznika zravnika intime ljudi žene pomoč"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 423.982,
+        "end": 433.447,
+        "text": "sočloveku, iskanju najboljših in idealnih rešitev, ker ti zdravnik je najbolj srečen samo v primeru in isključno teda, ker je pacijent srečen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 433.968,
+        "end": 441.092,
+        "text": "Pacijent je pa srečen takrat, ko se zdravljenje konča brez bolečin, z boljšo funkcijo in v našem primeru z lepšim videzom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 441.768,
+        "end": 444.529,
+        "text": "Vprašanje je postavljeno zelo nasplošno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 444.589,
+        "end": 462.477,
+        "text": "Če se preselimo v bolnišnice na Kitajskem, v Šanhaju, kjer imajo 23 bioprintere na enem oddelku, če se preselimo v sobe Ačibadem v Turčiji, če se preselimo v Nemčiji, mogoče bi bil odgovor popolno drugačen, kot če govorim za slovenske razmere."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 463.057,
+        "end": 466.278,
+        "text": "Slovenske razmere pa moram ponovno podariti, da so kritične."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 466.658,
+        "end": 470.02,
+        "text": "So kritične tako v kadrovskem pogledu, v prostorskih pogojih,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 470.32,
+        "end": 481.929,
+        "text": "imamo popolno maestrošeno opremo, nepregledne čakalne vrste, administrativno delo, ki se zgolj nalaga in jemlja energijo dodatno za naše osnovno delo in poslanstvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 481.949,
+        "end": 492.217,
+        "text": "Tako da lahko gotovimo, da ni imamo ustvarjenih pogojev in da nič ne kaže, da se bodo te pogoji izboljšali, kveč je mu obratno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 492.697,
+        "end": 507.61,
+        "text": "Tudi ta kriza bo dodatno izstrošenje kadra pozročila, še manj zanimanja bo za medicino, tako na sestarskem delu se pravi zdravstveni negi, kot pri zdravnihih, zato ne zrem prav optimistično v prihodnost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 507.85,
+        "end": 512.692,
+        "text": "In brez rezerne klopi nobena ekipa ne more doseči odmevnih rezultatov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 513.232,
+        "end": 522.775,
+        "text": "Vedno v vsakem ekipnem športu in medicina lahkojo enačmo z ekipnim športom potrebuje rezerno klop, da pridejo sveži igravci s svežimi idejami na teren."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 523.216,
+        "end": 534.68,
+        "text": "Tukaj pa vidimo, da je ena oseba, ki mora upraviti klinično delo, krajša čakalne vrste, pedagoško delo, prenašati znanje, znanstveno raziskovalno delo in še le na zadnje pride inovacije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 535.508,
+        "end": 554.038,
+        "text": "Se pravi, inovativne ideje pridajo popovdne v dobre družbi in na smejani družbi o pivu, ko kolegi skupaj zapustijo službo in se posvetijo nekim novim razmišljanjem o nekih novih iskrivih pogovorih, nove ideje o istem problemu na malo drugačen način."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 554.358,
+        "end": 557.34,
+        "text": "Na dopustu, po noč, v takih pogojih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 557.66,
+        "end": 563.543,
+        "text": "Ne pa pri iztrošenji ekipi, ki vsakodnevno zagotavlja osnovno svojo dejavnost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 565.124,
+        "end": 572.651,
+        "text": "odlično bazično znanje mikrokirurgije, ki smo ga dobili od naših učiteljev, ki so to delali že desetletja nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 573.578,
+        "end": 600.206,
+        "text": "povezovanje z tujimi znanstveniki oziroma domačimi znanstveniki, ki se ukvarjajo s drugimi deli, se pravi 3D modeliranjem, izdelovanjem različnih kalupov, modelov, da točno na milimetr na tančno lahko pod določenim kotom odžagamo kost, jo pod točno določenim kotom spojimo, ob tem uporabimo žilje, živce in vse ostalo in potem spet prenos tkiva na obrez oziroma na druge dele telesa,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 601.726,
+        "end": 609.613,
+        "text": "iskrat neke rešitve, ki bodo za pacijenta ugodnejše, kot sem že prej omenil, tako z funkcionalnega kodestetskega videza."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 609.713,
+        "end": 615.958,
+        "text": "Se pravi, skrajšati določene poti, jih optimizirati na osnovi znanja, ki ga do zdaj že poznamo in imamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 616.897,
+        "end": 621.099,
+        "text": "Pričakovanje in cilji so izredno visoki med ljudmi, kar se tiče medicine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 621.8,
+        "end": 632.746,
+        "text": "Se pravi, najhitreje upraviti popolno, brez vsakašne napake, brez prehodnega obdobja stranskih učinkov, rehabilitacije, vse takoj in zdaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 633.246,
+        "end": 645.293,
+        "text": "Lepo ste povedala, da je kirurgija krljice medicine, internisti se s tem sigurno ne bi strinjeli, ampak lahko rečemo, da je kirurgija zlasti pa moje področje, plastična in rekonstrukcijska kirurgija tista,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 645.753,
+        "end": 658.661,
+        "text": "pri kateri je takoj so vidni naši rezultati, se pravi, delo naših rok in razmišljanja naše ekipe so vidne takoj in vsem postavimo na obzorje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 660.569,
+        "end": 671.251,
+        "text": "Kirogija je tudi taka, da se ne moremo skrivat za nekimi procesi biološkimi in kemičnimi reakcijami, ampak pogosto deluje po principu vse ali nič."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 671.791,
+        "end": 679.813,
+        "text": "Ali je pod mikroskopom žila dobro zašita in deluje in je pretok vzpostavljen in tkivo vitalno živo ali pač propade."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 680.213,
+        "end": 685.834,
+        "text": "In iz tega aspekta je kirogija sigurno pomembna panoga, pomembna veja medicine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 686.114,
+        "end": 687.875,
+        "text": "Morda vas moram tukaj vse..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 689.341,
+        "end": 693.003,
+        "text": "delno razočarati, ker kirurg razmišlja malo širše."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 693.824,
+        "end": 710.413,
+        "text": "Če pogledamo recimo kirurgijo dojke in zdravljenje raka dojk, zdaj smo v rožnatem oktobru tudi, je pomemben kirurg, ki se ga povezuje z zdravljenjem raka dojk, doktor in kirurg Hajštet iz Amerike."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 711.254,
+        "end": 717.357,
+        "text": "In lahko ugotovimo, da je njegova tehnika je bila skozi stoletja več ali manj nespremenjena enaka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 718.298,
+        "end": 722.362,
+        "text": "In tudi danes se te kirurgske tehnike niso bistveno spremenile."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 722.783,
+        "end": 731.872,
+        "text": "Kar se je bistveno spremenilo je pa to, da sodelujemo tudi s drugimi timi, se pravi preventiva, pravočasno iskanje bolezni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 732.272,
+        "end": 734.174,
+        "text": "Danes zdravimo netipne rake."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 734.853,
+        "end": 738.274,
+        "text": "ker imamo program DORA, ki odkrije še ne tipne tumore."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 738.775,
+        "end": 744.017,
+        "text": "Haljštet je imel po vprečju tumor večji kot limona, se pravi so bili njegovi rezultati slabši."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 744.577,
+        "end": 760.564,
+        "text": "Še več, danes imamo genetska testiranja in najdemo nosilke mutacij brca 1 in 2 gena, širša javnost bolj pozna recimo primer Anželine Žoli, ona je bila nosilka mutacij gena in si je profilaktično ali preventivno dala odstranj"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 761.279,
+        "end": 767.584,
+        "text": "nevarno tkivo, za katerim bi v tok in tok procentih, 70-80%, nekod zboljela za rakom dojg."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 768.005,
+        "end": 774.09,
+        "text": "In tukaj je spet naša vloga, da pomagamo pravočasno in na najboljši možni način."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 774.19,
+        "end": 782.157,
+        "text": "Jasno so se pa potem tudi zahteve ljudi zvišale po estetskem videzu in danes recimo uporabljamo lahko 3D kalupe, da oblikujemo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 782.677,
+        "end": 788.604,
+        "text": "po repliki sosedne zdrave dojke in v eni sami operaciji dobimo že odličen končen rezultat."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 788.944,
+        "end": 793.589,
+        "text": "Se pravi, skrajšamo operacije z multidisciplinarnim pristopom in še več,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 794.675,
+        "end": 813.642,
+        "text": "Bolnice, tu lahko se pohvalim na sončni strani Alp v Sloveniji, lahko izbirajo med najrazličnejšimi tehnikami, sodobnimi tehnikami, mi predstavljamo vse prednosti, slabosti in na zadnje se bolnica glede na svoja razmišljanja lahko odloči, katera tehnika je za njo najbolj primerna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 814.302,
+        "end": 821.785,
+        "text": "Se pravi, so odloča personalizirano multidisciplinarno zdravljenje, to je prihodnost kirurgije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 822.704,
+        "end": 829.226,
+        "text": "Ja, hvala lepa za beseda, se bom skušal biti kratek, ampak me je spodbudilo to, kar ste rekli, gospod Rodič."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 831.787,
+        "end": 836.248,
+        "text": "Za inovacijo je potrebno celotno okolje, ni samo en dejavnik, recimo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 836.769,
+        "end": 844.491,
+        "text": "Eno sigurni denar, sigurnja uprema, sigurnje možnosti raziskavati, to je v bistvu nuja, ni pa za dostan pogojbi, matematik rekel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 844.551,
+        "end": 846.012,
+        "text": "Tudi važna je kultura okolje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 846.852,
+        "end": 848.533,
+        "text": "Zdaj recimo, ko govorimo o bankah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 848.673,
+        "end": 855.616,
+        "text": "Banke so zelo kritizirane, ker ne financirajo tveganjih projektov, recimo, na papirju tveganjih projektov, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 855.636,
+        "end": 857.497,
+        "text": "Ampak taki so predpisi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 858.317,
+        "end": 863.74,
+        "text": "Če banka nekaj tega financira, mora delati velike rezervacije v svojih bilancah in zato tega ne delajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 864.52,
+        "end": 866.682,
+        "text": "Ni jim to, ne splača se jim to delati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 866.822,
+        "end": 867.562,
+        "text": "Ampak kaj manjka?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 867.662,
+        "end": 870.464,
+        "text": "Pa nas manjka ta umestni člen, venture capital."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 870.484,
+        "end": 872.806,
+        "text": "To je nek trg tveganega kapitala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 873.227,
+        "end": 877.49,
+        "text": "Tak kapital v bistvu potem financira recimo na papirju tvegane projekte."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 878.27,
+        "end": 880.252,
+        "text": "In tega v bistvu trga praktično pri nas ni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 880.932,
+        "end": 892.881,
+        "text": "In Evropska komisija, kot je bilo razloženo na hitro, nismo imeli veliko časa za več podrobnosti, ampak ta nov inštrument, akcelerator, pospeševalnik, kako bi to prevedel v Slovenščino, je res nekaj vrsti revolucija."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 893.782,
+        "end": 908.415,
+        "text": "Ker Evropska komisija poleg granta, torej nepovratnih sredstev, ki ti dajo 2,5, med 2,5 in 2,5 milijona za projekt, ti tudi financira equity, se pravi lasniški delež v podjetje, v ta podjem, če hočete, do 15 milijonov evrov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 909.863,
+        "end": 914.187,
+        "text": "in ta denar dejansko, to prvi zdaj komisija financira, torej lahko bi rekla država."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 914.247,
+        "end": 918.21,
+        "text": "Na nacionalni ravni bi to bila država, na evropski ravni je to Evropska komisija."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 918.25,
+        "end": 931.841,
+        "text": "Se pravi recimo, da bi država imela nek instrument, ki bi financirala v tvegane vendarobetajoče oziroma breakthrough, se pravi prebojne neke ideje, projekte, bi država dejansko prav equity, torej prav lastniško vstopala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 932.441,
+        "end": 934.863,
+        "text": "In kasneje seveda potem prodala ta lastniški delež."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 935.484,
+        "end": 938.606,
+        "text": "Nam ta instrument manjka v Sloveniji za večji preboj inovacij."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 939.327,
+        "end": 944.731,
+        "text": "Bankje niso primerne in so tu sve dekretizirane, dosti je tudi upravičeno, da ne bo pomote."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 945.651,
+        "end": 947.753,
+        "text": "Ampak načelno banka ni za take projekte."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 949.334,
+        "end": 950.375,
+        "text": "ki je regulativa taka."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 950.795,
+        "end": 961.661,
+        "text": "In se je celo povstrila po krizi, prvi krizi, finančni, ne, od tam leta 2008 naprej, ne, se je celo povstrila regulativa za banke, torej so še manj nagnene k temu, da to financirajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 962.222,
+        "end": 973.769,
+        "text": "In del krizi je pri nas prve, ki je bila toliko velika, toliko obsežna, tako huda, in tudi na račun banke so bile dodatno, ko bi rekel, regulirane, da ne financirajo skoraj nič in potem se je vse ostavilo, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 974.349,
+        "end": 978.912,
+        "text": "Upam, da se zdaj ne bo tako zgodilo v tej drugi krizi, upam, da je tukaj neka šola za naprej, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 979.878,
+        "end": 993.827,
+        "text": "In zadnji dejavnik je pa tudi kultura, a ti v okolju, kjer si, a se to spodbuja, je to nekaj dobrega, da si ti nekaj inovira v nekaj novem drevu, nekaj novega predstavu, ali te vsi po strani gledajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 993.867,
+        "end": 998.97,
+        "text": "Mene je všeč, recimo na kemijskem šitutu, ko gledam posod, kamer pridem tele ERC dosežke,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1001.714,
+        "end": 1005.297,
+        "text": "Se pravi, opozarjajo na to, vsi da to vidijo, to se spodbuja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1005.317,
+        "end": 1007.679,
+        "text": "Mislim, sam kot primeren tak simpatičena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1008.04,
+        "end": 1013.885,
+        "text": "Morda malo tako bolj provokativno vprašanje, me sam zanima ocena dr. Veselinoviča."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1015.246,
+        "end": 1024.074,
+        "text": "Koliko je bilo nasedlih projektov v strani, oziroma kakšen je delež bančne lukne, ki gre na račun nasedle znanosti?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1025.455,
+        "end": 1026.336,
+        "text": "V Sloveniji govorim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1028.123,
+        "end": 1032.866,
+        "text": "Ne vem, petih milijard, ali koliko govorimo, ne poznam številke na pamet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1033.407,
+        "end": 1041.333,
+        "text": "Mislim, jaz bi bil zelo previdno, koliko tih ocen, ne, ker to je se zelo politično sproducirano, ne, ampak, kar se tiče znanosti, zelo malo sigurno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1041.453,
+        "end": 1047.557,
+        "text": "A pa gre pa sveda za projekte, ki pa nino, da so znanstveni, ampak so koristni, so recimo tvegani in tako naprej, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1049.499,
+        "end": 1054.822,
+        "text": "To me spominja na določene stvari, ko želimo nek preboj, ne, pa se najprej soočimo z..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1056.038,
+        "end": 1066.429,
+        "text": "podatkom, da ni finančne osnove, potem pa še temu sledi, da ni pravne osnove in se pravi, da je projekt ostane na tleh že od vsega začetka, se sploh ne razvije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1066.729,
+        "end": 1077.321,
+        "text": "In tukaj se bojim, da v prihodnosti, če pravite, da so banke, imajo še bolj natančno regulativo, da takih projektov, kot so recimo nek satelit, ki iz Slovenske"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1078.462,
+        "end": 1090.853,
+        "text": "slovenske zemlje, gre v svet in prinese pomembne podatke, da se ga oceni kot tvegan projekt, ki ne bo dobil podpore strani naših bank, se mi zdi, da je skoraj zbojajoče, tudi potem prihodnost je toliko več še bolj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1090.873,
+        "end": 1091.274,
+        "text": "Absolutno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1091.334,
+        "end": 1093.576,
+        "text": "V tem smislu sem rekel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1094.337,
+        "end": 1095.177,
+        "text": "Nisem rekel, da je to prav."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1095.197,
+        "end": 1097.179,
+        "text": "Nisem rekel, da je to grozen."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1098.02,
+        "end": 1103.842,
+        "text": "Ampak imamo med, predvsem, o principu zatvegan kapital druge inštitucije, ne, banka po definiciji ni zatvegane projekte, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1104.522,
+        "end": 1111.224,
+        "text": "Je pa res za svedečno dost, da pa dnes bank je bolj papežki od papeža in tako naprej, še bolj resno to regulativ je imelo, kot je bilo potrebno in tako naprej, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1111.744,
+        "end": 1113.764,
+        "text": "To pa tudi seveda, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1113.784,
+        "end": 1122.707,
+        "text": "Jaz sem prirekel, ne, Evropski komisiji je tukaj, Evropska komisija prevzela, da bo prav vlagala v te projekte, ne, na nacionalni ravni bi to bila država, da določeno obdobje potem pa izstopila, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1123.923,
+        "end": 1126.044,
+        "text": "Hvala lepa za to vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1126.144,
+        "end": 1130.126,
+        "text": "Tudi prej sem zelo pozorno poslušal, predvsem o inovacijskem okolju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1131.207,
+        "end": 1139.471,
+        "text": "Seveda bi lahko na različnih segmentih začel secerati, kaj potrebujemo na nivoju, v končni fazi tudi univerze, kaj na nivoju države."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1140.551,
+        "end": 1147.915,
+        "text": "Slišali smo prej, da Evropska komisija poziva naj ne računamo samo na komisijo, da je to dožnost države."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1148.375,
+        "end": 1162.02,
+        "text": "In seveda zdaj, če grem nazaj na univerzo, seveda naše osnovno poslanstvo je izobraževanje, znanstveno raziskovalno delo, ki ga bi jaz uvrstil primarno v neko bazično raziskovanje in pa sodelovanje z okoljem oziroma s trkovno delo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1162.701,
+        "end": 1173.265,
+        "text": "In seveda dolgoročni cilje je izobraževanje novih kadrov, ampak inovacija je pa ravno tisto, kar paše pod tretji steber naše dejavnosti, to je s trkovno delo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1173.805,
+        "end": 1181.788,
+        "text": "In seveda bom se vrnil tudi na študente, ampak najprej, kaj je na nivoju univerze?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1181.848,
+        "end": 1184.248,
+        "text": "Kaj smo na nivoju univerze naredili glede inovacije?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1184.268,
+        "end": 1191.811,
+        "text": "Inovacije zame nekaj med res bazičnim znanjem in pa nekaj, kar je že na trgu, se pravi nekaj vmes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1191.951,
+        "end": 1198.833,
+        "text": "Začel bi pa na ta način, mogoče se spomnite, mislim, da je en let nazaj bil drastičen pogrom po univerzi v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1199.253,
+        "end": 1206.242,
+        "text": "to je bilo novembra lani, na temo, kaj profesori na univerziji v Ljubljani počnejo na tako imenovanem trgu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1208.332,
+        "end": 1224.242,
+        "text": "Takrat je bilo izpostavljeno, tudi sezname smo delali, koliko doza služi z raznimi strokovnimi deli, izpostavljena je bila medicinska fakulteta za seznami, potem tehniki smo bili gor na teh seznamih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1224.282,
+        "end": 1237.05,
+        "text": "Jaz sem prepričan, da ta ideja, da je treba to obračunati s tem potencialnim komercializmom ali pa tržno dejavnostjo na univerzi, prišla iz same univerze."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1238.099,
+        "end": 1246.706,
+        "text": "Mi imamo največ težav sami sabo, jaz še danes po treh letih, po osnovnih zobrazbi sem tehnik, po treh letih zelo dobro razumem univerzo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1247.226,
+        "end": 1258.455,
+        "text": "In še danes obstajajo fakultete, kamer jaz pridem in se ne upam ali pa nočem izgovoriti beseda tržna dejavnost, sodelovanje z industrijo in tako dalje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1258.936,
+        "end": 1261.618,
+        "text": "Ker to je pregrešna zadeva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1262.138,
+        "end": 1263.6,
+        "text": "In recimo moj primer,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1264.12,
+        "end": 1271.049,
+        "text": "Pred enajstimi leti sem uradno prosil to univerzo, če lahko ustanovim odsepljeno podjetje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1271.169,
+        "end": 1272.951,
+        "text": "Uradno odsepljeno podjetje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1273.572,
+        "end": 1276.936,
+        "text": "Po devetih mesecih ustanavljanja tega podjetja so mi rekli ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1277.806,
+        "end": 1283.29,
+        "text": "Zato, ker imamo v zakonu zapisan, da v tej državi se v cepljenih podjetji sploh ne smejo ustanavljati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1283.37,
+        "end": 1287.873,
+        "text": "V cepljeno podjetje pomeni, da univerza stopi stvarnim vložkom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1287.893,
+        "end": 1292.157,
+        "text": "Jaz sem ponudil 25-procentni delež v podjetju, da bi imela univerza."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1292.597,
+        "end": 1295.299,
+        "text": "Daj govorimo, da bi mogla to država delati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1295.579,
+        "end": 1298.361,
+        "text": "Še na nivo verza tega nismo uspeli sprejeti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1298.381,
+        "end": 1300.823,
+        "text": "11 let nazaj je bil to problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1301.283,
+        "end": 1302.785,
+        "text": "Danes je to isti problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1303.405,
+        "end": 1309.467,
+        "text": "Jaz sem tukaj lahko rečem pri koritu, pa nisem uspel te miselnosti spremeniti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1310.207,
+        "end": 1316.629,
+        "text": "Na moji pogodbi, potem smo šli na licenčno pogodbo, piše prvo odsepljeno podjetje Univerza v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1317.129,
+        "end": 1317.909,
+        "text": "Sem jaz ustanovil."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1318.189,
+        "end": 1318.409,
+        "text": "Leta 2009."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1319.77,
+        "end": 1320.31,
+        "text": "Sramota."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1320.89,
+        "end": 1323.451,
+        "text": "Morali bi jih biti nekaj sto že takrat."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1323.811,
+        "end": 1327.672,
+        "text": "V naslednjih desetih letih, kaj se je zgodilo, še ne deset smo jih dobili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1327.992,
+        "end": 1338.38,
+        "text": "večinoma z naše fakultete in vsakič, ko se pogovarjamo o tem, smo napadeni, da se gremo v komercializacijo in da manipuliramo z javnim denarjem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1339.361,
+        "end": 1348.508,
+        "text": "In zdaj, recimo, fakulteta za elektrotehniko je že presegla delež projektnega dela na pram deležu, ki ga dobimo za izobraževanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1349.049,
+        "end": 1354.773,
+        "text": "In sem se jaz kot dekan sprašval, če nismo šli predaleč, da preveč sodelujemo z industrijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1355.414,
+        "end": 1365.045,
+        "text": "In jaz bi tako rekel, te ekscelentni primeri posameznikov, ki so uspeli, so po mojem prepričanju bolj na ključe, kot pa sistemsko delo tej državi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1369.741,
+        "end": 1372.642,
+        "text": "spostavljam to, da moramo najprej na univerzi se odločati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1373.203,
+        "end": 1374.943,
+        "text": "A sploh vemo, kaj je inovacija?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1375.483,
+        "end": 1384.587,
+        "text": "Ne vem, jaz sem aplikativc po osnovni izobrazbi, tehniki, naša naloga je, da prenašamo izsledke bazične znanosti v uporabno vrednost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1385.088,
+        "end": 1390.55,
+        "text": "Tudi v medicini je podobno, da seveda imate pacijente, imamo pač industrijske partnerje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1391.13,
+        "end": 1396.493,
+        "text": "Enostavno se sprašujem, kaj še moramo narediti, da se bo kar kol premakljeno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1396.773,
+        "end": 1398.994,
+        "text": "Jaz mislim, ne da se izboljšuje"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1399.694,
+        "end": 1403.215,
+        "text": "Jaz mislim, da sami sebe uveramo, že znotraj univerze."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1403.595,
+        "end": 1408.796,
+        "text": "Mi se pogovarjamo s tem, zakaj ne sme nekdo nekaj delati za industrijskega partnerja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1409.356,
+        "end": 1414.217,
+        "text": "In lejte, vsak patent, sej vemo, mogoče eden od stotih uspe."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1414.577,
+        "end": 1419.718,
+        "text": "In isto je lahko očitek, da mogoče počnemo na univerzi tudi kakšne rutinske stvari."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1420.038,
+        "end": 1425.679,
+        "text": "Ja, ampak če ne sodeluješ z nekom, ne boš nikoli prišel do tistega enega procenta res uspešnih stvari."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1426.519,
+        "end": 1429.1,
+        "text": "In zdaj seveda, če govorimo o študentih,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1430.103,
+        "end": 1431.685,
+        "text": "Povem vam primer."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1431.785,
+        "end": 1442.198,
+        "text": "Karijerni centri, kar je nekako priprava mladih za iskanje zaposlitve, so bili napadeni strani določenih profesorjev, da je to spet komercializacija."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1442.818,
+        "end": 1448.105,
+        "text": "Se pravi, če nekomu omogočaš, da se plasira na trg s svojim znanjem, je to že komercializacija."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1449.492,
+        "end": 1455.137,
+        "text": "Jaz mislim, da imamo, po mojem prepričanju, v svojih glavah največje težave."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1455.537,
+        "end": 1457.879,
+        "text": "Tudi recimo denar ne vem, če je največji problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1458.42,
+        "end": 1463.825,
+        "text": "Jaz sem imel industrijske partnerje, ki so me sprašali, če bi imel 20 milijonov evrov tvojih, kam bi jih vložil."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1464.385,
+        "end": 1466.427,
+        "text": "Denar ni problem, po mojem prepričanju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1466.587,
+        "end": 1474.613,
+        "text": "Imamo pa pomankanje organiziranega iskanja teh inovacij in to, kot ste rekli, v meru."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1474.853,
+        "end": 1476.495,
+        "text": "Človek ne sme biti pod pritiskom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1476.855,
+        "end": 1478.416,
+        "text": "To se počne zvečer po noč."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1478.436,
+        "end": 1483.22,
+        "text": "Jaz razmišljam o tem na smučanju po parih dneh, ko se spočijem in ne morem spati po noč."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1483.88,
+        "end": 1485.061,
+        "text": "Jaz razmišljam o inovacijah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1487.663,
+        "end": 1499.31,
+        "text": "In seveda poskušamo to kulturo inoviranja upeljati pri študentih, ampak seveda očitno spet samo na nekaterih področjih, primarno na tehniki, gotovo najbrž tudi na medicini."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1500.35,
+        "end": 1504.813,
+        "text": "Težko je pa, ne vem, bazična znanost je ključna za vse."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1505.433,
+        "end": 1515.9,
+        "text": "Je pa res, da znanstveniki na področju bazičnih znanosti se posvetijo nekim problemom, mogoče zelo oskim, specifičnim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1516.38,
+        "end": 1523.265,
+        "text": "Naša naloga, če govorimo o tehnikih, je pa, da te delce sestavljamo v porabne rešitve na trgu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1523.305,
+        "end": 1525.386,
+        "text": "Ali pa je lahko tudi proces."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1526.107,
+        "end": 1532.551,
+        "text": "Se pravi, jaz se vedno znova sprašujem, tudi če bi želo nekaj spelati, da me ne bo nekdo napadal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1533.691,
+        "end": 1534.292,
+        "text": "Kaj počnemo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1535.757,
+        "end": 1541.119,
+        "text": "Mi se sploh še v glavah nismo odločili, a sploh želimo inovacije imeti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1541.179,
+        "end": 1549.241,
+        "text": "Preveč ljudi, takrat kolega Jančar je rekel, ko preveč ljudi govori, se nikogar ne sliši."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1549.421,
+        "end": 1552.682,
+        "text": "In mi smo prišli v tej družbi do tega, da so vsi pametni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1553.543,
+        "end": 1561.225,
+        "text": "Ključno s trenutnim stanjem glede epidemiologije oziroma tega virusa, kjer"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1562.268,
+        "end": 1565.991,
+        "text": "Poglejte, ni ga strokovnjaka, ki se ne bi šel glasov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1567.532,
+        "end": 1575.339,
+        "text": "Sem rekel, če krvavim z roke, bom najprej krvavitev ustavo, pa sem pa spraševal, v kakšne psihološke poslednice sem doživel zaradi tega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1575.499,
+        "end": 1579.642,
+        "text": "Ne znamo postavljati prioritet, ne znamo se odločiti, kaj sploh hočemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1580.303,
+        "end": 1587.328,
+        "text": "Pa ne bom krivil države, ne bom krivil financiranja, krivim našo univerzo, samega sebe krivim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1587.929,
+        "end": 1589.55,
+        "text": "Mi se sami ne znamo znotraj,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1590.871,
+        "end": 1597.765,
+        "text": "vrhunske izobraževalne in pa znanstveno raziskovalne institucije odločati, kaj je inovacija, ali bomo sploh to počeli za družbo ali ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1598.633,
+        "end": 1608.819,
+        "text": "Glejte, čisto matematično, statistično ali pa po gausovi krivulji sem prepričan, da nismo nič bolj pametni, kot katerekoli drug narod."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1609.66,
+        "end": 1622.788,
+        "text": "In jaz tudi, mi smo eden najbolj izobraženih nacij na svetu, po številu visoko izobraženih ljudi, ključno z doktorati, najbolj po številu doktoratov med prvimi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1622.968,
+        "end": 1625.489,
+        "text": "Kje se pa to pozna v uspešnosti naše družbe?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1625.75,
+        "end": 1625.85,
+        "text": "Kje?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1626.697,
+        "end": 1633.74,
+        "text": "Jaz jo ne vidim, se ne rečem, da je slabo, ampak smo najbrž pod povprečjem, če gledamo samo Evropo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1634.08,
+        "end": 1637.501,
+        "text": "Kje je zdaj ta potencijal visoko izobraženih ljudi?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1639.402,
+        "end": 1640.122,
+        "text": "Jaz ga ne vidim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1640.582,
+        "end": 1650.026,
+        "text": "Zato, ker najbrž se treba vprašati, a je poanta dobiti diplomo, pa doktorat, ali je poanta kaj narediti potem, ko to imaš."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1651.426,
+        "end": 1653.387,
+        "text": "Jaz poznam tudi ljudi, ki zbirajo doktorate."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1653.407,
+        "end": 1655.508,
+        "text": "Zdaj moda postala, da imaš več doktoratov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1657.51,
+        "end": 1665.274,
+        "text": "Mislim, mislim, gledajte, jaz bi tudi namreč lahko še kakšnega naredil, pa vsak od nas, ne, pa se sprašujem, kaj je namen takega početja?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1666.175,
+        "end": 1673.539,
+        "text": "Spet statistika, kako smo dobri, toliko bom rekel, ne, gledajte, v Avstriji, Švica študira 30-40% populacije, pri nas 60%."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1673.599,
+        "end": 1674.84,
+        "text": "In še enkrat povem, število..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1681.456,
+        "end": 1685.438,
+        "text": "inteligentnih ljudi je enako kot kjerkoli drugi po svetu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1685.938,
+        "end": 1689.72,
+        "text": "Očitno pač delimo neke diplome po nekih drugih kriterijih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1689.88,
+        "end": 1701.025,
+        "text": "Sem direktno kritičen glede tega in sem prepričan, da take diplome se ne da deliti na vseh področjih, gotovo ne na naravnoslovju, tehniki, medicini, ki druge pa mogoče."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1701.245,
+        "end": 1705.527,
+        "text": "Po drugi strani pa mora mečda Ljubljanska univeza imeti svoj inkubator, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1706.347,
+        "end": 1714.389,
+        "text": "ki vsako leto, jaz sem bil tam v komisiji vrsto let, se predstavi 30-40 projektov zanimivih, en bolj zanimiv kot drug."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1715.83,
+        "end": 1733.175,
+        "text": "In srede, večina teh projektov ima, to je v bistvu neka ideja, ki jo predstavijo in ki je potem tudi nagrajena na koncu, postoje neka nagrada, mislim, da prvih sedem se javno celo predstavijo in nekaj dobijo neko manjšo celo nagradno, mislim, denarno nagrado, zelo simbolično, že se namotamo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1734.055,
+        "end": 1736.636,
+        "text": "Te projekte imajo vsi problem financiranja, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1737.176,
+        "end": 1739.957,
+        "text": "Ampak to so pravilno projekte, ki jih banka ne bo financirala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1739.977,
+        "end": 1743.058,
+        "text": "To je močno nek D.O., ki je kom je bil naredil, ali pa celo D.O.ja ni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1743.198,
+        "end": 1746.039,
+        "text": "Niti podjetja še ni, pa imajo neko idejo, kako bi neki zdelek naredil, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1746.44,
+        "end": 1747.66,
+        "text": "To banka ne bo financirala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1748.2,
+        "end": 1753.842,
+        "text": "Ampak so pa inštrumenti tudi na Evropski komisiji naravni, ki pa že take projekte financirajo, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1754.283,
+        "end": 1756.263,
+        "text": "Tako da, to se zdaj vračam to, kar sem prej govoril."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1756.683,
+        "end": 1760.425,
+        "text": "Pri nas manjka nek to vrsten inštrument financiranja inovacij, ki ni banka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1761.022,
+        "end": 1769.489,
+        "text": "Jaz bi sem ta, skrati komentar glede tih inovacij, najinovacija, rektorja nagrada za najinovacijo, to bo podeljeno novembra leto spet."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1770.53,
+        "end": 1774.753,
+        "text": "Pajte pogledati, koliko v teh podjetjih so lasnikov profesorjev z univerze."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1775.233,
+        "end": 1779.777,
+        "text": "Spet jih se bojimo biti lasniki podjetij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1780.257,
+        "end": 1783.18,
+        "text": "Ker je to, to je nekaj negativnega v tej državi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1783.66,
+        "end": 1785.922,
+        "text": "Pa bi tudi si upel trditi na univerzi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1786.925,
+        "end": 1794.153,
+        "text": "V Ameriki, če nimaš tri, štir podjetja, si nesposoben profesor na tehniki, če okolo obrnemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1795.014,
+        "end": 1799.499,
+        "text": "Pri nas je pa sram priznati, da si lasnik podjetja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1801.741,
+        "end": 1810.123,
+        "text": "In dost, kad sami tvegajo, ne, in potem že tok je, ni enostavno iz cone vdobja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1810.523,
+        "end": 1818.384,
+        "text": "Iz javne službe, v privatni sektor, skrbeti za finance in skrbeti za to, boš uspel na trgu ali ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1818.404,
+        "end": 1821.145,
+        "text": "Se pravi, že tok je stresna zadeva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1821.605,
+        "end": 1826.866,
+        "text": "Potem te pa še tvoji kolegi, ko sem jaz ustanavljal to podjetje, so bile dve skupine profesorjev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1827.526,
+        "end": 1830.087,
+        "text": "Prva skupina mi je govorila, kaj se napihuješ."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1831.323,
+        "end": 1839.108,
+        "text": "Druga skupina mi je pa rekla, tih bod pa napiš na ženo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1839.188,
+        "end": 1850.475,
+        "text": "Nočem biti kritičen, jaz sem vam še naprej prizadeval, da bomo to kulturo odvigali naprej, ampak mislim pa, da bo treba tudi znotraj univerza se določene stvari izmenti in dogovoriti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1850.575,
+        "end": 1852.597,
+        "text": "Pa najbolj še tudi znotraj inštitutov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1852.857,
+        "end": 1858.901,
+        "text": "Da si vedno očitamo, kaj kdo drug počne in pa bojimo se tega, a je to problem, če nekdo uspe?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1859.541,
+        "end": 1860.302,
+        "text": "Tudi finančno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1861.192,
+        "end": 1863.475,
+        "text": "To problem je fošija očitno, ne vem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1865.477,
+        "end": 1871.885,
+        "text": "Tako da z znanjem, z podjetnostjo bomo dobili tudi zelo uspešne podjetnike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1872.025,
+        "end": 1872.605,
+        "text": "To je pa dejstvo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1873.106,
+        "end": 1878.272,
+        "text": "In zdaj, če je to problem, da smo jim foši, je pa še ena frustracija, s katero moramo..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1879.653,
+        "end": 1881.334,
+        "text": "se soočati slepre."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1881.454,
+        "end": 1886.117,
+        "text": "Ponovno, spet lahko ugotovimo, da na določenih področjih je matematika osnova za vse."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1886.757,
+        "end": 1893.861,
+        "text": "Jaz mogoče sem bil tudi skeptičen, ko sem poslušal matematiko ena, pa dve, pa tri, pa štiri, pa smo se sprašvali, kaj bomo s tem počeli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1894.422,
+        "end": 1899.965,
+        "text": "Kasneje, ko sem iskal rešitve za karkol, sem ugotovil, da znam matematike premal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1900.665,
+        "end": 1904.708,
+        "text": "In vsak inženir uporablja natanko toliko matematike, kolikor jo zna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1905.168,
+        "end": 1922.654,
+        "text": "Premal je tega, gre sem za algoritme, gre za način razmišljanja in jaz sem se tudi zdaj v teh letih naučil, da je treba, družbo slov je tudi izredno pomembno, da ne bo napačno razumljeno, ampak eno je obdobje diskurza, razprave, debate, to je pa obdobje ukrepanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1923.815,
+        "end": 1926.698,
+        "text": "Jaz sem včasih občutek, da nekateri bi samo razpravljali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1927.539,
+        "end": 1935.526,
+        "text": "Tehnik pa v končni fazi, veš, te reka kolega Ahčan, ne, ali dela žila oziroma je v redu ali pa ni v redu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1935.546,
+        "end": 1940.15,
+        "text": "Imamo tudi, pržgeš je on-off, a se vrti ali se pa kadi, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1940.791,
+        "end": 1943.592,
+        "text": "In se pravi, je egzaktno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1943.672,
+        "end": 1945.633,
+        "text": "Sem se pa naučil tudi te mehkobe."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1946.313,
+        "end": 1949.294,
+        "text": "Mehkoba je pa, družboslov je, humanistika."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1949.734,
+        "end": 1952.335,
+        "text": "In zdaj bom pa povedal tisto, kar se mi zdi najpomembnejše."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1952.995,
+        "end": 1954.096,
+        "text": "Skupaj moramo delati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1954.416,
+        "end": 1956.457,
+        "text": "Ne gre zdaj za to, kdo je bolj pomemben."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1957.237,
+        "end": 1964.76,
+        "text": "Bliži, ko gremo do končnega produkta, več rabimo in ekonomskega znanja, pravnega znanja in pa sociološkega znanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1965.631,
+        "end": 1971.411,
+        "text": "Jaz sem bil kot predsednik platforme za Smart Grid, smo definirali, tehnologija je najmanjši problem običajno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1972.533,
+        "end": 1977.294,
+        "text": "Najtežji problem je pa pridobiti kupca oziroma porabnika za tvoje rešitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1977.594,
+        "end": 1978.934,
+        "text": "In to je pa ključno za inovacijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1979.254,
+        "end": 1980.135,
+        "text": "Sociološki vidi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1980.855,
+        "end": 1994.058,
+        "text": "In pa omenil ste industrijo 4.0, pripravila se družba 5.0, ki pa govori o tem, da bo bodoči razvoj temeljiv na tem, da bomo strikno morali upoštevati humanistiko in družboslovje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1994.598,
+        "end": 2000.119,
+        "text": "Ker grejo določene tehnološke rešitve absolutno v napačno smer in se zlorabljajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2000.579,
+        "end": 2008.423,
+        "text": "Moramo delati skupaj in to je bodoči razvoj ali pa pristop 2050, da bomo skupaj delovali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2008.783,
+        "end": 2015.147,
+        "text": "Ni zdaj to, kdo je bolj pomemben, skupaj moramo delati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2016.588,
+        "end": 2029.815,
+        "text": "Jaz moram ugotoviti, odkar sem na tem položaju, da v zadnjih nekaj letih se je, pa to je že nekaj časa trajalo, naslanjanje na modeliranje procesov, kakršnihkoli,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2030.195,
+        "end": 2033.357,
+        "text": "postalo obvezno pri raziskovanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2033.417,
+        "end": 2040.741,
+        "text": "Mi imamo od 11 odsekov, imamo en odsek, ki v bistvu se samo z modeliranjem ukvarja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2041.201,
+        "end": 2052.247,
+        "text": "Se pravi, v zadnjem času smo vzpostavili infrastrukturo na inštituto, se pravi, Ažmanov računski center, ki pomaga, ki ga raziskovalci uporabljajo pri svojem delu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2052.747,
+        "end": 2057.53,
+        "text": "Praktično ti ne moreš več objaviti nekega znanstvenega dela, ne da bi imel še ta del"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2057.87,
+        "end": 2060.931,
+        "text": "računski zraven zelo dober narejen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2061.632,
+        "end": 2072.017,
+        "text": "Tako da to v znanosti postaja to del načina dela in tukaj se temu seveda ne moreš izoganiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2072.137,
+        "end": 2076.859,
+        "text": "Pomaga, ulajša raziskovanje, pomaga na kakšne narešitve, simulira"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2077.259,
+        "end": 2078.461,
+        "text": "stvari in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2078.481,
+        "end": 2082.546,
+        "text": "Tako da to je za nas nekaj čisto samo umevnega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2082.626,
+        "end": 2087.853,
+        "text": "In še tudi vlaga in še razvija to infrastrukturo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2088.213,
+        "end": 2090.817,
+        "text": "Še več to delamo tudi v slovenskem prostoru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2090.877,
+        "end": 2095.383,
+        "text": "Saj smo zdaj v bistvu vzpostavili en tak super računalnik v Mariboru, ki"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2095.703,
+        "end": 2108.631,
+        "text": "uporabljamo zelo učinkovito raziskovalci različnih akademskih inštitucij, univerzinštitutov po Sloveniji in tudi mi ga zdaj že konkretno uporabljamo pri naših raziskavah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2108.671,
+        "end": 2113.094,
+        "text": "Tako da to je zagotovo pot, tudi če pogledate velik del"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2114.502,
+        "end": 2118.985,
+        "text": "En pomemben del knjige se ukvarja z inovacijami v umetni inteligenciji, recimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2119.145,
+        "end": 2130.111,
+        "text": "To prihaja in temu se ne bomo mogli zoganiti in tudi v znanosti bo umetna inteligenca potem krujila do določene mere, kako se bodo raziskave izvajale, v kjer smeri bojo šle, in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2130.854,
+        "end": 2137.537,
+        "text": "Ja, zdaj najprej mogoče vprašanje, kaj pomeni biti uspešen v inovacijah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2138.097,
+        "end": 2150.882,
+        "text": "Uspešen v znanosti pomeni, da pač objavljaš svoje raziskaje v najboljših dosežkah, v najboljših znanstvenih revirah, da si uspešen pri dobivanju najbolj prestižnih projektov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2151.222,
+        "end": 2161.985,
+        "text": "Na področju inovacij se pa uspešnost nekako šteje s tem, koliko ti v bistvu sredstva pripelješ na račun tega, kar si uspel s svojim znanjem prodati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2162.005,
+        "end": 2169.727,
+        "text": "Se pravi, ali si uspel placerati nek patent nekam, ali si uspel licenčno pogodbo skleniti za izrabo določenega tvojega znanja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2169.987,
+        "end": 2173.188,
+        "text": "In tukaj moram reči, da nismo zelo uspešni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2173.848,
+        "end": 2183.792,
+        "text": "Naš institut, niti v Sloveniji splošno, se mi zdi, da to je ena, kjerokoli institucijo pogledaš, nima bistvenih prihodkov na ta račun."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2184.032,
+        "end": 2184.852,
+        "text": "Nima."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2185.052,
+        "end": 2186.453,
+        "text": "V Tujini je to drugače."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2186.513,
+        "end": 2190.174,
+        "text": "V Ameriki nekaterega zaživijo od to vrstnih prihodkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2190.254,
+        "end": 2195.976,
+        "text": "Tako da tukaj ta uspešnost morda po številu patentov, ki jih pridobimo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2199.839,
+        "end": 2217.253,
+        "text": "Nismo pa tako uspešni potem v tem nadaljem koraku, se pravi, priperati te patente, te inovacije en korak bliže trgu, tako da jih lahko industrija sprejme in začne naprej delati na njih ali pa da jih celo mi lahko nekam potem kot rečeno plasiramo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2218.013,
+        "end": 2233.277,
+        "text": "Tukaj moramo veliko dela upraviti, se pravi nekaj je čist kultura znotraj hiš, mi poskušamo izobražovati naše zaposlene tudi za ta področja, poskušamo, vzpostavili smo eno podporo interno,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2233.724,
+        "end": 2239.048,
+        "text": "projektom, da jih dvignemo in priperemo bliže industriji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2239.108,
+        "end": 2247.715,
+        "text": "Recimo en tak lep primer je nek material, ki ga v zelo majhnih količinah lahko proizvede raziskovalcev, odkrije neke ugodne lasnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2248.475,
+        "end": 2251.938,
+        "text": "Če pa hočeš to na industrijski nivo prepedati, moraš pa to v večjih količinah narediti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2251.958,
+        "end": 2255.46,
+        "text": "In že to je včasih samo problem, v večjih količinah to narediti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2255.58,
+        "end": 2261.265,
+        "text": "Recimo s takimi stvarmi se spopadamo, da je potem sredstvo za kakšne take stvari težko zagotoviti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2261.585,
+        "end": 2278.336,
+        "text": "Zdaj pa, kar se COVID-a tiče, je pa tako, da je v bistvu profesor Jarala, ki dela na tem, je pridobil en evropski projekt, ki se je okvarjal z inovativnimi pristopi k borbi proti virusom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2279.296,
+        "end": 2282.839,
+        "text": "Ko se je COVID pojavil, seveda so se tako usmerili na ta virus."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2282.879,
+        "end": 2288.102,
+        "text": "Se pravi, tukaj je zdaj primer, kako odlična znanost lahko pomaga pri blaženju"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2289.783,
+        "end": 2305.789,
+        "text": "posledic ali pa preprečevanjev, ker tukaj ideja, ki jo imel, ni bila direktno usmerjena na COVID, ampak se lahko tudi aplicira na COVID, pa tudi seveda na druge viruse, ki bodo, morda, se še pojavili v prihodnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2305.909,
+        "end": 2313.111,
+        "text": "Se pravi, neka taka res originalna ideja, znanstvena, ki se da potem v prakso pripeljati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2313.411,
+        "end": 2316.732,
+        "text": "Tukaj smo zdaj pač delali oziroma začeli delati na primeru SARS-CoV-2."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2318.673,
+        "end": 2328.137,
+        "text": "Jaz se absolutno strinjam najbrž, da so možgani fizikov ali pa recimo narvoslovca oblikovani na način, da išče v rešitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2328.817,
+        "end": 2332.239,
+        "text": "Treba pa povdarjati še eno zdrugo izredno pomembno komponento."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2332.879,
+        "end": 2340.703,
+        "text": "Ta fizika, ali pa bom govoril o tehniku, da me ne bojo narvoslovci kritizirali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2341.463,
+        "end": 2343.304,
+        "text": "Naučiti se je treba tudi komunicirati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2344.393,
+        "end": 2346.614,
+        "text": "Treba tudi znati, se treba pogovarjati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2347.234,
+        "end": 2353.578,
+        "text": "Jaz pravim, če ne uspeš nekoga prepričati za dobro idejo, si sam saj povkrjuj to, kot on kate ne izprejel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2353.598,
+        "end": 2356.859,
+        "text": "To je prav komunikacija, mehke veščine."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2357.9,
+        "end": 2370.507,
+        "text": "Tudi recimo, ko smo mi analize delali naših študentov, da so jih industrijski partneri ocenevali, pol, ko so prišli v podjetja, nišče ni očitev, da ne obvladajo"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2371.407,
+        "end": 2373.63,
+        "text": "svojega področja, se pravi elektrotehnike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2374.07,
+        "end": 2377.795,
+        "text": "Očital so pa vsi po vrsti, da so na meji avtizma."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2378.876,
+        "end": 2384.904,
+        "text": "Ne znajo komunicirati, ne znajo se pogovarjati, ne znajo izražati svojih idej in svojih misli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2385.802,
+        "end": 2390.444,
+        "text": "In takrat, ko hočeš priti na trg, so te stvari ključne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2391.025,
+        "end": 2402.831,
+        "text": "Ti moraš znati komunicirati skoraj v končni fazi z ekonomistom, z bančnikom, v končni fazi s tvojim kupcem, ki ti bo kupil ta produkt, ali pa pacijentom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2403.959,
+        "end": 2406.221,
+        "text": "Tukaj je poanta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2407.702,
+        "end": 2412.166,
+        "text": "Jaz se ne bi hvalil s tem, kako so eni super, drugi pa nič."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2412.606,
+        "end": 2413.107,
+        "text": "Še enkrat."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2413.567,
+        "end": 2422.935,
+        "text": "Jaz tudi, recimo, pojavlja se tudi zdaj težne te multidisciplinarnosti, interdisciplinarnosti, pa tudi študijske programe naj bi zdaj kombinirali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2423.276,
+        "end": 2428.02,
+        "text": "Rekl pozabte, da ne bo komu na misel prišlo, da bom zdaj super mene izobraževal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2428.44,
+        "end": 2430.422,
+        "text": "Da bo pol ekonomist, pol bo tehnik,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2430.622,
+        "end": 2434.805,
+        "text": "ali pa pa v zdravnik, pa bo ekonomist, to ne bo nikamar prišlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2435.085,
+        "end": 2436.707,
+        "text": "Mi se moramo naučiti delati v timu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2437.487,
+        "end": 2441.671,
+        "text": "Mi moramo znati povezovati znanje, tukaj pa ključno komunikacija."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2442.451,
+        "end": 2445.934,
+        "text": "In vam povem, da tehnik je pa tle zelo slab."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2446.634,
+        "end": 2453.64,
+        "text": "V komunikaciji z drugimi strokovnjaki na področjih, ki so ključna, da neka inovacija pride na trg."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2454.854,
+        "end": 2458.799,
+        "text": "To je prav, še enkrat, samo skupaj, edin to bo dobra rešitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2459.44,
+        "end": 2468.211,
+        "text": "Jaz se ne bi tolažil s tem, da so možgani od enega boljši ali pa slabši, so drugačni, to je pa, ne vem, leva polovica, desna polovica."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2468.771,
+        "end": 2470.954,
+        "text": "Ključna je pa kreativnost v vsakem primeru."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2471.695,
+        "end": 2485.183,
+        "text": "Če imamo neke osnovne gradnike, recimo to je tudi učitek slovenske industrije, recimo tiste, ki ni dorasla v tehnologiji, da pravi, da naši diplomanti ne obvladajo določenih rutinskih stvari."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2485.383,
+        "end": 2486.864,
+        "text": "Sem rekel, mi nismo obrtna šola."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2487.524,
+        "end": 2489.105,
+        "text": "Zakaj so pa uspešni v tujini?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2489.565,
+        "end": 2493.487,
+        "text": "Zakaj so uspešni pri velikih korporacijah, ki točen vejo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2494.047,
+        "end": 2497.029,
+        "text": "Ni poanta, da jih mi učimo, kako se projekt A naredi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2497.289,
+        "end": 2504.412,
+        "text": "Poanta je v tem, da ima za dost bazičnega znanja, da s svojo kreativnostjo ustvarja nove rešitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2505.012,
+        "end": 2508.254,
+        "text": "To je poanta in to je namen univerzitetnega diplomanta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2508.274,
+        "end": 2510.015,
+        "text": "Vse ostalo je pa obrtna šola."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2511.537,
+        "end": 2524.807,
+        "text": "In ravno v tem je, če slovenska industrija pričakuje, da bojo naši diplomanti znali projektirati en gradbeni objekt, so malo zgrešili v svojih pričakovanih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2525.607,
+        "end": 2535.755,
+        "text": "Diplomant more biti prazen, ne popisan list z osnovnim, bazičnim znanjem, spet matematika, fizika in potem s kreativnostjo ustvarja nove rešitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2536.563,
+        "end": 2537.083,
+        "text": "Klasično."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2537.103,
+        "end": 2545.388,
+        "text": "In seveda v industriji je pa inovativnost prizvajanje nekih novih rešitev ključno, če hočeš prizveti ali pa če hočeš ustvarjati visoko dodano vrednost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2545.588,
+        "end": 2549.39,
+        "text": "Z rutinskimi stvarmi so dodane vrednosti marginalne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2549.53,
+        "end": 2551.591,
+        "text": "V knjigi je celko primerov tudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2551.631,
+        "end": 2556.714,
+        "text": "Mi moramo skozi utemeljevati, zakaj bo to naše znanje uporabno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2557.735,
+        "end": 2563.418,
+        "text": "Včasih raziskave potekajo na česa, kjer ne vidiš neke takošne koristi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2565.892,
+        "end": 2579.845,
+        "text": "Not je en lep primer, kako je mogel nekdo zagovarjati te velike pospeševalnike, ne, ko so ga vprašala, bo to pomagalo braniti državo, pa je rekel, da ne, ampak bo pa vredno braniti državo zaradi tega, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2580.421,
+        "end": 2596.764,
+        "text": "Se pravi, ideja je ta, da če imaš ti tako dobro kondicijo znanstveno, če imaš take dobre temeljne raziskave, boš lahko hitro odreagiral, kadar bo kakšna taka situacija, kadar se bo nekaj pojavilo, kar bo vredno eksploatirati, boš to lažje naredil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2597.485,
+        "end": 2605.186,
+        "text": "Ko se taka kriza pojavi, kot je zdaj, boš lažje odreagiral z določenimi raziskavami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2605.886,
+        "end": 2608.007,
+        "text": "Mislim, da je tukaj en ta vidik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2609.227,
+        "end": 2617.914,
+        "text": "Včasih težko razložimo, zakaj investirati toliko veliko v znanost, ker se te neposrednji učinki tako težko vidijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2617.974,
+        "end": 2619.275,
+        "text": "To je težko zračunati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2619.435,
+        "end": 2621.017,
+        "text": "Vi ste dali en zelo lep primer."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2621.933,
+        "end": 2626.994,
+        "text": "ko je nekdo šel in zračunal, koliko prispevajo konkretno k nekemu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2627.794,
+        "end": 2642.297,
+        "text": "Vseh dogajnih v povezavi s krizo, v povezavi s politiko, je to, kako zlahkoto so evropski voditelji dal znanost, ne vem, prihodnji evropski okvirni program na mizo in so ga lepo seseklali kot salamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2642.837,
+        "end": 2649.739,
+        "text": "In je ostal iz tega, kar smo slišali tukaj na začetku, če se vrnem na začetek, kako moramo biti mi konkurenčni Kitajski in ZDA"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2650.199,
+        "end": 2665.825,
+        "text": "Zdaj, ta program, ki omogoča to v evropskem prostoru, ki je uvedo nove mehanizme strani tega evropsko-genovacijskega sveta, so ga se seklali in smo si v bistvu, jaz mislim, da je zelo veliko škoda na del za prihodni razvoj Evrope."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2667.108,
+        "end": 2671.691,
+        "text": "Samo en primer uporabe bazične znanosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2671.711,
+        "end": 2678.575,
+        "text": "Imel sem priložnost spoznati gospoda, ki je inovator zaslona na dotik touchscreena."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2679.335,
+        "end": 2685.018,
+        "text": "Prvotno v industrijskih aplikacijah, seveda danes vemo, vsak telefon uporablja to tehnologijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2685.078,
+        "end": 2687.64,
+        "text": "Danes je gospod milijarder, ne milijonar."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2688.1,
+        "end": 2692.362,
+        "text": "In on ni lastnik nobenega tega znanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2692.843,
+        "end": 2703.389,
+        "text": "On je imel seveda toliko občutka in je poiskal ustrezne patente v Ameriki, jih je odkupil in sam organiziral proizvodno in je hotel resničiti svojo idejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2703.769,
+        "end": 2709.893,
+        "text": "Rekel, da sem listal po časopisu, sem videl glas in sem prišel na idejo, če se bi dotaknul, da se mi odpre novo okno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2710.713,
+        "end": 2711.774,
+        "text": "To je bila njegova ideja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2711.894,
+        "end": 2721.398,
+        "text": "Mislim, da je ekonomist po izobrazbi in to je poanta, tudi recimo v družbi, ki pravijo, znanje je javno, zato ker smo mi javne inštitucije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2721.598,
+        "end": 2729.142,
+        "text": "Ja, infrastruktura, mi dajemo na voljo to znanje, moramo imeti infrastrukturo, da ga lahko nekdo uporabi, ni pa zastojn."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2730.22,
+        "end": 2732.021,
+        "text": "Avtorske pravice ustajajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2732.521,
+        "end": 2741.546,
+        "text": "In problem je, če nimaš sploh na voljo znanja, jaz običajno pravim, edina težava oziroma edin problem, ki ga nimamo, je to, da ne bi imeli znanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2741.686,
+        "end": 2745.348,
+        "text": "Znanje imamo, organizacijsko pa res ne vemo, kaj bi z njim počeli."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2746.509,
+        "end": 2752.312,
+        "text": "Ja, lahko povem, že nekaj časa sem sledil za razpravi, čisto vsega nisem slišal, ampak"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2753.93,
+        "end": 2764.014,
+        "text": "se mi zdi dovolj, da lahko neke iztočnice ali pa zaključke tudi iz vidika Ministrstva našega se jemlj podamo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2764.555,
+        "end": 2774.159,
+        "text": "Mogoče za začetek se mnogo povem, prej je bilo vmes malo debate o tem, kako sploh razlagamo inovacijo oziroma kakšna je definicija."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2774.359,
+        "end": 2779.281,
+        "text": "Verjetno na koncu konca zavisi od tega, koga boš vprašal, seveda pri nas na"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2779.917,
+        "end": 2795.525,
+        "text": "gospodarsko ministrstvo ali pa v gospodarski sferi, pa tudi v knjigi se zasledi v tole definicijo, da je pravzaprav inovacija takrat, ko od invencije pravzaprav zagotoviš ekonomičnost uporabe."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2796.045,
+        "end": 2798.066,
+        "text": "Takrat govorimo o inovaciji."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2798.146,
+        "end": 2805.53,
+        "text": "Se pravi, da pridemo do komercializacije tega, kar je nekdo odkriv in znajde."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2805.55,
+        "end": 2807.711,
+        "text": "In to je bodisi"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2809.718,
+        "end": 2815.46,
+        "text": "da daš boljše, da daš več, bodi si, da znišaš stroške v procesu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2815.82,
+        "end": 2837.808,
+        "text": "Zdaj, kar se tiče same industrijske politike, ja, ko mi začeli delati analizo predvsem gospodarstva kotakega, pa razvoja industrije, pa kje se industrija oziroma dodana vrednost na zaposlenega, s katero merimo produktivnost,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2840.347,
+        "end": 2841.167,
+        "text": "bolj raste."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2841.207,
+        "end": 2849.851,
+        "text": "Pri pravi, s drugimi industrijami smo hitro videli to poslediščnost blaganja v raziskavi in razvoji."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2849.891,
+        "end": 2854.633,
+        "text": "Jasno, ker se blaga v raziskavi in razvoji več, potem tista panoga tudi hitreje raste."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2854.713,
+        "end": 2867.498,
+        "text": "In ne glede na to, da se tudi Evropska komisija predpisala digitalno pa zeleno kot del prihodnega razvoja, nekaj na čem je naša"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2869.557,
+        "end": 2872.278,
+        "text": "so naši osnutki temeljili že prej."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2872.719,
+        "end": 2888.127,
+        "text": "Namreč, kaj so tiče industrije, samo digitalizirana in pa zelena industrija ima svojo prihodnost, ampak ne industrija sama, pa ne inštitucije znanja same."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2888.147,
+        "end": 2894.09,
+        "text": "Jaz moram reči za to, kar sem danes poslušal, jaz sem izjemno vdušen nad"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2895.123,
+        "end": 2903.452,
+        "text": "povedan in primar na strani gospoda rektorja, doktora Papiča, tudi sam delim to mnenje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2905.113,
+        "end": 2908.197,
+        "text": "Ni prvi pogoj tisti, da je treba več denarja vložiti."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2908.237,
+        "end": 2910.099,
+        "text": "Čeprav bom jaz vedno zagovarjal,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2911.103,
+        "end": 2918.727,
+        "text": "da bomo oblagali več sredstev v raziskavi in razvoju, lahko računamo, da bomo zgradili oziroma dobili tudi višjo dodano vrednost."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2919.147,
+        "end": 2921.088,
+        "text": "Predvsem moramo spremeniti misljenost."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2921.188,
+        "end": 2927.931,
+        "text": "Predvsem moramo spremeniti to, da vidim, da s mlajšimi generacijami dejansko to misljeno spremenjamo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2928.011,
+        "end": 2932.353,
+        "text": "To misljeno podjetništvo, to misljenost, da ni nekaj narobe, če imaš svoje podjetje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2932.413,
+        "end": 2935.255,
+        "text": "Če si podjeten, tudi če si profesor,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2936.095,
+        "end": 2953.563,
+        "text": "Ta način razmišljanja, ta podjetnički način razmišljanja je lasten, če želite, univerzam preko Atlantikov, o katerih večkrat govorimo, pa smo to danes si pomenjali, in zaradi tega se oni razvijajo z bistveno drugačnim tempom kot pa mi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2956.21,
+        "end": 2969.363,
+        "text": "Resnično, če bomo uspeli spremeniti to mislnost podjetništva, podjetniškega načina življenja, pa ne glede na to, v kateri sferi delujemo, bomo lahko naredili prihodne korake."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2969.883,
+        "end": 2979.893,
+        "text": "Sam da povem primeri, ki jih poznam in vidim vse tukaj, da je ta miselnost prevevala tudi strojno fakulteto v Ljubljani že prej."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2980.173,
+        "end": 2986.843,
+        "text": "tam resnično prihaja do zelo dobrega povezovanja z industrijo in tudi iz tega naslova potem prihajajo zelo dobri rezultati."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2988.766,
+        "end": 2993.053,
+        "text": "Zelo na kratko, inovacije so oziroma"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2995.023,
+        "end": 2997.926,
+        "text": "dobro inovacijsko okolje med seboj."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2997.966,
+        "end": 3016.922,
+        "text": "Vem, da imamo mi ta nivo sodelovanja razdeljen od našega ministrstva pa do ministrstva za izobraževanje, znanost in šport na eni strani, pa potem dve agenciji, Spirit pa ARS, ki se tudi morate naučiti med seboj boljše sodelovati."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3016.942,
+        "end": 3019.805,
+        "text": "In samo to sodelovanje med obojmi"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3020.285,
+        "end": 3037.362,
+        "text": "pa zavedanje, da bo to začelo spostavljati en inovacijski ekosistem, ki bo lahko dejansko v pomoč vsemu temu, vsem tim naporom, ki je bilo že zdaj in ena in druga stran parcialno vlaga, to nas bo pripeljalo do rezultatov."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3037.422,
+        "end": 3040.365,
+        "text": "Tega se zavedamo, moramo pa narediti korake v tej smeri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3040.838,
+        "end": 3047.221,
+        "text": "Bom kratek, čeprav tiska reče bom kratek, je že upozorilo, da ne bo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3047.281,
+        "end": 3053.344,
+        "text": "Hoto sem se sem še navezat na razvojno inovacijsko strategijo Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3054.165,
+        "end": 3068.052,
+        "text": "Imeli smo priložnost, da sodelujemo kolo Egan Drluh tudi pri pripravi iz hudišč in zanimiva je tudi ta strategija, ki se letos zaključuje, je bila zelo dobra na papirju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3068.412,
+        "end": 3070.693,
+        "text": "gre spet za implementacijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3071.193,
+        "end": 3076.394,
+        "text": "Mi znamo tudi dobre strategije narediti, ampak se običajno konča pri implementaciji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3077.414,
+        "end": 3084.676,
+        "text": "Tukaj bi, na eni strani imamo RRS, ki bi primarno lahko mu pripisal vlogo podpiranja bazičnih raziskav."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3085.336,
+        "end": 3090.837,
+        "text": "Tijo želimo ponovno vzpostaviti, kar smo že imeli, ampak tija je priblizu industrije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3090.917,
+        "end": 3092.718,
+        "text": "Vmes imamo pa eno veliko lukno,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3093.978,
+        "end": 3109.501,
+        "text": "inovacijsko in točno v tej lukni, ne vem, ali bo to tija prevzela ali pa kakšna tretja agencija, upam, da ne bo tretja, ampak da se to porazdeli, ravno v tem segmentu je treba poleg Ministrstva za izobraževanje, znanost in šport"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3109.621,
+        "end": 3121.808,
+        "text": "Poleg gospodarskega ministerstva, ki pokriva inovacije, poleg ministerstva za javno upravo, ki naj bi prevzelo digitalizacijo, vključa saj še infrastrukturo, okolje in tako dalje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3122.168,
+        "end": 3125.77,
+        "text": "Saj pet do šest ministerstv mora sodelovati v tej umestni situaciji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3125.77,
+        "end": 3141.781,
+        "text": "v mestnem področju med bazičnimi raziskavami in dejansko tistimi TRL 8, 9, kjer pa industrija seveda ima zelo visoka pričakovanja in hoče imeti produkte praktično že včeraj, to tudi ni ta prava rešitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3142.121,
+        "end": 3144.143,
+        "text": "V mest je treba zapolniti to lukno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3144.843,
+        "end": 3152.989,
+        "text": "In pa jaz mislim, da nam manjka ena res inovacijska politika, kako ustvariti inovacijsko politiko v tej državi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3154.323,
+        "end": 3159.204,
+        "text": "Zdaj, na probleme je potrebno razmišljati že predhodno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3159.845,
+        "end": 3163.386,
+        "text": "Že več čas govorimo, kako je treba vlagati v znanost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3163.926,
+        "end": 3165.886,
+        "text": "Govoril sem o rezerni klopi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3166.526,
+        "end": 3175.029,
+        "text": "Se pravi, vse to pa zahteva dodatne stroške in ko ni problema, se zdijo te stroški popolnoma nepotrebne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3175.889,
+        "end": 3185.476,
+        "text": "tako kot recimo plačujemo gasilce vsak dan, potem pa preračunajo, da gasijo aktivno toliko pa to kur v celem letu in se že računa, ali je to se izplača ali se ne izplača."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3185.876,
+        "end": 3199.466,
+        "text": "Preprosto v znanje je potrebno vlagati tudi zato, ker moramo računati, da bo nekoč lahko prišlo do take situacije kot je danes in da nas bo rešilo prav to znanje in prav to vlaganje, ki se zdi sprva nepotrebno in odveč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3200.107,
+        "end": 3204.29,
+        "text": "In jasno, zdaj smo pred nekim pritiskom, a ne,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3205.522,
+        "end": 3209.863,
+        "text": "pred kateri je pa zelo težko najdeti hitre in inovativne in dobre rešitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3210.363,
+        "end": 3219.705,
+        "text": "Vse vemo, tudi v tenisu match point je najtežja točka, kjer odigra še psihološki moment in vse ostalo, vzdržljivo, znanje in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3220.245,
+        "end": 3234.809,
+        "text": "In v tem primeru tudi sami vidimo, da kljub vsem pritiskom, kljub neznosnim potencijalom, znanja in finančnim virom, še vedno je pot do cepiva taka, kot je."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3235.829,
+        "end": 3243.555,
+        "text": "Traja obdobje, ki zahteva svoje faze, dve leti in ne glede, kaj si kdo želi in kaj kdo pričakuje in kaj kdo zahteva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3243.635,
+        "end": 3250.18,
+        "text": "Tudi ta beseda mi je prišla zadnje čase vedno bolj na plano."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3250.2,
+        "end": 3251.962,
+        "text": "Vse se samo zahteva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3253.243,
+        "end": 3259.328,
+        "text": "Ne pričakuje, želi, prosi od znanosti in medicine zlasti, se zahteva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3259.468,
+        "end": 3261.77,
+        "text": "Brez nekih recipročnih"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3262.829,
+        "end": 3272.336,
+        "text": "ulagan in drugih dejavnikov, ki bi lahko vplivali na to, da bi pač do nekih rešitev v določen času prišli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3273.157,
+        "end": 3276.259,
+        "text": "Tako da v tem primeru"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3277.207,
+        "end": 3285.412,
+        "text": "Se izkaže, kot ste že samo ogotovila, da so karantena in stare metode edine, ki so na voljo in so učinkovite."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3285.752,
+        "end": 3295.298,
+        "text": "In tudi tukaj mogoče jih ne smemo tako, kot zavreč, smo se preselili v ne vem kakšen vek in izvajamo enake tehnike."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3295.899,
+        "end": 3300.081,
+        "text": "Morda so te tehnike izvajali, če pogledate zgodovinsko nazaj,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3300.882,
+        "end": 3303.93,
+        "text": "V tem času še z večjo pametjo in bolj učinkovito."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3304.391,
+        "end": 3308.863,
+        "text": "Kdo je lahko prišel v mesta, kje so bile karantenske točke in vse ostalo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3308.984,
+        "end": 3317.346,
+        "text": "Tudi to bi bilo mogoče, tudi v tem primeru koronavirusa, za pregledati staro znanje in ga uporabiti v sodobnem času."
+      }
+    ],
+    "runtime_sec": 1026.8439855575562
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.04650384448591514,
+      "miss": 0.04339055396654424,
+      "fa": 0.0025127418639664828,
+      "confusion": 0.0006005486554044122,
+      "total_duration": 3283.66399999994
+    },
+    "der_collar0.25": {
+      "der": 0.04257262011296242,
+      "miss": 0.039945709179648944,
+      "fa": 0.0022793779857295305,
+      "confusion": 0.0003475329475839477,
+      "total_duration": 3012.6639999999406
+    },
+    "wer": {
+      "wer": 0.33979116870046544,
+      "ref_words": 7949,
+      "hyp_words": 7138
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1.145,
+        "end": 35.722,
+        "text": "Taklo zamudo predstavil ta uvod, ki ga je dal predstavnik Evropske komisije, nekaj splošnih ugotovitev podal glede novacij v Evropi pri primerjavi za drugimi globalnimi bloki, svedlepo tudi omenil predvsem zelo uspešen inštrument akselerator tako imenovan zadnji razpis je bil rekorden, pa je ko štirinač podjetij v sele Evrope in izvene Evrofe, je kandidiralo tako da očitno enovalna ta sredstva evropska nepovratna precejšenj, razlog je tudi kriza seveda tudi pomanjkanje lastnih nacionalnih inštrumentov, to zato bodo vse teme danes našli nakrogli mize v nadaljevanju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 36.397,
+        "end": 39.215,
+        "text": "Ki jo bo vodila kolegica Ina."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 40.683,
+        "end": 58.587,
+        "text": "In jaz se vas zahvaljujem za to pozornost in sveti kdor kolikoloma kršno vprašanje, ga lahko tudi naslovi na mene in bom jaz potem naprej naslovil na Evropsko komisijo, lahko to vprašejo pisme na opomelu tako da ta praksa tudi obstoja, da se na ta način pridobi kakšni odgovor je tudi čisto operativna vpra šanja konkretna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 59.11,
+        "end": 63.329,
+        "text": "Da so tudi neposredno koristna, torej toliko z enkrat z moje strani hvali pa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 66.569,
+        "end": 190.634,
+        "text": "Zdaj najprej bi na začetku povedal, da je uvistvo danes nekak predstavitev te knjige tudi ne bo potekla se prav izšlaje prav nekaj dni nazaj.To je en od prvih prevodov te odlične knjige v sodelovanju z založbo Unko, smo so odločili, da to temo nekak predstavimo tudi širši javnosti, se prav na tak način zizdajajo te knjuge.Sami se na inštitutu precej ukvarjamo z inovacijami z inoacijsko politiko, poskušamo na sami nekak se spopadat s tem vprašanji, ki se pojavljajo, ne, enkrat ko raziskovalci v laboratorijih nekaj odkrijejo, izboljšajo nek postopek, potem pa ves ta proces od tega, od te neke inovacije, ki je prepoznana do potem nekega približevanja njeni uporabnih vrednosti, tukaj malo velke zagate in probleme, ne? In tukaj, tukam je mislim, da je smiselno jih naslovit, naj tudi širše, tkukaj te lepo povedo gost iz Evropske komisije, naj včasih so države premehne, ko se te inovacijske politike pripravljajo in ukrepi in mehanizmi vzpostavljavo, ravno tako smo čas inštitucije premehne, ne moramo delati v nekem okolju, ki tovrstne stvari podpira.Zdelo se nam je, da ta knjiga nekak zaobjame, ta proces inoviranja, da na zlo lep način prikaže, kako pride do inovacije, ne, in kakšen pomeni, imajo seveda za zadružbana in v tem smislu tudi kot promocija tega področja, ne, se nam je zdelo zlo pomembno, zato smo sevede z veseljem pristopli k temu projektov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 191.63,
+        "end": 233.243,
+        "text": "Ja, to drži, pa mogoče mal bo lahkotno, če lahko začnem iz prejšnjih sogovornikov, smo slišali, da ne bi bila tudi sedanja kriza neka priložnost za razvoj napredek in inovacije. Želel lahko realno ugotovim, da kriza ni priložnost za iztrošeno slovensko zdravstvo.Žol, če se spominjate, smo evropsko prvenstvo v Košarki v zadnji minuti igral brez najpomembnejšega igralca Gorana Dragića je smo zmagali zaradi dolge klopi razjernih igralcev in če bi imel v sedanjem času dolgo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 233.75,
+        "end": 235.538,
+        "text": "Izkušeno rezerno klop."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 236.197,
+        "end": 257.155,
+        "text": "Bi v to krizo lahko prišli velik bolj mirni in velik volj nekih optimističnih podatkov povedal v javnosti, tako pa moramo ugotoviti, da smo v zadnjih dvajsetih letih v medicini tudi v univerzitetnih ustanovah, ki naj bi bila neko valilnica znanja, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 258.286,
+        "end": 267.365,
+        "text": "Štiri besede so bile najpogostejše, in sicer racionalizacija, reorganizacija, standardizacijo, sistematizacije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 268.023,
+        "end": 276.545,
+        "text": "Zlomalo smo v zadnjih dvajsetih letih govorilo motivacij sodelavcev, o inovacijah in pa morda optimizaciji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 277.169,
+        "end": 281.675,
+        "text": "In večkrat smo zgolj iskali cenejše in neboljše rešitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 282.94,
+        "end": 304.523,
+        "text": "Dejstvo pa je, da če želimo imeti nekaj inovacije to zahteva bogato znanje, neko osnovno bazično znanjo, iz katerega črpamo, tu lahko rečem, da so naši učitelji naredil ogromno dela in našim generacijam in mlajšim generacijama predal to znanj, se prav tako da osnovno znanja v medicini ga je dovolj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 305.452,
+        "end": 326.056,
+        "text": "Potem si treba soočec s problemom, to lahko samo naredijo tisti, ki so vsak dan v prvi bojni liniji in se srečujejo z problemi in doma išče nekaj nove ideje in rešitve tega problema.In nato je treba na tak problem pogledat iz več različnih perspektiv, najprej oddale čez nekje ptičje perspektive?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 326.68,
+        "end": 350.862,
+        "text": "Potem pa z nekih drugih zornih kotov in se potem povezat z drugimi skupinami in predstav tata problem in potem skupaj izkrat neke inovativne nove rešitve.Skratka, inovacije so tudi plod povezovanja, za povesovanja pa je potrebna imet dovolj časa, dovoljen miru, do volj ustvarjalnega okolja in ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 351.368,
+        "end": 354.963,
+        "text": "Prej na trpanje ambulante in izčrpane le time ljudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 355.823,
+        "end": 358.118,
+        "text": "Da nas lahko tudi ugotovimo, ne da..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 359.283,
+        "end": 363.805,
+        "text": "Dosti inovaciji, jaz si imenujem tako manj instant inovativne rešitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 364.43,
+        "end": 366.573,
+        "text": "Prihajajo z industrije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 367.13,
+        "end": 416.725,
+        "text": "In niso vedno namenjene zgoli in izključno izboljšanja zdravlja ljudi, ampak zaslužka.Tako lahko ugotovimo, da se določene kirurške tehnike so praktično izzomrle in jih zamenjale druge tehniki, čeprav morda niso za vse paciente idealne, predvimo operacija dimelili, da so vse neseljali, da je z uporabo mrežice, ki pa predstavlja tuji material.In mlade generacije praktišno prve rešitve sploh ne poznajo, ker jih je industrija naučila in prišla v ustanove zgolj za eno samo tehniko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 418.733,
+        "end": 423.205,
+        "text": "Vsekakor vsaz ga posameznika z ravnika in timelj ljudi, žene pomoč..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 423.965,
+        "end": 441.143,
+        "text": "Sočloveku iskanju najboljših in idealnih rešitev, ker ti zdravnik je najbolje srečen samo v primerov in izključno tedaj, ker pacient sre čanj, pacient je pa srešen takrat, ko se zdravljenje konča brez bolečin z boljšo funkcijo našem primeru z lepšim videzom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 441.751,
+        "end": 534.833,
+        "text": "Vprašanje je postavljeno zlo na splošno, če se preselmo v bolnišnice na Kitajskem v Šanghaju, kjer imajo triindvajset bioprinterjev na enem oddelku, čer se preselim v Sobe Ačibadem v Turčiji, čet se preselnimo v Nemčiji.Mogoče bi bil odgovor popolnoma drugačen, kot če govorim za slovenske razmere.Slovensko razmene pa moram ponovno poudar, da so kritične, so kritnične tako v kadrovskem pogledu prostorskih pogoji, imamo popolno maestrošeno opremo, nepregledne čakalne vrste, administrativno delo, ki se zgolj nalaga in jemlje energijo dodatno za osnovno naše osnovnjo delo in poslanstvo, tako da lahko ugotovimo, da ni imamo ustvarjenih pogojev in da nič ne kaže, da se bodo te pogoji izboljšali kvečjemu obratno. Tudi ta kriza bo dodatno iztrošenje kadra povzročila, še manj zanimanja bo za medicino tako na sestrskem delu se pravi zdravstveni energij kot pri zdravnihih, zato ne zrem prou optimistično v prihodnost in brezrezerni klopin obena ekipa ne more doseč odmevnih rezultatov, vedno vsakom ekipnem športu in medicina lahko enačno z ekipnim športom potrebuje rezervna klop, da pridejo svežji igralci s svezimi idejami na teren, tudi pa vidimo, da je ena oseba, ki mora upravljati klinično delo, krajša čakalne vrste, pedagoško delo prenaša znanje, znanstveno raziskovalno delvo in šele nazadnje pride inovacije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 535.492,
+        "end": 572.937,
+        "text": "Se prav inovativne ideje pridejo popoldne v dobri družbi in nasmejani družbijo pivu, ko kolegi skupaj zapustijo službo in se posvetijo nekim novim razmišljanjem o nekih novih, izkrivi pogovori nove ideje o istem problemu na mal drugačen način, na dopustu ponoč v takih pogojih ne pa pri izstrošnjeni ekipi, ki vsakodnevno zagotavlja osnovno svojo dejavnost.Odlično bazično znanje mikro kirurgije, ki so ga, ki smo ga dobil od naših učiteljev, ki so to dela že desetletja nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 573.545,
+        "end": 601.068,
+        "text": "Povezovanje z tujimi znanstveniki oziroma domačimi znanstveniki, ki se ukvarjajo z drugimi deli, se prav tridi modeliranjem izdelovanjem različnih kalupov modelov, da točno na milimetr natančno lahko pod določenim kotom odžagamo kostjo, pod točnodoločenimi kotom spojimo, ob tem uporabmo žilje, živce in vse ostalo in potem spet prenost kiva na obrestu zzoroma na druge dele telesa."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 601.743,
+        "end": 616.036,
+        "text": "Iskrat neke rešitve, ki bodo za pacienta ugodnejše, kot sem že preumeno, tako s funkcionalnega kot estetskega videza, se prav skrajša določenje poti jih optimizirati na osnovi znanja, ki ga dozde že poznamo in imamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 616.897,
+        "end": 645.415,
+        "text": "Z pričakovanjem cilji so izredno visoki med ljudmi, kar se tiče medicine, se pravi najhitrej upravd popolno brez vsakršne napake, brez prehodnega obdobja stranskih učinkov rehabilitacije vse takoj in zdaj. Lepost je povedala, da je kirurgija kraljica medicine internisti s tem na segurno ne bistrinjali, ampak, ja lahko rečemo, da jo kirurgia zlasti pa moje področje, plastična in rekonstrukcivska kirurgija tista."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 646.023,
+        "end": 659.793,
+        "text": "Ki pri krateri je takoj, so vidni naše rezultati, se prav delo naših rok in razmišljanja naše ekipe so vidne takoj in vsem postavimo na spravno obzorje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 660.552,
+        "end": 661.025,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 661.548,
+        "end": 688.531,
+        "text": "Kirurgija je tudi taka, da se ne moremo skrivat za nekimi procesi biološkimi in kemičnimi reakcijami, ampak pogosto deluje tukaj vse..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 689.307,
+        "end": 693.138,
+        "text": "Teljnore z očarat, ker jug razmišljam malo širše."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 693.779,
+        "end": 699.432,
+        "text": "Če pogledajo recimo kirurgijo dojke in zdravljenje raka dojk, zdaj smo v rožnatem oktobru tudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 700.58,
+        "end": 717.742,
+        "text": "Je pomemben kirurg, ki ga, ki se ga povezuje z zdravljenj mraka dojk doktor in kirurg Hajšteti z Amerike in lahko ugotovimo, da njegova tehnika je bila skozi stoletja večelmanj nespremenjena enaka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 718.366,
+        "end": 734.313,
+        "text": "In tudi danes te kirurgške tehnike niso bistveno spremenile, kar se je bistvenno spremenilo, je pa to, da sodelujemo tudi z drugimi timi, se prav preventiva, pravočasno iskanje bolezni, danes zdravimo netipne rake."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 734.853,
+        "end": 751.323,
+        "text": "Ker imamo program Dora, ki odkrije še netipne tumorje, Hajštet je imel povprečju tumor večjih od limona, se prav so bili njegove rezultati slabši.Še več, danes imamo genetska testiranja in najdemo nosilke mutacij brca ena in dva, ena?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 752.116,
+        "end": 755.221,
+        "text": "Širše javnost bolj poznarecimo primeran želine žoli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 755.744,
+        "end": 760.604,
+        "text": "Ona je bila nosilka motacij Gena in si je profilaktično ali preventivno dala od strank."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 761.279,
+        "end": 793.713,
+        "text": "Nevarno tkivo, za katerem bi v tok in tok procentih, sedemdeset osemdeset procentih nekoč zbolela za rakom dojk.In tukar je spet naša vloga, da pomagamo pravočasno in na najboljši možni način. Jasno so se pa potem tudi zahteve ljudi zvišale po estetskem videzu in danes recimo uporabljamo lahko tri deka lupe, da oblikujemo po repliki sosednje zdrave dojke in v eni sami operaciji dobimo že odličen končen rezultat, se prav skrajšamo operacije z multidisciplinarnim pristopom in še več."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 794.641,
+        "end": 821.962,
+        "text": "Bolnici, bolnice tu pa lahko se pohvalam na sončni strani Alp v Sloveniji, lahko izbira med najrazličnejšimi tehnikami, sodobnimi tehtnikami, mi predstavimo vse prednosti slabosti in nazadnje se bolnica glede na svoja razmišljanja, lahkodloči, katera tehnika je zanjo najbolj primerna. Se prav vso odlo ča, personalizirano multidisciplinarno zdravljenje, to je prihodnost Krugije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 819.515,
+        "end": 819.7,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 822.704,
+        "end": 829.319,
+        "text": "Ja, hvali pa za besedo se mu skušo bitkratek ne, ampak me je spodbudil to, kaj ste rekel, ne gospod rodične."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 831.715,
+        "end": 834.922,
+        "text": "Z inovacijo je potretno celotno okolje, ne samo en dejavnik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 835.681,
+        "end": 843.275,
+        "text": "Nacilno, ne?Jeno sigurnje denar, cigurnje oprema, cigurne moži z raziskave, to je bistven nuja ni pa za dosten pogojbi matematik Rekov, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 844.338,
+        "end": 846.295,
+        "text": "A je tudi važnega kultura okolje, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 846.92,
+        "end": 849.164,
+        "text": "Diracimo, govorimo o bankah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 849.974,
+        "end": 855.712,
+        "text": "Suzlokitizirane, ker ne financirajo odtveganih projektov, recimo, na papiri odtvenih projektov, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 856.353,
+        "end": 857.551,
+        "text": "A k taki so predpisi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 858.26,
+        "end": 863.913,
+        "text": "Če banka nikaj tako financiram, mora delati velike rezervacije v svojih bilancah in zato tega nadelajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 864.672,
+        "end": 870.578,
+        "text": "Ni jim to ne splačajo se jim v to delav, ampak kaj manjka, pa nas manjkata v mestnični, en ven čr kapital."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 871.304,
+        "end": 893.123,
+        "text": "To je nek trd tveganega kapitala, tak kapital obistov potem financira racimo na papirju tvegane projekte in tega obisotrga praktično pri nas ni in rovska komisija kot jih razložijo na hitro, ne? Nismo med velik časa za več podrobnosti in pa ta nov inštrument akcelerator pospeševalnik, kako bi to prevedal v slovenščino, je res nekaj ves revolucija, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 893.849,
+        "end": 908.547,
+        "text": "Ker je lopska komisija Poligrantar, torej ne povratnih sredstev, ki ti da do dva cela pet mednijic celih pet in dva cela pet milijona za projekt, ti tudi financira equity, so pravi lastniški delež v podjetje, da ta podjem, če hočte, do petnajst milijonov evrov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 909.88,
+        "end": 914.42,
+        "text": "In ta denar dejansko to prv izdek komisija prof financira, torej lahko bi rekel država, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 914.977,
+        "end": 921.862,
+        "text": "Na nacionalni ravni bi to bila država, noropski ravni je torbska komisija ne.Seprav recimo, da bi držala mija njegi inštrument, ki je financirala v..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 922.368,
+        "end": 928.004,
+        "text": "Tvegane vendor obetajoče, oziroma brejksru ne se prav prebojne nekaj neke ideje, projekte."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 928.544,
+        "end": 938.686,
+        "text": "Bi država dejansko proekvit je torej prav lastniško vstopala in kasneje se je potem prodala ta lastnički delež, ne?Nem ta instrument manjka v Sloveniji za večji preboj inovacij."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 939.412,
+        "end": 944.812,
+        "text": "Banke niso primerne in so dosredek kritizirane, doskrat od upravičeno, da ne bo pomoten."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 945.605,
+        "end": 947.95,
+        "text": "Aba k načelno banka ni za take projekte ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 949.334,
+        "end": 952.928,
+        "text": "Ker je regulativa taka in se je tudi poostila po krizi prvi krizin?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 953.772,
+        "end": 968.302,
+        "text": "Finančni, ne od leta dva osem naprej, se je celo povzstila regulativna za banke, torej so še men nagnjen k temu, da to financirajo in del krizo pri nas prve, ki bi toliko tokvelj obsežen kot huda, je tudi na račun banke sodelodatno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 968.875,
+        "end": 979.034,
+        "text": "Ko prej je ko reguliranje, dan ne financirajo skoraj nič in potem se vse ustavljne, upandeseze ne na botko zgodil v te drugi krizi, upande tudi njeka šola za naprejme."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 979.878,
+        "end": 982.78,
+        "text": "Saj še to ne zame, ki je prvi zadnji dejavni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 980.62,
+        "end": 999.098,
+        "text": "Sanjša to je zadnji dejavnik, sanjšo to je pa tudi kultura svedene, a ti v okolju, ki jih kjer si ne, se to spodbujajo, je to nekaj dobrega desetinjega in ovirov, nekje nove, noge, andrejo nek je nog predstavo, a te vsi postran gledajo. Mene še če cimo na Kemijskem šitutu, ki gledam posodkam, repridem tele Ieracse, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 999.993,
+        "end": 1007.755,
+        "text": "Doseške, ne? So prav opozarjene, da vsi do to vidijo, to se spodbujajo, ne, saj sam kot primeren tak simpatična, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1007.755,
+        "end": 1014.033,
+        "text": "Morda mal tako bolj provokativno vprašanje mesa zanima ocena, doktor Veselinovića."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1015.214,
+        "end": 1024.192,
+        "text": "Kolik je bilo nasedlih projektov v strani oziroma kakšenje delež bančne lukne, ki gre na račun nasedle znanosti?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1025.39,
+        "end": 1026.385,
+        "text": "V Sloveniji govorim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1028.123,
+        "end": 1032.933,
+        "text": "Če minimo petih milijard, ali okoliko govorimo ne poznam številke napamete."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1028.393,
+        "end": 1029.018,
+        "text": "In ne obeti hrb."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1033.372,
+        "end": 1039.666,
+        "text": "Smezi bil zelo previdno, kjer ti hoceni, ker to je vse zelo s politično reproducirano, ne ampak različne znanosti zelo malo, sigurno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1041.387,
+        "end": 1047.631,
+        "text": "Aba gre pa svedel za projekte, ki pa ni ne od sooznanstveni, ampak so koristni, so recimo tvegani in tako naprejane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1049.437,
+        "end": 1055.208,
+        "text": "To me spominja na določene stvari, ko želimo nek preboj, ne?Pa se najprej soočmo z..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1055.984,
+        "end": 1091.0,
+        "text": "Podatkom, da ni finančne osnove, potem pa še temu sledi, da niprav ne osnore in se prav je projekt ostane na tleh že odcega začetka, saj sploh ne razvije.In tudi se bo indov prihodnosti, čeprav te, da so banke, imajo še bolj natančno regulativo, da takih projektov kot so recimo nek satelitki iz slovenske zemlje gre v svet, a ne in prinese pomembne podatke, da se ga ocenj kot tvegan projekt, ki ne bo dobil podpore strani naših bank, nem, se mi zdi, da je skorzbujajoče tudi potem prihodnost še to kveč še boljstvo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1090.763,
+        "end": 1097.378,
+        "text": "Veselutno, saj sem to v tem smisel sem rekel, ne? Nisem rekledo prav, ne, sem rekledato grozen, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1098.087,
+        "end": 1112.836,
+        "text": "A v nemomu medprtim oprecipov zatvegam kapital drugi inštitucije, ne, banka po definiciji ni zatvegane projekte, ne. Je pa res zaslede sodavska prnesbanka bolj papeške od papeža in tako naprej še bolj resno to regulativ jemljak odvilo potrebno in takon naprejen, to pa tudi se vede, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1113.764,
+        "end": 1122.826,
+        "text": "Je sem prirekel, ne, Evropski komisiji je tudi Evropska komisija prevzela, da bo prav vlagala od te projekte, na nacionalni ravni bi to bila država, določeno obdobje potem pa je stopila, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1123.94,
+        "end": 1179.593,
+        "text": "Vala lepa za to vprašanje, tudi prej sem zelo pozorno poslušal predvsem o inovacijskem okolju, svet da bi lahko na različnih segmentih začel secerat kaj potrebujemo na nivoju, končni fazi tudi univerze, kaj na nivoj države, slišali smo prej, da Evropska komisija poziva, naj ne računamo samo na komisijo, da je to dolžnost države in sreda zdaj če grem nazaj na univerzo, sredo naša osnovno poslanstvo izobraževanje, znanstveno raziskovalno delo, ki gano tisto, kar pa še pod tretji stebr naše dejavnosti, to je strokovno delo.In sreda bom se vrnil tudi o komodiji, da bi bilo vložen, da so vločne, da bomo vladišali, da bodo v povzcu, da je bilo, in seveda bom se vrnil tudi na študente, ampak najprej..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1180.403,
+        "end": 1187.474,
+        "text": "Kaj je na njivoju univerze, kaj smo na nivoju Univerze naredili glede inovacije? Inovacijo zame neke med res bazičnim znanjem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1188.065,
+        "end": 1207.538,
+        "text": "Pa nekaj, kar je že na trgu, prav neki omest.Začel bi pa na ta način mogoče s spomenta, mislim, da je en let nazaj bil drastičen pogrom po Univerzii v Ljubljani, to je bilo novembra lani, na temo, kaj profesorji na Univerziji v Lijubljaji počnejo tako imenovanem, na tako minovanem trgu?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1208.348,
+        "end": 1223.468,
+        "text": "Takrat je bilo izpostavljeno, ne, kot sezname smo delali kako kdo zasluži z raznimi strokovnimi deli izpostavene medicinska fakulteta za seznami, potem tehniki smo bili gornati iz sezlamih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1223.975,
+        "end": 1237.154,
+        "text": "Zaprav, je sem prepričan, da ta ideja, da je treba to obračunat s tem potencialnim komercializmom ali pa tržno dejavnostjo v univerzi, pršla iz same univerze."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1238.116,
+        "end": 1263.715,
+        "text": "Mi je jamo največ težav sami sabo, je še danes po treh letih, zveda jo po osnovni izobrazbi sem tehnik, po trešletjih zelo dobro razumam univerzo in še danes obstajajo fakultete, kamor jaz pridem in se ne upam ali pa nočem izgovorit beseda tržna dejavnost sodelovanje z industrijo in tako dalje, ker to je pregrešna zadeva, ne?In recimo moj primer."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1264.272,
+        "end": 1268.272,
+        "text": "Pred enajstimi leti sem uradno prosil to univerzo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1268.896,
+        "end": 1272.963,
+        "text": "Če lahko ustanovim odsepljeno podjetje, uradno odsepleno podjetjo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1273.503,
+        "end": 1277.097,
+        "text": "Po devetih mesih ustanavljanja tega podjetja so mi rekel ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1277.823,
+        "end": 1283.324,
+        "text": "Zato, ker imamo zakon vzapisan, da v tej državi se ocepljenih podjetij sploh ne sme ustanavlja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1284.05,
+        "end": 1285.585,
+        "text": "Cepljeno podjetje pomeni, da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1286.21,
+        "end": 1302.832,
+        "text": "Univerza stopi s stvarnim vložkom, sem ponudobetindvajset procentni delež v podjetju, da bi imela univerza, da ji govorimo, da bo mogla to država delati. Ne, še na nivo diverza tega nismo uspel sprejet. Enajst let nazaj je bil to problem, donast je to isti problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1303.507,
+        "end": 1309.497,
+        "text": "Jaz sem tukaj, lahko rečem pri kuritu, pa nisem uspel te miselnosti spremenit."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1310.037,
+        "end": 1335.687,
+        "text": "Na moji pogodbi, le pa smo šli na licenčno pogodbo, piše prvo odsepljeno podjetje Univerzo Ljubljani, sem jaz ustanovil, leta dva tisoč devet, sramota, moral bi jih nekaj sto že takrat v naslednjih desetih letih kaj se zgodil, še ne deset smo jih dobil, večinoma z naše fakultete in vsakička se pogovarjamo o tem smu napadeni, da se gremo v komercializacijo in da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1336.447,
+        "end": 1366.433,
+        "text": "Manipuliramo z javnim dnarjem in recimo fakulteta za elektrotehniko je že presegla delež projektega dela, napram deležu, k ga dobimo za izobraževanje.In sem se jaz kot dekan sprašal, če nismo šli predaleč, da preveč sodelujmo z industrijo in jaz bi to krekel, te ekscelentni primeri posameznikov, ki so uspel, so po mojem prepričanju bolj naključje kot pa sistemsko delo te države."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1367.328,
+        "end": 1368.914,
+        "text": "In dejansko..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1369.724,
+        "end": 1425.8,
+        "text": "Spostavljam to, da moramo najprej na univerzi sodločati, a sploh vemo, kaj je inovacija. Ne vem, jaz sem aplikativc po osnovni izobrazbi tehniki naša naloga, da prenašamo izsledke bazične znanosti v uporabno vrednost, ne? Tudi v medicini je podobno, da seveda matematij imamo pač industrijske partnerje. Enostavno se sprašujem kaj še mormo naredit, da so bo karkol premaknilo, je smislim ne, da si izboljšuje, je s mislim, da sami sebe oviramo že znotri univerze, mi se pogovarjamo s tem, zakaj ne sme nekdo neki delat za industrijskega partnerja. Lejta je vsak patent, saj vemo mogoče eden od stotih uspe in isto je lahko očitek, da mogo če počnemo na univerzi to kakšne rutinske stvari, ja, ampak če ne sodeluješ znakom, ne boš nikol pršel do tiska enka procenta res uspešnih stvari."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1426.407,
+        "end": 1429.192,
+        "text": "In zdaj seveda, če govorimo o študentih?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1430.103,
+        "end": 1448.26,
+        "text": "Povem vam primer, karierni centri, kar je nekak priprava mladih za iskanje zaposlitve, so bili napadeni s strani določenih profesorjev, da je to spet komercializacija, zapravče nekomu omogočaš, da se plasiran na trg svojim znanjem, je to že komercializacije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1449.509,
+        "end": 1457.795,
+        "text": "Je smislim, da imamo po mojem prepričanju v svojih glavah največje težave, da ne omejo tudi resimo dnar nevenčej najvešje problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1458.385,
+        "end": 1463.853,
+        "text": "Je se me od nostrijske partnerje, ko me je sprašal le če bi od dveh milijonov evrov, tvojih kambih vložal?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1464.376,
+        "end": 1532.618,
+        "text": "Nar ni problem po manj prepričanju, mamo pa pomanjkanje organiziranega iskanja teh inovacij in takrat ste rekel v miru človek ne sme bit pod pritiskom, to se počne zvečer ponoč, jez razmišljam o tem na smučanji v poparih nekaj se spučijem in ne morem spat ponoč, je sredi mišljam o glavi razmišljam o inovacijah. In seveda poskušamo seveda to kulturo in oviranja upelat pri študentih, ampak seveda očitno spet samo na nekaterih področjih, primarno na tehniki, gotovo najbrtudij na medicini, težko je pa ne vem, bazična znanost je ključna za vse, je pa resda bazični neznanstveniki na področju bazišnjih znanstv se posvetijo nekim problemom mogoče z looskim specifičnim naša naloga, ne, če govorimo o tehnikih, je pa da te delce sestavljamo uporabne rešitve na trgu, pa je lahko tudi proces. To prav je vse vedno znova sprošujem, tu če bi želo nekaj spelat, da me ne bo nekdo napadal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1533.614,
+        "end": 1534.34,
+        "text": "Kaj počnem?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1535.707,
+        "end": 1539.385,
+        "text": "Seprav nisem sploh še v glavah, nismo odločal, a sploh želimo inovacij imet."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1540.972,
+        "end": 1547.958,
+        "text": "Preveč ljudi, takrat kolega Jančar je rekel, ko prevečljudi govori, se nikogar ne sliši."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1549.122,
+        "end": 1552.885,
+        "text": "In mi smo pršli v tej družbi do tega, da so vsi pametni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1553.527,
+        "end": 1560.226,
+        "text": "Vključno s trenutnim stanjem glede epidemiologije oziroma tega virusa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1560.935,
+        "end": 1561.357,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1562.251,
+        "end": 1566.098,
+        "text": "Poglejte, ni ni gastrokovnjaka, ki se ne bi šel glasu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1567.465,
+        "end": 1579.733,
+        "text": "Sem rekel, če krvavim z roke bom najprej krvavical ustavo, posel pa spraševal kakšne psihološke poslednice, sem doživel za ratego.Pa ne znamo postavlja prioritet, ne zamo se odločat, kva sploh hočmu?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1580.24,
+        "end": 1597.874,
+        "text": "Pa ne bom krivil države, ne bom kril financiranja, krivim našo univerzo sam ga sebe krivi.Mi se sami ne znamo znotraj v vrhunske izobraževalne in pa znanstveno reskovalne institucije odločat, kaj inovacija, a bomo sploh to počel za družbole."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1598.667,
+        "end": 1608.134,
+        "text": "Lejte, če je s matematistno, matematično statistično ali pa pogavsovi krivulji, sem prepričan, da nismo neč bolj pametni, katkatere kot drug narod."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1608.657,
+        "end": 1622.275,
+        "text": "In je stood, mi smo eden najbolj izobraženih nacij na svetu, po številu visoko izobraže njih ljudi, ključno z doktorati, naj paš po štelilu doktoratov med prvimi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1622.528,
+        "end": 1622.866,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1622.866,
+        "end": 1626.089,
+        "text": "Kje se pa to pozna uspešnosti naše družbe, kje?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1626.68,
+        "end": 1637.716,
+        "text": "Jaz jo ne videm, se ne rečem, da je slabo, ampak smo pod najboljšpod povprečjem, če gledamo vsemu Evropo.Kje je zdaj ta potencial visoko izobraženih ljudi?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1639.37,
+        "end": 1650.035,
+        "text": "Jaz ga ne videm, zato kar najbrž je, se treba vprašat, da je poanta dobiti diplomo pa doktorat ali poanta kaj narediti potem, kot Tomaž."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1651.385,
+        "end": 1655.553,
+        "text": "Je spoznam to tudi, ko zbira doktorate, zdaj moda postala, da maš več doktoratov?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1656.515,
+        "end": 1656.565,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1657.527,
+        "end": 1665.425,
+        "text": "Jaz ni, sem, glede jaz bi tudi najbolj še kakšnega da redu, pa vsako od nas ne, pa k se sprašujem, kaj namen takega početja?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1666.083,
+        "end": 1676.191,
+        "text": "Spet statistika, kako smo dobri, tok bom rekel ne, lejte v Avstriji Švica študira trideset štirideset procentov populacije, prenaši deset procent."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1677.71,
+        "end": 1680.258,
+        "text": "In še enkrat povem, število..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1680.967,
+        "end": 1688.864,
+        "text": "Inteligentnih ljudi je enako kot kjer kot drugje po svetu, očitno pač delimo neke diplome po nekih drugih kriterij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1689.387,
+        "end": 1701.2,
+        "text": "Bom sem direktno kritičen glede tega in sem prepričan, da take diplome se ne da delitno vseh področij, gotovone na naravslovju, tehniki, medicini, ki druge pa mogočne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1701.2,
+        "end": 1701.723,
+        "text": "Separatko ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1701.723,
+        "end": 1701.773,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1701.773,
+        "end": 1705.655,
+        "text": "Po drugi strani pa mora mež do ljubljansko nivezo maso inkubator, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1706.482,
+        "end": 1714.396,
+        "text": "Ki vsako leto, jaz sem bil v tem komisiji vrsto let, se predstavi trideset štirideset projektov zanimivih en bolj zanimivo kot drug."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1715.476,
+        "end": 1727.17,
+        "text": "Večina teh projektov ma to je bistvene nekaj ideja, ki jo predstavijo in ki je podjetna naga ena na koncu, posloja nekana nagrada, mislim, da prvih sedem se javno celo predstavi, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1728.082,
+        "end": 1733.38,
+        "text": "In nekaj dobijo neko manjšo celo nagradno, mi se na denarno nagrado zelo simbolično že se ne motoma, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1734.14,
+        "end": 1748.72,
+        "text": "Ti projekt imajo vsi problem financiranja, ne?Ampak to so pravilno projekti, ki jih banka na bofinancirala, ti muče ni kde ok, komu je bil narjeno, pa slo del oja ni, niti podjetja še ni pomajal neko idejo, ko bi neki izdelk naredil, ne.To banka naj bo financirala, ampak..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1746.374,
+        "end": 1746.847,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1748.973,
+        "end": 1760.6,
+        "text": "So pa inštrumenti do Evropski komisiji naravni, ki pa že take projekte financirajo, ne?Kot je to, saj te vračno tok sem pregovoril, prnes manjka nek tovrstni inštumen financirani novacij, ki ni banka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1761.106,
+        "end": 1769.577,
+        "text": "Jaz bi sem ta sklate komentar glede etih, inovacij na inovacia, rektorja nagrade za najinovacijo, to bo podeljeno novembra letos pet."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1770.168,
+        "end": 1778.808,
+        "text": "Pet te pogleda, kakih v teh podjetijh so lastnikov profesorjev z univerze, spet jih se bojimo bit lastniki podjeti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1779.652,
+        "end": 1786.064,
+        "text": "Ker je to, to je neki negativnega v tej državi, pa bi tudi si upoltrditi na univerzi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1786.908,
+        "end": 1799.648,
+        "text": "V Ameriki, če nimaš tri štiri podjetja, si nesposoben profesor na tehniki, ne, čevkolu vrnemo. Tu prenase pa nam je nas je pasram priznate, da si lastnik podjetje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1801.741,
+        "end": 1817.401,
+        "text": "In doskrat sami tvegajo, ne? In potem že tok je ni enostavno iz cone udobja, iz javne službe v privatni sektor skrbet za finance in skrbet za to pa še uspel na trgo ali ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1818.194,
+        "end": 1830.243,
+        "text": "Se pravi že to, ki je stresna zadeva, potem te pa še tvoji kolegi, ko sem jaz ustanavljal to podjetje, so bile dve skupine profesorjev.Prva skupina mi je govorila, kaj se napihuješ?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1831.323,
+        "end": 1835.609,
+        "text": "Druga skupina mi pa rekla, tih bot pa napiš na ženo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1838.832,
+        "end": 1858.981,
+        "text": "Vaj te nočem bi kritičenja se vam še naprej prizadeval, da bomo to kulturo dvigali naprejs, ampak mislim pa, da bo treba tu znotraj univerze sedoločene stvari izment in dogovorit, pa naj ga študb znotra inštitutov, ne? Da si vedno očitamo, kaj kdo drug počne in pa bojimo se tega, a je to problem, če nekdo uspe?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1859.504,
+        "end": 1860.382,
+        "text": "Tudi finančno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1861.192,
+        "end": 1863.588,
+        "text": "A to, to problem je fušija očitno, ne vem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1865.427,
+        "end": 1874.928,
+        "text": "Tokda z znanjem, z podjetnostjo bomo dobil tudi zlo uspešne podjetnike, to je pa dejstvo in zdaj če je to problem, da smo jim fovž."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1875.991,
+        "end": 1878.91,
+        "text": "Je pa še ena frustracija, s katero mormo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1879.67,
+        "end": 1900.004,
+        "text": "Se sooče clepre.Ponovno, spet lahko ugotovimo, da na določenih področjih matematika osnova za vse, je smogoče sem bil tudi skeptičen, ker sem poslušal matematiko ena pa dve pa tri pa štiri, pa smo se sprašval kabom o s tem počel, kasneje, kar sem iskal rešitve za karkol sem ugotovil, da zna matematike premal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1900.612,
+        "end": 1904.83,
+        "text": "In vsak inžiner uporablja natanko toliko matematike, kolikor jo zna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1905.488,
+        "end": 1923.089,
+        "text": "Premal je tega, ne gre sem za algoritme greza način razmišljanja in jaz sem se tudi zdaj v teh letih naučil, da je družboslovje tudi izredno pomembno, da ne bo napačno razumljeno, ampak eno je obdobje diskurza, razprave, debate, oj pa obdobile ukrepanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1923.832,
+        "end": 1926.785,
+        "text": "Jaz sem včasih občutek, da nekateri bi samo razpravljali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1927.477,
+        "end": 1940.318,
+        "text": "Tehnik pa v končni fazi, sta rekel kolega Ahcan, ne, Al Dela žila oziromajo uredu, al pa ni uredo, namo tudi, pržgeš je on-off, a se vrti, ali se pa kadi, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1940.875,
+        "end": 1941.668,
+        "text": "In..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1942.259,
+        "end": 1956.502,
+        "text": "Se prav je eksaktnost, sem se pa naučil tudi te mehkobe, mehkobe je pa družboslovje humanistika in zdaj bom povedal, tiskar se mi zdi najpomembnejše skupaj moramo dela, ne gre zdaj za to, kdo je bolj pomemben."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1957.193,
+        "end": 1964.821,
+        "text": "Bližje k gremo do končnega produkta, več rabmo in ekonomskega znanja, pravnega znanja in pa sociološkega znanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1965.631,
+        "end": 1971.487,
+        "text": "Jaz sem bil kot predsednik platforme za SmartGrid, smo definiral, tehnologije najmanjši problemov bičajno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1972.516,
+        "end": 2012.172,
+        "text": "Najtežji problem je pa pridobit kupca oziroma porabnika za tvoje rešitve, in to je pa ključno z inovacijo, sociološki vidi. In pa omenjaste industrijo štiri pika nula, ne, pripravlja se družba pet pika Nula, ki pa govori o tem, da bo bodoči razvoj temeljiv na tem, da bomo strikno moral upoštevat humanistiko in družboslovje, ker grejo določene tehnološke prešitve absolutno v napačno smer in se zlorabljajo. Ne, jim moramo delati skupaj in to je bodo včeraj razvoji ali pa pristop dvajset petdeset, da bomo skupaj delovali, ni pomizne to, kdo je bolj pomemben, skupej moramo dela."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2014.113,
+        "end": 2015.395,
+        "text": "Ja, zj..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2016.29,
+        "end": 2130.263,
+        "text": "Je smoren ugotovit, zdaj odkrsem na tem položaju, da v zadnjih nekaj letih se je pa to že neki časa trajalo naslanjanje na modeliranje procesov kakršnih koli postalo obvezno pri raziskovanju, ne?Mi imamo od enajstih odsekov, imamo en odsek, ki je v bistvu s samo z modeliranjem ukvarja, ne, se prav v zadnjem času smo vzpostavili infrastrukturo na inštitutu, se prva važmano računski center, ki pomaga, ki ga raziskovalci uporabljajo pri svojem delu, praktično Tina Možveč obja od nekega znanstvenega dela, ne da bi imel še ta del računski zraven zelo dober narjen. Ko to v znanosti postajajo, postaja to del načina dela in tukaj se temo sedem možni zoganj, ne pomaga olajša raziskovanje, pomaga na kaže narešitve, ne simulira stvari in tako naprej, kot da to je za nas nekaj čist samoumevnega, in to je se prav še inštitut še vlaga in še razvija to infrastrukturo, še več, to delamo tudi v slovenskem prostoru, saj smo zdaj v bistvu vzpostavljen tak super računalnik, ne v Mariboru, ki bi uporabljamo zločinkovito raziskovalci različnih akademskih inštitucij, univerz, inštitutov, ne, po Sloveniji in tudi mi ga zdaj že konkretno uporabljamo pri naših raziskavah, ne?Tako da to je zagotovo pot, če pogledate velik del en pomemben del knjige, se ukvarja z inovacijami v umetni inteligenci, recimo ne to prihaja in temu se ne omoga izogant in tudi v znanosti bo umetna inteligenca potem krojila do določene mere, kako se bodo raziskave izvajale, o kjer res meri bojo šlendko naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2130.837,
+        "end": 2190.44,
+        "text": "Ja, zvej najprej mogoče vprašanje, kaj pomembi to uspešen na inovacijah, ne? Uspešeno znanosti pomen, da pač objavljaš v teh svojih, tak izkajajo najboljših dosežke, ne, v najboljsih znanstvenih revijah, da si uspeše pri pridobivanju najbolje prestižnih projektov na področju inovacij pa uspešnost nekak šteje s tem nekoliktiv bistosredstvo pripeleš na račun tega, ker si uspel s svojim znanjem prodrat. Ne, se pravaj, si je uspel plasirat nek patent ne nekama si uspel licenčno pogodbo sklenj za izrabo določenega tvojega znanja, naj in tukaj moram režem nismo zelo uspešni, ne? Naši inštitut niti v Sloveniji na splošnost se mi zdi, da to je enak kjer okol inštitucijo pogledaš, nima bistvenih prihodkov na ta račun, ne, nima. V tujini je to pogače, ne v Ameriki nekatero ga zaživijo od tovrstnih prihodkov, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2190.963,
+        "end": 2261.23,
+        "text": "Kot da tukaj ta uspešnost morda po številu patentov, nekih, ki jih pridobimo, nismo pa to k uspečni potem v tem nadaljnjem koraku, ne, se prav prepela te patente, te inovacije en korak bližje trgu, kot da jih lahko industrija sprejme in začne naprej delati na njih, ali pa da jig clomi, lahko nekam potem kotrčeno plasiramo. Tudi moramo velik dela upravd, se prav nekje čist kultura znotraj hiš, naj mi bilo, da so vločili, da bomo, če bi bili, še ne, šlišali, da se mu je odločilo, da ga je odlalo, da si mu je podinah lahko proizveder ziskovalcev odkrije neke ugodne lastnosti, če pa hočeš to na industrijski in operpredat mož pa to v večjih kolicinah naresne in že to je včasih samo problem v vešjih Količinah to nares, prečimo s takimi stvarmi se spopadamo, da je potem sredstva za kšne take stvari težko zagotovite."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2254.7,
+        "end": 2255.695,
+        "text": "Ne, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2261.77,
+        "end": 2268.605,
+        "text": "Zdi pa krsikovi datiče je pa tako, ne, da je v bistvu profesor Jerala neki dela na tem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2269.33,
+        "end": 2302.27,
+        "text": "Je pridobil en evropski projekt, ki se je ukvarjal z inovativnimi pristopi k borbi protivirusom, ne, ko se je kakovit pojav vsevede svetovala tako usmerli na ta virus, ne? Se prav tudi je zdaj primer, kako odlična znanost lahko pomaga pri oblaženju posledic ali pa preprečevanju, ne?Tudi ideja, ki jo je imel Nibladirekno usmerje na Nakovit, ampak se lahko tudi aplicira na Kojit, pa tudi seveda na drugi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2303.047,
+        "end": 2318.74,
+        "text": "Virus, ki bodo morda se še pojavili v prihodnje neseprav nekaj taka res originalna ideja znanstvena nekih, se da potem v prakso prpelat, ne in tu, ki smo zelo pač delali oziroma začel delati na primeru, na primeri sarsko obdobo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2318.723,
+        "end": 2343.412,
+        "text": "Je se absolutno strinjal, najbrž da so možgani fizikoval pa recimo naroslovca oblikovani na način, da iščejo rešitve, treba pa poudaršeno z drugo izredno pomembno komponentov. Ta fizial pa bom govoril tehniku, da ne bo naravoslovci kritiziral. Ne uči se treba tudi komunicirati!"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2344.357,
+        "end": 2377.921,
+        "text": "Treba tudi, znat se treba pogovarjati, je spravnja če neuspešne koga prepriča za dobro idejo, si sam vsaj poukril to, ko tu unkate ne izprejev, prav komunikacija mehke veščine. Tu recimo kasmo mi analize delal naših študentov, da so jih industrijski partnerj, receneval polka, so pršli v podjetja, nihče ni očitev, da ne obvladajo svojega področja, so prav elektrotehnike. Očital so pa vsi po vrsti, da se na meji avtizma..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2378.832,
+        "end": 2381.482,
+        "text": "Ne znajo komunicirati, ne znaju se pogovarjati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2382.038,
+        "end": 2385.008,
+        "text": "Ne znajo izražat svojih idej in svojih misli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2385.818,
+        "end": 2402.913,
+        "text": "In takrat, kak hočeš prit na trg, so te stvari ključne, ne, ni morat znat komunicirati s kom v končni fazi z ekonomistom, z bančnikom, s končnim fazim s svojim kupcem, ki ti bo kupu ta produkt ali pa pacientom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2403.942,
+        "end": 2436.848,
+        "text": "Tukaj je poanta, ne?Je se ne bi hvalo s tem, kako so eni super drugi, pa nič, še enkrat.Je z tudi recimo pojavlja se tu zdaj težnje multidisciplinarnosti interdisciplinarnosti, bo točtudijske programe naj bi zdaj kombiniral, reko pozapte, da ne bo komu namisel, da vam zdi supermen je izobraževal, da bo polikonomist, pa bo tehnik, ne, ali pa povzdravnik, pa obo ekonomist to ne bo nikamor prišlo, mi se moramo nauči dela to timo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2437.405,
+        "end": 2445.927,
+        "text": "Mimormo znat povezovat znanje, tukaj pa ključna komunikacija in vam povem, da tehnik je pa tle zlo slab."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2446.518,
+        "end": 2453.605,
+        "text": "V komunikaciji z drugimi strokovnjaki na področjih, ki so ključna, da nekaj novacijev pride na trt."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2454.837,
+        "end": 2471.408,
+        "text": "Se prav, še enkrat samo skupaj edin to bo dobro rešitev, je se ne bi tolažu s tem, da so možgani od enka boljši ali pa slabši, so drugačni, to pa ne vem leva polovica desna polovicja, vključna je pa kreativnost vsakem primeru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2459.343,
+        "end": 2459.917,
+        "text": "Je se ne bi..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2471.763,
+        "end": 2487.035,
+        "text": "Očej, mamo neke osnovne gradnike, recimo to je tudi očitek slovenske industrije, recimov tiste, ki ni dorasla v tehnologiji, da pravi, da naši diplomanti ne obvladajo določenih rutinskih stvari, zamer, je komini smo brdna šola."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2471.797,
+        "end": 2472.252,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2487.558,
+        "end": 2504.45,
+        "text": "Zakaj so pa uspešni v tujini, zakaj so uspečni pri velkih korporacijah, ki točen vejo, ni poanta, da jih mi učimo, kako se projekt nardi, projekt A nardi. Poanta je o tem, da ima zadost bazičnega znanja, da svojo kreativnostjo ustvarja nove rešitev?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2504.973,
+        "end": 2510.103,
+        "text": "To je poanta in to je namen univerzitetnega diplomata, vse ostalo je pa obrtna šola."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2511.52,
+        "end": 2535.854,
+        "text": "In ravno v tem je, če slovenska industrija pričakuje, da bojo naš diplomant iz znal projektirat, ne vem, gradbeni objekt, so mal zgrešilj v svojih pričakovanjih. Diplomant mora bit praza nepopisan list z osnovnim bazičnem dna spet matematika fizika in potem skreativnostjo ustvarja nove rešitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2536.58,
+        "end": 2549.101,
+        "text": "Klasično in seveda v industriji je pa inovativnost prizvanih novih rešitev, ključno če hočeš prezvet ali pa če hodšaš ustvarjanj visoko dodana vrednost.Z rutinskimi stvarmi so dodane vrednosti marginalne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2549.236,
+        "end": 2572.81,
+        "text": "V knjigi je celko primerov, tudi ne, mimamo sko se temeljeved, zakaj bo to naše znanje uporabno, ne? včasih raziskajo potekajo na česa, kjer ne vidiš nekje takojšne koristi, ne. Notja in le primer, kako je mogel nekdo zagovarjati te velike pospeševalnike, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2573.401,
+        "end": 2608.703,
+        "text": "Ko so ga vprašala, bo to pomagalo bran državo, pa rekel, da ne, ampak bo pa vredno brani držav za ratega, ne? Se prav ideja je ta, da če manj štiri tako dobro kondicijo znanstveno, če maš take dobre temelje raziskave, boš lahko hitro odregeriral, kadar bo kratšna taka situacija, ker se bo nekaj pojavljal, kar bo vredno eksploiterat, boš to lažje in rdil.Ko se ta kriza pojavi, kot je zdaj, bo še lažji odregeral z določenimi raziskavami, ne?Mislim, da je tudi en ta vidik, ne!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2609.277,
+        "end": 2621.393,
+        "text": "Čas težko razložimo, zakaj investira tok velik v znanost, ne, ker se te neposredni učinki kot težkov vidijo, to je težkoso začunat, ne? Vi ste dala en zelo le primer, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2621.9,
+        "end": 2665.741,
+        "text": "Ko je nekdo šel in zračunal, kako prispevajo ne konkretno k nekemu, vseh dogajanjih povezavist krizov, povezavi s politiko je to, kakos lahko to so evropski voditelji dal znanost nejen prihodnji evropskik okvirni program na mizo in so ga lepo seseklal ko salamo, me. In je ostal iz tega, iz tegar, kar smo slišali tukaj na začetku, če se vrnijo na zaštete, kako moramo biti mi konkurenčni kitajski in zedea, so ga zdaj ta program, ki omogoča to v evropskem prostoru, ki uvedo nove mehanizme strani tega evropskega in ovacijskega sveta, so ga seseklal in smo si v bistvu, je zmislim, da zelo veliko škoda na del za prihodnje razvoj Evropa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2667.125,
+        "end": 2667.142,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2667.142,
+        "end": 2667.631,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2667.631,
+        "end": 2667.715,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2667.715,
+        "end": 2710.342,
+        "text": "Samo en primer uporabe bazične znanosti, me je vsem priložnost poznat gospoda, ki je inovator zaslona na dotik ta skrina, v prvotno industrijski aplikacije svedodom svema vsak telefon uporablja to tehnologijo, donesegel gospod milijarder nemilijonar in on ni lastnik nobenega tega znanja. On je imel sveta tokobčutka in je poiskal ustrezne patente v Amerikih odkupu in sam organiziral proizvodnjo in je hotel resničil svojo idejo, reko, ko sem lista v počasu pisov, sem videl glas in sem pršel na idejo če se bi dotaknil, da se mi odpre novo, novo okto."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2667.8,
+        "end": 2668.897,
+        "text": "Samo en..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2710.763,
+        "end": 2729.242,
+        "text": "To je bila njegova ideja, mislim, da je ekonomist po izobrazbi in to je poanta, tudi resimo v družbi, ko pravijo znanje, je javno zato, ker smo mi javne inštitucije. Ja, infrastruktura, mi dajemo na voljo to znani, mormo med infrastrukturo, da ga lahko nekdo uporabi, ni pa zastojnj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2730.237,
+        "end": 2745.442,
+        "text": "Ne, avtorske pravice ostajajo in problem je, če nima sploh na voljo znanja, je s običajno pravna edina težava oziroma edin problem, koga nimamo, je to, da ne bi imel znanja. Znanje mamo, organizacijsko pa res ne vemo, kaj bi z njim počeli."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2746.37,
+        "end": 2792.405,
+        "text": "Ja, lahko povem že nekaj časa sem slil za razpravi, čistostrka nisem slišal, ampak se mi zdi dovolj, da lahko nekje izstočencejo pa zaključke tudi tridika ministrstva našega vseema podame.Mogoče za začetek, sem mno dopovedal, prej je bilo mest malo debate o tem, kako soh razlagamo inovacije oziroma kakšna je definicija, neverjetno na koncu konca zavisi od tega, koga boš vprašal, seveda pri nas na gospodarskem ministri skoraba v gospodrski sferi pa je tudi knjigi zasledil tolje definicijo, da je pravzaprav inovacija takrat kot invencije."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2793.164,
+        "end": 2799.087,
+        "text": "Pravzaprav zagotoviš ekonomičnost uporabe, ne? Takrat govorimo o inovaciji, se pravi, da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2796.016,
+        "end": 2796.083,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2799.155,
+        "end": 2803.441,
+        "text": "Pridel mu do komercializacije, tega kar je nekdo odkril."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2803.947,
+        "end": 2808.79,
+        "text": "Izdaj dene in to je bodi si hrn..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2809.769,
+        "end": 2814.393,
+        "text": "Ves boljše do prodaja željev, bodi si raznišča stroške v pokojstvenem procesu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2814.95,
+        "end": 2816.485,
+        "text": "Zdaj..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2817.093,
+        "end": 2819.253,
+        "text": "Kar si tiče..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2819.877,
+        "end": 2827.758,
+        "text": "Same industrijske politike jak mi začeli delat analizo predvsem od tega, predvsem..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2828.821,
+        "end": 2838.49,
+        "text": "Poslednost tako takega, pa razvoj industrije pa kje se industrija oziroma dodana vrednost na zaposlenega, s katero merimo produktivnost?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2840.363,
+        "end": 2855.838,
+        "text": "Bolj raste pripravi z drugim industrijam in smo hitro, hitro videli to posledičnost blaganja o raziskavi in razvoju, jasno, kjer so blago raziskali in razvori več potem, pa tista pa nogat tudi te raste in..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2856.682,
+        "end": 2858.082,
+        "text": "Ne glede na to."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2858.622,
+        "end": 2868.697,
+        "text": "Da se daj tudi evropska komisija predpisala digitalno pa zeleno kot tako do del prihodnjega razvoja, nekaj na čemer je naša..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2869.591,
+        "end": 2886.061,
+        "text": "Na so naši osnutki tega bili že prej, namreč kaj so tične industrije samo digitalizirano in pa in pozelena industrija ima svojo prihodnost, ampak ne industrija sama, pa ne..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2886.618,
+        "end": 2891.157,
+        "text": "Inšitucije znanja, kajstana."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2892.271,
+        "end": 2897.013,
+        "text": "Jaz sem izjemno vdušen nad uvedanim..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2897.536,
+        "end": 2910.361,
+        "text": "Primarljastrani gospodar rektorja Doktorja Papiča, tudi sam delim to mnenje, ni prvi pogoji tisti, da je treba več denarja vložil, čeprav bom jaz vedno zagovarjal."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2911.12,
+        "end": 2923.709,
+        "text": "To te zadržitev bomo blagali več sredstev raziskave na razvoj lahko računa bodo bomo zgradili oziroma dobili tudi višjo dodano vrednost, predvsem mormo spremeni komisemnost, prevsem moramo spremeniti to."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2924.333,
+        "end": 2935.758,
+        "text": "A vidim sam z mlajšimi generacijami dejansko to miselno spreminjamo, to miselnost podjetjev, še pa to mislalnost, da ni nekaj en roge če ima svoje podjetja, če si podjetjem tudi čezih profesor."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2936.264,
+        "end": 2954.472,
+        "text": "Ta način razmišljanja, ta podjetniški načini razmiševanja je lasten, če želite univerzam preko Atlantika, v katerih večkrat govorimo pa smo to danes komenjali in zaradi tega se oni razvijajo z bistveno drugačnim tempom kot komi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2956.193,
+        "end": 2986.754,
+        "text": "Resnično, če bomo uspeli premeniti to mislost podjetništva, podjetnejškega načina življenja pa ne glede na to, v kjer izferi delujemo pomalah, ko ima zelo prihodnje korake. Sam da povem primeri, ki jih poznam in bidi se tukaj, da je ta miselnost prevevala tudi s trojno fakulteto Ljubljani vlade prej, tam resnično prikaja do zelo dobrega povezovanja z industrijem, tudi iz tega naslova potem prikajajo zelo dobri rezultati."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2988.627,
+        "end": 2991.901,
+        "text": "Zlom, kratko, inovacije so..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2992.492,
+        "end": 2993.605,
+        "text": "Oziroma."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2995.04,
+        "end": 3040.467,
+        "text": "Dobro inovacijsko okolje, dve inovancijske okolja med spremembe, vem, da mam mi ta to in ta nivo sodelovanja razdeljen od našega ministrstva pa do ministrsteva za izobraževanje znanost in šport, naj eni strani pa potem dve agenciji Spirit pa Aerreser, ki se tudi morata naučiti med sabo boljše sodelovati in samo to sodelovanje med obojami pa zavedanje, da bo to s postavlja, pa za čelo s postavila eni inovacijski ekosistem, ki bo lahko dejanski v pomoč vsemu temu, vsemim naporom, ki je kratzaprav že zdaj min ena in druga stan parcialno vlaga, to ne bo pripeljalo do rezultatov, tega vse zavedamo, moramo banadit korake v tej smeri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3040.838,
+        "end": 3153.074,
+        "text": "Kratek, še prav tiska reče bom kratek že opozorilo, da ne bo.Hotel sem se sen še navezat na razvojno inovacijsko strategijo Slovenije, mi je smo priložnost, da sodelujemo koligander luht tudi pri pripravi izhodišč in zanimiv je tu ta strategija, ki se letos zaključuje, je bila zelo dobra na papirju, ne gre spet za implementacijo. Mi znamo to dobre strategije naredit, ampak se običajno konča pri implementaciji, tukaj bi na eni strani mamo Ararosa, ki bi primarno lahko mu pripisal vlogo podpiranja bazičnih raziskav, Tijo želimo ponovno vzpostav, kasmo že imel, ampak Tija je pri blizu industrije, vmesmo pa en velo, eno velko lukno in ovacijsko. Točno v tej luknji ne vemo, bo to Tija prevzela ali pa kakšna tretja agencija, upam, da ne bo tretj, pa kdaj se to porazdeli, ravno v tem segmentu je treba poleg ministrstva za izobraževanje znanost in šport, poleg gospodarskega ministrtva, ki pokriva inovacije, polek ministrsta za javno upravo, ki naj bi prevzelo digitalizacijo vključa vsaj še infrastrukturo okolje in tako dalje.Saj pet do šest ministrstev morajo sodelovati v te vmesni, mestnem področju med bazičnimi raziskavami in dejansko tistimi trl osem devet, kjer pa industrija seveda ma zlo visoka pričakovanja in hoče med produkte praktično že včeraj, to tudi ni ta prava rešitev, vmes je treba zapolniti to lukno. In pa, jaz mislim, da namanka ena res inovacijska politika, kako ustvariti inovicijsko politiko o tej državi?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3154.323,
+        "end": 3155.116,
+        "text": "Je zdaj navedet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3155.774,
+        "end": 3204.425,
+        "text": "Pač probleme je potrebno razmišljati že predhodno, a ne, že ves čez govorimo, kako je treba vlagatva znanost, govoro samo rezervni klopi, se prav vse to pa zahteva dodatne stroške in ko ni problema, se zdijo te stroški popolnoma nepotrebneje, ne?Kako recimo, plačujemo gasilcev vsak dan, potem pa preračunajo, da gasijo aktivno toliko pa to kur v celem letu in se že računa ali je to, se izplača, se ne izplaća. Preprosto voznanje je potrebna v larad tudi zato, ker moramo računat, da bo nekoč lahko prišlo do take situacije kot je danes in da nas bo rešilo prav to znanje in prav vlaganje, ki se zdi sprva nepotrebno in odveč.In jasno, zdaj smo pred nekim pritiskom, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3205.555,
+        "end": 3227.172,
+        "text": "Pred katerim je pa zlo težko najdat hitre in inovativne in dobre rešitve, saj vemo tudi v tenisu medčponti najtežja točka, kjer odigrašejo psihološki moment in vse ostalo, vzdržljivo znanje in tako naprej.In v tem primeru tudi sami vidimo, da klub vsem pritiskom, klub neznosnim..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3227.813,
+        "end": 3235.019,
+        "text": "potencialom, znanja in finančnim virom še vedno je pot docipiva taka kot je."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3235.812,
+        "end": 3252.046,
+        "text": "Traja obdobje, ki zahteva svoje faze dve leti, dveleti in ne glede, kaj si kdo želi in kaj kdo pričakuje in kakdo zahteba, ne? Tudi ta beseda mi je prišla zadnje čase vedno bolj na plano, saj se samo zahtevajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3253.16,
+        "end": 3258.374,
+        "text": "Ne, pričakuje, želi, prosi od znanosti in medicine zlasti se zahteva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3259.1,
+        "end": 3261.968,
+        "text": "Brez nekih recipročnih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3262.846,
+        "end": 3263.69,
+        "text": "Vlaganj?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3264.196,
+        "end": 3272.397,
+        "text": "In drugih dejavnikov, ki bi lahko vplival na to, da bi pač do nekih rešitev v določenem času prišli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3272.971,
+        "end": 3274.574,
+        "text": "Vam, tako da..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3275.401,
+        "end": 3276.464,
+        "text": "V tem primeru..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3277.19,
+        "end": 3300.376,
+        "text": "Se izkaže, kot sta že sama ugotovila, da so karantena in stare metode edine, ki so na voljo in so učinkovite in tudi tudi mogoče jih ne smemo kakrat zavreč smo se preselili v ne vem kakšen veka, ne? In izvajamo enake tehnike, jo morda so te tehniki izvajaš če pogledate zgodovinsko nazaj?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3300.916,
+        "end": 3317.369,
+        "text": "V tem času še z večjo pametjo in bolj učinkovito, kdo je lahko prišel v mesta, kje so bile karantenske točke in vse ostalo, tudi to bi bilo mogoče, tuk v tem primeru koronavirusa za pregledat staro znanje in ga uporabati v sodobnem času."
+      }
+    ],
+    "runtime_sec": 439.76070737838745
+  }
+}

@@ -1,0 +1,1120 @@
+{
+  "file_id": "Artur-J-Gvecg-P500050-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500050-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.09904382502226251,
+      "miss": 0.09209043569827374,
+      "fa": 0.006296598252049445,
+      "confusion": 0.0006567910719393349,
+      "total_duration": 744.5289999999969
+    },
+    "der_collar0.25": {
+      "der": 0.08239116754354808,
+      "miss": 0.07607391203218139,
+      "fa": 0.005976206478790204,
+      "confusion": 0.00034104903257649,
+      "total_duration": 700.7789999999969
+    },
+    "wer": {
+      "wer": 0.20476460578559275,
+      "ref_words": 1763,
+      "hyp_words": 1619
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.005,
+        "end": 14.508,
+        "text": "Pri meni je vseeno malo manj časa preteklo, ampak kot je Aljas že povedal, so simptomi takšni, da bih na začetku bolezni težko pripisali kakšnemu težjemu obolenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 15.368,
+        "end": 21.509,
+        "text": "Kar je pomembno vedeti je to, da se simptomi ustrajno stopnjujejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 22.369,
+        "end": 26.57,
+        "text": "Predem bolniki prejmajo pravilno diagnozo in začnejo zdravljanjem opazijo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 27.368,
+        "end": 33.731,
+        "text": "da jim težave pozročajo že vsegdanja hišna opravila, ki jim v preteklosti niso pozročala težav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 34.111,
+        "end": 42.875,
+        "text": "Meni recimo osebno je postalo zelo težko preobleči postelnino, da hoje po stopnicah sploh ne omenjam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 43.035,
+        "end": 50.078,
+        "text": "Ko pa bolezen napreduje, se pojavijo še dodatni simptomi, kot je izguba zavesti ob fizičnih naporeh,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 51.263,
+        "end": 57.548,
+        "text": "zatekle noge, krvavi spljumki in zapljučno najbolj značilne modre ustnice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 59.27,
+        "end": 67.457,
+        "text": "Ob takih napredovanjih simptomih je potem lažje prepoznati bolnika spljučno hipertenzijo, ampak takrat je že zelo pozno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 68.438,
+        "end": 73.362,
+        "text": "Kot smo že rekli, je za bolnika res bistvenega pomena zgodnja postavitev diagnoze."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.585,
+        "end": 82.27,
+        "text": "V mojem primeru je od prvih simptomov del diagnoze preteklo približno eno leto in pol."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 82.41,
+        "end": 92.297,
+        "text": "Mislim pa, da bi še nekaj časa, če ne bi bila sama tako aktivna pri iskanju odgovorov za moje počutje, ker sem bila res nepojasnena, utrujena in zadihana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 93.383,
+        "end": 98.708,
+        "text": "Nekje sem prebrala, da se bo nek izključna hipertenzija počutila kot motor z blokado."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 99.309,
+        "end": 100.37,
+        "text": "In res je bilo tako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 101.251,
+        "end": 104.274,
+        "text": "Želela sem narediti nekaj na hitro, pa kar ni šlo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 105.175,
+        "end": 109.66,
+        "text": "Po stopnicah sem se ustavljala večkrat, da sem prišla v drugo nadstropje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 110.741,
+        "end": 114.084,
+        "text": "Pri vseh aktivnostih sem bila zelo hitro zadihana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 114.865,
+        "end": 118.628,
+        "text": "Zaradi nespecifičnih simptomov so me zdravili za astmo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 119.148,
+        "end": 123.352,
+        "text": "Poskusila sem v tistem času kar nekaj različnih pumpic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 123.432,
+        "end": 128.155,
+        "text": "Potem so mi zaradi nizkega krlnega tlaka svetovali več tekočine in slane hrane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 129.277,
+        "end": 138.526,
+        "text": "Pa, ker sem bila k malo ponosečnosti, so mi svetovali, da se vrnem v kondicijo, ampak nič od tega ni pomagalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 138.846,
+        "end": 150.077,
+        "text": "To zadnje je vsekakor naredilo še več slabega, ker sem se, tako kot je že Aljaš prejel, me eno gnala, da bi prošla v neko staro kondicijo, pa kar ni šlo in sem kar nekajkrat izgubila zavest."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 151.147,
+        "end": 157.693,
+        "text": "Moram reči, da imam srečo, da sem ob sumu na pločnih arterijskih hipertenzijo dobila vso strokovno pomoč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 158.213,
+        "end": 164.519,
+        "text": "Najprej dr. Prokšleve, potem pa dr. Salobirjeve in v takrat imam urejeno in nadzorovano bolezen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 167.583,
+        "end": 183.567,
+        "text": "Ja, bolj nekaj splošno hipertenzije, moramo predvsej spremeniti svoj življenski stil, poskrbeti moramo, da smo fizično in psihično čim bolj razbremenjeni, saj s tem preprečujemo prehitro napredovanje same bolezni, kar pa ni lahko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 184.667,
+        "end": 189.868,
+        "text": "Sploh, ker na vide si izgledamo povsem zdravi, je pa res zato do trenutka,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 190.499,
+        "end": 202.826,
+        "text": "ko je potrebno, naprimer, tako kot ženina omenila po stopnicah, opraviti vsakodnevno gospodinska opravila, skrbeti za družino, spak, če imaš mehne otroke, ki jih je treba dvigovati, se z njim loviti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 202.946,
+        "end": 209.51,
+        "text": "Skratka, opravljati stvari, ki so nam vsem samoumevne, vendar s to boleznjo pogosto, res težko izvedljive."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 209.97,
+        "end": 213.812,
+        "text": "Seveda, spet odvisno od same starosti, v katerem življenjskem obdobju se bolezen pojavi,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 215.005,
+        "end": 225.329,
+        "text": "ker, ko je bilo želečeno, pojavi se lahko v kateremkol življenjskem obdobju, tudi pri otrocih, ki se lahko zaradi nerazumevanja okolice, kaj hitro omaknejo v samo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 226.629,
+        "end": 233.151,
+        "text": "Tako da ja, moj odgovor je zelo spremeniti svoj stil življenja in spremeniti tudi prioritete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 234.832,
+        "end": 240.214,
+        "text": "Sosebno sem se srečala s splošno hipertenzijo v času nosečnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 241.445,
+        "end": 246.386,
+        "text": "kar je pogosto in potem nekako izveni po porodu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 247.827,
+        "end": 260.37,
+        "text": "Pri meni seveda je to nekako se je skazalo, da po kakšnemu letu dobrem se je pokazalo, da je problem v srcu, tako da posledično med spločno hipertenzijo zaradi bolezni srca."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 261.661,
+        "end": 290.397,
+        "text": "Ni bilo lahko kot mama mehnega otroka s tem živeti, ampak hvala Bogu, zdravila so mi toliko upočasnila napredovanje same bolezni, da sem nekje po osmih letih potrebovala transplantacijo srca, zdaj je tri leta od tega, vključna hipertenzija se je uspešno znižila do take višine, da je precej lažje in bolj aktivno lahko zdaj živim in počutje je bistveno, bistveno boljše."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 292.542,
+        "end": 310.778,
+        "text": "Ja, tako kot je že dr. Salabir Barbarov omenila, našo Klaro, ki je že v njih več med nami, ona je bila prva predsednica, ki je skupaj z ekipo, skupaj z gospodom Maksom ustanovila društvo pred nekje desetimi leti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 311.898,
+        "end": 316.52,
+        "text": "Ona je bila glavna pobudnica, res, Klara, z ogromno energije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 317.1,
+        "end": 326.465,
+        "text": "In tudi ona je kriva, da sem se jaz pridružila društvu, ker me je s to svojo energijo in z ozaveščanjem nekako prevabila, da sem hitreje se pridružila ekipi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 327.445,
+        "end": 337.43,
+        "text": "In potem seveda smo nadaljevali s tem poslanstvom, ki si ga oni zadali, da poleg podpore bolnikom upozarjamo javnost na to, kako pomembno je pravočasno prepoznati te simptome,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 338.324,
+        "end": 346.515,
+        "text": "A kaj ti še dan danes, koliko smo ugotovili, bolezen je prepozno diagnosticirana in če se da še kaj narediti na to temo, so res tako predavanja izjemno pomembna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 346.595,
+        "end": 347.376,
+        "text": "Zato, da"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 353.447,
+        "end": 356.488,
+        "text": "Bolezen počasneje napreduje, ko je enkrat odkrita."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 358.148,
+        "end": 359.469,
+        "text": "To je prej bilo že omenjeno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 359.549,
+        "end": 368.051,
+        "text": "Problem je v tem, da so simptomi tukaj podobni tudi drugim bolj pogostim boleznim in bolnik v začetnih dveh fazah samih bolezni izgleda na vzven zdrav."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 370.492,
+        "end": 381.855,
+        "text": "To, kar je bilo že prej rečeno, lenoba, debelost in vse to, če mora se to pripisuje, je problem še dan danes in upam, da s takimi akcijami o zaveščani bo tega vedno manj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 384.494,
+        "end": 391.58,
+        "text": "Ja, bolezen se je že kar dolgo nazaj začela ozaveščati preko športa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 391.68,
+        "end": 395.123,
+        "text": "Evropsko združenje je sodelovalo s trijaslovnom Ironman."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 396.344,
+        "end": 404.832,
+        "text": "Zato smo tudi mi v Sloveniji poiskali naše Ironmane, da so ostali brez sape za vse bolnike spločno hipertenzijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 405.732,
+        "end": 410.377,
+        "text": "Združili smo se na neki točki tudi s hrvaškim in srbskim društvom,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 410.937,
+        "end": 417.201,
+        "text": "In imeli v Puli kar devet tekmovalcev v takih dresih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 417.441,
+        "end": 422.745,
+        "text": "Do zdaj smo se že kar trikrat pojavili na Pulskem Ironmanu in dvakrat na Koperskem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 423.593,
+        "end": 451.256,
+        "text": "Imamo pa tudi širok nabor tekačev, ki se v naših majceh pojavljajo na maratonih in tekih po Sloveniji in smo jim res hvaležni, ljubljanskim tekačom, urbanim tekačom, gibitovcem, da tako nesebično zastopajo naše društvo in neumorno pojasnjujo, kaj je pomen majce, ki jo nosijo in s tem naredijo veliko ozaveščanje te bolezni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 455.858,
+        "end": 463.822,
+        "text": "Res smo tudi mi malo obstali, ali je za trenutek, ker smo vedeli, da COVID je lahko sodno tudi za bolnike splošne hipertenzijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 464.663,
+        "end": 474.609,
+        "text": "In na mesto tradicionalnega ozaveščanja preko športnih dogodkov, smo se morali sredotočiti na socialna omrežja, ker se je izkazalo za izjemno pozitivno,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 475.349,
+        "end": 479.391,
+        "text": "Na nas se je obrnilo kar nekaj bolnikov, ki so iskali na svet in konkretne odgovore."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 479.951,
+        "end": 488.536,
+        "text": "Veseli smo bili, da smo jih lahko usmerili kako do nadaljne diagnostike, jih pomirili in jim dali občutek, da pri tem niso sami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 488.556,
+        "end": 496.72,
+        "text": "To je bil naš namen in želja, da kadarkoli bi nekdo pač čutil, videl priložnost, da se lahko na nas obrne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 497.361,
+        "end": 501.503,
+        "text": "In moram reči, da v tem času se jih je dozaj še največ obrnilo in se res poznajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 501.623,
+        "end": 510.489,
+        "text": "da je to obdobje bilo res težko obdobje in upam, si želimo, da se čim prej konča."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 510.809,
+        "end": 518.694,
+        "text": "Ja, tole je kar zanimivo vprašanje, glede na to, kot ste že rekla, da je splet polno raznoraznih teorij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 519.694,
+        "end": 527.839,
+        "text": "Mislim, da je zelo pomembno, da bovniki s kroničnimi, rizičnimi boleznimi zaupajo le preverjenim trditvam in napotkom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 528.64,
+        "end": 535.882,
+        "text": "Sigurno je tudi društvo tisto, ki je dožno informacije predobiti in deliti med svoje člane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 536.102,
+        "end": 548.185,
+        "text": "Mi smo organizirali Zoom srečanje, kjer sta dr. Salobir in dr. Mlakar odgovorili na vsa vprašanja članov, podali sta tudi najnovejše podatke potvrjene z raziskavami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 549.265,
+        "end": 558.287,
+        "text": "Volni, ki se zelo rladi, udeležijo srečanj, kjer sta tudi zdravnici, saj se tekom sproščenega pogovora velikokrat spomniš, kaj je kar te še zanima,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 558.627,
+        "end": 565.733,
+        "text": "Ker včasih v ambulanti zmanjka časa oziroma se vsega niti ne spomneš, kaj bi še mogel vprašati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 566.214,
+        "end": 570.598,
+        "text": "Zato smo res hvaležni za vse ta čas, ki nam ga posvetita še dodatno po službi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 571.874,
+        "end": 580.94,
+        "text": "Moram pa izpostaviti še povezanost bovnikov po vsej Evropi, ker smo člani Evropskega združenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 581.08,
+        "end": 594.928,
+        "text": "V marcu, v času virtualne konference o pljučni hipertenziji, ki je v normalnih časih poteka v Barceloni, smo si poleg strokovnih predavanj izmenjali tudi skušnje glede prebolevanja covida, cepljenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 595.769,
+        "end": 603.736,
+        "text": "In res smo že velika skupnost in vedno se lahko s svojo težavo ali vprašanjem obrnemo tudi drug na drugega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 603.896,
+        "end": 624.213,
+        "text": "Naj tle kot zanimivost samo povem, da sem v vseh teh letih aktivnega sodelovanja v slovenskem in evropskem združenju spoznala samo enega bolnika z enako diagnozo in z enako terapijo kot jaz in je v zelo podobni fizični zmogljivosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 624.777,
+        "end": 632.361,
+        "text": "Vsake toliko se slišiva in moram reči, da deluje vse skupaj predvsem motivacijska."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 632.381,
+        "end": 642.486,
+        "text": "Ja, dodana vrednost nekoga, ki pride in je del našega društva, je vsekako razumevanje in sama pozitivna naravnanost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 643.147,
+        "end": 654.093,
+        "text": "Občutek, da nisi sam, da te nekdo razume, je siguran v našem društvu prisotenstvu, ker nihče te ne more bo razumeti, kot kar nekdo, ki se ukvarja z enakimi"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 655.017,
+        "end": 658.399,
+        "text": "občutki, govorim fizično in psihično."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 659.02,
+        "end": 663.343,
+        "text": "V društvu smo na voljo za vsakega bolnika in svojca, da so obrnene z vprašanji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 663.523,
+        "end": 678.894,
+        "text": "Mi po potrebi usmerimo potem dalje do naših zlatih specialistov, pomologov, oprevimo jih z brošurami, ki služijo kot opora pri lažjem soočanju z boleznjo, da te brošure imajo tudi koristne napotke, kako živeti z to boleznjo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 679.695,
+        "end": 681.536,
+        "text": "Vsake toliko se dobimo tudi v živo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 681.556,
+        "end": 682.797,
+        "text": "V zadnjem letu žal,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 684.768,
+        "end": 689.29,
+        "text": "Se nismo uspeli tokrat dobiti in če smo se želi, smo se virtualno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 690.151,
+        "end": 698.395,
+        "text": "Tako da je samo narasla ta želja, da se ponovno malo podružimo, čim se zadeve okoli COVID-a umirijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 699.213,
+        "end": 704.495,
+        "text": "Res je nevrjetno, kako vesela so naša srečanje pri tem, da gre za resno bolezen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 704.895,
+        "end": 711.157,
+        "text": "Ja, zato vabim vse, ki so soočali s to boleznjo, naj se lev pogumijo in se nam pridružijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 711.557,
+        "end": 721.82,
+        "text": "Pišajo nam lahko na mail dbph.slovenije, apna gmail.com ali pa nam pošljajo zasebno sporočilo na našo Facebook stran."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 722.838,
+        "end": 733.703,
+        "text": "afna, plucna, hipertenzija, tam se še najbolj vidi, kako aktivni smo, kaj sporočamo, s čimo zaveščamo, tako da vabljen je res."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 733.843,
+        "end": 736.905,
+        "text": "Ne bom pozabila enega gospoda iz Norveške,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 737.86,
+        "end": 745.026,
+        "text": "ki je tudi bolnik, tudi ima plošno hipertenzijo, je rekel, ne razmišljam, kaj vse ne morem, ne razmišljam, kaj vse je lahko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 745.046,
+        "end": 756.535,
+        "text": "In to ne bom pozabila in to sporočilo gre vsem zares, ker čim se boliš, ne, otomatično razmišljaš, če so vse super krajšan, ampak zares je veliko stvari, ko tudi lahko počnemo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 756.555,
+        "end": 760.578,
+        "text": "Tako da s tako miselnostjo naprej je po moje pravi način."
+      }
+    ],
+    "runtime_sec": 229.9957971572876
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.0914296152332538,
+      "miss": 0.09097698007733644,
+      "fa": 0.00045263515591735244,
+      "confusion": 0.0,
+      "total_duration": 744.5289999999969
+    },
+    "der_collar0.25": {
+      "der": 0.07087398452293721,
+      "miss": 0.07039309111717021,
+      "fa": 0.00048089340576699724,
+      "confusion": 0.0,
+      "total_duration": 700.7789999999969
+    },
+    "wer": {
+      "wer": 0.2943845717526943,
+      "ref_words": 1763,
+      "hyp_words": 1593
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2.022,
+        "end": 5.549,
+        "text": "Pri meni je vseeno malo manj časa preteklo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 6.595,
+        "end": 14.577,
+        "text": "Ampak kot je Aljaž že povedal, so simptomi takšni, da bi jih na začetku bolezni težko pripisali kakšnemu težjemu obolenju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 15.337,
+        "end": 17.277,
+        "text": "Kar je pomembno vedeti, je to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 19.167,
+        "end": 21.563,
+        "text": "Da se simptomi vztrajno stopnjujejo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 22.323,
+        "end": 26.693,
+        "text": "Preden bolniki prejmejo pravilno diagnozo in začnejo zdravljenje mopazijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 27.352,
+        "end": 38.776,
+        "text": "Da jim težave povzročajo že vsegdanja hišna opravila, ki jim preteklosti niso povzočala težav, meni recimo osebno je postalo zelo težko preobleč postalnino."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 39.502,
+        "end": 41.932,
+        "text": "Da hoje po stopnicah sploh ne omenjam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 42.725,
+        "end": 50.183,
+        "text": "Ko pa bolezen napreduje, se pojavijo še dodatnih simptomi, kot je izguba zavesti ob fizičnih naporjih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 51.263,
+        "end": 53.795,
+        "text": "Zatekle noge, krvavi štljunki."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 54.335,
+        "end": 57.693,
+        "text": "In za pljučno najbolj značilne modre ustnice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 59.212,
+        "end": 67.497,
+        "text": "Ob takih napredovanih simptomih je potem lažje prepoznati bolnika splučno hipertenzijo, ampak takrat je že zelo pozno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 68.392,
+        "end": 73.488,
+        "text": "Kot smo že rekli, je zabolnike res bistvenega pomena zgodnje postavitev diagnoze."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 74.602,
+        "end": 81.031,
+        "text": "V mojem primeru je od prvih simptomov del diagnoze preteklo približno eno leto in pol."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 81.976,
+        "end": 88.034,
+        "text": "Mislim pa, da bi še nekaj časa, če ne bi bila sama tako aktivna pri iskanju odgovorov za moje počutje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 88.625,
+        "end": 92.422,
+        "text": "Ker sem bila res nepojasnena, utrujena in zadihana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 93.4,
+        "end": 100.42,
+        "text": "Nekje sem prebrala, da se bo nekaj skučnega hipertenzija počutila kot motor z blokado in res je bilo tako."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 100.96,
+        "end": 104.318,
+        "text": "Želela sem naredit, nekaj na hitro pa kar ni šlo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 104.875,
+        "end": 109.735,
+        "text": "Po stopnicah sem se ustavljala večkrat, da sem pošla v drugo nadstropje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 110.444,
+        "end": 114.173,
+        "text": "A pri vseh aktivnostih sem bila zelo hitro zadihana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 115.034,
+        "end": 122.476,
+        "text": "A zaradi nespecifičnih sumtomov so me zdravili za astmo, poskusila so v tistem času kar nekaj različnihih pumpic."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 123.083,
+        "end": 128.365,
+        "text": "A potem so mi zaradi nizkega krvnega tlaka svetovali več tekočine in slane hrane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 129.26,
+        "end": 136.229,
+        "text": "Pa ker sem bila kmalu po nosečnosti, so mi svetoval, da se vrnem v kondicijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 136.735,
+        "end": 150.1,
+        "text": "Ampak nič od tega ni pomagalo, to zadnje je vsekakor naredilo še več slabega, ker sem se tako koj iz žaljaž prej omenu gnala, da bi pošla v neko staro kondicijo, pa kar ni šlo in sem kar nekajkrat izgubila zavest."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 151.13,
+        "end": 164.596,
+        "text": "Moram reč, da vam srečo, da sem ob sumu na pločnih arterijsko hipertenzijo dobila vso strokovno pomoč, najprej doktor Prokšljeve, potem pa doktor Salo Birjeve in od takrat imamo urojeno in nadzorovano bolezen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 167.583,
+        "end": 179.311,
+        "text": "Ja, mulniki splušno hipertenzije moramo precej spremeniti svoj življenjski stil, poskrbet moramo, da smo fizično in psihično čim bolj razbremenjeni, saj s tem preprečujemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 179.918,
+        "end": 187.732,
+        "text": "Prehitro napredovanje same bolezni, kar pa ni lahko, sploh ker na videz izgledamo povsem zdravi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 188.609,
+        "end": 201.535,
+        "text": "Je pa res zato do trenutka, ko je potrebno na primer kot kakšenina omenila po stopnicah opraviti vsakodnevna gospodinska upravila, skrbeti za družino, spokčema šmehne otroke, ki ji treba dvigovati se z njim lovit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 202.345,
+        "end": 208.235,
+        "text": "Skratka, upravljaj stvari, ki so nam vsem samoumev ne vendar sto boleznijo pogosto res težko izvedljive."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 209.129,
+        "end": 213.922,
+        "text": "Sve, da spet odisno same starosti, v katerem želenska obdob se bolezen pojavi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 214.985,
+        "end": 225.397,
+        "text": "Krk okreblj žrečeno pojavi se lahko katerim koženenskem obdobju, tudi pri otrocijih, ki se lahkost zaradi nerazumevanja okolice, kaj hitro umaknejo v samo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 226.257,
+        "end": 228.299,
+        "text": "A, od koda jam, mu odgovori je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 229.008,
+        "end": 233.277,
+        "text": "Zlo spremen svojstih življenja in spremenitv prioriteten."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 234.695,
+        "end": 240.382,
+        "text": "Sosegno sem se srečala s splušno hipertenzijo v času nosečnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 241.428,
+        "end": 246.457,
+        "text": "Kar je pogosto in potem nekako izveni po porodu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 247.165,
+        "end": 260.615,
+        "text": "Primensov, da je to nekak sej skazalo, da po kšenemu letu dobrem se pokazalo dne problem v srcu, kot da poslečno med splošnem hipertenzijo zaradi boleznih srca."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 261.661,
+        "end": 267.837,
+        "text": "Ni bilo lahko, a ne kot mama meham ga otroka, a ni s tem živet, ampak..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 268.36,
+        "end": 272.495,
+        "text": "Kvajla bogov zdravila, so mi toliko upočasnila napredovanje same bolezni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 273.136,
+        "end": 282.232,
+        "text": "Da sem niki po osmih letih potrebovala transplantacijo srca, zdaj tri leto od tega, vključna hipertenzija se uspešno znižala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 282.738,
+        "end": 285.1,
+        "text": "Po take višine da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 285.64,
+        "end": 290.5,
+        "text": "Da je precej lažje in bolj aktivno lahko zdaj živi in počutja je bistveno bistvenom boljše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 292.525,
+        "end": 301.891,
+        "text": "Ja, dokako ti že doktor Salo Bedbarvaro omenila našo klaro, ki je življeni več med nami, ona je bila prva predsednica."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 302.482,
+        "end": 306.953,
+        "text": "Ki je skupaj z ekipo, skupaja z gospodom Maksom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 307.527,
+        "end": 310.953,
+        "text": "Ustanovila društvo pred nekaj desetimi leti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 311.881,
+        "end": 326.528,
+        "text": "Ona je bila glavna pobudnica, res Clara za ogromno energije in toda ne krivi, da sem se sprodružila društvu, ker me je s to svojo energijo in z ozaveščanjem nekak prevablja, da so hitreje, saj je pridružilo ekipi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 327.305,
+        "end": 331.017,
+        "text": "In potem seveda smo nadaljeval s tem poslanstvom, ko si si ga oni zadal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 331.76,
+        "end": 337.598,
+        "text": "Da poleg podpore bolnikov opozarjamo javnost na to, kako pomembno je pravočasno prepozna tesim Ptome."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 338.341,
+        "end": 344.382,
+        "text": "A kajti še dan danes, kako smo ugotovili bolezen je prepozno diagnosticirana in če se dašekin res na to temo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 344.956,
+        "end": 349.057,
+        "text": "Sori je stake, delavna taka predavanja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 349.597,
+        "end": 368.108,
+        "text": "Izjemno pomembna, zato da bolezen počasneje napreduje kujenkrat odkrita. To je prejel blžomenanje problem, je temk so simptomi, dokaj podobni to drugim bolj pogostim boleznim in bolnik v začetnih dveh fazah sami bolezni izvedano zvanj zdrav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 368.918,
+        "end": 369.526,
+        "text": "In..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 370.42,
+        "end": 373.357,
+        "text": "To, kar je bilo že priričeno le noba debelost in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 374.065,
+        "end": 381.929,
+        "text": "Vse čemer se to pripisuje, a ne je problem še dan danes in upandestakimi akcijami ozaveščeni, bo tega vedno manj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 384.511,
+        "end": 390.485,
+        "text": "Ja, bolezen se je že kar dolgo nazaj začela ozaveščati preko športa."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 391.379,
+        "end": 395.21,
+        "text": "Evropsko združenje je sodelovalo vstrija Slovnam Aironman."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 395.969,
+        "end": 416.287,
+        "text": "Zato smo to tmi v Sloveniji poiskali naše iron mine, da so ostali brez sape za vse bolnike splučno hipertenzijo. Združili smo se na neki točki, tudi s hrvaškim in srbskim društvom in imeli v Pulikar devet tekmovalcev v takih le dresih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 416.877,
+        "end": 422.885,
+        "text": "Do zdaj smo se že kratlikrat pojavili na pulskem ironmanu in dvakrat na koprskem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 423.593,
+        "end": 451.336,
+        "text": "Imamo pa na to širok nabor tekačev, ki se v naših majicah pojavljajo na maratonih in tekih po Sloveniji, in smo jim res hvaležni, ljubljanskim tekašom, urbanim tekaćom, gibitevcem, da tako nesibično zastopajo naše društvo in neumorno pojasnjujejo, kaj je pomen majice, ki jo nosijo in s tem naredijo veliko za ozaveščanje tebolezni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 455.858,
+        "end": 463.908,
+        "text": "Ja, res smo tudi mi malo obstali, ali je za trenutek zato, ker smo vedeli, da Covid je lahko usodnil tudi za bolnike splušnih hipertenzij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 464.549,
+        "end": 468.295,
+        "text": "In namesto tradicionalnega ozaveščanja preko športnih dogodkov?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 468.92,
+        "end": 474.742,
+        "text": "Smo se moral sredotočitna socialna omrežja, ker se je izkazalo zaizjemno pozitivno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 475.433,
+        "end": 507.665,
+        "text": "Na nas je obrnilo kar nekaj bolnikov, ki so iskali nasvete in konkretne odgovore, veseli smo bili, da smo jih lahko usmerili kako do nedaljnje diagnostike, jih pomerili in jim dalj občutek, da pri tem nismo niso sami. To je bil naš namen in želja, da kadar koli bi nekdo pa čutvo videl priložnost, da se lahko na nas obrne in mora mleč, da v tem času se jih je dozejš največ obrnil ne, in se res pozna, da je to obdobje bloristovška obdoba in pa si želimo, da srečim prej konča."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 506.281,
+        "end": 506.618,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 510.179,
+        "end": 518.617,
+        "text": "Ja, to le ker z njimi v vprašanje glede nato kot sta že rekla, da je splet polno raznoraznih teorij."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 519.342,
+        "end": 527.915,
+        "text": "Mislim, da je zelo pomembno, da bo neki s kroničnimi rezičnami boleznimi zaupajo le preverjanim trditvam in napotkom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 528.725,
+        "end": 534.952,
+        "text": "Sigurno je tudi društvo tisto, ki je dolžno informacije predobiti in deliti med svoje člane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 535.458,
+        "end": 548.249,
+        "text": "Mi smo organizirali z umsrečanje, kjer sta doktor Salo Beren doktor Mlakar odgovorili na vsa vprašanja članov, podali sta to najnovejše podatke potrjene z raziskavami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 548.958,
+        "end": 558.509,
+        "text": "Volniki se zelo ladje udeležijo srečanj, kjer sta tudi zdravnici, saj se tekom sproščenega pogovora velikokrat spomniš, kaj kar te še zanima."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 559.252,
+        "end": 570.743,
+        "text": "Ker včasih v ambulanti zmanjka časa oziroma se vsega niti ne spomneš, kaj bi še mogel vprašat.Zato smo res hvaležni za vsta čas, ki nam ga posvetita še dodatno po službi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 571.874,
+        "end": 579.923,
+        "text": "Moram pa izpostavč še povezanost bolnikov po vsej Evropi, ker smo člani združenja evropskega zdrušenja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 580.632,
+        "end": 587.652,
+        "text": "V marcu, v času virtualne konference o pločnih hipertenzij, ki je v normalnih časih potekal v Barceloni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 588.192,
+        "end": 595.297,
+        "text": "Smo si poleg strokovnih predavanj izmenjali tudi izkušnje glede prebolevanja kovi, da je cepljenja?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 595.803,
+        "end": 602.367,
+        "text": "In res smo že velika skupnost in vedno se lahko svojo težavo ali vprašanjem obrnemo to drug na drugega."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 603.515,
+        "end": 606.451,
+        "text": "Naj tle, kot zanimivo, samo povem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 607.058,
+        "end": 614.5,
+        "text": "Da sem v vseh teh letih aktivnega sodelovanja v slovenskem in evropskem združenju spoznala samo enega bolnika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 615.108,
+        "end": 616.12,
+        "text": "Za..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 616.677,
+        "end": 629.452,
+        "text": "Enakodiagnozo in zenakoterapijo kot jaz, in je v zelo podobni fizični zmogljivosti vsake toliko se slišiva in moram reče, da delujejo vse skupaj precej motivacijska."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 632.303,
+        "end": 641.095,
+        "text": "Ja, dodana vrednost nekoga, ki pride in je del na naš go društvo, je vsekako razumevanje in sama pozitivno naravnanost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 642.125,
+        "end": 647.575,
+        "text": "Občutek, da nisi sam, da te nekdo razume, je siguren."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 648.503,
+        "end": 654.275,
+        "text": "V našem društvu prisotenstvu, kar nihče te ne morejo razumet, kukr nekdo, kaj se ukvarja z enakimi..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 655.017,
+        "end": 670.677,
+        "text": "Občutki, govorim fizično in psihično, a ne. V društvu smo na voljo za vsakega bolnika in svojca, da so brne nas vprašanji mi po potrebi usmerimo potem dalje do naših zlatih specialistov pomologov, oprevimo jih z brošurami..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 671.318,
+        "end": 678.963,
+        "text": "Ki služijo kot opora, prilažem soočanju z boleznjo, da te brošure majit odkoristne napotke, kako živeti s to bolezno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 679.604,
+        "end": 684.025,
+        "text": "Vsak je toliko, saj dogmo tudi v živo, v zadnjem letu žal..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 684.751,
+        "end": 689.392,
+        "text": "Se nismo uspel tokrat dobita, ne, in smo, če smo se že, smo se virtualno?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 690.1,
+        "end": 698.572,
+        "text": "Tako da je samo narasla ta želja, da se ponovno malo podružimo, čim se zadeve okoli kovido umirijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 699.196,
+        "end": 703.55,
+        "text": "Nares je neverjetno, kako vesela so leša srečanje pri tem od vzrestno bolezen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 704.258,
+        "end": 707.515,
+        "text": "Ja, zato vabim vse, ki so sooče s to boleznijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 708.038,
+        "end": 722.146,
+        "text": "Naj se le upogumijo in se nam pridružijo, pišajo nam lahko na mail dbph pika Slovenije, afna džimal pika kom ali pa nam pošljo zasebno sporočilo na našo Facebook stran."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 722.821,
+        "end": 729.622,
+        "text": "Afna, plucna hipertezija, tem se še najbolj bitkoko aktivni smo, kaj sporočamo, s čim ozaveščemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 730.448,
+        "end": 732.71,
+        "text": "Tako, da vabljeni res..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 733.3,
+        "end": 737.148,
+        "text": "Ne bom pozabila enga gospoda iz norveške."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 737.806,
+        "end": 760.655,
+        "text": "Kje tudi bolnik, tudi mapljučno hipertenzijo, je rekel na razmišljam kaj vse ne morem, razmiše kaj vsaj lahko in to ne bom pozabil in to sporočilo gre vsem zares, ker čim z bovišča ne, avtomatično razmi še še se si prekrajša, nam pa zaresi velik stvari kot kot v to lahko počnem od koda s tako miselnostjo naprej je po moje pravi način."
+      }
+    ],
+    "runtime_sec": 93.32107925415039
+  }
+}

@@ -1,0 +1,3778 @@
+{
+  "file_id": "Artur-J-Gvecg-P500047-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500047-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.14147439876205736,
+      "miss": 0.10342617133975734,
+      "fa": 0.0324308416449639,
+      "confusion": 0.005617385777336121,
+      "total_duration": 2212.0609999999774
+    },
+    "der_collar0.25": {
+      "der": 0.12604025684674083,
+      "miss": 0.08796938094600612,
+      "fa": 0.03285189467718057,
+      "confusion": 0.005218981223554129,
+      "total_duration": 2069.5609999999774
+    },
+    "wer": {
+      "wer": 0.2546658639373871,
+      "ref_words": 4983,
+      "hyp_words": 4589
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1.297,
+        "end": 3.278,
+        "text": "Lep pozdrav vsem skupaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 4.519,
+        "end": 7.7,
+        "text": "Začelo se je že tako na začetku študijskih let."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 8.381,
+        "end": 13.143,
+        "text": "Tako pekoča bolečina po roki se mi je pojavljala, ki je enostavno ni izvenila."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 13.743,
+        "end": 21.687,
+        "text": "Kot da bi me nekdo s okoprivami hodil po roki in te pekoče bolečine enostavno ni bilo konec."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 22.167,
+        "end": 24.969,
+        "text": "In tudi protibolečinske tablete niso pomagale."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 26.17,
+        "end": 30.952,
+        "text": "Ta pekoča bolečina je izvenila, kot ste prej rekli, potem pozabiš na njo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 31.807,
+        "end": 40.613,
+        "text": "Takrat se mi čez tri leta ni pojavila močnejša slika simptomov, kot so oslabili ude desne roke, desne noge."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 41.873,
+        "end": 50.999,
+        "text": "Spuščati sem začela stvari z rok, so me pač kor padale, ravnotežje je bilo slabo, vožnja s kolesom ni bila več mogoča."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 53.361,
+        "end": 59.885,
+        "text": "In potem seveda še tista pekoča bolečina nazaj v desni roke, ko se je spet pojavila kar iznenada,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 60.528,
+        "end": 69.394,
+        "text": "Na koncu pa je bil tisti dvojni vid, kateri je neurologja vzpodbudil, da je verjetno pa to res multipla sleroza in so šle preiskave naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 70.555,
+        "end": 84.063,
+        "text": "Jaz sem prepričana, da če bi takšne simptome naštela v trenutnem času sedaj, bi še se diagnostika preizpeljala kot to je zdaj res 17-18 let nazaj, pa bi bilo malo še vse eno drugače."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 89.84,
+        "end": 100.592,
+        "text": "Jaz, ko sem gledala tale posnetek, kot bi svojo zgodbo vedela, takrat niti pomislila, nisem kaj to je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 100.973,
+        "end": 106.94,
+        "text": "Začelo pa se je z takim bolj megljen vid, nedvojni vid,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 107.12,
+        "end": 112.546,
+        "text": "Mravlinčen je pobrazal, to je trgalo nekaj en mesec in minilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 112.906,
+        "end": 115.449,
+        "text": "Pa se je čez par let spet ponovilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 116.09,
+        "end": 121.756,
+        "text": "V tem odvojnemu oziroma megljenemu vedu so še kažni mravlinčki prišli po telesu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 122.712,
+        "end": 136.807,
+        "text": "Pa se je spet skrelo in tako je trajalo pet let, oziroma zdaj, če nazaj gledam, sem vedela, da je to že v srednji šoli sem imela, ampak so za del časa izginili težave."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 137.307,
+        "end": 141.692,
+        "text": "Diagnoza mi je bila pri 30-ih letih potrjena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 143.013,
+        "end": 155.859,
+        "text": "prav ti brevlinčci, oziroma, ko sem se prepognila mi po celem telesu, kot bi ena elektrika šveglila, to je bil pa pogod, da sem prešla do zdravnika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 155.919,
+        "end": 169.466,
+        "text": "Sicer v vsakem primeru, v vsakem poslabšenju sem šla k osebnemu zdravniku, tudi naprej do neurologa, ampak navadno je bilo to v zimskim času, se je govorilo, to je od prehlada, to je od otrojenosti, en mesec je minilo in sem bila dobra za naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 169.726,
+        "end": 174.789,
+        "text": "Takrat, ko sem pa diagnozo dobila, sploh nisem vedela, kaj je to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 174.909,
+        "end": 183.573,
+        "text": "Prva stvar, oj, oj, invalidski vaziček, privazka vrata v okupalnici, stopnice v heši, ampak ni tako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 183.593,
+        "end": 198.28,
+        "text": "23 let imam diagnozo, pet let prej že simptomi, tako je to, da gre."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 198.36,
+        "end": 198.701,
+        "text": "Zdravo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 200.0,
+        "end": 203.341,
+        "text": "Meni se je bolezen začela pri 13 letih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 204.582,
+        "end": 218.127,
+        "text": "Začelo se mi je načeloma z bruhanjem, pač nenormalnim bruhanjem, ampak takrat zdravniki načeloma niso pomislili na to diagnoso, ker je bila pač obična trebušna gripa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 218.347,
+        "end": 228.932,
+        "text": "Potem sem pa jaz začela slabše govoriti, nerazločno govoriti, pojavljal se mi je dvojni vid in tudi desna stran obraza se mi je povestla."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 229.632,
+        "end": 238.194,
+        "text": "Potem so pa zavsemna zavnica mi je rekla, da to je nekaj, pač ful narobe."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 239.814,
+        "end": 248.356,
+        "text": "Potem sem pa šla v bolnico in so mi naredili preiskave in si tudi pri tistih mojih 13 letih žal niso pomisljeni direktno na to diagnozo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 248.476,
+        "end": 254.838,
+        "text": "Je bilo več različnih diagnoz, ampak načeloma mi tudi niso potredili po prvem tem zagonu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 255.991,
+        "end": 265.337,
+        "text": "Potem sem izdružila mravnice po desni roki, po desni nogi, po levi nogi in so s prediskavami potem potrdili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 266.077,
+        "end": 269.059,
+        "text": "Z likvorjem predvsem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 269.099,
+        "end": 277.845,
+        "text": "Načeloma je bilo tako, ko so mi povedali o tej diagnozi, kot da bi mi rekli za prehlad, ker se nisem sploh sekirala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 283.531,
+        "end": 285.052,
+        "text": "Dobar dan, pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 285.493,
+        "end": 297.081,
+        "text": "V bistvu po drugem porodu sem že upažala neke simptome, utrujenost, mravlinčenje, ampak temu nisem posvečala ne vem kakšne pozornosti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 298.022,
+        "end": 310.612,
+        "text": "To je potem izvenelo do leta 2005, ko sem po eni hudem naporu telesnem, v bistvu hudem naporu, kidal smo sneg in potem me vse bolelo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 312.88,
+        "end": 318.344,
+        "text": "vse mišice, vse je se nekaj uredu, to je pa, kot domače povedano, muskelfibar se je bo šel, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 319.144,
+        "end": 329.271,
+        "text": "Nažalost ni šel, potem sem šla do svoje zdravnice, me je ona takoj posumla, kaj bi lahko bilo, kar se mi je opisala moje težave in me je poslala hnevrologu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 330.172,
+        "end": 334.795,
+        "text": "So me zelo hitro hospitalizirali, vzeli likvor na magnetno resonanco, poslali."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 334.815,
+        "end": 339.678,
+        "text": "V bistvu sem imela skor 14 dni diagnozov, no."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 339.698,
+        "end": 342.18,
+        "text": "In zdaj se to počasi slabša,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 342.914,
+        "end": 351.601,
+        "text": "Na začetku sem imela diagnozo recedivno-remitentna multipla skleroza, to je, da so zagoni in potem se stanje izboljša."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 352.341,
+        "end": 367.292,
+        "text": "Zadnje pet let imam pa sekundarno-progresivno, to pa pomeni, da se stanje počasi slabša in da izboljšal nažalost ni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 367.312,
+        "end": 370.695,
+        "text": "V roku trih tednov enega mesta sem imela diagnozo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 371.298,
+        "end": 398.057,
+        "text": "to je bilo leta 2005, takrat je bil internet pri nas še bolj v povojih, ko ne, ne, si bil zgubljen, nisi vedel kaj, kako, sem se potem obrnila na društvo, kjer so mi pomagali, no, in potem sem počas poznala ljudi z istimi težavami, z isto diagnozo, s katerimi smo še danes ustikli in si en drug mu pomagamo na tem področju, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 403.822,
+        "end": 424.898,
+        "text": "Ni, kaj sem, samo v bistvu sem dobila kontakt enega pacijenta, Brtranec mi je uredil in je rekel, jaz tudi enega poznam s to diagnozo, tako da sem potem tudi preko njega mi je on pomagal, pa tudi na društvu seveda, tako da se je potem počas začel, da veš kaj, kako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 433.027,
+        "end": 450.426,
+        "text": "Načaloma sem dobila že na začetku bolezni knjige in sem predvsem se na knjige obrnila, nisem se tako na internet, ker se mi zdi, da so še zmeram informacijata prave v knjigah, tako da se sploh v bistvu nisem obračala na te internetne vere v tistih časih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 457.9,
+        "end": 477.544,
+        "text": "Ja, zelo hitro, zaradi tega, ker v bistvu tudi ko sem imela decembra, sem imela prvi zagon, novembra, decembra, potrdil sem jo pa naslednje leto marca, no, v treh mestih približno sem ji potrdil diagnozo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 477.944,
+        "end": 484.365,
+        "text": "Bilo je manj, mislim, da je bilo tri leta, da se je celotna slika pokazala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 484.665,
+        "end": 487.086,
+        "text": "Ko sem jaz se zvedla za diagnozo,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 487.789,
+        "end": 491.291,
+        "text": "sem imela pred sabo samo eno stvar, rabim pomoč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 491.391,
+        "end": 515.225,
+        "text": "Jaz sem po poklicu diplomirana delovna terapeutka in na vajah sem prišla vedno v stik, tudi pogosto v stik za ljudmi, ko imajo multiplo stverozo in eno stvar mi je vedno ostal tako pred očmi, človek treba ostati čim dlej funkcionalen, samostojen, krepiti tisto, kaj še ima, nad tem delati in to uhranjati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 515.748,
+        "end": 521.093,
+        "text": "Jaz sem takrat takoj vstopila v stik za neurofizijo terapotko, katero imam še danes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 522.134,
+        "end": 531.563,
+        "text": "Trenutno obiskujem na 14 nis, sicer je to samo plačniško, ampak v končni fazi gre za mene in tega denarja me nikoli ni žal, pač neče so druge vlni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 532.304,
+        "end": 538.51,
+        "text": "In sem lahko tudi njej hvaležna, da še v trenutno kljub zdravilom, seveda,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 539.255,
+        "end": 565.898,
+        "text": "še sam, nekako notorično, toliko gibljiva kot sam, sicer omejitev imam ogromno drži, tako je res, ne, bolj za pogledat, ampak v redu, še vedno s tem, še vedno hodem in še vedno se držim tega prepričanja, ne, kljub temu, kaj izgubljam v telesu, na telesu, pri multipli skleroze, še mi vedno nekaj ostoja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 566.39,
+        "end": 572.493,
+        "text": "In na tem še vedno lahko delam, še vedno lahko to ohranjam in ostajam aktivna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 572.613,
+        "end": 585.678,
+        "text": "Prepričana sama dokler še bom živa, še bom nekaj vedno imela, s čem bom lahko na nek način migala in s tem ohranjala aktivnost in pa na nek način tudi samostojnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 591.483,
+        "end": 594.464,
+        "text": "Se pravi, da vsakom hudom je nekaj doberga."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 595.405,
+        "end": 609.532,
+        "text": "No, jaz takrat, ker sem imela tudi potli bolečine v ramenih, sem na fizioterapijo hodila in mi je ta fizioterapeutka povedala, da obstaja društvo, ko še nisem imela diagnozi, ki je bil sam namik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 609.792,
+        "end": 612.533,
+        "text": "In že me pripravila na to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 612.894,
+        "end": 627.642,
+        "text": "Potem v službi šef mi je potlej pomagal, da sem prišla čim prej k neurologu, ker je njegova hčerka zaposlena na neurologskem odelku in je priporočila mi zdravnico."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 628.422,
+        "end": 630.123,
+        "text": "In na ta način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 630.283,
+        "end": 641.231,
+        "text": "In tudi potem je spet šef poznal predsednika takratne dolenske podrožnice, da smo se skupaj dobili v član ali te informacije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 643.213,
+        "end": 644.353,
+        "text": "Ja, tudi knjige."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 644.674,
+        "end": 650.558,
+        "text": "Od njeh sem iskala te odgovore na razne vprašanja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 650.758,
+        "end": 657.783,
+        "text": "Ampak mislim, da pa je ta pogovor največ povej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 658.831,
+        "end": 659.933,
+        "text": "če imaš nekoga."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 660.473,
+        "end": 669.547,
+        "text": "In tudi zdaj se včasih kar pošalimo s člani, če ne bi imeli multiploske roze, mi si ne bi poznali, mi ne bi vedeli, da obstajamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 669.587,
+        "end": 672.812,
+        "text": "To pa se lep čas počas dobimo, pa kaj še narečemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 678.659,
+        "end": 680.821,
+        "text": "Ja, vse je bilo težko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 681.041,
+        "end": 684.304,
+        "text": "Otroka sta bila še majhna takrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 684.924,
+        "end": 689.908,
+        "text": "Mož mi zdaj prezna, da je težje sprejel kot jaz."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 690.269,
+        "end": 693.752,
+        "text": "Takrat mi ni povedal, takrat je lepo sam ob strani stal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 696.074,
+        "end": 699.496,
+        "text": "Jaz v bistvu sem jo sprejela, ker sem vedela, da ni drugega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 699.856,
+        "end": 705.399,
+        "text": "Tudi zdravnica, ko mi je povedala, je rekla, zaradi multiple se ne umre, bo treba še nekaj drugega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 705.499,
+        "end": 715.985,
+        "text": "Tako da ja, mogoče je tako lepo noč, kdaj kot človek ne more spati, pa takrat se malo premetuješ, pa malo tohteš."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 716.065,
+        "end": 717.986,
+        "text": "Sigurno pa takrat, ko sem zbolela,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 719.007,
+        "end": 728.634,
+        "text": "Sem rekla, joj, otrok, majhnih črk je šlo v prvi razreči in še mlajši, da bi dočakala njeno maturo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 729.334,
+        "end": 730.115,
+        "text": "Kaj je šlo naprej?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 730.175,
+        "end": 733.497,
+        "text": "Da bi dočakala diploma, da bi vnočke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 733.618,
+        "end": 738.121,
+        "text": "Zdaj že imam vnok in vnočka, že ta tretj vnok je na poti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 738.621,
+        "end": 739.962,
+        "text": "Zdaj rečem, da bi še in upam, da bom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 750.53,
+        "end": 764.877,
+        "text": "Jaz načeloma, samo v diagnozu sem se takoj sprejela, načeloma se mi ni zdelo, da je tako hudo, ker kot mala punčka takrat se lih ne zavedeš, kaj se točno dogaja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 765.598,
+        "end": 776.043,
+        "text": "Se mi di, da za moje starše je bilo sprejeti to zelo težko in se še dan danes s tem bojuje na nek način, po svoje, po tiho."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 781.917,
+        "end": 784.098,
+        "text": "v bistvu se naučiš z njo živeti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 785.559,
+        "end": 808.795,
+        "text": "Sprej imaš tiste dobre stvari, ki jih je bolj malo in tiste slabe, naučiš se z njimi živeti, prilagodiš si življenje, mi dva z možemstva si tako razdelila, da je pač ono otroke bolj športno usmeril, kar jih jaz nisem več mogla, jaz sem jih pa za šolo, pa za razno razne družabne igre in tako, tako v bistvu sva si razdelila"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 810.284,
+        "end": 835.012,
+        "text": "življenje, kar se otrok tiče, ampak sprijazniš pa se z diagnozo, mislim, da se ne, čisto je z njo živeti, sprijazniš se pa težko, ne vem, to je sploh jaz, ko sem bila navajena tako zelo hitro življenje, akcija, reakcija, trenirala sem košarko, potem badbinton igrala in potem kar naenkrat to se je zamrlo, vse je nekaj na počas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 836.626,
+        "end": 848.716,
+        "text": "da ne boš padel, da se ne boš prevrnul, ki je, mislim, težko je, ampak pač nauči se s tem živeti, sprejmaš ti z karti življenje njudi in greš dalje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 848.776,
+        "end": 859.646,
+        "text": "Jaz sem tisto mogoče prvo slučajnje malo dala na stran,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 861.112,
+        "end": 865.596,
+        "text": "ker sem pač iskala določene rešitve, samo v tem trenutku."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 866.096,
+        "end": 869.719,
+        "text": "Pravo soočanje je prišlo potem po ponovnem poslabšanju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 870.7,
+        "end": 873.842,
+        "text": "Kaj se pa je zdaj zgodilo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 874.463,
+        "end": 890.176,
+        "text": "Multiplatida lahko nekaj tistih trenutkov popridejo med zagone, ko je v redu, super, fajn, in potem pride spet poslabšanje in nova razočaranja in nova negotovost in nove prepreke, nove simptome."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 890.795,
+        "end": 898.498,
+        "text": "Kot ste prej vprašali, jaz nikoli nisem še sprejela v resnici multiple stvaroze."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 899.399,
+        "end": 903.5,
+        "text": "Ampak je, tako kot je rekla gospa, to je moje življenje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 904.681,
+        "end": 909.743,
+        "text": "Jaz sem si multiple ne sama izbirala, jaz sem jo v resnici dobila, meni je bila dana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 910.403,
+        "end": 913.825,
+        "text": "Isto se mi zdi, ko včasih dobim zorojstno in tudi kakšno darila,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 915.044,
+        "end": 926.848,
+        "text": "da če ok, vrej, dobro, malo me slabše poznate, da bom dala nekaj kot malo, pač tam je prah, se nabira gor, če si preslabim, obrišem prah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 928.869,
+        "end": 931.67,
+        "text": "Mi zdi, da je praktično z multiplo isto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 932.45,
+        "end": 938.372,
+        "text": "Ne okvarjam se s tem, da sem bolana, da imam multiplo, ampak to je enostavno moje življenje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 938.852,
+        "end": 944.094,
+        "text": "Res je, boli me danes, to jutri mi boli to, kakšno življenje, brez bolečine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 945.689,
+        "end": 975.135,
+        "text": "težko vem zdaj, že sem malo pozabila, ampak tako pač trenutno je in iščejo se rešitve, zamožem, pač malo kombiniramo stvari, tudi pri vzgoju otroka, pri vzdržavanju hiše, potem tudi v službi sem mogla določene stvari prilagoditi, trenutno delam šest ur, ker osem ur več ne zmorem, ampak mi je pa ena takšna žalja, čim dlje ostati še zaposlena, iti v službo,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 975.693,
+        "end": 986.577,
+        "text": "iti od doma, biti zaprta med ena in istimi stenami, čim več, iti med ljudi, se vse si v avto se odpeljate, to me kar ogromno pomeni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 987.277,
+        "end": 996.46,
+        "text": "In tukaj kar iščem neke rešitve, kaj bo, če bo še slabše, kaj bo, da bi bila pripravljena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 997.14,
+        "end": 1002.622,
+        "text": "In zdaj, ko rečem, da bi bila pripravljena, to delam že veččas, pa nikoli nisem pripravljena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1003.422,
+        "end": 1004.243,
+        "text": "Ko se nekaj zgodi, je spet"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1006.135,
+        "end": 1008.236,
+        "text": "Čist ena nova situacija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1008.716,
+        "end": 1016.438,
+        "text": "V sebi se moram spet pobirati, se stavljati, da potem lahko stopim naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1016.978,
+        "end": 1028.821,
+        "text": "Se mi zdi, da je psiha, naša duša en taki del, ki je zelo pomemben pri premagovanju teh ovir težav, ki nam jih pač na nek način multipla predstavlja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1035.7,
+        "end": 1037.381,
+        "text": "Večje organizacije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1038.581,
+        "end": 1042.143,
+        "text": "Nekaterim je čisto samoumevno, da se vjutro oblečejo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1042.884,
+        "end": 1044.344,
+        "text": "Meni to ni samoumevno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1044.464,
+        "end": 1046.946,
+        "text": "Jaz moram imeti obleko pripravljeno,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1048.019,
+        "end": 1050.121,
+        "text": "da se počasi oblečem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1050.281,
+        "end": 1056.326,
+        "text": "V jutranjo toaleto pri meni troja bistveno dlje kot pri nekomu drugem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1056.706,
+        "end": 1060.269,
+        "text": "Ampak si potem na koncu rečem, še vse eno jaz to uredim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1060.529,
+        "end": 1061.73,
+        "text": "Prej se zbujam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1063.331,
+        "end": 1068.315,
+        "text": "Prej moram iti v službo, ker moja pot, da jaz pridem iz hiše do avta,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1069.248,
+        "end": 1076.81,
+        "text": "je zelo dolga, čeprav je videti kratka, in pa potem tudi iz avta do službe je tudi dolga, čeprav je videti kratka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1076.91,
+        "end": 1082.952,
+        "text": "Vse traja dlje časa, kot bi bilo, če bi bilo gebalno manj uvirano."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1084.192,
+        "end": 1094.034,
+        "text": "Tako da je ogromno razlika, je ogromne organizacije, ogromno je prilaganje, ogromno ugotovljanje, kaj mi je trenutno najbolj pomembno, da naredim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1094.755,
+        "end": 1096.415,
+        "text": "Kaj ni pomembno, postim,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1096.878,
+        "end": 1099.939,
+        "text": "Za takrat, ko pač bom, ali pa bo naredil nekdo drug."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1100.399,
+        "end": 1104.659,
+        "text": "Vrednote se mi potem spremenjajo pri organizaciji dneva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1106.0,
+        "end": 1114.061,
+        "text": "In tudi, jaz ne rečem, moja vrednota je, da imamo pospravljeno stanovanje, ampak dobro, če zdaj vidim, da je kak prah, pa ti pa najbolj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1116.022,
+        "end": 1121.503,
+        "text": "Tako predvsem je razlika v organizaciji in pa planiranju počitkov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1122.083,
+        "end": 1123.483,
+        "text": "Počitek mora biti"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1124.311,
+        "end": 1128.353,
+        "text": "definitivno planiran v vedon."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1128.553,
+        "end": 1135.476,
+        "text": "Brez tega ne, ne gre."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1136.116,
+        "end": 1136.316,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1137.836,
+        "end": 1141.818,
+        "text": "Vse se vrti bolj počas, kot takrat od začetka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1142.698,
+        "end": 1149.001,
+        "text": "V bistvu sem od leta 1999 pa dolani konc leta delala po štiri ure."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1149.061,
+        "end": 1151.062,
+        "text": "S prvim prvim sem upokojena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1151.082,
+        "end": 1151.862,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1153.943,
+        "end": 1163.689,
+        "text": "Zdaj si pa res vzamem čas, ni treba v petih odstajati, ker je bilo prav tako, vse počas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1164.429,
+        "end": 1167.371,
+        "text": "Še prej, ko sem vdela v službo, sem tako delovala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1167.391,
+        "end": 1172.554,
+        "text": "V službi sem delovala, potem je pa za menoj prišlo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1172.634,
+        "end": 1174.335,
+        "text": "Doma je pa vse bolj počas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1175.015,
+        "end": 1178.577,
+        "text": "Ker sem en tak človek, da ne znam odnehat takoj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1179.097,
+        "end": 1181.499,
+        "text": "Moram nekaj narediti do konca, potlej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1181.939,
+        "end": 1183.98,
+        "text": "In včasih je to malo napake."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1184.04,
+        "end": 1192.445,
+        "text": "Ne bi mogla umeti, tako kot je že prej rekla Rengostva Renata, se vdahniti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1192.945,
+        "end": 1198.108,
+        "text": "Zdaj pa gre, kolikor gre, vse bolj počas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1198.468,
+        "end": 1204.892,
+        "text": "Nisem odnehala, da ne bi se lotila vsega tako, kot sem se včas, samo na drugačen način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1210.778,
+        "end": 1226.468,
+        "text": "Jaz sem se hecala že takrat, ko sem bila štiri ore pokojena, pravim, že zdaj nimam časa, kaj bo potem, ampak ne, čas si vzameš in gre."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1226.548,
+        "end": 1239.096,
+        "text": "Ja, jaz sem že od leta 2018 veliko pokojena, na polno, ker pač žal nisem mogla več upravljati svojega dela, ker ga sem imela zelo rada, bila sem namreč zaposljena v knjižnici,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1240.414,
+        "end": 1247.88,
+        "text": "za 4 ure in se mi je stanje tako poslabšalo, da pač nisem mogla več hoditi v službo, upravljati dela."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1248.84,
+        "end": 1267.234,
+        "text": "Zdaj, jaz se vedno pohecam zutri, če se zbudim, pa da me nič ne boli, si v bistvu že kar puls iščem, če sem sploh še živa, in potem se pač zutri malo raztegneš, narediš raztezne vaje, potem ustane mož, da mi priprav zajtrk, tablete in vse,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1267.782,
+        "end": 1270.564,
+        "text": "ker si sama tega pač ne zmorem več narediti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1271.344,
+        "end": 1285.253,
+        "text": "Funkcioniram po stanovanju še skodulo, da lahko hodim, med tem, ko grem ven, tega ne zmorem, grem skuterjem ali pa, če gremo kam na obisk, grem pač invalidskim vozičkom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1287.094,
+        "end": 1295.9,
+        "text": "Dan mine zelo hiter, v bistvu zdaj sta otroka oba študenta, trenutno dela ta od doma oba, zred znane situacije,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1296.554,
+        "end": 1299.516,
+        "text": "je kar fino, če kaj rabim, mi lahko pomagata."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1300.998,
+        "end": 1320.873,
+        "text": "Samo zaprosila sem za osebno asistenco, imam tudi vdobreno in ko se bo ta koronska situacija malo umirila, ko bodo otroci šli na fakultete nazaj, jo bom pa aktivirala, zato ker žal sama, čez dopoledne, sem 99% lahko, samo tist 1%,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1326.679,
+        "end": 1336.568,
+        "text": "je pa zmeri visi nad tabo in boljš, da imaš nekoga, ki ti pač tudi pomaga, da ti pomaga, ko silo skuha, da ti pomaga pospraviti stanvanje in to."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1336.748,
+        "end": 1348.879,
+        "text": "Načeloma že v srednji šoli, ko sem pač še hodila, že ko sem imela diagnozov,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1351.145,
+        "end": 1353.866,
+        "text": "Mi je bilo zelo težko, sem glede koncentratije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1354.226,
+        "end": 1362.35,
+        "text": "Načeloma fizično sem jaz čisto okej, tako da moram vsak dan potekati tako kot od vsakega človeka, normalnega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1363.051,
+        "end": 1367.893,
+        "text": "Načeloma nisem težko gibljivo obirana ali pa lažje, v glavnem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1368.813,
+        "end": 1376.316,
+        "text": "Načelem imam jaz poškodbe samo v glavi, se pravi koncentracija in te stvari pa hitro se odtrudim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1376.596,
+        "end": 1379.618,
+        "text": "To je in to sem si pa še po svojo prilagodila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1380.238,
+        "end": 1391.543,
+        "text": "In tudi zdaj, ker recimo Zoom bolj v uspredju pri samem izobraževanju, je to v bistvu ta situacija za me super, ker se tudi lahko"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1391.746,
+        "end": 1394.548,
+        "text": "hitreje odpiči in grem strano od računalnika."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1394.728,
+        "end": 1407.054,
+        "text": "Lažje delujem čez dan, ker ni tako težko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1407.135,
+        "end": 1410.757,
+        "text": "Podpora je zelo pomembna nasploh."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1410.997,
+        "end": 1413.718,
+        "text": "Pogovarjam se z vsemi o Multipli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1413.778,
+        "end": 1417.22,
+        "text": "Nimi tudi, ko bi me vprašal, povem stvar."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1417.52,
+        "end": 1420.442,
+        "text": "Sicer delam še prek študenta,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1420.855,
+        "end": 1428.66,
+        "text": "In sicer nadrejenim ne govorim, ne razlagam, kaj imam, ker se mi zdi pač brezveze, ker se pač počutim okej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1430.361,
+        "end": 1442.509,
+        "text": "Drugač pa vse pogovarjam o določenih problemih, o določenih težavah, ki jih imam, recimo tudi, če recimo rabim prevoz, pa zaprav sem prijateljca in me to tepelje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1443.429,
+        "end": 1449.253,
+        "text": "Načeloma drugih težav ni, a tudi sama sem tako pozitivna, da v bistvu..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1450.673,
+        "end": 1452.275,
+        "text": "Ne rabim tako podpore."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1452.535,
+        "end": 1458.582,
+        "text": "Je super, da jo imam, ampak se mi trenutno ne zdi tako pomembni dejavnik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1464.224,
+        "end": 1468.988,
+        "text": "Ja, v bistvu je bila to ena vganka za vse."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1469.248,
+        "end": 1471.89,
+        "text": "Ne znanka, no, tako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1472.41,
+        "end": 1476.153,
+        "text": "Strahom sem jim vsem pripovedovala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1476.774,
+        "end": 1481.798,
+        "text": "Mogoče so bili drugi še bolj zaskrbljeni, joj, kaj pa je zdaj to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1482.298,
+        "end": 1488.223,
+        "text": "V službi so dobro sprijeli in vsa ta leta nisem imela težav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1490.184,
+        "end": 1490.244,
+        "text": "No,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1491.325,
+        "end": 1498.815,
+        "text": "To je najbolj pomembno, se mi zdi, da se še s tem ne obremenjuješ."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1499.256,
+        "end": 1507.287,
+        "text": "Kar se pa tiče pomoči, sem bila pa deležna tako pri svojcih, družini in res."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1508.909,
+        "end": 1511.351,
+        "text": "Mislim, da se da."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1511.371,
+        "end": 1518.076,
+        "text": "Vsak mora kdo razboliti, samo rečem, ne se zaprejeti vase govoriti o tem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1518.176,
+        "end": 1528.684,
+        "text": "Ker če boš sam, si ne moreš sam pomagati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1529.144,
+        "end": 1533.468,
+        "text": "Na nek način še je vedno težko prositi za pomoč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1534.048,
+        "end": 1534.989,
+        "text": "Mogoče celo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1535.875,
+        "end": 1539.397,
+        "text": "lažje prositi, kot pa potem pomoč sprejeti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1539.818,
+        "end": 1547.483,
+        "text": "Jaz vidim, da ko se lotim česa delati, daj, daj, daj, počakaj, ne bom jaz v mesto, ne, na mesto tebe, pa da to hitro, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1550.225,
+        "end": 1565.395,
+        "text": "Po druge strani pa je tak, tudi jaz sem se odločila za osebnega asistenta, prav zaradi tega, ker bi rada počela še več stvari in potem popodne, ko prijem domov, čakam, ali možda, ali štirko,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1566.014,
+        "end": 1580.458,
+        "text": "da prideta in da potem jaz seveda sem spočita in z svojimi vsemi idejami planim na njih, kako bi zdaj jaz počela in vrtnarla in rože urejala in potem dobim, a res ima mi danes?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1580.958,
+        "end": 1581.338,
+        "text": "Zdaj?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1581.958,
+        "end": 1594.221,
+        "text": "Kaj, ne, tu je trebalo malo počakati, pa bi mogoče jutri ali pa ne, in potem čakam, ne, in čakam in čakam in snagro ni, zdaj pa bi jaz res potrebovala osebnega asistenta, ker"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1595.427,
+        "end": 1597.608,
+        "text": "sem se malo naveličala tega čakanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1597.668,
+        "end": 1606.392,
+        "text": "Razumem pa, jedva, da sta, ne, a komaj prijatelj domov, jaz pa komaj čakam, da stopi toč iz vrata, pa smo že z svojimi idejami na plane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1607.292,
+        "end": 1614.676,
+        "text": "Imam pa občutek, da se mi pa je z ožal krog ljudi, ki so mi blizu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1616.156,
+        "end": 1618.477,
+        "text": "Moje aktivnosti so se spremenili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1619.117,
+        "end": 1624.74,
+        "text": "Jaz nisem za planinarjanje, nisem za sprehodenje, nisem za žoriranje, že en lep čas"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1625.431,
+        "end": 1654.922,
+        "text": "tako da sem malo jaz dala ljudi na stran, da sem zbirala, kateri so mi blizu, predvsem pa sem dala na stran tiste, kateri so mi na veliko svetovali, kaj bi pa jaz mogla narediti, da bo meni boljše, pa kaj moram jaz narediti, da bom se ozdravila, kar poznajo zgodbe takšne, drugačne in celo paleto vsega, ko so ljudje čudežno ozdravili in so zdravi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1655.877,
+        "end": 1656.837,
+        "text": "To me je bremenilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1657.157,
+        "end": 1658.338,
+        "text": "To me še vedno bremeni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1658.758,
+        "end": 1665.659,
+        "text": "In se izugivam ljudi, ko vem, da od njih lahko pričakujem na svete en ogromno zgod."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1666.279,
+        "end": 1669.48,
+        "text": "Verjamem, da me želijo pomagati, ampak jaz tega ne ravim več."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1669.96,
+        "end": 1672.68,
+        "text": "Jaz se ravim ljudi, ki da me sprejeli takšne, kot sem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1673.221,
+        "end": 1680.202,
+        "text": "Pač takšno, ki je šepam, takšno, ki mi kaj z rok vpade, takšno, ki se mi zvrti, pa ki je se malo narodno, ampak to sem jaz."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1681.408,
+        "end": 1692.438,
+        "text": "Te spremem, ostale pa sem kar jaz je zagiba, moram priznati, da sem jaz je zagiba."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1692.678,
+        "end": 1695.24,
+        "text": "Predvsem, da se gre pokazati, da gre k neurologu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1695.561,
+        "end": 1695.981,
+        "text": "Čim prej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1696.381,
+        "end": 1706.11,
+        "text": "Čim prej in nobenega simptoma ozeti, bilo kaj se nam na telesu dogaja, telesu treba prisluhniti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1706.347,
+        "end": 1714.408,
+        "text": "Ali to mogoče so motnje mokrenja, ki lahko tudi pride prej, ali motnje koncentracije, ali spolne motnje, ali bilo kaj pride."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1715.529,
+        "end": 1721.97,
+        "text": "Dajte, vsak nek rekne urologu, naj se ne posti zavesti, ste še pre mladej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1722.45,
+        "end": 1729.971,
+        "text": "Ali pa ste pre stare za to bolezen, če ste 50 let stare, zdaj ne smete imeti diagnosticirane multiple."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1730.091,
+        "end": 1733.932,
+        "text": "Vsaka stvar, ki se zgodi na telezo in ki nas zmote,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1734.663,
+        "end": 1753.266,
+        "text": "ki nas zmoti v vsakodnevnem funkcioniranju, je tista, ki jo trebamo vzeti za res, predstaviti zdravniku, potem neurologo in raziskati, zakaj se pa to prav pri nas dogaja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1753.466,
+        "end": 1764.128,
+        "text": "Ja, v bistvu je fajn, da se te zgodbe dotaknemo, zato, ker v bistvu MS prinaša tudi zelo veliko finančno breme za družino."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1765.176,
+        "end": 1781.788,
+        "text": "Tudi jaz recimo, ko delaš za 4 ure, dobiš polovično plačo, polovičko dobiš iz spiza in ko to se šteješ, velikrat ne prideš do minimalne plače."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1782.389,
+        "end": 1785.531,
+        "text": "To je prvi problem, ki je meni zelo velik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1786.171,
+        "end": 1787.793,
+        "text": "Zato, ker se je z 1.1.2003 ta zakonodaja spremenila"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1791.532,
+        "end": 1799.234,
+        "text": "Včasih si tudi dobil v službi celo plačo in so potem refundirali vsake tri mesece na zaseju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1799.854,
+        "end": 1809.236,
+        "text": "Zdaj pa pač dobiš samo polovičko, v bistvu iz spiza pa dobiš nekdo tudi po sam posto 80 evrov, 200 evrov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1809.976,
+        "end": 1820.178,
+        "text": "In potem, ko se pač sprijažni s tem, da ne boš mogel več hoditi v službo, da se ne boš mogel več udesvovat razno raznih teh,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1821.856,
+        "end": 1828.298,
+        "text": "Invalidsko upokojiš in ko dobiš odločbo, se zjokaš, čisto po pravici povedano."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1828.318,
+        "end": 1837.061,
+        "text": "Zato, ker imaš malo delovne dobe, ko to poprečje ti vendajo, je v bistvu katastrofalno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1837.081,
+        "end": 1847.745,
+        "text": "Zdaj, če nimaš v zadju družine, partnerja, ki količkaj toliko dobro zasluži, si obsojen na životarjenje s tem,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1848.66,
+        "end": 1852.033,
+        "text": "temi nizkimi invalidskimi pokojninami, kot so pri nas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1852.254,
+        "end": 1852.917,
+        "text": "Nažalost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1853.74,
+        "end": 1854.222,
+        "text": "Nažalost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1860.77,
+        "end": 1876.666,
+        "text": "V bistvu sem jaz še imela srečo, da sem zboljela toliko prej in sem dobivala celotno plačo, ker sem bila pokojena štiri ore pred, da nisem bil sprijetna v zakon."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1876.806,
+        "end": 1880.73,
+        "text": "Toliko, da se mi takrat ni bilo take razlike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1881.695,
+        "end": 1886.896,
+        "text": "Dobro, pri vsem tem je tudi beneficirana delovna doba."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1887.736,
+        "end": 1892.417,
+        "text": "Tri mesece na leto odneva postavitve diagnoze."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1892.457,
+        "end": 1903.96,
+        "text": "V tistih mojih časih je bilo od prvih simptomov, toliko da sem se opokojila s polno delovno dobo, ne invalidsko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1906.45,
+        "end": 1909.812,
+        "text": "Sigurno pa so finance problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1910.793,
+        "end": 1918.018,
+        "text": "Ko pride do tega, da se konča, da delati ne moreš in še denarja ne imaš."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1918.999,
+        "end": 1927.945,
+        "text": "To je potem težava."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1928.005,
+        "end": 1930.046,
+        "text": "Finanse definitivno so težava."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1930.667,
+        "end": 1931.948,
+        "text": "Če se jaz spomnim,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1933.065,
+        "end": 1945.408,
+        "text": "Takrat, ko smo z mi dva z možem začela se ustvarjati neko bivališče, bivanje, sem jaz bila stara pred 30 letom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1945.888,
+        "end": 1948.289,
+        "text": "Multipla je bila tako čisto super še, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1948.849,
+        "end": 1950.949,
+        "text": "Ja, kaj pa pol, pa zame bo kredit, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1952.33,
+        "end": 1953.89,
+        "text": "Kredit imamo 20 let."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1954.49,
+        "end": 1959.451,
+        "text": "Pa smo takrat rekli, kaj več je, da kaj narobe z multiplo, pa nam je moglo več krediti v službo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1959.971,
+        "end": 1962.832,
+        "text": "Pa dobro, pa bomo že nekako, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1963.93,
+        "end": 1971.033,
+        "text": "Ampak tudi pa bomo že nekako, pa vsako krat po poslabšanju je grozno, kako bomo, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1972.034,
+        "end": 1978.376,
+        "text": "Ker se sliko prej lahko zgodi, da res ne mogla več gledati v službo, kaj bo bilo takrat, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1979.457,
+        "end": 1981.158,
+        "text": "Kaj bo takrat, ko res ne več?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1981.598,
+        "end": 1984.919,
+        "text": "In to je ena tako breme odzadene."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1985.86,
+        "end": 1992.943,
+        "text": "Isto, najprej polni več polno plača, šest ur delam, dve uri smo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1993.475,
+        "end": 2010.862,
+        "text": "Kaj pa če kredit ostaje, obveznosti ostaje, stroški ostaje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2011.782,
+        "end": 2013.203,
+        "text": "To je res eno volko breme."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2014.384,
+        "end": 2022.347,
+        "text": "In prav mogoče zaradi tega, kar pričakujem, da se to vredno preizbudilo, sem šla tudi študirati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2023.276,
+        "end": 2027.197,
+        "text": "To pa še lahko počnem, zakonske in družinske študije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2027.978,
+        "end": 2044.964,
+        "text": "Če pride do tega, da ne mogla pravila tega dela, bom pa potem probala nekako privat odpred, ker neko finančno poro pa nekaj mora imeti, kar tudi možno, z možno svojo plačo ne bo zmogo finančnega zalogaja, ki ga trenutno imamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2045.384,
+        "end": 2050.446,
+        "text": "In to je res breme potem v celotne družine, ki se lahko zgodi čez noč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2051.506,
+        "end": 2052.927,
+        "text": "To se lahko zelo hitro zgodi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2059.473,
+        "end": 2080.269,
+        "text": "Jaz sem se najbolj nasmijala ob čebeljih pikeh, da bi šla na terapijo z očebeljeni pike in ko bi me pičelo sto čebel na enkrat, je to potem zagotovilo, da bom ok, pa sem rekla, da je nekako tega neveno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2080.349,
+        "end": 2088.936,
+        "text": "Ja, meni je bilo v bistvu najbolj smišno, ko te mečkan zanaša, pa te nekdo v dobrohodno vpraša, oprosti, a ti piješ mogoče, ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2089.797,
+        "end": 2096.543,
+        "text": "To mi je bilo v bistvu kar grozljivo, čeprav smešno, ampak grozljivo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2102.167,
+        "end": 2116.837,
+        "text": "Mogoče edino še v srednji šoli, ker sem imela dodatno srakovno pomoč, da sem se lažje učila, so mi ljudje, vsi so šolci, so šolke, govorili, jo, ti tega ne rabeš, ne rabeš, ti si dost pameta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2117.357,
+        "end": 2123.381,
+        "text": "Ampak v bistvu je meni ful pomagalo, veliko so mi pomagali in sem jim hvaležna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2123.822,
+        "end": 2128.385,
+        "text": "Ampak sem se zmerno smejala, ker sem si svoje misle pašla naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2133.976,
+        "end": 2138.959,
+        "text": "Ja, sigurno, tako kot so že predhodne govornice povedale."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2139.439,
+        "end": 2154.968,
+        "text": "Mi je bilo pa tudi zanimivo, ko sem dobila člansko kartico od združenja in je bil gor in baletski vozeček, sen je bil takrat star šest let in reče, o, fino, zdaj bomo pa parkirali, kjer bomo hoteli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2155.528,
+        "end": 2161.652,
+        "text": "Mislim, nasmejala sem se v vsem hodem, ampak ja, me je to spravilo v dober volju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2161.972,
+        "end": 2167.735,
+        "text": "čeprav ni bilo treba parkirati na invalidskem parkirnem prostoru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2168.755,
+        "end": 2188.525,
+        "text": "Mogoče bi pa, ko sem že omenila to parkiranje, ja, vse bez multipla skleroza imajo možnost pridobiti parkirno karpico za invalide, ker jim pa tudi to zelo prav pride v vseh teh težavah s hojo in iskanjem parkirnega prostora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2194.118,
+        "end": 2200.943,
+        "text": "Ja, no, ni občutek prav prijeten."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2202.344,
+        "end": 2218.696,
+        "text": "Tukaj jaz v bistvu sama ga res uporabljam v skrajni seli, ko ne najdem parkirnega prostora, drugače pa, če vidim, da je nekdo še drug, se še potrodam in raj, mislim, parkiram še drugi in postem to..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2221.355,
+        "end": 2227.298,
+        "text": "Hudo pa je, če pa ne imeš možnosti, pa da ne imeš kje parkirati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2227.578,
+        "end": 2228.318,
+        "text": "To je po hudo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2228.518,
+        "end": 2230.219,
+        "text": "Se pa človek kar malo razjezi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2236.702,
+        "end": 2242.105,
+        "text": "Ja, da večkrat upoznem, da mar se kdo parkira na parkiriščih za invalide."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2242.837,
+        "end": 2254.405,
+        "text": "Saj tam, ko jih je več, ne, tam ni panika, tam še se zraža, ok, vreč, pa ga že tako robiš, vsak hendikep, pa tu je njega vidi, ne, se ne vem, kaj imaš v glavi, ne, težo robiš, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2254.985,
+        "end": 2266.973,
+        "text": "Ampak res pa je, ko pa, ko pa res ne moreš hoditi, pa še imaš istega skutera v kuferom, pa vse se treba bom spraviti,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2268.2,
+        "end": 2282.166,
+        "text": "pa res prihaja do tiste jeze, ne, res ljudje, vam je tak šeč ta parkirni plac, pa jaz vam vse dam, v kompleti vam dam vse, in diagnozo, in šest urnik, in nadomestila, pa še to kartico."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2282.567,
+        "end": 2286.368,
+        "text": "Če bi res tak radi imeli, gledajte, izvolite, jaz vam vse odstopim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2286.708,
+        "end": 2290.17,
+        "text": "Nikomu ne bi rekla, da mu ne dam toga zamena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2290.55,
+        "end": 2291.991,
+        "text": "Komodo, ni problema."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2298.001,
+        "end": 2325.079,
+        "text": "V bistvu sem bila, pa so mi zaparkirali in potem, če še kaj rečeš, jih skor fašeš lahko tudi, ne, kaj se pa vsajaš, ne, pa če prav vidijo, da si na berglah, da si, ne vem, s pohodnimi palcami, ne vem, se mi zdi, da te ljudje, ki to delajo, da so v glavi malo omejeni, no, samo za to žal ne dobiš kartice parkirne, ne, za to omejenost v glavi, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2330.536,
+        "end": 2343.03,
+        "text": "Jaz bi predvsem rekla, bodimo strpni do sebe, pa imajmo zarade, pa bo šlo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2343.65,
+        "end": 2350.238,
+        "text": "Kljub bolezni, ki nas spremlja v življenju, je lahko vsak dan nekaj posebnega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2350.478,
+        "end": 2352.24,
+        "text": "Le zavedati se moramo tega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2358.481,
+        "end": 2374.967,
+        "text": "Meni se zdi, da ne glede na to, ali je bolezen ful prisotna ali pač ni, še zmeraj moramo drugega opoštevati v največji meri, kar se da."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2375.047,
+        "end": 2376.988,
+        "text": "Jaz bi pa samo rekla, kar pedijem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2377.648,
+        "end": 2383.27,
+        "text": "Vzemi vsak dan tisto, kar ti življenje nudi, zgrabi z obema rukama in uživaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2383.671,
+        "end": 2384.571,
+        "text": "Res, samo to."
+      }
+    ],
+    "runtime_sec": 713.5091364383698
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.12220187417977639,
+      "miss": 0.10453735227011864,
+      "fa": 0.0012436365904919583,
+      "confusion": 0.01642088531916581,
+      "total_duration": 2212.0609999999774
+    },
+    "der_collar0.25": {
+      "der": 0.1031556934055068,
+      "miss": 0.08468124399328904,
+      "fa": 0.001321053112230169,
+      "confusion": 0.017153396299987595,
+      "total_duration": 2069.5609999999774
+    },
+    "wer": {
+      "wer": 0.38531005418422637,
+      "ref_words": 4983,
+      "hyp_words": 4618
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1.263,
+        "end": 3.322,
+        "text": "Lep pozdrav sem skupaj."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3.963,
+        "end": 25.04,
+        "text": "Začelo se je že tak na začetku študijskih let, tak pekoča bolečina poroki se mi je pojavljala, ker je enostavno ni izvenela, kot da bi me nekdo s koprivami hodil poroki in te pekošne bolećine enostano ni bilo konec, in tudi proti bolečinske tablete niso pomagale."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 25.681,
+        "end": 31.115,
+        "text": "Ta pa kot še bolečina je izvenila, kot ste prirekli, potem pozabiš na njo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 31.807,
+        "end": 40.666,
+        "text": "Pakler se mi čez tri leta ni pojavljal močnejša slika simptomov, kot so osloveli ude desne roke, desne noge."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 41.273,
+        "end": 51.044,
+        "text": "Spuščati sem začela stvari, z rok so me izhodkoč, kot padale, ravnotežje je bilo slabo vožnjo s kolesom ni bila več mogoča."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 51.685,
+        "end": 52.782,
+        "text": "Emm..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 53.288,
+        "end": 69.421,
+        "text": "In potem seveda še tista prekoča bolečina nazaj v desni roke, ko se spet pojavlja krv iz nenada, na koncu pa je bil tisti dvojni vid, kateri je nevrologev spodbudil, da je verjetno po tori smoti plesleroze in so šle preiskave naprej."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 70.433,
+        "end": 82.246,
+        "text": "Je se prepričana, da če bi takšne simptome naštela v trenutnem času sedaj, bi še se diagnostika preizpeljala kot to je atleti, sedemnajst, sedamnajst let nazdaja pa vlomala."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 82.246,
+        "end": 82.28,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 82.769,
+        "end": 83.967,
+        "text": "Še vse eno drugač."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 83.967,
+        "end": 84.355,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 84.895,
+        "end": 85.03,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 89.857,
+        "end": 121.953,
+        "text": "Ja, je sko sem gledala tale film zvele, tale posnete, kot bi svoj zgodbo vedela takrat niti pomislo, nisem kaj to je, začelo pa si je z taki bolj megljen vid, nedvojni vid, mravljenčenje po brazu tu je trajalo nekaj mesec in minilo pa se je čez par let spet ponovilo, h temu dvojnemu ozirom miglenemu vidu so še kakšni mravlinički pršli po telesu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 122.712,
+        "end": 133.782,
+        "text": "Pa se je spet skrjelo in tako je trajalo pet let, oziroma zvečeno zaj gledam sem vedno, da je že v srednji šoli semel, ampak..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 134.423,
+        "end": 142.692,
+        "text": "So za del časa izginili težave, nad diagnozami je bilo pa pri tridesetih letih potrjena."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 143.215,
+        "end": 154.538,
+        "text": "Prav ti brevlinčci, oziroma, ker sem se prepognila mi po celem telesu kot bi ene elektrika šveglala, to je bil pa povod, da sem..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 155.045,
+        "end": 169.591,
+        "text": "Prešla do zrego, sicer v vsakem primeru, vsakemu poslabšanju sem šela hosebnem zdravnikom, tudi naprej do nevrologa, ampak navadne bratovzinskemi času se gvrtuje odpre hlada, to je dotrojenosti enestec jim minilo in sem bilo dobra za naprejsko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 170.249,
+        "end": 187.377,
+        "text": "Takrat, ko sem pa diagnozo dobila, sploh nisem vedela, kaj je to prvo stvar, ojoj, invalidski vaziček, prevozka brata, v kopalnici stopnice v hiši, ampak ni tako, triindvajsetletnem diagNozo, pet let prej že..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 188.272,
+        "end": 191.242,
+        "text": "Simptomi taki tokdaj gre."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 198.076,
+        "end": 198.886,
+        "text": "Zdravo?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 200.0,
+        "end": 203.459,
+        "text": "A mese bolezen začela po trinajstih letih?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 204.37,
+        "end": 217.094,
+        "text": "Začelo se mi je načeloma z bruhanjem, pač nad normalnim bruhanjam, ampak takrat zdravniki načalama niso pomisli nad to diagnozo, ker je bila pač obična tjubušna gripa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 217.904,
+        "end": 225.38,
+        "text": "Potle sem pa je začela slabše govornj, nerazločno govord, pojavljal se mi je dvojni vid."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 226.156,
+        "end": 229.075,
+        "text": "In tudi desna stran obraza se mi je povesla."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 230.037,
+        "end": 238.255,
+        "text": "Potem so pa, pa če za vsemna zanica mi je rekla, da to je nekje, pač punarobe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 239.791,
+        "end": 250.22,
+        "text": "Val sem pašla je v bolnico in so mi naredil preiskave, in sicer pred tistih mojih trinajstih letih žol niso pomisli direkt na to diagnozo, je bilo več različnih diagnos."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 250.912,
+        "end": 254.962,
+        "text": "Ampak načeloma mi tudi niso potrnili po prvem tem zagonu?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 255.974,
+        "end": 266.825,
+        "text": "Polj sem pa izdružila zamravljnice po desni roki, po desne nogi, po levi nogi in so pred spreiskavami podle potrdili, pa z likvrem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 267.415,
+        "end": 267.905,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 268.748,
+        "end": 275.026,
+        "text": "Ampak načela medtekrat mi je bil tako, ko sem mu povedal, zato je diagnoz, kar da bi mi rekel za prehlade."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 275.617,
+        "end": 277.928,
+        "text": "Ker se nisem sploh sekirala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 283.531,
+        "end": 288.408,
+        "text": "A dobro dan pozdravljeni ob bistvu po drugem porodu sem že opažala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 289.522,
+        "end": 293.538,
+        "text": "Nekaj sintomi utrujenost, mravlinčenje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 294.044,
+        "end": 297.132,
+        "text": "Ampak temu nisem posvečala ne vem kakšne pozornosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 297.976,
+        "end": 299.242,
+        "text": "To je potem izvenelo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 299.933,
+        "end": 301.469,
+        "text": "Do leta dva tisoč pet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 302.38,
+        "end": 304.338,
+        "text": "O, ko sem pojeni, o."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 305.114,
+        "end": 308.438,
+        "text": "Kudem na poro telesnem, bi smo hudem v poro Kidalj smo sne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 309.181,
+        "end": 312.033,
+        "text": "In potem me je vse bolelo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 312.86,
+        "end": 318.378,
+        "text": "Vse mišice, vse zanika uredu, to je pa pod mačjo povedano muskelj Fiber, se bo šol, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 319.07,
+        "end": 320.285,
+        "text": "Na žalostnih šov?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 320.909,
+        "end": 327.035,
+        "text": "Potem sem šla do svoje zdravnice, me ona takoj posumlja kaj bi lahko blokar se mi vpisala moje težave."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 327.693,
+        "end": 329.296,
+        "text": "Me poslala h nevrologu?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 330.055,
+        "end": 334.848,
+        "text": "So me zelo hitro hospitalizirali, vzeli likvor na magnetno resonanca poslali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 335.354,
+        "end": 338.29,
+        "text": "Bi so se imela skor v štirinajstih dni diagnozovno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 339.623,
+        "end": 342.357,
+        "text": "In zdaj se to počasi slabša?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 342.88,
+        "end": 344.315,
+        "text": "Na začetku sem mela..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 344.821,
+        "end": 347.403,
+        "text": "Od jagnonzov recedivno remitentna?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 347.96,
+        "end": 351.672,
+        "text": "Utiplja skleroza to je, da so zagoni in potem se stani izboljša."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 352.263,
+        "end": 361.628,
+        "text": "Zadnje pet let manj pa sekundarno progresivno, to pa pomeni, da se stanje počasi slabša in da izboljša v nažalostni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 367.214,
+        "end": 370.775,
+        "text": "Da v roku trih tednovega mesta semela diaknozo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 371.298,
+        "end": 373.154,
+        "text": "Da je dobloleta dva tisoč pet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 374.251,
+        "end": 377.525,
+        "text": "Takrat je bil internet prnes še bolj v povajih, ko ne, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 378.402,
+        "end": 381.878,
+        "text": "Si bi vzgubljen, nisi vedo kaj, kako?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 382.79,
+        "end": 385.237,
+        "text": "Sem se potem obrnana na društvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 386.182,
+        "end": 392.476,
+        "text": "Ker so mi pomagali novin bolj, sem počas poznala ljudi z istimi težavami z isto diagnozo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 393.387,
+        "end": 398.129,
+        "text": "S katerimi smo še danes vstikali in si en drug mu pomagamo na tem področju, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 398.264,
+        "end": 398.669,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 403.782,
+        "end": 409.958,
+        "text": "Nekaj sem, ne samo ob bistvu, sem dobila kontakt enega pacienta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 410.633,
+        "end": 413.992,
+        "text": "In bratranec mi je uredil, je reko iz tudi enega poznam s to diagnozo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 414.582,
+        "end": 417.67,
+        "text": "Kot da sem poltut preko njega, me je on pomagal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 418.413,
+        "end": 420.843,
+        "text": "Pa tudi na društvu se vada ne, tako da."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 421.4,
+        "end": 422.834,
+        "text": "Se potem počas začel?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 423.442,
+        "end": 425.365,
+        "text": "Da veš, kaj, kako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 425.365,
+        "end": 425.618,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 433.01,
+        "end": 445.193,
+        "text": "V načeloma sem dobila že na začetku bolezni knjige, ne, in sem predvsem se na knjigo obrnila nisem zatok na internet, ker se ni zdi, da so še zmeram informacijata praven v knjigah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 446.054,
+        "end": 450.492,
+        "text": "Tako da se sploh obilstvo nisem obračala na te internetne vere v tistih časih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 457.9,
+        "end": 464.988,
+        "text": "Je zelo hitro, zaradi je kar ob isto tudi ko sem imela decembra, da sem imel prvi zagon novembra-decembra."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 465.663,
+        "end": 470.523,
+        "text": "Potrdil sem jo pa naslednje leto marca, na treh mesti približno sem ji potrdil diagnozo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 477.273,
+        "end": 478.977,
+        "text": "Vloje manj mislim."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 478.977,
+        "end": 483.196,
+        "text": "Sem, da je bilo tri leta, da se je celotna slika pokazala."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 483.854,
+        "end": 491.38,
+        "text": "Ko sem res izvedla za diagnozo, sem imela pred sabo samo eno stvar, raben pomoč."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 492.005,
+        "end": 515.208,
+        "text": "Jaz sem po poklicu diplomirana delovna terapevtka in na navajah sem prišla vedno v stik, tudi pogosto v stiku z ljudmiko, mam multiplo storozo in sem enom stvrnje vedno ostala tek pred očmi. Človek treba ostat čim dlje funkcionalen smo stoje, ankrepiti tisto, kaj še ima na tem delati, in to ohranja."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 515.714,
+        "end": 531.61,
+        "text": "Jaz sem takrat takoj vstopla v stik z nevrofizijo terapotko, katero imam še danes, trenutno obiskujem na štirinajst nizic, ker je to samoplačniško, ampak končne fazi gre za mene in tega denarja v menikoli ni žal, pa če so drugega ni."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 532.15,
+        "end": 538.613,
+        "text": "In sem lahko tudi njej hvaležna, da še v trenutno klub zdravilom seveda."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 539.238,
+        "end": 547.27,
+        "text": "Še sam nekak motorično toliko gibljiva kot sam sicer omejitev imamo gromo drži, koja je res."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 547.945,
+        "end": 552.822,
+        "text": "Ni ne bolj zapoglirata, ampak v redu še vedno s tem še velj na hode."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 553.531,
+        "end": 554.645,
+        "text": "Eem."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 555.185,
+        "end": 562.036,
+        "text": "In še vedno se dežim tega prepričanja, ne? Kljub temu kaj izgubljam v telesu na telesu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 562.728,
+        "end": 571.452,
+        "text": "Primultiplisk le roze še mi vedno nekaj ostaja, je nad tem še vedno lahko delam, še vendem lahko to ohranjam in ostajam aktivna."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 572.279,
+        "end": 574.962,
+        "text": "Prepričana sama dokler še bomo živo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 575.553,
+        "end": 578.438,
+        "text": "Še bom nekaj vedno imela, s čem bo mu lahko."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 579.029,
+        "end": 581.088,
+        "text": "Na nek naj če mi migala?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 581.965,
+        "end": 584.024,
+        "text": "In s tem ohranjala aktivnosti."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 584.024,
+        "end": 585.678,
+        "text": "Pa na nek način tuj samo stoje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 591.483,
+        "end": 627.815,
+        "text": "Se prav je v vsatem hudem, je nekaj dober ga. No, je takrat, ker sem imela to po tle bolečine vramenih, sem na fizioterapejo hodila in mi je ta fizioterapijotka povedala, da obstaja družb, ko še nisem imela diagnozi, ker je bil sam namig in že me pripravila na to, potem v službi šef mi je potlej pomagal, da sem pršla čim prejh nevrologu, ker je njegova hčerka zaposlena na nevrološkem oddelku in jim priporočila mi zdravnica."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 628.473,
+        "end": 641.298,
+        "text": "Toda, ja in Natankin in to potleje spet šef poznal predsednika takratne dolenjske podrožnice, da smo se skupaj dobil v član ali intentomacije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 641.922,
+        "end": 642.378,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 643.019,
+        "end": 645.162,
+        "text": "Ja, tudi knjige."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 645.888,
+        "end": 657.953,
+        "text": "V mesecih sem iskalati odgovore na razne vprašanja, ampak mislim, da pa je ta pogovor največ pove."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 658.814,
+        "end": 672.938,
+        "text": "Če imaš nekoga, in tudi zdaj s včasih krv pošalmo s člani, če ne bi imel multipliske roze nisi ne bi poznali, mi ne bi vedel, da obstajamo, to pa se le včasu včasa dobimo, pa kakršno rečemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 678.676,
+        "end": 683.401,
+        "text": "A, ja, se je bilo težko, otroka sta bila še mejhna takrat."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 683.958,
+        "end": 695.062,
+        "text": "Mož mi zdaj prezna, da je težje sprejel kot jaz, takrat mi ni povedal, takrrat je lepo sam ob strani stal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 696.108,
+        "end": 743.864,
+        "text": "Je, ob isto sem jo sprejela, ker sem videl, da ni družega, tudi zdravnice, ko mi je povedala, je rekla zaradi multiplese ne ombre, bo trebaš nekaj družga, ne? Tegdeja. Mogoče tako le ponoč kdaj kot človk ne more spad, pa takrat se mal prometuješ, pa mal tohteš. Sigurno pa takrat, ko sem zbolela, se ne klejojo otrogec, majhnih črke šlo prvi razrecin še mlajši, da bi dočakala njo nomaturo, kaj šlo naprej, da bi ti čakala diplomo, da vi dnučke, zvežemam dnuk in jo in dnuška že ta tretje dnuki na poti tolik, da ja, zrečem, da mi še, da me še in opam, da bom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 750.53,
+        "end": 764.907,
+        "text": "Je s načeloma, sem se samo diagnosticno, sem si tako, mi sem se takoj sprejela, v načalama se mi ni zdelo, da je tako hudo, tudi ker kot mala punčka takrat se jih ne zavedeš, kaj se točno dogaja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 765.532,
+        "end": 770.729,
+        "text": "Sem jedit, pa da se moje starše je bilo sprejet to zlo težko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 771.252,
+        "end": 776.197,
+        "text": "In se še dan danes tem bojujeta na nek način, po svoje, po tiho."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 781.917,
+        "end": 784.111,
+        "text": "Kubilstvu se naučiš z njo živeti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 784.33,
+        "end": 784.735,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 785.292,
+        "end": 790.102,
+        "text": "Pa sprejmeš tiste dobre stvari, kaj jih je bolj mal in tu tiste..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 791.266,
+        "end": 798.539,
+        "text": "Slabe noči si z njimi živeti, prilagodiš si življenje, med vas možnost vas je tako razdelila, da pač on otroke bolj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 799.163,
+        "end": 809.153,
+        "text": "Sportno usmeril, kar jih jaz nisem več mogla, je sem jih pa za šolo, pa za raznorazne družabne igre in kot ko bi sva si razdelila."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 810.284,
+        "end": 812.343,
+        "text": "Življenje, kar se otrok tičeno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 812.933,
+        "end": 816.899,
+        "text": "Ampak s prijazniščno se z diagnozo mislim, da se ne enoči se z njo živet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 817.523,
+        "end": 819.717,
+        "text": "Sprijažni se pa težko, ne vem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 820.409,
+        "end": 835.715,
+        "text": "To je sploh jaz, ko sem bila navajena tako zlo hitro življenje akcija reakcija, trenirala sem košarko, potem badbinton igrala in potem kar nekaj, da to se je zamrlo, saj je neki napočas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 836.626,
+        "end": 840.406,
+        "text": "Na počas, da ne boš padel, da se ne bo šprevrnuki."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 840.929,
+        "end": 842.465,
+        "text": "Ki sem težko, je, no, ampak..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 842.971,
+        "end": 848.962,
+        "text": "Pač nauči se s tem živet, sprejmeš ti skart iz življenja nudi in grež dalje na."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 855.88,
+        "end": 857.973,
+        "text": "Devsem v tisto mogoče prvo svet."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 857.973,
+        "end": 859.778,
+        "text": "Vsločanje je malo daljeno stran."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 861.112,
+        "end": 869.768,
+        "text": "Ker sem pa čiskala določene rešitve samo v tistem trenutku, pravo soočenje je prišlo potem po ponovnem poslabšanju."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 870.646,
+        "end": 872.3,
+        "text": "Kaj se pa je zgodilo zdaj?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 872.84,
+        "end": 886.812,
+        "text": "Ne, nekaj multiplov te da lahko nekrat tistih trenutkov popridejo med zagone, ko jo vredo superfan in potem spide spet poslabšanje in enoga razočaranja in enove negotovosti."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 887.504,
+        "end": 893.461,
+        "text": "Nove prepreke, novi sintomi, kot se brez vprašali."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 894.794,
+        "end": 898.591,
+        "text": "Jaz nikoli nisem še sprejela v resnici multipla estroze."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 899.333,
+        "end": 903.535,
+        "text": "Ampak je tako ti rekla, gospa, to je mojo življenje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 904.379,
+        "end": 914.251,
+        "text": "Jaz sem si multipljeni sama izbirala, jo sem v obrestnici dobla, meni je bila dana, isto se mi zdi, ko včasih dobim z rojstnjem tudi kakšno darila pa..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 914.977,
+        "end": 921.608,
+        "text": "Tečen okej viri, dobro malo me slabše poznate, bom dala nekaj, ampak kot malo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 919.583,
+        "end": 919.955,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 921.929,
+        "end": 926.907,
+        "text": "Pač tam je prak, se nabira gor, če si prestavim obrišan prah."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 927.447,
+        "end": 931.7,
+        "text": "Me zdi, da je prakčna za multiplo isto."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 932.341,
+        "end": 944.474,
+        "text": "Ne okorjam se s tem, da sem bolana, da imam multiplo, ampak je to enostavno moje življenje. Res si je volime danes v to jutrinjo volito, kakšna živlenja brez bolečine..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 945.672,
+        "end": 949.182,
+        "text": "Težko vem, zdaj že se malo že pozabno."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 950.6,
+        "end": 986.611,
+        "text": "Tak pač trenutno je in išejo se rešitve za možem, pa čimalu kombiniramo stvari tudi pri vzgojju otroka, pri vznrževanju hiše, potem tudi v službi sem mudo določene stvari prilagoditi trenutni delam šest ur, kar osem ure več ne zmorem, ampak mi je pa ena takšna želja čim gled ostati, še zaposlena iti v službo, iti od doma, ne bi zaprta med enajstimi stenami, čim več iti med ljudi se vsesli v avtose odpeljate, dom je kar ogromno pomenen."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 987.168,
+        "end": 994.458,
+        "text": "In tu kar kar iščem neke rešitve, kaj bo, če bo še slabše, kakaj bo?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 994.998,
+        "end": 996.5,
+        "text": "Da bi bila pripravljena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 995.352,
+        "end": 995.842,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 997.023,
+        "end": 1002.608,
+        "text": "In zdaj, ko rečem, da bi bila pripravljena, to delam že ves čas, pa nikoli nisem pripragnana."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1003.402,
+        "end": 1005.376,
+        "text": "Ko se nekaj zagodi, je spet."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1006.118,
+        "end": 1013.999,
+        "text": "Čist ena nova situacija, v sebi se moram spet pobirat s stavljati."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1014.59,
+        "end": 1028.039,
+        "text": "Da potem lahko stopim naprej, sem zdi, da je psiha naša duša in taki del, ki je kezlo primembe pomemben pripremagovanja teh ovir težav, ki nam jih pač nanik na čemotipi."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1028.039,
+        "end": 1028.95,
+        "text": "Bla predstavlja."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1035.7,
+        "end": 1036.966,
+        "text": "Večjo organizacijo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1036.966,
+        "end": 1037.472,
+        "text": "Vzadoma, da je bilo še vložen, da bi bilo našli, da so nisem vločili, da se ne bi bil obratil."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1038.502,
+        "end": 1038.518,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1038.518,
+        "end": 1042.18,
+        "text": "Nekaterim je čist samoumevno, da se vjutro oblečejo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1042.788,
+        "end": 1061.738,
+        "text": "Meni to ni samomev, nas mora med obleko pripravljeno, da si počasi oblečem, v jutranja toaleta pri meni troja bistveno dlje kot pri nekom drugem, ampak si pol na koncu rečen še vse enajst uredim, prej se zbujam."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1062.295,
+        "end": 1068.421,
+        "text": "Prej moram it v službo, ker moja pot, da spridem iz hiše do avta."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1069.265,
+        "end": 1083.001,
+        "text": "Je zlo dolga, čeprav je videti kratka in pa potem tudi iz avtodoslužbe, tudi dolga čeprava videti, vse traja dlje časa kot bi bilo, če bi bilal gibalno manj ovirano."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1084.081,
+        "end": 1094.088,
+        "text": "Tak da je ogromno, razlikajo ogromne organizacije, ogromna prilaganja, ogromsno ugotavljanje, kaj mi je trenutno najbolj pomembno, da naredim."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1094.628,
+        "end": 1104.736,
+        "text": "Kaj ni pomevno pustim, za takrat kopač bom, Alpa bo naredil nekdo drug, vrednote se mi potem spreminjajo pri organizaciji dneva."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1105.394,
+        "end": 1114.152,
+        "text": "In tudi, jaz ne rečem moja vrednota, je, da imamo pospravljanost stanovanja, ampak dobro čez vedim, kje kank prah, pa ti pa najbolj ne."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1114.962,
+        "end": 1121.51,
+        "text": "Tak predvsem je razlika v organizaciji in pa planiranju počitkov."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1122.033,
+        "end": 1123.619,
+        "text": "Počitek mora biti."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1124.277,
+        "end": 1127.028,
+        "text": "Definitivno planiran."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1127.028,
+        "end": 1129.492,
+        "text": "V, v dan, brez tega njenek."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1128.293,
+        "end": 1128.428,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1135.162,
+        "end": 1135.178,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1135.178,
+        "end": 1136.427,
+        "text": "O, ja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1137.743,
+        "end": 1151.176,
+        "text": "Vse se vrti bolj počas, kar je zagradana začetka, bistvo samo od leta devetindivetdeset padel lani, konc leta delala po štiri ure s prvim prvimi sem opokojena."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1151.716,
+        "end": 1153.201,
+        "text": "A, ja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1154.011,
+        "end": 1163.815,
+        "text": "Tudi, zdaj si pa res v zamem čas ni treba ob petih vstajati, ker je bilo prav tako vse počas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1164.338,
+        "end": 1190.039,
+        "text": "Še prej, ko sem v delo službo, sem tako delovala, v služe bi sem deloala, potem je pa za meno prišlo, doma je pa vse bolj počas, ker sem in tak človrnje ne znam odneha takoj, moram nekaj narvi do konca potlej in včasih hitomav napake ne bi mogla vmes tako, ko je že prerekle regustvena nata, se oddahanj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1190.782,
+        "end": 1191.322,
+        "text": "A..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1192.148,
+        "end": 1193.65,
+        "text": "No, zdaj pa..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1194.764,
+        "end": 1204.99,
+        "text": "Pač, gre, ko kar gre vse bolj počas, nisem odnehala, da ne bi celotelo vsega skokal sem se v čas samo na drugačen način."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1210.762,
+        "end": 1221.781,
+        "text": "Jaz sem se hecela že takrat, da sem bilo štiri ure upokojena, preden že zdaj nimam časa, kaj bo potem, ne? Ampak ne, čas si vzameš in je gre."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1226.422,
+        "end": 1230.758,
+        "text": "Jaj je sem že od leta dva tisoč osemnajst invalidsko pokojene na polno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1231.535,
+        "end": 1234.538,
+        "text": "Ker pač žol nisem mogla več opravljati svojega dela?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1235.618,
+        "end": 1239.23,
+        "text": "Kjer ga sem jela zlorada, bla sem namreč zaposlena v knjižnici."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1240.377,
+        "end": 1241.238,
+        "text": "Na štiri ure."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1242.065,
+        "end": 1245.355,
+        "text": "In se mi sta ni tok poslabšalo, da pač nisem mogla več."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1245.929,
+        "end": 1247.92,
+        "text": "Hodi tu službo upravljata dela?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1248.798,
+        "end": 1251.565,
+        "text": "Zdaj je se vedno pohecem z utriče, saj zbudim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1252.19,
+        "end": 1256.678,
+        "text": "Pa da me neč ne boli si v bistvu že kar poljz iščem, če sem sploh še živa, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1257.556,
+        "end": 1262.922,
+        "text": "Zato kar potem se pač zjutraj mal raztekne, štnrtiše rastezne vaje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1263.8,
+        "end": 1270.499,
+        "text": "Kot jim ostane mož, da mi priprav zajtrk, tablete in vse, ker si sama ta tega pač ne zmorem več narediti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1271.309,
+        "end": 1275.14,
+        "text": "Funkcioniram po stanovanju še s kodulo, da lahko hodim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1275.663,
+        "end": 1279.072,
+        "text": "Medtem ko grem ven, tega ne zmorem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1279.679,
+        "end": 1285.315,
+        "text": "Grem s skuterjem, ali pač igremo k navbisk, gre pač z invalidskim vozičkom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1287.02,
+        "end": 1290.817,
+        "text": "Dan mine zlo hitro bistvo zdesta otroka, oba študenta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1291.643,
+        "end": 1296.014,
+        "text": "Trenutno delata od doma, oba, sred oznanje situacije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1296.52,
+        "end": 1299.608,
+        "text": "Je kar fino, če ker rabem mi lahko pomagata?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1300.908,
+        "end": 1304.266,
+        "text": "Samo zaprosila sem za osebno asistenco."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1304.873,
+        "end": 1306.139,
+        "text": "Im tudi v dobro eno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1306.763,
+        "end": 1312.855,
+        "text": "In ko se bo ta koronska situacija mal umirila, ko bodo otroci odšli na fakultete nazaj..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1313.446,
+        "end": 1318.238,
+        "text": "Jo bom pa aktivirala zato krv žol sama čez dopoldne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1319.116,
+        "end": 1319.47,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1320.027,
+        "end": 1324.718,
+        "text": "Sem devetindevetdeset procentov lahko, samo tist en procent."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1325.309,
+        "end": 1325.68,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1326.642,
+        "end": 1330.237,
+        "text": "Je pa zmeri visi nad tabone in boljš domaš nekoga."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1330.844,
+        "end": 1336.953,
+        "text": "Ki ti pač tu pomaga, da ti pomaga kosilo, skuha, da te pomaga po spravsten vanje in tona."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1343.264,
+        "end": 1350.335,
+        "text": "V načelama že v srednji šol je nakazan, pa če hodi letko z žeko zemela diagnoza."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1351.145,
+        "end": 1367.986,
+        "text": "Mi je bilo zlo težko, sem glede koncentratije, načeloma fizično so neščist okej, tako da mojo vsakdanje poteka tko kot odvsazega človeka normalnega, na čelama nisem težkokog obljivovirana ali pa lažje v glavnem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1368.779,
+        "end": 1389.4,
+        "text": "Načala mama mestje poškodbe samo v glavi, se pravi koncentracija in te stvari pa hitro se utrudim. To je in to sem si pa še svojo pol prilagodila in tudi, ker je timo zumbol v ospredju pri samem izobraževanju, je to blisto ta situacija zame super?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1390.143,
+        "end": 1397.298,
+        "text": "Ker se toh lahko hitre odpiči in grem stran od računalnika, lažje delujem čez dan."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1398.007,
+        "end": 1400.521,
+        "text": "Ker ni besod kot težko ono."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1406.68,
+        "end": 1428.736,
+        "text": "Je podpora, je zelo pomembno nasploh, pogovarjam se za sami o multipli nimi ob isto tudi koribni vprašal povem stvar, kajšna je, sicer delam še prek študenta in sicer nadrejenim ne govorim, ne razlagam, kakaj manj, ker se mi zdi pač brez veze, ker si pač počutim okej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1429.883,
+        "end": 1442.59,
+        "text": "Drgeč pa vse pogovarjamo o določnih problemih, o dolačenih težavah, kaj jih imam, recimo, če je recimo rabni prevoz pred zaprosom prijatelcev in metod pelje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1443.333,
+        "end": 1449.458,
+        "text": "Načeloma drugih težav ni, a to sama sem tok pozitivna, da bistvo..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1450.657,
+        "end": 1458.672,
+        "text": "Nerabim tok podpore, je super, da jo mam, ampak se mi trenutno ne zdi tok pomembni dejavnik."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1464.258,
+        "end": 1470.788,
+        "text": "Ja, v bistvu je bila to ena uganjka za vse, neznanka, no tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1471.43,
+        "end": 1491.275,
+        "text": "S strahom sem in vsem pripovedovala, mogoče so bili drugi še bolj zaskrbljeni, jo je kaj pa je zdaj to, uslužbi so dobro sprejeli in je vsa ta leta nisem imela težav."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1491.95,
+        "end": 1508.15,
+        "text": "To je najbolj pomembno, se mi zdi, da se še s tem ne obremenjuješ, kar se pa tiče pomoči sem bila pa deležna tako pri svojcih družini in res."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1508.943,
+        "end": 1521.667,
+        "text": "Mislim, da se da, in vsak mora kdor razbolej, samo rečem ne se zaprijet vase govoriti o tem, ker če boš sam, si ne moreš sam pomagati."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1527.961,
+        "end": 1529.969,
+        "text": "Na nek način še ne, da je bilo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1529.969,
+        "end": 1530.644,
+        "text": "Če je vedno."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1531.606,
+        "end": 1533.412,
+        "text": "Težko prositi za pomoč."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1533.968,
+        "end": 1535.268,
+        "text": "Mogoče celo..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1535.858,
+        "end": 1547.57,
+        "text": "Lažje prositi, kot pa potem pomoč sprejete. Jaz vidimo, da ko se lotem česa delat, dedede počakajo nov pomesto, v mesto ne, namesto tebe pa pa to hitro ne?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1547.182,
+        "end": 1547.418,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1548.143,
+        "end": 1549.156,
+        "text": "Eem..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1550.202,
+        "end": 1555.619,
+        "text": "Po druge strani pa je tak, tudi jaz sem se odločila za osebnega asistenta."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1557.222,
+        "end": 1581.404,
+        "text": "Prav zaradi tega, ker bi rada počela še več stvari in potem popoldnjak v prijem domu čakam, a moža Alštirko, da prideta in da potem jo seveda sem spočita in z svojimi vsemi ideje me planem na nju kak bi zdajja spočelaela invertnarla in rože urejala in, pol dobim res mami danes, zdej?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1580.965,
+        "end": 1581.337,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1581.877,
+        "end": 1594.347,
+        "text": "Kaj naj je tudi javamalo počakat, pa bi mogoče jutri, ali pa ne in potem čakam, ne, in čakom, inčakam in s nagranjih zdepa bi jaz res potrebovalo osebnega asistenta kar."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1595.41,
+        "end": 1604.084,
+        "text": "Sem se malo naveličala tega čakanja, razumem pa ji dva do sta ne akoma prijeta, domov je spoko manj čakam, kaj stopi to, če zvrata pa snaže."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1596.035,
+        "end": 1596.203,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1604.54,
+        "end": 1606.43,
+        "text": "Z svojimi idejami na plane."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1607.088,
+        "end": 1612.673,
+        "text": "Sama, mamo občutek, da se mi pa je z ožo okrog ljudi k sumiblizu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1614.108,
+        "end": 1614.766,
+        "text": "E..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1616.065,
+        "end": 1618.495,
+        "text": "Moje aktivnosti so se spremenile."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1619.052,
+        "end": 1624.823,
+        "text": "Jaz nisem za planinarjanje, nisam za sprehode, nisan za žalriranje že lep čas."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1625.448,
+        "end": 1626.342,
+        "text": "Ee..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1626.95,
+        "end": 1633.025,
+        "text": "Tak da sem malo jaz dala ljudi na stran, da sem zbirala kateri so mi blizu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1633.784,
+        "end": 1655.131,
+        "text": "Predvsem pa sem dala na stran tiste, kateri so mi na veliko svetovali, kaj bi pa jaz mogla narediti, da bo meni boljše, pa kaj moram jaz naredite, da bom se ozdravila, kar poznajo zgodbe takšne drugačne in celo paleto, vsaj ga, ko so ljudje čudežno ozdravili in so zdrave."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1655.806,
+        "end": 1665.678,
+        "text": "To me je bremenilo, to me še vedno bremeni in se izogibam ljudi, ko vem, da od njih lahko pričakujem na svete in ogromno zgodb."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1666.201,
+        "end": 1680.258,
+        "text": "Verjamem, da me želijo pomagati, ampak je snega nerave več, je s slavim ljudi, ki doma sprejeli takšne pokseme, pač takšnoke šepam, takšnostke mi kaj z rok pade, takžnostke se jim izvrti, pa kaj sem malo nerodna, pa to sem jaz."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1681.388,
+        "end": 1684.038,
+        "text": "Te sprejema ostale pa, sem krja se začela."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1684.038,
+        "end": 1686.232,
+        "text": "Gibam, moram priznam, da se ga si zagibam."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1692.256,
+        "end": 1693.977,
+        "text": "Predvsem, da se gre pokal."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1693.977,
+        "end": 1695.293,
+        "text": "Pazljata gre k nevrologu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1695.496,
+        "end": 1696.07,
+        "text": "Čim prej?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1696.272,
+        "end": 1714.48,
+        "text": "Čim prej je nobenega simptoma ozeti, bilo kaj se nam na telesu dogaja, telesu treba prisluhniti, ali je to mogoče s motnjem ukrenja, ki lahko tudi jo pridejo, prej al motnje koncentracijo, spolne motnja, al bilo, kaj pride."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1715.476,
+        "end": 1722.023,
+        "text": "Dejte, vsak ne gre k neodologu, naj se ne pusti zavesti, ste še premladi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1721.669,
+        "end": 1721.686,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1721.686,
+        "end": 1721.787,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1722.31,
+        "end": 1734.022,
+        "text": "Ali pa ste prestare za to bolezen, če se petdeset let stareze ne smeti imeti diagnosticirane multiple?Vsaka stvar, ki se zgodi na telesu in k nas zmote."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1734.629,
+        "end": 1745.024,
+        "text": "Ker nas zmoti v vsakodnembno funkcioniranju, je tista, ki jo treba mu vzeti za res predstavit zdravniku potem nevrologo in raziskati, zakaj se..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1745.024,
+        "end": 1746.897,
+        "text": "Za pa to prav pri nas doba."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1753.343,
+        "end": 1754.356,
+        "text": "Eja, ob bistvu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1755.2,
+        "end": 1758.743,
+        "text": "Je fajne, da se te zgodb med otaknjemo za to kar v bistvu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1759.267,
+        "end": 1764.245,
+        "text": "MS prinaša tudi zelo veliko finančno breme za družino."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1765.105,
+        "end": 1775.264,
+        "text": "Tudi jo s recimo kot delaš za štiri ure, dobiš polovično plačo, polo vičko dobiž iz spiza."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1775.939,
+        "end": 1781.828,
+        "text": "In ko to se šteješ, velikrat ne prideš do minimalne plače na?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1782.368,
+        "end": 1785.558,
+        "text": "Pa prvi problem, kaj men zelo velik ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1786.115,
+        "end": 1788.562,
+        "text": "Zato, ker se je s prvi in prvi dva tisoč tri."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1789.135,
+        "end": 1790.941,
+        "text": "Se je ta zakonodaja spremenila?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1791.532,
+        "end": 1799.294,
+        "text": "Včasih v Dubu v službi celo plačo in so potem refundirali vsake tri mesece na zaseju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1799.8,
+        "end": 1801.792,
+        "text": "Zdaj pa pač dobiš samo polovičko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1802.551,
+        "end": 1805.099,
+        "text": "A v bistvu izpiza pa dobiš."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1805.622,
+        "end": 1809.335,
+        "text": "Nekdo tudi po sam posto osemdeset evrov, dvesto evrov ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1809.892,
+        "end": 1814.667,
+        "text": "In potem ko se pad sprijazni s tem, da ne boš mogel več hodi v službo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1815.325,
+        "end": 1823.189,
+        "text": "Da se ne boš mogel več udejstvoved raznoraznih teh, se pač invalidsko upokojiš."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1823.864,
+        "end": 1828.37,
+        "text": "In kot obiš odločbo, se zjokaš, ne, če je po pravici povedano?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1828.943,
+        "end": 1831.238,
+        "text": "To, kar imaš malo delovne dobe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1832.234,
+        "end": 1834.529,
+        "text": "Kot to povprečiti vendajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1835.12,
+        "end": 1837.111,
+        "text": "Je bistvo katastrofano."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1837.685,
+        "end": 1839.693,
+        "text": "Zači nimaš v zadnjo družine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1840.553,
+        "end": 1842.241,
+        "text": "O partnerja, ki..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1843.186,
+        "end": 1845.11,
+        "text": "Kolč kaj toliko dobro zasluži."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1845.802,
+        "end": 1847.928,
+        "text": "Si obsojena životarjenja s tem?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1848.62,
+        "end": 1852.72,
+        "text": "Temi nizkimi invalidskimi pokojninami, kot so pri nas, na žalost."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1852.72,
+        "end": 1852.737,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1853.581,
+        "end": 1853.969,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1853.969,
+        "end": 1854.205,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1860.753,
+        "end": 1880.902,
+        "text": "Obsto sem jo še imela srečo, da sem zbolela toliko prej in sem dobevala celotna plača, ne, ker sem bila pokojena štiri ore preden jih bil sprejetno od zakon, tolk da se mi takrat ni bilo take razlike?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1881.678,
+        "end": 1887.061,
+        "text": "Dober pri vsem tem je to beneficirana delovna doba."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1887.668,
+        "end": 1905.337,
+        "text": "Tri mesece na leto dneva postavitve diagnoze, v teh s mojih časih je bilo od prvih simptomov, toliko da sem se iztepokojila spolno delovno dobo ne invalidsko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1906.433,
+        "end": 1921.013,
+        "text": "Sigurno pa so finance problemja, ko pride do tega, da se konča delat ne moreš in še denarja nimaš, ne? Tuje potlej pa težava."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1926.532,
+        "end": 1927.966,
+        "text": "Ehm, ja."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1927.966,
+        "end": 1930.092,
+        "text": "Financa definitivnostu težava."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1930.649,
+        "end": 1932.067,
+        "text": "Sejo za zespomnem?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1933.062,
+        "end": 1939.34,
+        "text": "Takrat, ko sem, ko smo z midva z možem začela, se ustvarjati nekje, neko..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1939.964,
+        "end": 1941.922,
+        "text": "Bivališče, bevanje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1942.613,
+        "end": 1951.068,
+        "text": "Sema je bila stara pred tridesetim letom, pa multi vlada čist super še ne, kaj popol pa zamukredit ne?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1952.333,
+        "end": 1953.953,
+        "text": "Kredit manj na dvajset let."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1954.477,
+        "end": 1960.383,
+        "text": "Pa smo takrat rekla, kaj pa če dekeno rube z multiplo, pa nam moglavač krediti službo kasneva, a dobro."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1961.446,
+        "end": 1963.015,
+        "text": "Pa bomo že nekak, ne?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1963.876,
+        "end": 1968.618,
+        "text": "Ampak to te pa bomo že nekaj, ko pa vsako kralj, tako poslabšanju je."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1969.445,
+        "end": 1971.115,
+        "text": "Grozno, kak bomo ne?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1971.993,
+        "end": 1974.558,
+        "text": "Kar se slej kopre lahko zgodi, da..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1975.115,
+        "end": 1978.439,
+        "text": "Da res ne moglavač vrati službo, kaj pa bo takrat ne?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1979.418,
+        "end": 1982.236,
+        "text": "Kako takrat koristnem več, in to je..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1982.928,
+        "end": 1985.037,
+        "text": "To je ena tako breme od sadi, ne."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1985.729,
+        "end": 1990.015,
+        "text": "Isto neprepolni več polno plača."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1990.572,
+        "end": 2000.68,
+        "text": "Šest ur delam dve uri sem, kao pokojno ne bi mno domestilo, bo to še zdalač od moje plače, ker je najdobla, če bi bila v službi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2001.322,
+        "end": 2002.148,
+        "text": "Eeh."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2003.414,
+        "end": 2004.359,
+        "text": "Potem pa..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2006.165,
+        "end": 2010.89,
+        "text": "Kaj pa če ne, kredit ostaja, obveznosti ostajajo, stroški ostajajo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2011.7,
+        "end": 2013.387,
+        "text": "To res je na volko bremenje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2014.315,
+        "end": 2034.312,
+        "text": "In prav mogoče zaradi tega, kar pričakujem, da se to verjetno slejko prej izbudilo, sem šla tudi študirat, to pa še lahko počnem ne, zakonske in družinske štude, in če pride do tega na moglo prav le tega dela, bom potem provala nekaj privat od predkr."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2034.818,
+        "end": 2050.428,
+        "text": "Neko finančno, finančni uporov pa nekje mora med, kar tudi mož za svojo plačo ne bo zmogo finančnega zalogaka, ki ga trenutno imamo in torej res breme potem celotne družine, kaj sta lahko zgodiče z noč."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2050.428,
+        "end": 2050.462,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2051.491,
+        "end": 2051.558,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2051.558,
+        "end": 2053.027,
+        "text": "Selako zlo hitro zgodi."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2059.439,
+        "end": 2060.975,
+        "text": "Jaz sem se najbolj nasmeral."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2060.975,
+        "end": 2073.023,
+        "text": "Seljala ob čebelih pikih, da bi štala terapijo z čebelem je piki in ko bomo pičilo sto čebl na enkrat, je to potem zagotovilo, da bom okej, pa sem nakla do njih."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2073.023,
+        "end": 2073.26,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2073.26,
+        "end": 2073.277,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2073.277,
+        "end": 2073.31,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2073.732,
+        "end": 2074.002,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2074.002,
+        "end": 2074.559,
+        "text": "Tega."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2074.559,
+        "end": 2074.576,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2074.762,
+        "end": 2074.863,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2074.863,
+        "end": 2075.386,
+        "text": "Ne, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2080.128,
+        "end": 2082.035,
+        "text": "Ja, meni blubi so najbolj smešno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2082.727,
+        "end": 2089.055,
+        "text": "Kot je mečken zanaša, pa ti nekdo dobrohodno vprašal prosti, a ti pijaš mogoče ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2089.797,
+        "end": 2093.695,
+        "text": "To mi je bilo, da bi sto kar grozljivo, no."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2094.927,
+        "end": 2096.783,
+        "text": "Čeprav smešno, ampak roznljivo ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2102.167,
+        "end": 2128.492,
+        "text": "Mogoče edina še v srednji šoli, kar sem pač mela dodatno stroko na pomoč, da sem se pač lažje učila, so mi pač ljudje, vsi obisne sošolci sošelke govorili, jo ti tega ne raveš, ne rabeš, ti si dospameta, ampak obistvo je me en ful pomagalo, veliko sem jim pomagal in sem jimi hvaležnano, ampak sem se zmerno smejala, ker sem si kakšna, skoj mislana ta šana prej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2133.993,
+        "end": 2188.668,
+        "text": "O, je sigurno, take kot so že predhodne govornice povedale mi, bo pa tudi zanimivo, ko sem dobila člansko kartico od združenja in je bil gor invalidski voziček, si ni bil takrat šest let in reče, on, fino, zdaj bom parkiral, kjer bomo hotel. Mi se nasmejala, sem se v vsem hudem, ampak ja mi je to spravljal dobro voljo, čeprav ni bilo treba parkirat na invalidskem parkirnem prostoru, mogoče bi pa, bi kakrat sem že omenila tu parkiranje, javsebe z multipla sklerozo imajo možnost pridobiti parkirno kartico za invalide, kar jim pa tudi to zelo pravprejde v vseh težavah s hojo in iskanjem parkirnega prostora."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2194.135,
+        "end": 2194.574,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2196.886,
+        "end": 2219.887,
+        "text": "Ja, no, ni, čutek prav prijeten, ne?Tudi je s tobilstvo sama, ga res uporabljam v skrajni seli, ko ne najdem partijernega prestora druga, se pa če vedem, da je nekdo še drog, saj še potrudem in raj, mislim, prekerem še drugje in postem to."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2221.304,
+        "end": 2230.383,
+        "text": "Hudo pa je, če pa nemeš možnosti, pa ne nemeše prekratja, to ji po hudu, se pa človek mal razjezi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2228.662,
+        "end": 2229.522,
+        "text": "Kanj prijevno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2230.585,
+        "end": 2231.075,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2236.508,
+        "end": 2237.977,
+        "text": "Ja, večkrat..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2237.977,
+        "end": 2256.235,
+        "text": "Pred opazem, da domar si kdo parkira na parkiriščih zavari, ne? Se tam, ko jih je več, ne, tam ni povnikam tam, še vse zdraženje, ok, vredi pa ga že tak robiš, saj se vsak hendike platuje njen vidi, ne. Se ne vem, kam vas v glavi, ne teža rabeš, ne! A pa kres pa je..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2257.147,
+        "end": 2259.222,
+        "text": "Kopa, kopa."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2259.965,
+        "end": 2266.867,
+        "text": "Res ne moreš hoditi, pa še manjš tistega skutara v kuferamu, pa vse striga bom spravil."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2268.2,
+        "end": 2290.171,
+        "text": "Pa res prijajo do tiste jeze ne, res lotje vam je tak šeč ta parkirni plat, pa jaz vam vse dam, v kompletu vam tam vse in diagnozo in šesturniki nadomestila pa še to kartico, če bi res takrat imeli leta izvoltev z se je odstotil, da ga mu ne zavrila, pa mi je bilo, da bi mu ne odstopila, nekaj moraš, da ne bi mu le veliko odstupil."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2290.171,
+        "end": 2290.188,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2290.492,
+        "end": 2290.593,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2290.593,
+        "end": 2290.762,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2290.762,
+        "end": 2291.369,
+        "text": "Takrat, kot bi bilo, je bilo še vložen."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2291.369,
+        "end": 2292.044,
+        "text": "Ti problema."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2297.984,
+        "end": 2301.072,
+        "text": "Ob bistvu sem bila, pa sem ni zaparkiral."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2301.663,
+        "end": 2305.865,
+        "text": "In potem, če še kaj rečeš, jih skor pašeš lahko tudi ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2306.489,
+        "end": 2313.188,
+        "text": "Kaj se pa vsajaš, ne pa čeprav vidijo, da si nabergla, da se ne vem s pohodnimi palcami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2313.83,
+        "end": 2318.842,
+        "text": "Ne vem, se mi zdi, da te ljudje, ki to delajo, da so v glavi mal omejen in no samo..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2319.382,
+        "end": 2325.136,
+        "text": "Zato žal ne dobiš kartice parkirne, ne? Zato omejenost v glavi ne."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2330.519,
+        "end": 2334.063,
+        "text": "Tevz bi predvsem rekla, bodimo s trpni dosebe."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2334.721,
+        "end": 2336.83,
+        "text": "Pa je mej mosterate, pa bo šlo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2342.618,
+        "end": 2342.669,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2342.669,
+        "end": 2342.686,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2342.686,
+        "end": 2342.821,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2342.821,
+        "end": 2342.973,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2342.973,
+        "end": 2343.007,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2343.007,
+        "end": 2343.074,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2343.58,
+        "end": 2343.614,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2343.614,
+        "end": 2352.389,
+        "text": "Kljub bolezni, ki nam spremlja v življenju je lahko vsak dan nekaj posebnega le zavedati, se moramo tega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2358.464,
+        "end": 2370.462,
+        "text": "Mem se zdi, da ne glede na to ali je bolezen pulprivsodna ali pač ni, še zmeraj moramo družbe upoštevati v največji meri kar se da."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2374.613,
+        "end": 2377.027,
+        "text": "A, jaz bi pa samo rekla kar pedijem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2377.634,
+        "end": 2384.688,
+        "text": "Vzemi vsak dan tisto, kar ti življenje nudi, zgrabi z obema rokama in užive res samo to."
+      }
+    ],
+    "runtime_sec": 272.6001012325287
+  }
+}

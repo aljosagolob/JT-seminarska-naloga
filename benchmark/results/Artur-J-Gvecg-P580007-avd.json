@@ -1,0 +1,1384 @@
+{
+  "file_id": "Artur-J-Gvecg-P580007-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P580007-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.06826421068408417,
+      "miss": 0.05511050672595117,
+      "fa": 0.0,
+      "confusion": 0.013153703958132992,
+      "total_duration": 1281.007999999992
+    },
+    "der_collar0.25": {
+      "der": 0.05212959846997922,
+      "miss": 0.03897433419852096,
+      "fa": 0.0,
+      "confusion": 0.013155264271458253,
+      "total_duration": 1200.507999999992
+    },
+    "wer": {
+      "wer": 0.12170385395537525,
+      "ref_words": 2958,
+      "hyp_words": 2900
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.031,
+        "end": 2.495,
+        "text": "Lepo pozdravljeni v današnjem radijskem srečanju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2.696,
+        "end": 6.081,
+        "text": "Danes bomo šli na roglo, pa v zreče nič nam ne bo manjkalo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 6.542,
+        "end": 10.549,
+        "text": "Z nami je izvršna direktorica Unitorija zreče, gospa Barbara Soršak."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 10.609,
+        "end": 11.15,
+        "text": "Lep pozdrav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 11.611,
+        "end": 13.354,
+        "text": "Prijazen pozdrav tudi z moje strani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 13.733,
+        "end": 18.537,
+        "text": "Gospa Barbara, vi ste v turizmu pravzaprav že vse od začetka svoje poslovne poti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 19.077,
+        "end": 29.786,
+        "text": "Le kratko postajo ste imeli v takratni kovinotehni celje, na to pa ste se že k malu zaposlili v takratnem unijorju oziroma unitorju danes v Zrečah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 30.247,
+        "end": 36.572,
+        "text": "Tu delujete že dobri dvedesetletji, najprej v prodaji, že kar nekaj let sedaj pa kot izvršna direktorica."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 36.852,
+        "end": 52.02,
+        "text": "Turizem v željah nekako tako, turizem pomeni tudi moj stil življenja, gre pa predvsem zato, da je z turizmom povezana praktično celotna moja poslovna pot in da v bistvu to kar počnem, počnem z veseljem, tudi živim na ta način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 52.36,
+        "end": 64.913,
+        "text": "In dejansko cenim in spoštujem ekipo celotnega podjetja Unitur, tako sodelavke in sodelavce na rogli, kot tudi v termah zreče, saj sodel mojega vsakdana in sodel tistega, kar mi bogati življenje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 65.073,
+        "end": 71.64,
+        "text": "In seveda na poslovni poti je usmerjena njihova moč skupaj z mojo tudi v poslovni uspeh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 72.003,
+        "end": 76.025,
+        "text": "Lahko rečemo, da so zreče pohorje Rogla pravzaprav vaš drugi dom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 76.306,
+        "end": 77.386,
+        "text": "Že iz mladosti, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 77.926,
+        "end": 89.873,
+        "text": "Res je, praktično sem svojo mladost preživela v slovenskih konicah, vikende in počitnice, večinoma na pohorju nad vasico Skomarje v neposrednji bližini Smučarskega centra Rogla."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 90.354,
+        "end": 91.755,
+        "text": "Bili ste Smučarska učiteljica?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 92.455,
+        "end": 112.175,
+        "text": "Tako kot se nekako v mladosti vsak usmeril v določen šport, sem tudi jaz ob dejstvu, da smo imeli vikend v neposrednji bližini Rogle, začela zelo hitro smučati, uživala v čudoviti naravi, v športnih aktivnostih napredovala in seveda takrat naredila tudi izpit za smučarskega učitelja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 112.435,
+        "end": 116.596,
+        "text": "In dejansko, tukaj v okolici Rogle zreč ste tudi ostali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 116.616,
+        "end": 123.277,
+        "text": "V ločah danes živite z družino, niso vas pritegnila velika mesta, tudi po študiju v Ljubljani ste se vrnili nazaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 123.757,
+        "end": 140.421,
+        "text": "Zelo rada potujem, zelo lepo mi je spoznavat nove kraje, tudi velika evropska in ostala mesta, a vedno znova se rada vračam tja, kjer je družina, kjer je doma srce in dejansko sem nekako razpeta med srečami, slovenskimi konicami in ločami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 140.701,
+        "end": 143.144,
+        "text": "ker smo si z družino ustvarili tudi svoj dom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 143.604,
+        "end": 148.07,
+        "text": "Barbara Soršak, izvršna direktorica Unitorja Zreče, je danes z nami svakmalo nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 150.725,
+        "end": 154.329,
+        "text": "Barbara Soršak, izvršna direktorica Unitoria Zreče, je danes z nami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 154.649,
+        "end": 165.62,
+        "text": "Gospod Barbara, minulji vikend je bil na Rogli Pester in sicer ste gostili eno največjih tekmovanj, za vas pravzaprav največje tekmovanje v sezoni Svetovni pokal v Deskanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.981,
+        "end": 171.907,
+        "text": "Tako je, sedmič zapored se je na Rogli odvijal Svetovni pokal v Deskanju, dogodek, ki je"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 172.207,
+        "end": 179.87,
+        "text": "V naših krajih gosti 29 vrhunskih športnih ekip in reprezentanc in okoli 170 tekmovalcev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 180.23,
+        "end": 190.013,
+        "text": "Na ta način se tako ugled Rogle, kot tudi celotna destinacija Rogla Pohorje in seveda tudi Slovenije, krepi tako na domačem trgu, kot seveda tudi v Tuini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 190.113,
+        "end": 199.517,
+        "text": "In prav veseli in ponosni smo na to, da nam je letos na vkljub tegobam vremena uspelo, da je ta svetovni pokalj izpadel vrhunsko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 199.797,
+        "end": 205.941,
+        "text": "da so bile ocene tekmovalcev zelo dobre in prav veselimo se svetovnega pokala v naslednji sezoni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 206.221,
+        "end": 213.345,
+        "text": "Če je bila lani rekordna sezona, je pa letos kar nekaj težav s snegom, pa vendar le ste v preteklem tednu uspeli zagnati vse proge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 213.625,
+        "end": 225.492,
+        "text": "Turizem je predvsej drugačna panoga, zelo lepo je biti zaposlen v turizmu, a dejansko vedno znova so pred nami novi izzivi, ki so v večinoma, v veliki meri, če tudi si nekaj"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 225.532,
+        "end": 241.886,
+        "text": "Zelo aktiven in razvojno naravnan svojo ekipo, vezani tudi na vremenske pogoje in letošnja zima je ena izmed bolj muhastih zim, zato smo z ekipo uložili ogromno dela in truda predvsem v zagotovitev ugodnih vremenskih pogojev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 242.086,
+        "end": 264.452,
+        "text": "za smuko narogli, dejansko naravnega snega skoraj da ni bilo, tako da so večinoma smučarske proge narogli pokrite z tehničnim snegom in še toliko bolj smo veseli zaradi tega, ker je v bistvu večina smučarskih prog narogli v obratovanju, sama smuka na vkljub vremenu zelo ugodna, zato vabimo vse poslušalke in poslušalce, da si"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 264.732,
+        "end": 274.623,
+        "text": "V teh dneh oziroma tudi v prihajajočih mesecih vzamejo nekoliko časa in spoznajo oziroma tudi občutijo, kaj rogla nudi v tem letnem času."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 274.883,
+        "end": 280.289,
+        "text": "Tako pa ne samo v tem letnem času, rogla in zreče ponujata doživetja skozi vse leto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 280.409,
+        "end": 299.075,
+        "text": "V samem podjetju se v strategiji zelo veliko ukvarjamo z razvojem novih produktov, ki omogočajo predvsem narogli 365 dni turizma, medtem ko v termah zreče tako izrazite sezonsko stini, zato ta razvoj produktov nekako bolj krepimo v smeri"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 299.495,
+        "end": 312.605,
+        "text": "doživljajske ponudbe na rogli in dodajamo nekako razloge, zakaj je na roglo praktično tudi po zimski sezoni, zakaj je rogla tako blagodajna v času poletja in kaj je posebno stroge tudi v jesenskem času."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 313.065,
+        "end": 321.752,
+        "text": "Glede na omejena sredstva v podjetju, smo v preteklih nekaj letih bogati infrastrukturi dodali kar nekaj doživljajskih"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 321.972,
+        "end": 334.663,
+        "text": "novih poti, med katere zagotovo lahko štejemo Škratovo učno pot, Jezernikov vodni park, Pohorsko vasico v neposrednji bližini Unijorčka in pa tudi energijski park Natura ščutno potjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 334.964,
+        "end": 338.467,
+        "text": "Pika na I je pa seveda bila partnerska investicija,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 338.847,
+        "end": 354.837,
+        "text": "po ti med krošnjami, ki pa je do dobra roglo po ogledu dvignela in v bistvu se je na ta način pojavo še razlog več, zakaj na roglo po zimskem času, tako po mladi in po leti lahko na rogli naredimo res nepozaben dan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 355.558,
+        "end": 365.064,
+        "text": "O različnih možnostih, priložnostih, ki jih ponuja dopust na rogli oziroma v zrečah, v nadaljevanju z Barbaro Soršak, izvršno direktorico Unitorja zreče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 365.284,
+        "end": 366.945,
+        "text": "Zdaj pa kratek glasbeni predah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 368.699,
+        "end": 372.381,
+        "text": "Barbara Soršak, izvršna direktorica Unitorja zreče, je danes z nami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 372.401,
+        "end": 379.666,
+        "text": "Gospa Barbara, kot sva prej že omenili, rogla in zreče ponujata dejansko turizem oziroma doživetja skozi vse leto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 379.966,
+        "end": 391.473,
+        "text": "Pravzaprav je nekakšen unikum, ko smučamo na Sredogorskem smučišču, popodne zvečer pa se lahko sproščamo v termalnem kopališču, zdravilišču zreče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 391.953,
+        "end": 399.697,
+        "text": "Res je, gre za edinstveno kombinacijo dveh turističnih centrov, tako v času zime, kot tudi v času poletja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 400.178,
+        "end": 421.19,
+        "text": "Po zimi imamo kar nekaj gostov v termah zreče, ki v bistvu v jutranjem času smučajo na rogli, uživajo v snežnih radostih, potem se pa po zaključku smučanja odpeljejo v zreče in uživajo v termalnih vrelcih, se sproščajo v bogati ponudbi savna vsi in pa tudi velne sa idila, ki nudi v svojih štirih svetovih"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 421.45,
+        "end": 441.1,
+        "text": "predvsem drugačno sproščanje in odmik od vsak dana med tem, ko tudi gost je zrogle, tako v čas obivanja, glede na to, da imamo organizirane brezplačne prevoze, pogosto za popestritev svojih počitnic koristijo termalne bazene in ostalo veljne sponudbo v termah zreče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 441.7,
+        "end": 463.178,
+        "text": "Če pa pogledamo tudi samo poletje, zavedamo se dejstva, da so aktivnosti na prostem oziroma tako imenovane outdoor aktivnosti današnji trend, da po napornih dnevih v službi vsi potrebujemo odmik od vsak dana, da ta odmik ni dovolj samo, da počivamo, ampak je zelo pomembno, da smo tudi športno aktivni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 463.338,
+        "end": 467.822,
+        "text": "Zato Rogla in Zreče ponujata veliko aktivnosti na svežem vzraku,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 468.262,
+        "end": 479.792,
+        "text": "pohodništvo, kolesarjenje, tudi posebno doživeti ob obisku poti med krošnami in enega izmed doživljajskih parkov, ki so še posebej zanimivi za naše najmlajše obiskovalce."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 480.112,
+        "end": 481.493,
+        "text": "Sodelujete tudi s šolami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 481.913,
+        "end": 486.878,
+        "text": "V preteklem tednu ste vsem četrto šolcem ponudili tudi brezplačen dan na smučeh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 487.318,
+        "end": 491.742,
+        "text": "Vsako zimsko sezono v določenem dnevu ponujamo v sklopu projekta"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 492.022,
+        "end": 495.527,
+        "text": "brezplačno smuko določenih generacij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 496.007,
+        "end": 506.982,
+        "text": "Zelo prijetno in toplo nam je, ker na ta način lahko polepšamo dan oziroma tudi naredimo lepe spomine marsikomu, ki si sicer smučanja na rogi ne bi mogel privoščiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 507.142,
+        "end": 528.749,
+        "text": "Predvsem na Roglji je osnovna celna skupina družina, ki je veza na bolj na aktiven in zdrav življenski slog, zato ravno v tej smeri razvijamo celoten centr in s ponudbo se prilagajamo tako sodobnim trendom, pričakovanjem sodobnih turistov, naših gostov, da se z veseljem v tak centr tudi vračajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 529.309,
+        "end": 535.411,
+        "text": "Ne smemo pa mimo dejstva, da predvsem v času poletja, da je blagodajna klima na Roglji,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 535.711,
+        "end": 537.733,
+        "text": "da je svež gorski zrak."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 538.054,
+        "end": 540.396,
+        "text": "Koliko stopin je nižja temperatura običajno?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 556.214,
+        "end": 567.12,
+        "text": "Ob tem pa je otrok tudi aktiven na svežem zraku, zagotovo narediš nekaj najboljšega za svoje najmlajše člane v družini in seveda tudi za odnose znotraj družine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 567.421,
+        "end": 572.504,
+        "text": "Evo, namik za lepo preživeti, aktivno preživeti dan v kateremkoli letnem času."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 572.664,
+        "end": 573.104,
+        "text": "Sva nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 575.519,
+        "end": 580.463,
+        "text": "Gospa Barbara Soršak, že nekajkrat sva omenili pot med krošnjami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 580.483,
+        "end": 584.526,
+        "text": "Pravzaprav uspešnico letošnje sezone odprli ste jo v septembra lani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 584.706,
+        "end": 586.067,
+        "text": "Zakaj je tako posebna?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 586.147,
+        "end": 586.808,
+        "text": "Kaj prinaša?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 586.888,
+        "end": 587.908,
+        "text": "Kakšni so razgledi?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 588.269,
+        "end": 592.572,
+        "text": "V podjetju Unitur se zelo dobro povezujemo tudi z lokalno skupnostjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 593.032,
+        "end": 599.097,
+        "text": "Zavedamo se dejstva, da turizem ne pozname, da moramo med sebojno dobro sodelovati se v svojih"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 599.397,
+        "end": 603.461,
+        "text": "znanih izkušnjah in zmožnostih tudi dopolnevati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 603.961,
+        "end": 608.265,
+        "text": "Zato smo še toliko bolj veseli, da smo narogli bogatejši za pot med krošnjami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 608.726,
+        "end": 618.876,
+        "text": "Gre za projekt, kjer je na zemlišču občine Zreče s pomočjo tujega investicijskega partnerja pot med krošnjami v mesecu v septembru nastala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 619.664,
+        "end": 628.052,
+        "text": "Zelen, aktiven projekt, povezan na tako trajnosten razvoj in promocijo, kot tudi na spoznavanje bistva narave."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 628.612,
+        "end": 645.348,
+        "text": "Predvsem v času dne sezone in v času poletja smo potrebovali nekaj več, neko edinstvenost, neko drugačnost in zagotovo je pot med krošnjami edinstven projekt v Sloveniji in tudi širše in kot tak projekt v naše kraje vabi ne samo naroglo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 645.668,
+        "end": 656.132,
+        "text": "ampak tudi v celotna destinacija Roglo Pohorje, marsi katerega gosta, obiskovalca, ki si najverjetneje naše destinacije niti ne bi izbral za počitnice ali enotnevni izlet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 656.672,
+        "end": 659.173,
+        "text": "Poveva pa, da je včasih potrebno kar malce počakati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 659.593,
+        "end": 662.054,
+        "text": "Zato, kateri dan bi svetovali mortal tedno?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 662.594,
+        "end": 668.096,
+        "text": "Pot med krošnami je predvsem zaradi same novosti v Sloveniji zelo dobro obiskana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 668.596,
+        "end": 686.003,
+        "text": "Ob vikendih, kadar so lepi vikendi, je potrebno tudi nekoliko počakati, morda si tudi ozet nekoliko več časa, se malo staviti, v tem vrve že vsak dana, zato nekako, če že se nam ne izida drugače, tudi vikend je lahko lep, s tem, da se moraš pripraviti na to,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 686.303,
+        "end": 697.059,
+        "text": "da bo najverjetneje tudi nekoliko več gneče, drugače je pa obisk po ti med krošnjami edinstvena ali pa drugačna ideja za nepozaben dan predvsem med tednom od ponedelka do petka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 697.359,
+        "end": 698.781,
+        "text": "Tako da dobrodošli kadarkoli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 699.142,
+        "end": 701.005,
+        "text": "Tako, dobrodošli seveda kadarkoli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 701.305,
+        "end": 715.392,
+        "text": "Že nekaj časa občine, zreče, slovenske konjice, vitanje in uplotnica delujete v okviru destinacije Rogla Pohorje, ki šteje že četrto leto povezovanja, nastopanja na trgu in skupnih odločitev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 715.752,
+        "end": 719.994,
+        "text": "Lani je ta destinacija postala tudi ena izmed 35 vodilnih destinacij v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 721.555,
+        "end": 727.818,
+        "text": "Ponuje več, kot bi lahko ponudile posamezne destinacije, posamezni kraji, vsak za se."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 728.238,
+        "end": 731.32,
+        "text": "Kaj ponujete, kaj prinaša vsak kraj v to destinacijo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 731.78,
+        "end": 735.222,
+        "text": "V destinaciji Rogla Pohorje so vključene štiri občine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 735.602,
+        "end": 740.665,
+        "text": "Gre za občine Slovenska konica, Zreče, Oplotnica in Vitanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 741.065,
+        "end": 750.19,
+        "text": "Kot vodilni turistični ponudnik v destinaciji sodeluje seveda tudi podjetje Unitor in toliko bolj razveseljujoče za nas je predvsem dejstvo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 750.53,
+        "end": 778.249,
+        "text": "da se na ta način razvija turistična ponudba tudi v ostalih občinah, da na ta način turist oziroma gost spoznava lepote in kulturno dediščino vseh štirih občin, promoviramo tudi edinstvenost naše destinacije in da na ta način pozitivno vpliv razvoja turizma, predvsem v občini izreče, kar se namestitvenih kapacitet tiče, prenašamo tudi na ostale občine in omogočamo razvoj"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 778.829,
+        "end": 794.62,
+        "text": "kot tudi delovanje marsi kateremu manjšemu turističnemu ponudniku ali proizvajalcu določenih lokalnih produktov, na lažji način razvija tudi danes oziroma tudi v prihodnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 794.72,
+        "end": 799.523,
+        "text": "Tudi projekt v Kusi Rogle so ena izmed teh uspešnih skupnih zgodb,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 799.703,
+        "end": 817.878,
+        "text": "V tem projektu Okusi rogle pa razvijamo predvsem lokalno kulinariko, razvijamo določene lokalne izdelke, ki so specifični za destinacijo rogle pohorje in seveda našim gostom omogočamo tudi drugačno, autentično doživetje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 817.958,
+        "end": 822.282,
+        "text": "Barbara Soršek je danes naša gostja, izvršna direktorica Unitorja zreče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 822.622,
+        "end": 823.623,
+        "text": "Po melodiji sva nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 826.72,
+        "end": 830.963,
+        "text": "Barbara Soršek je danes naša gostja, izvršna direktorica Unitorja Zreče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 831.364,
+        "end": 835.547,
+        "text": "Malce se zdaj še vrnimo na samo smučišče, smo sredi zimske sezone."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 835.907,
+        "end": 841.052,
+        "text": "Smučišče na Rogli se lahko pohvali številnimi naslovi, številnimi nagradami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 841.452,
+        "end": 847.177,
+        "text": "Prislužili ste si naslovo Trusted Brand, znamke vredne zaupanja v kategoriji smučišč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 847.197,
+        "end": 852.461,
+        "text": "V okviru akcije Naj smučišče pa ste lani prejeli tudi nagrado za najboljši smučarski park."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 853.001,
+        "end": 855.704,
+        "text": "Torej, smučišče Vabi, kaj ga odlikuje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 856.184,
+        "end": 867.712,
+        "text": "Zagotovo ga odlikuje drugačno stres je, da slovenska smočišča nimamo toliko kilometrov prostranih prog, skolikor se pač lahko pohvalijo nam primerljiva smočišča v tujini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 868.292,
+        "end": 875.978,
+        "text": "Gre predvsem za to, da je ponudba samih namestitvenih kapacitet na rogli v neposredni bližini smočišča."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 876.198,
+        "end": 895.124,
+        "text": "da je celotna infrastruktura, tako gostinska ponudba kot tudi vsi športni objekti v sami neposredni bližini in da je to zagotovo eden izmed edinstvenih razlogov, zakaj se naši gostje predvsem v času zime zelo radi izberejo roglo kot destinacijo za smučarske počitnice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 895.564,
+        "end": 902.166,
+        "text": "Ob tem dejstvu ne smemo mimo tega, da je rogla družinsko smučišče, da so proge posebej prilagojene,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 902.506,
+        "end": 903.227,
+        "text": "družinam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 903.407,
+        "end": 912.856,
+        "text": "Imamo seveda tudi določena smučišča, ki so aktualna za tiste smučarske navdušence, ki iščejo bolj strme proge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 913.296,
+        "end": 921.785,
+        "text": "Ne glede na to, jih je le teh strmejših prog nekoliko manj, kot je to običajno v teh smučarskih centrih v Tujini ali v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 922.165,
+        "end": 950.277,
+        "text": "Zato je še toliko bolj pomembno, da je šola smučanja res dobro organizirana, razvita in da v bistvu kot družina, ko si izbereš roglo kot destinacijo, si jo ne zbereš zgolj in samo za to, da smučaš, ampak da poskrbiš za to, da se otrok nauči kvalitetno smučati, da ob tem, da si na svežem gorskem zraku uživaš tudi v kulinaričnih dobrotah, ki so v zunanih gostinskih objektih posebej prilagojena po sameznim ciljnim skupinam,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 950.617,
+        "end": 966.707,
+        "text": "To pomeni, da tam, kjer smučajo otroci, je ponudba nekoliko bolj prilagojena otrokom, tam, kjer smučajo drugačne, drugačna ciljna skupina, se je ponudba gostinska drugače prilagaja in da je obisk gostinskih objektov res eno posebno doživetje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 967.207,
+        "end": 976.653,
+        "text": "Po sami smuki pa tako, kot sem dejala že prej, edinstvena kombinacija s termalnim zdraviliščem, pestra ponudba tudi veljne spovršine na sami rogli"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 977.093,
+        "end": 992.912,
+        "text": "In pa seveda pot med krošnami in tista animacija, ki v času celotne zimske sezone gre za otroško animacijo v hoteli, zagotovo poskrbi za to, da se ima družina oziroma tudi otrok na počitnicah na rogi posebej lepo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 993.512,
+        "end": 997.537,
+        "text": "Toliko v tem delu, malce glasbe si bomo privoščili, pa sva z našo gostjo nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1000.313,
+        "end": 1004.974,
+        "text": "Barbara Soršek je danes naša gostja izvršna direktorica Unitorija Zreče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1005.474,
+        "end": 1013.716,
+        "text": "Gospa Barbara, Rogla je edinstvena destinacija z edinstvenimi naravnimi danostmi in takšno želite tudi ohraniti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1014.296,
+        "end": 1022.558,
+        "text": "Zato v Zrečah, tako v občini kot v Unitorju nasprotujete načrtom, ki predvidevajo izgradnjo vetrnih elektrarn na Rogli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1023.098,
+        "end": 1030.1,
+        "text": "V podjetju Unitor smo hvaležni za vso dediščino, ki so nam je nekako v upravljanje predali naši predniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1030.3,
+        "end": 1044.21,
+        "text": "Zato se počutimo še toliko bolj odgovorni, da v bistvu ohranjamo tako naravne lepote na Rogli in seveda tudi v termah zreče v čim boljši kondiciji, da narave bistveno ne spreminjamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1044.73,
+        "end": 1054.897,
+        "text": "To je tudi na nek način znak trajnostnega ravnanja znotraj samega podjetja Unitur v dveh hotelih, to je v hotelu Natura na Rogli in v hotelu Arti v termah zreče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1055.157,
+        "end": 1069.105,
+        "text": "Imamo tudi certifikat Eko Marjetice in med samimi ocenami gostov, ki pogosto kažejo na osnovne razloge, zakaj izbirajo predvsem roglo, se pogosto pojavljajo naravne lepote."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1069.645,
+        "end": 1080.532,
+        "text": "Lepa narava, stik za naravo, ki ga marsikdo predvsem v evropskih državah žal ne more doživeti več na tak način, kakor ga lahko doživimo mi v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1080.892,
+        "end": 1085.816,
+        "text": "Zato želimo te naravne lepote ohranjati takšne, kot so tudi danes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1086.417,
+        "end": 1102.17,
+        "text": "Podpiramo sicer možnost pridobivanja energije s pomočjo alternativnih verov, ampak smo mnenja, da na območjih, ki imajo potencial razvoja turizma, kot tudi že turizem razvit, da tja vetrne elektrarne ne sodijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1102.49,
+        "end": 1109.096,
+        "text": "In ta projekt v neposrednji bližini Rogle gre predvsem za manj kot kilometr oddaljenosti,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1109.596,
+        "end": 1114.617,
+        "text": "predvideva kar nekaj vetrnih elektrarn, čemor v podjetju Unitur."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1114.637,
+        "end": 1115.878,
+        "text": "15 bi se jih naj zgradilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1115.958,
+        "end": 1122.9,
+        "text": "Tako je, oziroma celo nekoliko več tudi s pomočjo ostalih projektov, ki so za območje pohorja aktualni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1123.32,
+        "end": 1132.222,
+        "text": "Zato v podjetju Unitur nasprotujemo izgradnje teh vetrnih elektrarn na našem območju in temu nasprotovanju se pridružuje tudi občina Zreče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1132.482,
+        "end": 1136.644,
+        "text": "Barbara Soršek je danes naša gostja, izvršna direktorica Uniturja Zreče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1136.984,
+        "end": 1137.984,
+        "text": "Po melodiji sva nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1140.7,
+        "end": 1148.428,
+        "text": "Gospa Barbara, skoraj da celotno poslovno pot delujete na področju turizma, ali ga vnašate tudi v zasebno življenje, na kakšen način?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1148.829,
+        "end": 1155.115,
+        "text": "Zelo veliko krat seveda se ta moja poslovna pot odraža tudi na družini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1155.596,
+        "end": 1160.381,
+        "text": "To, kar počnem v službi, to je nekako moj stil življenja tudi v prostem času."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1160.761,
+        "end": 1186.68,
+        "text": "Res, da vedno ne vtegnemo, si kot družina vzeti toliko časa, da bi dejansko se odmaknili od svojega doma in uživali v lepotah tako Slovenije, kot tudi širše, a poskrbimo za to, da praktično skoraj vsaki dan smo aktivni, po zimi zelo radi smučamo, večinoma na Roglji, zato, ker cenimo in spoštujemo to, da je Rogla praktično le streljaj stran od našega doma"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1187.12,
+        "end": 1191.703,
+        "text": "In da na ta način lahko v teh zimskih radostih uživa celotna družina."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1192.283,
+        "end": 1198.767,
+        "text": "Če prav, če bi me pa nekdo vprašal, kdaj je rogla še lepša, bi pa dejala, da je rogla nepozabna predvsem v času poletja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1199.308,
+        "end": 1203.971,
+        "text": "V času poletja si pogosto vzamemo čas ob sobotah zjutri oziroma tudi v nedeljo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1204.511,
+        "end": 1207.033,
+        "text": "Ob šestih zjutri se odpravimo na roglo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1207.353,
+        "end": 1212.537,
+        "text": "odidemo proti Lourenškim jezerom in v bistvu jutro pričakamo na Lourenških jezerih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1212.617,
+        "end": 1214.798,
+        "text": "To je res nekaj posebnega in edinstvenega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1215.479,
+        "end": 1224.805,
+        "text": "In tudi celotna družina je usmerjena bolj v aktivno preživljanje svojega prostega časa in na užitke v neposrednji bližini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1225.126,
+        "end": 1233.892,
+        "text": "Zato pogosto obiskujemo tako roglo, medtem ko sama osebno, glede na to, da je tudi sprostitev zelo pomembna, se trudim"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1234.032,
+        "end": 1248.675,
+        "text": "predvsem v danjih okvirih zmožnosti, da koristim tudi določene veljne storitve, tako savne kot tudi masaže oziroma beauty programe, ki jih razvijamo z ekipa sodelavcev v obih naših centrih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1248.935,
+        "end": 1251.715,
+        "text": "No malce razvajanje nam pa ženskem še posebej paše, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1252.175,
+        "end": 1253.376,
+        "text": "Še sploh v teh letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1253.976,
+        "end": 1260.377,
+        "text": "Da pa seveda je v bistvu tudi celotna družina zadovoljna, so pa zagotovo veliko razlogi,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1260.577,
+        "end": 1270.325,
+        "text": "Za obisk rogla in term zreče tudi kulinarične dobrote, ki jih razvijajo naši kuharski mojstri in se vedno znova vračamo zelo radi v naše objekte."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1270.545,
+        "end": 1271.946,
+        "text": "Tako, da je za vsebo skrpljeno?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1272.266,
+        "end": 1273.007,
+        "text": "Prav zagotovo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1273.067,
+        "end": 1275.229,
+        "text": "Rogla in terme zreče so res edinstvene."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1275.629,
+        "end": 1277.991,
+        "text": "Sva Barbara Soršak, hvala za obisko studiju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1278.232,
+        "end": 1286.62,
+        "text": "Še naprej vam želimo uspešno karmarjanje med tradicijo in prihodnostjo na zelenem pohorju, na zeleni rogli in zrečah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1286.7,
+        "end": 1290.103,
+        "text": "Hvala tudi vam za povabilo in dobrodošli pri nas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1290.464,
+        "end": 1293.847,
+        "text": "Z veseljem bomo prišli, tako kot zagotovo tudi naši poslušalci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1293.867,
+        "end": 1294.227,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1294.407,
+        "end": 1294.848,
+        "text": "Hvala lepa."
+      }
+    ],
+    "runtime_sec": 572.7801282405853
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.023560352472427062,
+      "miss": 0.0049679627293501855,
+      "fa": 0.001774383922660757,
+      "confusion": 0.01681800582041612,
+      "total_duration": 1281.007999999992
+    },
+    "der_collar0.25": {
+      "der": 0.019303494853844604,
+      "miss": 0.0028129758402274667,
+      "fa": 0.0015051961336365945,
+      "confusion": 0.014985322879980542,
+      "total_duration": 1200.507999999992
+    },
+    "wer": {
+      "wer": 0.1852603110209601,
+      "ref_words": 2958,
+      "hyp_words": 2836
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.031,
+        "end": 11.185,
+        "text": "Lepo pozdravljeni v današnjem radijskem srečanju, danes bomo šli na Roglo pa o zreče nič nam ne bo manjkalo, z nami je izvršna direktorica Unitorija Zreček, gospa Barbara Soršak, lepo zdrav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 11.573,
+        "end": 13.733,
+        "text": "Prijazen pozdrav tudi z moje strani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 13.733,
+        "end": 38.033,
+        "text": "Gospa Barbara, viste v turizmu pravzaprav že vse od začetka svoje poslovne poti, le kratko postajo ste imeli v takratni kovinotehnji Celje, nato pa ste se že kmalu zaposlili v takrtnem unijorju oziroma unitorju danes v zrečah, tu delujete že dobri dve desetletji, naj preprodaji, že kar nekaj let, sedaj pa kot izvršna direktorica Turizem v Žilah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 38.033,
+        "end": 71.8,
+        "text": "Nekako tako, turizem pomeni tudi moj stil življenja, gre pa predvsem zato, da je s turizmom povezana praktično celotna moja poslovna pot in da v bistvu to kar počnem, počnam z veseljem, tudi živim na ta način in dejansko cenim in spoštujem ekipo celotnega podjetja Unitur, tako sodelavke in sodelovce narogli kot tudi v Termah zreče, saj so del mojega vsakdana in so del tistega kar mi bogati življenje. In seveda na poslovni poti je usmerjena njihova moč skupaj z mojo tudi po poslovnem uspehu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 71.986,
+        "end": 77.032,
+        "text": "Lahko rečemo, da so zreče pohorje Rogla pravzaprav vaš drugi dom že iz mladosti?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 77.032,
+        "end": 91.949,
+        "text": "Rez je praktično s svojo mladost preživela v slovenskih konicah, vikende in počitnice večinoma na Pohorju nad vasico Skomarje v neposredni bližini smučarskega centra Rogla.Bili ste smušarska učiteljica?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 92.573,
+        "end": 112.334,
+        "text": "Ja, tako kot se je nekako v mladosti vsak usmeril v določen šport, sem tudi jaz ob dejstvu, da smo imeli vikend v neposredni bližini Rogle, začela zelo hitro smučat, uživala v čudoviti naravi, v športnih aktivnostih napredovala in seveda takrat naredila tudi izpit za smućarskega učitelja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 112.452,
+        "end": 123.303,
+        "text": "In dejansko, tukaj v okolici Rogle Zreč ste tudi ostali, v ločah danes živite z družino niso vas pritegnila velika mesta tudi po študiju v Ljubljani ste se vrnili nazaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 123.303,
+        "end": 143.165,
+        "text": "Zelo rada potujem, zelo lepo mi je spoznavat nove kraje tudi velika evropska in ostala mesta, a vedno znova se rada vračam tja, kjer je družina, kjere je doma srce, in dejansko sem nekako razpeta med zrečami, slovenskimi konicami in ločami ter smo si z družino ustvarili tudi svoj dom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 143.165,
+        "end": 143.924,
+        "text": "Berber."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 143.924,
+        "end": 143.975,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 143.975,
+        "end": 148.177,
+        "text": "Soršak izvršna direktorica Unitorja zreče je danes z nami svakmalo nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 150.758,
+        "end": 165.693,
+        "text": "Barbara Sorša, ki je zvršna direktorica unitorja Zreče, je danes z nami, gospobarbra Minuli Vikant je bil na Rogli pester in sicer ste gostili eno največjih tekmovanj za vas pravzaprav najveše tekmovinje v sezoni svetovni pokalu daskanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.693,
+        "end": 165.895,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 165.895,
+        "end": 166.03,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 166.03,
+        "end": 206.125,
+        "text": "Tako je Setmič zapored, se na Rogli odvija v svetovni pokal v deskanju dogodek, ki v naših krajih gosti devetindvajset vrhunskih športnih ekip in reprezentanc in okoli sto sedemdeset tekmovalcev.Na ta način se tako ogled Rogle kot tudi celotne destinacije Rogla Pohorje in seveda tudi Slovenije krepi tako na domačem trgu, kot seveda, tudi v tujini in prav veseli in ponosni smo nato, da nam je letos navkljub tegovom vremena uspelo, da je ta svetovni pokal izpadel vrhunsko, da so bile ocene tekmovalcev zelo dobre in prav veselimo se svetovnega pokala v naslednji sezoni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 206.159,
+        "end": 213.466,
+        "text": "Če je bila lani rekordna sezona, je pa letos kar nekaj težav s snegom, pa vendarle ste v preteklem tednu uspeli zagnati vse proge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 213.55,
+        "end": 274.823,
+        "text": "Turizem je precej drugačna panoga, zelo lepo je biti zaposlen v turizmu, a dejansko vedno znova so pred nami novi izzivi, ki so večinoma v veliki meriče tudi si zelo aktiven in razvojno naravnan svojo ekipo vezani tudi na vremenske pogoje in letošnja zima je ena izmed bolj muhastih zim, zato smo z ekipo vložili ogromno dela in truda predvsem v zagotovitev ugodnih vremenskih pogojov za smuko narogli dejansko naravnega snega skorajda ni bilo, tako da so večinoma smučarske proge narogli pokrite z tehničnim snegom in še toliko bolj smo veseli zaradi tega, ker je obistvo večina smušarskih prog naroglji v obratovanju, sama smuka ne v klub vremenu, zelo ugodna, zato vabimo vse poslušavke in posluševce, da si v teh dneh oziroma tudi v prihajajočih mesecih vzame nekoliko časa in spoznajo ozirmam tudi občutijo, kaj Rogla nudi v tem letnem času."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 274.823,
+        "end": 280.274,
+        "text": "Tako pa ne samo v tem letnem času, rogla in zreče ponujata doživetja skozi vse let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 280.443,
+        "end": 354.845,
+        "text": "V samem podjetju se v strategiji zelo veliko ukvarjamo z razvojem novih produktov, ki omogočajo predvsem narogli tristo petinšestdeset dni turizma, medtem ko v termah zreče tako izrazite sezonskosti ni, zato ta razvoj produktova nekako bolj krepimo v smeri doživljanske ponudbe na Rogli in dodajamo nekakorazloge, zakaj je naroglo praktično tudi pozimski sezoni zakaj rogla tako blagodejna v času poletja in kaj je posebno stroge tudi v jesenskem času.Glede navmejena sredstva bo podjetjo smo v preteklih nekaj letih bogati infrastrukturi dodali kar nekaji doživljajskih novih poti, med katere zagotovo lahko štejemo Škratovo učno pot jezse nesrednjih vznikov naslednji in vznišljanih, ali jih je bil bilo našli vzponjeni, da je bil oblast, da bi štiri, da se je bil prišli, da si je bil vznil, da bo bil vse vznateljino, da sta bil v znaimskem čas tako pomladi in poleti lahko narogli naredimo res nepozaben dan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 355.503,
+        "end": 355.655,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 355.655,
+        "end": 355.773,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 355.773,
+        "end": 356.026,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 356.026,
+        "end": 356.313,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 356.313,
+        "end": 356.431,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 356.431,
+        "end": 367.079,
+        "text": "V možnostih, priložnosti, ki jih ponuja dopust na Rogli oziroma vzrečah, v nadaljevanju z Barbaro Soršak izvršno direktorico Unitorja Zreče, zdaj pa kratek glasbeni predah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 368.716,
+        "end": 391.025,
+        "text": "Barbara Soršak, izvršna direktorica Unitorja, zreče je danes z nami.Gospa Barbara, kot sva prej že omenili Rogla in zre če ponujata dejansko turizem oziroma doživetja skozi vse leto, pravzaprav je nekakšen unikum, ko smučamo na sredogorskem smućišču, popoldne zvečer pa se lahko sproščamo v termalnem kopališčju, zdravilniščhu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 391.025,
+        "end": 479.973,
+        "text": "Res je gre za edinstveno kombinacijo dveh turističnih centrov, tako v času zime kot tudi v času poletja, pozimi imamo kar nekaj gostov v termah zreče, ki v bistvu v jutranjem času smučajo narogli, uživajo v snežnih radostih, potem se pa po zaključku smučanja odpeljejo v zreče in uživajo v termalnih verjelcih, se sproščajo v bogati ponudbi savna vasi in pa tudi velneza idila, ki nudi v svojih štirih svetovih predvsem drugačno sprošečanje in odmi kot vsakdana medtem ko tudi ti ne je bilo, da bi še vložilo, da so vločili, če pa pogledamo tudi samo poletje, zavedamo se dejstva, da so aktivnosti na prostem oziroma tako imenovane avdodor aktivnostih današnji trend, da po napornih dnevih v službi vsi potrebujemo odmik od vsakdana, da ta odmig ni dovolj samo, da počivamo, ampak je zelo pomembno, da smo tudi športno aktivni, zato rogla in zreče ponujata veliko aktivnosti na svežem zraku, pohodništvo kolesarjenje, tudi posebno doživeti ob obisku poti med krošnami in enega izmed doživilajskih parkov, ki so še posebej zanimivi za naše najmlajše obiskovalce."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 479.973,
+        "end": 486.841,
+        "text": "Sodelujete tudi s šolami, v preteklem tednu ste vsem četrtošolcem ponudili tudi brezplačen dan na smučih?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 486.841,
+        "end": 506.905,
+        "text": "Vsako zimsko sezono v določenem dnevu ponujamo v sklopu projekta brezplačno smuko, dološeni generaciji, zelo prijetno in toplo nam je, ker na ta način lahko polepšamo dan oziroma tudi naredimo lepe spomine marsikomov, ki si sicer smučanja na rogi ne bi mogel privoščiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 507.428,
+        "end": 567.301,
+        "text": "Predvsem na Rogli je osnovna ciljna skupina družina, ki je vezana bolj na aktiven in zdrav življenjski slog, zato ravno v tej smeri razvijamo celoten center in s ponudbo se prilagajamo tako sodobnim trendom pri čakomanjem sodobnih turistov naših gostov, da se z veseljem v tak center tudi vračajo.Ne smemo pa mimo dejstva, da predvsem v času poletja, da je blagodejna klima narogli, da ji je svež gorski zrak in...Koliko stopinj nižja temperatura običajno?Običajnjo je deset stopinj, nižja temperatura, kar se poleti, kar prileže.Odlično le redko, kdaj ta temperatura preseže triindvajset stopinb in če v bistvu kot družina preživiš na rogi nepozaben dan ali počitnice, ob tem pa je otrok tudi aktiven na svežem zraku, zagotovo naredišnika najboljšega za svoje najmlajše člane v družini in seveda tudi za odnose znotraj družine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 529.197,
+        "end": 529.805,
+        "text": "Ne smemo pa..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 537.955,
+        "end": 538.242,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 567.301,
+        "end": 573.241,
+        "text": "Evonomik za lepo preživet, aktivno prežive dan, v katerem koli letnem času, sva nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 575.519,
+        "end": 587.939,
+        "text": "Vzpa Barbara Soršak že nekajkrat sva omenili pot med krošnjami, pravzaprav uspešnico letošnje sezone odprli ste jo septembra lani, zakaj je tako posebna, kaj prinaša kakšni so razgledi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 587.939,
+        "end": 656.114,
+        "text": "V podjetju Unitur se zelo dobro povezujemo tudi z lokalno skupnostjo, zavedamo se dejstva, da turizem ne pozna meja, da moramo medsebojno dobro sodelovati se v svojih znanih izkušnjah in zmožnostih tudi dopoznavati, zato smo še toliko bolj veseli, da smo narogli bogatejši zapot med krošnjami, gre za projekt, kjer je na zemljišču občine zreče s pomočjo tujega investicijskega partnerja pot med krožnami v mesecu septembru nastala, zelen aktiven projekt, povezan na tako trajnosten razvoj in promocijo kot tudi naspoznavanje bistva narave, predvsem v času nesezone in v času poletja smo potrebovali nekaj več, neko edinstvenost, nekodrugačnost in zagotovo je pot med krošnami edinstven projekt v Sloveniji in tudi širše, in kot tak projekt v naše kraje Vabi ne samo na Roglo, ampak tudi v celotno destinacijo Roglo Pohorje marsikaterega gosta obiskovalca, ki si najverjetneje naše destinacije niti ne bi izbral za počitnice ali enotnevni izlet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 656.62,
+        "end": 698.892,
+        "text": "Poveva pa, da je včasih potrebno kar malce počakati zato, kateri dan bi svetovali morda tedno.Ja, pot med krošnami je predvsem zaradi same novosti v Sloveniji zelo dobro obiskana, ob vikendih kadar so lepi vikendi je potrebna tudi nekoliko počakat, mordasi tudi ozjetni koliko več časa se malo stavit, v tem vrve že vsak dana, zato nekako, če že, se nam ne izida drugače, tudi Vikent je lahko lep s tem, da se moraš pripraviti na to, da bo najverjetneje tudi nekoliko veš gneče.Drugače pa obisk potem med kroššnami edinstvena ali pa drugačna ideja za nepozaben dan predvsem metenom od ponedeljka do petka, tako da dobrodošli kadrkolje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 698.892,
+        "end": 731.377,
+        "text": "Tako dobrodošli seveda kadarkoli, že nekaj časa občine zreče slovenske konice Vitanje in vplotnica delujete v okviru destinacije Rogla Pohorje, ki šteje že četrtoleto povezovanja nastopanja na trgu in skupnih odločitev. Lani je ta destinacija postala tudi ena izmed petintridesetih vodilnih destinacij v Sloveniji, ponuja več kot bi lahko ponudile posamezne destinacije posamezni kraji vsak zase, kaj ponujate, kakaj prinaša vsak kraj v to destinacijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 731.377,
+        "end": 817.388,
+        "text": "V destinaciji Rogla Pohorje so vključene štiri občine, gre za občin slovenska konica, zreče, oplotnica in vitanje kot vodilni turistični ponudnik v destinacij sodeluje seveda tudi podjetje Unitur in toliko bolj razveseljujoče za nas je predvsem dejstvo, da se na ta način razvija turistična ponudba tudi v ostalih občinah, da na ta noč in turist oziroma gozd spoznava lepote in kulturno dediščino o vseh štirih ob čin promoviramo tudi edinstvenost naše destinacije, in da nata način pozitivno vpliv razvoja turizma predvsem v občini izreče, kar se namestitvenih kapacitet tiče prenašamo tudi na ostale občine in omogočamo razvoj kot tudi delovanje marsikatiremu manjšemu turističnemu ponudniku ali proizvajalcu določenih lokalnih produktov, na lažji način razvija tudi danes oziroma tudi v prihodnje.Tudi projekt okusi Rogle so ena izmed teh uspešnih skupnih zgodb, v tem projektu Okusi Rog le pa razvijamo predvsem lokalno kulinariko, razvajamo določene lokalne izdelke, ki so specifični za destinacijo Rogle pohorje in seveda našim gostom omogočamo tudi drugačno, avtentično doživetje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 817.878,
+        "end": 823.7,
+        "text": "Barba Rasoršek je danes naša gostja, izvršna direktorica Unitorja zreče, pa melodijisva nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 826.737,
+        "end": 855.813,
+        "text": "Barbara Soršek je danes naša gostja, izvršna direktorica Unitorja zreče. Malce se zdaj še vrnimo na samo smučišče, smo sredi zimske sezone, smu čišće narogli se lahko pohvali s številnimi naslovi, s štivilnimi nagradami, prislužili ste si naslo od Trastit Brent, znamke vredne zaupanja v kategoriji smučišč, v kviro akcije naj smućišce pa ste lani prejeli tudi nagrado za najboljši smušarski park.Torej smujišče Vabi, kaj ga odlikuje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 856.268,
+        "end": 993.007,
+        "text": "Zagotovo ga odlikuje drugačnost, tres je, da slovenska smučišča nimamo toliko kilometrov prostranih prok, skolikor se pač lahko pohvalijo nam primerljiva smu čišca v tujini, gre predvsem za to, da je ponudba samih namestitvenih kapacitet narogli v neposredni bližini smučišč, da je celotna infrastruktura tako gostinska ponudba kot tudi vsi športni objekti v sami neposledni bliže in da je to zagotovo eden izmed edinstvenih razlogov, zakaj si naši gostje predvsem v času zime zelo radi izberejo Roglo kot destinacijo za smučarske počitnice.Ob tem dejstvu ne smemo mimo tega, da jo Rogla družinsko smućišče, da so proge posebej prilagojene družinam, imamo seveda tudi določana smušča, ki so aktualna za tiste smućarske navdušence, ki iščejo bolj strme proge ne glede na to jih je le teh strmejših proknih koliko manj kot je to običajno v teh smužarskih centrih v tujini ali v Sloveniji, zato je še toliko bolj pomembno, da je šola smučanja res dobro organizirana, razvita in da v bistvu kot družina, ko si izbereš roglo, kot destinacijo si jo ne zbereš zgolj in samo za to, da smućaš, ampak da poskrbiš za to, da se otrok nauči kvalitetno smučat, da ob tem, da si na svežem gorskem zraku uživaš tudi v kulinaričnih dobrotah, ki so v zunanjih gostinskih objektih posebej prilagojena posameznim ciljnim skupinam, to pomeni, da tam, kjer smućajo otrocije ponudba nekoliko bolj prilagojena, otrokom tam, kjer smučajo drugačna ciljna skupina, se ponudbe gostinska druga čeprilagaja in da je obisk gostinskih objektov res eno posebno doživetje.Po sami smuki pa tako kot sem dejala že prej edinstvena kombinacija s termalnim zdraviliščem pestra ponudba tudi velenek s površino sami Rogli in pa seveda pot med krošnami in tista animacija, ki v času celotne zimske sezone gre za otroško animacijo v hotelih zagotovo poskrbi za to, da se ima družina oziroma tudi otrok na počitnicah narogi posebej lepo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 993.395,
+        "end": 997.613,
+        "text": "Toliko v tem delu malce glasbe si bomo privoščili pa sva z našo gostjo nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1000.347,
+        "end": 1022.673,
+        "text": "Barbara Soršek je danes naša gostja izvršna direktorica Unitorija zreče, gospa Barbara Rogla je edinstvena destinacija z edinstvanimi naravnimi danostmi in takšno želite tudi ohraniti, zato v zre čah tako občini kot v unitorju nasprotujete načrtom, ki predvidevajo izgradnjo vetrnih elektrarn narogli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1023.01,
+        "end": 1115.165,
+        "text": "V podjetju Unitur smo hvaležni za vso dediščino, ki so nam je nekako v upravljanje predali naši predniki, zato se počutimo še toliko bolj odgovorni, da v bistvu ohranjamo tako naravne lepote na Rogli in seveda tudi v Termah zreče, v čim boljši kondiciji, da naravi bistveno ne spreminjamo, to je tudi na nek način znak trajnostnega ravnanja znotraj samega podjetja Unitur v dveh hotelih, to bi v Hotelu Natura na Rogli in v hotelu Atriji V Termah Zrečev imamo tudi certifikat ekomarjetice in med samimi ocenami gostov, ki pogosto kažejo na osnovne razloge, zakaj izbirajo predvsem Roglo, se pogosto pojavljajo naravne lepote, lepa narava, stik z naravo, ki ga marsikdo predvsem v evropskih državah žal ne more doživet več na tak način, kakor ga lahko dožovimo mi v Sloveniji, zato želimo to te naravne lepote ohranjati takšne kot so tudi danes. Podpiramo sicer možnost pridobivanja energije s pomočjo alternativnih virov, ampak smo mnenja dana območjih, ki imajo potencial razvoja turizma kot tudi že turizm razvit, da tja veterne elektrarne ne sodijo in ta projekt v neposredni bližini Rogle gre predvsem za manj kot kilometrov daljenosti, predvideva kar nekaj vetrnih elektran čemur v petnajst biseh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1113.983,
+        "end": 1115.198,
+        "text": "V petnajst bi seji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1115.198,
+        "end": 1115.722,
+        "text": "naj zgraditev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1115.722,
+        "end": 1115.873,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1115.873,
+        "end": 1132.327,
+        "text": "Tako je oziroma celo nekoliko več tudi s pomočjo ostalih projektov, ki so za območje pohorja aktualni zato v podjetju Uniturn nasprotujemo izgradnji teh veternih elektrarn na našem obmo čju in temu na sprotovanju se pridružuje tudi občina Zreče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1132.327,
+        "end": 1138.064,
+        "text": "Barba Rasošek je danes naša gostja, izvršna direktorica Unitorja zreče, pa melodijisva nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1140.697,
+        "end": 1148.577,
+        "text": "Gospa Barbara, skorajda celotno poslovno pot delujete na področju turizma ali ga vnašate tudi v zasebno življenje na kakšen način?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1148.577,
+        "end": 1148.729,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1148.729,
+        "end": 1148.746,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1148.746,
+        "end": 1249.0,
+        "text": "Zelo velikokrat seveda se ta moja poslovna pot odraža tudi na družini, to kar počnem v službi, to je nekako moj stil življenja tudi v prostem času, res da vedno ne utegnemo si kot družina vzeti toliko časa, da bi dejansko se odmaknili od svojega doma in uživali v lepotah, tako Slovenije kot tudi širše, a poskrbimo za to, da praktično skoraj vsaki dan smo aktivni pozimi zelo radi smučamo, večinoma narogli zato kar cenimo in spoštujemo to, da je Rogla praktično le streljaj stran od našega doma in da na ta način lahko v teh zimskih radostih uživa celotna družina. Čeprav, če bi me pa nekdo vprašal, kdaj Rogla še lepša, bi pa dejala, da ji Rogla nepozabna predvsem v času poletja, v času poletija si pogosto vzamemo času ob sobotah zjutri oziroma tudi v nedeljo, ob šestih zjutrij se odpravimo na Roglo, odidemo proti lovrenškim jezerom in obistvu jutro pričakamo na lovranških jezerih, to je res nekaj posebnega in edinstvenega, in tudi celotna družina je usmerjena bolj v aktivno preživljanje svojega prostega časa in na užitke v neposredni bližini, zato pogosto obiskujemo tako roglo medtem ko sama osebno glede na to, da je tudi sprostitev zelo pomembna, saj trudim predvsem v danih okvirih zmožnosti, da koristim tudi določene velne storitve tako savne kot tudi masaže oziroma bivti programe, ki jih razvijamo z ekipa sodelavcev v obeh naših centrih?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1248.967,
+        "end": 1249.034,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1249.034,
+        "end": 1249.068,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1249.068,
+        "end": 1249.135,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1249.135,
+        "end": 1274.971,
+        "text": "Ker je celo, pa še razvajanje na mpa ženskem še posebej paše, a ne?Še sploh v teh letih.Da pa seveda je ubistvo tudi celotna družina, zadovoljna so pa zagotovo veliko kratrazlog za obis krogla in term zreče tudi kulinarične dobrote, ki jih razvijajo naši kuharski mojstri in se vedno znova vračamo zelo radi v naše objekte.Tako da je za vsebo skrpljeno!Prav zagotovo Rogla in termezreče so resedi in stranje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1274.971,
+        "end": 1275.072,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1275.072,
+        "end": 1275.258,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1275.258,
+        "end": 1286.699,
+        "text": "Svobarba Resoršak, hvale za obisko studiu, še naprej vam želimo uspešno krmarjanje med tradicijo in prihodnostjo na zelenem pohorju, na zeleni Rogli in zrečah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1286.699,
+        "end": 1290.142,
+        "text": "Hvala tudi vam za povabilo in dobrodošli pri nas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1290.395,
+        "end": 1293.905,
+        "text": "Z veseljem bomo prišli, tako kot zagotovo tudi naši poslušalci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1293.905,
+        "end": 1294.31,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1294.31,
+        "end": 1294.951,
+        "text": "Ala lepa."
+      }
+    ],
+    "runtime_sec": 184.3925220966339
+  }
+}

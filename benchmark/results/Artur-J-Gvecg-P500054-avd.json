@@ -1,0 +1,2830 @@
+{
+  "file_id": "Artur-J-Gvecg-P500054-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500054-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.07280465337495204,
+      "miss": 0.0658316978367688,
+      "fa": 0.00511422964011795,
+      "confusion": 0.0018587258980652848,
+      "total_duration": 2560.8939999999648
+    },
+    "der_collar0.25": {
+      "der": 0.05948263115310832,
+      "miss": 0.05263693469632309,
+      "fa": 0.005128249857537167,
+      "confusion": 0.001717446599248059,
+      "total_duration": 2407.643999999965
+    },
+    "wer": {
+      "wer": 0.18503501658680427,
+      "ref_words": 5426,
+      "hyp_words": 4906
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3.76,
+        "end": 5.982,
+        "text": "Hvala lepa za besedo, lepo zdrav vsem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 7.364,
+        "end": 11.268,
+        "text": "Jaz bom malce bolj kritična."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 11.528,
+        "end": 17.735,
+        "text": "Seveda prvice otrok so v Sloveniji dobro varovane, ampak to le načelo ima."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 18.509,
+        "end": 26.294,
+        "text": "Jaz bom tukaj povzela besede gospoda Svetine in z njimi, s temi besedami se absolutno strinjam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 26.794,
+        "end": 40.522,
+        "text": "Ko človek nekako prodre pod vodrobovje, pa vidi, da pravzaprav ni vse tako lepo, kot se mogoče sliši in kot je deklarativno znano, imamo zakone, imamo mednarodne kazavnike."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 40.883,
+        "end": 48.127,
+        "text": "Skratka, ampak, če gremo konkretno na posamezna področja in v konkretne tudi številke, pa"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 48.58,
+        "end": 56.425,
+        "text": "stanjem na področju varovanja otrokovih pravic v Sloveniji, prav gotovo ne moremo biti zadovoljni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 56.905,
+        "end": 62.949,
+        "text": "Moram reči izhodično vprašanje, na kaj smo mogoče ponosni, če se smo veseli."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 63.27,
+        "end": 71.075,
+        "text": "Mi pri Izvezi prijateljev mladine Slovenije bi bili najbolj veseli, če bi bilo humanitarnega dela, torej skrbi"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 71.395,
+        "end": 98.544,
+        "text": "konkretno za otroke, družino, za zbiranje sredstev, da bi bilo vsega tega manj in več tega drugega dela teh naših programov, ki jih peljamo z vso odgovornostjo, ker vemo, da so dobri, ker vemo, da prebujejo v otrocih njihovo participacijo, njihovo kritično miselnost in ki uspodbujajo talente in vdejanje njihovih interesov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 98.624,
+        "end": 101.325,
+        "text": "Zato peljamo programe, kot so Evropa v šoli in"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 101.652,
+        "end": 105.002,
+        "text": "šolski parlament in tako dalje in še bi lahko naštevala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 105.623,
+        "end": 106.386,
+        "text": "Ampak pogledajte,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 108.74,
+        "end": 120.982,
+        "text": "Kljub dobrim gospodarskim kazalcem smo vendarle soočeni z zadejstvom, da v Sloveniji še vedno živi 45 tisoč otrok pod pragom revščine."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 121.002,
+        "end": 130.344,
+        "text": "Jaz mislim, da je to enostavno, nedopustno, nesocialno, nepravično in skregano z vsako svetlo prihodnostjo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 130.684,
+        "end": 134.725,
+        "text": "In tukaj se pravzaprav lahko vse konča ali pa vse začne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 135.892,
+        "end": 143.477,
+        "text": "Mi pogrešamo v strani odločevalcev, v strani države neko večjo smelost, zagnanost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 143.917,
+        "end": 164.99,
+        "text": "Mi pogrešamo to, kar je pravzaprav zapisano v dokumentih, v ustavi, v konvenciji, da je treba otroka postaviti prednostno na lestvico političnih prioritet in reševanja vseh problemov, ki so povezani z življenjem otrok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 165.507,
+        "end": 191.678,
+        "text": "Naprimer, konkretno bom povedala, zelo veliko se pri nas govori o zdravstvu, problemov je ogromno, rešitev malo, zelo malo pa se govori o otroku, ki je vržen v ta zdravstveni sistem, o otroku, ki ima če dalej več psihičnih težav, pa mora naprimer čakati na prvi obisk pedopsihijatra devet mesecev."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 191.698,
+        "end": 193.279,
+        "text": "To je enostavno nedopustno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 194.195,
+        "end": 197.758,
+        "text": "Več kot leto dni se čaka na obisk pri ortodontu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 197.778,
+        "end": 201.501,
+        "text": "To so konkretne zadeve, konkretne številke."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 202.061,
+        "end": 211.128,
+        "text": "Tako da jaz mislim, da s tem stanjem ne moremo biti zadovoljni, da državo in odločevalce čaka zelo veliko dela."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 211.788,
+        "end": 221.196,
+        "text": "Seveda, mi kot nevladniki se soočamo z dejstvom, da se vlade menjajo, menjajo se ministri, menjajo se direktori."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 221.836,
+        "end": 233.985,
+        "text": "pa tega res mi ne zamerite, prosim, ampak vedno znova se čaka, da se bo vendarle krenilo tudi na tem področju varovanja otrokovih pravic."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 234.025,
+        "end": 238.288,
+        "text": "Naprimer konkretno, programa za otroke ni od leta 2016."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 238.408,
+        "end": 247.815,
+        "text": "Jaz razumem, menjajo se ljudje, menjajo se ministri, ampak pogledajte, otroci pa rastejo, se razvijajo tukaj in zdaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 248.802,
+        "end": 278.31,
+        "text": "In če nimamo programa z akcijskim načrtom, kjer bi država, bi rekla, naredila nek spisek prioritet, naprimer v zdravstvu so prioritete te in te, na področju šolstva te in te, na področju sociale je naša prioriteta, naprimer, da v treh letih prepolovimo to številko 45 tisoč, ki je res, mislim, da grozljiva, nam ni v ponos."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 279.4,
+        "end": 285.464,
+        "text": "potem bi verjeli, da je otrok postavljen v ospredje nekih politik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 285.864,
+        "end": 289.046,
+        "text": "Ta hip pa temu prav gotovo ni tako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 289.927,
+        "end": 305.961,
+        "text": "In najmankar pričakujemo enostavno dejstvo, da se otroka njihove potrebe, njegove potrebe, njegovo specifiko postavi v ospredje politik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 306.721,
+        "end": 309.784,
+        "text": "Jaz bi tukaj izpostavila tri glavna področja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 310.545,
+        "end": 313.807,
+        "text": "Sociala, šolstvo in zdravstvo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 314.368,
+        "end": 316.41,
+        "text": "Poglejte tudi na področju šolstva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 317.062,
+        "end": 319.344,
+        "text": "govori se o prenovi bele knjige."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 319.924,
+        "end": 326.649,
+        "text": "Mene pa zelo zanima in tega jaz ne zasledim, pa spremljam, ker mislim, da je zelo pomembno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 327.25,
+        "end": 337.498,
+        "text": "Zanima me, kaj bo prenovljen šolski sistem prinesel v smeri odpravljanja oziroma blaženja socialnih razlik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 337.978,
+        "end": 346.685,
+        "text": "Nedopustno je, kar ugotavljajo številne institucije znotraj šolstva, da je učni uspeh"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 346.947,
+        "end": 354.409,
+        "text": "in šolenje otroka pogojeno z finančnim stanjem družine."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 354.649,
+        "end": 357.27,
+        "text": "Mislim, da je to alarmanten podatek."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 357.29,
+        "end": 362.972,
+        "text": "Hvala lepa za zdaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 362.992,
+        "end": 364.452,
+        "text": "Ja, hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 364.793,
+        "end": 370.434,
+        "text": "Najprej hvala Zvezdi Prijateljne mladine Slovenije za pobudo, za tole srečenje, mislim, da je zelo korisno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 370.995,
+        "end": 375.556,
+        "text": "V 30-ih letih od sprejetja konvencije o otrokovih pravicah je leta"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 376.276,
+        "end": 381.039,
+        "text": "pomembno vplivala in pomagala k položaju otrok po svetu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 382.04,
+        "end": 385.542,
+        "text": "Gre za najbolj univerzalno sprejeto konvencijo razenene države."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 386.783,
+        "end": 390.786,
+        "text": "Ampak ta univerzalna sprejetost bi lahko dala napačen vtis, da"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 391.683,
+        "end": 399.705,
+        "text": "da se problemi otrok dosledno rešujejo, pa se ne, rešujejo se v svetu in tudi pri nas stanje seveda ni optimalno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 400.186,
+        "end": 414.61,
+        "text": "Na UNICEF-u pozdravljamo prizadevanja države in odločevalcev, da se izboljša položaj otrok, tako kot je gospod Svetina rekel, primarna odgovornost je absolutno točno na državi in na odločevalcih, ostali lahko pri tem vsemu pomagamo, upozarjamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 415.19,
+        "end": 437.183,
+        "text": "Na tem zaprašanju smo bili, da povemo, kaj je najprej pozitivnega, ponovim za gospoj Isob, sveda pozdravljamo uveljavitev z družinskega zakonika, resolucijo družinskih poliki 1828, ustanovitev sveta Republike Slovenije za otroke in družino, to so vse pozitivne stvari, ravno tako je potreba povedati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 437.718,
+        "end": 448.206,
+        "text": "da je bil sprejet zakon o ratifikaciji tretjega izbirnega protokola v konvenciji o otrokovih pravicah, kar je tudi dosežek, zakon o dopolnitvah zakona o varu počlovekovih pravic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 448.606,
+        "end": 455.431,
+        "text": "Bili so odpravljeni nekateri premuženski cenzusi za uveljavljanje pravic in ugodnosti iz staševske varstva, iz družinskih prijemkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 456.365,
+        "end": 470.692,
+        "text": "In ja, Slovenija se uvršča visoko na mlasti, kateri mednarodno primerljivi lesnici položaja otrokovih pravic, ampak to je lahko tudi zelo nevarno, ker nas lahko zavede in uspava v pripričanju, da je položaj dober."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 470.832,
+        "end": 479.397,
+        "text": "Kljub temu napredku in prizadevanjem je še kar nekaj izzivov in mi apeliramo na ciljene ukrepe, ki prepoznavajo regionalne razlike,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 479.737,
+        "end": 483.399,
+        "text": "Gospa Iso, povedali ste o regionalnem indeksu blaginje otrok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 483.419,
+        "end": 493.284,
+        "text": "Mislim, da bo lahko zelo činkovito orodje za preučiti, kakšne so regionalne razlike v položaju otrok in v priložnostih otrok, ki so v Sloveniji zelo izrazite."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 494.484,
+        "end": 500.047,
+        "text": "So povezane z ekonomski, socialnim in kulturnim kapitalom družin in ta je tudi po regijah različen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 500.407,
+        "end": 506.31,
+        "text": "Več prizadevan, po našemu pripričanju, bi bilo potrebno nameniti naslednjim inzivom,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 506.787,
+        "end": 516.214,
+        "text": "bomo poskusili biti čim bolj konkreten, vidimo, da je odsotnost mehanizma, ki bi omogočal učinkovito implementacijo tretjega izbirnega protokola v konvenciji, tega še ni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 517.054,
+        "end": 533.526,
+        "text": "Še vedno nimamo celovite konsolidirane zakonodaje o otrocih in njihovem pravnem položaju, ki bi združila vse ustrezne določbe na pregleden način, uredila nacionalni zakonodaji, ker so otrokoje pravice in ključni pravni instituti močno razpršeni po številnih zakonodajah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 534.277,
+        "end": 551.887,
+        "text": "Še vedno opažamo odsotnost medsektorskega, medinstitucionalnega, meddisciplinarnega sodelovanja, ki bi lahko omogočili oblikovanje ukrepov in storitev, ki bi bili bolj izhajali iz potreb otrok in ne tako kot zdaj, ki se nam doska cida izhajajo iz potreb institucij ali sistema."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 553.507,
+        "end": 561.572,
+        "text": "Mislim, da ne vladniki opažamo tudi odsotnost formalne podpore, koordinaciji mrežene vladnih organizacij, z IPOM-o recimo, čisto konkretno,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 562.492,
+        "end": 573.138,
+        "text": "In mislim tudi, da bi bilo potrebno imeti več občutljivost in več vseh dejavnosti, ki bi krepile občutljivost vprašanj povezanih za otrokove pravice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 573.898,
+        "end": 589.186,
+        "text": "Še vedno se dosti kaj dogaja, da je ta naracija o otrokovih pravicah dobesedno nesprejemljiva in tako mimohredeje, trivialno diskreditirajo otroke, vežejo diskurso o otrokovih pravicah na otrokove obveze in njihove dolžnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 590.427,
+        "end": 591.047,
+        "text": "Pozamljamo, da"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 591.871,
+        "end": 596.234,
+        "text": "In lep pripoznavanje pravic omogoča otrokom, da dosežejo svoj polni potencial."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 596.274,
+        "end": 599.816,
+        "text": "In te pravice so pač neobdoljive."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 600.297,
+        "end": 608.442,
+        "text": "In v tem duhu bi bilo tudi treba okrepiti participacijo otrok, pravo participacijo otrokov v procesih odločanja na različnih ravneh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 610.383,
+        "end": 613.724,
+        "text": "Še posebej je treba zaščititi otroke, ki so v ravnoljivih situacijah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 614.104,
+        "end": 618.845,
+        "text": "Ostrezno bi treba predeliti telesno kaznovanje kot kaznivo v kazanskem zakoniku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 619.005,
+        "end": 629.948,
+        "text": "Potrebno je celovito nasloviti, bolj celovito, problematiko spolnega nasilja, spolnih zlorab otrok, vključno s tem, kar se sedaj dogaja, spolne zlorabe in spolno izkoriščanje na internetu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 631.568,
+        "end": 638.83,
+        "text": "Romski otroci, da jih samo omenim, šolanje romskih otrok, vsak tretji samo konča šolanje,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 639.509,
+        "end": 644.13,
+        "text": "v določenih regijah vsak peti zgodne poroke romskih deklic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 645.331,
+        "end": 653.853,
+        "text": "Prišlo je kar do neke tolerance, sprejemljivosti zgodnega poročanja romskih deklic, kot da je to kulturna pogojenost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 655.894,
+        "end": 663.416,
+        "text": "Revščina, kot je bilo že omenjeno, revščina otroka zavezali smo se, da bomo do 2030 jo prepolovili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 663.876,
+        "end": 668.078,
+        "text": "Pomeni, da bi moral biti ta ciljni rezultat 5 odstotkov, ampak smo še zmerili na 11,7."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 669.597,
+        "end": 674.441,
+        "text": "Mislim, da ne moram biti ponosni, da je 45 tisoč otrok pod pragom vreščine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 674.481,
+        "end": 684.188,
+        "text": "Čeprav nas dele 11,7 odstotka ne uvršča med najslabše države, to še eno zdravijo otrok delo predolg medvrstniško nasilje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 684.328,
+        "end": 691.494,
+        "text": "Mislim, da imamo precej izzivo, ne smemo pa iti mimo otrok na begu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 691.634,
+        "end": 695.257,
+        "text": "Prepo gostov so žrtve otapcev, trgovine z ljudmi, prisilnega dela."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 696.023,
+        "end": 703.949,
+        "text": "Mislim, da bomo lahko še kasneje kaj povedali, ampak izzivov imamo pred sabo vsi še dovolj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 703.969,
+        "end": 711.214,
+        "text": "Lepo pozdravljeni, najlepša hvala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 711.354,
+        "end": 715.817,
+        "text": "Nadaljevala bom v bistvu kot tam, kjer je Tomaš končal."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 716.118,
+        "end": 720.501,
+        "text": "Te izzivi, ki stojijo pred nami, seveda stojijo pred nami kot družbi,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 720.931,
+        "end": 727.113,
+        "text": "vendarle večji del ali večja odgovornost in večja teža leži na državi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 727.294,
+        "end": 748.282,
+        "text": "In nevladne organizacije v sistemu imamo dvojno vlogo ali pa morda dve pomembni nalogi in to je, kot je povedal Varuh, da dopolnjujemo sistem, ki ga država sicer zagotavlja, ne moremo in ne smemo ga nadomeščati, ta odgovornost ne sme ležati na družbi,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 748.943,
+        "end": 770.741,
+        "text": "torej zagotavljamo tisto podporo, ki jo lažje zagotavljamo kot država sama in pa, da seveda iz vsega tega, kar počnemo, črpamo predloge in pobude za sistemske spremembe, torej da iščemo rešitve za težave, ki jih zaznavamo ob delu"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 771.37,
+        "end": 773.371,
+        "text": "v tem primeru z otroki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 773.591,
+        "end": 781.795,
+        "text": "In to je tisto, torej da smo v konstantnem gibanju in ugotavljanju, kaj je tisto, kar ne deluje in seveda iskanju rešitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 781.855,
+        "end": 785.856,
+        "text": "Vendar tudi v iskanju rešitev seveda nismo in ne smemo biti jedini."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 786.537,
+        "end": 794.7,
+        "text": "Zato je zelo pomembno, koliko imamo v državi, v sistemu sogovornikov, deležnikov, s katerimi to skupaj počnemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 795.2,
+        "end": 801.203,
+        "text": "In dialog, ki ga imamo z državo, z drugimi institucijami je dober,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 801.695,
+        "end": 804.379,
+        "text": "Vendar ne vem, če ima maksimalne učinke."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 805.06,
+        "end": 813.534,
+        "text": "Tukaj bi si želeli, da se morda stvari hitreje zgodijo, hitreje odvijajo, namreč tudi nimamo neskončnih kapaciteti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 813.845,
+        "end": 822.414,
+        "text": "da delamo, upozarjamo, spodbujamo in delujemo in seveda pa smo na to vedno pripravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 822.795,
+        "end": 832.846,
+        "text": "Zato se mi zdi seveda pomembno, da na eni strani ta dialog obstaja, da so te poti odprte, da smo vdeleženi v njih, vendar seveda, da imajo tudi različno"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 832.846,
+        "end": 844.674,
+        "text": "svoje učinke, da pripeljemo postopke do konca, da vidimo dokumente v času, v katerem morajo biti sprejeti in da jih seveda tudi čim prej začnemo skupaj uresničevati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 845.014,
+        "end": 854.46,
+        "text": "In tudi, kadar pride do težav, seveda potrebujemo zaveznike, tako na primer na institucijah, kot je varuh človekovih pravic, bodo si zagovornike nekih možnosti,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 854.8,
+        "end": 865.773,
+        "text": "Vsi deležniki, ki nam pomagajo ali mi vam pomagamo upozarjati državo, kaj so tisti problemi, s katerimi se otroci v tej državi ne bi smeli spostrečevati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 866.253,
+        "end": 874.583,
+        "text": "In tako kot pravijo, družba je močna, toliko kot je močen njen najšipkejši člen in smo zdaj samo številke pogledali, koliko otrok"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 875.185,
+        "end": 885.488,
+        "text": "živi pod pragom revščine, je to seveda še kljub vsem alarmantna situacija in tista, ki terja v takojšem pogledu to, kaj je potrebno storiti, da temu ne bo tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 885.888,
+        "end": 898.951,
+        "text": "Zato tudi vsakokrat, ko se sprejemajo kakršnikoli ukrepi, ki posredno ali neposredno posegajo v položaj otrok, smo glasni, povemo, kakšne zgodbe stojijo za temi ukrepi,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 899.131,
+        "end": 902.432,
+        "text": "in kakšne posledice seveda potem nosijo otroci."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 903.192,
+        "end": 916.557,
+        "text": "Zdaj smo ravno v času, ko se posega v določene pravice in se premalokrat vprašamo, kakšni so posledice, ki jih bodo nosili potem prav otroci."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 917.057,
+        "end": 926.44,
+        "text": "In seveda to potem vpliva na njihove pogoje zato, da sami postanejo aktivnejši državljani, močnejši členi te naše družbe"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 926.823,
+        "end": 929.924,
+        "text": "in nam pomagajo seveda pri razvoju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 930.185,
+        "end": 939.649,
+        "text": "Ker ne smemo niti zarameariti dejstva, da Slovenija ni odgovorna seveda samo, čeprav seveda prvenstveno, za stanje v vlasni državi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 939.949,
+        "end": 944.171,
+        "text": "Država kot je Slovenija s takšno stopnjo razvitosti, s takšnim potencialom,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 944.491,
+        "end": 947.532,
+        "text": "je v resnici odgovorna tudi, da je dober zgled."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 947.652,
+        "end": 954.935,
+        "text": "In ni dovolj, da izpolnjujemo zgolj konvencijske standarde, ampak jih moramo pomagati tudi nadgrajevati, biti vzor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 954.955,
+        "end": 965.84,
+        "text": "Slovenija je bila odnekdaj vzor vsaj državam v regiji, vzor je zdaj lahko seveda tudi drugim državam, glede na to, da smo se pojavili tako visoko na teh državah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 966.462,
+        "end": 985.115,
+        "text": "lestvicah samega blagostanja otrok v državi in ne smemo zaspati, ker kar ugotavljamo je, da dosti krat države, ki pridajo do neke točke razvoja, morda pozabijo, da je treba še vseeno gnati naprej in te standarde dvigovati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 985.565,
+        "end": 992.907,
+        "text": "In kot sem prej omenila, pomembno je, da čisto vsak člen, čisto vsaka institucija v državi se zaveda te svoje vloge."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 993.467,
+        "end": 1014.173,
+        "text": "Konec koncev do vsakega strokovnega delavca, sodelavca, ki seveda to področje pokriva, torej je naša odgovornost tudi, da se redno izobražujemo in da na vsakem delu, postopka ali iziva, s katerim se soočamo, se vedno znova sprašujemo,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1014.573,
+        "end": 1017.574,
+        "text": "kaj je tisto, kar je v največjo koristo troka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1017.948,
+        "end": 1022.17,
+        "text": "To je namreč eden izmed vprašanj, s katerim se pogosto srečujemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1022.83,
+        "end": 1027.932,
+        "text": "Kot veste, tudi sami smo vdeleženi v zelo različnih postopkih, ki se tičejo otrok."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1028.632,
+        "end": 1032.514,
+        "text": "In to je nekaj, kar pogrešamo in to je nekaj, kar je potrebno nujno graditi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1034.455,
+        "end": 1046.26,
+        "text": "Seveda so resolucije in programi tisti, ki dajo osnovo za to, da se lahko vsi strokovni delavci, vsi, ki smo v to vključeni, tudi redno izobražujemo in nadgrajujemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1047.057,
+        "end": 1071.365,
+        "text": "V preteklosti je bilo narejenih veliko pomembnih korakov, tako seveda znotraj varuha pripravljen pilotski program zagovornika otrokovih pravic v letu 2006, ki je seveda še zdaj zelo aktualen, tako svet za otroke in ženo in pa v lanskem letu tudi ratifikacija opcijskega protokola."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1071.745,
+        "end": 1088.478,
+        "text": "Seveda si želimo, da pravnih mehanizmov kot je pritažbeni postopek opcijskega protokola ne bi bil uporabljen, ampak vendar določene situacije, določeni primeri še kažejo, da jih bo morda potrebno uporabiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1088.739,
+        "end": 1100.388,
+        "text": "Tukaj predvsem seveda mislimo tudi na otroke brez spremstva, njihov položaj in še posebno skrbnost, ker nam reč gre seveda za otroke v predvsej drugačnem položaju,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1100.872,
+        "end": 1104.855,
+        "text": "kjer je treba njihove koristi posebej zavarovati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1105.876,
+        "end": 1120.408,
+        "text": "Tako da na tem mestu bi sklenila, glede na to, da smo že zelo veliko slišali tega, koliko smo se premaknili in koliko dela nas še čaka s tem, da si želimo v prihodnosti"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1120.801,
+        "end": 1133.395,
+        "text": "Še vedno tesnega in učinkovitega sodelovanja z vsemi deležniki, ki kakorkoli pokrivajo področje v trok, ki bo prineslo seveda čim boljše in čim hitrejše rešitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1133.862,
+        "end": 1138.386,
+        "text": "Tako da nevladne organizacije tukaj ostajamo povezane."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1138.846,
+        "end": 1159.485,
+        "text": "Jaz moram reči, da se mi zdi, da smo se v preteklih letih izjemno dobro, sicer ne formalno povezale in družno sodelujemo v postopkih, bodi si oblikovanja, sodelovanja pri oblikovanju dokumentov, politika ali praks in seveda ostajamo tukaj, zato da še v budoče izpolnjujemo to svoje nalogo in poslanstvo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1165.267,
+        "end": 1167.628,
+        "text": "Takole bom rekla konkretno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1168.568,
+        "end": 1186.877,
+        "text": "V tem tednu smo razdelili med 65 prosilcev, ki si zadoščajo finančnim rilom, pet štipendi za srednješolsko izobraževanje gre za sklad dr. Janeza Drnovška."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1187.677,
+        "end": 1201.724,
+        "text": "In ko človek pribira te podatke prosilcev, motivacijska, tako imenovana motivacijska pisma oziroma nagovore, s katerimi prosilci naslavljajo prošljo na nas,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1204.045,
+        "end": 1220.538,
+        "text": "člane uprave, ki pač moramo žal iz 65 izbrati, sem opet se ti kar milo stori in rečeš si sam pri sebi, a to obstaja leta 2019 v Sloveniji še?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1220.558,
+        "end": 1231.306,
+        "text": "Enostavno ne moreš verjeti, kakšne želje, kakšne potrebe imajo otroci, ki želijo nadaljevati srednje šolsko izobraževanje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1232.007,
+        "end": 1241.848,
+        "text": "želijo kupiti, naprimer, bom nekaj primerov navedla, nekdo je zapisal, da si želi kupiti semena, ker hodi na srednjo"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1242.318,
+        "end": 1252.225,
+        "text": "šolo in želi ostati na kmetiji, ampak nima denarja za semena, ki bi jih uporabil za kmetovanje in zato bi mu prav prišla štipendija."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1252.745,
+        "end": 1266.095,
+        "text": "Nekdo je celo zapisal, da kar si najbolj želi, je to, da bi svoji mami izpolnil življenjsko željo, da bi lahko šla pogledat Benetke."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1266.115,
+        "end": 1271.959,
+        "text": "Gledajte, če 15-letni otrok nekaj takega zapiše, ne vem,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1273.688,
+        "end": 1284.157,
+        "text": "ti vse to da slutiti, da v Sloveniji živijo otroci, ki so porinjeni na rob družbe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1284.725,
+        "end": 1293.612,
+        "text": "In nobene deklaracije, strategije, nobena zakonodaja tem konkretnim otrokom očitno ne pomaga dovolj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1294.292,
+        "end": 1305.42,
+        "text": "Na nas se seveda obračajo družine, ki se znajdejo v stiskah in te stiske jih dobesedno porinajo obrob."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1305.941,
+        "end": 1311.125,
+        "text": "Tudi jaz osebno na svoj mail dobivam včasih pisma"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1312.838,
+        "end": 1315.599,
+        "text": "na katere zelo težko odgovorim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1315.799,
+        "end": 1338.427,
+        "text": "Naprimer, mame, ki ima zelo velike vzgojne težave, ker pa je mama samo hranilka, ima minimalno plačo, se je obrnila na strokovne službe, ampak čakalna vrsta je spet eno leto, da bo prišla k psihologu, ona pa rabi danes in tukaj nek..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1339.147,
+        "end": 1344.251,
+        "text": "na svet, kako naj kot mama ukrepa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1344.791,
+        "end": 1349.835,
+        "text": "Mi na ZPMS-u imamo številne programe, projekte, ideje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1349.895,
+        "end": 1363.205,
+        "text": "Naprimer, peljali smo tudi projekt Zavestno starševstvo, ki je bil nekaj časa financiran strani Ministrstva za delo in recimo, toliko, da vam povem v informacijo, teh predavanj,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1363.565,
+        "end": 1383.459,
+        "text": "ki so bila brezplačna za staršej, se je udeleževalo zelo veliko ljudi, tudi 150, 200 ljudi je prišlo v tolmin poslušati in črpati te nasvete za starševstvo, ki ne bo starševstvo v smeri premisivne vzgoje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1383.579,
+        "end": 1390.064,
+        "text": "To se velikokrat tudi namerno nekako dezinformira javnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1390.584,
+        "end": 1391.265,
+        "text": "Ampak gledajte,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1393.248,
+        "end": 1405.833,
+        "text": "naš vir financ so razpisi, donacije in mi smo tukaj zelo omejeni in kot tako financiranje vsahne, vsahnejo tudi ti še kako potrebni programi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1406.473,
+        "end": 1417.398,
+        "text": "Gledajte, razslojevanje v naši družbi je zelo velik problem in tukaj bi morali prav vsi nekaj nujno narediti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1417.878,
+        "end": 1421.96,
+        "text": "Otroci, katerih starši nimajo denarja, da"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1422.985,
+        "end": 1428.852,
+        "text": "hodijo na razne kroške, pa na športne aktivnosti, pa v glasbe na šole."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1429.512,
+        "end": 1434.118,
+        "text": "Ti otroci bodo ostali odrinjeni"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1435.081,
+        "end": 1445.031,
+        "text": "In ne vem, ne bodo mogli polnokrno in enakovredno se postavljati obok vsem ostalim, katerih starši so vse to lahko financirali."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1445.932,
+        "end": 1453.48,
+        "text": "Jaz sem prepričana, da bi morala država vse izkazati in enostavno"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1454.71,
+        "end": 1469.725,
+        "text": "povedati, da v naslednjem proračunskem obdobju leta 2020 ali pa leta 2021, ko se bomo morali izkazati, ker bomo predstavljali Evropske unije, da bomo nekaj za otroke storili."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1470.065,
+        "end": 1471.246,
+        "text": "Ne vem, konkretno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1472.155,
+        "end": 1482.604,
+        "text": "da bomo v osnovni šoli eno celo generacijo, ne vem, petošolce ali pa šestošolce ali kakorkoli že, taljali brezplačno na morje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1483.044,
+        "end": 1484.325,
+        "text": "Ampak ne, mi tarnamo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1484.586,
+        "end": 1494.414,
+        "text": "Otroci se premalo gibajo, se nezdravo prehranjujejo, se zabavajo s pametnimi telefoni in vsi opažamo vse te probleme."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1494.674,
+        "end": 1495.595,
+        "text": "Kaj pa storimo?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1497.516,
+        "end": 1498.697,
+        "text": "Ne bom rekla nič."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1499.098,
+        "end": 1499.158,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1499.695,
+        "end": 1502.836,
+        "text": "Veliko, ampak nedovolj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1502.956,
+        "end": 1510.879,
+        "text": "In to razslovevanje družbe ni dober obed za našo skupno prihodnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1510.919,
+        "end": 1517.062,
+        "text": "In mislim, da bi tukaj država tudi morala podpreti vse pozitivne programe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1517.502,
+        "end": 1525.325,
+        "text": "Ne samo nas, kot Zvezde prijateljev Mladine Slovenije, tudi drugi vodijo številne druge prepotrebne programe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1525.665,
+        "end": 1528.306,
+        "text": "Gospa Vlasta je omenila otroški parlament."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1528.923,
+        "end": 1546.996,
+        "text": "Res je, pri ZPMSE-ju, ki vodimo te vsebinske programe, smo velikokrat postavljeni pred izbiro ali peljati tak program naprej ali ga ne peljati, ker država ga ne prepozna, ne kot koristnega, ne kot potrebnega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1547.456,
+        "end": 1548.477,
+        "text": "Skratka, kaj storiti?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1549.628,
+        "end": 1563.273,
+        "text": "Ampak v določenem trenutku so vsi, imajo vsi nekako tega otroka v ospredju in kako pomembna so njegove pravice in kako pomembna je participacija otrok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1563.293,
+        "end": 1565.593,
+        "text": "Ampak kaj pa storimo za to?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1567.054,
+        "end": 1569.054,
+        "text": "Mislim, da odločno premalo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1569.635,
+        "end": 1579.458,
+        "text": "Tako da najmanj kar je dejansko pričakujemo program in to zelo v kratkem, ki bo na vseh področjih"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1580.577,
+        "end": 1591.043,
+        "text": "detektiral in določil cilje, kaj se bo za te naše otroke spremenilo na bolje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1591.603,
+        "end": 1602.049,
+        "text": "In da bo temu programu dodan nek akcijski načrt, pa zaradi mene ima lahko samo tri mrljive cilje, ki bojo uresničljivi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1602.189,
+        "end": 1605.771,
+        "text": "To se mi zdi, da je nujno, potrebno in potrebno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1607.324,
+        "end": 1622.188,
+        "text": "Poglejte, danes sem prebrala novico, da je koalicija odločila, da bo pokojnina usklejevala z gospodarsko rastjo tudi naslednje leto."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1622.769,
+        "end": 1633.692,
+        "text": "Skratka, prav je, da država, ki je socialna poskrbi za najbolj vrendljive, to so starejši in otroci, ampak poglejte na področju življenja otrok,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1634.172,
+        "end": 1653.08,
+        "text": "pač ne moramo biti zadovoljni z doseženim in pričakujemo neke konkretne cilje, konkretne ukrepe in mislim, da tukaj lahko zelo veliko pomagamo mi, ne vladniki, z programi, ki jih peljamo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1653.641,
+        "end": 1661.184,
+        "text": "Samo pogledajte, če država ne podpre programov, kot je na primer otroški parlament,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1662.573,
+        "end": 1673.855,
+        "text": "se tudi mi začnemo spraševati, zakaj bi to opaljali, če niko umor ni imel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1673.915,
+        "end": 1676.135,
+        "text": "Ja, jaz upam, da bo čim manj obiska varnih točk."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1676.475,
+        "end": 1691.218,
+        "text": "Tako je, pač imamo mrežo, zdaj približno tisoč takih točk po Sloveniji, odkar so se vse avtobusi in ljubljanska potniška prometa v drvev, molu in 16 okoljških občinah pridružili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1692.087,
+        "end": 1696.569,
+        "text": "Gre pa v bistvu samo za bližnico do pomoči, ki jo otroci potrebujejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1696.669,
+        "end": 1715.538,
+        "text": "Torej, kar v teh naših točkah so to pač ljudje, ki tam upravljajo druge stvari in so samo naši prostovoljci, ki grejo skozi obvezno usposabljanje, da lahko prepoznajo otroka in mu znajo primerno prisluhniti in v primeru, da je potrebno ukrepanje za to, predstavljenih institucij vejo, na koga se obrniti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1716.438,
+        "end": 1737.201,
+        "text": "V lastnem letu je bilo deset takih primerov, ko je bilo potrebno ukrepanje ali policije, centra socialno delo, torej je šlo za resne še probleme, pa še enih sto takih blažjih obiskov, ki so nam tudi poročali o njih, ko so lahko sami prostovoljci pomagali tistemu otroku, ki se je pri njih zatekl, dač pa je še ogromno obiskov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1737.802,
+        "end": 1744.808,
+        "text": "ki so pa, ne vem, pridli pokazati domačo nalogo ali pa vprašati, če je nekaj prav, nekaj narobe, torej, da tudi ima resne stvari."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1745.429,
+        "end": 1757.12,
+        "text": "Gre v bistvu samo za to, da se vzpostavi neka varnostna zaloga, da otroci vejo, da v njihovi okolici so neki prostori, kamor lahko grejo in najdejo pomoč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1758.101,
+        "end": 1762.525,
+        "text": "Tudi vse policijske postaje v Sloveniji so v varne točke, unicefo je tudi taka zanimivost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1763.283,
+        "end": 1783.055,
+        "text": "Kar se pa tiče tega ljubljanska primera, ja, mi smo tudi še sami videli, da šoferi in dispečerski centr tako in tako pomagajo, sej so pomagali že do zdaj, pomagali so tako otrokom, kot z dementnimi ljudmi se ukvarjajo, ki zatavajo na avtobuse in se nam je zdaj takšna"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1783.752,
+        "end": 1785.492,
+        "text": "primirna simbioza."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1785.532,
+        "end": 1787.293,
+        "text": "Smo veseli, da je do tega prišlo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1787.333,
+        "end": 1794.974,
+        "text": "Drugače pa, po raziskavah se še vedno skoraj 98 odstotkov otrok vestiski tako in tako obrne na svoje starše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1795.415,
+        "end": 1801.756,
+        "text": "Tako da dosti pridajo v take prostore otroci, ki pridajo tja, zato ker je vir težav v družini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1801.816,
+        "end": 1807.017,
+        "text": "Tako da, hvala Bogu, je družina še zmeja tista, ki večino takih situacij uspe rešiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1817.418,
+        "end": 1833.266,
+        "text": "V Sloveniji spremljamo številne otroke, ki prihajajo sami, se pravi otroci brez spremstva, ki pridajo v Slovenijo in žal tu tudi dajo večinama."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1833.526,
+        "end": 1842.31,
+        "text": "Tako kot je pri drugih prebežnikih pogosto, tako je tudi žal pri otrocih,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1842.815,
+        "end": 1854.742,
+        "text": "po nekaj dneh, po nekaj mesecih, morda včasih čakanja na odločitev o svoji prošlji za mednarodno zaščito, udidajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1855.483,
+        "end": 1865.649,
+        "text": "In bojimo se, da to je najpogostejje s pomočjo sprovajalcev, tistih, ki v resnici iščejo nove žrtve za trgovino z ljudmi,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1866.254,
+        "end": 1876.874,
+        "text": "In seveda otroci ostajajo v primežu tega tudi potem, ko grajo iz Slovenije in jih je seveda zelo težko slediti tem otrokom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1877.476,
+        "end": 1887.842,
+        "text": "Zato je seveda ena od primarnih odgovornosti Slovenije, da tim otrokom, takoj ko pridajo v Slovenijo, ponudi varno zatočišče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1888.163,
+        "end": 1902.932,
+        "text": "In tukaj ne mislim seveda zgolj o njihovem pravnem statusu, temveč temu, kako so obravnavani, kdo vstopi v njihovo obravnavo, kako so usposobljeni ljudje, ki se z njimi srečajo,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1903.312,
+        "end": 1911.334,
+        "text": "ki delajo za njih in z njimi in seveda, kam so nameščeni in kakšna pomoč jim je kasneje nudena."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1911.395,
+        "end": 1928.82,
+        "text": "Namreč tukaj govorimo tudi o izredno traumatiziranih otrocih, bodi so traumali ali seveda hude življenjske izkušnje in grozote vojne občutili tam, kjer so živeli, mnogo njih pa še hujše tiko na same poti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1929.637,
+        "end": 1940.345,
+        "text": "kakšne so situacije oziroma kakšne so okoliščine v begunskih centrih na poti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1941.365,
+        "end": 1952.133,
+        "text": "Tukaj poskušamo in opozarjamo seveda na to, da obstoječi sistem oskrbe in nastanitve otrok ni ustrezen, da je država dolžna čimprej to vzpostaviti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1952.654,
+        "end": 1956.475,
+        "text": "Že nekaj časa traja vzpostavljanje tega sistema."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1957.956,
+        "end": 1971.86,
+        "text": "Zgleda, da bo tudi trenutno, seveda, zgolj v pilotski obliki, ampak kakorkoli upamo, da bo rešitev čimprej sistemska, vedno si namreč želimo trajnih rešitev, ker sicer je"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1972.06,
+        "end": 1983.625,
+        "text": "Prevelika nevarnost zaradi zaključka pilotnega projekta, otroci ustanejo seveda brez tega, kar nujno potrebujejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1984.16,
+        "end": 2002.246,
+        "text": "In seveda ravno v tem, če rešitev ni sistemska, če vsi deležniki niso dovolj usposobljeni za delo z otrokom, da otrokova korist ni tisto, kar je vodilo vsakega takšnega postopka, se seveda lahko znajdemo ob napačni odločitvi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2003.346,
+        "end": 2005.727,
+        "text": "In to je seveda odgovornost opet države."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2005.747,
+        "end": 2009.308,
+        "text": "Država je tista, ki je dolžna zagotavljati strokovno usposobljanje sodelavcev,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2009.675,
+        "end": 2016.857,
+        "text": "Bodi si je to policija, bodi si je to centr za socialno delo, bodi so to prevajalci, bodi so to odločevalci."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2017.657,
+        "end": 2026.919,
+        "text": "In tukaj opažamo, da otroci, seveda znotraj vseh teh skupine otrok, so otroci, ki so še posebej ranljivi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2027.619,
+        "end": 2030.6,
+        "text": "In takrat se mora sistem posebej pozorno odzvati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2030.954,
+        "end": 2050.03,
+        "text": "In tukaj naletimo pogosto na težave, kljub temu, da včasih pričakujemo, da se v majhni državi lahko hitreje odzovemo, da so te poti krajše, da je glas, ki mora sešt do ključnih ljudi, ne rabi biti tako močen in glasen in zoperen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2051.331,
+        "end": 2057.636,
+        "text": "Pa vendar trenutno kaže, da bomo težko našli rešitve za nekaj otrok,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2057.836,
+        "end": 2062.798,
+        "text": "In tukaj se nakazuje, da bomo morali uporabiti ravno ta mehanizem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2062.858,
+        "end": 2069.521,
+        "text": "Še to naj povem, da drugih pravnih poti v nekaterih primerjih sploh nimamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2070.122,
+        "end": 2076.885,
+        "text": "Tukaj nam manjka morda še kakšno pravno sredstvo na nacionalni ravni, ki bi ga lahko uporabili, pa ga žal nimamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2082.575,
+        "end": 2091.1,
+        "text": "Ja, v povezavi z izobraževanjem, ena izmed stvari, na katere upozarjamo, je to, da si želimo uresniti aktivnih državljanov mladih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2091.62,
+        "end": 2110.812,
+        "text": "Torej, da se v prenovo šolskega sistema vnesajo osebine in načini, ki bodo seveda v otrocih samih zbudili tisto, da bodo pravice svoje poznali in jih bodo znali tudi zaščititi, uresničevati, vdejanjati na ta način."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2110.992,
+        "end": 2112.697,
+        "text": "Torej da ne vzgajamo otrok"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2114.047,
+        "end": 2133.616,
+        "text": "v smislu pasivnih, tistih, ki ne morejo sodelovati, ampak jih postaviti in upolnomočiti zato, da bodo že kot otroci, še bolj pa kot odrasli, seveda, vedeli, kako in v kakšnih postopkih te svoje pravice tudi uresničevati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2134.017,
+        "end": 2140.56,
+        "text": "In te vsebine, ki se pripravljajo, tako kot naprimer sedaj državljanska ozgoja, naprimer v srednjih šolah,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2141.333,
+        "end": 2143.415,
+        "text": "so odlična priložnost ravno za to."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2143.715,
+        "end": 2158.17,
+        "text": "Pripeljati je treba teme, tako kot so bile tudi preupredeljene, tako enakost spolov kot nasilja v družini, participacije, se pravi vse, kar v resnici je tudi del aktivnega državljanstva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2158.917,
+        "end": 2162.558,
+        "text": "In to mora postati del rednega izobraževalnega sistema."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2162.858,
+        "end": 2172.561,
+        "text": "To zopet ne mora biti prepoščeno projektom, ki so po navadi vezani na to, da neka vsebina zelo všečno deluje, ko pišemo razpis, prinaša nekaj novega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2172.881,
+        "end": 2176.242,
+        "text": "Človekove pravice ne morajo biti privlačne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2176.322,
+        "end": 2185.025,
+        "text": "So takšne kot se in so izjemno pomembne in morajo biti seveda prisotno, oziroma izobražanje mora biti prisotno na sistemski ravni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2189.545,
+        "end": 2200.092,
+        "text": "Aktivno državljanstvo je zelo na nek način kompliciran, predvsem pa celostni projekt."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2200.919,
+        "end": 2213.047,
+        "text": "In pomena krepitve aktivnega državljanstva oziroma vzpostavljanja nekih temeljev se mi pri Izvezi prijateljev mladine Slovenije še kako zavedamo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2213.907,
+        "end": 2220.512,
+        "text": "Verjamemo, da obstajajo še kakšni programi, projekti, tudi ministerstvo za šolstvo očitno,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2220.832,
+        "end": 2225.074,
+        "text": "misli v kurikulum unesti nekaj od teh vsebin."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2225.835,
+        "end": 2232.098,
+        "text": "Treba bi bilo pa bolj povezovalno delovati in uporabiti te prakse, ki že obstajajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2232.598,
+        "end": 2241.763,
+        "text": "Spomnila bi vas tudi na to, da tedenotroka, ki tako poteka, poteka prav v znamenju"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2242.873,
+        "end": 2250.878,
+        "text": "kot smo jih pojmenovali, naše pravice, torej v znamenju pravic, ki jih imajo otroci, razpisali smo tudi likovni tečaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2250.919,
+        "end": 2267.65,
+        "text": "Skratka, še kako se zavedamo, da je treba otroke opolnomočiti, jih oborožiti z nekim vedenjem in spodbujati njihovo mišljenje od vrtca naprej, tako da tudi v vrtcih poteka ta likovna tečaj, prav zanimiva bo videti,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2267.98,
+        "end": 2271.122,
+        "text": "kako razmišljajo, v katerih smereh."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2271.282,
+        "end": 2289.115,
+        "text": "Skratka, sem se pa spomnila, da vedno znova se zavemo, kako je pereče pomankanje aktivnih državljanov vsakič, ko imamo volitve in potem se postavlja vprašanje, pa zakaj je tako nizka volivna vdeležba."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2289.135,
+        "end": 2292.297,
+        "text": "Ja, treba je delati na tem,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2292.972,
+        "end": 2297.696,
+        "text": "o polnomočenju, na aktivnem državljanstvu, kje druge kot pri otrocih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2297.796,
+        "end": 2300.298,
+        "text": "Tudi medijsko jih je treba opismanjevati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2300.338,
+        "end": 2311.388,
+        "text": "Z kratka, gre za res celosne projekte, ki bi se jih morali bolj zavedati in bolj ceni tisto in tiste prakse, ki že obstajajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2311.468,
+        "end": 2315.992,
+        "text": "Naprimer, naš otroški parlament predstavljamo na področju"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2318.099,
+        "end": 2326.967,
+        "text": "evropskih inštitucij in marsikje so prav začudani in da to peljamo in navdušeni nad tem projektom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2327.207,
+        "end": 2344.283,
+        "text": "Doma na domačih tleh pa kakor da, nekako ne vemo, ja, je to tradicionalen projekt, aha, nič novega, čeprav je za vsako generacijo otrok, za vsakega otroka, ki je vstopil v ta projekt, je nekaj novega, ne, ampak"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2344.762,
+        "end": 2349.806,
+        "text": "Na razpisih je pa to nič novega, dajte nekaj novega se spomniti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2349.846,
+        "end": 2363.257,
+        "text": "Z kratka, to kar sem hotela pa je Tomaš tudi omenil, tudi pri razpisih, na katere smo več ali manj nevladniki vsi vezani bi pričakovali,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2365.045,
+        "end": 2372.291,
+        "text": "nekih, bi rekla, bolj smelih odločitev strani odločevalcev."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2372.471,
+        "end": 2380.618,
+        "text": "Tako se pa enkrat financirajo osebinske mreže, potem se drugič regijska stičišča, tretjič spet nekaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2381.098,
+        "end": 2383.32,
+        "text": "Skratka, ni kontinuitete."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2383.66,
+        "end": 2385.482,
+        "text": "In če ni kontinuitete, kako"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2385.802,
+        "end": 2391.191,
+        "text": "naj pa človek nadaljuje oziroma oplemeniti nek projekt, ki je v principu dober."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2391.752,
+        "end": 2395.599,
+        "text": "To se kaže kot zelo velik problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2401.225,
+        "end": 2411.812,
+        "text": "Gotovo je na naši organizaciji predvsem seveda, da krepimo glasotrog, ki jih zagovarjamo, namreč zagovorništvo izvajamo ravno zaradi tega, ker so slaboslišani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2412.973,
+        "end": 2418.877,
+        "text": "In to so seveda otroci brez spremstva, otroci, ki v Sloveniji nimajo urejenega pravnega statusa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2420.038,
+        "end": 2427.383,
+        "text": "Sicer za to, da njihov glas spohaj doseže koga, vmes potrebujemo prevajalce, dobre prevajalce,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2427.803,
+        "end": 2441.95,
+        "text": "In tudi na tem področju imamo še kar precej dela, vendar pa to je gotovo skupina, ki postaja številčnejša in katerih glas morda še teže doseže naše odločevalce."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2442.33,
+        "end": 2445.511,
+        "text": "In pri tem jim bomo seveda tudi na voljo in pomoč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2449.657,
+        "end": 2456.059,
+        "text": "Ja, participacija je tudi ena od zadev, ki je ključni princip konvencije o otrokovih pravicah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2456.079,
+        "end": 2458.14,
+        "text": "30 let leto spreznujemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2458.9,
+        "end": 2460.68,
+        "text": "Sodelovanje otrok se počne v družini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2461.521,
+        "end": 2472.144,
+        "text": "Potem je pomembno, da se tudi v družinskem okolju ustvari zdušje, kjer se otroka lahko sliši in upošteva šola, zdravstvene stanove in tako naprej in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2472.708,
+        "end": 2496.007,
+        "text": "Pomembno je, da pripravimo informacije in postopke, ki so primerni za otroka, kot pa Anu Zdorfer že govorila, kako pomembno je, da so otroci slišani tudi v zoprnih postopkih, kako se razveze staršev, da se jih sliši na njim primeren način in glede na njihovo starost, na njihovo spolj, na njihove mogoče posebne potrebe, da se jim prilagodi način, kako so lahko slišani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2498.071,
+        "end": 2515.443,
+        "text": "Drugače pa pri nas na UNICEF-u poskušamo spodbojati to participacijo tudi skozi program naših džunarjev, ambasadorjev, ki mislim, da mogoče dajo en vzgled otrokom, da se lahko pove nekaj resnega in pomembnega tudi na način, da te drugi slišijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2515.463,
+        "end": 2526.61,
+        "text": "Tako da, ja, participacija je pomembna, pomembno pa je, da začnemo sami pri sebi, tako da mogoče ena samo kritika, danes nimamo nobenega otroka tukaj, mogoče bi nas nečega lahko imeli."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2530.741,
+        "end": 2544.512,
+        "text": "ker zadeva participacijo, naj povem, da Zvezda prijateljev mladine Slovenije v mesecu novembru prav tako bo beležitvi 30-letnice sprejetja konvencije o drogovih pravicah pripravlja"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2545.861,
+        "end": 2561.276,
+        "text": "oziroma organizira mednarodno konferenco o participaciji otrok z naslovem Državljani prihodnosti, tako da vsi vljudno vabljeni, tudi to bo priložnost, da se pogovarjamo o otrokovih pravicah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2562.116,
+        "end": 2571.045,
+        "text": "Mogoče pa za zaključek bi vendarlej izpostavila svojo željo oziroma moj"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2571.798,
+        "end": 2588.387,
+        "text": "apel na vse odličevalce, na politiko, na vse inštitucije, ki se kakorkoli dotikajo življenja otrok, da postavijo otroka v spredje pozornosti pri oblikovanju kakršnihkoli politik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2589.027,
+        "end": 2591.508,
+        "text": "To je nujno potrebno in z"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2593.786,
+        "end": 2602.769,
+        "text": "Stanjem otrokovih pravic ne bomo mogli biti zadovoljni, če otrok ne bo v ospredju, če dobrobit otroka ne bo v ospredju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2604.63,
+        "end": 2611.492,
+        "text": "Toliko v svoji zadnji misli nekaj sem še hotela dodati, ampak se bom ostavila."
+      }
+    ],
+    "runtime_sec": 1068.6427929401398
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.05743502073884673,
+      "miss": 0.05663803343675601,
+      "fa": 0.0007622338136605288,
+      "confusion": 3.475348843019001e-05,
+      "total_duration": 2560.8939999999648
+    },
+    "der_collar0.25": {
+      "der": 0.044103281049851735,
+      "miss": 0.043344447933327715,
+      "fa": 0.0007588331165240235,
+      "confusion": 0.0,
+      "total_duration": 2407.6439999999648
+    },
+    "wer": {
+      "wer": 0.25377810541835605,
+      "ref_words": 5426,
+      "hyp_words": 4862
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3.811,
+        "end": 6.106,
+        "text": "Vala le pa za besedo, lepo zdrav sem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 7.27,
+        "end": 8.08,
+        "text": "Jaz bom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 8.958,
+        "end": 17.952,
+        "text": "Malce bolj kritična, seveda pravice otrok so v Sloveniji dobro varovane, ampak to le načeloma."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 18.475,
+        "end": 42.337,
+        "text": "Jaz bom tukaj povzela besede Gospoda Svetine in z njimi, s kimi besedami se absolutno strinjam, kot človek nekako prodre pod vodrobovje pa vidi, da pravzaprav ni vse tako lepo, kot sem mogoče sliši, in kot je deklarativno znano, imamo zakone, imamome narodne kazavnike, skratka ampak..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 42.978,
+        "end": 55.617,
+        "text": "Če gremo konkretno na posamezna področja in v konkretne tudi številke, pa stanjem na podrošju varovanja otrokovih pravic v Sloveniji prav gotovo ne moremo biti zadovoljni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 56.191,
+        "end": 107.525,
+        "text": "Moram reči izhodišnjo vprašanje, na kaj smo mogoče ponosni, česa smo veseli, mi pri zvezi prijateljev mladine Slovenije bi bili najbolj veseli če bi bilo humanitarnega dela torej skrbi konkretno za otroke družino, za zbiranje sredstev, da bi bilo vsega tega manj in več tega drugega dela teh naših programov, ki jih peljemo z usodgovornostjo, ker vemo, da so dobri, ker verujemo, da prbuja v otrocih njihovo participacijo, njihov kritično miselnost in ki vzpodbujajo talente in udejanje njihorih interesov za to peljemo programe kot so Evropa v šoli, Šolski parlament in tako dalj in še bi lahko naštevala.Ampak poglede"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 108.757,
+        "end": 134.997,
+        "text": "Kljub dobrem gospodarskim kazalcem smo vendarle soočeni z dejstvom, da v Sloveniji še vedno živi petinštirideset tisoč otrok pod pragom revščine.In smislim, da je to enostavno nedopustno, nesocialno, nepravično in skregano z vsako svetlo prihodnostjo. In tu, kaj so pravzaprav lahko vse konča ali pa vse začneje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 135.875,
+        "end": 151.653,
+        "text": "Mi pogrešamo strani odločevalcev, strani države, njegovečjo smelost, zagnanost. Mi pogrešemo to, kar je pravzaprav zapisano v dokumenti hu ustavi v konvenciji, da je treba,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 152.699,
+        "end": 161.103,
+        "text": "Otroka postavit prednostno na lestvico političnih prioritet in reševanja vseh problemov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 161.812,
+        "end": 164.95,
+        "text": "Ki so povezani z življenjem otrok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.49,
+        "end": 179.851,
+        "text": "Na primer konkretno bom povedala, zelo veliko se pri nas govori o zdravstvu problemov je ogromno rešitev malo, z zelo malo pa so govorenje o otroku, ki je vržen v ta zdravljivni sistem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 180.897,
+        "end": 193.418,
+        "text": "O otroku, ki ima čedalje več psihičnih težav, pa mora na primer čakac na prvi obisk pedopsihiatra devet mesecev. To je nastavno nedopustno!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 194.161,
+        "end": 200.607,
+        "text": "Več kot leto dni se čaka na obisk pri Ortodontu, to so konkretne zadeve, konkretne številke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 201.181,
+        "end": 226.882,
+        "text": "Tako da, je smislim, da s tem stanjam ne moremo biti zadovoljni, da državo in odločevalce čaka zelo veliko dela, seveda mi kot ne vladniki sesočemo z dejstvom, da se vlade menjajo, menjavajo se ministri, menijajo se direktorji pa tega res mi ne zamerite prosim, ampak govedno znova."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 227.776,
+        "end": 247.908,
+        "text": "Se čaka, da se bo vendarle krenilo tudi na tem področju varovanja otrokovih pravic, na primer konkretno programa za otroke ni od leta dva tisočesnajst. Jaz razuma, menjajo so ljudje, menijo so ministri, ampak poglejte, otroci pa rastljave se razvijajo tukaj in zdaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 248.802,
+        "end": 253.78,
+        "text": "In če nimamo programa z akcijskim načrtom, kjer bi država..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 255.198,
+        "end": 261.003,
+        "text": "Bi rekla, naredila nek spiseg prioritet, na primer v zdravstvu so prioritete T in P."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 262.032,
+        "end": 278.435,
+        "text": "Na področju šolstva, te in te na podrošju sociale je naša prioriteta, na primer da v treh letih prepolovimo to številko petinštirideset tisoč, ki je res, mislim, grozljiva namnil ponos."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 279.363,
+        "end": 281.371,
+        "text": "Potem bi verjeli, da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 282.08,
+        "end": 289.235,
+        "text": "Je otrok ustavljen v ospredje nekih politik, ta hip pa temu prav gotovo ni tako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 289.96,
+        "end": 298.718,
+        "text": "In najmanj kar pričakujemo, pričakovamo enostavno dejstvo, da se otroka njihove potrebe..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 299.697,
+        "end": 306.093,
+        "text": "Njegova potrebe, njegovo specifiko postavi v ospredje politi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 306.633,
+        "end": 309.907,
+        "text": "Je z bituka izpostavila tri glavna področja?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 310.413,
+        "end": 316.538,
+        "text": "Sociala, šolstvo in zdravstvo, koglej to tudi na področju šolostva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 317.045,
+        "end": 324.233,
+        "text": "Govori se o prenovi bele knjige, mene pa zelo zanima in tega jaz ne zasledim pa spremljam kar..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 325.145,
+        "end": 333.262,
+        "text": "Mislim, da je zelo pomembno.Zanimame, kaj bo prenovljen šolski sistem prinesel v smeri odpravljanja?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 334.426,
+        "end": 344.011,
+        "text": "Oziroma blaženja socialnih razli, nedopustno je kar ugotavljajo številne institucije znotraj šolstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 344.703,
+        "end": 349.546,
+        "text": "Da je učni uspeh in šolanje otroka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 350.626,
+        "end": 352.077,
+        "text": "Pogojeno z..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 352.718,
+        "end": 358.355,
+        "text": "Finančnim stanjem družine, mislim, da je to alarmanten podatek.Hvala le pa za zdaj!"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 362.911,
+        "end": 371.23,
+        "text": "Ja, hvala lepa. Najprej hvalo zvezi Prijateljne vodine Slovenije za pobudo, za tole srečanje, mislim, da je zelo koristno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 371.905,
+        "end": 385.49,
+        "text": "V tridesetih letih od sprejetja konvencijev o otrokovih pravicah je leta pomembno vplivala in pomagala k položaju otrok po svetu, gre za najbolj univerzalno sprejeto konvencijo razenjene države."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 386.215,
+        "end": 391.025,
+        "text": "A pa k ta univerzalna sprejetost bi lahko oddala napačen vtis, da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 391.683,
+        "end": 414.667,
+        "text": "So, da se problemi otrok dosledno rešujejo, pa se ne, ne rešujajo vse v svetu in tudi pri nas stanje sveta ni optimalno, na unicef opozdravljamo prizadevanja država države in odločovalcev, da si izboljša položaj otrok, ko bo te gospod Svetina Rijeko primarna odgovornost je absolutno točno na državi in na odločevalcih ostali lahko pri tem v samo pomagamo, pozarjamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 415.325,
+        "end": 425.855,
+        "text": "Naj na tem sem zaprašen, da povemo, kaj je neprid pozitivnega ne ponovim za gospojiso, sveta pozdravljamo veljavitev zdolžinskega zakonika."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 426.361,
+        "end": 447.337,
+        "text": "Resolucijo dolžinski poliki osemnajst, osemindvajset ustanovitov, sveta republike Slovenije za otroke in dolžino to so vse pozitivne stvari, ravno tako je potreba povedat, da je bil sprejet zakon na ratifikaciji tretjega izbirnega protokolah konvencijev od rokovih pravicah, kar je tudi dosežek Zakon do ponitvah zakona o varu po človekovih pravic."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 447.927,
+        "end": 455.673,
+        "text": "Bili so odpravljeni nekateri pri moženjski cenzu si za uveljavljanje pravic in ugodnosti iz stašnjarska varstva iz dolžinskih prejemkov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 456.348,
+        "end": 469.915,
+        "text": "In ja, Slovenija se uvršča visoko na masti, kateri mednarodno primerljivi lestnici položaja otrokovih pravic, ampak to je lahko tudi zelo nevarnega, da se lahko zavede in uspava v prepričanju, da je pološaj dober."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 470.455,
+        "end": 479.534,
+        "text": "Kljub temu napredku in prizadevanje mi je še kar nekaj izzivov, in mi papeliramo na ciljane ukrepe, ki prepoznavajo regionalne razlike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 480.057,
+        "end": 492.325,
+        "text": "Gospa jih so opovedali, ste o regionalnem indeksu blaginje otrok misli, da bo lahko zelo činkovito orodje za preučit, kakšne so regionalne razlike v položaju otrok in pri priložnostih otrok, ki so Sloveniji zelo izrazite."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 492.967,
+        "end": 493.49,
+        "text": "A..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 494.367,
+        "end": 516.237,
+        "text": "So povezane z ekonomskim socialnim kljuturnim kapitalom družin in taj tudi po regeh različen. Več prizadevanj po našemu prepričanju bi bilo potrebno namenit naslednjim izzivom, mu poskusovati če bolj konkreten, vidimo, da je odsotnost mehanizma, ki bi omogočal učinkovito implementacijo tretjega izbirnega protokolah konvencij tega še ni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 516.963,
+        "end": 533.551,
+        "text": "Še vedno njimamo celovite konsolidirane zakonodaje o otrocih in njihovem pravnem položaju, ki bi združila vse ustrezne določbe na pregleden način uredila nacionalni zakonodi, ker so otrokove pravice in ključni pravnišnji tudi močno razpršeni po številnih zakon oddajah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 534.277,
+        "end": 540.993,
+        "text": "Še vedno opažamo odsotnost medsektorskega medinstitucionalnega, meddisciplinarnega sodelovanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 541.499,
+        "end": 552.012,
+        "text": "Ki bi lahko omogoč oblikovanje ukrepov storitev, ki bi bili bolj izhajali s potreb otrok in ne tako kot zdekaj se na to skacida izhaja v izpotreb instituciji ali sistema."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 552.62,
+        "end": 561.766,
+        "text": "A mislim, da nevladniki opažamo tudi odsotnost formalne podpore koordinacij mreže nevpadnih organizacij z hipom predvsem včasih konkretno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 562.492,
+        "end": 566.812,
+        "text": "In mislim tudi, da bi bilo potrebno imet večjo občutljivost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 567.605,
+        "end": 591.23,
+        "text": "In več v obseg dejavnosti, ki bi krepile občutljivost do vprašanja povezanih za otrokove pravice.Še vedno se doskat dogaja, da je ta narracija otrokovih pravicah dobesedno nesprejemljiva in tako mimo hrede trivialno diskreditirajo otroke, vežejo diskurs o otrokovjih pravicah na otrokove obveze in njihove dolžnosti poznamnemu, da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 591.82,
+        "end": 598.469,
+        "text": "Je le pripoznavanje pravic otrok, omogoča otrokom do dosežja svoji polni potencial in te pravice so pač neodoljive."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 599.397,
+        "end": 608.543,
+        "text": "In v tem duhu bi tretja tudi okrepil participacijo otrok, pravo participacij otrok v procesih odločanja na različnih ravneh."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 609.286,
+        "end": 609.775,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 610.366,
+        "end": 628.979,
+        "text": "Še posebej je treba začiti o totroke, ko so ravnili v situacijah, ustrezno bi treba predeliti telesno kaznovanje kot kaznivo ukazenskem zakoniku, potrebujo celovito naslovitvo, bolj celovitev problematiko spolnega nasilja, spolnih zlorab po trok, vključno s tem, kar se sedaj dogaja, spolnost zlorabe in spolno izkoriščanje na internetu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 629.603,
+        "end": 630.059,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 631.46,
+        "end": 632.557,
+        "text": "Romski otrociji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 633.113,
+        "end": 638.969,
+        "text": "Tek samo omenim šolanje vromskih otrok, vsak tretji samo konča šolanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 639.475,
+        "end": 646.462,
+        "text": "V določenih rih je vsak peti, zgodnje poroke romskih deklic prišlo je kar do neke."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 647.204,
+        "end": 653.87,
+        "text": "Tolerance, sprejemljivost izgodnika poročanja romskih deklic kot le to kulturna pogojenost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 654.612,
+        "end": 655.085,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 655.76,
+        "end": 682.861,
+        "text": "Revščina, kot je bilo že omenjeno, Revšćina otroka zavezali smo se, da bomo do dvajset, trideset jo prepolovili, pomenbe bi mu obita ciljni rezultat pet odstotkov, ampak smo še zmeri na enajst, tisela sedem. Mislim, da ne more bit ponosni, da je petinštirideset tisoč otrok pod pravom revščine, čeprav nas delež enajst razredem odstotka ne uvršča med najslabše države, to ševno zdravje otrok, delovni predlog, medvrstniško nasilje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 683.468,
+        "end": 688.565,
+        "text": "Torej, bi se ne demamo izzivov precej, ne smem pa iti mimo otrok na begu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 689.408,
+        "end": 689.999,
+        "text": "A..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 690.944,
+        "end": 695.416,
+        "text": "To se je prepogosto sežrtvetih otapcev, trgovine z ljudmi pisilnega dela."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 695.973,
+        "end": 704.039,
+        "text": "Tako da, ja, mislim, da bomo lahko še kasneje, kje povedali nam, ampak izzivov imamo pred sabo vsi še dovolj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 704.765,
+        "end": 705.136,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 709.169,
+        "end": 726.28,
+        "text": "Lepo pozdravljeni, najlepša hvala, nadaljevala bom ob iztukratem, kjer je Tomaž končal, te izzivi, ki stojijo pred nami, so vedno stojajo pred nam kot družbi, vendarle večji del ali večja odgovornost in večjo teža leži na državi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 726.837,
+        "end": 748.403,
+        "text": "In nevladne organizacije v sistemu imamo dvojno vlogo ali pa morda dve pomembni nalogi, in to je, kot je povedal Varuh, da dopolnjujemo sistem, ki ga država sicer zagotavlja, ne moremo in ne smemo ga nadomeščati, ta odgovornost ne sme ležati na družbi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 748.943,
+        "end": 756.537,
+        "text": "Torej zagotavljamo tisto podporo, ki jo lažje zagotavila država, lažja zagotavalam kot države sama."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 757.145,
+        "end": 874.662,
+        "text": "In pa, da seveda iz vsega tega kar počnemo, črpamo predloge in pobude za sistemske spremembe, torej da viščemo rešitve za težave, ki jih zaznavamo ob delu, v tem primeru z otroki. In to je tisto, torejdaj smo v konstantnem gibanju in ugotavljanju kaj je tiso, kar ne deluje, in seveda iskanjo rešitev, vendar tudi v iskanju rešitv seveda nismo in ne smemo biti edini, zato je zelo pomembno, koliko imamo v državi, v sistemu sogovornikov, deležnikov, s katerimi to skupaj počnemo in dialog, ki ga imamo z državo, drugim institucijami je dober, vendar ne vem, če imam maksimalne učinke. Tukaj bi si želeli, da jo se morda stvari hitrejo zgodijo, hitreje odvijajo, namreč tudi nimamo neskončnih kapacitet, da delamo, opozarjamo, spodbujamo in delujemo, seveda pa smo nato vedno pripravljeni.Zato se mi zdi, seveda pomembno, da na eni strani ta dialog obstaja, da so te poti odprte, da smo udeleženi v njih, vendar seveda, da imajo tudi svoje učinke, da pripeljemo postopke do konca, da vidimo dokumente na času, v katerem morajo biti sprejeti in da jih seveda tudi čim prej začnemo skupaj uresničevati.In tudi kadar pride do težav, seveda potrebujemo zaveznike, tako na primer na institucijah kot je varuh človekovih pravic bodisi zagovorniki enakih možnosti, a ne vsi deležniki, ki nam pomagajo ali mi vam pomagamo opozarjati državo, kaj so tisti problemi, s katerimi se otroci v tej državi ne bi smeli spostrečevat. In tako kot pravijo, družba je močna toliko kot je mošen njen najšibkejši člen in šmejo smo zdaj samo o številki pogledali, koliko otrok."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 875.219,
+        "end": 933.742,
+        "text": "Živi pod pragom revščine, je to seveda še kljub vsem alarmantna situacija in tista, ki terja takojšen pogled o to, kaj je potrebno storit, da temu ne bo tako.Zato tudi vsakokrat ko se sprejemajo kakršni koli ukrepi, ki posredno ali neposredno posegajo v položaj otrok, smo glasni, povemo, kakšne zgodbe stojijo za temi ukrepi in kakše posledice seveda potem nosijo otroci. A ne, zdaj smo ravno v času, ko se posega v določene pravice in se premalokrat vprašamo, kakšni so posledice, ki jih bodo nosili potem, prav otroci. In seveda to potem vpliva na njihove pogoje za to, da sami postanejo aktivnejše državljani močnejši členiti naše družbe in nam pomagajo seveda pri razvoju, ker ne smemo niti zaromejariti dejstva, da Slovenija..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 934.298,
+        "end": 1046.399,
+        "text": "Ni odgovorna seveda samo, čeprav seveda prvenstveno, zastanja v lastni državi. Država kot je Slovenija s takšno stopnjo razvitosti s taksnim potencialom, jo resnici odgovorni tudi, da je dober zgled in ni dovolj, da izpolnjujemo zgolj konvencijske standarde, ampak jim moramo pomagati tudi nadgrajevati, biti vzor. Slovenija je bila od nekdaj vzora vsaj državam v regiji, ozor je zdel lahko seveda tudi drugim državom glede na to, da smo se pojavili tako visoko na teh lestvicah samega blagostanja v otroku državi in ne smemo zaspati, ker kar ugotavlja moje dodavstvikat države, ki pridejo do to, do nekaj točke razvoj morda pozabijo, da je treba še vseeno gnati naprej in te standarde dvigovati.In kot sem prej omenila, pomembno je, da čisto vsak člen, čisto vsa institucija v državi se zaveda te svoje vloge konec koncev do vsakega strokovnega delavca so delavcu, ki seveda to področje pokriva, torej je naša odgovornost tudi, da se redno izobražujemo in da na vsakem delu postopka ali izziva, s katerim se soočamo, se vedno znova sprašujemo, kaj je tisto, kar je v največjo korist otroka?To je namreč eden izmed vprašanj, s katerim se pogosto srečujemo, kot veste tudi sami smo udeleženi v zelo različnih postopkih, ki se tičejo otrok in to je nekaj, kar pogrešamo in to ji nekakar je potrebno nujno graditi.Torej seveda so resolucije in programi tisti, ki dajejo osnovo za to, da se lahko vsi strokovni delavci, vsi, ki smo v to vključeni, tudi redno izobražujemo in nadgrajujemo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1047.04,
+        "end": 1105.023,
+        "text": "V preteklosti je bilo narejenih veliko, nekaj pomembnih korakov, tako seveda znotraj varuha pripravljen pilotski program zagovornika otrokovih pravic v leto dva tisočest, ki je seveda še zdaj zelo aktualen, tako svet za otroke in načino in pa v lanskem letu tudi ratifikacije opcijskega protokola.Seveda si želimo, da pravnih mehanizmov kot je pritožbeni postopek opcijskega potrokola ne bi bil uporabljen, ampak vendar določene situacije, dolo če ni primeri še kažejo, da jih bo morda potrebno uporabiti.Tukaj predvsem sveta mislimo tudi na otroke brez spremstva njihov položaj in še posebno skrbnost, ker namreč gre seveda za otroke v precej drugačnem položaju, kjer je treba njihove koristi posebej zavarovati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1105.529,
+        "end": 1159.681,
+        "text": "Takoda na tem mestu bi sklenila glede na to, da smo že zelo veliko slišali tega, koliko smo se premaknili in koliko dela nas še čaka s tem, da si želimo v prihodnosti še vedno tesnega in učinkovitega sodelovanja z vsemi deležniki, ki kakorkoli pokrivajo področje otrok, ki bo prineslo, seveda čim boljše in čim hitrejše rešitve, tako da nevladne organizacije tukaj ostajamo povezane, je smora mreč, da se mi zdi, da smo se v preteklih letih izjemno dobro, sicer neformalno povezale in družno sodelujemo v postopkih bodisi oblikovanja, sodelovanja pri oblikovanju dokumentov politika ali praks in seveda ostajamo tukaj za toato da še v bodoče izpolnjujemo do svoja nalogo in poslanstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1165.25,
+        "end": 1178.834,
+        "text": "Takola bom rekla konkretno, v tem tednu smo razdelili med petinšestdeset prosilcev, ki si zadošča finančnim merilom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1179.83,
+        "end": 1187.035,
+        "text": "Pet štipendij za srednješolsko izobraževanje, gre za sklep doktorja Janeza Drnovška."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1187.761,
+        "end": 1190.258,
+        "text": "In ko človek prebira..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1190.866,
+        "end": 1270.145,
+        "text": "Te podatke prosilcev, motivacijska, tako imenovana motivacija pisma oziroma nagovore s katerimi prosilci naslavljajo prošnjo nanes člane uprave, ki pač moramo že v izpetinšestdesetih izbrati samo pet, se ti kar milo stori in rečeš si sam pri sebi, a to obstaja leta dva tisoč devetnajst v Sloveniji še, enostavno ne moreš verjet kakšne želje, kakše potrebe imajo otroci, ki želijo nadaljevat srednješolsko izobraževanje, želijo kupit na primer, bom nekaj primerov navedla, nekdo je zapisal, da si želi kupiti semena, ker hodi na srednjo šolo in želi ostatna kmetiji, ampak nima denarja za semeno, ki bi jih uporabil za kmetovanje, in zato bi mu prav prišla štipendija.Nekdo je celo zapisal, da kar si najbolj želi, je to, da bi svoji mami izpolnil življenjsko željo, da vi lahko šla pogledat Benetke, le teče petnajstletni otrok nekaj takega zapiše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1271.545,
+        "end": 1272.052,
+        "text": "Ne vem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1273.503,
+        "end": 1276.912,
+        "text": "Ti vse to da sluti teda?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1277.857,
+        "end": 1282.97,
+        "text": "V Sloveniji živijo otroci, ki so porinjeni na rop."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1283.543,
+        "end": 1293.668,
+        "text": "družbe in nobene deklaracije strategije nobena zakonodaja tem konkretnim otrokom očitno ne pomaga dovolj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1294.192,
+        "end": 1300.688,
+        "text": "Na nes seveda obračajo družine, ki se znajdejo v..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1301.38,
+        "end": 1311.37,
+        "text": "Stiskah in te stiske jih dobesedno porinajo ob rob, tudi je sosebno na svoj mail dobivam včasih pisma."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1312.805,
+        "end": 1338.826,
+        "text": "Ko na katere zelo težko odgovorim, na primer, mame, ki ima zelo velike vzgojne težave, ker pa je mama samohranilka, ima minimalno plačo, se obrnila na strokovne službe, ampak čakala vrsta je spet eno leto, da bo prišla k psihologu, ona pa rabi danes in tukaj nek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1339.332,
+        "end": 1343.112,
+        "text": "Na svet, kako naj kot mama ukrepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1343.973,
+        "end": 1354.385,
+        "text": "Mi, nazoboma se, imamo številne programe, projekte, ideje, na primer peljali smo tudi projekt zavestno starševstvo, ki bi v neki časa..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1354.908,
+        "end": 1386.717,
+        "text": "Financiran strani ministrstva za delo in recimo, toliko da vam pojem v informacijo, teh predavanj, ki so bila brezplačna za starše, se je udeleževalo zelo veliko ljudi, tudi sto petdeset dvesto ljudje je prišlo v tolmin poslušat in črpa te nasvete za staršostvo, ki ne bo staršosto v smeri premisivne vzgoje, to se velikokrat tudi namerno..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1387.443,
+        "end": 1391.864,
+        "text": "Na kako, dezinformira javnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1393.248,
+        "end": 1406.039,
+        "text": "Naš vir financ so, razpisi donacije in mi smo tudi zelo omejeni in kot tako financiranje, vsakne, vsahnajo tudi ti še kako potrebni programi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1406.765,
+        "end": 1412.637,
+        "text": "Lejta razlojevanje v naši družbi je zelo velik problem in tukaj..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1413.667,
+        "end": 1418.746,
+        "text": "Bi morali prav vsi nekaj nujno naredit, otroci?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1419.252,
+        "end": 1422.256,
+        "text": "Katerih starši nimajo denarja, da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1422.931,
+        "end": 1430.558,
+        "text": "Hodijo na razne kroške, pa na športne aktivnosti, pa v glasbene šole."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1432.381,
+        "end": 1434.322,
+        "text": "Bodo ostali odrinjeni?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1435.064,
+        "end": 1445.105,
+        "text": "In ne vem, ne bodo mogli polnokrvno in enakovredno se postavlja to bog vsem ostalim, katerih starši so vse to lahko financirali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1445.83,
+        "end": 1447.518,
+        "text": "Le teje sem prepričana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1448.125,
+        "end": 1453.627,
+        "text": "Da bi morala država se izkazati in enostavno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1454.673,
+        "end": 1466.823,
+        "text": "Povedat, da v naslednjem proračunskem obdobju leta dva tisoč dvajset ali pa leta Dva tistoč ena dvaju kot se bomo morali izkazati, ker bomo pred zadoval Evropski uniji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1467.346,
+        "end": 1471.413,
+        "text": "Da bomo nekaj za otroke storil, ne vem konkretno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1472.122,
+        "end": 1495.662,
+        "text": "Da bomo v osnovni šoli, eno celo generacijo ne vem petušolce, še ali pa šestušolske, kakor poližje, veljali brezplačno namorje. Ampak ne, mi tarnamo, otroci se premalo gibajo, se ne zdravo prehranjujejo, se zabavajo s pametnimi telefoni in si opažamo vse te probleme, kaj pa storimo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1480.643,
+        "end": 1480.778,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1497.417,
+        "end": 1501.636,
+        "text": "Ne bom rekla nič, ja veliko ampak ne dovolj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1502.598,
+        "end": 1505.585,
+        "text": "In to razlojevanje družbe je..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1506.631,
+        "end": 1528.383,
+        "text": "Ni dober obet za našo skupno prihodnost in mislim, da bi tukaj država tudi morala podpreti vse pozitivne programe ne samo nas kot zveze prijateljev mladine Slovenije, tudi drugi vodijo številne druge prepotrebne programe, gospavlaste je omenila otroški parlament."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1528.906,
+        "end": 1530.121,
+        "text": "Res je?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1530.83,
+        "end": 1536.179,
+        "text": "Pri zpomeseju, ki vodimo te vsebinske programe smo velikokrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1537.073,
+        "end": 1548.633,
+        "text": "Postavljeni pred izbiro ali peljat tak program naprej ali ga ne peljat, ker država ga ne prepozna, ne kot koristnega, nekod potrebnega skratka kaj storit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1549.628,
+        "end": 1554.067,
+        "text": "Ampak v določenem trenutku, a nesel si majovsi na kakr..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1555.096,
+        "end": 1565.677,
+        "text": "Tega otroka v ospredju in kako pomembna so njegove pravice in kakko pomemna je participacija, otrok, ampak kaj pa storimo za to?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1566.942,
+        "end": 1570.469,
+        "text": "Mislim, da odločno premalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1571.566,
+        "end": 1576.578,
+        "text": "Najmanj kar je, dejansko pričakujemo program in to zelo v kratkem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1577.32,
+        "end": 1579.548,
+        "text": "Ki bo na vseh področij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1580.577,
+        "end": 1580.965,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1582.062,
+        "end": 1595.984,
+        "text": "Detektiral in določil cilje, kaj se bo za te naše otroke spremenilo na bolje, in da bo temu programu dodan nek akcijski načrp."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1596.625,
+        "end": 1605.957,
+        "text": "Pa zarad menem lahko samo tri mrljive cilje, ki bojo uresničljivi.To se mi zdi, da je nujno potrebno in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1607.307,
+        "end": 1611.56,
+        "text": "Poglejte, danes sem prebrala novico, da bo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1612.471,
+        "end": 1633.632,
+        "text": "Da je koalicija odločila, da bo pokojnina usklejevala z gospodarsko rastjo tudi naslednje leto, skratka, prav je, da država, ki ji je socialna poskrbi za najbolj urednljive to so starejši in otroci, ampak glede na področju življenja otrok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1634.29,
+        "end": 1639.589,
+        "text": "Pač ne moremo biti zadovoljni z doseženim in pričakujemo nekaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1640.095,
+        "end": 1644.787,
+        "text": "Konkretne, cilje konkretne ukrepe in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1646.795,
+        "end": 1655.3,
+        "text": "Mislim, da tu ga lahko zelo veliko pomagamo, mine vladniki z programi, ki jih peljamo, samo poglejte če..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1656.464,
+        "end": 1661.29,
+        "text": "Država ne podpre programov, kot je na primer otroški parlament."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1662.556,
+        "end": 1668.26,
+        "text": "Se tudi mi začnemo spraševa, da zakaj bi to peljali, če nikomur ni mar?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1673.812,
+        "end": 1676.917,
+        "text": "Ja, je super, da bo čim manj obiska varnih točk, kaj?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1678.57,
+        "end": 1691.378,
+        "text": "Ko je, pa če imamo mrežo z približno tisoč takih točk po Sloveniji odkrse, so se vse avtobusi Ljubljanska potniška prometa v Podrujevu molu in šestnajstih pliv okoliških občinah pridružili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1692.02,
+        "end": 1703.309,
+        "text": "Gre pa v bistvu samo za bližnico do pomoči, ki jo otroci potrebujejo, torej kar v teh naših točkah so to poveč ljudje, ki tam opravljajo druge stvari in so samo naši prostovoljci."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1703.866,
+        "end": 1724.234,
+        "text": "Ki grejo skozi obvezno usposabljene, da lahko prepoznajo otroka in mu znajo primerno prisluhnit in v primeru, da je potrebno ukrepanje za to pristojnih institucij vejo, na koga so obrnati. Tudi ko v lanskem letu je bilo deset takih primerov, ko je bo potrebnevo ukrepanje ali policije, centra socialno delo torej prešlo za resnejše probleme."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1724.74,
+        "end": 1737.228,
+        "text": "Pa še nih sto takih blažjih obiskov, ki so nam tudi poročali o njih, ko so lahko sami prostovoljci pomagali tistim otroku, si je pri njič za te, kot daš prej še ogromno obisko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1737.869,
+        "end": 1753.023,
+        "text": "Ki so padnevem, prijet pokazajo domačo nalogo ali povprašat, če je nekaj prav neke narobe, torej da ni manj resni stvari.Gre v bistvu sam zato, da se vzpostavi neka varnostna zaloga, da otroci vejo, da v njihovih okolici so nekdo..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1753.732,
+        "end": 1757.174,
+        "text": "Prostori, kamor lahko grejo in najdejo pomoč?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1757.731,
+        "end": 1762.523,
+        "text": "Tudi vse policijske postaje v Sloveniji so v barvni točki unicefle taka zanimivost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1763.266,
+        "end": 1781.44,
+        "text": "Ker se pa tiče teh Ljubljanska primera, ja, mi smo tudi še sami videli, ne da šoferji in dispečrski center tako in tako pomagajo, ne se so pomagali že do zdaj, pomagati s otrokom kot z elementnimi ljudmi, so ukvarjali pri zatavaju na avtobuse."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1781.963,
+        "end": 1802.028,
+        "text": "In se nam je zdeljo takšna primirna simbioza, da smo miseli, da je do tega prišlo drugače pa po raziskavah se še vedno skoraj osemindvevetdeset odstotkov otrok v stiski tako in tako brne na svoje starše.Tako da doskat pridejo v take prostore otroci, ki pridejo tja zato, ki je vir težav v družini."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1802.686,
+        "end": 1806.989,
+        "text": "Hvala boguje družina, še sme tista, ki večino takih situacij uspereš."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1817.401,
+        "end": 1823.071,
+        "text": "Ja, v Sloveniji spremljamo številne otroke, ki prihajajo sami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1823.763,
+        "end": 1826.463,
+        "text": "Zapravil tracij brez spremstva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1827.442,
+        "end": 1829.332,
+        "text": "Ki pridejo v Slovenijo in nam..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1830.26,
+        "end": 1837.01,
+        "text": "Žolto tudi, da je o večinama, torej tako kot je pri drugih..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1838.157,
+        "end": 1876.919,
+        "text": "prebežnikih pogosto takoj tudi na žal pri otrocih, po nekaj dneh, po... nekaji mesecih morda včasih čakanja na odločitev o svoji prošnji za mednarodno zaščito udidajo in bojimo se, da to najpogosteje s pomočjo sprovajalcev tistih, ki uresnici iščejo nove žrtve za trgovino z ljudmi in seveda otroci ostajajo v primežu tega, tudi potem ko grajo iz Slovenije in jih je seveda zelo težko sladiti tem otrokom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1877.459,
+        "end": 1939.222,
+        "text": "Zato je seveda ena primarnih odgovornosti Slovenije, da Tim otrokom takoj ko pridejo v Slovenijo ponudi varno zatočišče in tukaj ne mislim seveda zgolj o njihovam pravnem statusu, temveč temu kako so obravnavani, kdo vstopi v njihovo obravnovo, kakos so usposobljeni ljudje, ki se z njimi srečajo, ki delajo za njih in z nnjimi, in seveda, kam so nameščeni in kakšna pomoč jim je kasneje nudena namreč, tukaj govorimo tudi o izredno travmatiziranih otrocih bodiso, tramo ali seveda hude življenjske izkušnje in grozote vojne občutili so okoliščine v begunskih centrih na poti?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1940.032,
+        "end": 2002.334,
+        "text": "In tukaj poskušamo in opozarjamo seveda na to, da obstoječi sistem oskrbe in nastanitve otrok ni ustrezn, da je država dolžna čim prej to vzpostaviti že nekaj časa traja vzpostavljanja tega sistema, zglede bo tudi trenutno seveda zgolj v pilotski obliki, ampak kakorkoli upamo, da bo rešitev čim prej sistemska, na obvednosti namreč želimo trajnih rešitev, ker sicer je prevelika nevarnost zaradi morda zaključka projekta, zaključka pilotnega projektova otroci ostanejo seveda brez tega kar nujno potrebujejo. In seveda ravno v tem če rešitev ni sistemska, če vsi deležniki niso dovolj usposobljeni za delo z otrokom, da otrokova korist ni tisto, kar je vodilo vsakega takšnega postopka, se seveda lahko znajdemo ob napačni odločitvi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2003.026,
+        "end": 2016.914,
+        "text": "In to je seveda odgovornost do prdržave, država tista, ki je dolžno zagotavljati strokovno usposobljanje sodelavce, bodisi je to policija, bodici to centrstva socialno delo, bodi so to prevajalci, bodisti so to odločevalci."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2017.555,
+        "end": 2019.766,
+        "text": "A, in tukaj opažamo do otroci."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2020.357,
+        "end": 2061.869,
+        "text": "Sreda znotraj vseh teh skupine otrok so otroci, ki so še posebej ranljivi in takrat se morajo sistem posebejsko pozorno odzvat.In tukaj naletimo pogosto na težave kljub temu, da včasih pričakujemo, da se v majhni državi lahko hitreje odzovemo, da so te poti krajše, da je glas, ki mora sešt do doklučnih ljudi ne rabi bit tako močen in glasen in zoperen, vendar trenutno kaže, da bomo težko našli rešitve za nekaj otrok in tukaj se nakazuje, da vam mora loporabit ravno ta mehanizem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2062.46,
+        "end": 2068.265,
+        "text": "Še to naj povem, da drugih pravnih poti v nekaterih primerih sploh nimamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2068.771,
+        "end": 2077.023,
+        "text": "Torej, tukaj nam manjkal, morda še kakšno pravno sredstvo na nacionalni ravni, ki bi ga lahko uporabili, pa ga žel nimamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2082.558,
+        "end": 2158.36,
+        "text": "Ja, v povezavi z izobraževanjem je enajstmed stvari, na katere opozarjamo, je to, da si želimo uresnici aktivnih državljanov mladih, ne?Torej, da se prenovo šolskega sistema vnesajo vsebine in načini, ki bodo v otroki, v otrocih samih zbudili tisto, da bodo seveda prvo pravice svoje poznale, poznali in jih bodo znali tudi zaščititi uresničevati udejanjati na ta nočin.Torej da ne vzgajamo otrok v smislu pasijunih, tih, ki ne morejo sodelovati, ampak jih postaviti in opolnomočiti zato, da bodo že kot otroci še bolj pa kot odrasli, seveda vedeli, kako in v kakšnih postopkih te svoje pravice to turistničevati in te vsebine, ki se pripravljajo, tako kot na primer sedaj državljanska vozova, na primer v srednjih šolah, so odlična priložnost, ravno zato pripeljati je treba teme, takako če bile na primer tudi prej opredeljene,, a ne tako enakost spolu kot nasilja v družini, participacije, se pravi vse, kar v resnici je tudi del aktivnega državljanstva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2158.883,
+        "end": 2185.124,
+        "text": "In to mora postati del aridnega izobraževalnega sistema, to zopet ne more bit prepuščeno projektom, ki so ponavadi vezani na to, da nekaj vsebina zelo ušečno deluje, ko pišemo razpis prinaša nekje novega, človekovje pravice ne morejo bit privlačne, so takšne kocene, so izvsemno pomembne in morajo biti seveda prisotno, oziroma izobražanje mora biti prisotna na sistemski rami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2189.528,
+        "end": 2193.106,
+        "text": "Ja, aktivno državljanstvo je..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2193.646,
+        "end": 2194.928,
+        "text": "Zelo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2195.587,
+        "end": 2200.126,
+        "text": "Na nek način kompliciran, predvsem pa celostni projekt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2200.936,
+        "end": 2202.742,
+        "text": "In pomena?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2203.383,
+        "end": 2238.179,
+        "text": "Krepitve aktivnega državljanstva oziroma vzpostavljenja nekih temeljev se mi pri izvezi prijatelje Mladine Slovenije še kako zavedamo, verjamemo, da obstajajo še v kakšni programi projekti tudi ministrstvo za šolstvo očitno misli v korikulum unesti nekaj od teh vsebin, treba bi bilo pa bolj povezovalno delovati in uporabiti te prakse, ki že obstajajo. Spomnila bi vas tudi na to, da teden otroka, ki ta hipoteka..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2239.175,
+        "end": 2241.942,
+        "text": "Poteka prav v znamenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2242.82,
+        "end": 2270.242,
+        "text": "Kot smo jim poimenovali naše pravice, torej v znamenju pravic, ki jih imajo otroci, razpisali smo tudi likovni tečaj, skratke še kako se zavedamo, da je treba otroke opolnomočiti hoborožit z nekim vedenjem in spodbujat njihovo mišljenje, od vrtca naprej, tako da tudi v vrtcih poteka taliko na tečaj, prav zanimivo bo videt, kako razmišlja o katerih smeh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2270.849,
+        "end": 2276.603,
+        "text": "Skratka, sem se pa spomnila, da vedno znova se zavemo kako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2277.38,
+        "end": 2290.238,
+        "text": "Je pereče pomanjkanje aktivnih državljanov vsakič, ko imamo volitva in potem se postavlja vprašanja, pa zakaj je tako nizka volivna udeležba, ja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2290.812,
+        "end": 2292.398,
+        "text": "Treba je delat na tem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2292.955,
+        "end": 2304.262,
+        "text": "O polnomočenju na aktivnem državljanstvu, kje drugje kot pri otrocih tudi medijsko hitrebo v pismanjevat skratka gre zares celosne projekte, ki..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2305.375,
+        "end": 2316.766,
+        "text": "Bi se jih morali bolj zavedati in bolj ceni tiste prakse, ki že obstajajo na primer naš otroški parlament predstavljamo na področju?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2318.133,
+        "end": 2329.051,
+        "text": "Evropskih inštitucij in marsikje so prav začudani, da to peljamo in navdušeni na tem projektom doma na domačih tleh pa..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2329.642,
+        "end": 2330.57,
+        "text": "Kakor da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2331.38,
+        "end": 2354.954,
+        "text": "Na kako ne vemo, ja je to tradicionalen projekt Aha nič novega, čeprav je za vsako generacijo otrok, za vsakega otroka, ki vstopi v ta projekt, je nekaj novega. Ne ampak na razpisih je pa to nič novega, dajte neki novega s spomnic, kratka, nato kar sem hotla, pa je Tomaž tudi omenil..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2356.372,
+        "end": 2361.451,
+        "text": "Tudi pri razpisih, na katere smo večelima nevladniki vsi vezani bi..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2362.295,
+        "end": 2364.37,
+        "text": "Pričakovali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2365.045,
+        "end": 2369.922,
+        "text": "Nekih, gre kla, bolj smeljih odločitev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2370.53,
+        "end": 2395.741,
+        "text": "S strani odločevalcev tako se pa enkrat financirajo v vsebinske mreže, potem se drugič regijska stičišča tretji spet nek skratka ni kontinuitete in če ni kontiniuitete, kako naj pa človak nadaljujejo oziroma oplemeniti nek projekt, ki je v principu dober. To se kaže kot zlo velik problem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2401.192,
+        "end": 2445.657,
+        "text": "Gotovo je na naši organizaciji, predvsem seveda, da krepimo glasotrok, ki jih zagovarjamo namreč zagovorništvo, izvajamo ravno zaradi tega, ker so slaboslišani in to so seveda otroci brez spremstva, otroci, ki v Sloveniji nimajo urejenega pravnega statusa, sicer za to, da njihov glas sploh doseže koga vmes potreboma prevajalce, dobre prevajAlce in tudi na voljo in moč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2447.986,
+        "end": 2448.712,
+        "text": "Predvam se."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2448.712,
+        "end": 2448.728,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2449.69,
+        "end": 2465.148,
+        "text": "Participacija je tudi ena od zadelk, ki je vključni princip konvencijev otrokovih pravicah ter deset let letos praznujemo sodelovanje otrok se prične v družini, potem je pomembno, da se tudi v dolžinskem okolju ustvari."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2465.654,
+        "end": 2491.422,
+        "text": "Vzdušje, kjer se otroka lahko sliši in upošteva šola zdravstvenostanove in tako naprej in takonaprej, pomembno je, da pripravimo informacije in postopke, ki so primerni za otroka, ko vzorfer že govorila, kako pomemno je s otroci sliše in tudi v zoprnih postopkih, ko razveze staršev, da se jih sliše na njen primeren način in glede na njihovo starost, na njegov spol, na nihove."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2491.962,
+        "end": 2496.097,
+        "text": "No, da mohočne posebne potrebe, da se jim prilagodi način, kako so lahko slišani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2496.839,
+        "end": 2497.312,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2498.054,
+        "end": 2527.113,
+        "text": "Drugače pa pri nas na Oni cefu poskušamo spodbujat to participacijo tudi skozi provajam naših džunarjih ambasadorjev, ki mislim, da mogoče dajo en vzgled otrokom, da se lahko pove nekaj resnega in pomembnega tudi na način, da te drugi slišijo, nad koda ja, participacija je pomembna, pomemno pa je, da začnemo sami pri sebi, ne, tako da mogoče na samo kritika danes njema nobena otroka tukneje, ne mogo če bi nas než ga lahko imeli, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2527.113,
+        "end": 2527.501,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2530.758,
+        "end": 2544.832,
+        "text": "Ker zadeva participacijo, naj povem, da Zveza prijateljev mladine Slovenije v mesecu novembru prav tako bo beležitvi tridesetletnice spretja konvencij o drogavih pravicah pripravlja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2545.844,
+        "end": 2561.268,
+        "text": "Oziroma organizira mednarodno konferenco o participaciji otrok z naslovom državljani prihodnosti, tako da vsi vljudno vabljeni tudi tovo priložnost, da se pogovarjamo o otrokovih pravicah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2561.808,
+        "end": 2566.82,
+        "text": "Mogoče pa za zaključek, ki vendarle izpostavila svojo željo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2568.44,
+        "end": 2569.722,
+        "text": "Oziroma..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2570.684,
+        "end": 2571.207,
+        "text": "Moj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2571.764,
+        "end": 2576.928,
+        "text": "Apel na vse odlačevalce, na politiko, na vsem štitucije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2577.502,
+        "end": 2583.695,
+        "text": "Ki se kakorkoli dotikajo življenja otrok, da postavijo otroka v ospredje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2584.235,
+        "end": 2590.597,
+        "text": "Pozornosti pri oblikovanju kakršnih koli politik, to je nujno potrebno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2591.12,
+        "end": 2592.571,
+        "text": "In z..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2593.803,
+        "end": 2602.865,
+        "text": "Stanjem otrokovih pravic ne bomo mogli biti zadovoljni, če otrok ne bo v ospredju, ča dobrobit otroka ne bo o ospreditu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2601.38,
+        "end": 2601.785,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2604.569,
+        "end": 2605.48,
+        "text": "Toliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2606.712,
+        "end": 2611.623,
+        "text": "V svoji zadnji misli nekaj, sem še kotiral, da tam pa se bom ustavila."
+      }
+    ],
+    "runtime_sec": 312.61261796951294
+  }
+}

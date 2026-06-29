@@ -6,21 +6,21 @@ from effects import bandpass_eq
 PARAMS = {
     # --- Acoustic preprocessing ---
     "speed":              1.0,
-    "highpass_cutoff":    0.0,
-    "lowpass_cutoff":     8000.0,
-    "target_lufs":       -23.0,
-    "eq_gain_db":         0.0,
-    "comp_threshold_db": -20.0,
-    "comp_ratio":         1.0,
+    "highpass_cutoff":    59.42,
+    "lowpass_cutoff":     6193.48,
+    "target_lufs":       -27.43,
+    "eq_gain_db":         -2.08,
+    "comp_threshold_db": -13.43,
+    "comp_ratio":         3.79,
 
-    # --- Denoising (remove_noise) ---
+    # --- Denoising ---
     "denoise":                   True,
-    "noise_reduce_strength":      0.75,
-    "gate_threshold_db":         -30.0,
-    "denoise_comp_threshold_db": -16.0,
-    "denoise_comp_ratio":          4.0,
-    "low_shelf_gain_db":          10.0,
-    "denoise_gain_db":             2.0,
+    "noise_reduce_strength":      0.22,
+    "gate_threshold_db":         -46.69,
+    "denoise_comp_threshold_db": -13.64,
+    "denoise_comp_ratio":          7.14,
+    "low_shelf_gain_db":           4.10,
+    "denoise_gain_db":            -1.78,
 }
 
 

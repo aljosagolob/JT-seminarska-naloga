@@ -1,0 +1,688 @@
+{
+  "file_id": "Artur-J-Gvecg-P500021-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500021-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.04968015853216514,
+      "miss": 0.04722898201450681,
+      "fa": 0.0024511765176583305,
+      "confusion": 0.0,
+      "total_duration": 849.7959999999964
+    },
+    "der_collar0.25": {
+      "der": 0.044401068266408376,
+      "miss": 0.042117798294958625,
+      "fa": 0.002283269971449756,
+      "confusion": 0.0,
+      "total_duration": 802.7959999999964
+    },
+    "wer": {
+      "wer": 0.19399896533885153,
+      "ref_words": 1933,
+      "hyp_words": 1720
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1.027,
+        "end": 4.388,
+        "text": "Ja, mogoče samo malo dopolnila."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 4.548,
+        "end": 13.731,
+        "text": "Doktor Ribičeva, v bistvu gre za nek tak naraven in neizogiven pojav, ki nastane pri vsaki uporabi antibiotikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 14.191,
+        "end": 19.053,
+        "text": "In seveda, če se antibiotiki uporabljajo pretirano, je tega pojava še znatno več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 19.673,
+        "end": 41.24,
+        "text": "Tako da je zelo pomembno, da smo tukaj kar sedaj natančni in da delamo škode res toliko, kolikor jo je nujno potrebno, da uspešno zdravimo bakterijske okužbe, ne pa, da se antibiotiki uporabljajo vse oprek in potem je večja škoda zaradi rezistence kot korist zaradi učinka antibiotika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 41.36,
+        "end": 42.4,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 42.94,
+        "end": 48.342,
+        "text": "Kot je omenil že profesor Čižman, smo v Sloveniji lansko leto sprejeli strategijo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 49.542,
+        "end": 59.468,
+        "text": "ki naj bi nekako obladovala predpisovanje antibiotikov in tudi mikrobno odpornost v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 59.909,
+        "end": 65.833,
+        "text": "In tam smo si pač zadali cilje, koliko moramo omejiti porabo antibiotikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 66.173,
+        "end": 72.617,
+        "text": "Tukaj smo se zgledovali seveda po tistih evropskih državah, kjer je poraba majhna in kjer imamo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.298,
+        "end": 92.557,
+        "text": "Tudi s tem uprimerno manjša odpornost bakterij, ker končni cilj je pravzaprav mehna odpornost bakterij in s tem bolj kvalitetno zdravljenje bolnikov, ker seveda bakterijska odpornost pomeni, da bolnik ne dobijo stresnega antibiotika takoj,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 92.877,
+        "end": 104.687,
+        "text": "lahko ga sploh ne dobi, ker ga enostavno ni več, ker so bakterije zelo odporne ali je pa antibiotik tak, da je slabše očinkovit, da je preveč bolj niko škodljiv in podobno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 105.067,
+        "end": 107.249,
+        "text": "Skratka, približati se želimo tem državam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 108.706,
+        "end": 123.898,
+        "text": "In kar gre pač za nek pojem kvalitete zdravstvene obravnave in varnosti bolnikov in glede na to, kako je to seveda pomembno, se nam zdi, da ne vlagamo dovolj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 124.698,
+        "end": 137.248,
+        "text": "Ravno tako seveda se lahko primirjamo glede na sredstva, ki jih vlagamo recimo pri nas ali pa na švedskem, kjer so razmere zelo urejene in na ta način vidimo, da seveda ti vložki"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 137.528,
+        "end": 146.071,
+        "text": "niso zadostni, kljub temu, da smo mi nekako navajeni pač te stvari obladovat na nek skromnejši način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 146.792,
+        "end": 157.276,
+        "text": "Ampak v nedogled sveda to ne gre, potreben je sistematičen pristop, kot ga pač ta predvideva strategija, to je pa na eni strani jezik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 158.116,
+        "end": 173.722,
+        "text": "intenzivnejši nadzor in podpora predpisovalcem, torej nadzori nad predpisovanjem v bolnišnicah, na primarni ravni v domovih, kjer se da ukotoviti, kjer so problemi in potem te probleme izboljšati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 174.102,
+        "end": 176.023,
+        "text": "Na drugi strani seveda edukacija,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 177.883,
+        "end": 196.653,
+        "text": "od študentov v praktično lajične javnosti, potem pa v ljudi, ki delajo v specifičnih zdravstvom povezanih poklicih, ker pravzaprav vsi nekje sodelujajo tako pri temu preprečovanju okuž, potem posredno boljanje manj pri preprečovanju antibiotikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 197.35,
+        "end": 213.782,
+        "text": "Seveda, glede na krizo, ki jo preživljamo in to situacijo z epidemijo, je težko govoriti o nekih dodatnih sredstvih, ampak nekaj tega se da gotovo narez že z preomenjeno, dr. Mrvičeva oboče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 213.922,
+        "end": 231.252,
+        "text": "omenila, da ima ta epidemija lahko tudi neko dobro posledico na prepričevanje vkušnj z odpornimi bakterijami, na to zavedanje, kako moramo z mikroorganizmi živeti, da zato potrebujemo neko znanje in potem seveda tudi nek..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 231.472,
+        "end": 233.693,
+        "text": "nek čas, da to počnemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 234.534,
+        "end": 238.837,
+        "text": "To pa mislim, da lahko tudi v teh razmerah nekje pričakujemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 240.137,
+        "end": 257.428,
+        "text": "Moram še to dodati kot eno tako zanimivo informacijo po svetu, konkretno je bilo to v državah Amerike, v njuroških bolnišnicah so imeli kombinacijo bolnikov s COVID-19 in potem pri njih okušbe z visoko odpornimi bakterijami in zid zdravljenja"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 257.628,
+        "end": 259.67,
+        "text": "teh bolnikov je bil izjemno slab."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 259.69,
+        "end": 263.774,
+        "text": "Tako da je pomembno, da delujemo na oba načina."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 263.794,
+        "end": 265.736,
+        "text": "Če dovolite, da jaz začnem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 265.976,
+        "end": 274.925,
+        "text": "Ja, v prvi vrsti je treba nekje poslušati zdravnika takrat, ko se pogovarjamo o tem, ali je antibiotik sploh potreben."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 275.566,
+        "end": 292.214,
+        "text": "S tem se začne, to je najbolj pomembno, da zdravnik ugotovi, zakaj gre, ali gre za virusno ali bakterijsko okužbo, torej v prvem primeru ni potreben antibiotik, pri bakterijski okužbi je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 292.694,
+        "end": 314.536,
+        "text": "Tukaj je zelo pomembno, da bolnik razume, da ga zdravnik ne želi prikrajšati za neko terapijo, ampak mu pač ne bo predpisal zdravila, ki mu ne bo niti koristno, lahko pa bo pozročilo neprijetne, neželene učinke, ki bodo včasih celo bolj zoprni od bolezni same, recimo kakšne okužbe sečil ali kaj takšnega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 315.357,
+        "end": 324.261,
+        "text": "Tukaj je zelo, zelo pomembno, da se zdravnika posluša, da se ga vpraša, seveda treba je razumeti, zakaj gre."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 324.561,
+        "end": 337.887,
+        "text": "Potem seveda gre pa za način odmerjanja, ki mora biti seveda ustrezen, antibiotiki se pogosto dajajo na ure in opuščanje odmerkov lahko pomeni manjšo učinkovitost zdravljenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 338.307,
+        "end": 340.828,
+        "text": "Potem je seveda zelo pomembno trajanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 341.529,
+        "end": 344.911,
+        "text": "Trajanje zdravljenja se je v zadnjem času kar zelo skrajšalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 344.951,
+        "end": 353.276,
+        "text": "Številne raziskave govorijo pred temu, da so je lahko zdravljenje krajše, ampak prav prekratko pa tudi ne sme biti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 353.336,
+        "end": 362.841,
+        "text": "Spet je potrebno pač se pogovoriti z zdravnikom in nekje biti sigurni, da je to, kar je zdravnik predpisal, res prava stvar."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 362.861,
+        "end": 365.223,
+        "text": "Na ta način mu lažje verjamemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 365.543,
+        "end": 386.804,
+        "text": "Zdaj, pogosto so pri nas antibiotiki pakirani v škaklicah z nedoločenim številom tablet, zdravljenja so pa različna, tako da se nam pogosto lahko zgodi, da nekaj zdravil ostane in tukaj pa je kar precejšna past, da bomo naslednji, če antibiotike je mali pri glavobolu ali pa bomo tako, kot ste rekli, jih posodili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 387.565,
+        "end": 394.627,
+        "text": "posodili sosedi za netežave, ki nimajo pravnobene povezave z bakterijsko okužbo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 395.608,
+        "end": 413.494,
+        "text": "Seveda lahko je zdravljanje neuspešno, če jemljemo antibiotike, recimo, da preveč izpuščamo odmerke ali pa prezgodaj opustimo tisto, česar se pa še bojimo, ker je pa različno od drugih zdravil, je pa, da ne samo, da za nas zdravljanje ne bo v redu,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 413.654,
+        "end": 442.035,
+        "text": "Ampak bakterije bodo prišle ravno toliko v stik z antibiotikom, da bodo lahko razvile svoje mehanizme odpornosti, odmrle pa ne bodo in bodo imele s tem priložnost, da se bodo razmoževale naprej in pozročile ponovno okužbo ali se pa prenesle na kakoga od bližnih in tam pozročile okužbo, ki bo pa zdaj bolj nevarna, ker bo bolj odporna ta bakterija proti antibiotikom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 444.788,
+        "end": 448.889,
+        "text": "Torej, ja, to se do neke mere lahko zgodi pravzaprav že danes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 449.629,
+        "end": 468.215,
+        "text": "Pri bolnišničnih okužbah, pri ljudeh, ki imajo hude kronične bolezni in potem še kakšne zaplete ali pa so zdravljeni na oddelkih za intenzivno zdravljenje, se tudi pri nas nasrečo nepogosto zgodi, da učinkovitega antibiotika nimamo več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 468.275,
+        "end": 469.555,
+        "text": "Bakterija in mogoče še"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 469.915,
+        "end": 476.02,
+        "text": "za kakšne antibiotiki pa je premalo učinkovit, da bi to okužbo res pozdravil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 476.14,
+        "end": 477.261,
+        "text": "To je realnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 477.641,
+        "end": 486.968,
+        "text": "Zato je treba res naresti vse, da se take bakterije prvič, da ne nastajajo zaradi prekomjerne rabe antibiotikov in da se potem seveda ne širijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 487.048,
+        "end": 492.292,
+        "text": "To so pa ti postopki preprečevanja bolnišnišnjih okužb, te higijene."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 492.592,
+        "end": 496.676,
+        "text": "Prej ste omenili baloheco, da bi to moral biti predmet,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 497.236,
+        "end": 524.464,
+        "text": "Ampak je najboljš res, ker vse sorte se učimo v šoli o raznih podrobnostih, biologiji, živali in podobno, ker je seveda zanimivo in pomembno, ampak o tem, kako živeti z mikroorganizmi, s katerimi pa živimo praktično vsak dan, zbolevamo, dobivamo prehlade, lahko tudi take, kot je zdaj ta koronavirus, o tem pa nekako ne zvemo na nek sistematičen način in"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 524.624,
+        "end": 528.448,
+        "text": "kot nam povejo doma, drugače pa nečesa in ne take izobrazbeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 528.568,
+        "end": 535.274,
+        "text": "In to je nekaj, kar se nam zdi zelo pomembno, da bi se res uvedlo, ne samo za hec."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 535.574,
+        "end": 539.138,
+        "text": "Če se vrnem nazaj, nekatere projekcije kažejo, da bi lahko"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 541.6,
+        "end": 551.202,
+        "text": "bila ta bakterijska odpornost pravzaprav večja nevarnost kot raka v obolenji ali kaj podobnega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 551.722,
+        "end": 554.843,
+        "text": "Namreč gre za povezanost teh dveh diagnoz."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 555.203,
+        "end": 564.105,
+        "text": "Mi v bistvu ne moramo učinkovito zdraviti enega bolnika z rakom za hudo imunosupresivno terapijo, s kemoterapijo, če nimamo zraveno"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 564.145,
+        "end": 571.992,
+        "text": "unčinkovitega antibiotika, ki bo pozdravil bakterijsko okužbo, do katere bo prišlo, seveda, ker je ta bolnik zdaj oslabel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 572.072,
+        "end": 576.215,
+        "text": "Tako da tukaj te stvari sta zelo, zelo povezane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 576.235,
+        "end": 589.026,
+        "text": "V bistvu so antibiotiki nekje omogočili moderno medicino in če se bo njihova učinkovitost zaradi odpornosti pomembno zmanjšala, bo to res, res velik, velik problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 589.627,
+        "end": 609.058,
+        "text": "Farmacevska industrija se ukvarja z razvojem novih zdravil, po kaplicah dobivamo posamezne nove antibiotike, ki rešujejo zaenkrat posamezne probleme odpornosti, da bi pa bilo tako kot pred 30 leti, ko se je vzelo nekaj iz police in je praktično vse pomagalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 610.299,
+        "end": 614.742,
+        "text": "Tega pa trenutno nimamo oziroma take rešitve ne vidimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 615.462,
+        "end": 643.142,
+        "text": "Tako da ostaja pravzaprav nekako spoznanje, da nekih čudežnih antibiotikov, kot so bili mogoče v 70-ih letih, ne bomo imeli več, ampak zdravljenje bakterijskih okužb pač moralo biti bolj natančno, z več diagnostike in pač, da vemo, kakšna bakterija je in potem pač na ta način bomo vendarle uspešno zdravili te bolnike, ki sicer..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 643.863,
+        "end": 648.425,
+        "text": "vi bili v veliko slabi koži."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 648.545,
+        "end": 667.611,
+        "text": "Se dogaja, se dogaja, namreč tukaj je, kot sem že prej omenila, zelo pomemben ta dogovor, ta partnerski odnos med bolnikom in zdravnikom, da bolnik nekje razume, zakaj gre in kakšne pač namene in kakšne razloge ima zdravnik za to, da se je odločil ali pa ne odločil za antibiotik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 668.011,
+        "end": 690.955,
+        "text": "Večkrat se pa vendarle zgodi, da delamo bolj na hitro in da antibiotik predpišemo in to ni samo narobe predpisan antibiotik, ampak je napračno sporočilo, ker naslednjič bo ta bolnik mislil, da bo v podobni situaciji spet dobil antibiotik, da smo mu s tem predpisom sporočili, da ga potrebuje, pa ga v resnici ne, ne tukaj je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 691.315,
+        "end": 698.599,
+        "text": "Zelo pomembna je edukacija bolnikov oziroma dogovor z njimi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 699.02,
+        "end": 707.265,
+        "text": "Po drugi strani pa nekje spodbujam bolnike, da sprašujejo svoje zdravnike, zakaj je bil predpisan antibiotik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 707.785,
+        "end": 716.97,
+        "text": "ali je res potreben, koliko časa bo potreben in pametno bi bilo, da bi en tak odnos razvili tudi bolniki, ki so v bolnišnicah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 717.01,
+        "end": 729.517,
+        "text": "Večkrat so bolniki ali smo tudi bolniki v bolnišnicah tako nekje pasivni, predpišejo nam tisto, kar mislijo in mi to samo nekako nemoj in potrpežljivo spremljamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 730.297,
+        "end": 754.402,
+        "text": "Potrebno je vedno vprašati, se pogovoriti, antibiotiki so kar diferentna terapija, tako kot je omenila že gospasa je, vplivajo na bakterije, ki živijo z nami, uničujajo ta naš mikrobiom, ker je lahko potem ima za posledico številne kronične bolezni, tako da spostaviti je treba nadnosno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 756.74,
+        "end": 762.202,
+        "text": "Prav tako gre za okužbe dihal, posebej z gornjih dihal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 763.502,
+        "end": 779.607,
+        "text": "Diagnost, kot je akutni sinusitis, zelo pogosto virusna bolezen, zadošča samo klinični pregled, razgovor z bolnikom, da se lahko odločimo, da bolnik antibiotika ne potrebuje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 780.027,
+        "end": 798.585,
+        "text": "Akutni bronhitis, če ni kakšnih posebnih dejavnikov tveganja, da bi lahko šlo za plučnico, ravno tako je na taka diagnoza, ki ne potrebuje, ne vem kaj, posebne diagnostike, niti ne pregleda recimo krvi, pa se lahko zdravnik že v ambulanti odloči, da antibiotik ni potreben."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 798.725,
+        "end": 813.932,
+        "text": "Prav gotovo so v ospredju okužbe dihal, ki so lahko prepoznavne in to, da se antibiotik ne predstavlja prozapravnovenega tveganja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 816.325,
+        "end": 824.449,
+        "text": "Jaz bi tudi povdarjala na vsak način znanje, prebivalstva, neka prosvetljenost, razumevanje, zakaj gre."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 824.969,
+        "end": 831.892,
+        "text": "Pri zdravnikih pa zgodno izobraževanje na področju antibiotikov v času študija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 832.272,
+        "end": 845.118,
+        "text": "Potem pa v času špecializacije, takrat se zdravniki zelo usmeramo vsak na svoje področje in potem nekako pozabimo, izrinemo iz svojega zavedanja druga področja medicine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 845.518,
+        "end": 857.984,
+        "text": "Antibiotiki so pa žal, bakterijevske okužbe obstajajo, pač nekaj, s čemer se morajo prav vsi vse zdravniške špecialnosti ukvarjati in zato to znanje res vsi potrebujejo."
+      }
+    ],
+    "runtime_sec": 214.04889154434204
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.019169306515916498,
+      "miss": 0.018493850288774923,
+      "fa": 0.0006754562271415734,
+      "confusion": 0.0,
+      "total_duration": 849.7959999999964
+    },
+    "der_collar0.25": {
+      "der": 0.015996591911269755,
+      "miss": 0.015281590840013794,
+      "fa": 0.0007150010712559612,
+      "confusion": 0.0,
+      "total_duration": 802.7959999999964
+    },
+    "wer": {
+      "wer": 0.28660113812726334,
+      "ref_words": 1933,
+      "hyp_words": 1712
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1.043,
+        "end": 9.228,
+        "text": "Ja, je mogoče samo malo dopolnila, doktor Rivića bo v bistu gre za nek tak naraven in neizogiben pojav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 9.734,
+        "end": 41.307,
+        "text": "Ki nastane pri vsaki uporabi antibiotikov in seveda če s antibiotiki uporabljajo pretirano, je tega pojava še znatno več.Tako da je zelo pomembno ne, da smo tukaj kar sedanatančni in da delamo škode res toliko, kolikor jo je nujno potrebne, da uspešno zdravmo bakterijske okužbe, ne pa, da se antibiotiki porabljajo vsevprek in potem je večja škoda zaradi rezistence kot korist zaradi učinka antibiotika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 36.498,
+        "end": 36.751,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 42.202,
+        "end": 48.648,
+        "text": "Kot je omenil že profesor Čižman, smo v Sloveniji lansko leto sprejeli strategijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 49.559,
+        "end": 110.41,
+        "text": "Ki naj bi nekako obvladovala podpisovanje antibiotikov in tudi mikrobno odpornost v Sloveniji, in tam smo si pač zadal cilje, koliko moramo omejiti porabo antibiotikove, v tukaj smo se zgledoval, seveda po tistih evropskih državah, kjer je poraba majhna in kjer imamo tudi temu primerno manjša odpornost bakterij nekaj končni cilji je pravzaprav majhno odporno z bakteriji in s tem bolj kvalitetno zdravljenje bolnikov, ker seveda bakterijska odpornost pomeni, da bolnik ne dobi ustresnega antibiotika takoj, lahko ga sploh ne dobit, ker ga enostavno ni več, ker so bakterije zelo odporne ali je pa antibiotik tak, da je slabše učinkovitej preveč bolnih koškodljiv in podobno, skatka približa se želimo tem državam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 110.917,
+        "end": 117.582,
+        "text": "Nek pojem kvalitete, zdravstvene obravnave in varnosti bolnikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 118.105,
+        "end": 133.917,
+        "text": "Glede na to, kako je to vseveda pomembno, se nam zdi, da ne vlagamo dovolj. Ravno tako seveda se lahko primerjamo glede nasredstva, ki jih vlagam, recimo pri nas ali pa na Švedskem, ker so razmere zelo..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 131.453,
+        "end": 131.774,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 134.153,
+        "end": 176.695,
+        "text": "Urejene in na ta način vidimo, da seveda ti vložki niso zadostni klub temu, da smo mi nekako navajeni pač te stvari obvladovat na nek skromnejši načini. Amak v nedogled seveda to ne gre potrebenje sistematičen pristop kot ga pa če ta predvideva strategija, to je pa na eni strani intenzivnejši nadzor in podpora pred pisovalcem, torej nadzori nad predpisovanjem v bolnišnicah na primi ravni v domovih, kjer se da ugotovit, kje so problemi in potem te probleme izboljšati. Na drugi strani seveda edukacija..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 177.809,
+        "end": 196.692,
+        "text": "Od študentov, praktičnost laične javnosti, potem pa o ljudi, ki ji delajo v specifičnih zdravstvom povezanih poklicih, kar prozaprav vsi nekje sodelujejo od kope pri temu preprečevanju okusb, potem posredno boljanje manj pri predpisovanju antibiotikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 197.35,
+        "end": 218.275,
+        "text": "Seveda glede na krizo, ki jo preživljamo in to situacijo z epidemijo je težko govorito nekih dodatnih sredstvih, ampak nekaj tega se da gotovo nres že z prej omenjeno, doktor Marvečeva bo omenila, da imata epidemija lahko tudi neko dobro posledico na?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 218.798,
+        "end": 263.247,
+        "text": "preprečevanje okužb z odpornimi bakterijami, nato za vedenje, kako moramo z mikroorganizmi živet, da za to potrebujemo neko znanje in potem seveda to tekme čez, da to počnemo. To pa mislim, da lahko tudi v teh razmerah nekje pričakujemo.Moram še to dodat kot eno tako zanimivo informacijo po svetu konkretno ob lotovcev državah Amerike v njurških bolnišnicah so imel kombinacijo bolnikov s koviti devetnajst in potem pri njih okužbe z visokoodpornimi bakterijami, in izid zdravljenja teh bolnikov je bil izjemno slab kot da je pomembno, da delujemo na oba načine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 263.821,
+        "end": 323.677,
+        "text": "Da je, začnem. Ja, v prvi vrsti je treba nekje poslušat zdravnika takrat, ko se pogovarjamo o tem ali antibiotik sploh potreben, s tem se začne, to je najbolj pomembno, da nekako zdravnik ugotovi, zakaj gre ali gre za virusno ali bakterijsko okužbo torej v prvi vrsti, pa vam pri miru ni potreben antibiotik pri bakterrijski okušbi je, no in tukaj seveda je zlo pomembno, da bolnik razume, da ga zdravniki ne želi prikrajšati za nekoterapijo, ampak mu pač ne bo predpisov zdravila, ki mu ne bo niti koristno, lahko bo povzročilo neprijetne neželene učinke, ki bodo včasih celo bolj zoprni od bolezni same, res jim okužbe vse čilaljke in tatzka. To je, to je, tukaj je zelo zelo pomembno, da se zdravnika posluša, da si ga vpraša seveda treba razumet, zakaj gre."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 324.233,
+        "end": 386.975,
+        "text": "Potem seveda gre pa za način odmerjanja, ki mora biti srede ustrezen, antibiotiki se pogosto dajejo navure in opuščanje odmerkov lahko pomeni manjšo učinkovito zdravljenja. Potem je sredo zelo pomembno trajanje, trajanja zdravlenja se v zadnjem času kar zelo skrajšano, številne raziskave govorijo pred temo, da so lahko zdravlenje krajše, ampak prav prekratko pa tudi ne sme pet, spet je potrebno pač se pogovor z zdravnikom in nekje bit, sigurno da je to, ker je zdravnik predpisal res prava stvar na ta način mulažje verjamemo.Zdaj pogosto so pri nas antibiotiki pakirani v škatlicah z določenim številom tablet, zdravljenja so pa različna, tako da se nam pogosto lahko zgodi, da nekaj zdravil ostane in tukaj pa je kar precejšnja past, da bo naslednjič antibiotike jemali pri glavobolu ali pa bom odhodkov, kar ste rekelih posodili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 387.599,
+        "end": 442.088,
+        "text": "Posodil so sedi za netežave, ki nimajo prav nobene povezave z bakterijsko okužbo.Seveda lahko je zdravljenje neuspešno, če jemljemo antibiotike, recimo ga preveč izpuščamo odmerke ali pa prezgodaj opustimo tisto, v česar se pa še bojimo, ker je pa različno od drugih zdravil, je pa, da ne samo za neszdravljenje ne bo v redu, ampak bakterije bodo prišle ravno toliko v stik z antibiotikom, da bodo lahko razvile svoje mehanizme odpornosti, odmrle pa ne bodo, ne, jim bodo v nje le s tem priložnost, da se bodo razmoževale naprej in povzročile ponovno okužbo, se pa prenese na kagoga od bližnjih in tam povzušile okušbo, ki bo pa zdaj bolj nevarna, ker bo odpornata bakterija proti antibiotikom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 444.788,
+        "end": 541.043,
+        "text": "Torej ja, to se do nekaj mere lahko zgodi pravzaprav že danes.Pri bolnišničnih okužbah pri ljudehki imajo hude kronične bolezni in potem še kašne zaplete ali pa so zdravljeni na oddelki za intenzivno zdravlenje, se tudi pri nas s nesrečo ne pogosto zgodi, da učinkovitega antibiotika nimamo več, bakterija ji mogoče še občutljiva za kakšne antibiotiki pa je premalo učinkovit, da bi to okužbo res pozdravo.To je realnost, zato je treba res narez vse, da se take bakterije prvič ne nastajajo za rekomerne rabe antibiotikov in da se potem seveda ne širijo, ne to so pa ti postopki preprečevanja bolnišniših okužb te hijene, prej ste omenil balohecu, da bo to moral bit predmet, ampak je najbolj šest, ne, ker vse sorte se učimo v šolju raznih podrobnosti, biologiji, živali in podobno, ker je seveda zanimivo in pomembno, ampako tem, kako živet z mikroorganizmi, s katerimi pa živimo praktično vsak dan, zbolevamo, se prehlada, dobijamo prehlade lahko tudi take kot je zdaj ta koronavirus, o tem pa nekako ne zvijemo na nek sistematičen način in tako kar nam povejo doma, drugač pa ne česa, je ne take izobrazbeni in to je nekje, kar se nam zekar zlo pomembno, da bi se res uvedlo, ne samo za hec. No, če se vrnem nazaj, torej projekt, nekatere projekcije kažejo, da bili lahko..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 541.668,
+        "end": 589.087,
+        "text": "Bila ta bakterijska odpornost prozaprav večja nevarnost kot rakava oboleni alkepotobnega, namreč gre za povezanost teh dveh diagnos, mi v bistvu ne moremo učinkovito zdravtve in gabolnika z rakom z h imunosopresivno terapijo, s kemoterapijo, če nimamo zdraven onšikovitega antibiotika, ki bo po zdravu bakterijsko okužbo, do katere bo pršlo, seveda ker je ta bolnik zdaj oslabil.Toda tukaj te stvari sta zlozlo povezani, v bistvu so antibiotiki neki omogočel moderno medicino in če se bo njihova učinkovito zaradi odpornosti pomembno zmanjšala, bo to res res velik velik problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 589.66,
+        "end": 609.134,
+        "text": "Farmacevska industrija se ukvarja z razvojem novi zdravil, po kapljicah dobivamo posamezne nove antibiotike, ki rešujejo zaenkrat posamezne problemi odpornosti, da bi pa blodkok odpredvcimo tridesetimi leti, ko se je pač vzelo nekaj s police in je praktično vse pomagalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 609.843,
+        "end": 614.888,
+        "text": "Tega pa, tega pa trenutno nimamo oziroma take rešitve ne vidmo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 615.53,
+        "end": 643.306,
+        "text": "Tako da ostaja pravzaprav nekakost poznanje, da nekih čudežnih antibiotikov, kot so bili mogoče v sedemdesetih letih, ne bomo imeli veča, ampak do zdravljenja bakterijskih okusb pač bolj, moralo bi bolj natančno zveč diagnostike in pač, da vemo, kakšna bakterija je in potem pač na ta način bomo, bomo vendarle uspešno zdravil te bolnike, ki sicer."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 643.981,
+        "end": 645.938,
+        "text": "Gljublje v velvoslabi koži."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 648.115,
+        "end": 667.64,
+        "text": "Da, se dogaja, namreč tukaj je, kot sem že prej omenila zelo pomemben ta dogovor, ta partnerski odnos med bolnikom in zdravnikom, da bolnik nekje razume, zakaj gre in kakšne pač namene in kaksne razloge ma zdravnih za to, da se jo odloči ali pa ne odloši za antibiotik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 668.264,
+        "end": 754.495,
+        "text": "Večkrat se pa vendarle zgodi, da delamo bolj na hitro in da antibiotik predpišemo in to ni samo narobe predpisano antibiotikem, ampak je napačno sporočilo, ker naslednjič bo ta bolnik, pač mislil, da bo v podobni situaciji spet dobil antibiotik, da smo mu s tem predpisom sporočili, da ga potrebuje pa ga uresnici ne, ne, tukaj je zlo pomembna neka taka, kot bi je klaj, edukacija bolnikov oziroma dogovor z njimi. Po drugi strani pa nekje spodbujam tudi bolnike, da sprašujejo svoje zdravnike zakaj je bil predpisan antibiotik ali res potreben kolk časa bo potrebnil, pametno bi vložili en tak odnos razvil tudi volniki, ki so v bolnišnicah večkrat, so boln ali smot od bolnikih v bolničnicah, kot nekje pasjev njene predpišejo nam tisto pač krv, kar miselijo in mi to samo nekako njemo in potrpežljivo spremljamo skatka. Potrebno je vedno vprašat se pogovor z antibiotiki so kar diferentna terapija, kako kaj je omenila že gospasa J ne vplivajo na bakterije, ki živijo z nami, uničujejo ta naš mikrobiom, ker jo lahko potem ima za posledico številne kronične bolezni, tako da v postavci treba nadnosno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 756.723,
+        "end": 765.903,
+        "text": "Prav tako gre za okužbe dihal, posebej zgornji dihal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 766.595,
+        "end": 809.221,
+        "text": "Akutni sinusitis, zelo pogosto virusna bolezen, zadošča samo klinični pregled, razgovor z bolnikom, da se lahko odločmo, da bolnika antibiotika ne potrebuje akutni bronhitis če ni kakšnih posebnih dejavnikov tveganja, da bi lahko šlo za vključnico, ravno tako je nataka diagnoza, ki ne potrebuje, ne vem kaj posebne diagnostike niti ne pregleda recimo krvi pa se lahko zdravnik že v ambulanti odloči, da antibiotik ni potreben.Torej prav gotov so v ospredju okužbe dihal, ki so lahko prepoznavne in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 809.896,
+        "end": 814.148,
+        "text": "To da se antibiotik ne predpiše, ne predstavlja prozaprav novenega tveganja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 816.325,
+        "end": 819.869,
+        "text": "Je zbitut poudarila na vsak način znanje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 820.713,
+        "end": 858.091,
+        "text": "Predvivalstva, nekaj prosvetljenost, razumevanje, zakaj gre pri zdravnikih pa zgodno izobraževanje na področju antibiotikov v času študija, potem pa v času špecializacije takrat se zdravniki zlo usmermo vsak na svojo področje in potem nekako pozabimo, izrinemo iz svojega zavedanja druga podrošja medicine, antibiotiki so pa žal, bakterijevske okužbe obstajajo, pač nekaj, s čemer se morijo prav vsi vse zdravniške specialnosti ukvarati in za to to znanje res vsi potrebujejo."
+      }
+    ],
+    "runtime_sec": 108.55202460289001
+  }
+}

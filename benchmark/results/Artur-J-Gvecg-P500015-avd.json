@@ -1,0 +1,2764 @@
+{
+  "file_id": "Artur-J-Gvecg-P500015-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500015-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.06626497020044174,
+      "miss": 0.058752898802612225,
+      "fa": 0.004425380767855611,
+      "confusion": 0.003086690629973911,
+      "total_duration": 2609.2669999999607
+    },
+    "der_collar0.25": {
+      "der": 0.05691119119418788,
+      "miss": 0.05041511444237508,
+      "fa": 0.004091792137124842,
+      "confusion": 0.0024042846146879607,
+      "total_duration": 2417.766999999961
+    },
+    "wer": {
+      "wer": 0.20317991631799162,
+      "ref_words": 5975,
+      "hyp_words": 5449
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1.803,
+        "end": 23.233,
+        "text": "Spoštovane in spoštovani, bližajoči se Maraton Franja, ki predstavlja največji kolesarski dogodek pri nas, bo tokrat namenjen tudi o zaveščanju javnosti o vladovanju humanega papiloma virusa HPV v povezavi s športom in zdravim načinom življenja ter oblogi cepljenja kot načina preventive."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 23.453,
+        "end": 48.598,
+        "text": "Kakšen je pomen cepljenja proti HPV, še posebej v času novega koronavirusa in spremenjenega delovanja nacionalnih izobraževalnih ter zdravstvenih programov in kako bi bilo potrebno še ukrepati za omejitev te bolezni, bomo spregovorili v tokratnem spletnem pogovoru STA kluba Slovenske tiskovne agencije, ki smo ga naslovili, kolesarimo proti okužbam z HPV."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 49.458,
+        "end": 59.058,
+        "text": "Z menoj so darašnji spoštovani sogovorniki, ki jih lepo virtualno tokrat pozdravljam, dr. Leon Meglič, specialist, genekolog in porodničar."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 59.139,
+        "end": 59.9,
+        "text": "Dobr dan želim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 61.0,
+        "end": 71.663,
+        "text": "Z nami je predstavnica zdravstvenega doma celje in tudi predsednica sekcije za primarno pediatrijo, dr. Anita Jagrič-Friškovec."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 71.843,
+        "end": 72.944,
+        "text": "Lep dober dan želim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 73.444,
+        "end": 75.004,
+        "text": "Dobar dan."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 75.164,
+        "end": 78.885,
+        "text": "In pa tudi sekretar kolosalskega društva ROK, Miro Miškulin."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 78.925,
+        "end": 79.826,
+        "text": "Lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 80.806,
+        "end": 81.166,
+        "text": "Dobar dan."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 82.432,
+        "end": 93.582,
+        "text": "Predvedevamo pa, da se nam bo v kratkem pridružil tudi še naš naslednji gost, sicer specialist-pediater dr. Denis Baš, ki ga še čakamo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 93.642,
+        "end": 109.956,
+        "text": "Bomo pa medtem z virtualno konferenco seveda že začeli, kajti obveznosti tudi naših gostov so velike in zato toliko bolj cenimo vaš čas, dragi spoštovani, ki ste si ga vzeli za naše gledalce in gledalke."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 111.018,
+        "end": 126.472,
+        "text": "Okužba z HPV je ena najpogostejših in najmanj poznanih spolno prenosljivih okužb, ki jo ogroža tako ženske kot moške, ter s katero se vsaj enkrat v življenju okuži kar 80 odstotkov spolno aktivnih ljudi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 126.792,
+        "end": 135.9,
+        "text": "Virusi HPV se prenašajo že s tesnejšim stikom, okužba pa je najpogostejša pri mladostnikih in mladih odraslih, starih med 15 in 25 letom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 138.102,
+        "end": 147.425,
+        "text": "Zavedanje o nevarnostih, ki jih okužba z HPV predstavlja za ženske, veliko boljše, kot pa kaj pomeni za moške."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 147.485,
+        "end": 158.848,
+        "text": "V splošni javnosti je namreč v bistvu veliko premalo informacij, kako okužba vpliva na moške, ki so imunsko manj uspešni pri premagovanju bolezni in niso zgolj njeni prenašalci."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 159.668,
+        "end": 182.666,
+        "text": "Stroka zagovarja in spodbuja cepljenje dečkov in njihovo vključitev v nacionalni cepilni program, v katerega so deklice že vključene, ki bi omogočilo brezplačno cepljenje tudi tej polovici populacije in s tem pripomoglo k učinkovitosti preventive okužbe, ki lahko nosi resne posledice ter se lahko razvije v smrtno nevarne bolezni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 183.226,
+        "end": 200.85,
+        "text": "O zaveščanju o pomembnosti preventive in skrbi za svoje zdravje se je letos pridružilo tudi Kolesarsko društvo Rok, ki s svojo javno kampanijo o zaveščanju kolesarjenje proti okužbam z HPV povezuje šport, zdrav način življenja in pa skrb za telo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 201.41,
+        "end": 205.371,
+        "text": "Prvo vprašanje za dr. Megliča v tem trenutku je,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 205.771,
+        "end": 208.473,
+        "text": "Mogoče najprej opisno nekaj smo že povedali."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 208.893,
+        "end": 218.419,
+        "text": "Kaj je virus HPV, kako okužba z njim vpliva na organizem, kakšne so njene posledice ter kakšna je njena nevarnost?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 218.519,
+        "end": 220.661,
+        "text": "Pozdravljeni še enkrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 220.841,
+        "end": 233.569,
+        "text": "HPV virusi so virusi, ki spremljajo človeštvo že z vrednost sega nastanka, se sproti z ljudmi in njihovimi vrstami tudi spremenjajo in prilagajo novem okoljem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 233.969,
+        "end": 242.191,
+        "text": "Papiloma virusi, ne samo humani, so zelo, zelo heterogena skupina virusov, DNA virusov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 242.792,
+        "end": 254.615,
+        "text": "Ti, o katerih teče beseda, se pravi humani, ti, ki so specializirani za ljudi, je do danes poznanih dobrih 220 tipov, vsako leto odkrije še katerega novega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 254.995,
+        "end": 275.099,
+        "text": "Najbolj enostavno jih razdelimo na tiste, ki so visokorizične, se pravi, povzročuje predrakaste in rakaste spremembe in niskorizične, ki povzročuje predvsem genitalne bradavice, tako imenovane kondilome."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 275.36,
+        "end": 277.24,
+        "text": "Dr. Jagrič Friškovčeva,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 278.637,
+        "end": 290.444,
+        "text": "Kako pri vas pristopate k ozaveščanju, da vam na vašem območju uspeva doseči najvišjo stopnjo precepljenosti v Sloveniji?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 290.464,
+        "end": 293.265,
+        "text": "To je dobro vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 294.106,
+        "end": 297.387,
+        "text": "Mi smo zelo zadovoljni, da imamo tako precepljenost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 298.772,
+        "end": 307.196,
+        "text": "Otroci dobijo v šole svoje, ko jih povabimo na sistematične preglede, dobijo pisna gradiva, starši pravzaprav, da si jih preberajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 307.656,
+        "end": 310.657,
+        "text": "Zelo pomembna je, kakšna je klima v lokalni skupnosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 313.098,
+        "end": 320.121,
+        "text": "Naše sestre, ki izvaja zdravstveno vzgojo, izvaja tudi predavanja po šolah za starše in za učence."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 320.221,
+        "end": 325.484,
+        "text": "In pa seveda vse, kar noj je za izvaja, se učit na ljudi bolj prime v naši regiji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 327.389,
+        "end": 333.422,
+        "text": "Dr. Meglič, kako se okužba z virusom HPV prenaša?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 334.932,
+        "end": 341.633,
+        "text": "Ste že vi sama preomenila v vodoma, to je spolno prenosljiva bolezen, ki pa ni samo spolno prenosljiva bolezen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 342.153,
+        "end": 348.214,
+        "text": "Se pravi, da najpogočejši so stiki med moškim in žensko, med moškim in moškim, med žensko in žensko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 348.274,
+        "end": 361.697,
+        "text": "Govorimo o klasičnih spolnih stikih, pa tudi neklasičnih, oziroma v stikih, ki bi jih težko predelili, da so spolni, so pa recimo v nekem smislu intimni ali pa vsaj precejšen del kože, ki se dotika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 362.017,
+        "end": 369.663,
+        "text": "Tako da kljub temu, da kondom prepreči znaten del prenosa, ni apsolutna zaščita pri prenašanju HPV virusa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 370.063,
+        "end": 391.239,
+        "text": "Prenašajo se pa pravzaprav preko moškega spolne guda v žensko nožnico in v okolje ženske nožnice se pravi zunanje spolovilo, prenašajo se tudi v anos in na analno sluznico, prenašajo se tudi v oralno sluznico, pa tudi na kože druge poteleso, kot je pazduha, vrat in podobno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 391.868,
+        "end": 404.039,
+        "text": "Tako da heterogena skupina virusa vstopa vse povsod, ker vstopamo v spolnosti tudi mi, ljudje, in ogroža ljudi in spremembe, ki se tam nastajajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 406.921,
+        "end": 416.466,
+        "text": "iz predrakastih do rakastih so pogoste in so ene najpogostejših in hkrati možnostnih je prevencija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 416.806,
+        "end": 424.691,
+        "text": "Prevencija v smislu, da vemo, kako se prenaša, da vemo, kako se zaščititi pred prenosi, ker pa se vsaj večinoma ne želimo odreži spolnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 425.011,
+        "end": 446.181,
+        "text": "je možnost seveda cepljenja nekaj, ker pri mladih ljudih, ki sploh še niso spolno zaživeli praktično, absolutno prepreči prenos pri starejših ljudih, pa selektivno tiste, ki jih imajo težave, pri katerih se je skazalo, da njihov odpornost ni kos HPV-ju, lahko cepimo tudi kasneje njih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 446.521,
+        "end": 452.444,
+        "text": "Doktor Jagrič Friškovčeva, zakaj je pomembno, da se cepljenje začne v šestem razredu pri starosti 11-12 let?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 454.846,
+        "end": 462.87,
+        "text": "Ja, gledajte, po študijah, ki so jih izvajali, se je pač izkazala ta starost kot najbolj optimalna za doseganje imunskega odgovora."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 463.25,
+        "end": 476.177,
+        "text": "Tako kot je doktor Meglič rekel, tudi kasneje ni prepozno, nikoli ni prepozno, ampak v tej starosti, pa tam nekje do 15. leta, zadoščata dve dozi cepiva, potem pa je potrebno dati tri cepiva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 478.454,
+        "end": 499.279,
+        "text": "Ste imeli pri vas kakšne težave z izvajanjem cepljenja v času po COVID-19 epidemiji, da bi dali kakšno izporočilo, kako pomembno je, da se ta cepljenja, ki pomenijo optimalno zaščito proti okužvam z HPV, organizira."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 499.359,
+        "end": 504.02,
+        "text": "Kakšne so izkušnje vaših kolegov, kolegic šolskih zdravnik?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 504.931,
+        "end": 516.253,
+        "text": "Ja, se veste, tistih prvih štanaj dni smo bili vsi v šoko, potem smo se pa mi že med epidemijo samo zelo dobro organizirali, pa tudi kolegice in kolegi v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 516.994,
+        "end": 526.296,
+        "text": "Tudi starši so bili zelo zainteresirani, da detvice dokončajo, že začeta cepljenja, ker šesto šolke so večinoma bile cepljene že pred novim letom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 526.816,
+        "end": 533.057,
+        "text": "In tako, da ni bilo hvišjih problemov, bili smo individualno, pa z vsemi temi pristopnimi"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 533.436,
+        "end": 538.396,
+        "text": "pogojih, ki jih trenutno imamo v zdravstvenih ostanovah, ampak imamo zelo dober odziv."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 541.28,
+        "end": 556.807,
+        "text": "Doktor Meglič, posledice okušb s HPV, s kakšnim številom obravnav in posegov, ki so povezani s HPV in rakom na materničnem vratu, te so očate na ginekološki kliniki, mogoče, če nam lahko ponazorite, s kakšnimi številkami."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 557.167,
+        "end": 563.19,
+        "text": "In kakšne so najbolj pogoste posledice, katere posege najpogostejje opravite pri ženskah?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 563.23,
+        "end": 566.472,
+        "text": "Kaj to pomeni za žensko, ki se zdravi pri vas na kliniki?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 567.812,
+        "end": 568.493,
+        "text": "Ja, teh..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 569.478,
+        "end": 579.897,
+        "text": "Bolezni, ki jih povzloča HPV, vsaj bo na ginekološkem področju, je na našem oddelku ginekološke klinike v kliničnem centru zelo veliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 581.628,
+        "end": 586.194,
+        "text": "Vendar le je glavni delež težav na predrakastih spremembah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 586.734,
+        "end": 600.291,
+        "text": "Ko govorimo o rako na matričnem vratu kot o končni zgodbi neke okužbe, je seveda tisto, kar nas tudi čustveno mogoče najbolj pretrese oziroma se nas najbolj dotakne, pa korisnici je gro dela in seveda tudi..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 601.827,
+        "end": 608.909,
+        "text": "gro okušb oziroma sprememb v spektru, ki mu rečemo predrakaste spremembe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 608.969,
+        "end": 617.291,
+        "text": "Se pravi, nekaj, kar lahko v 30 ali celoveč procentih postane v nekaj letih rakasto, se pa začne kot predrakasta sprememba."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 617.791,
+        "end": 627.774,
+        "text": "In najprej imamo seveda ženske, ki pridejo s temi predrakastimi spremembami v naše ambulante, kjer to potem z raznimi biopsijami tudi dokažemo in potem"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 628.034,
+        "end": 644.209,
+        "text": "posegi, ki jim rečemo ali konizacija ali ostanito materničnega vratu za električno zanko oziroma lec, stujko teh je na letni ravni, če govorimo tukaj v ginekološki kliniki, blizu tisoč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 644.289,
+        "end": 644.61,
+        "text": "Tisoč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 645.01,
+        "end": 653.278,
+        "text": "In to je ena ogromna številka, s katero se soočamo, ampak tisoč teh pacijentk pomeni, da je bila ta pacijentka pri nas vsaj trikrat obravnavana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 653.418,
+        "end": 662.127,
+        "text": "Najprej, ko je prišla na potenanj svojega ginekologa k nam, kjer smo gledali, potem zeli tkivo, potem, ko smo se z njo dogovorili, kakšen poseg glede na tkivo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 664.467,
+        "end": 672.471,
+        "text": "histološki izved potrebuje, potem sam poseg in navadno še po posegu, da se dogovorimo, ali smo spremembo ocenili v zdravju ali ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 672.991,
+        "end": 681.055,
+        "text": "Problem, ki ga tukaj vidim, spet podarjava, da gre za predraka, se sprememba je v tem, da ženski lahko precej oslabi maternični vrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 681.115,
+        "end": 687.298,
+        "text": "Maternični vrat pa ima funkcijo, da v nosečnosti zadrži plot, da dobesedno ne pade skozi nožnico ven."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 687.518,
+        "end": 697.183,
+        "text": "In zdaj, če imamo veliko teh žensk, je seveda tudi pričakovana številka prezgodnih porodov večja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 697.543,
+        "end": 705.847,
+        "text": "Če dalje kasneje se naše pacijentke odločajo za zanositev in če dalje večje teh, ki prihajajo z okužbo materničnega vratu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 706.187,
+        "end": 709.588,
+        "text": "Ne še rakasto, ampak predrakasto in s tem imamo največ dela."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 710.029,
+        "end": 716.972,
+        "text": "No, seveda so ženske, ki ne hodijo na preventivne preglede, se ne odzivajo na vabila naše zore."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 717.472,
+        "end": 728.636,
+        "text": "teh je tudi kar nekaj in pri njih pa zaznamo ne več samo predrakaste, ker so zamodili to pot oziroma zgodbo, ampak že rakaste spremembe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 728.676,
+        "end": 738.34,
+        "text": "Teh rakastih sprememb pa na ginekološki kliniki zdaj, ko je število rakov dejansko drastično padlo, nekje do 40 na leto."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 741.215,
+        "end": 745.338,
+        "text": "Doktor Denis Baš se nam je pridružil, lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 746.598,
+        "end": 753.703,
+        "text": "Vem, da ste imeli druge obveznosti v tem trenutku, zato smo vas zelo veseli, da ste imeli čas tudi za nas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 753.883,
+        "end": 757.265,
+        "text": "Mogoče kar vprašanje, da se ogrejemo za začetek."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 757.625,
+        "end": 768.812,
+        "text": "Nekateri starši pravijo, da je prezgodaj, da se njihova hči cepi v šestem razredu, da še dolgo ne bo spolno aktivna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 769.092,
+        "end": 778.114,
+        "text": "Kako nagovarjate take starši, kako jim utemeliti, zakaj je vse eno priporočljivo cepiti pri tej starosti?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 778.314,
+        "end": 781.814,
+        "text": "Ja, lepo pozdravljeni in hvala za povabilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 782.095,
+        "end": 787.536,
+        "text": "Zdaj, v bistvu moram reči, da mogoče pred leti je bilo teh vprašanj res več."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 787.596,
+        "end": 794.317,
+        "text": "Zdaj, jaz mislim, da se je ozaveščenost vsem tudi staršev, saj v okolju, kjer jaz delujem, izboljšala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 795.08,
+        "end": 806.006,
+        "text": "Je pa v bistvu glavna stvar, s katero pristopim, ta, da je v bistvu cepljanje v tej starostni skupini najbolj učinkovito."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 806.386,
+        "end": 809.808,
+        "text": "Da nima zdaj to take povezave z"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 810.537,
+        "end": 838.222,
+        "text": "bi rekel, ali bo zdaj čez eno leto ali bo čez dve lete ali čez štiri leta spolno aktivna, ampak v bistvu sam odgovor cepiva in v bistvu tvorba zaščite za to deklico oziroma za fanta, ne na zadnje, pa tudi prej, ko se cepimo, rabimo imeti naprimer dva odmerka cepiva kasneje, pa potem recimo tri, tako da tudi tukaj je že en tak moment."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 841.722,
+        "end": 851.49,
+        "text": "Doktor Jagrič-Friškovec, kakšne so možnosti cepljenja, če šole ne bi sodelovali pri izvajanju sistematskih pregledov?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 852.491,
+        "end": 854.513,
+        "text": "Mi skrbno upamo, da do tega ne bo prišlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 855.614,
+        "end": 860.158,
+        "text": "Namreč organizacija, ki imamo v Sloveniji, je res odlična, kar se tega tiče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 860.798,
+        "end": 864.942,
+        "text": "Šole nam pripeljajo kot 200 cele razrede in zadeva poteka tekoče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 865.567,
+        "end": 874.115,
+        "text": "Če bi se v šolah stvari spremenile, bodi si iz epidemioloških ali kakih drugih razlogov, bi pač morali vabiti otroke za starši individualno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 874.715,
+        "end": 876.397,
+        "text": "Takrat pa je odzivnost bistveno slabša."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 876.457,
+        "end": 882.062,
+        "text": "Morate verjeti, da se morajo starši vzeti v prosti čas ali dopust ali bolniško ali karkoli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 883.744,
+        "end": 885.806,
+        "text": "In to potem ne poteka tako enostavno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 889.192,
+        "end": 906.292,
+        "text": "Da pozdravimo še gospoda Mira Miškolina in prekinemo mogoče ta tok zdravstvene tematike, pa gremo v povezavo z kolesarjenjem, ki je letos postalo slovenski nacionalni šport, ker imamo na Tour de France kar"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 906.472,
+        "end": 910.353,
+        "text": "državna prvenstva, če se lahko pošalimo za umest."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 910.713,
+        "end": 919.836,
+        "text": "Gospod Miškulin, kako bi opisali to posebno kampanjo kolesarjenje proti okužbam z HPV?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 920.156,
+        "end": 922.497,
+        "text": "Kako je ideja o tej kampanji nastala?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 922.837,
+        "end": 930.859,
+        "text": "S kakšnim namenom ste začeli z organizacijo te pobude in kakšno je pravzaprav sporočilo kampanje osveščanja?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 934.332,
+        "end": 948.117,
+        "text": "Dr. Meglič, če greva nazaj na tematiko, največkrat HPV okužbe povezujemo z ženskami."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 948.298,
+        "end": 950.578,
+        "text": "V Sloveniji se mi zdi, da je to taka tematika."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 951.019,
+        "end": 954.76,
+        "text": "HPV okužba, to je ženska stvar, to za nas moške ni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 955.28,
+        "end": 958.882,
+        "text": "Ampak tako za ženske kot za moške je zelo pomembna preventiva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 959.442,
+        "end": 964.965,
+        "text": "Kakšno je vaše mnenje o vključitvi dečkov v nacionalni program cepljenja?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 965.045,
+        "end": 970.967,
+        "text": "To je doslej edino cepljenje v Sloveniji, kjer zavarovalnica plača cepljenje samo dekletom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 971.008,
+        "end": 980.352,
+        "text": "Kakšen vpliv bi imela vključitev dečkov v nacionalni cepljenji program na predcepljenost v Sloveniji in seveda tudi na učinkovitost preventivnih ukrepov?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 981.548,
+        "end": 995.598,
+        "text": "Torej, lepo ste povedala, tako kot drugod, v svetu smo tudi pri nas začeli s cepljenim deklic, ampak problem je, da smo potem s tem cepljenim, se pravi, čujem, se slišimo,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 996.145,
+        "end": 1001.487,
+        "text": "Zdaj se slišimo, kar nadaljujte, prosim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1001.507,
+        "end": 1001.647,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1001.687,
+        "end": 1006.649,
+        "text": "Začeli smo tako, kot so začeli v druge posveto s cepljenjem deklic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1006.729,
+        "end": 1020.095,
+        "text": "Se je skazalo, da deklice ne so edine, ki zbolijo z okužbami s HPV-jem, predvsem pa, da je zaščita, ker so zaščiteni vsi ali vsaj večina populacije, mnogo boljša."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1020.395,
+        "end": 1025.476,
+        "text": "Torej, nekatera dejstva se sproti učimo in spoznavamo o HPV-ju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1025.576,
+        "end": 1033.939,
+        "text": "Naprimer, da so ženske mnogo boljše pri iščiščenju HPV-ja iz telesa, se pravi pri premagovanju okužb, v primerjavi z moškimi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1033.999,
+        "end": 1041.881,
+        "text": "Drgače bom povedal, menila ste, da približno 80% spolno aktivnih ljudi se vsaj enkrat življenje okuži oziroma sreča z HPV-jem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1042.585,
+        "end": 1043.725,
+        "text": "kar se vde drži."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1044.526,
+        "end": 1065.854,
+        "text": "Tisto česar nismo do zdaj povedali, pa je, da teh 80% deklic oziroma žensk zgobi okužbo oziroma jo premaga praktično v veliki večini primerov, tako da jih redno ali nadalj čas okuženih ostane samo nekaj procentov, nikakor ne teh 80%, ampak mogoče 7-10%."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1067.695,
+        "end": 1069.096,
+        "text": "Ne pa tudi pri moških."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1069.317,
+        "end": 1071.959,
+        "text": "Moški ostanejo praktično doživljensko okuženi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1072.32,
+        "end": 1081.309,
+        "text": "Se pravi, če bi dejela neko analizo pri moških, starih 60 ali 70 let, bi bilo, kot vidite, še vedno 70% teh moških HPV pozitivnih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1081.329,
+        "end": 1085.233,
+        "text": "In seveda tudi ti moški še vedno živijo športno, da ne rečem spolno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1085.273,
+        "end": 1087.415,
+        "text": "Zdaj, ko smo ravno pri športu in kolesarjenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1088.136,
+        "end": 1088.336,
+        "text": "Torej,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1089.616,
+        "end": 1098.78,
+        "text": "Ta HPV se potem stalno znotraj te iste družbe vrti in nekako ga ne uspemo eradicirati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1098.86,
+        "end": 1101.501,
+        "text": "Spremenilo bi se pa s cepljenjem dečkov marsikaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1101.601,
+        "end": 1109.525,
+        "text": "Naprimer to, da dečki ne bi okoževali seveda deklic, ki se iz tega ali drugega razloga niso cepile."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1109.665,
+        "end": 1116.327,
+        "text": "Se pravi, ta kohortna zmožnost, da se nek letnik precepi, bi bila mnogo višja, se pravi, iz zdajšnjih 50%."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1117.628,
+        "end": 1135.707,
+        "text": "deklic, to pomeni 25% populacije neke starosti, bi zdaj pa šli mogoče, če bi se dečkli v enaki meri, cepili vsaj na 50% predsepljenosti, kar pa že predstavlja določeno kvaliteto in seveda zmanjšanje možnosti prenosa HPV virusa znotraj generacije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1136.208,
+        "end": 1138.91,
+        "text": "Tako da vsekakor podpiramo dečke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1138.95,
+        "end": 1149.339,
+        "text": "Druga stvar je, da pač ne moremo živeti zaplankano, torej ni samo heteroseksualne spolnosti, ampak tudi homoseksualna spolnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1149.679,
+        "end": 1157.065,
+        "text": "Pri tej dečki oziroma moški z moškega prenašajo viruse, na ta način bi seveda zaščitili tudi njih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1157.285,
+        "end": 1159.126,
+        "text": "in ne samo naše pacijentke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1159.386,
+        "end": 1163.589,
+        "text": "Namreč karcinomi v resnici spole ne izbirajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1163.97,
+        "end": 1182.643,
+        "text": "Karcinom materničnega vrata lahko dobi seveda samo ženska, ker samo ona ima maternični vrat, ampak karcinom žrela je pri moških in pri ženskih, karcinom anusa je pri moških in pri ženskih, je pa karcinom penisa vezan seveda samo za moške in je, hvala Bogu, relativno redek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1182.783,
+        "end": 1204.242,
+        "text": "Še enkrat, če povzamem tole dolge ekspoze, menim, da je absolutno nujno, da se začne cepiti tudi dečki, da sledimo, razvitamo sveto tudi v tem, kajti smo ena redkih lis v Evropski uniji, ki pa nasploh v zahodnjem svetu, ki nima še cepjenja za oba spola."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1206.023,
+        "end": 1209.585,
+        "text": "Kako pa poteka okužba pri fantih?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1209.665,
+        "end": 1215.888,
+        "text": "Nekaj najhujših posledic ste že omenili, torej rak grla, anusa, penisa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1215.968,
+        "end": 1219.17,
+        "text": "Kako poteka okužba, kakšne so lahko njene posledice?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1220.06,
+        "end": 1226.287,
+        "text": "Torej, okužba lahko začetka poteka oziroma večinoma poteka posebno neprepoznana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1226.648,
+        "end": 1232.214,
+        "text": "Leta, celo desetletja se lahko na okužene osebe ne spremeni absolutno ničesar."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1232.294,
+        "end": 1237.981,
+        "text": "Tudi če jemljamo mikroskopske brise in jih pregledujemo, ne bomo našli nobenih celičnih sprememb."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1238.281,
+        "end": 1239.503,
+        "text": "Potem pa v nekem hipu"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1239.803,
+        "end": 1260.853,
+        "text": "imunost toliko popusti, da se začne virus vendarle razvijati, skriti v celici pred našim imunskim sistemom, začne torej s svojim pohodom spreminjanja naše DNA, v katero se integrira virusni DNA in z uničevanjem oziroma preprečevanjem delovanja"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1261.133,
+        "end": 1267.874,
+        "text": "naših možnosti, da popravljamo napake v naši DNA, ki se z vsako delitvijo ciljice seveda pojavljajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1268.275,
+        "end": 1278.337,
+        "text": "In v bistvu, s tem, ko mi nimamo tega reparatornega mehanizma, prihaja do napak, najprej v predrakasto smer ciljice, na koncu pa ciljica zdelja v rakasto smer."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1278.417,
+        "end": 1288.659,
+        "text": "Se pravi, tako je po okužbi oziroma nekaj tednov po okužbi lahko zaznamo samo, kada je okužba s tistimi tipi, tako imenovanimi nizkorizičnimi, ki povzročijo bradavice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1288.859,
+        "end": 1298.922,
+        "text": "visokorizični, ti, ki so zares ta glavni problem, tistih pa ne zaznamo leta, celodne, desetletja, dokler na teh sprememb ne pride."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1299.202,
+        "end": 1304.844,
+        "text": "Sam način prenosa smo pa seveda že povedali, spolno pa tudi samo z dotiki kože na kožo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1306.425,
+        "end": 1311.806,
+        "text": "Doktor Baš, kako je COVID-19 pandemija vplivala na cepljenje?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1311.886,
+        "end": 1317.288,
+        "text": "Kakšne so možnosti cepljenja, kljub omejitvam, ki so posledica pandemije?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1318.88,
+        "end": 1334.814,
+        "text": "Zdaj na začetku je sigurno v bistvu v prvem mesecu, v prvih dveh mesecih se je v bistvu ustavilo nekako saj cepljanje proti HPV zaradi tega, ker smo izvajali zgolj"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1335.67,
+        "end": 1345.154,
+        "text": "cepljenja predšolskih otrok, se pravi dojenčkov, proti ošpicamum sardečkam, proti tetanusovslovskem okašlju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1346.314,
+        "end": 1362.041,
+        "text": "Kasneje pa smo se vseeno organizirali, ko smo uspeli zagotoviti ločene vhode, več smo vedeli o samem virusu, prilagodili smo se tako, da v bistvu"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1362.788,
+        "end": 1383.404,
+        "text": "izvajamo pač cepljanja sedaj spet nekako, saj jaz upam, da po večini Slovenije nekako normalno, ponekot tudi v bistvu za ostanke cepijo tudi v sobotah oziroma popovdne, tako da se opravi več tega."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1383.604,
+        "end": 1387.948,
+        "text": "Za enkrat v bistvu za september načrtujemo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1388.776,
+        "end": 1399.825,
+        "text": "to šolsko sistematiko cepljanja teh deklic pa tistih fantov, ki se pač samo plačniško bodo želeli v nespremenjenem obsegu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1400.546,
+        "end": 1416.178,
+        "text": "Se pa zavedamo, da verjetno bolj, ko bo naprimer epidemija grozila, več, ko bo v bistvu v primeru teh pokušb s COVID-om, bomo spet verjetno začeli izmanjševati te obiskeno kontakte."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1416.238,
+        "end": 1417.96,
+        "text": "Tako da, apsolutno"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1419.151,
+        "end": 1438.826,
+        "text": "Ta epidemija ni imela zdaj takega učinka na zdravje naših otrok v smislu koronavirusne okužbe, ampak se bo pač bolj poznalo, mogoče lahko dolgoročno, ker določeni otroci pa mogoče bodo izpadli iz tega cepla."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1438.866,
+        "end": 1448.333,
+        "text": "Jaz upam, da bomo to čimprej nekako prišli na zeleno vajo, pa da bo takih otrok čim manj, ampak v svetu vidimo, da"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1448.885,
+        "end": 1451.586,
+        "text": "kar se cepljen tiče, so težave."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1456.669,
+        "end": 1465.152,
+        "text": "Doktor Jagrič Friškovčeva, tudi šolski zdravniki se boste verjetno morali organizirati, se prilagajati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1466.213,
+        "end": 1475.037,
+        "text": "Imate že načrte, kako se boste letos prilagodili v situaciji, ki je trenutno, kako bodo letos potekali sistematski pregledi cepljenja?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1476.593,
+        "end": 1480.62,
+        "text": "Ja, zaenkrat velja, da delamo tako rekoč po starem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1480.64,
+        "end": 1487.451,
+        "text": "V šole so se, kot veste, opredelili oziroma ministerstva, da je razred kot en mehurček,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1488.035,
+        "end": 1497.522,
+        "text": "kot dana družina in velja tudi, da če pride cel razred k nam, tukaj v ločeno čakalnico, so zagotovljene enake razmere kot v šoli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1497.922,
+        "end": 1512.694,
+        "text": "Mi smo ta teden že pričeli tukaj v celju, danes delamo tretji dan že, skratka smo že pogledali šest razredov, zelo uspešno, vsi otroci so zdravi, vsi so se tudi odeležili, tudi cepili so se proti HPV šesto šolke skoraj stoprocentno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1513.617,
+        "end": 1515.479,
+        "text": "Torej si želimo, da bi ta trend šel naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1515.899,
+        "end": 1526.69,
+        "text": "Ja, tako kot Denis rekel, če se bo epidemija poslabšala oziroma šolska situacija, potem bomo zakotavo morali prilagajati na individualno raven."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1526.77,
+        "end": 1536.16,
+        "text": "Doktor Meglič, Slovenija se v zadnjih letih uvršča med evropske države z razveseljivim podatkom, z najmanjšim bremenom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1536.601,
+        "end": 1538.142,
+        "text": "raka na materničnem vratu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1538.162,
+        "end": 1545.849,
+        "text": "Vkrati pa bo potrebnega še več odzaveščanja, da bi dejansko eliminirali raka na materničnem vratu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1546.29,
+        "end": 1549.252,
+        "text": "To je vredno cilj in to je tudi možnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1549.272,
+        "end": 1554.117,
+        "text": "V Sloveniji zaenkrat, lahko rečemo, preventivnih ukrepov še ne izkoriščamo"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1554.337,
+        "end": 1558.559,
+        "text": "dovolj, ker je predsepljenost proti HPV še preniska."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1559.799,
+        "end": 1562.601,
+        "text": "Danes je bil že omenjen preventivni program Zora."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1562.681,
+        "end": 1578.168,
+        "text": "Stroka upozarja, da je še veliko prostora za izboljšave, da dosežemo ta cilj, da v bistvu uničimo, da eliminiramo raka na materničnem vratu, ker je v bistvu to je rak, ki je izjemana."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1578.408,
+        "end": 1583.09,
+        "text": "O njem vemo dovolj, da lahko preprečimo vsak nov primer tega raka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1584.56,
+        "end": 1590.602,
+        "text": "Ja, imate prav, vi ste bi lahko preprečili vse nove primere teh ploščato celičnih rako na materničnem vratu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1591.282,
+        "end": 1606.446,
+        "text": "Ampak bi vas želel popraviti oziroma dodati bistvo in sicer, da smo dejansko znižali raven incidence materničnega vratu, raka na materničnem vratu, na raven skandinavskih držav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1606.526,
+        "end": 1612.087,
+        "text": "Se pravi, da smo v najboljšimi štirimi ali petjimi državimi na celem svetu, ne samo v Evropi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1612.741,
+        "end": 1629.821,
+        "text": "ker nam je uspela po izjemnem trudu ne samo ginekologov, vsekakor tudi njih, ampak tudi vsega ostalega vsega, citologov in pa predvsem programa Zora, ki je vseh teh letih uspela privabiti zadosti pacijent, da smo lahko izpeljali ta preboj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1630.041,
+        "end": 1630.622,
+        "text": "Ampak vendar,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1630.882,
+        "end": 1638.124,
+        "text": "Program Zora in iskanje sprememb na materničnem vratu je stvar, ko smo nekaj že zamodili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1638.485,
+        "end": 1639.645,
+        "text": "Nekdo je že vkužen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1639.965,
+        "end": 1643.586,
+        "text": "Mi zdaj samo lovimo tega vkuženega v predrakasti stopni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1643.666,
+        "end": 1645.107,
+        "text": "Predno postane rakasta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1645.407,
+        "end": 1648.148,
+        "text": "Mi pa želimo, da tudi teh predrakastih stvari ne bi bilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1648.448,
+        "end": 1660.636,
+        "text": "Se pravi, da ne bi bilo mladih žensk, ki jim režemo matrične vratove, zato da bi jih ozdravili, preprečili rakah, krati pa morda povzročili, da bo ta mlada mamica v budočnosti rodila prezgodaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1660.916,
+        "end": 1665.339,
+        "text": "Ali se lahko sploh predstavljate, kakšne težave imajo prezgodaj rojeni otroci?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1665.479,
+        "end": 1670.383,
+        "text": "Koliko ne na zadnjo to družbo stane, da takega otroka postavimo na noge?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1670.723,
+        "end": 1676.647,
+        "text": "Kakšne kapacitete in kakšno znanje morajo imeti neonatalni oddelki po porodnišnicah, da lahko to speljemo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1676.967,
+        "end": 1679.729,
+        "text": "To je tisto, kar nam še zmanjka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1679.809,
+        "end": 1687.054,
+        "text": "Se pravi, rak na materničnem vratu je v Sloveniji tako rekoč relativno ovladovan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1687.155,
+        "end": 1692.178,
+        "text": "Kot rečeno, smo v sami svetovni špici, ne pa tudi predraka se spremembe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1692.378,
+        "end": 1697.102,
+        "text": "In te so tiste, ki jih pričakujemo zacepljenjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1697.302,
+        "end": 1701.825,
+        "text": "tako rekoč eliminirati, skrati seveda tudi okužbe s HPV-jem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1702.025,
+        "end": 1712.671,
+        "text": "Druga stvar, o kateri smo manj govorili, namreč cepljenje pokriva tudi oba najbolj znana nizkorizična tipa, to sta 6 in 11, tiste dva povzročeta pa genitalne brdavice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1712.751,
+        "end": 1722.937,
+        "text": "Predstavljajte si, da kje, ki začne spolno življenje, nesigurna sama vase, kot jih je pač večina, ko neenkrat ugotovi, da tam ne spode med dlakrami ali pa če teh ni,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1723.357,
+        "end": 1726.038,
+        "text": "polno nekih novih brdavic iz bruhne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1726.758,
+        "end": 1729.838,
+        "text": "To so doživljenjske frustracije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1730.078,
+        "end": 1733.919,
+        "text": "In tudi te lahko glatko preprečimo z cepljanjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1733.979,
+        "end": 1742.581,
+        "text": "Medtem ko te brdavice, ko se enkrat pojavijo, lahko odžgemo z elektriko, z laserem, z mrezovnim ozdušikom in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1742.621,
+        "end": 1747.162,
+        "text": "No, ena od opisanih metod ni prav zelo, kako bi rekel, vesele narave."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1747.522,
+        "end": 1752.404,
+        "text": "pa vendar le jih premagamo, nikoli pa nismo sigurni, ali smo to storili dokončno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1752.604,
+        "end": 1762.348,
+        "text": "Kaj ti venosečnosti, dosti, kad se imunost prilagodi plodu, se spremeni in zbruhnejo ponovno te bradavice, čeprav v kuženje že zdavne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1762.848,
+        "end": 1769.751,
+        "text": "Tako da to je stvar, ki se lahko veliko krat vleče pri neki ženski skozi celorodno obdobje in tudi na to moramo računati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1769.791,
+        "end": 1775.353,
+        "text": "Vsekakor imamo prostora, če povečamo predsepljenost za izboljšanje Slovenije več kot dovolj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1776.985,
+        "end": 1783.849,
+        "text": "Dr. Jagrič Friškovec pa dr. Baš, vprašanje zavajo zdaj le proti koncu našega pogovora."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1783.949,
+        "end": 1791.354,
+        "text": "Preden se še bolj posvetimo prijetni tematiki o zaveščanja, kar seveda tudi današnji pogovor je."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1792.394,
+        "end": 1805.022,
+        "text": "Katera so tiste najpogostejše vprašanja in skrbi tistih, ki so v dvomu ali cepiti otroke ali ne, ali cepiti svojega sina ali ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1805.062,
+        "end": 1805.102,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1805.74,
+        "end": 1808.102,
+        "text": "Naprej jaz, Denis."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1808.763,
+        "end": 1813.047,
+        "text": "Sej moram reči na žalost, da nas starši prav zelo veliko ne sprašujejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1813.107,
+        "end": 1815.849,
+        "text": "Želeli bi si, da nas več sprašujejo, vsa tukaj pri nas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1816.45,
+        "end": 1823.316,
+        "text": "Zelo veliko se starši po drugih kanalih pozanimajo, seveda po internetu in pri prijateljih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1824.117,
+        "end": 1829.1,
+        "text": "Sem pa vesela, da je zadnje čase vedno več staršev, ki sprašujejo za cepljenje dečkov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1829.56,
+        "end": 1831.741,
+        "text": "Letos smo ji že kar nekaj podcepljali, samo pred šniško."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1831.801,
+        "end": 1844.547,
+        "text": "Nažalost je to predvsejšen finančni zaloga in si res želimo, tako kot je prej dr. Medlič rekel, da se čimprej uvedejo cepljenje obvezno oziroma ne obvezno, pač plačano cepljenje, tudi za dečke."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1845.228,
+        "end": 1850.41,
+        "text": "Tako da, ja, delene so stranski včinki, da potroča neplodnost in take."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1850.491,
+        "end": 1853.212,
+        "text": "Potem pač razrešimo to, če pride do nas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1857.108,
+        "end": 1885.003,
+        "text": "Ja, v bistvu jaz bi mogoče dodal, da je strah v bistvu glavno vodilo, da se starši mogoče izognejo ali pa da dvomijo v ceplanje in tako kot je že doktor Jagričeva rekla, pred neželenimi učinki ali pa naprimor pred tem, da se bo zdaj neki hudega zgodilo, če se bo otrok cepal oziroma punca, tako da"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1885.883,
+        "end": 1886.964,
+        "text": "To je glavna stvar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1887.004,
+        "end": 1908.585,
+        "text": "Tako da tukaj, če se vzamemo čas, pa če razložimo, zakaj je vseeno pametno se cepiti, pa tudi v bistvu z temi kampanjami, ki jih zdaj pediatri v zadnjih letih smo nekoliko malo bolj prisotni, mediji so malo bolj naklonjeni tudi, bom rekel, cepilcem, ne samo proti cepilcem, se je to poznano."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1911.732,
+        "end": 1914.374,
+        "text": "Ravno to sem želela tudi dodatno vprašati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1914.414,
+        "end": 1915.675,
+        "text": "Kako pa odgovarjati?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1915.735,
+        "end": 1917.977,
+        "text": "Lahko je tudi vprašanje za dr. Megliča."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1918.438,
+        "end": 1932.509,
+        "text": "Kako odgovarjati tistim, ki pridajo strahovi, zdvomi, napolnjeni z različnimi zgodbami znancev, neznancev, internetnimi zgodbami, povezavami?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1932.91,
+        "end": 1935.512,
+        "text": "Kako jim odgovoriti, kako jih pomiriti?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1936.741,
+        "end": 1943.089,
+        "text": "Zdaj, pristop je seveda individualen, ker so ljudje z različnimi strahobi, tako kot ste rekla."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1943.169,
+        "end": 1947.455,
+        "text": "Seveda tisti, ki želijo številke, je to najlažje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1947.895,
+        "end": 1952.822,
+        "text": "Se pravi, lahko damo članke, ki so bili strokovno pregledani v"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1953.683,
+        "end": 1965.916,
+        "text": "v pregled tudi s prevodom, kjer razlagajo, koliko milijonov ljudi, oziroma 100 milijonov je bilo že cepljenih po svetu, brez resnejših posledic, brez kakršnih koli težav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1966.457,
+        "end": 1967.558,
+        "text": "To je ta ista prva"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1968.297,
+        "end": 1977.542,
+        "text": "stopno, ko lahko cepljenje nekako naredimo bolj prijazno, predvsem pa za menj strahovi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1978.042,
+        "end": 1991.73,
+        "text": "Ampak, ko so strahovi, ki se dajo opredeliti, recimo strah meje, da bi zbolela, strah meje tega in onega, potem v bistvu problem razložiti staršem oziroma dvomljivcem niti ni poseben."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1991.99,
+        "end": 2000.156,
+        "text": "Problem je, ker ni strukturirane stvari, okoli katere bi se pogovarjali z temi nasprotniki cepljenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2000.476,
+        "end": 2004.76,
+        "text": "Naprimer pač vstopijo ljudje v ambulanto, ki so a priori proti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2005.3,
+        "end": 2007.462,
+        "text": "Oni so proti, kar koli je, oni so proti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2007.642,
+        "end": 2014.427,
+        "text": "Zdaj, ne vem, izven Ljubljane je predcepljenost bistveno višja, najnižja predcepljenost je ravno v Ljubljani, zdaj seveda."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2014.687,
+        "end": 2035.175,
+        "text": "Delo Maloblana pač se ima za predstolnico, v kateri se poraje nove ideje, v kateri je cool, če si proti, zni važno zakaj, proti dežju, proti vetru, proti cepljenju in tako naprej, če si član društva za zaščito Peteršilja in podobno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2035.527,
+        "end": 2041.868,
+        "text": "Skratka, vsi ti petešičkari imajo svoje ideje, do katerih pa zelo težko prideš, ker niso racionalne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2041.948,
+        "end": 2051.91,
+        "text": "Ne moreš z njim racionalno razpravljati, povedati, to so te številke, to so taka znamenja, ki kažejo, da je prišlo do reakcije, do cepanja in ono in tretje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2051.93,
+        "end": 2063.912,
+        "text": "Ampak, ko si pač proti in vidiš same zarote, države, farmacije, medicine in tako naprej, na tako neargumentirane stvari je zelo težko oziroma praktično ne mogoče odgovarjati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2066.341,
+        "end": 2074.228,
+        "text": "Mogoče še dr. Jagrič Friškočeva ali pa dr. Baš, kakšen primer, ki ste ga doživeli, kako odgovarjati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2074.268,
+        "end": 2081.354,
+        "text": "Recimo, ne vem, mamice se pogovarjamo, vsak dohoče svojemu otroku najboljše in potem pristopi mamica."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2081.434,
+        "end": 2089.421,
+        "text": "Ja, jaz sem pa slišala, v sosednji šoli imata dve težave ali pa ena ima težave z neplodnostjo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2090.142,
+        "end": 2092.244,
+        "text": "To so vse take težke težave,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2094.488,
+        "end": 2100.45,
+        "text": "težke debate in argumentacije, ki, ki prestrašijo marsikatero mamico."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2101.69,
+        "end": 2123.137,
+        "text": "Mogoče, če jaz še povem, jaz mislim, da ena od stvari, a ne, ki moramo se zavedati, da, tako kot je doktor Meglič rekel, pri cepljenju, nažalost, naša znanstvena dejstva niso tako seksi, kot so, a ne, razne te čustvene oziroma te teorije zarota, a ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2123.719,
+        "end": 2124.699,
+        "text": "ali pa zgodbice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2125.059,
+        "end": 2128.581,
+        "text": "Tako da v bistvu lasten zgled se mi zdi tudi zelo pomembna stvar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2128.681,
+        "end": 2141.665,
+        "text": "Saj naprimer v moji ambulanti, če povem, pa sam sem tudi oče fanta in puce, da sem tudi jaz svoje otroke cepal, da verjamem v to, to se mi zdi zelo pomembna stvar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2141.745,
+        "end": 2146.127,
+        "text": "Se pravi, veliko teh staršev, ki pride po informacije,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2146.7,
+        "end": 2158.275,
+        "text": "so mogoče te, ki dvomijo, dvomljivci, medtem kot te, ki je dr. Megliči rekel, ki so a priori proti te, niti ne bodo prišli v mojo ambulanto iskati informacije, recimo o HPV cepivo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2158.395,
+        "end": 2162.06,
+        "text": "Tako da ta lasten zgled in pa v bistvu to,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2162.697,
+        "end": 2190.858,
+        "text": "Da, jaz tudi vedno razložim, da imamo super družbo, dostop do vseh informacij, ampak v bistvu gre za to, katere informacije so tiste prave, preverljive, tako da v bistvu zdaj je večja težava to, da dobimo te informacije, ki so relevantne, kot pa naprimer neke fake news, neke take bombastične stvari, ki pač dosežejo veliko ljudi, ampak nimajo nič skupnega z nekimi dejstvino."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2193.646,
+        "end": 2200.152,
+        "text": "Če prav razumem, vsakega vabite predvsem v ambulante po strokoven nasvet"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2201.037,
+        "end": 2225.345,
+        "text": "ukolikor imajo strahove, ukolikor imajo dvome, kjer vsak od staršev želi res svojim otrokom najboljše in je zelo priporočljivo, da se potem posvetuje tudi pri stroki, kaj meni oziroma da pri stroki išče zanesljive odgovore na svoje strahove in na svoje vprašanja ali pa na vprašanja sosede."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2226.282,
+        "end": 2243.332,
+        "text": "Zdaj le pa, če se mogoče posvetimo še kampanji, ki smo jo letos zelo veseli, kajti kolesarstvo je v zadnjih letih zaradi mednarodnih uspehov slovenskih kolesarjev, predvsem pa v zadnjem korona obdobju,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2243.832,
+        "end": 2256.636,
+        "text": "postalo med Slovenci zelo priljubljen in vse bolj viden način kakovostnega preživljanja prostega časa in smo te kampanje s kolesarjenjem proti okužbam HPV zelo veseli."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2257.516,
+        "end": 2264.658,
+        "text": "Mogoče, gospod Miškulin, če nam zaupate, katere aktivnosti ta kampanja zajema?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2264.918,
+        "end": 2268.639,
+        "text": "Najverjetnejje vas bomo videli, kot smo že rekli, na maratonu Franja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2268.759,
+        "end": 2272.2,
+        "text": "Kaj vse še vključuje ta kampanja, kakšne aktivnosti?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2276.148,
+        "end": 2283.947,
+        "text": "Sama kampanja pa vas pelje potem tudi na Maraton Franja, koliko vas bomo lahko videli, to v soboto in nedeljo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2285.125,
+        "end": 2286.406,
+        "text": "Kako boste prepoznani?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2287.227,
+        "end": 2291.731,
+        "text": "Bomo šli tudi med fotografije, seveda, prav zdajle, ko se pogovarjava."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2292.212,
+        "end": 2307.947,
+        "text": "Naj povem, da v kolesarskem društvu ROC je največje društvo v Srednji Sloveniji, vzgajate mnogo kolesarjev, lahko se pohvaliva, da je eden izmed njih tudi Pogačar, tudi odlično kolesarje na francoskem turu, da imate številne rekreativne ekipe, da je v njih tudi"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2308.227,
+        "end": 2325.352,
+        "text": "zdravnikov in da je potem padla ideja, kako bi združili prijetno s koristnim in ste potem ustanovili to posebno ekipo, ki bo vse leto, mogoče pa kar potem še leta naprej, opozarjala na možnosti preprečevanja bolezni okužbe z virusom HPV."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2325.372,
+        "end": 2332.634,
+        "text": "Mogoče, gospod Miškulin, če poveste še kaj več dele o kampanji, jaz pa poiščem fotografije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2335.345,
+        "end": 2340.231,
+        "text": "Dr. Friškovec Jagričeva, kakšne so vaše izkušnje?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2340.251,
+        "end": 2344.155,
+        "text": "Vi ste tudi kolesarili v tem posebnem dresu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2344.235,
+        "end": 2347.419,
+        "text": "Vsi ljudje vprašajo, kaj pomenijo ti viruski."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2348.24,
+        "end": 2349.902,
+        "text": "Teh vidimo malo bolj odblizu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2351.782,
+        "end": 2359.712,
+        "text": "Ja, jaz sem kolesarla celo poletje, sicer ne tako profesionalno, da bi se, meni je pač šlo blana daleč od rok, da bi hodila trenirati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2360.472,
+        "end": 2366.68,
+        "text": "Nekaj prijateljic me je vprašala, ja, jaz sem ta drez z velikim ponosom, moram reči, nosila, teda ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2367.627,
+        "end": 2374.632,
+        "text": "Takole se jih bo videla na maratonu potem odzadaj, ker se bo zanimi samo kadilo, da ne boste gledali preveč spredaja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2374.872,
+        "end": 2382.317,
+        "text": "To bo ti virus, ki so tamle zadaj na majčkah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2382.797,
+        "end": 2391.443,
+        "text": "Doktor Baš, mogoče vaš komentar te akcije o zaveščanju kolesarjem oproti okužbam z HPV, če se ne motim, smo vas videli na fotografiji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2392.602,
+        "end": 2394.002,
+        "text": "Ja, res je."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2394.022,
+        "end": 2404.365,
+        "text": "Jaz v bistvu podpiram vse aktivnosti, ki propagirajo zdrav način življenja in tukaj v bistvu združimo dva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2404.965,
+        "end": 2418.488,
+        "text": "Eno je v bistvu, da se zaščitimo s cepljanjem, pač v tem primeru proti HPV, pa še v bistvu nekaj naredimo dobrega za svoje telo, ne na zadnje, tudi za svojo dušo oziroma življenje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2419.163,
+        "end": 2429.094,
+        "text": "Zdravniki rabimo sploh veliko nekih ventilov, da potem lahko v ambulanti normalno funkcioniramo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2429.255,
+        "end": 2431.537,
+        "text": "Kako je s kolesarjanjem?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2432.098,
+        "end": 2435.642,
+        "text": "Še dr. Meglič, vi tudi kolesarjate?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2437.0,
+        "end": 2438.881,
+        "text": "Ja, seveda, tudi jaz kolesarim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2439.021,
+        "end": 2441.262,
+        "text": "Žal me ni na teh slikah, ker me ni bilo tam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2442.302,
+        "end": 2451.626,
+        "text": "Sem se neposredno boril s posledicami HPV v Kušb in tudi na maratono Franjo me ne bo, ker se bom tudi boril s posledicami HPV v Kušb."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2452.599,
+        "end": 2459.785,
+        "text": "Kako pa vidite aktivnosti zaveščanja o HPV v povezavi s kolesarjenjem, športom, zdravim načinom življenja?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2460.166,
+        "end": 2473.197,
+        "text": "Je to eden izmed načinov, kako približati splošni javnosti tematiko, o kateri najraje ne bi govorili, ker to je tam spoda in o tem se ne pogovarjamo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2473.417,
+        "end": 2490.422,
+        "text": "Je mogoče to en tak prijeten, en tak zabaven način, s katerim bi mogoče lahko povzročili eno tako debato o tej tematiki, mogoče pripravili čas, pripravili teren, da bi se o tem govorilo več in bolj na glas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2491.844,
+        "end": 2510.946,
+        "text": "Ja, vsekakor, posebno zato, ker to ni sestrni profesionalnih delavcev, ampak amaterjev, nadušencev, ne nazadnje je šport dejansko precej velik faktor v slovenski družbi, v pozitivnem smislu, tako da ja, mislim, da je ideja odlična."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2514.44,
+        "end": 2534.618,
+        "text": "Ta vikend bo v bistvu za to ekipo, a je Miro že od kolesarjev, jaz ga ne vidim več, ta vikend bo za ekipo Vrhunec, dogajala se bo največja slovenska kolesarska uporeditev, kot smo že omenili Maraton Franja, ki jo prav tako organizira njihovo društvo, torej Kaderok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2535.018,
+        "end": 2539.983,
+        "text": "Po cestah Franje se bodo podali tudi ti viruski, ki smo jih videli na fotografijah,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2540.545,
+        "end": 2552.71,
+        "text": "Tako tudi člane ekipe Ljubkovano kličejo o drugih kolesarjih in jih boste prepoznali, kot smo videli na fotografijah, po njihovih privlačnih dresih in, kot pravijo, tudi po širokih nasmehih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2553.291,
+        "end": 2555.792,
+        "text": "In jaz verjamem, da tako zares bo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2555.952,
+        "end": 2566.197,
+        "text": "Vreme je odlično, Franja je pripravljena, ceste čez skladje, kdor bo šel podolgi, so poflikali, lahko rečemo, torej poravnali vse luknje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2567.157,
+        "end": 2581.75,
+        "text": "Upamo tudi, da bomo poravnali luknje v sistemu, ki nas še ločijo do trenutka, da zarez eliminiramo rak materničnega vrtu, kot je dr. Meglič omenil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2582.17,
+        "end": 2587.735,
+        "text": "Imamo vse možnosti odprte, želimo vsi, da bi te možnosti tudi izkoristili."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2588.605,
+        "end": 2609.194,
+        "text": "Upam in želim in pozdravljam, da bi takšne kampanje, takšne in podobne pomagale k debati tudi o tej tematiki in tako k še boljšim številkam, kot je dr. Meglič omenil, zelo radi govorimo, se pogovarjamo o številkah in največkrat na številke tudi prepričajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2609.834,
+        "end": 2618.178,
+        "text": "Najlepša hvala, spoštovani dragi gostje, da ste si vzeli čas v tem hitrem tempu in odgovorili"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2618.558,
+        "end": 2619.719,
+        "text": "na vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2619.739,
+        "end": 2639.067,
+        "text": "Mogoče smo pa danes, ko mu olajšali strah, mogoče smo mu pomagali vsej na poti k temu, da bo pristopil k vam, potrkal na vrata in vas povprašal o stvarih, ki ga skrbijo v dobrobiti in v želi po dobrobiti svojih otrok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2639.247,
+        "end": 2659.144,
+        "text": "Hvala lepa še enkrat, hvala tudi vsem, ki ste nas spremljali in do naslednjič upam, da se srečamo v še boljših številkah in mogoče tudi v kakšnem koraku naprej, ko vrstitvi dečkov v nacionalni program cepljanja proti okužbam z HPV."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2659.524,
+        "end": 2663.127,
+        "text": "Naj bo to ena taka lepa želja za prihodnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2663.487,
+        "end": 2666.81,
+        "text": "Hvala še enkrat in lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2666.95,
+        "end": 2667.371,
+        "text": "Srečno!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2668.407,
+        "end": 2669.133,
+        "text": "Hvala, sejčo."
+      }
+    ],
+    "runtime_sec": 789.7431190013885
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.03509338063141656,
+      "miss": 0.03381984289074086,
+      "fa": 0.0007584505533546069,
+      "confusion": 0.0005150871873210921,
+      "total_duration": 2609.266999999961
+    },
+    "der_collar0.25": {
+      "der": 0.03029365526123699,
+      "miss": 0.029547512229257774,
+      "fa": 0.00039085652174070297,
+      "confusion": 0.0003552865102385126,
+      "total_duration": 2417.766999999961
+    },
+    "wer": {
+      "wer": 0.2940585774058577,
+      "ref_words": 5975,
+      "hyp_words": 5325
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1.887,
+        "end": 48.918,
+        "text": "Poštovane in spoštovanje, bližajoči se je maraton Franja, ki predstavlja največji kolesarski dogodek pri nas, bo tokrat namenjen tudi o zaveščanju javnosti ob vladovanju humanega papiloma virusa HPV, v povezavi s športom in zdravim večinom življenja ter o vlogi cepljenja kot načina preventive.Kakšen je pomen cepljanja protih HPV, še posebej v času novega koronavirusa in spremenjenega delovanja nacionalnih izobraževalnih ter zdravstvenih programov in kako bi bilo potrebno še ukrepati za omejitev te bolezni, bomo spregovorili v tokratnem spletnem pogovoru ESTA kluba Slovenske tiskovne agencije, ki smo ga naslovili Kolesarimo proti okužbam s HPV."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 49.525,
+        "end": 60.055,
+        "text": "Z menoj so dražni izpoštovanji sogovorniki, ki jih lepo virtualno tokrat pozdravljam, doktor Leon Meglič, specialist genekolog in porodničar, dober dan želim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 61.068,
+        "end": 73.994,
+        "text": "Z nami je predstavnica zdravstvenega doma Celje in tudi predsednica sekcije za primarno pediatrijo, doktor Anita Jagrič Friškovec, lep dober dan želim. Dober dan?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 74.787,
+        "end": 79.951,
+        "text": "In pa tudi sekretar kolesarskega društva Rok Miro Miškulin, lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 80.795,
+        "end": 81.166,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 82.448,
+        "end": 110.073,
+        "text": "Predvidevamo pa, da se nam bo v kratkem pridružil tudi še naslednji gost, sicer specialist podiater Doktor Denis Baš, ki ga še čakamo, bomo pa medtem z virtualno konferenco seveda že začeli, kajti obveznosti tudi naših gostov so velike in zato toliko bolj cenimo ves črst dragi izpoštovanje, ki ste si ga vzeli za naše gledalce in gledavke."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 111.001,
+        "end": 159.01,
+        "text": "Okužba s HPV je ena najpogostejših in najmanj poznanih spolno prenosljivih okužki okro ogroža tako ženske kot moške ter s katero se vsaj enkrat v življenju okuže kar osemdeset odstotkov spolnohaktivnih ljudi, virusi HPW se prenašajo že s tesnejšim stikom, okužba pa je najpogostejša pri mladostnikih in mladih odraslih, starih med petnajstimi in petindvajsetim letom.Zavedanje o nevarnostih, ki jih okušba s hapevi predstavlja za ženske veliko boljše kot pa kaj pomeni za moške v splošni javnosti je namreč ubislu veliko premalo informacij, kako okužba vpliva na moški, ki so imunsko manj uspešni pri premagovanju bolezni in niso zgolnjeni prenašalci."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 159.77,
+        "end": 205.248,
+        "text": "Stroka zagovarja in spodbuja cepljenje dečkov in njihovo vključitev v nacionalni cepilni program, v katerega so deklica že vključene, ki bi omogočilo brezplačno cepljanje tudi tej polovici populacije, in s tem pripomoglo k učinkovitosti preventive okužbe, ki lahko nosi resne posledice ter se lahko razvije v smrtno nevarne bolezni. O zaveškanju o pomemnosti preventive in skrbi za svoje zdravje se je letos pridružilo tudi kolesarsko društvo Rok, ki s svojo javno kampanjo o zavejščanja kolesarjenje proti okušbamS vsemu, kaj je bilo, še ne bi bilo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 205.805,
+        "end": 217.094,
+        "text": "Mogoče najprej opisno nekaj smo že povedali, kaj je virus HPV, kako okužba z njim vpliva na organizem, kakšne so njene posledice ter kakršna je njena nevarnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 218.309,
+        "end": 233.682,
+        "text": "Pozdravljeni še enkrat, torej HPV virusi so virusi, ki sprejemljajo človeštvo že verjetno vsega nastanka, je s sproti z ljudmi in njihovimi vrstami tudi spreminjal in prilagajal novemu goljem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 234.188,
+        "end": 240.247,
+        "text": "Pa piloma virusi ne samo humani, so zelo zelo heterogena skupina virusov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 240.787,
+        "end": 271.482,
+        "text": "Dejana virusov, ti o katerih teče besede se prav kumani in ti, ki so specializirani za ljudi, je do danes poznanih dobrih dvesto dvajset tipov vsako leto odkrijo še katerega novega.Najbolj enostavno jih razdelimo, kar ti delite namenč veliko, najbolj in ustavnih razdelim na tiste, ki so visokorizične, se pravi povzročajo pred rakaste in rakaste spremembe in nanizkorizičine, ki povzuročuje predvsem genitalne pradavice tako imenovane kondilome."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 274.823,
+        "end": 277.507,
+        "text": "Doktor Jakrič Friškovićeva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 278.654,
+        "end": 288.357,
+        "text": "Kako pri vas pristopate k zaveščanju, da vam prav na vašem območju uspeva doseči najvišjo stopnjo precepljenosti v Sloveniji?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 289.91,
+        "end": 289.927,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 289.927,
+        "end": 289.943,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 289.943,
+        "end": 290.433,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 290.433,
+        "end": 290.45,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 290.45,
+        "end": 290.5,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 291.26,
+        "end": 297.385,
+        "text": "Ja, to da prevprašanje, mi smo zelo zadovoljne, da imamo tako precepljenost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 297.942,
+        "end": 316.538,
+        "text": "Potrebci dobijo v šole svoje, pa če ko jih povabimo na sistematične preglede, dobijo pis nagradiva, da starši pravzaprav, da si jih preberejo, zelo pomembna je kakšna je klima v lokalni skupnosti, naše sestreki izvaja zdravstveno zgojo, izvajajo tudi predavanja po šolah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 317.095,
+        "end": 319.306,
+        "text": "Za starše in za učence."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 319.88,
+        "end": 325.87,
+        "text": "In pa seveda pač vsekrvno je, da izvaja se očitna ljudi bolj primer naši regiji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 327.389,
+        "end": 333.599,
+        "text": "Doktor Meglič, kako se okužba z virusom Hapve prenaša?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 334.966,
+        "end": 372.243,
+        "text": "S težavi sama prevmenila uvodoma, to je spolno prenosljiva bolezen, ki pa ni samo spolnoprenoslljivo bolezn, se pravi srede najpogočnejši sostiki med moškim in ženskom, med možkim in mošim, med žensko in žinsko, govorimo o klasičnih spolnih stikih, pa tudi neklasišnih oziroma v stikjih, ki bi jih težko predelil, da so spolne, so pa recimo v nekem smislu intimni ali pa vsaj precejšnjo del kože, ki se dotika. Tako da kljub temu, da kondom prepreči znan del prenosa ni absolutna zaščita pri prenašanju hapeve virusa, prenaše se pa pravzaprav..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 372.918,
+        "end": 391.328,
+        "text": "Preko moškega spolneguda v žensko nožnico in v okolje ženske nožnici se prav izunanje spolovilo, prenašle se tudi v anus in na analno sluznico, prenajšle so dojel v oralno služniko pa tudi na kože druge po telesu kot je pazduha, vrat in podobno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 391.902,
+        "end": 444.265,
+        "text": "Tako da heterogena skupina virusov vstopa vse povsod, kjer vstopamo v spolnosti tudi mle ljudje in ogroža z svojo okužbo, torej ogrože ljudi in spremembe, ki se tam nastajajo iz predrakastih do rakastih, so pogoste in so ene najpogostejših, jih krati možnostnih je prevencija, prevenca v smislu, da vemo, kako se prenaša, da vamo, ko se zaščititi pred prenosi, ker pa se vsaj večinoma ne želimo dejst spolnosti, je možnost v decepljenje, nekaj, ker pri mladih ljudjeh, ki sploh še niso spolno zaživeli praktično absolutno prepreči prenos pri starejših ljudeh pa selektivno tistikih majotežave, par kateri se izkazalo, da njihov odpornost ni kos hapeveju lahko cepimo, tudi kasneje ni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 444.974,
+        "end": 445.328,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 445.987,
+        "end": 453.445,
+        "text": "Doktor Jagrič Friškovčeva, zakaj je pomembno, da se cepljenje začne v šestem razredu pri starosti enajst dvanajst let?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 454.812,
+        "end": 476.21,
+        "text": "Jaglete po študijah, ki so jih izvajali, se je pač izkazala ta starost kot najbolj optimalna za doseganje imunskega odgovora.Sko kot je doktor Medlič Reku, tudi kasneje ni prepozno, nikoli ni preposno, ampak v tej starosti pa tam nekje do petnajstega leta zadoščata dve dozi, cepiva, potem pa je potrebno dati tri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 478.454,
+        "end": 504.037,
+        "text": "Ste imeli mogoče privost kakšne težave z izvajanjem cepljenja v času po virusovici devetnajst epidemiji, da bi dali kakše sporočilo, mogo če kako pomembno je, da se ta cepljanja, ki so zaščita, ki pomenijo optimalno zaš čito proti okužanj s HPV, organizira kakšne so izkušnje mogoče vaših kolegov, kolegic šolskih zdravnic."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 504.897,
+        "end": 526.008,
+        "text": "Ja, seveda tistih prvih števanjst dni smo bili vsi v šoku, potem smo se pa mi že med epidemijo samo zelo dobro organizirali, pa tudi kolegi in cejen kolegi v Sloveniji. Tudi starši so bili zelo zainteresirani, da dekvice dokončajo že začeta cepljenja, ker šesto šolke so večinoma ble cepljene že pred novim letom?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 526.733,
+        "end": 531.526,
+        "text": "In tako da ni iz bloh hujših problemovabili smo individualno, pač z vsemi temi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 532.353,
+        "end": 538.546,
+        "text": "pristopnimi pogoji, ki jih trenutno imamo v zdravstvenih ustanovah, ampak imamo zelo dober odziv."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 541.313,
+        "end": 566.272,
+        "text": "Doktor Meglič, posledice okužb s HPV, s kolikšnim številom obravnav in posegov, ki so povezani z HPW in rakom na Matričnem vratu, te soočate na ginekološki kliniki mogoče če bi nam lahko ponazorite s skaljnimi številkami in kakšne so najbolj pogoste posledice, katere posege najpogosteje opravite pri ženskah, kaj to pomeni za žensko, ki se zdravi pri ves na kliniku?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 567.605,
+        "end": 581.054,
+        "text": "Ja, teh bolezniki povzroča HPV vsaj na ginekološkem področju je na našem oddelku v Ginekološe klinike v Klinčnem centru zelo veliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 581.645,
+        "end": 601.0,
+        "text": "Vendarle je glavni delež, težav na predrakasti spremembah.Ko govorimo o raku na matričnem vratu kot okonjšnji zgodb ni nekaj okužbe, je seveda tisto, ker nas točusto namogoča najbolj pretrese, oziroma se nas najbolje dotakne, pa k uresnici je gro dela in seveda, tudi..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 601.827,
+        "end": 663.607,
+        "text": "Gro okužb oziroma sprememb v spektru, ki mu rečemo predrakaste spremembe, se pravi nekaj, kar lahko v tridesetih ali celo več procentih postane v nekje letih rakasto, se pa začne kot predrakasta spremimba in najprej imamo seveda ženske, ki pride s temi predrakastimi spremembami v naše ambulante, kjer to potem z raznimi biopsijami tudi dokažemo in potem posegi, ki jim rečemo ali konizacija ali odstranitev matrišnih gavratov za električno zanko oziromac, stujko, teh je na letni ravni, če govorimo tukaj v ginekoroški kliniki blizu tisoč, tisoć. In to je ena ogromna številka, s katero se so njo dogovorili, karšen posegli glede na izglede Na."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 664.501,
+        "end": 718.045,
+        "text": "Histološki izved potrebuje, potem sam posegi navadno še pov posego, da se dogovorimo, ali smo spremembali s sanjidom zdravim ali ne. Problem, ki ga tukaj vidim, spet poudarila, da gre za predraka, se spremembejo v tem, da ženske lahko precej oslebi maternični vrat, maternićni vrad pa ima funkcijo, da v nosečnosti zadrži plod, da dobesedno ne pade skozi nožnico ven in zdaj če imamo veliko teh žensk, je srede tudi pričakovana številka prezgodnjih porodov večja, če dalje kasneje se naše pacientke odločajo za zanositev in čedaljje več je teh, ki prihajajo z okužbo maternišnjega vratu ne ševahkasto, ampak predraktasto, iz tem imamo največ dela. Nosveda so ženske, ki ne hodijo na preventivne preglede, se ne odzivajo na vabila naše zore."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 718.72,
+        "end": 738.818,
+        "text": "Torej teh je tudi kar nekaj in pri njih pa zaznamo ne več samo predrakaste, ker so zamudili to pot vzeloma z zgodbom, pa že rakaste spremembe, teh rakastih sprememb pa na genekološki kliniki zdaj, ko je število rakov dejansko drastično padlo, nekje do štirideset na leto."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 741.198,
+        "end": 775.893,
+        "text": "Doktor Denis Bašsev nam je pridružil, le po pozdravljeni vem, da ste imeli druge obveznosti v tem trenutku, zato smo veselo veseli, da sta imeli čas tudi za nas.Mogoče kar vprašanje, da se ogrejemo za začetek nekateri stariši, pravijo, da je prezgodaj, da se njihova hči cepij v šestem razredu, da še dolgo ne bo spolno aktivna.Kako nagovarjate take starše, kako jim utemeljiti, zakaj je vseeno priporočljivo cepiti pri tej starosti?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 777.884,
+        "end": 780.837,
+        "text": "Ja, lepo pozdravljeni in hvala za povabilo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 781.529,
+        "end": 794.472,
+        "text": "Zdaj v bistvu moram reč, da mogoče pred leti je bilo teh vprašan res več, a ne, zdaj, je smiseln, da se je ozaveščeno s vsem tudi staršev, saj v okolju, kjer je z delujem izboljšala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 795.147,
+        "end": 800.041,
+        "text": "Je pa v bistvu glavna stvar, s katero pristopim ta da..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 800.632,
+        "end": 825.37,
+        "text": "Da je v bistvu cepljenje v tej starostni skupini najbolj učinkovito, ne? Nima zdaj to take povezave z bi rekel, ali bo zdaj čez eno leto, ali čez dve leti, ali še štiri leta spolno aktivna, ampak v bistvu sam odgovor cepiva in obilstvo tvorba zaščite za to deklico oziroma za fanta."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 825.961,
+        "end": 838.533,
+        "text": "Nenazadnje pa tudi prej, ko se cepimo, ne, rabimo imet na primer dva odmerka copiva, kasneje pa potem recimo tri notko, da tudi tuk je že en tak momenta, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 841.739,
+        "end": 849.62,
+        "text": "Doktor Jagrič Friškovec, kakšne so možnosti cepljenja, če šole ne bi sodelovale pri izvajanju sistematskih pregledov?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 851.122,
+        "end": 854.581,
+        "text": "Joj, mi izkrepno upamo, da do tega ne bo prišlo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 855.29,
+        "end": 885.935,
+        "text": "Namreč organizacijo, ki imamo v Sloveniji, je res odlična, kar se tega tiče, šole nam pripeljejo kot dveste cele razrede in zadeva poteka tekoče. Če bi se v šolah stvari spremenile bodisi iz epidemioloških ali kakih drugih razlogov, bi pač morali vabiti otroke za starši individualno, takrat pa je odzivnost bistveno slabša, morda verja, da si morajo starših vzet prosti čas ali dopustali bolniško, alkarkoli in to potem ne poteka tako nastavno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 886.913,
+        "end": 887.183,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 889.225,
+        "end": 889.698,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 890.305,
+        "end": 912.783,
+        "text": "Da pozdravimo še gospoda Mirami Školina in prekinemo mogoče ta tok zdravstvene temate, ki pa gremo v povezavo z kolesarjenjem, ki je letos postalo slovenski nacionalni šport, ker imamo na turdefronskar državna prvenstva, tudi se lahko pošalimo za umes.Gospod Miškulin..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 913.576,
+        "end": 931.025,
+        "text": "Kako bi opisali to posebno kampanjo kolesarjenje proti okužbam s HPV, kako je ideja o tej kampanji nastala, s kakšnim namenom ste začeli z organizacijo te pobude in kakše najprevzaprav sporočilo kampanje osveščanja?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 932.813,
+        "end": 933.083,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 934.349,
+        "end": 942.533,
+        "text": "A doktor Meglič, če greva nazaj na tematiko največkrat, hape ve okužbe."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 943.512,
+        "end": 946.111,
+        "text": "Povezujemo z ženskami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 946.988,
+        "end": 947.326,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 948.085,
+        "end": 980.485,
+        "text": "Pohlo Sloveniji sem zdi, da je to taka tematika, haa, hapevejo kužba, torej pa potem to ženska stvar, to zanem s moške ni.Ampak tako za ženske kot za moški, je zelo pomembna preventiva.Kakšno je vaše mnenje o vključitvi dečkov nacionalni program cepljenja, to je doslej edino cepljanje v Sloveniji, kjer zavarovalnica plača cepljene samo dekletom.Kakšen vpliv bi imela vključitev dečkov v nacionalni cepilni program na precepljenost v Slovenije in seveda tudi na učinkovitost preventivnih ukrepov?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 981.532,
+        "end": 993.58,
+        "text": "Torej, ja lepo ste povedala tako kot drugod v svetu smo tudi prenos začeli s cepljenim deklic, ampak problem je, da smo potem s tem ceplje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 994.373,
+        "end": 996.601,
+        "text": "Se pravičujem se sližmo?Halo!"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 996.787,
+        "end": 999.655,
+        "text": "Zdaj se slišimo, kar nadaljujte prv vsem hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 999.824,
+        "end": 1042.028,
+        "text": "Torej, pravim, začeli smo tako kot so začelili v drugi posvetu s cepljenim deklic, na krsesovodejskem zalu, da deklica nikakor niso edine, ki zbolijo za okužbami s hapevejem, predvsem pa, da je zaščita, kadar za zaštiteni vsi ali vsaj večina populacije, mnogo boljša, torej nekatera dejstva se sproti učimo in spoznavamo o hapeveju. Na primer, da so ženske mnugo boljše pri izčiščenju hape veje iz telesa, se pa pri premagovanju okužb v primerjavi z moškimi, drgače bom povedal, menila ste, da prebližno osemdeset procentov spolnotivnih ljudi se vsaj in k življenju okužejo vziroma s srečo s hape vejem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1042.585,
+        "end": 1088.907,
+        "text": "Ker sva, da drži, tisočesar nismo do zdaj povedali pa je, da teh osemdeset procentov deklic oziroma žensk zgubi okužbo ozira jo premaga praktično v velki večini primerov tako, da jih redno ali nadaljčas okuženih ostane samo nekaj procentov, nikakor ne teh osem, sedem, ampak mogoče sedem deset, ne pa tudi pri moških. Moški ostanejo v praktično doživljenjsko okuže ni, se pravi, če bi dej dela neko analizo pri možkih starih šestdeset ali sedemdeset, te bi ugotovili dešen odset procent do teh moših, hapevi pozitivnih in seveda tudi ti moškji še vedno živijo športno, da ne rečem spolno, a ne, kz. smo ravno pri športu in kolesarjenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1089.599,
+        "end": 1204.231,
+        "text": "Ta hapeve se potem stalno znotrajte iste družbe vrti in nekako ga ne uspemo eradecirati, spremenilo bi se pa s cepljenjem dečkov marsikaj, na primer to, da dečki ne bi okuževali seveda deklic, ki se iz tega in drugega razloga niso cepile, se pravi tako hortna zmožnost, da se nek letnik precepi bi bila mnogo višja, se pa izdejšnjih petdeset procentov deklic, to pomeni petindvajset procentov populacije nekaj starosti, mi zdaj pa šli mogoče, če bi sedečki v enaki merici bili vsaj na petdeset procentov precepljenosti, kar pa že predstavlja določeno kvaliteto in seveda zmanjšanje možnosti v penosa hapeve virusa znotraj generacije. Tako da vsekakor podpiramo dečke druga stvar je, da pač ne moremo živeti za plankano, torej ni samo heteroseksualne spolnosti in pa tudi homoseksualna spolnos pri tej dečki zrmomoški z moškega prenašajo viruse na ta način bi seveda zaščitili tudi njih in ne samo naše pacientke, namreč karcinomi v resnici izpola ne izbirajo karcinom materničnega vratu lahko dobi seveda samo ženska, ker samo ona ima materniški vrat, ampak karcinoma žrela je pri moških in pri ženskah, krcinom Anusa je pri poškiih in priženskah. Je pa sveta krcinopenisa vezan sveto samo za moške in je hvala bogov relativno redek.Torej še enkrat čepovzamem tole dolge ekspoze, menim, da je absolutno nujno, da se začneje cepiti tudi dečki, da sledimo razvitemu svetu tudi v tem, kajti smo ena redkih list v Evropski uniji, ki pa nasploh na zahodnem svetju, ki nima še cepjenja za obas pola."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1205.969,
+        "end": 1219.317,
+        "text": "Kako pa poteka okužba pri fantih nekaj najhujših posledic, ste že omenili torej Raka Grlanusa Penisa, kako potem poteka okužba, kakšne so lahko njene posledice?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1220.06,
+        "end": 1304.941,
+        "text": "Torej okužba lahko začetka poteka, oziroma večinoma poteka povsem neprepoznana, leta celo desetletja se lahko na okuževi osebine spremeni absolutno ničesar, tudi čijemljamo mikroskopske brise in jih pregledujemo, ne bomo našli nobenih celičnih sprememb, potem pa v nekem hipu imurnost toliko popusti, da se začne virus vendarle razvijat skrit v celici pred našim imunskim sistemom, začnem torej s svojim pohodom spreminjanja naše deena, v katero se integrira virusni Dena in z uničevanjem oziroma preprečeovanjem delovanja naših možnosti, da popravljamo napake v naši Dena ki se z vsako delitvijo cilice, seveda pojavljajo.In obistvo s tem, ko minimamo tega reparatornega mehanizma, prihajajo napak najprej v predrakasto smer cilice, na koncu pa cilica z divja v rakasto smern, se pravi takoj po okužbi oziroma nekaj tednov po okujbi lahko zaznamo samo, kadar je okušba s tistimi tipi tako imenovanimi nizkorizičnimi, ki povzročajo obradavice. Visokorizični tik, ki so zares, ta glavni problem, tistih pa ne zaznamo leta celodnje desetletja, dokler na teh sprememb ne pride. Sam način prenosa smo pa so bile že povedali, spolno pa tudi samo z dotiki kože na kožo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1306.274,
+        "end": 1317.428,
+        "text": "Doktor Baš, kako je kovec devetnajst pandemijo vplivala na cepljenje, kakšne so možnosti cepljanja kljub omejitvam, ki so posledica pandemije?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1318.846,
+        "end": 1322.93,
+        "text": "Zdaj na začetku je sigurno bistvu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1323.453,
+        "end": 1326.541,
+        "text": "V prvem mesecu, v prvih dveh mesecih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1327.047,
+        "end": 1334.877,
+        "text": "Se je bistvu ustavilo nekak vsaj cepljenje proti hape vezar tega, ker smo izvajali zgolj?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1335.637,
+        "end": 1345.188,
+        "text": "Cepljenja predčolskih otrok se pravi dojenjčkov proti ošpica Mulsor Dečkam, proti tetanusov slovskemu kašlu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1345.964,
+        "end": 1353.929,
+        "text": "Kasneje v bistvu pa smo se vseeno organizirali, a ne, ko smo pač uspeli zagotoviti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1354.57,
+        "end": 1362.164,
+        "text": "Ločene vhode, več smo vedeli o samem virusu prilagodili smo se tako da ob istvu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1362.772,
+        "end": 1369.977,
+        "text": "Izvajamo pač cepljenja sedaj spet, nekak saj je supan, da po večini."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1370.483,
+        "end": 1382.566,
+        "text": "Slovenije nekak normalno, ponekod tudi bistvo zaostanke cepijo tudi v sobotah oziroma popoldne, tako da se opravi več tega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1383.173,
+        "end": 1388.202,
+        "text": "Zaenkrat v bistvu za september načrtujemo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1388.742,
+        "end": 1418.223,
+        "text": "To šolsko sistematiko cepljanja teh deklic pa tistih fantov, ki se pač samoplačniško bodo želel v nespremenjenem obsegu, se pa zavedamo, da verjetno bolj ko bo na primer epidemija grozila več, ko bo bistvu primerov teh pokus s covidom, bomo spet verjetno začeli zmanjševati te obiskano kontakte."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1419.134,
+        "end": 1432.06,
+        "text": "Ta epidemija ni imela zdaj takega učinka na zdravje naših otrok v smislu koronavirusne okužbe, ampak se bo pač bolj poznalo mogoče."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1432.702,
+        "end": 1451.872,
+        "text": "Lahko dolgoročno, ker določeni otroci pa mogoče bodo izpadli s tega cepljenja, je supan, da bomo to čim prej nekak prišli na zeleno vejo pa debu takih otrok, či manj, ampak v svetu vidimo, da kar se cepljentiče so težave, a ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1456.546,
+        "end": 1475.193,
+        "text": "Doktor Javrič Friškovčeva, tudi šolski zdravniki se boste verjetno morali organizirati, vse prilagajati, imate že načrte, kako se bosta letos prilabodili situaciji, ki je trenutno, kakor bodo letos potekali sistematski pregledi cepljenja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1476.593,
+        "end": 1513.027,
+        "text": "Ja, zaenkrat velja, da delamo tako rekoč postarem, šole so se kot veste opredelile oziroma ministrstva, da je razred kot en mehurček, kot ena družina in velja tudi, da če pride cel razred k nam, tukaj vločeno čakalnico, so zagotovljene enake razmere kot v šoli, nismo ta tedni že pričeli tukaj v Celju, danes delamo tretji dan že, skatka smo že pogledali šest razredov, zelo uspešno, vsi otroci so zdravili, si se tudi udeležili, tudi cepili so se proti HPV šestošolke skoraj sto procent, no?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1513.583,
+        "end": 1523.793,
+        "text": "Srezi želimo, da bi ta trenčo naprej, ja, tako kot denica, je kot če se bo epidemija poslabšala oziroma šolska situacija, potem bomo za kotoba morali prilagajati na individualno raven."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1526.577,
+        "end": 1570.418,
+        "text": "Doktor Meglič Slovenija se v zadnjih letih uvršča med Evropske države z razveseljim podatkom z najmanjšim bremenom Raka na materničnem vratu, hkrati pa bo potrebnega še večjo zaveščanja, da bi dejansko eliminali Raka Na maternićnem vatu, da je vločen, da bi vlošen, že bi bilo, da so vloževali, da bomo povedali, da bodo našli, da se muka opozarja, da je še veliko prostora za izboljšave, da dosežemo ta cilj, da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1570.992,
+        "end": 1583.227,
+        "text": "Bistvu uničimo, da eliminamo raka na materničnem vratu, ker je ob bistvu tojera k, ki je izjema na ne, o njem vemo dovolj, da ga lahko preprečimo vsak nov primer tega raka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1584.56,
+        "end": 1612.201,
+        "text": "Ja, imate prav, da bi sta lahko preprečali vse nove primele teh ploščatov celičnih rako na materničnem vratu, ampak bi vas želo poprav tvoziroma dodat bistvo in sicer, da smo dejansko znižali raven incident se maternišnjega vrat uraka na materničnem vratu na raven skandinavskih držav se pravi, da smo v najboljšimi štirimi ali petimi državi na celem svetu ne samo v Evropi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1612.792,
+        "end": 1775.416,
+        "text": "Ker nam je uspela po izjemnem trudu ne samo ginekologov, vsekakor tudi njih, ampak tudi vsega ostaljkosebja citologov in pa predvsem programa Zora, ki je v vseh teh letih uspelo privabiti zadosti pacient, da smo lahko izpeljali ta prevoj.Ampak vendar program zora in iskanje sprememb na matričnem vratu je stvar, ko smo nekih že zamudili, nekdo je že okuženj, mi se samo lovimo tega okužejega v predrakasti stopnji, prej ne postane rakasta, mi pa želimo, da tudi teh predrakastih stvari ne bi bilo, se pravi, da ne bi blomladi ženski mrežemo matrične vratovze, da bi jih ozdravili preprečili rakah, krati pa, morda povzročili, da bo ta mlada mamica v bodošnosti rodila prezgodaj ali se lahko sploh predstavljate, kakšne težave imajo prezgodnjo urejeni otroci, koliko ne nazadnje to družbo stane, da takega otroka postavimo na noge, kajšne kapacitete in kakše znanje morajo imeti ne v nataljih delkih po porodnišnicah, da lahko to speljemo? To je tisto, kar nam še zmanjka, s pravi rak na matričnem vratu je v Sloveniji tako rekoč relativno ovladovan, kot rečeno smo v sami svetovni špici, ne pa tudi predraka se spremembje in te so tiste, ki jih pričakujemo z zacepljenjem tako rekoč eliminat in skrati svoje tudi okužbe s hape vejem.Druga stor, v katere smo manj govorili, namreč cepljenje pokriva tudi oba najbolj znana nizkorizična tipa, to sta šest in enajst, tiste dva povzočata pa genitalne bradavice, predstavljate si dekle, ki začne spolno življenje, nesegorno sama vase, kot jih je pač večina, ko ne enkrat ugotovite tam le spode med dlakram ali pa četek ni polno nekih novih bradavic izbruhne, to so doživljenjske frustracije, dožvavljenjska frustracija in tudi te lahko gladko preprečimo z, gladko preprečimo za cepljenjem.Medtem ko te bradavice, ko se enkrat pojavijo, lahko odšgemo z elektriko, z laserem zmrezulno, z dušikom in tako napejno, bo ena od vpisanih metod ni prav zelo, kako bi rekel vesela narave, pa vendar le jih premagamo, nikoli pa nismo segurnali, smo to storili dokončno, kajti venosečnosti dosti, kar se imuno pač prila godi plodu, saj spremeni izbruhnejo ponovno te bradavice, čeprav okuženje že zdavnej, tako da to je stvar, ki se lahko velikokrat vleče pri neki ženski skozi celorodno obdobje in tudi nato moramo računati, torej vsekakor imamo prostora, če povečamo precepljenost za izboljšanje Slovenije več kot dovolj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1776.968,
+        "end": 1802.517,
+        "text": "Doktor Jagrič Friškovec pa Doktor Baž v vprašanji zavaju zdele proti koncu našega pogovora, preden se še bolj posvetimo prijetni tematiki ozaveščanja, kar seveda tudi internašni pogovor je, katere so tiste najpogostejše vanje in zgrbi tistih, ki so v dvomu ali cepiti otroke ali ne, ali cepeti svojega sina ali ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1804.981,
+        "end": 1807.023,
+        "text": "Na prejas, Denis."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1807.158,
+        "end": 1807.647,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1807.647,
+        "end": 1815.865,
+        "text": "Ja, se jim moram rečnežalo, da nad starši prav zelo veliko ne sprašujejo, želeli bi si, da nas več sprašejo, saj tukaj pri nas?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1816.405,
+        "end": 1823.459,
+        "text": "Selo veliko se staši po drugih kanalih pozanimajo, seveda po internetu in pri prijateljih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1824.117,
+        "end": 1836.554,
+        "text": "Sem pa vesela, da je zadnje čase vedno več staršev, ki sprašujejo za cepljenje dečkov.Letos smo iz žgrniki po cepi samoprečniško, pač nažalo se to precejšnji finančni zaloga in si res življimo, kot je brez doktor Medličriku."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1837.111,
+        "end": 1844.587,
+        "text": "Da se čim prej uvedejo cepljenje obvezno oziroma neobvezno, pač plačano cepljanje tudi za dečke."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1845.177,
+        "end": 1853.21,
+        "text": "Tem da jadili nesostranski učinki, da področa neplodnost in take, potem pa čez rešimo to, če pride do nas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1857.108,
+        "end": 1864.516,
+        "text": "Je v bistvu Esbi mogoče dodel, da je strah v bistvu glavno vodilo, da se starši?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1865.022,
+        "end": 1868.971,
+        "text": "Mogoče izogne Alpada dvomijo v cepljanje?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1869.713,
+        "end": 1875.451,
+        "text": "In, kogate že doktor Jagričeva rekla, pred neželenimi učinki."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1875.957,
+        "end": 1885.087,
+        "text": "Ali pa na primer pred tem, da se bo zdaj neki hudega zgodilo, neče se bo otrok cepu z rumapunca, tako da..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1885.829,
+        "end": 1892.984,
+        "text": "To je glavna stvar, kot da tudi če si vzamemo čas, pa če razložimo zakaj, je vseeno pametno se cepit."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1893.625,
+        "end": 1902.063,
+        "text": "Pa tudi bistvu z temi kampanjami, ki jih zdaj pediatri v zadnjih letih smo nekoliko malbelj prisotni, mediji so malbel naklonjeni tudi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1902.569,
+        "end": 1903.784,
+        "text": "Bomriku..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1904.29,
+        "end": 1906.653,
+        "text": "Cepilcem ne sam proticepilcem, a ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1907.159,
+        "end": 1909.589,
+        "text": "Se to poznano, tako da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1911.732,
+        "end": 1921.655,
+        "text": "Ravno to sem želela dodatno vprašati, kako pa odgovarjate, lahko je tudi vpraše za doktor Megliča, kakor odgovoriti tistim, ki pridejo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1922.465,
+        "end": 1935.627,
+        "text": "S strahovi, z dvomi napolnjeni z različnimi zgodbami znancev neznancev, internetnimi, zgodbo povezavami, kako jim odgovoriti, kakoj jih pomiriti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1936.792,
+        "end": 1967.757,
+        "text": "Zdaj pristopijo seveda individualen, ker so ljudje z različnimi strhovi tako kot ste rekla, da seveda tisti, ki želijo številke, je to najlažje, se pravi lahko damo članke, ki so bili strokovno pregledani v preglet tudi s prevodom, kjer razlagajo koliko milijonov ljudi izzeroma sto milijone bložecepljenih po svetu brez resnejših posledic, brez kakršnih koli težav, prav to je tista prva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1968.331,
+        "end": 2063.894,
+        "text": "Stopnjako lahko ta rak, oziroma prvdanjako, lahko cepljenje nekako nadimo bolj prijazno, predvsem pa z manj strahovi, ampak ko so strahofi, ki se dajo opredelit, recimo strahme je, da bi zbolela strahmet tega enunga, potem v bistvu problem razložit, staršem oziroma dvomljivcem niti ni poseben. Problem je, kadar ni strukturirane stvari, okoli katere bi se pogovarjali z temi nasprotniki cepljenja, na primer pač stopijo ljudje v ambulanto, ki so priori proti. Oni so proti, kakoli je oni so proti, zdaj ne vem, izven Ljubljane je precepilo z bistveno višjo,ščito peteršilja in podobno, skratka, vsi ti peteržinčkarji imajo svoje ideje, do katerih pa z lotiško pridiške niso racionalne, ne moreš z njimi racionalna razpravlja povedati, to so te številke, to se te, to sajo taka znamenja, ki kažejo, da je pošto do reakcije, doce in penenu, noteknja pa krati pač proti in vidiš samezarote države, farmacije, medicine in tako naprej na tako ne argumentirane stvari je bistvo zrote školi vzema praktično nemogoče odgovarja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2066.358,
+        "end": 2093.56,
+        "text": "Mogoče še doktor Jagerič Fliškočevali pa, doktor Bažkakšen primer, ki ste ga doživeli, kako odgovarjati, recimo ne vem, mamice se pogovarjamo vsakdo hoče svojemu otroku najboljše in potem pristopi mamica, jaja sem pa slišala v sosednji šoli imata dve težave ali pa ena je že, ima težava z neplodnostjo.To so vse, to so vše take težke..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2094.472,
+        "end": 2100.496,
+        "text": "Težke debate in argumentacije, ki prestrašijo marsikatero mamico."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2101.627,
+        "end": 2104.799,
+        "text": "Mogoče če jo je, še povem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2105.423,
+        "end": 2111.127,
+        "text": "Je smiseln, da ena odstvari anek, moramo se zavedati, da tako, kot je doktor Meglič Reku."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2111.971,
+        "end": 2112.967,
+        "text": "Pri cepljenju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2113.709,
+        "end": 2133.318,
+        "text": "Na žalost naša znanstvena dejstva niso tako seksi, kot so ne raznete čustvene oziroma te teorije zarota, ali pa zgodbice, skoraj v bistvu lasten zgled se mi zdi tudi zlo pomembna stvarna, vsaj, na primer v moji ambulanti, ne, če povem, pa jim pa je, sanj sem tu toče."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2133.875,
+        "end": 2176.872,
+        "text": "Fanta in putce, da sem tudi svoje otroke C poneda verjamem v to, to se mi zdi zlo pomembna stvar, a ne se pravi veliko teg staršev, ki pride po informacije, so mogoče teki dvomijo dvumljivci, medtem ko tega je doktor Megliči rekel, koo prijori proti te niti ne bodo pršli v mojo ambulanto iskat informacije recimo OHPVC Pivo, tako da ta lasten zgleta in pa obilstvu to, da jaz tudi vedno razložim, da imamo super družbo dostop do vseh informacij, ampak ob bistvu gre za to, katere informacije so tiste prave preverljive, kot dobistvo zdaj večja težava, toda dobimo te informacija k so."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2177.48,
+        "end": 2190.862,
+        "text": "Relavantne kot pa na primer nekaj, nekje fejknjus, neke take bombastične stvari, ki pač dosežejo veliko ljudi, ampak nimajo nič skupnega z nekimi dejstvino."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2193.68,
+        "end": 2200.261,
+        "text": "Če prv razumem, vsakega vabite predvsem v ambulante po strokovnem svetu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2201.003,
+        "end": 2225.472,
+        "text": "Kolikor imajo strahove, okoliko imajo dvome, kjer vsako starši vželi res svojim otrokom le najboljše in je zelo priporočljivo, da se potem posvetuje tudi pri pristroki, kaj meni oziroma, da pristrog išče zanesljive odgovore na svoje strahove in na svajo vprašanja ali pa na vprašeanje sosede."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2226.282,
+        "end": 2232.965,
+        "text": "Zdaj le pa, če se mogoče posvetimo še kampanji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2233.572,
+        "end": 2256.708,
+        "text": "Ki smo jo letos zelo veseli, kajti kolesarstvo je v zadnjih letih zaradi mednarodnih uspehov slovenskih kolesarijev predvsem po zadnjem koronavobdobju postalo med Slovenci zelo priljubljen in se bolj viden način kakovostnega preživljanja prostega časa in smo te kampanje kolesarji s kolesaranjem proti okužbam hapeve zelo veseli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2257.433,
+        "end": 2272.283,
+        "text": "Mogoče gospod Miškulin, če nam zaupate, katere aktivnosti ta kampanja zajema, najverjetneje vas bomo videli, kot smo že rekli na maratonofranija, kaj vse še vključujeta kampanja kakšne aktivnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2276.148,
+        "end": 2284.045,
+        "text": "Cama kampanja pa ves pelje potem tudi na Maraton Franja, koliko vas bomo lahko videli to v soboto in nedeljo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2285.125,
+        "end": 2332.763,
+        "text": "Kako boste prepoznali, bomo šli tudi med fotografije, seveda prv zdajle, ko se pogovarjava, naj povem, da v kolesarskem društvu Rok je največje društvo v osrednji Sloveniji vzgajati mnogo kolesarjev, lahko se pohvaliva, ne, da je eden izmed njih tedelj pogačar te dni odlično kolesari na francoskem turu, da imate številne rekreativne ekipe, da je v njih tudi nekaj zdravnikov in da je potem padla ideja, kako bi združili prijetno s koristnim in ste potem ustanovili to posebno ekipo, ki bo vse leto, mogoče pa kar potem še leta naprej opozarjala na možnosti preprečevanja bolezni okužbe z virusom HPV, mogoče gospodmi Škulin če poveste še kaj več dele o kampanji, je s pa poiščem fotografije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2335.362,
+        "end": 2336.054,
+        "text": "Veseliš, da bi bilo vložen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2336.594,
+        "end": 2347.478,
+        "text": "Doktor Friškovec Jagričeva, kakšne so vaše izkušnje, vi ste tudi kolesarili v tem posebnem dresu, vas je kdo kaj vprašal, kaj pomenijo ti viruski?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2348.035,
+        "end": 2350.043,
+        "text": "Prej le jih vidimo malo bolj od blizu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2351.815,
+        "end": 2365.568,
+        "text": "Ja, sem kolesarla celo poleti, sicer ne tako profesionalno, da bi se mene pač ljubljana daleč od rok, da bih hodila trenirati nike prijateljcev me vprašala, ja, jaz sem ta dres z velikim ponosom, moram rečt nosle."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2366.328,
+        "end": 2366.8,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2367.644,
+        "end": 2367.661,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2367.661,
+        "end": 2367.745,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2367.745,
+        "end": 2368.285,
+        "text": "Kolje še ne, da je bilo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2367.762,
+        "end": 2381.195,
+        "text": "Takole še tako le se jih bo videla na maratonu potem od zadaj, ker se bo za njimi samo kadilo, da ne boste gledali preveč spredaj, a ne to bo, to bo te viruski so, tako tamle zadaje na majčkah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2381.836,
+        "end": 2391.775,
+        "text": "Doktor Baš, mogoče veš komentar te akcijev zaveščanja kolesarimo proti okužbam s hape večjo se ne motim, smo vas videli na fotografiji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2392.585,
+        "end": 2398.981,
+        "text": "Jare se, jaz to bistvo podpiramo vse aktivnosti, ki..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2399.707,
+        "end": 2418.472,
+        "text": "Propagirajo zdrav način življenja in tudi v bistvu združimo ne dva, eno je v bistvo da se zaščitimo s cepljanjem, pač v tem primeru proti hapevi, pa še v bistvonek naj naredimo dobrega za svoje telone nazadnje tudi za sva duša oziroma."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2419.163,
+        "end": 2428.057,
+        "text": "Pač zdravniki rabimo sploh veliko nekih, ventilovne, da potem lahko v ambulanti normalno funkcioniramo na tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2428.647,
+        "end": 2435.785,
+        "text": "Zdaj kako je s kolesarjanjem še doktor Meglič, vi tudi kolesari te?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2436.983,
+        "end": 2451.648,
+        "text": "Ja, ja, seveda tudi je s kolesarjem žal meni na teh slikah, ker me ni bilo tam, sem se neposredno boril s posledicami Hapevij Okušp in tudi na maratunofranju me ne bo, ker se bom tudi boril z posledacami Ha pevijOkušb."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2452.542,
+        "end": 2485.077,
+        "text": "Kako pa vidite aktivnosti ozaveščanja, o hapevel povezavi s kolesarjenjem, športom, zdravim načinom življenja? Je to eden izmernačinov, kako približati mogoče splošni javnosti tematiko, o kateri najraje ne bi govorili, ne, ker to je tem spoda in to se ne o tem se ne pogovarjamo, je mogoče to en tak prijeten in tak zabaven način s katerim bi mogo če lahko povzročili eno tako debato o tej tematiki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2486.073,
+        "end": 2490.747,
+        "text": "Pripravili čas, pripravili teren, da bi se o tem govorilo več in bolj na glas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2491.844,
+        "end": 2511.082,
+        "text": "Ja, vsekakor, posebno zato, ker to ni sestanji profesionalnih delavcev, ampak amaterjev navdušencev, ne nazadnje je šport dejansko precej velik faktor Slovenski družbi, v pozitivnem smislu tako daja, mizem da je idej odlična."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2514.473,
+        "end": 2540.005,
+        "text": "Ta vikend bo bistvu prav zato ekipo, a je Miro že od kolesarjev, jaz ga ne vidim več, ne? Ta vikenda bo za ekipa Vrhunec dogajala sebo največja slovenska kolesarska predreditev, kot smo že omenili Maraton Franja, ki jo prav tako organizira njihovo društvo, torej kaderok, po cestah Franje se bodo podali tudi ti viruski, ki smo jih videli na fotografijah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2540.596,
+        "end": 2587.88,
+        "text": "Tako tudi člane ekipe zdaj ljubkovalno kričajo o drugi kolesarjih, boste prepoznali, kot smo videli na fotografijah po njihovih privlačnih dresih in podpravijo tudi po širokih nasmehih, in jaz verjamem, da tako zares bo, vreme je odlično, Franja je pripravljena, ceste čez kladje kdor bo šel po dolgi so poflikali lahko rečemo torej poravnali vse luknje.Upamo tudi, da bomo poravnali luknine v sistemu, ki nas še ločijo do trenutka, da zares eliminiramo rak materničnega vratu, kot je doktor Meglič omenil, imamo vse možnosti odprte, želimo si, da bi te možnosti tudi izkoristili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2588.605,
+        "end": 2667.445,
+        "text": "Upam in želim, in pozdravljam, da bi takšne kampanje takšnje in podobne pomagale k debati tudi o tej tematiki in tako k še boljšim številkam, kot je doktor Megvič omenil zelo radi, govorimo, se pogovarjamo o številkah in največkrat na številke tudi prepričajo, najlepša hvala s spoštovanji dragi gostje, da si si vzeli čas v tem hitrem tempo in odgovorili na vprašanje, mogoče smo pa danes komu olajšali strah, mogoče smo mu pomagali vsaj na poti k temu, da bo pristopil k vam, potrkal na vrata in vas povprašal o stvareh, ki ga skrbijo v dobrobiti in v želji podobrobiti svoj otrok. Hvala lepa, še enkrat, hvala tudi vsem, ki ste nas spremljali in do naslednjič upam, da se srečamo v še boljših številkah in mogoče tudi o kakšnem koraku naprej, konvrstitvi dečkov v nacionalni program cepljenja proti okužbam s HPV, naj bo to ena taka lepa želja za prihodnost. Hvala še enkrat in lepo pozdravljenih, srečno!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2668.39,
+        "end": 2669.183,
+        "text": "Hvala, Sejčo."
+      }
+    ],
+    "runtime_sec": 346.0267663002014
+  }
+}

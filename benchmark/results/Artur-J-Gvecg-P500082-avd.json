@@ -1,0 +1,1744 @@
+{
+  "file_id": "Artur-J-Gvecg-P500082-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500082-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.05912059755712416,
+      "miss": 0.05912059755712416,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 2113.0029999999797
+    },
+    "der_collar0.25": {
+      "der": 0.04246139678378116,
+      "miss": 0.04246139678378116,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 1985.0029999999792
+    },
+    "wer": {
+      "wer": 0.15391969407265774,
+      "ref_words": 5230,
+      "hyp_words": 4896
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.284,
+        "end": 5.609,
+        "text": "Dobr dan in lepo pozdravljeni pri nas na ekonomski fakulteti Univerze v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 6.99,
+        "end": 17.3,
+        "text": "Ponosni smo na to, da gostimo današnji dogodek, ki je samo eden v nizu dogodkov, ki obravnavajo prireča vprašanja prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 19.032,
+        "end": 39.158,
+        "text": "Ko smo na ekonomski fakulteti leta 2017 dobili gostiteljstvo konference dekanov poslovnih šol pod okriljem naše krovne organizacije FMD, ki podeljuje prestižno akreditacijo Ekvis, smo bili seveda povabljeni tudi k oblikovanju programa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 40.198,
+        "end": 47.68,
+        "text": "Takrat smo predlagali, da v eno od plenarnih zaseden kot temo uvrstimo tudi vprašanja prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 48.631,
+        "end": 52.614,
+        "text": "To so bili časi, ki so bili od današnjih še precej različni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 52.714,
+        "end": 58.318,
+        "text": "Konferenco smo pripravljali že v letu 2015 in sploh v letu 2016."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 59.098,
+        "end": 68.325,
+        "text": "Dekani vodilnih poslovnih šol v svetu večinoma niso soglašali s tem, da je to tema, ki jo moramo naslavljati v poslovnih šolah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 69.269,
+        "end": 83.533,
+        "text": "A vendar smo se z vodstvom organizacije uspeli dogovoriti, da moramo upoštevati realnost in ne samo okolja najbogatejših poslovnih šol, zato je tema dobila mesto v programu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 84.434,
+        "end": 94.897,
+        "text": "Gost je bil Gi Standing in nekateri dekani so rekli, da na to predavanje ne bodo prišli, ker ne so odi v sklop poslovnih šol."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 95.257,
+        "end": 107.382,
+        "text": "Na koncu je bila naša velika dvorana na ekonomski fakulteti nabito polna, med predavanjem je vladala groba tišina, ob zaključku pa je sledil bučen aplavz."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 108.182,
+        "end": 119.186,
+        "text": "Od takrat naprej ima prekarnost svoje mesto v programih poslovnih šol, ki delujejo v okviru Evropske fundacije za razvoj manažmenta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 120.232,
+        "end": 143.477,
+        "text": "To je ena od tem, ki predstavljajo del uresničevanja družbeno odgovornosti poslovnih šol in danes vsi priznavajo, da je zasluga za to tudi na strani ekonomske fakultete Univerzu v Ljubljani kot ena od članic FMD in ene od vodilnih poslovno-ekonomskih šol v svetu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 145.342,
+        "end": 161.367,
+        "text": "Kot je prej gospa Petročič omenila, je to že peti dogodek v nizu dogodkov posvečenih vprašanjem prekarnosti in ljudi, ki se znajdejo v težkem položaju, ki ga prekarnost povzroča."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 161.947,
+        "end": 173.417,
+        "text": "Prvega smo naredili v prostorih BTC-ja, eden od preostalih štirih je bil v prostorih Fakultete za družbene vede, trije pa so tu pri nas na ekonomski fakulteti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 174.157,
+        "end": 178.361,
+        "text": "Ponosni smo tudi na dva zbornika raziskav, ki smo jo izdali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 178.901,
+        "end": 183.565,
+        "text": "Gre za resne študije, ki so jih pripravili naše sodelavke in sodelavci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 184.306,
+        "end": 205.325,
+        "text": "Zato sem zelo vesela, da lahko v tem času, ki zanesljivo ni enostavn in odpira številna boleča vprašanja, današnji dan ponovno posvetimo razpravam o prekarnosti v krogu relevantnih odločevalcev z različnih družbenih področjev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 206.8,
+        "end": 226.468,
+        "text": "Želela bi se zahvaliti svojim sodelavkam in sodelavcem, ki so pomagali pri organizaciji dogodka, predvsem pa tudi Črtu, ki je mimo glede tudi moj doktorski študent in resnično življenje posveča delu Inštituta za študije prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 227.253,
+        "end": 254.644,
+        "text": "Na ekonomski fakulteti smo se pred tremi leti pod vodstvom kolega Spruka, ki je tu z menoj odločili, da prijavimo enega od projektov, katerega namen je bil predvsem, da damo prostor inštitutu in seveda tudi neka javna finančna sredstva za to, da opravlja svoje plemenite poslanstvo, pa so žal odločevalci na državni ravni znotraj pristojnih inštitucij odločili drugače."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 255.164,
+        "end": 258.166,
+        "text": "Upam, da se bo to v prihodnje spremenilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 259.207,
+        "end": 267.533,
+        "text": "Na ekonomski fakulteti namreč zelo podpiramo aktivnosti inštituta, ki sodeluje z našimi raziskovalci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 268.034,
+        "end": 276.74,
+        "text": "Po svojih močeh prispevamo k temu, da raziskujemo aktualna družbena vprašanja in ponujemo tudi predloge rešitev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 277.301,
+        "end": 282.605,
+        "text": "Verjamem, da je današnji dan eden od pomembnih korakov v pravi smeri."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 284.628,
+        "end": 302.322,
+        "text": "Zato je zelo pomembno, da se je našemu vabilu za uvodni nagovor odzval tudi naš rektor, ki pozna vprašanja prekarnosti posebej tudi v našem sektorju, v sektorju raziskovalcev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 303.055,
+        "end": 314.903,
+        "text": "Vsem, ki nas spremljate, vsem, ki boste na današnjem dogodku tako ali drugače sodelovali, se v imenu ekonomske fakultete Univerze v Ljubljani najlepše zahvaljujem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 315.063,
+        "end": 315.363,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 318.243,
+        "end": 322.167,
+        "text": "Lep pozdrav še iz moje strani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 322.647,
+        "end": 332.496,
+        "text": "Zdaj, če mi izhajamo seveda iz neke širšega pogleda, mi lahko v bistvu hitro upazimo, da v bistvu prekarnost je danes večji problem, kot se ga je pa družba pripravljena priznati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 333.156,
+        "end": 344.547,
+        "text": "Ne samo, da je dostop in zagotovitev do svojega dela eden izmed osnovnih ciljev trajnostnega razvoja v okviru Združenih narodov,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 344.787,
+        "end": 358.345,
+        "text": "Istočasno seveda pač lahko pažamo, da se je v zadnjem desetletju ob vzdolžni, kako bi rekel, rapidni digitalizaciji trend prekarnosti in atipičnih pogodb v zaposlitvi samo stopnjeval."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 359.366,
+        "end": 359.526,
+        "text": "Zdaj,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 360.869,
+        "end": 372.094,
+        "text": "Tipično, ali kako bi rekel, temeno vprašanje, na katerega si pač mi kot družba moramo odgovoriti, je to, kakšne pa so zdaj seveda pač ekonomske posledice prekarnih zaposlitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 372.574,
+        "end": 382.399,
+        "text": "Zdaj, doskrat lahko slišimo argumente, ki prihajajo predvsem iz gospodarstva, da prekarnost ponuja večjo fleksibilnost, večjo svobodo in da to ne bi samo po sebi privedlo do bolj"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 383.279,
+        "end": 386.103,
+        "text": "kreativnih rešitev večje ekonomske kompleksnosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 387.044,
+        "end": 398.299,
+        "text": "Pa pa mi seveda pač argument prekarnosti sojočujemo na eni strani seveda za ekonomskimi modeli, na drugi strani seveda tudi za podatki, ki postajajo čez dalje večji in bolj obsežni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 398.639,
+        "end": 400.301,
+        "text": "Nekako vidimo, da te podpore v"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 401.723,
+        "end": 406.146,
+        "text": "prit velikim ekonomskim koristom prostovoljne prekarnosti, preprosto ni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 407.087,
+        "end": 421.859,
+        "text": "Izkaže se, da seveda pač ne samo države ali regije, ampak tudi seveda pač podjetja, ki implementirajo in seveda uvajajo več atipičnih zaposlitev, na koncu dneva ne dosežejo više produktivnosti, ne dosežejo više dodane vrednosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 422.159,
+        "end": 428.0,
+        "text": "In istočasno seveda imajo za svojo posledico tudi slabšo konkurenčnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 428.5,
+        "end": 437.282,
+        "text": "Dosti krat je tukaj treba seveda pač omeniti, da so bili v zadnjih letih se pravi argumenti, ki govorijo proti sami prekarnosti, bili veliko krat preslišani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 437.422,
+        "end": 448.804,
+        "text": "Na eni strani seveda kot je bilo že omenjeno strani črta, imamo tukaj seveda problem volje, strani politike, na drugi strani pa imamo seveda tudi širši družbeni trend, ki"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 450.934,
+        "end": 456.838,
+        "text": "kako bi rekel, seveda v logo dela, skuša seveda zapostavljati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 457.278,
+        "end": 467.584,
+        "text": "Dosti krat slišimo danes argumente opriti rapidni digitalizaciji kot trendu, ki bo seveda prekarnost tako ali drugače odpravil."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 468.244,
+        "end": 477.07,
+        "text": "Zdaj seveda brez jasne zakonske regulative, ki bo zagotavljala seveda na eni strani spoštovanje pogodbenih dogovorov, na drugi strani"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 478.015,
+        "end": 485.657,
+        "text": "pa tudi seveda pač upoštevala interese, ki jih seveda pač zaposleni imajo, prekarnosti ne bo mogoče seveda odpraviti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 485.717,
+        "end": 489.739,
+        "text": "Na eni strani seveda pač se lahko tukaj pogovarjamo o dveh vzrokih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 490.119,
+        "end": 493.2,
+        "text": "Prvi vzrok leži na strani zakonske regulative."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 493.44,
+        "end": 503.063,
+        "text": "Se pravi, ali smo vse kot družba vprašali, kako smo lahko vzpostavili institucionalni okvir, ki je prekarnost omogočil, da se je razširila do te mere,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 504.003,
+        "end": 508.065,
+        "text": "da je postala seveda ne samo mikro, ampak tudi makro ekonomski problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 508.565,
+        "end": 516.708,
+        "text": "Tukaj, če gremo pogledati seveda pač primere evropskih držav, kjer je prekarnost zelo pač razširjena na dva različna trenda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 517.209,
+        "end": 529.634,
+        "text": "Prvi trend je ta, da vidimo, da se države v Evropi nekako po tipu prekarnosti razdelijo oziroma razdeljujo ne na vzhod in zahod, kot je tradicionalna percepcija, ampak predvsem na sever in jug."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 530.294,
+        "end": 536.039,
+        "text": "V severnih državah vidimo več prostovolnih atipičnih zaposlitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 536.079,
+        "end": 545.166,
+        "text": "V južne evropskih državah, lahko povem primer Španije in Portugalske, atipične zaposlitve so v 95 odstotkih primerov neprostovolne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 546.187,
+        "end": 549.429,
+        "text": "Torej, govorimo na eni strani o presežni rigidnosti,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 550.19,
+        "end": 553.011,
+        "text": "ki to prekarnost seveda pač zgolj stopnjuje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 553.612,
+        "end": 571.3,
+        "text": "Drugi vzrok je pa seveda, tukaj se pa doskrat premalo izpostavlja, ta poseben partikularen vzrok, in sicer, kako smo lahko kot družba vzpostavili kulturo, ki atipične, neurejene pogodbene razmere in prekarne zaposlitve istočasno tolerira."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 571.72,
+        "end": 575.762,
+        "text": "In vidimo seveda, da ta toleranca je šla tako daleč, da"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 576.582,
+        "end": 579.723,
+        "text": "ni prinesla pozitivnih makroekonomskih posledic."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 580.083,
+        "end": 590.908,
+        "text": "Enkrat, ko prekarnost postane problem z vidika tudi dolgoročne brezposelnosti oziroma dolgoročne nezmožnosti iskanja dela, vidimo, da gospodarstvo seveda kot celota trpi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 591.668,
+        "end": 614.285,
+        "text": "lahko povem pač primer Slovenije, ki je po letu 2008, če seveda lahko se tukaj ne strinjamo, kdaj je prišlo do razširjene prekarnosti, ampak če vzamemo leto 2008 ali pa leto 2020, kot izhodišče vidimo, da ne samo, da se nam je glede na našo primrljivo kontrolno skupino zmanjšal BDP na prebivalca, tudi zmanjšala se nam je produktivnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 614.866,
+        "end": 619.369,
+        "text": "Ali so seveda sektori in podjetja, kjer je prekarnost zelo razširjena,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 620.17,
+        "end": 628.676,
+        "text": "ali so res nišni liderji na svojem področju, ali dosegajo visoko dodano vrednost, ali dosegajo delož visokotehnološkega izvoza."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 629.556,
+        "end": 631.998,
+        "text": "Vidimo seveda, da temu preprosto ni tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 632.418,
+        "end": 640.644,
+        "text": "Upažamo seveda, da so ta podjetja predvsem delovno intenzivna ali pa seveda, če so delovno intenzivna, ne uporabljajo znanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 641.264,
+        "end": 648.929,
+        "text": "v svojem ključnem proizvodnem procesu, takrat postane argument, da so stroški dela ključna overa konkurenčnosti zelo popularna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 649.29,
+        "end": 665.661,
+        "text": "Seveda se strinjamo lahko brez zadržkov, da imamo pač davčno preobremenjene plače, davčno preobremenjeno gospodarstvo, vendar to samo po sebi ne sme biti in ne sme nikoli postati razlog, zakaj bi lahko pristajali seveda na samo prekarnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 666.162,
+        "end": 669.924,
+        "text": "Ko mi zdaj gremo gledati študije, kaj so pač ugotovile glede"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 670.745,
+        "end": 672.586,
+        "text": "ekonomskih posledic, prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 673.186,
+        "end": 677.827,
+        "text": "Tukaj dost skrat pogosto zanemarjamo seveda tudi, kako bi rekel, indirektne učinke."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 679.188,
+        "end": 690.472,
+        "text": "Premalo smo izpostavljali, da paš ljudje, ki so izpostavljeni nesigurnim, atipičnim oblikam zaposlitve, izkušajo in seveda so podvrženi visoki stopni stresa in psihološke negotovosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 691.092,
+        "end": 698.575,
+        "text": "To seveda ima samo po sebi zelo negativne učinke na samo storilnost, na produktivnost in, kar je najpomembnej, tudi na zdravje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 699.635,
+        "end": 721.846,
+        "text": "Recimo, mi če gremo pogledati zdaj, kaj se je dogajalo na takem najbolj bazičnem kazalniku, ki nam kaže stopno demografskega in socialnega razvoja, to je pričakovana življenjska starost ob rojstvu in ob naslednjih letih, vidimo, da Slovenija od časa, ko je prekarnost postala zelo razširjena na tem področju, seveda jasno zaustaja za svojo kontrolno skupino."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 722.146,
+        "end": 733.511,
+        "text": "Po mojih ocenah se je pričakovana življenjska starost v obrojstvu, glede na našo kontrolno skupino, na račun prekarnosti zmanjšala nekje za eno leto starosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 733.952,
+        "end": 741.895,
+        "text": "Kar seveda nekomu se ne zdi veliko, ampak gre pa za velik, kako bi rekel, ne strukturni prelom, ampak tudi seveda pač strukturni zlom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 744.067,
+        "end": 757.637,
+        "text": "Seveda se moram tukaj vprašati, ali si seveda kot družba smo vsi pripravljeni priznati, da je prekarnost velik problem, da prekarnost vsaj v Sloveniji v veliki večini primerov ne gre za prosto volno obliko prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 757.918,
+        "end": 767.485,
+        "text": "Seveda si države, ki so bogate, kot so skandinavske države ali pa nizozemska, seveda si take države lahko same po sebi privoščijo več atipičnih oblik zaposlitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 767.725,
+        "end": 771.347,
+        "text": "Slovenija v tej ligi držav nažalost še ni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 771.828,
+        "end": 776.731,
+        "text": "Po BDP-ju na prebivalca smo v letu 2022 izenačeni s Španijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 777.271,
+        "end": 782.574,
+        "text": "Smo daleč od tega, da bi bili blizu državam, kot so Avstralija, nizozemska."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 782.994,
+        "end": 796.763,
+        "text": "Po produktivnosti, če tudi gledamo, vidimo, da smo v času pandemije COVID-19 naredili majhen korak naprej, ampak daleč prej mali, da bi lahko upravičili atipične oblike zaposlitve kot neko zakonsko normo oziroma vsaj nekaj nekaj,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 797.003,
+        "end": 799.473,
+        "text": "zakonodajalec ne bi uspel reagirati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 800.362,
+        "end": 825.823,
+        "text": "Strinjamo se seveda tudi lahko, da imamo delovno zakonodajo, ki je rigidna, ampak ne rigidna samo za delodajalce, rigidna tudi zato, da zaposlenim, se pravi predvsem delu, zagotavlja nič drugega, kot samo spoštovanje in uvaljavljanje pogodbenih dogovorov, ki ga seveda pač standardna varna oblika zaposlitve, pravno varna oblika zaposlitve seveda omogoča."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 826.844,
+        "end": 828.125,
+        "text": "In tukaj seveda nas pripelje"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 829.066,
+        "end": 836.311,
+        "text": "nas pripelja celotna analiza pač do zelo zanimivih zaključkov, kakšni naj bodo seveda normativni sklepi za zakonodajalca."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 836.711,
+        "end": 841.894,
+        "text": "Ali naj zakonodajalec preprosto reagira, ali naj zakonodajalec ne reagira."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 842.314,
+        "end": 856.303,
+        "text": "Dosti krat smo videli v zadnjih letih, še pod sede takrat, ko je politična nestabilnost postala institucionalna norma, nažalost Slovenije, da je to samo podaljšalo agonijo strukturnega nereševanja problemov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 857.264,
+        "end": 871.147,
+        "text": "In tukaj seveda pač si želimo, da na eni strani bi imeli institucionalni okvir, ki bi bil predvsem pred zvedika politične stabilnosti relativno trajen in da seveda pač zakonodajalec temu ustrezno prisluhne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 871.467,
+        "end": 876.508,
+        "text": "Ne z ideološkega vidika ali zagovarja interese dela ali zagotavlja interese kapitala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 876.709,
+        "end": 880.89,
+        "text": "Gre za pač zelo, kako bi rekel, zastarelo delitev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 881.19,
+        "end": 885.291,
+        "text": "Ampak predvsem z interesa tega, da se pogledamo, kaj je za našo blaginjo najboljše."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 885.671,
+        "end": 886.511,
+        "text": "In za našo blaginjo"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 887.251,
+        "end": 896.256,
+        "text": "vsaj tako nam govori ekonomska teorija in seveda tudi empirične študije, zagotovo ni dobro, da se atipične oblike zaposlitve nadaljujajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 896.797,
+        "end": 900.479,
+        "text": "V kakršnem kol vakumu oziroma v kakršnem koli seveda tudi obliki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 901.579,
+        "end": 904.961,
+        "text": "Pomembno je, da si priznamo sami sebi, da"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 906.222,
+        "end": 909.525,
+        "text": "Tudi na osebni ravni prekarnost ne predstavlja svobode."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 909.765,
+        "end": 916.11,
+        "text": "V veliki večini primerov predstavlja nepotreban stres, nepotrebne traume in lahko tudi seveda pač neko tragedijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 916.891,
+        "end": 924.057,
+        "text": "Želimo vsi delovne zakonodaje, ki bi bila na eni strani fleksibilna, ampak da fleksibilnost ne bi postala"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 925.118,
+        "end": 943.12,
+        "text": "razlog ali argument, zakaj stran gospodarstva ne bi spoštovala pogodbenih dogovorov in si, seveda, želela iti v zelo atipične oblike zaposlitve, ker na koncu dneva ni argumentov v literaturi, ki bi potrdili, da to pozitivno, v kakršni koli meri pozitivno,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 943.36,
+        "end": 957.705,
+        "text": "spodbuja in stimulira produktivnost, dodano vrednost in kar je še najbolj pomembne, kompleksni tip ekonomske organizacije, kjer dominirajo seveda ne vertikalne razmerja, nekaj smo jih dovedli, so vse preveč valjne, ampak predvsem horizontalna razmerja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 958.125,
+        "end": 961.266,
+        "text": "Tukaj je Slovenija seveda pač v zadnjih letih šla v smer"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 963.087,
+        "end": 966.87,
+        "text": "ki nažalost ni pozitivna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 967.231,
+        "end": 979.562,
+        "text": "Ne pozitivna zaradi tega, ker, kot vidimo, pač se je država zelo rada povezovala z višegrajskimi državami in kjer pa vidimo, seveda tudi mogoče, če se navežem na nedavno"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 979.962,
+        "end": 998.054,
+        "text": "krizo in vojno v Ukrajini, ne, vidimo, da seveda pač te države, ne, poleg tega, da so pač sprejele številne ekonomske politike, ne, ki pač spodbujajo prekarnost, ne, poslabšajo polozaje zaposlenih na trgu dela, tudi seveda postavljajo slab zgled institucionalnih norm, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 998.394,
+        "end": 1009.041,
+        "text": "Mislim, seveda želimo, da bi Slovenija pač bila trdno zasidrana, ne, tam, kamor spada, ne, se pravi, po mojem prisoji v južni del Evrope, definitivno pa seveda na zahod, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1009.561,
+        "end": 1027.191,
+        "text": "In seveda si želimo v isti vnemi, da prekarnost seveda pač ne bi postalo področje, je to, ki se želim navezati, če ne tretji dejavnik, ne bi postala področje, kjer se goji predvsem poslovna kultura, ki prekarnost in prekariziranost seveda pač spodbuja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1027.651,
+        "end": 1046.563,
+        "text": "Mi smo tukaj doskrat videli, kot je že dekanja povedala, da imamo med poslovnimi šolami, in to je globalni problem, to ni lokalni ali regionalni problem, da imamo med poslovnimi šolami vzpostavljeno seveda mentaliteto, ki to vrstno vprašanje nekak negera, jim ne daje pozornosti, jih ne vidi kot seveda problematična."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1047.243,
+        "end": 1067.312,
+        "text": "Ampak zanimivo pa je, da ko mi pogledamo po svetu, kaj se je zgodilo v državah, v regijah, ki so skušali seveda prekarnost tako ali drugače odpraviti, in tukaj ne govorim z nekimi ad hoc interventnimi ukrepi, ampak predvsem na eni strani s kulturnim ponotranjenjem in poenotenjem, noram, da prekarnost seveda ni dobra, ni okej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1067.932,
+        "end": 1077.363,
+        "text": "vidimo, da pač do teh negativnih posledic, ki jih pač upažamo, kot argument za prekarnost, nižja produktivnost, upad gospodarskih rasti, da do tega preprosto ni prišlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1077.463,
+        "end": 1083.83,
+        "text": "Recimo tak primer imamo v Zvezdni državi Kalifornija leta 2008, recimo kolega Ian Perry je"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1084.03,
+        "end": 1109.249,
+        "text": "iz Univerze Berkeley je napisal zelo dobro šlane, kjer je preveril, kaj se je zdaj dogajalo z makroekonomskimi trendi in trajektorijo Kalifornije po industrijski proizvodni podpani, po deležu visokotehnološkega izvoza, po gospodarski rasti, po dodani vrednosti, po večjih dimenzijah, ko je Kalifornija leta 2008 sprejela tako imenovan Kalifornija policy model, se pravi model javnih politik, ki zagotavlja dostojne"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1109.849,
+        "end": 1116.034,
+        "text": "in enako pravne standarde za zaposlene, z visoko stopno pravne varnosti, zaseveda pač"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1117.426,
+        "end": 1124.252,
+        "text": "ki ni direktno zapovedala prepovedovanje minimalne plače, ampak delodajalce opogumila, da jih ne počnejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1124.713,
+        "end": 1137.845,
+        "text": "Vidimo na eni strani, da ni prišlo do vpada gospodarske rasti, vidimo, da ni prišlo do rasti brezposobnosti in vidimo, da se je Kalifornija glede na svojo kontrolno skupino drugih zvezdnih držav razvijala bistveno bolje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1138.365,
+        "end": 1140.367,
+        "text": "Torej vidimo, da, kako bi rekel,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1141.068,
+        "end": 1151.595,
+        "text": "prekarnost sama po sebi ima zelo pogubne posledice, oziroma odprava prekarnosti ima, kar se tiče predvsem trajnog ekonomskega in socialnega razvoja, pozitivne posledice."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1152.136,
+        "end": 1166.365,
+        "text": "Moramo se pa seveda tudi vprašati, ali smo vsi kot družba pripravljeni odpovedati kulturi, ki posredno ali neposredno seveda fragmentirane, fragmentirani in zakonodajno razdrobljen trg dela nekako ceni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1167.106,
+        "end": 1188.758,
+        "text": "Ta kultura seveda, ne, to kulturo so na eni strani pač vzpostavlja deloma, ne, v celoti, ampak deloma poslovne šole, ne, deloma tudi pač zaločene javne politike in vidimo, da se je te kulture zelo težko rešiti, ne, zato pač na eni strani je seveda pač naloga zakonodajalca, da pomaga, ne, vzpostaviti zakonodajno ukvir, ki, a, ni kompliciran, ne,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1188.858,
+        "end": 1196.999,
+        "text": "B. je lahko razumljiv, C. ne povzroča visokih transakcijskih stroškov, D. zagotavlja pravno varnost zaposlenim in E."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1199.121,
+        "end": 1212.11,
+        "text": "prepoveduje kakršnokoli seveda pač podrejeno ali, kako bi rekel, na polpodložniško razmerje na trgu dela, ki vidimo, da pač se vrti okoli kratkoročnih projektov, raziskovalnih, štakšnih in drugačnih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1212.53,
+        "end": 1223.597,
+        "text": "In zelo pomembno je seveda pač, ko družba, ali smo vsi uspodprapravljeni vzpostaviti kulturo, kjer tega preprosto ne bomo tolerirali in kjer tega ne bomo cenili, da bomo lahko dosegli višjo produktivnost, višjo dodano vrednost,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1224.498,
+        "end": 1229.4,
+        "text": "bolj kompleksno ekonomsko organizacijo in na koncu dneva tudi višji indeks človekovega razvoja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1229.8,
+        "end": 1240.703,
+        "text": "Po vseh karakteristikah, ki jih Slovenija ima kot družba, pač vidimo, da bi zlahka dosegla indeks človekovega razvoja med top deset držav na svetu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1241.163,
+        "end": 1252.907,
+        "text": "Tako da zdaj pa z moje strani za ovod bi pa je to, kako bi rekel, nekaj upen, da pač, če ne drugega, za dobro začetek, za vse ostalo pa pač prepuščam besedo našim dragim sogovornikom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1253.187,
+        "end": 1253.627,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1256.138,
+        "end": 1257.898,
+        "text": "Najlepša hvala, najprej za povabilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1257.918,
+        "end": 1267.241,
+        "text": "Potem pa ja, seveda, mi na Sinikatu Mladi Plus torej združujemo mlade, torej dijake, študente, mlade brezposlene in mlade prekarne delavke in delavce."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1267.961,
+        "end": 1277.943,
+        "text": "In v bistvu, kar se mnogokrat pojavlja v nekem javnem diskurzu, je ravno ta percepcija, da je prekarnost neka svobodna odločitev, kar smo tudi slišali že prej,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1278.143,
+        "end": 1291.05,
+        "text": "da si mladi dan danes v bistvu ne želijo več zaposlitev za 40 let, za nedoločen čas, da mladim praktično ustreza biti svoboden, fleksibilen, da si lahko sami razporejajo svoj čas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1291.13,
+        "end": 1297.053,
+        "text": "In nekako na Sinikatu Mladi Plus vse skozi poskušamo preizpraševati, ali je to res ali ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1297.533,
+        "end": 1313.383,
+        "text": "Tukaj torej ne zaupamo tem besedam, ki jih velikokrat uporablja ravno gospodarstvo, ki se poslužuje te neke percepcije ali pa politika in gremo enostavno do mladih in vprašamo mlade, ali je to res tisto, kar bi lahko izbirali, če bi sploh imeli izbiro."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1314.172,
+        "end": 1322.881,
+        "text": "In pri teh naših raziskavah se vedno znova potrjuje, da če bi mladi imeli izbiro, bi izbrali pogodbo o zaposlitvi za nedoločen čas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1323.682,
+        "end": 1332.112,
+        "text": "Mladim je na koncu dneva še vseeno bolj pomembna varnost, stabilnost, plača, ki pride vsak mesec redno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1332.532,
+        "end": 1339.194,
+        "text": "Ne pa toliko v resnici te neki drugi vidiki prekarnosti, ki ne bi bili tako zelo svobodni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1339.694,
+        "end": 1350.578,
+        "text": "Tudi ko gremo v podrobnosti, kot torej sprašujemo o recimo svobodnem razporejanju časa, veliko prekarcev v bistvu reče, da dela več, da dela več kot redno zaposleni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1350.858,
+        "end": 1353.86,
+        "text": "da ne poznajo vikendov, ne poznajo praznikov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1354.341,
+        "end": 1363.508,
+        "text": "Pri prekarnosti to realiziramo, vsaj pri SPI-ih, tisti, ki delajo preko avtorske pogodbe, podjemne pogodbe, enostavno ni osamurno omejitvena dana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1364.129,
+        "end": 1373.157,
+        "text": "Tako da v bistvu vse skozi, kot torej govorimo z mladimi, se res izkazuje, tukaj je bilo tudi že konc konca omenjeno, da tukaj res ne gre za svobodno izbiro."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1373.757,
+        "end": 1381.201,
+        "text": "da mladi v resnici nikoli niso mogli odločati o tem, da enostavno sprejemajo to, kar trg dela ponuja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1381.901,
+        "end": 1393.267,
+        "text": "In v isti sapi, ko nam torej te mladi povejo, da bi sami izbral pogodbo o zaposlitvi za nedoločen čas, če bi sploh imeli izbiro, krati tudi povejo, ampak smo pa pripravljeni sprejeti kar koli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1394.227,
+        "end": 1401.15,
+        "text": "Zato, ker vsi poznamo statistike, ki kažejo, da je brezposobnost mladih višja kot v drugih starostnih skupinah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1401.81,
+        "end": 1408.373,
+        "text": "Vemo, da se mladi teže integrirajo na trg dela, ravno zato, ker jim primakuje izkušen, ali pa zato, ker te izkušnje na stavu niso priznane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1408.793,
+        "end": 1413.615,
+        "text": "In zato v bistvu lahko vidimo dan danes, da so mladi pripravljeni sprejeti kar kol, tudi kar šitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1414.055,
+        "end": 1429.358,
+        "text": "In tudi to se vedno bolj izkazuje, da so mladi torej pripravljeni delati več, za manj denarja, v poklicih, za katere se niso izobraževali, da so mladi pripravljeni delati v krajih, ki so bolj oddaljeni od njihovega kraja in da so pripravljeni sprejeti tudi kršitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1429.378,
+        "end": 1436.02,
+        "text": "Vse zavedajo, da to seveda ni dobro, ampak enostavno zaradi trenutne situacije enostavno nimajo izbire."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1436.92,
+        "end": 1449.323,
+        "text": "In če govorimo o tej svobodi, ki jo ne bi torej ta prekarnost ponujala, se po mojem res lahko tudi še naprej navežemo na te besede, ki smo jih prej v vodu slišali in to je, da v resnici ne gre za svobodo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1449.923,
+        "end": 1464.107,
+        "text": "Da tukaj bi bili morda ljudje bolj svobodni, če bi vedeli, da torej bojo dobili plačilo, če bi vedeli, da grejo lahko na bolniško, ko zbolijo, če bi vedeli, da jim pripada plačan dopust."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1464.427,
+        "end": 1470.531,
+        "text": "če bi vedeli, da imajo pokrita neka osnovna zdravstvena zavarovanja, pokojninska zavarovanja, vse te zadeve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1471.192,
+        "end": 1473.413,
+        "text": "In seveda vsega tega pri prekarnosti ni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1474.094,
+        "end": 1492.167,
+        "text": "Zato bi jaz res rekla, da je večja svoboda v resnici v tem, da se počutaš varno, tudi na trgodela, da lahko načrtuješ svojo prihodnost in da enostavno nisi vsako dnevno, vsako tedensko, vsak mesec pod stresom in pod vprašanjem, ali boš sploh lahko plačal svoje račune."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1492.507,
+        "end": 1510.145,
+        "text": "In to v resnici je realnost današnje mladine, da so torej nesvobodni, da so prisiljeni in da so na žalost tudi preveč pripravljeni sprejeti marsika in samo zato, da bi se lahko dokazali, da bi lahko nekako preživel, ne po resnici, polno živel v tem svetu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1512.537,
+        "end": 1515.399,
+        "text": "Morda je ravno ta majhnost problem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1515.699,
+        "end": 1521.123,
+        "text": "Seveda ljudje lahko grejo in veliko mladih tudi grejo tujino, ampak je to nekaj, kar bi si res želel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1521.583,
+        "end": 1529.028,
+        "text": "Mobilnost je seveda nekaj, kar je absolutno potrebno spodbujati, ampak ne na način, če je ta mobilnost prisilna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1529.448,
+        "end": 1534.512,
+        "text": "Ne, če je ta mobilnost posledica tega, da enostavno v slovenskem okolju ne najdejo priložnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1535.032,
+        "end": 1551.281,
+        "text": "Nažalost, ta mejhen trg seveda omejuje lahko posameznika, posameznico, ampak v resnici bi jaz rekla ne toliko zaradi pomankanja priložnosti, ampak ravno zaradi razmer oziroma pogojev dela, kakšne so te priložnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1551.662,
+        "end": 1558.966,
+        "text": "Veliko mladih, dajmo tudi ne pozabiti, da ko govorimo o mladih, govorimo o najbolj izobraženih generacij, ki smo jih kadarkoli imeli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1559.146,
+        "end": 1565.791,
+        "text": "Mladi niso brezposobni, zato ker bi bili nesposobni, ker ne bi bili izobraženi, ker ne bi bili pripravljeni delati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1566.152,
+        "end": 1584.667,
+        "text": "Ampak v bistvu zaradi neke strukturne brezposobnosti ali pa strukturne prekarnosti, ki smo jo pričali, in zato tudi visoko izobražen kadar razmišlja o odhodu v tujino, zato ker ve, da v Sloveniji morda ne bo cenjen za svoje znanje, za svoje sposobnosti, tako kot bo v nekih drugih okoljih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1587.682,
+        "end": 1591.446,
+        "text": "Ja, absolutno, je to nekaj pravilnega, kar se je očitno zgodilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1591.566,
+        "end": 1597.312,
+        "text": "Jaz bi rekla, da že trenutna slovenska zakonodaja omogoča veliko več aktivnosti ravno na tem potročju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1597.732,
+        "end": 1602.638,
+        "text": "Naš zakon o delovnih razmerjih je jasen, ko določa, kaj so te elementi delovnega razmerja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1603.038,
+        "end": 1621.466,
+        "text": "In v bistvu tudi zadnjo spremembo zakona o inšpekciji terga dela se je podalo več pristolnosti inšpektoratu, da naj bi se daj inšpektorat, torej, imel možnost ugotavljati te elemente delovnega razmerja in podati navodilo delodajalcu, da mora ponuditi pogodbo o zaposlitvi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1621.786,
+        "end": 1639.883,
+        "text": "Ravno zato, ker se zelo malo delovk in delovc odloči, da bo samo oveljavljalo svoje pravice, ker se zelo malo od njih odloči, da bodo šli v sodne postopke in to dokazovali na sodiščih celo več let, se je torej v bistvu mislil, da se bo ta problem lahko vsaj delno naslovil za večjo pristolnost v inšpektoratov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1640.103,
+        "end": 1641.664,
+        "text": "Vse to je zakonsko predeljeno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1641.985,
+        "end": 1642.866,
+        "text": "Podlaga za to je,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1643.406,
+        "end": 1663.878,
+        "text": "Problem pa je, ker se v praksi to ne zagotavlja, ker je enostavno inšpektorat za delo kadrovsko in finančno podhranjen, ker imamo mislim, da 46 inšpektorjev, delovno pravnik inšpektorjev za torej več kot kar 200 tisoč pravnih subjektov, delodajalcev, ki enostavno ne hodijo na teren, ne počnejo tega, kar bi jim zakon omogočal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1664.058,
+        "end": 1672.824,
+        "text": "In če tudi grejo, mi moramo res pač izrazati kritiko na pram inšpektoratu za delo, predvsem v zadnjih letih, v resnici ne ukrepajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1673.205,
+        "end": 1687.215,
+        "text": "Delodajalce v najboljši meri opozorijo, ne izrekajo sankcij, ne izrekajo torej teh v bistvu obveznosti, da morajo ponuditi pogodbo o zaposlitvi in tukaj jaz mislim, da če bi samo to za začetek lahko poskušali ukrepiti,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1687.295,
+        "end": 1694.458,
+        "text": "In s tem tudi seveda prispevali k drugačni mentaliteti v družbi, kar je bilo tudi že prej omenjeno, da se mora seveda spremeniti kultura."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1694.478,
+        "end": 1706.542,
+        "text": "Jaz bi rekla, da dan danes je neka percepcija v družbi, da če te nekako uspe po domače povedanj nategant državo, se izogant kakšnemu davku, se izogant pravilom,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1706.802,
+        "end": 1720.748,
+        "text": "veljaš za nekega heroja in ti kolegi čestitajo, ni pa v bistvu te neke spodbude, da bi se ljudje želeli držati pravil, ker bi verjeli, da so tam pravila vsaj ta, zato ker so smiselna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1720.768,
+        "end": 1733.073,
+        "text": "Tako da jaz bi res rekla, da prvi korak bi zagotovo lahko bil okrepito inšpektorata, res dela za delodajalci, seveda zlepa, če se da, če ne, pa tudi torej zgrda, da se bodo bali sankci,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1733.173,
+        "end": 1739.118,
+        "text": "ne pa da bodo prepričani, da je itek nikakršna možnost, da bi jih inšpektorac sploh lahko obiskal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1739.658,
+        "end": 1745.102,
+        "text": "Tako da, ja, tudi ponovno o tem primeru, kako smo ga slišali pač iz Avstrije, to bi se moglo dogajati na terenu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1745.223,
+        "end": 1753.789,
+        "text": "Inšpekcija bi mogla biti tam prisotna in če se ugotovi, torej, kršitve, bi mogli torej, v bistvu, zagotovi, da se te kršitve popravijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1754.35,
+        "end": 1760.695,
+        "text": "In mogoče samo še, ja, nek odgovor na to, kar je bilo tudi prej rečen, o tej prostovoljni espezaciji ali pa kaj tazga,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1761.055,
+        "end": 1770.064,
+        "text": "Vse lepo in prav, super je, če se imajo ljudje seveda možnost izbirati, ker so toliko ekonomsko močni, da si lahko tudi prvoščo kajtazga."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1770.685,
+        "end": 1781.036,
+        "text": "Ampak po drugi strani pa, trg dela ni samo postrežna trgovina, kjer bi se lahko tudi delavec samo odločil, da bi imel sam SP, če obstajajo elementi delovnega razmerja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1781.356,
+        "end": 1782.216,
+        "text": "Zakaj?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1782.557,
+        "end": 1790.46,
+        "text": "Zato, ker na tem svetu ne obstaja samo tisti delavec ali pa tisti delodajalec, ampak je to vezano na celoten sistem države, kot ga poznamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1790.901,
+        "end": 1805.308,
+        "text": "Ker je to vezano na zdravstveno zaurovanje, ker je to vezano na pokojninsko zaurovanje, ker se s tem plačujo davke in prispevke, ki vzdržujojo sisteme javne storitve, zato da imamo lahko, konc koncov, brezplačno izobraževanje zdravstva pokojnine in vse te stvari."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1805.808,
+        "end": 1820.0,
+        "text": "In če bi torej želeli imeti resno razpravo o tem, kako dopuščati to svobodno prekarizacijo, mislim, da bi si mogli torej najprej odgovoriti na ta vprašanja, ali želimo imeti torej sisteme solidarnosti in sisteme javnih storitev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1820.46,
+        "end": 1823.083,
+        "text": "In če ja, potem seveda so tukaj tudi obveznosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1827.003,
+        "end": 1832.807,
+        "text": "Ja, verjetno zato, ker če bi priznali, da je to eden izmed velikih problemov, potem bi mogla res začeti otiskati rešitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1832.827,
+        "end": 1842.914,
+        "text": "Jaz bi rekla, da pač ja, res, govori se o prekarnosti in kot je bilo že pač rečeno, ni nobene politične volje, da bi se to resno naslovil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1843.254,
+        "end": 1846.557,
+        "text": "In te volje ni, ja, ne strani politike, ne strani gospodarstva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1846.797,
+        "end": 1858.759,
+        "text": "Ker se še vedno rajo ukvarjamo s temi miti o svobodi, o fleksibilnosti, o tem, da to celo povešuje delovna mesta ali pa kaj podobno, ne pa, da se v resnici naslovi trg dela kot celoto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1859.44,
+        "end": 1867.841,
+        "text": "In morda, ja, tudi, seveda, ja, navezano na to, kar smo tudi zdaj že govorili, prekarnost se k večjemu samo še razširja in povečuje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1868.061,
+        "end": 1871.462,
+        "text": "Vedno znova se pojavljajo novi elementi prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1871.722,
+        "end": 1874.223,
+        "text": "In mogoče samo, da izpostavljam dva ekstrema."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1874.243,
+        "end": 1883.025,
+        "text": "Jaz mislim, da se mora prekarnost razširti tudi na področje tisti, ki morda so redno zaposleni, ki imajo celo pogodbo zaposliti za nedoločen čas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1883.125,
+        "end": 1888.967,
+        "text": "Ker za nas je prekarnost tudi to, da se vedno znova želi dodajati nove razloge za odpuščanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1889.607,
+        "end": 1899.189,
+        "text": "Dajmo se spomniti, da pred par leti so resnici predlagali, da bi se dodal nov razlog za odpuščanje na podlagi neujemanja delodajalca."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1899.309,
+        "end": 1901.05,
+        "text": "A, nezaupanja ali neujemanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1901.27,
+        "end": 1914.556,
+        "text": "Karkoli bi to pač lahko bilo, popolnoma nedefiniran jezik, ki bi široko odprl vrata delodajalcem, da se lahko lažje znebijo delavca, delavko, ki je redno zaposlen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1915.056,
+        "end": 1917.397,
+        "text": "Za me to seveda povečuje prekarnost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1917.757,
+        "end": 1926.921,
+        "text": "Na drugi strani pa seveda nove oblike dela, kot se jim veliko krat tudi reče, če moramo tudi podobrašaj, ali so sploh res nove oblike dela, je pa seveda platformno delo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1927.701,
+        "end": 1930.122,
+        "text": "Tudi to se more urediti, to se more regulirati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1930.202,
+        "end": 1934.804,
+        "text": "Tukaj nas je morda tehnologija prehitela, nas je prehitela sindikate, predvsem podločevalce."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1935.184,
+        "end": 1946.248,
+        "text": "Tiste, ki bi morali postavljati nek zakonodajni okvir, da se jasno določi, kaj to pomeni, da lahko nekdo, sicer ja, morda dela od doma, ampak dela za različne naročnike samo preko spleta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1946.528,
+        "end": 1951.371,
+        "text": "Kako je ta oseba upletena v celoten sistem, vključno seveda zdavki."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1952.112,
+        "end": 1961.078,
+        "text": "In pa seveda, ja, morda gre tistim, ki delajo torej preko računalnika in programerjev veliko boljš, kot pa recimo ubrvoznikom ali pa raznašalkam in raznašalcom hrane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1961.839,
+        "end": 1973.947,
+        "text": "Vse to v resnici širi področje prekarnosti, širi to polje teh oseb, ki nimajo nobene druge možnosti in ki ga ponovno zakonodaja v bistvu ne naslavlja dovolj primerno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1976.92,
+        "end": 1982.724,
+        "text": "Vsako neplačeno delo je seveda izkoriščanje in suženstvo delavcev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1983.825,
+        "end": 1990.891,
+        "text": "V Sloveniji smo ena redkih držav, ki smo pred par leti uspeli prepovedati neplačeno pripravništvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1990.931,
+        "end": 2000.138,
+        "text": "V Sloveniji se ne sme več mladim ponujati priložnost za delo, zato da bodo oni imeli reference, ker je to seveda potem nezakonito."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2000.478,
+        "end": 2006.199,
+        "text": "Tako da iz tega vidika smo nek primer dobre prakse, še vsem pa v praksi vidimo to ravno pri študentskem delu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2006.579,
+        "end": 2012.301,
+        "text": "Pri študentskem delu smo velikrat pričali temu, da delodajalac zahteva, da se študenti najprej pridajo uvajati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2012.661,
+        "end": 2019.903,
+        "text": "In mi smo celo slišali zgodbe študentki in študentkov, ki so rekli, da so delodajalci od njih pričakovali 80-urno brezplačno uvajanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2020.863,
+        "end": 2024.024,
+        "text": "In tudi tukaj gre seveda za delo na črno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2024.204,
+        "end": 2027.065,
+        "text": "In potem po 80 urah ga ne vzamejo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2027.305,
+        "end": 2028.846,
+        "text": "Vzamejo novega na uvajanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2028.986,
+        "end": 2033.288,
+        "text": "Ja, morda vzamejo novega na uvajanje ali pa ga vzamejo za deset ur ali pa kakorkoli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2033.308,
+        "end": 2036.829,
+        "text": "In tukaj gre seveda tudi ponovno po zakonu jasno za delo na črno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2036.849,
+        "end": 2042.531,
+        "text": "Vsaka študentka in študent mora imeti od prve ure izdano na potnico na podlagi, če se potem tudi obračunajo ure."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2042.851,
+        "end": 2057.929,
+        "text": "In jaz bi rekla, da gre samo še za eno kreativno rešitev delodajalcev, ki torej v bistvu ne želijo dati priznanja delovkam in delovcem v taki meri, kot se jih te zaslužijo in to priznanje je v najmanjši meri torej plačilo in torej sva v najmanjši meri."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2058.41,
+        "end": 2077.66,
+        "text": "To bi jaz rekla, da je res neka posledica v bistvu razvrednotenja dela in delovcov, da se je spremenila ta mentaliteta, kaj delo dan danes še pomeni, da so se v bistvu še bolj povečali tere skoraki, to razmerje moči med delovkam in delovci na eni strani in delodajalci na drugi strani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2080.28,
+        "end": 2091.425,
+        "text": "Ja, en okrep, ki bi se ga lahko zelo lahko implementirali, torej povečanje pristolnosti inšpektorata za delo in pač povečanje števila inšpektorjev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2091.525,
+        "end": 2092.825,
+        "text": "Tako da to mora da kot prvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2093.185,
+        "end": 2109.512,
+        "text": "Po drugi strani pa ja, jaz bi si v resnici želela to belo ali pa zeleno knjigo, ker mislim, da moramo tudi v bistvu prejiti iz teh vprašanj gašenja požarov na vizijo tega, kaj želimo, da delo je in upam, da se začnemo čimprej pogovarjati o skreševanju delovnega časa."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2109.912,
+        "end": 2129.15,
+        "text": "Ne je nam tehnologija, digitalizacija, razvoj, tudi robotizacija, vse to v resnici omogoča kakovo življenje, da se ne bomo vse skozi samo pogovarjali, kako preživeti z mesec v mesec, ampak kako govori v resnici delavke in delavci živeti polno, tudi na račun v resnici novih tehnologij."
+      }
+    ],
+    "runtime_sec": 1143.629254102707
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.020101722524766653,
+      "miss": 0.017905322425003367,
+      "fa": 0.002052529030957431,
+      "confusion": 0.0001438710688058543,
+      "total_duration": 2113.0029999999797
+    },
+    "der_collar0.25": {
+      "der": 0.014790909635904488,
+      "miss": 0.012487134780148648,
+      "fa": 0.0021531453604856244,
+      "confusion": 0.00015062949527021752,
+      "total_duration": 1985.0029999999792
+    },
+    "wer": {
+      "wer": 0.2717017208413002,
+      "ref_words": 5230,
+      "hyp_words": 4784
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 5.684,
+        "text": "Dober dan in lepo pozdravljeni pri nas na ekonomski fakulteti Univerze v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 6.967,
+        "end": 17.463,
+        "text": "Ponosni smo na to, da gostimo današnji dogodek, ki je samo eden v nizu dogodkov, ki obravnavajo priječa vprašanja prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 19.049,
+        "end": 39.367,
+        "text": "Ko smo na ekonomski fakulteti leta dva tisoč sedemnajst dobili gostiteljstvo konference dekanov poslovnih šol pod okriljem naše krovne organizacije FMD, ki podeljuje prestižno akreditacijo Ekvis, smo bili seveda povabljeni tudi k oblikovanju programa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 40.126,
+        "end": 47.872,
+        "text": "Takrat smo predlagali, da v eno od plenarnih zasedem kot temo uvrstimo tudi vprašanja prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 48.631,
+        "end": 68.425,
+        "text": "To so bili časi, ki so bili od današnjih še precej različni, konferenco smo pripravljali že v leto dva tisoč petnajst in sploh v letu dva desetnajst. Bekani vodilnih poslovnih šol osvetov večinoma niso soglašali s tem, da je to tema, ki jo moramo naslavljati v poslovnik šolah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 69.269,
+        "end": 83.647,
+        "text": "A vendar smo se z vodstvom organizacije uspeli dogovoriti, da moramo upoštevati realnost in ne samo okolja najbogatejših poslovnih šol, zato je tema dobila mesto v programu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 84.322,
+        "end": 86.093,
+        "text": "Gost je bil v iztending."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 86.819,
+        "end": 107.525,
+        "text": "In nekateri dekami so rekli, da na to predavanje ne bodo prišli, ker ne soodi v sklop poslovnih šol.Na koncu je bila naša velika dvorana na ekonomski fakulteti nabito polna, med predavanjem je vladala groba tišina ob zaključku pa je sledil Bučena plavz."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 108.115,
+        "end": 119.422,
+        "text": "Od takrat naprej ima prekarnost svoje mesto v programih poslovnih šol, ki delujejo okviru Evropske Fundacije za razvoj menedžmenta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 120.215,
+        "end": 143.654,
+        "text": "To je ena od tem, ki predstavljajo del uresničevanja družbenov odgovornosti poslovnih šol in danes vsi priznavajo, da je zasluga za tem zato tudi na strani ekonomske fakultete Univerze v Ljubljani kot ena od članic FAMAD in ene od vodilnih poslovno ekonomskih šol v svetu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 145.325,
+        "end": 164.512,
+        "text": "Kot je prej Gospa Petročič omenila, je to že peti dogodek v nizu dogodkov posvečenih vprašanjem prekarnosti in ljudi, ki se znajdejo v težkem položaju, ki ga prekornost povzroča.Prvega smo naredili v prostorih BTC'ja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.153,
+        "end": 169.996,
+        "text": "Eden od preostalih štirih je bilo v prostorih fakultete za družbene vede."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 170.722,
+        "end": 173.489,
+        "text": "Trije pa so tu pri nas na ekonomski fakulteti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 174.097,
+        "end": 183.682,
+        "text": "Ponosni smo tudi na dva zbornika raziskav, ki smo ju izdali, gre za resne študije, ki so jih pripravili naše sodelovke in sodelavci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 184.492,
+        "end": 187.934,
+        "text": "Zato sem zelo vesela, da lahko v tem času."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 188.592,
+        "end": 205.45,
+        "text": "Ki zanesljivo ni enostavn in odpira številna boleča vprašanja, današnji dan ponovno posvetimo razpravam o prekarnosti v krogu relevantnih odločevalcev z različnih družbenih področij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 206.8,
+        "end": 216.098,
+        "text": "Želela bi se zahvaliti svojim sodelavkam in sodelalcem, ki so pomagali pri organizaciji dogodka, predvsem pa tudi..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 216.689,
+        "end": 217.28,
+        "text": "Črto?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 218.039,
+        "end": 226.645,
+        "text": "Kje je mimo grede tudi moj doktorskih študent in resnično življenje posveča delu Inštituta za študije prekarnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 227.219,
+        "end": 230.155,
+        "text": "Na ekonomski fakulteti smo se pred tremi leti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 230.695,
+        "end": 258.252,
+        "text": "Pod vodstvom kolega Spruka, ki je tu z menoj odločili, da prijavimo enega od projektov, katerega namen je bil predvsem, da damo prostor inštitutu in seveda tudi nekaj javna finančna sredstva za to, da opravlja svoje plamenite poslanstvo pa so žal odločevalci na državni ravni znotraj pristojnih inštitucij odlo čili drugače, upam, da se bo to v prihodnje spremenilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 259.079,
+        "end": 283.987,
+        "text": "Na ekonomski fakultetni namreč zelo podpiramo aktivnosti inštituta, ki sodeluje z našimi raziskovalci. Po svojih močeh prispevamo k temu, da raziskujejo aktualna družbena vprašanja in ponujemo tudi predloge rešitev, verjamem, da je današnji dan eden od pomembnih korakov v pravi smeri."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 284.611,
+        "end": 294.078,
+        "text": "Zato je zelo pomembno, da se je našemu vabilu za uvodni nagovor odzval tudi naš rektor, ki..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 294.888,
+        "end": 315.526,
+        "text": "Poznal vprašanja prekarnosti posebej tudi v našem sektorju, v sektorji raziskovalcev.Vsem, ki nas spremljate, vsem, kik boste na današnjem dogodku tako ali drugače sodelovali, so v imenu ekonomske fakultete Univerze v Ljubljani najlepše zahvaljujem, hvala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 318.277,
+        "end": 359.823,
+        "text": "Ja, lepo zdrav še iz moje strani, a zdaj če mi izhajamo seveda iz neke širšega pogledanja, mi lahko bistvu hitro opazimo do bistvu prekarnost, je danes večji problem, kot si ga je pa družba pripravljena priznat. Ne samo da je dostop do dostopnih zagotovitev dostvojnega dela, eden izmed osnovnih ciljev trajnostnega razvoja ne volkve razdruženih narodov. Istočasno seveda pač lahko opažamo, da se je v zadnjem desetletju ob vzdolžni, kako bi rekel, rapidni digitalizaciji trend prekarnosti in na tipičnih pogodb v zaposlitvi samo stopnjeval."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 349.478,
+        "end": 349.833,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 360.835,
+        "end": 382.655,
+        "text": "Tipično, ali kako bi reklo temeljno vprašanje, na katerega si pač mi kot družba moramo odgovoriti to, kakšne pasovze seveda pač ekonomske posledice prekarnih zaposlitev.Zdaj doskrat lahko slišimo argumente, ne, ki prihaja predvsem iz gospodarstva, da prekrvnost ponuja večjo fleksibilnost, večju svobodo in da to naj bi samo po sebi prevedlo do bolj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 383.347,
+        "end": 477.273,
+        "text": "kreativnih rešitev v večje ekonomske kompleksnosti, pa pa mi seveda pač argument prekarnosti, so jo očejo na eni strani seveda z ekonomskimi modeli in na drugi stran seveda tudi za podatki, ne, ki postavijo čez dalj večji in bolj obsežni, nekak vidimo da te podpore, ne? V prid velikim ekonomskim koristom prostovolne prekarnosti preprosto ni, izkaže se, da seveda pač ne samo države ali regijam, pa tudi seveda podjetja, ki implementirajo in seveda uvajajo veča tipičnih zaposlitev na koncu dneva ne dosežejo višje produktivnosti, ne dosežajo višjo dodalne vrednosti in istočasno seveda imajo pač za svojo posledico tudi slabšo konkurenčnost. Dostekrat je tukaj treba seveda pač omeniti, da so bili v zadnjih letih, se pravi argumenti, ki govorijo protisami prekarnosti, bili velikokrat preslišani. A ne eni strani seveda kot je bilo že omenjena s strani črta, imamo ob tuke seveda problem volje, strani politike, na drugi stranih pa mu pa seveda tudi širši družbeni trend, ki, kako bi rekel seveda pač vlogo dela, skuša seveda zapustavljati, dostajkrat slišimo danes argumente o pric rabidni digitalizaciji kot trendu, ki bo seveda prekarnost takoli drugače pač odpravil, ne?Zdaj seveda brez jasne zakonske regulative, ki bo zagotavljala seveda na eni strani spoštovanja pogodbenih dogovorov, na drugi stranji..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 478.015,
+        "end": 549.599,
+        "text": "Pa tudi seveda pač upoštevala interese, ki jih seveda zaposleni imajo, prekarnosti ne bo mogoče seveda odpraviti.Na eni strani seveda se lahko tudi pogovarjamo o dveh vzrok.Tukaj če gremo pogledati seveda pač primere evropskih držav, kjer je prekarnost zelo pač razširjena na letimo na dva različna trenda. Prvi trend je ta, da vidimo, da se države v Evropi nekako po tipu prekornosti razdelijo, oziroma razdeljujejo ne na vzhod in zahod, nekaj kot je tradicionalna precepcija, ampak predvsem na sever in jug.V severnih državah vidimo več, kako bi rekel tako ima ni prostovoljni atipičnih zaposlitev v južneevropskih državih, lahko povem primer Španije in portugalske atipićne zaposlitve so v petindevetdesetih odstotkih primerov neprostovoljne, torej govorimo na eni strani o presežni rigidnosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 550.308,
+        "end": 619.563,
+        "text": "Ki to prekarnost seveda pač zgolj stopnjuje, ne?Drugi vzrok je pa seveda, ne, tukaj se pa doskrat premalo izpostavlja, ne ta posledan podpartikularen vz rok in sicer, ne kako smo lahko kot družba vzpostavili kulturo, ki atipične neurajene pogodbene razmere in prekarne zaposlitve istočasno tolerira, ne?In vidimo seveda, da ta toleranca je šla tako daleč, ne, da ni prinesla pozitivnih pač makroekonomskih posledic, ne. Enkratko prekarnost postane problem z vidika tudi dolgoročne brezposelnosti oziroma dolgoročne nezmožnosti iskanja dela, vidimo da gospodarstvo seveda kot celota trpi.Lahko povem pač primer Slovenije, ki je poletu dva tisoč osem, če seveda lahko se tukaj ne strinjamo kdaj je prišlo do rešenje prekarnosti, ampak če v zamemu leto dva tisoč osem ali pa letom leto osem, dva deset, kot izhodišče vidimo, da ne samo, da se nam je glede na našo primerljivo kontrolno skupino zmanjšal b, da pa naprebivalca tudi zmanjsala, saj nam je produktivnost.Ali so seveda sektor in podjetja, kjer je prekarnost zelo razširjena?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 620.288,
+        "end": 670.137,
+        "text": "Ali so res nični liderji na svojem področju, ali dosegajo visoko dodano vrednost, ali dosegajo višok delež visoko tehnološkega izvoza?Vidimo seveda, da temu preprosto ni tako, upažamo seveda da so ta podjetja predvsem delovno intenzivna ali pa seveda in seveda če so delovovno intenzivna ne uporabljajo znanja o svojem ključnem proizvodnem procesu, takrat postane argument, da so stroški dela kljućna ovira konkurenčnosti zelo popularen.Seveda se strinjamo lahko brez zadržkov, da imamo pač predavčno preobremenjene plače, nedavčno preobremenjeno gospodarstvo, vendar to samo po sebi ne sme bit in ne sme nikoli postati razlog, zakaj bi lahko pristajali seveda na samoprekarnost. Ko mi zdaj gremo gledat študije, kaj so pač ugotovile glede?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 670.745,
+        "end": 699.061,
+        "text": "ekonomskih posledic prekarnosti, ne? Tukaj doskrat pogosto zanemarjamo seveda tudi kako bi rekel indirektne učinke, ne. Pre malo smo izpostavili, da paš ljudje, ki so izpostavilani in nesigurnim atipičnim oblikanjem zaposlitve, izkušajo in seveda so podvrženi visoki stopnji stresa in psihološke negotovosti, to seveda ima samo po sebi zelo negativne učinke na samostorilnost, na produktivnost in kar je najpomembnej tudi na zdravje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 699.635,
+        "end": 742.025,
+        "text": "Recimo, mi če gremo pogledati, zdekaj se je dogajalo na takem najbolj bazičnem kazalniku, ki nam kaže predstopno demografskega in socialnega razvoja, to je pričakovana življenjska starost ob rojstvu in ob naslednjih letih, vidimo, da Slovenija v od časa, ko je pa prekarnost postala zelo razširjena na tem področju, seveda jasno zaostaja za svojo kontrolno skupino. Po mojih ocenah nekje se je pač pričakovana življenjska starost obbrojstvu glede na našo kontrolnost skupinom in račun prekarnusti zmanjšala nekaj za eno leto starosti, ker seveda nekomu se ni zdi veliko, ampak gre pa za velik, kako bi rekel nestrukturni prelom, ampaks tudi seveda pač strukturni zlom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 727.411,
+        "end": 727.428,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 742.7,
+        "end": 742.717,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 742.717,
+        "end": 743.054,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 744.067,
+        "end": 799.619,
+        "text": "Seveda se moram po sevedu zdaj tuki vprašati, ne?Ali si seveda pač kot družba smo si pripravljeni priznat, da je prekarnost velik problem, da prekornost, saj v Sloveniji, v veliki večini primerov ne gre za prosto volno obliko prekrnosti.Seveda si države, ki so bogate, ne, kot so skandinavske državi, ne ali pa ne vem nizozemska. Seveda si take državi lahko same po sebi privoščijo več atipičnih oblik zaposlitve, Slovenija v tej ligi držav na žalost še ni, pobada pa jo naprebivalca smo v letu dva tisoč dvaindvajseti zanačeni s Španijo, smo daleč od tega, da bi bili blizu državanj kot so Avstralija nizozemska, po produktivnosti, četudi gledamo ne vidimo, da smo v času pandemije kovida devetnajst nerdil majhen korak, naprej ampak daleč premali, da bili lahko opravičili pač atipične oblike zaposlitve kot neko zakonsko normo, oziroma vsaj nekaj nekar zakonodajalec ne bi uspel reagira."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 800.378,
+        "end": 828.323,
+        "text": "Strinjamo se seveda tudi lahko, da imamo delovno zakonodajo, ki je rigidna, ampak ne rigidna samo za delodajalce, rigidna tudi zato, da zaposlenim, se pravi predvsem delu, zagotavlja nič drugega kot samo spoštovanje in uveljavljanje pogodbenih dogovorov, ki ga seveda pač standardna, ne, varna oblika zaposlitve, pravno varno oblik za poslitve seveda omogoča.In tukaj seveda nas pripelje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 829.117,
+        "end": 856.707,
+        "text": "Nas pripelja celotna analiza pač do zelo zanimivih zaključkov, kakšni naj bodo seveda normativni sklepi za zakonodajalca ali naj zakonodejalec preprosto reagira ali naj Zakonodajelec ne reagira, ne? Dostekrat smo vidli v zadnjih letih, še povzede takrat, ko je politična nestabilnost postala institucionalna norma, na žalost Slovenije, da je to samo podaljšalo agonijo strukturnega nereševanja problemov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 857.281,
+        "end": 886.728,
+        "text": "In tukaj seveda pač si želimo, da ne eni strani bi imeli institucionalni okvir, ki bi bil predvsem predzvedika politične stabilnosti relativno trajen in da seveda prv zakonodajalec temu ustrezno prisluhne ne z ideološkega vidika ali zagovarja interese dela ali zagotavlja interse kapitala, gre za pa zelo kako bi rekel zastarelo delitev, ampak bo do sanst interesa tega, da se pogledamo, kaj je za našo blaginjo najboljše in za naše blagini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 862.816,
+        "end": 862.85,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 887.318,
+        "end": 905.392,
+        "text": "Vsaj tako nam govori pača ekonomska teorija in seveda tudi pač empirične študije, zagotovo ni dobro, da se atipične oblike zaposlitve nadaljujejo v kakršnem kolu, vakumu oziroma v karkršem kolu seveda, tudi obliki. Pomembno je, da si priznamo sami sebi, da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 906.168,
+        "end": 962.362,
+        "text": "Tudi na osebni ravni prekarnost ne predstavlja svobode, v veliki večini primerov predstavil je nepotreben stres, nepotrebne travme in lahko tudi seveda pač neko tragedijo. Želimo vsi delovne zakonodaje, ki bi bila na eni strani fleksibilna, ampak da fleksibibilnost ne bi postala razlog ali argument, zakaj stran gospodarstva ne bi spoštovala pogodbenih dogovorov in si seveda želela it v zelo atipične oblike zaposlitve, ker na koncu dneva ni argumento v literaturi, ki bi potrdili, da to pozitivno v kakršni koli meri pozitivo spodbuja in stimulira produktivnost do dano vrednost, ne?In ker je še najbolj pomembne kompleksni tip ekonomske organizacije, kjer dominejo seveda ne vertikalna razmerja, nekaj smo jih dolovenstvo vse preveč vanjen, ampak predvsem horizontalna razmerja.Tukaj je Slovenija seveda pač v zadnjih letih šla v smer..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 963.323,
+        "end": 1012.042,
+        "text": "Ki na žalost ni ni pozitivna, ne? Nepozitivno zaradi tega, ker, ne vem kot vidimo pač se je država zelo rada povezovala z višjagrajskimi državami, ne, in kjer pa vidimo, seveda tudi mogoče če se navežem na nedavno ktevilne ekonomske politike, nekje pač spodbujajo prekarnost, poslabšo je polozale zaposlenih na trgu dela, tudi seveda postavljajo slab zgled institucionalnih norm, mi seveda želimo, da bi Slovenija pač bila trdno zasidrana, tamkamer spada, da se prav po moji prisoji v Južni del Evrope definitivno pa seveda na zahod in seveda si želimov v isti v njemi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 997.478,
+        "end": 997.495,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1012.565,
+        "end": 1116.582,
+        "text": "Da prekarnost seveda pač ne bi postalo področje, je tudi, ki se želim, na vez začel na tretji dejavnik, ne, ne bi poslala podrošje, kjer se goji predvsem poslovna kultura, ki prekrnost in prekarizirano seveda spodbuja. Mi smo tukaj doskrat videli, videli ne, kot je že dekanja povedala, da imamo med poslovnimi šolami in to je globalni problem, to ni lokalni, pa regionalni problem.Da imamo Med poslovnim šolam, vzpostavljano seveda mentaliteto, ki tovrstna vprašanja ne kakne gira, jim ne daje pozornosti, jih ne vidi kot seveda problematična, ampak zanimivo pa je, da ko mi pogledamo ne po svetu, kaj se je zgodilo v državah, v regijah, ki so skušale seveda prekarnost tako ali drugače odpraviti in tudi ne govorim pred nekimi adhoki interventnimi ukrepi, predvsem na eni strani skulturnim ponotranjanjem ne in poenotenjem noren, da prekarnost seveda ni dobra, ni okej. Vidimo, da pač do teh negativnih posledic, ki jih pač upažamo kot argument za prekrvnost nižja produktivnost vpad gospodarske rasti, do tega preprosto ni prišlo, recimo tak primer imamo v Zvezni državi Kalifornija leta dva tisoč osem, recemo kolega Iem Peri je napisal z Berkli Univerze Berklji napisali zelo dobro šlane, kjer je preveril, kaj se je zdaj dogajalo za makroekonomskimi trendi in trajektorijo Kalifornije po industrijski proizvodnji podpane po deležu visokotehnološkega izvoza, po gospodarski rasti po dodanih vrednosti, po večjih dimenzijah, ko je Kalifornija leta dva tisoč osem sprejela tako imenovan Kalifornijan polisimodel, se prav omodel javnih politik, ki zagotavlja dostojne in enakopravne standarde zaposlene z visokostopno pravne varnosti, za seveda pač..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1117.392,
+        "end": 1140.511,
+        "text": "Zakonodajo, ki ni direktno zapovedale prepovedovanje minimalne plače, ampak do dodajalcev opogumila, da jih ne počnejo.Tega vidimo na eni strani, da ni prišlo do upada gospodarske rasti, vidimo, da niprišlo, do rasti brezposelnosti in vidimo da se je Kalifornija glede na svojo kontrolno skupino v drugih zveznih držav razvijala bistveno bolje, ne?Torej vidimo, da, kako bi rekel..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1141.152,
+        "end": 1198.156,
+        "text": "Prekarnost sama po sebi ima zelo pogumne posledice, oziroma odprava prekarnosti ima, ker se tiče pač predvsem ektraje noge ekonomskega in socialnega razvoja pozitivne posredice.Moramo se pa seveda tudi vprašati, ali smo vsi kot družba pripravljeni odpovedati kulturi, ne, ki posredno ali neposredno seveda pač fragmentirane, razdrobljene ter fragmentiran in zakonodajno razdorbljen trg dela nekako ceni. Ta kultura seveda to kulturo so na eni strani pač vzpostavle deloma, ne odsalotjem, poslovne šole, deloma tudi pač douločne javne politike in vidimo, da se je te kulture zelo težko rešiti, zato pač ne eni strani, je seveda pač naloga zakonodajalca, da pomaga vzpostavit zakonodelni okvirki A ni kompliciran, B je lahko razumljiv, C ne povzroča visokih transakcijskih stroškov, B zagotavlja pravno varnost zaposlenim in E."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1199.067,
+        "end": 1253.877,
+        "text": "Prepoveduje, kakršno okol seveda pač podrejeno ne, ali kako bo rekel na polpodložniško razmerje na trgu dela, ki vidimo, da pač se uvrtijo kolikrat koročnih projektov raziskovalnih štarkšnih in drugačni. Zelo pomembno je seveda, pač ne, kot družba ali smo si vzpropravljeni vzpostaviti kulturo, kjer tega preprosto ne bomo tolerirali in kjer tega ne bom ocenili, da bomo lahko dosegli višjo produktivnost, višvo dodano vrednost, bolj kompleksno ekonomsno organizacijo in na koncu dneva tudi višji indeks človekovega razvoja. Po vseh karakteristi kakih Slovenija ima kot družba, ne pač vidimo, da bi zlahka dosegla indeks človekovega razvoja med top deset držav na svetu.Tako da zdaj pa z moje strani za uvod bi pa je to kako bereko nekaj upanj, da pač če ne drugega za dobro začelela za vse ostalo, pa pač prepuščam besedo našim dragim sogovornikom. Hvala lepa!"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1256.138,
+        "end": 1393.602,
+        "text": "Najlepša hvala, najprej za povabilo, potem pa jaz, seveda mi na scenikatu mladi plusorji združujemo mlade, torej dijake študente, mlade brezposelne in mlade prekarne delavke in delavce.In v bistvu, kar se mnogokrat pojavlja v nikamijavnem diskurzu, je ravno ta percepcija, da je prekarnost neka svobodna odločitev, kar smo to slišali že prej, da si mladi dan danes so bi su neželijo več zaposlitev za štirideset let za nedoločen čas, da mladim praktično ustreza bit svoboden, fleksibilen, da s lahko sami razporejo svoj čas in nekako na scenikatu mladi plus vse skozi poskušamo preizpraševat, ali je to res ali ne. Tukaj torej ne zaupamo tem besedam, ki jih veliko krat oporablja ravno gospodarstvo, ki se poslužuje te neke percepcije ali pa politika, in gremo enostan od mladih in vprašamo mlade, ali je to res tisto, kar bi lahko izbiral, če bi sploh imeli izbiro. In pri teh naših raziskavah se vedno znova potrjuje, da čebi mladi imeli zbiro, bi izbrali pogodbo o zaposlitvi za nedoločen čas, mladim je na koncu dneva še vseeno bolj pomembna varnost, stabilnost, plača, ki pride vsak mesec redno, ne pa toliko uresnici te neki drugi vidiki prekarnosti, ki ne bi bili tako zelo svobodni.Totko gremo v podrobnosti, ko torej sprašujemo o recimo svobodenem razporejanju časa, veliko prekarcev bi so reče, da dela več, da dela več kot redno zaposlenim, da ne poznajo vikendov, ne poznajajo praznikov pri prekarnostih, torej oziroma vsakrat, da je v izvahnih pristih, ki so še našli, že ne bi še v izvezi, da bi štelej še začel, da so štiri, da se pa še odločili, da si še podelali, da ga je bilo, da sta še po ne gre za svobodno izbiro, da mladi v resnici nikoli niso mogel odločat o tem, da enostavno sprejemajo, to kar trg dela ponuja.In v isti sapi, ko nam torej te mladi povejo, da bi sami izbral pogodbo z oposlitvi za nedoločen čas, če bi sploh imeli izbiro, krati to povejejo, ampak smo pa pripravni sprejeti kar koli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1394.345,
+        "end": 1436.38,
+        "text": "Zato, ker vsi poznamo svoda statistike, ki kažejo, da je brezposelnost mladih višja kot v drugih starostnih skupinah.Vemo, da se mladi težje integrirajo na trg dela, ravno zukar in primanjkuje izkušenj ali pa z dokler te izkuše nastavljeni so priznane, in zato bi lahko vidmo dan danes, da so mladi pripravani sprejeti karkol tudi kršitve in tudi to se vedno bolj izkazuje, da so mladih torej pripraveni delat več zaman denarja v poklicih za katere se niso izobraževal, da So mladi Pripravleni Delat v krajih, ki so bolj oddaljeni od njihovega kraja in da so pripragnjeni sprejeti tudi kršitve, se zavedajo, da to so v dani dobro, ampak enostavno zaradi trenutne situacije enostano nimajo izbire."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1436.971,
+        "end": 1510.411,
+        "text": "In če govorimo o tej svobodi, ki jo ne bi torej ta prekarnost ponujala, se bomo imel res lahko tudi še naprej navežemo na te besede, kasmo jih prej v vodo slišal in to je, da uresnici ne gre za svobodo. Da tuki bi bili morda ljudje bolj svobodni, če bi vedel, da torej bojo dobil plačilo, čebvi vedel da grejo lahko na bolniško, ko zbolijo, čev bi vedela, da jim pripada plačan dopust, čej bi vedelo, da imajo torej pokrita neka osnovna zdravstvena zavarovanja, pokojninska zavaranja, vse te zadeve in seveda vsega tega pri prekarnosti ni. Zdobje je srejst rekla, da je večjo svobodo uresnici v tem, da se počutaš varno tudi na trgu dela, da lahko ne črtuješ svojo prihodnost in da enostavno nisi vsakodnevno vsakotedensko vsak mesec pod stresom in pod vprašajam, a bo sploh lahko plačal svoje račune.In to resnici je realnost današnje mladine, da so torej nesvobodni, da se prisiljeni in da so na žalost tudi preveč pripravljeni sprejeti marsikaj samo zato, da bi se lahko dokazal, zato dobi lahko nekako preživel, ne po resnici polno živel v tem svetu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1512.554,
+        "end": 1584.813,
+        "text": "Je morda ravno ta majhnost problem, seveda ljudje lahko grejo in veliko mladih tudi grejo v tujino, ampak je to nekaj, kar bi si res želel. Mobilnost je seveda nekakarje absolutno potrebnost podbujat, ampaks ne na način, če je ta mobilnost prisilna, ne če ta mobilnost posledica tega, da je nastavljeno v slovenskem okolju ne najdel priložnosti, na žalostam Mejhen Trk seveda omejuje lahko posameznika posameznico, ampak uresnici bi jaz rekla netok zaradi pomanjkanja prilošnosti ampak ravno zaradi razmer oziroma pogojev dela kakšne sote priloževnosti. Veliko mladih, da jemo to ne pozaba, ko govorimo o mladju, govorim o najbolj izobraženi generaciji, ker smo jih kadar kol mel, mladi niso brezposelnih, zukar bi bili nesposobni, ker ne bi bili izobraženi, ker naj bi bili pripravljeni delat, ampak obisov zaradi nekaj strukturne brez posumnosti ali pa torej strukturnem prekarnosti, ki smo jo priča in zato tudi visoko izobrazjan kader razmišlja odhod v tujino, zdokarveda v Sloveniji morda ne bo cenjen za svoje znanje, za sva sposobnosti, tok kukrbovrniki drugih okolih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1587.749,
+        "end": 1823.29,
+        "text": "Je absolutno, je to neki pravilnega, kar se je očitno zgodila. Jaz bi rekla, da že trenutna slovenska zakonodaja omogoča velik več aktivnosti ravno na tem področju, naš zakon o delovnih razmerjih je jasen, ko določa, kaj so te elementi delovnega razmerja in obisod tudi zadnjo spremembo zakona o inšpekciji trga dela se je podalo več pristovnosti inšpektoratu, da naj bi sedaj inšktorat torej imel možnost ugotavlja te elementi delovnega razmerja in podati navodilo delodajalcu, da mora ponuditi pogodbo o zaposlitvi, ravno zato, ker se zelo malo delavkin delovc odloči, da bo samo uveljavljalo o svoje pravice, ker so zelo manj od njih odlošči in bodo šli v sodne postopke in to dokazovali na sodiščih celovej člet, saj je torej obisom misla, da se bo ta problem lahko vsaj delo naslovil za večjo pristojnostjo inšpektoratov.Vse to je zakonsko predeleno, podlaga za to je, problem pa je, ker se v praksi to ne zagotavlja, ker je enostavno inšktorat za delo kadrovsko in finančno podhranjanj, ker imamo mislim, da šestinštrataset inšpektorjev, delovno pravnik inšpekterjev za torej več kot dvesto tisoč pravnih subjektov delodajalcev, ki enostavno ne hodijo na teren, ne počnejo tega, kar bi jim zakon omogočal.In če tudi grejo, mi moramo res pač izraz odkritiko o naprami inšktoratu zadelo predvsem v zadnjih letih, uresnici ne ukrepajo, delodajalca v najboljši meri opozorijo, ne izrekajo sankciji, ne zrekajo torej teh obisov obveznosti, da morajo ponuditi pogodbo zaposlitvi. In tu, ki je smiselna, da če bi samo to za začetek lahko poskušalo krepit in s tem tu so vada prispeval k drugačni mentaliteti v družbi, kar je bilo točet prej omenila, da se morajo spremeni kultura. Izbirekla dan danes je neka percepcija o družbij, da če teb nekako uspe po domače povedan na tega državo se izogen kakšnemu davku, se izogand pravilom velja za nekega heroja in ti kolegi čestitajo, ni pa v bistvu te nekaj spodbode, da bi se ljudje želeli držat pravil, ker bi verjeli, da so tam pravila vsaj ta, zato kar so smiselna.Tako da je izbirec rekla, da prvi korak bi zagotovalo lahko bil torej okrepito inšpektorata, res dela za delodajalci, seveda zlepa če se da, če ne pa tudi torej zgrda, da se bodo bali sankcij, ne pa da bodo prepričani, da je itekni kakršna možnost, da bi jih inšpektorac sploh lahko obiskal.Tako da ja, tudi ponovno o tem primeru, ko smo ga slišali pač iz Avstrije to bi se mogel dogajati na terenu, inšpekcija bi mogla biti tam prisotna in če se ugotovi torej kršitve bi mogar torej ob istvu zagotoviti, da se te kršitev popravijo in mogoče samo še jah nikod govorna, tokaj je bilo tudi prerečen o tej prostovoljni espezaciji ali pa kaj ta zga vse lepo in prvo super je, če se imajo ljudje, so vdam možnost izbirat, ker so tok ekonomsko močni, da si lahko od prvošča kajta zga, ampak po drugi strani pa trg dela ni samopostrežna trgovina, kjer bi se lahko tudi delavec sam odločal, da bi imel sam SP, če je obstavil elementi delovnega razmerja.Zak za to, ker na tem svetu ne obstaja samo tisti delavec ali pa tisti dolarjalec, ampak je to vezano na celoten sistem države, kot ga poznamo. Ker je tovezano na zdravstvenost zarovanji, ker je tovezano v pokojninsko zarovanje, ker se s tem plačujejo oddavki in prispevki, ki vzdržujejo sisteme javne storitve za to, da imamo lahko konj skoncov brezplačno izobraževanje zdravstva, pokojnine in vse te stvari. In če bi torej želel med resno razpravo o tem, kako dopu so tudi to obveznosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1820.287,
+        "end": 1823.577,
+        "text": "In če je, potem se v desotki toto obvestnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1826.986,
+        "end": 1974.102,
+        "text": "Je verjetno, zato ker če bi priznal, da je to eden izmed velikih problemov, potem bi mogala res začet odtiska trešitve. Jaz bi rekla, da pačja res govori se o prekarnosti in kogrej bo že rečeno ni nobene politične volje, da bi se to resno naslovil in te volje ni jad, ne strani politike in nestrana gospodarstva, ker se še vedno raje ukvarjamo s tem imiti osvobodju, fleksibilnosti o tem, da to celo povešuje delovna mesta ali pa ki podobno ne pa da so resnici na Slovitark dela kot celoto. In morda, ja tudi, seveda je navezano na to, kar smo tudi zdaj že govorili prekarnost, kvečjemu samo še razširijo in povečuje, vedno znova se pojavljajo novi elementi prekornosti. In mogoče sem od vzpostavam dva ekstrema, je z mislem, da se mora prekernost razširt tudi na področje tisti, ki morda so redno zaposleni, ki imajo celo pogodbo za v posliti za nedoločen čas, ker za nas je prekrarnost tudi to, da si vedno znova želi dodajati nove razloge za odpuščanje. Demo se spoma, da pred par leti so resnici predlagali, da bi se dodal nov razlog za odpuščanje na podlagi neujemanja delodajalcev, a nezaupanja neujemanja, karkol bi to pač lahko blo popolnoma nedefiniran jezik, ki bi torej široko odprl vrata delodrajalcem, da se lahko lažje znebijo torej delavca, delavko, ki je redno zaposlen. Zame to seveda povečuje prekarnost, na drugi znani pa seveda nove oblike dela, kot se jim velikokrat utreče, čeprav moramo da tudi podobrašali so sploh res nove oblike dela, je pa se vda platformno delo.Tudi to se mora urediti, to se mu re regulira, tudi nas je morda tehnologija prehitela, nas je prehitla sindikate predvsem po odločevalce, tiste, ki bi mogla torej postavljanje k zakonodajni ukvir, da se jasno določi, kaj to pomeni, da lahko nekdo sicerja morda delav doma, ampak dela za različne naročnike samo preko spleta?Kako je ta oseba vpletena v celoten sistem, vključno so v dozdavki in pa vsevo daja, mordak gre tist in ki delajo torej preko računalnika in programerjem velik boljš, kot pa recimo ubervoznikom ali pa raznašalkam in raznažalcem hrane.Vse to v resnici širi področje prekarnosti, širi to polje teh oseb, ki nimajo nobene druge možnosti in ki ga ponovno zakonodaja obisovne naslala dovolj primerno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1976.971,
+        "end": 2059.169,
+        "text": "Ja, vsakor neplačano delo je seveda izkoriščanje in suženstvo delavcev in v resnici pač v Sloveniji smo ena redkih držav, ki smo pred par leti uspel prepovedat neplaćana pripravništva. Torej v Slovenij se ne sme več mladim ponujati priložnost za delo, zato da bodo on imel reference, ker je to seveda potem nezakonito.Tako da iz tega vidi kasmonik primer dobre prakse, še vsem po praksi vidmo to ravno pri študentskem delu, pri štirinskem delju smo velikrat priča o temu, da delodajalec zahteva, da se študentje najprej pridejo uvajat in nismo celo slišal zgodbe študentkih štutenkov, ki so rekleli, da so delodajaci od njih pričakoval osemseturno brezplačno uvijanje.In tudi tu, ki gre se voda za Delo na črno, ker podlaga za štutn...In potem po osemdesetih urah ga ne vzamjo, ne?Avzameje novega navajanja.Ja, morda vzomejo noga navajevanja, pa ga vzumejo za deset ur, pa kukr kol, ne, in tudi gre seveda tudi ponovno po zakonu jasnost zdelal na črno, vsaka študentka in študent mora imeti od prve ure izdano napotnico na podlagi česar se potem toto obračunajo ure, in je zbirekla, da gre samo še za eno kreativno rešitev delodajalcev, ki torej obisov ne želijo dati priznanja delavka in delavcem v taki meri, ko sihte zaslužijo.In to priznanja je v najmanjši meri torej plačilo, in torej sva na najmanji meri."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2024.761,
+        "end": 2025.284,
+        "text": "In potem..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2027.478,
+        "end": 2027.866,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2059.878,
+        "end": 2077.833,
+        "text": "To bi je srekl, da je resnika posledica v bistvu razvrednotenja dela in delavcev, da se je spremenila ta mentaliteta kaj delo dan danes še pomeni, da so se v bistju še bolj povečali te razkoraki to razmerje moči med delokami delavci na eni strani in delodajalci na drugi stranji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2080.263,
+        "end": 2129.335,
+        "text": "Je eno krep, ki bi se ga lahko zelo lahko implementirali torej povečanje pristojnosti inšpektorata za delo in pač povećanje števila inšpektorja, odkoda to morda kot prvo, po družji strani pa jaz bi si uresnici želela to belo oljpa zeleno knjigo, ker mislim, da mormoto to bistvu preid iz teh vprašanj gašenja požarov na vizijo tega, kaj želimo, da delo je in upam, da se začnemo čim prepogovarjati o skreševanju delovnega časa. Nejna tehnologija digitalizacija razvoj, tudi robotizacije, razvoj, vrtu to robotizacijo, vse to uresnici omogoča kakovo življenje, da se ne bomo vsesko samo pogovarjal, kako preživeti zmesel mesec, ampak kogo uresnici delavke in delavci živet polno tudi na računu uresicij novih tehnologij."
+      }
+    ],
+    "runtime_sec": 371.1614077091217
+  }
+}

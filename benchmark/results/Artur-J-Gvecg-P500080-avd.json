@@ -1,0 +1,4438 @@
+{
+  "file_id": "Artur-J-Gvecg-P500080-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500080-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.09011557257312633,
+      "miss": 0.09011557257312633,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 3892.4459999999194
+    },
+    "der_collar0.25": {
+      "der": 0.0741379555995825,
+      "miss": 0.0741379555995825,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 3649.695999999919
+    },
+    "wer": {
+      "wer": 0.19352100721459894,
+      "ref_words": 7069,
+      "hyp_words": 6457
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.031,
+        "end": 21.252,
+        "text": "Spoštovane novinarke, spoštovani novinari in druge vdeležnice novinarske konference, ki ste danes z nami prek spleta, posebno čast nam je, da smo danes po dveh letih ponovno na univerzi v Ljubljani, kjer bo v dvanastih potekala tudi svečana podelitev jasenkovnih nagrad in priznanj biotehničke fakultete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 23.217,
+        "end": 37.707,
+        "text": "Ponovno smo z vami, da vam predstavimo delovanje fakultete v preteklem letu, visoko obletnico 75 let delovanja fakultete in pa seveda dosežke, nakratko tudi dosežke preteklih petih let."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 38.567,
+        "end": 44.511,
+        "text": "To nam bo predstavila dekanja fakultete, profesorica, doktorica Nataša Poklar-Urlih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 44.611,
+        "end": 49.355,
+        "text": "Z nami je danes tudi jesenkov nagrajenec za življenjsko delo, profesor dr. Juri Djaci."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 50.608,
+        "end": 56.271,
+        "text": "ki bo predstavil svoje delo in dosežke, ki so vse prej kot skromni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 56.571,
+        "end": 68.218,
+        "text": "Z očmi sodelavce in gozdarjev nam bo njegov vpliv na naprede gozdarske znanosti, vpliv na pedagoški proces in strokov predstavil prof. dr. Robert Brus, prodekan za področje gozdarstva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 69.843,
+        "end": 82.639,
+        "text": "K predstavitvi smo povabili tudi jesenkovega nagrajenca za najboljšega diplomanta doktorskega študija, dr. Jurjeta Žigona, ki navdošuje tako s svojimi raziskovalnimi dosežki, kot tudi z usmerjenostjo v prakso."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 82.959,
+        "end": 88.026,
+        "text": "V času doktorata sta z mentorjem razvila posebno napravo, o kateri pa nam bo sam povedal več."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 89.755,
+        "end": 103.365,
+        "text": "Posebno pozornost pa v letu 2020 namenjamo tudi Odelko za krajinsko arhitekturo, ki se je v 50 letih delovanja s svojim pedagoškim, raziskovalnim in strakovnim delom uveljavil tako v Sloveniji kot v svetu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 104.826,
+        "end": 114.133,
+        "text": "Več o visokem jubileju in Odelku za krajinsko arhitekturo nam bo povedala profesorica dr. Ana Kučan, prodekanja za področje krajinske arhitekture."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 115.979,
+        "end": 122.202,
+        "text": "V četrtoleto vam predstavljamo tudi B festival, ki je namenjen predstavitvi znanstvenih dosežkov strok fakultete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 122.943,
+        "end": 129.967,
+        "text": "Predstavil ga bo profesor dr. Peter Trontal, prodekan za znanstveno-reziskovalno in mednarodno dejavnost fakultete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 131.065,
+        "end": 134.507,
+        "text": "Na B festivalu vsako leto izpostavljamo prispevek enega odelka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 134.527,
+        "end": 148.015,
+        "text": "V letu 2020 smo izbrali prispevek odelka za krajinsko arhitekturo, ki nam ga bo predstavila profesorica doktorica Mojca Konobič, podja programske skupine Urejanje krajine kot bivalnega okolja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 149.396,
+        "end": 150.737,
+        "text": "Na pa dovolj ugodnih besed."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 151.177,
+        "end": 159.603,
+        "text": "V besedi bi najprej povebila današnjo gostiteljico, profesorico doktorico Natašo Poklar-Urlih, dekanjo Biotehniške fakultete Univerze v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 159.683,
+        "end": 160.043,
+        "text": "Prosim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 163.313,
+        "end": 164.514,
+        "text": "Hvala za besedo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.214,
+        "end": 170.336,
+        "text": "Kako te je bilo povedano, biotekniška fakulteta praznuje 75 let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 170.917,
+        "end": 181.142,
+        "text": "Ostanovljena je bila 11. oktober 1947. prav to na univerzi v zbornični dvorani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 181.902,
+        "end": 186.264,
+        "text": "Slovensko jo je ustoličil teden je rektor, akademik prof. dr. Anton Melek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 188.44,
+        "end": 193.17,
+        "text": "Fakulteta je rasla, leta 1949. se je preimenovala v agronomsko in gozdarsko fakulteto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 198.953,
+        "end": 203.255,
+        "text": "Ime biotehnička fakulteta je dobila leta 1961."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 204.995,
+        "end": 215.579,
+        "text": "Takrat je poleg odelka za biologijo, agronomijo, gozdarstvo in veterino so nastali še oddelek za lesarstvo, živelsko tehnologijo in živino rejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 216.12,
+        "end": 224.163,
+        "text": "Leta 1996 se je formiral še oddelek za krajinsko arhitekturo, ki v letu"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 224.603,
+        "end": 235.428,
+        "text": "V letošnjem letu praznoje 50 let študija krajinske arhitekture in na zadnje leta 2021 je oddelek za mikrobiologijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 236.368,
+        "end": 246.293,
+        "text": "Leta 1990 se je odcepil oddelek za veterino iz biotehničke fakultete in formirala se je fakulteta za veterino."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 247.368,
+        "end": 267.658,
+        "text": "Letošnje jubilejno leto bo posebej posvečeno in zaznamovano številnimi dogodki, ki so se začeli s festivalom Zvončko v Botaničnem vrtu, čeraj nadaljevali s BF festivalom in danes podelitvijo jesenkovih nagrad in priznanj biotehničke fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 268.298,
+        "end": 275.322,
+        "text": "Zaključenega bomo pa slavnostno akademijo v Cankarjevem domu oktobera letošnjega leta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 276.022,
+        "end": 286.007,
+        "text": "V zadnjih letih se je fakulteta, tako kot pretekla obdobja, odzivala na potrebe po znanju in kadrih v družbi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 286.528,
+        "end": 292.271,
+        "text": "Kot sem že omenila, smo v preteklem letu ustanobili oddelek za mikrobiologijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 292.791,
+        "end": 304.678,
+        "text": "Uspešno delo oddelka je dobilo priznanje že v prvem letu delovanja, ko je raziskovalka, docentka dr. Ana Dragoš, kot česta raziskovalka v Sloveniji dobila"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 305.198,
+        "end": 306.339,
+        "text": "ERC projekt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 307.78,
+        "end": 327.397,
+        "text": "Skupaj s Fakulteto za računalništvo in informatiko in nekaterimi drugimi fakultetami ter Nacionalnim inštitutom za biologijo pripravljamo nov interdisciplinarni magisterski študij bioinformatike ter skupaj z ekonomsko fakulteto še magisterski študij bioekonomike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 329.279,
+        "end": 351.417,
+        "text": "Spremembe so potekale tudi na organizacijski ravni fakultete, sledili smo začrtanim smernicam zapisanim v strategiji fakultete in univerze in tako smo s 1. aprilom stopili v sistem akademskega poslovno-informacijskega sistema, ki je prinesel spremembe obstoječih praks."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 352.078,
+        "end": 358.163,
+        "text": "Zaradi novosti so zaposleni prevzeli nove naloge in nastala so nova delovna mesta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 359.232,
+        "end": 366.92,
+        "text": "Sprejeli smo tudi številne pravilnike, med drugim tudi nova pravila biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 367.08,
+        "end": 380.594,
+        "text": "V letu 2021 je področje raziskav in razvoje na biotehniški fakulteti okrepilo stopom raziskovalcev in raziskovalk v štiri nove raziskovalne programe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 381.811,
+        "end": 392.281,
+        "text": "V veljavo je stopil nov zakon o znanstveno raziskovalni in inovacijski dejavnosti, ki bo tudi za nas prinesel določene novosti in spremembe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 392.642,
+        "end": 399.969,
+        "text": "Implementacije zakona pričakujemo že v letošnjem letu in pa v naslednjih letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 401.2,
+        "end": 412.81,
+        "text": "V letošnjem letu smo za Postonsko jamo podpisali tudi pismo o nameri za vzpostavitev raziskovalnega laboratorija biotehniške fakultete v Postonski jami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 413.751,
+        "end": 425.922,
+        "text": "V obdobju petih let smo postopoma urejali tudi status botaničnega vrta Univerze v Ljubljani, ki je sedaj organizacijska enota v sklopu dekanata biotehnišne fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 426.378,
+        "end": 428.639,
+        "text": "Fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 429.22,
+        "end": 444.868,
+        "text": "Posebej dosežek, ki je nastal iz potrebo promociji znanja, znanstvenih in strokovnih dosežkov, ki nastajo na fakulteti in so pomembna tako na nacionalnem nivoju kot tudi v mednarodnem prostoru, je BF Festival."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 444.888,
+        "end": 447.39,
+        "text": "Včeraj je potekal že četrtič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 448.889,
+        "end": 454.495,
+        "text": "Med aktualnimi področji sedajnosti in prihodnosti sta tudi hrana in prehrana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 454.515,
+        "end": 470.553,
+        "text": "V okviru biotehničke fakultete pripravljamo prostor za spostavitev novega raziskovalno razvojnega centra za raziskovanje na področju hrane, ki je tudi del načrta za okrevanje in razvoj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 473.257,
+        "end": 486.384,
+        "text": "Prihodnje seveda se bo fakulteta srečala še s drugimi izjivi, ki smo izkupaj zapisali v strategijo razvoja fakultete v naslednjih petih letih, to je od 2022 do 2027."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 490.807,
+        "end": 505.314,
+        "text": "Postavili smo si za cel, da želimo postati vodilna ustanova v regiji na področju ved oživljenju, biogospodarstvu, urejanju prostora in varstva okolja ter na drugih področjih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 506.194,
+        "end": 517.119,
+        "text": "Za uresničevanje zastavljenega cilja smo navedli dve strateški aktivnosti, ki nam bodo omogočile doseganje zastavljenih ciljev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 518.465,
+        "end": 522.311,
+        "text": "Danes tudi v okviru 75 letnice"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 524.573,
+        "end": 542.509,
+        "text": "Biotehniške fakultete poteka svečana podelitev Jesenkoveh nagrad, ki so najprestižnejše nagrade biotehniške fakultete in se imenujejo po profesorju Francu Jesenku, prvemu profesorju botanike na univerzi v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 543.089,
+        "end": 548.614,
+        "text": "Prijemniki letošnje nagrade so profesor dr. Juri Djaci,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 549.295,
+        "end": 572.62,
+        "text": "za življenjsko delo na področju pedagoškega in raziskovalnega dela ter sodelovanja pri upravljanju fakultete, dr. Jure Žigon, najboljši diplomat doktorskega študija in pa Anja Kos, najboljša diplomatka študijskega programa druge stopne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 573.4,
+        "end": 573.66,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 576.312,
+        "end": 590.361,
+        "text": "Spoštovane in spoštovani, prof. dr. Juri Dejaci je diplomiral in magistriral na oddelku za gozdarstvo in obnovljive gozne vere Biotehniške fakultete v Ljubljani ter doktoriral na univerzi ETH v Cirihu v Švici."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 591.081,
+        "end": 597.785,
+        "text": "Na Biotehniški fakulteti je zaposlen kot visokošolski učitelj od leta 1996, od leta 2005 je redni profesor za področje gojenja gozdov."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 603.295,
+        "end": 611.66,
+        "text": "Profesor Dijaci je vrhunski mednarodno priznan in odmeven raziskovalec z odličnimi znanstvenimi objavami in obsežno bibliografijo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 612.501,
+        "end": 615.983,
+        "text": "Uvršča se med najuspešnejše raziskovalce v Univerzi v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 616.824,
+        "end": 626.05,
+        "text": "V okviru analize baze Scopus iz začetka leta 2022 je bil uvrščen med dva od stotka najboljših raziskovalcev na svetu na svojem področju."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 627.123,
+        "end": 636.306,
+        "text": "Vodil je vrsto domačih in mednarodnih raziskovalnih projektov in je področni urednik ali član uredniških odborov uglednih mednarodnih znanstvenih revi."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 637.146,
+        "end": 645.369,
+        "text": "Uspešno razvija znanstveno raziskovalno delo na področju gozdarstva in krepi ugled univerze v Ljubljani tako v domačem kot v mednarodnem okolju."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 646.45,
+        "end": 650.191,
+        "text": "Profesor Dejaci se je izjemno izkazal s predanim učiteljskim delom."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 651.091,
+        "end": 656.333,
+        "text": "Predava vrsto predmetov na domači univerzi in je bil gostujoči predavatelj na več evropskih univerzah."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 657.143,
+        "end": 661.548,
+        "text": "Uvaja sodobne metode poučevanja in redno prejema odlične študentske ocene."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 662.249,
+        "end": 668.996,
+        "text": "Bil je mentor pri 85. diplomskih in 16. magisterskih nalogah ter desetih doktorskih dizertacijah."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 669.737,
+        "end": 674.643,
+        "text": "Več njegovih doktorandov je iz tujine, več diplomskih del je prejelo preširnovo nagrado."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 675.723,
+        "end": 694.647,
+        "text": "Juri Dijaci je v sedani karjeri opravljal vrsto vodstvenih funkcij, je predstojnik Katedre za gojenje gozdov in predsednik Pahrnikove ustanove, bil je pro dekano delka za gozdarstvo in obnovljive gozdne vere, dolgoletni vodja programske skupine in predsednik prosilve Slovenija."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 694.767,
+        "end": 703.429,
+        "text": "Intenzivno je vključen v delo Evropske unije in Evropskega parlamenta pri oblikovanju gozdarskih politik in razpravah o Evropskem zelenem sporozumu."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 705.055,
+        "end": 717.664,
+        "text": "Pri letošnjem prejemniku Jesenkove nagrade želim zlasti izpostaviti njegovo celostno in uravnoteženo delovanje, ki presega usmerjenost v doseganje odličnosti na samo enem ali nekaj izbranih področji."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 718.284,
+        "end": 725.649,
+        "text": "Nasprotno, zgorej našteti dosežki kažajo, da se je izkazal na vseh področjih, za katera se Jesenkova nagrada podeljuje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 726.35,
+        "end": 727.951,
+        "text": "S prejemanjem različnih pogledov,"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 728.491,
+        "end": 734.474,
+        "text": "Deluje povezovalno, kar je pri tako velikih ustanovah, kot je biotehnička fakulteta, še zlasti pomembno."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 734.894,
+        "end": 735.174,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 737.776,
+        "end": 751.443,
+        "text": "Spoštovani, Jesenkovo nagrado za življenjsko delo razumen kot priznanje slovenski gozdarski stroki še posebej katri za gojenje gozdov in oddelko za gozdarstvo naše fakultete."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 752.183,
+        "end": 760.105,
+        "text": "Pedagoško in strokovno delujemo na področju gozne ekologije in sonaravnega obnavljanja ternege goznih ekosistemov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 760.845,
+        "end": 772.328,
+        "text": "Tudi raziskave v programski skupini so bile v podporo in so še znanstveno v temeljenem sonaravnem gozdarstvu in to je posebnost alpskih držav in še posebej Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 773.041,
+        "end": 783.905,
+        "text": "Z raziskavami želimo prispevati k zaustavljanju degradacije gozdov v svetovnem rilu, ohranjanju biotske pestrosti ter prilagajanju gozdov na podnebne spremembe."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 784.785,
+        "end": 792.328,
+        "text": "Med prvimi v Srednji Evropi smo začeli s sistematičnimi raziskavami zgodovinskih vzorcev naravnih motn v pragozdovih,"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 792.869,
+        "end": 803.981,
+        "text": "Poznavanje teh je pomembno po eni strani zaradi posnemanja teh procesov pri sonaralnem gospodarjenju, po drugi strani pa zaradi naraščajoče intenzivnosti naravnih ujem."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 804.862,
+        "end": 813.932,
+        "text": "V Evropskih pragozdovih smo izpeljali tudi odmevno študijo o strukturi odmrlih dreves, ki so pomemben habitat za številne organizme."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 814.672,
+        "end": 826.222,
+        "text": "Zaradi vse pogostejših naravnih ujm se veliko okvarjamo s proučevanjem načinov okrevanja gozdov pri zadetih poujmah, začim hitrejšo vzpostavitev vseh funkcij gozda."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 827.243,
+        "end": 833.808,
+        "text": "Razvili smo nove načine proučevanja, pomlajevanja in spremenljivosti mikroklime v sestojnih vrzeljih."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 834.509,
+        "end": 841.355,
+        "text": "Te zakonitosti je pomembno poznati za uspešno naravno obnovo in zaradi podnebnih sprememb."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 841.84,
+        "end": 849.123,
+        "text": "Gost namreč blaži podnebne skrajnosti in prispeva k ohranjenju številnih ogroženih organizmov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 849.944,
+        "end": 856.907,
+        "text": "Prvi poskus v naravi za opravčevanje gozne mikroklime smo zastavili že pred 30 leti v Nazarskem območju."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 857.607,
+        "end": 861.689,
+        "text": "V zadnjem času pa spremljamo obsežen poskus v Visokogorju."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 863.052,
+        "end": 870.019,
+        "text": "kjer pravčujemo tudi z vrsti umetne obnove in še posebej s podbojeno migracijo drevesnih vrst."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 870.6,
+        "end": 877.066,
+        "text": "Podnebne spremembe so namreč hitrejše od sposobnosti spontanjnega širenja drevesnih vrst."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 877.987,
+        "end": 882.252,
+        "text": "Poleg raziskav so za razvoj stroke pomembni tudi prenosi znanja."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 883.221,
+        "end": 895.754,
+        "text": "Prof. Mnišek iz Odelka za gozdarstvo je bil med pobudniki ustanovitve Evropskega združenja ProSilva, ki je bilo prav za ta namen ustanovljeno v Sloveniji pred 33 leti."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 896.675,
+        "end": 905.445,
+        "text": "Oddelek za gozdarstvo je vs čas tesno vpet v vodenje ProSilve, ki danes šteje že 6000 članov iz 25 evropskih držav."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 905.965,
+        "end": 910.607,
+        "text": "Delež sonaravnih gozdov v Evropi pa se je povečal na tretjino."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 911.507,
+        "end": 917.99,
+        "text": "V zadnjem desetletju je veliko zanimanja tudi iz drugih celin, kjer je sonaravno gozdarstvo še v povojih."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 919.03,
+        "end": 927.354,
+        "text": "Odelek za gozdarstvo je tesno opet uvodenje Pahenike ustanove, ki je pomemben steber mreženja znanja o sonaravnem gozdarstvu."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 927.914,
+        "end": 935.337,
+        "text": "Ustanovila jo je vida Ribnikar prav v tej sobi, hčerka pionirja sonaravno stifranja Pahenika."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 935.817,
+        "end": 944.966,
+        "text": "Ustanova je v 12 letih svojega obstoja podelila 80 letnih štipendi in sofinansirala 155 projektov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 945.627,
+        "end": 951.993,
+        "text": "Tesno sodeluje z Zavodom za gozdove Slovenije, z občino Radlje, Pokrajinskim muzejem,"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 952.625,
+        "end": 963.908,
+        "text": "Na Koroškem in rezultati sodelovanja sta dve stalni razstavi, v načrtu je odprtje centra za sonaravno in trajnostno gospodarjenje z gozdovi."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 964.688,
+        "end": 972.43,
+        "text": "V lanskem letu je Pahenikove gozdove obiskala visoka delegacija direktoratov za okolje in kmetijstvo Evropske komisije."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 974.14,
+        "end": 984.265,
+        "text": "Gozdovi so zapleteni ekosistemi, drevesa so dolgoživa, zato je v gozdarstvu interdisciplinarno in medgeneracijsko sodelovanje zelo pomembno."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 984.885,
+        "end": 994.19,
+        "text": "Odmevnost našega dela temeli na tradiciji sonarovnega gozdarstva v Sloveniji in premišljeno zastavljenih raziskavah naših predhodnikov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 995.015,
+        "end": 1005.203,
+        "text": "Povezovanje pedagoškega raziskovalnega dela in prakse ter kakovostno mentorstvo mladim je tudi danes vodilno načelo oddelka za gozdarstvo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1005.984,
+        "end": 1016.152,
+        "text": "Zanimanja za naše delo je vse več, saj Evropska unija o strategiji za gostove do leta 2030 prvič izpostavila spodbujanje sonarovnega gozdarstva."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1017.037,
+        "end": 1027.365,
+        "text": "To je posredno priznanje vsem deležnikom na področju gozdarstva in gozdov v Sloveniji, to je obveznost in hkrati razvojna priložnost Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1028.045,
+        "end": 1028.546,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1031.093,
+        "end": 1032.074,
+        "text": "Ja, hvala za besedo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1033.475,
+        "end": 1040.819,
+        "text": "Torej, nakratko nekaj o moji doktorski dezertaciji oziroma raziskovalnem delu, ki je bilo upravljeno v tej funkciji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1042.66,
+        "end": 1045.002,
+        "text": "Moj mentor, se pravi doc."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1045.162,
+        "end": 1059.251,
+        "text": "dr. Sebastian Dale, torej prihaja iz Nemčije in s tem, ko sem ga sprejel, oziroma on mene bil kot mentorja pri doktorski dezertaciji, so bili nekako podani neki temeli za raziskovanje"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1059.511,
+        "end": 1083.092,
+        "text": "novo raziskovalno področje, ki se bo razvilo na področju obdelave površin lesa in lesnih kompozitov, z namenom, da izboljšamo omočljivost teh materijalov, njihovo lepljanje, površinsko obdelavo in v okviru teh dizertacij smo nekako razvili neko novo napravo, nov princip delovanja oziroma obdelave,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1084.081,
+        "end": 1089.182,
+        "text": "ki dotakrat še nekako ni bil niti svetovno poznan oziroma uveljavljen."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1090.423,
+        "end": 1099.385,
+        "text": "Tekom raziskovalnega dela smo preučili ogromno število lastnostih površin lesa, ki se spremenijo po obdelavi s to plazmo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1099.945,
+        "end": 1105.287,
+        "text": "Gre za dielektrično barijerno razelektritveno plazmo, vendar v našem primeru s tako imenovano plazmo"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1105.647,
+        "end": 1114.474,
+        "text": "plavajočo elektrodo, kar pomeni, da zadeva nekako drugače deluje kot dosedaj znane naprave."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1115.615,
+        "end": 1132.89,
+        "text": "Ugotovili smo recimo, da se pravi naša naprava ima možnost reaktivacije površilne sato, pomeni, da recimo les, ki je staran ali pa ki že dolgo časa stoji na skladišču, postane z obdelavo ponovno aktiven, pripravljen za lepljenje,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1133.17,
+        "end": 1142.517,
+        "text": "površinsko obdelavo s premazijo in na koncu recimo dobimo boljšo adhezijo, oprijemnost teh premazov na samo površino lesa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1144.479,
+        "end": 1154.307,
+        "text": "Ostaja še vrsto neraziskanih oziroma tako potencialov, kako naprej poročevati pliv te obdelave s plazmo na površine lesa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1155.547,
+        "end": 1158.049,
+        "text": "Vrsta raziskav je bila v bistvu"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1158.77,
+        "end": 1172.701,
+        "text": "izvedenih tudi v etovini, tako med drugim v Nemčiji, Franciji, na Švedskem, na Češkem in pa tudi pri nas recimo v Ljubljani na institutu Jožefa Štefana."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1172.801,
+        "end": 1185.811,
+        "text": "Vsi te raziskave so v bistvu neka podlaga tudi za nadaljno sodelovanje, razširjene raziskave, kar imamo seveda tudi namen v prihodnih letih razširiti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1185.931,
+        "end": 1186.552,
+        "text": "Tako na kratko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1190.495,
+        "end": 1192.356,
+        "text": "Lep pozdrav, hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1192.997,
+        "end": 1212.669,
+        "text": "V letošnjem letu preznujemo 50-letnico od študija krajinske arhitekture, ki ga je leta 1972, navrek od poddiplomskih študij, ustanovil naš zaslužni, zdaj že pokojni, profesor Dušan Ogrin."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1212.829,
+        "end": 1216.612,
+        "text": "Kasneje ga je s pomočjo kolega profesorja"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1216.972,
+        "end": 1230.094,
+        "text": "Janeza Marušiča in sodelavci pač počasi razvil v oddelek, katerega dediščino nadaljujemo še danes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1230.615,
+        "end": 1243.517,
+        "text": "Bil je ustanovljen kot pravzaprav prvi res pravi interdisciplinarni študi na Univerziji v Ljubljani in združuje tako znanstveno kot umetniško delo, to je pač v naravi"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1243.837,
+        "end": 1245.979,
+        "text": "krajinske arhitekture."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1246.039,
+        "end": 1261.435,
+        "text": "Zajema prostorsko načrtovanje, urbanizem, načrtovanje mestne krajine in načrtovanje skratka prostorskih ureditev oziroma ureditev odprtega prostora v različnih merilih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1262.016,
+        "end": 1263.077,
+        "text": "Naši študenti"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1263.631,
+        "end": 1283.56,
+        "text": "Vse na študiju absolvirajo tako naravoslovno kot družboslovno znanje, tehnično znanje in veščine, ki so jim potem potrebni in jih lahko s pridom uporabljajo, da v dinamiki razvoja in varstva uspešno rašujejo prostorske probleme."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1283.56,
+        "end": 1311.902,
+        "text": "Na študiji je v teh letih seveda mednarodno opet v Evropsko konferenco šol za krajinsko arhitekturo, v mrežo Lenotr, ki ravnotko povezuje šole pa tudi strokonjake iz prakse, v Mednarodno zvezo krajinskih arhitektov in tudi akreditiran pri Evropski zvezi prakse."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1312.467,
+        "end": 1315.688,
+        "text": "inženirjev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1316.048,
+        "end": 1331.814,
+        "text": "Mogoče eden od naših dosežkov tudi to, da je sveda zaslužni profesor univerze, častni doktor univerze, postal tudi profesor Karl Štajnic, ki je s profesorjem Dušanom Ogrinov sem deloval že"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1332.194,
+        "end": 1343.364,
+        "text": "od samega začetka študija in je še danes izjemno aktiven pri svoji skrbi za načrtovanje planeta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1343.424,
+        "end": 1350.851,
+        "text": "V tem raziskovalnem delu našega oddelka bo več povedala kolegica prof. dr. Mojca Golobič."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1351.952,
+        "end": 1353.513,
+        "text": "Sama bi predstavila mogoče"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1354.334,
+        "end": 1357.976,
+        "text": "tako imenovane umetniške dosežke študentov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1358.076,
+        "end": 1369.961,
+        "text": "Naši študenti so zlasti v zadnjem času izredno uspešni na študentskih natečajih, ki jih organizira Mreža na notra."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1370.242,
+        "end": 1377.045,
+        "text": "Dosegli so izjemne uspehe tudi na urbanističnem natečaju v Braziliji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1378.651,
+        "end": 1388.1,
+        "text": "Uspešno smo se vključili tudi v predstavitve delovanja na umetniškem področju na Univerzi v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1388.621,
+        "end": 1397.609,
+        "text": "Pripravili smo razstave v mali galeriji Banke Slovenije in se tudi uveljavljali v svetu za umetnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1398.31,
+        "end": 1402.855,
+        "text": "Zelo veliko naših alumnov, naših diplomantov,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1403.255,
+        "end": 1408.739,
+        "text": "in magistrantov seveda se uspešno veljavlja tudi v tujini."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1409.199,
+        "end": 1424.068,
+        "text": "Med njimi so recimo profesori na fakulteti oziroma na Bartlett šoli za arhitekturo v Londonu, na sodobni univerzi v Amsterdamu in na Hafen univerzi, se pravi pristaniški univerzi v Hamburgu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1424.689,
+        "end": 1426.01,
+        "text": "Delujejo kot profesori."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1426.85,
+        "end": 1430.993,
+        "text": "Naš alumni Zaš Zbrežar je ustanovil platformo"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1431.233,
+        "end": 1444.762,
+        "text": "Lendezin, ki je najbolj znana in največja spletna platforma za krajinsko arhitekturo na svetu, podeljuje tudi nagrade in veliko prireditev organizira prav v Ljubljani, dosti krat v sodelovanju z nami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1446.163,
+        "end": 1451.087,
+        "text": "Med njimi so potem tudi diplomanti, ki so uspešni na različnih področjih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1451.567,
+        "end": 1458.792,
+        "text": "Zdaj bi se da to priložnost mogoče izkoristila za to, da povem, da je izrazita škoda"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1459.853,
+        "end": 1482.511,
+        "text": "da, če naša država ne zmore, ne zna ali pa noče ustvariti razmer za delo, ki bi omogočale našim diplomantom, da bi zares lahko uveljavljali skrb za krajino in škodo sveda bo utrpela pravkakovo slovenskih krajin, na katere smo sicer tako zelo ponosni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1482.551,
+        "end": 1483.692,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1487.883,
+        "end": 1496.95,
+        "text": "Zdaj smo že nekoliko se seznanili s tem, da je biotehnička fakulteta res zelo pestra po svojih dejavnostih."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1497.53,
+        "end": 1516.904,
+        "text": "Ravno tako kot je pestra, je tudi velika predstavlja približno 10% univerza v Ljubljani in s tem so njen raziskovalni dosežki tako številni, da je ne mogoče imeti pregled nad vsem, kar v enem letu izvedemo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1517.515,
+        "end": 1545.232,
+        "text": "Kar pa pomeni, da se želimo vseeno javnosti predstaviti s tistimi najboljšimi, najbolj odmevnimi, morda najbolj prodornimi, najbolj zanimivimi tudi prispevki vsakega izmed naših osmih oddelkov in temu je namenjen tako imenovani B festival, B kot biotehniški, se pravi vede o življenju biotehnika, to je to, kar"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1546.0,
+        "end": 1548.862,
+        "text": "naša fakulteta pokriva."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1548.882,
+        "end": 1556.547,
+        "text": "In ta dogodek je potekal včeraj v prostorih dekanata fakultete."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1557.813,
+        "end": 1568.102,
+        "text": "zbornik in predstavitev, pisna predstavitev, tudi slikovna, vseh dosež, ko je na voljo, tako da tam so detajli o tem."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1569.062,
+        "end": 1577.089,
+        "text": "Tukaj bi pa mogoče povzel eno rdečo nic različne skupine teh prispevkov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1577.249,
+        "end": 1579.411,
+        "text": "Povedal bi, da se za..."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1580.712,
+        "end": 1591.691,
+        "text": "tukaj vedno zbirajo najboljši dosežki ali pa kot rečeno tisti, ki jih želimo ali pa želijo v delki predstaviti iz preteklega leta."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1592.913,
+        "end": 1621.77,
+        "text": "nekaj teh naših znanstvenih dosežkov je takih, da jih že drugi prepoznajo, kot Univerza v Ljubljani, pa Agencija Republike Slovenije za raziskovalna dejavnost in ti so že bili predstavljeni, to so tisti najbolj odlični, tako da o teh zdaj ne bi več, kaj veliko besed zgubljal,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1622.09,
+        "end": 1631.396,
+        "text": "Tukaj pa gre za to, s čemer se odelki naše fakultete sami želimo predstaviti javnosti."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1632.436,
+        "end": 1638.46,
+        "text": "V trih sklopih, nekako širših skupinah delovanja,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1639.91,
+        "end": 1641.23,
+        "text": "bi jih lahko povzel."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1641.93,
+        "end": 1665.235,
+        "text": "Prvi sklop zajema naše dejavnosti, ki pokrivajo pravzaprav celotno površino ozemlja Slovenije, kar koli je naravnega, naravnih verov, prostorskega, krajinskega, je na tak ali drugačen način povezano tudi z raziskovalno dejavnostjo in pedagoško seveda biotehničke fakultete."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1665.695,
+        "end": 1676.963,
+        "text": "Dva od teh dosežkov pri enem gre za zbirno delo večjih let, deset let in pravzaprav odelka za krajinsko arhitekturo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1677.224,
+        "end": 1679.325,
+        "text": "Kolegica Golobič bo več o tem povedala."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1679.986,
+        "end": 1686.21,
+        "text": "Gre za splošni koncept urejanja krajine kot bivalnega okolja v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1686.991,
+        "end": 1704.221,
+        "text": "Drugi dosežek je znanstvena monografija, tukaj lahko rečemo, ne samo monografija, monumentalna monografija ogromno podatkov zbranih o goznih rastiščnih tipih Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1704.929,
+        "end": 1733.968,
+        "text": "Ta dosežek je predlagal naš oddelek za gozdarstvo, delo, ki bo sigurno pomagalo generacijam za mnogo let vnaprej pri gozdarskem načrtovanju, pri načrtovanju varovanja gozdov in še drugih dejavnostih, ki so povezane z mnogoterimi funkcijami, ki jih naši gozdovi, naši zelo pestri gozdovi nudijo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1735.138,
+        "end": 1758.009,
+        "text": "Potem naslednji tip oziroma naslednji sklop teh naših dosežkov nekako zajema to, če mora bi v angleščini rekli cutting edge science, kar se tiče najbolj sodobnih prebojnih metodologij, prva fronta znanstvenega raziskovanja na področju ved o življenju,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1759.03,
+        "end": 1766.352,
+        "text": "kot so genomika, evolucijska vprašanja in podobno."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1767.352,
+        "end": 1779.715,
+        "text": "Z odelka za biologijo so predstavljene raziskave genoma človeške ribice na velike posebnosti slovenskega kraškega okolja z veliko"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1780.985,
+        "end": 1784.487,
+        "text": "drugimi aplikativnimi možnostmi."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1784.907,
+        "end": 1796.993,
+        "text": "Ta genom mimo grede je ogromen, več kot 15-kat večji od človeškega, tako da gre tukaj res za zelo velik izziv, ki smo se ga lotili v sodelovanju s kitajskimi in danskimi"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1797.573,
+        "end": 1799.534,
+        "text": "s raziskovalnimi skupinami."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1800.734,
+        "end": 1818.962,
+        "text": "Nasledna stvar, mogoče nekoliko manjši gnov, ampak nič manj pomemben in zanimiv, so genetske raziskave drežniške koze, naše redke ogrožene avtohtone pasme, za katero so prav te raziskave pokazali, da gre za res"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1820.303,
+        "end": 1831.709,
+        "text": "res nekaj posebnega in že dolgo časa samo na obočju severo-zahodne Slovenije že večjo pasmo koze."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1832.149,
+        "end": 1848.718,
+        "text": "To je bil prispevek odelka za zootehniko in naš mladi odelek za mikrobiologijo je kar v eni seriji svojih odličnih in mednarodno izredno prodornih dosežkov predstavil zelo nove, še nikoli"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1849.058,
+        "end": 1873.662,
+        "text": "nikoli do sedaj odkrite zakonitosti bakterij, kako med sabo sodelujejo na podoben način kot celice v več celičnih organizmih ali pa celo višji organizmi med sabo, ko si sorodniki, ko se prepoznajo kot sorodni in si med sabo pomagajo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1874.723,
+        "end": 1877.023,
+        "text": "S tem smo prišli do tretega sklopa naših"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1878.522,
+        "end": 1894.523,
+        "text": "najzanimivejših in najpomembnejših znanstvenih in raziskovalnih dosežkov, ki pa imajo, poleg tega, da so sami po sebi znanstveno odlični,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1895.245,
+        "end": 1912.282,
+        "text": "Še nekoliko večji direktno prepoznavni aplikativni učinek spet gre za, kot je že zdaj verjetno razvidno, kot neka rdeča nit našega delovanja, za trajnostno rabo naravnih verov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1912.863,
+        "end": 1932.971,
+        "text": "In tukaj izpostavljam dosežek odelka za lesarstvo, kjer so razvili odprto kodno napravo za plazmo, s katero se da zaščititi in veliko bolj trajno zaščititi."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1932.991,
+        "end": 1941.655,
+        "text": "In so naravno zaščititi les kot pomemben naravni vir, ki ga imamo v Sloveniji zaenkrat še nasreč v velikem obsegu na voljo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1943.187,
+        "end": 1961.995,
+        "text": "Na drugi strani imamo prispevek odelka za agronomijo, ki je predstavil doseganje očinkovitejše sonaravne obdelave komunalnega blata z optimizacijo prezračevanja v bioloških čistilnih napravah."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1962.055,
+        "end": 1965.416,
+        "text": "Se pravi, imamo nek vir, ki je škodljiv kot tak, ampak če ga pravilno"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1969.698,
+        "end": 1985.747,
+        "text": "obdelamo, ga lahko v koristno surovino spremenimo in ne nazadnje smo tukaj pri prehrani, pri živilstvu, kjer so tudi, to je še eno od področji delovanja naše fakultete,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1986.387,
+        "end": 2003.462,
+        "text": "In tukaj je Odelek za živeljstvo predstavil bistveno novost v zvezi z vsem, kar nudi kaljeno žito kot prehranski vir v primerjavi z nekaljenimi oblikami žita."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 2004.083,
+        "end": 2006.265,
+        "text": "Skratka, če pa vzamem"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 2006.907,
+        "end": 2021.953,
+        "text": "Še enkrat, biotehnička fakulteta skrbi za naravo v Sloveniji v poskovnem pogledu, skrbi za to, da je znanje in"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 2024.474,
+        "end": 2037.619,
+        "text": "in vedenje, ki ga predajamo študentom na visokem nivoju in skrbi za to, da so naši naravni verji rabljeni, da jih rabimo v trajnostnem smislu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2041.265,
+        "end": 2044.347,
+        "text": "Hvala lepa za besedo in dobro pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2044.827,
+        "end": 2048.75,
+        "text": "Povedala bom nekaj o raziskovalnem delu na vdelku za krajinsko arhitekturo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2049.531,
+        "end": 2069.825,
+        "text": "Kot je bilo že povedano, se je začelo skupaj z ustanovitvijo študija pred 50-timi leti, ko so izjemni posamezni, ki predvsem profesorjev Grin in Marušič, spoznali, da akademska disciplina seveda potrebuje za dobro pedagoško delo, tudi raziskovalno, strokovno in"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2069.885,
+        "end": 2073.107,
+        "text": "v našem primeru tudi umetniško dejavnost."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2074.128,
+        "end": 2096.882,
+        "text": "Te danje raziskave je zaznamovala prva konferenca o krajinskem planiranju v mednarodnem okviru, ki je bila organizirana v Ljubljani in so se je odeližili številni svetovni strokovnjaki z tega področja, med drugim tudi že omenjeni profesor Štajnic z Harvardove univerze."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2098.623,
+        "end": 2108.353,
+        "text": "Zelo je odmevala ta konferenca in postavila okvire tako teoretične kot metodološke tej disciplini krajinsko planiranje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2108.433,
+        "end": 2118.364,
+        "text": "Tedajne raziskave so močno temeljile ali pa je označevala tudi uporaba za tiste čase izjemno napredne informacijske tehnologije,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2119.345,
+        "end": 2128.859,
+        "text": "in velika občutljivost za okolje in varsto okolja, kar je bilo v tistem času prav tako novost v svetovnem merilu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2130.537,
+        "end": 2138.705,
+        "text": "Če zdaj preskočim kar nekaj desetleti, v današnjem času poteka raziskave na odelku nekoliko na drugačen način."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2139.126,
+        "end": 2152.679,
+        "text": "Pročem se je skupina razširila, v njej deluje osem raziskovalcev, v večinoma so to mladi, zagnani, motivirani ljudje in nismo samo krajinski arhitekti, ampak je skupina interdisciplinarna."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2153.5,
+        "end": 2168.312,
+        "text": "Ukvarjamo se pa seveda s krajino, ki jo vidimo kot neko polje iskanja rešitev na presečišču med družbenimi, okoljskimi in gospodarskimi vidiki družbe."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2168.813,
+        "end": 2181.743,
+        "text": "S svojimi raziskavami naslavljamo tudi okvir, ki nam ga postavlja Evropska konvencija o krajini, ki krajino vidi v celem razponu od najbolj naravne do urbane,"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2183.403,
+        "end": 2200.513,
+        "text": "Ko raziskujemo naravno krajino, jo vidimo predvsem kot bivalno okolje drugih živih biti, ne samo človeka in raziskujemo pomen krajine za biodiverziteto, ekološko povezljivost in zeleno infrastrukturo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2201.894,
+        "end": 2210.979,
+        "text": "Ko govorimo o kulturni krajini, je v spredju predvsem njena prepoznavnost in njen pomen za identiteto nacionalno, regionalno in lokalno."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2211.972,
+        "end": 2224.184,
+        "text": "In ko govorimo o urbani krajini, nas zanima predvsem kot človekovo bivalno okolje in nek potencial za dejavnosti kot recimo turizem v mestih pa tudi zunajnjega."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2225.894,
+        "end": 2231.297,
+        "text": "Naše raziskave so kar obsežne."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2231.357,
+        "end": 2246.745,
+        "text": "V lanskem letu je teklo na oddelku 16 različnih projektov z različnimi financerji, od evropskih sredstev do nacionalne raziskovalne agencije, posameznih ministerstv in tudi podjetij."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2247.545,
+        "end": 2261.315,
+        "text": "Naše raziskave naslavljajo tako in podpirajo odločevalce v državi, kakor tudi bolj konkretne odločitve in prispevajo k znanstvenim spoznanjem."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2262.856,
+        "end": 2275.484,
+        "text": "Njihovo odmevnost in pomen lahko merimo z običajnimi indeksi znanstvene uspešnosti, kjer smo vsako leto še malo boljši in bolj"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2276.485,
+        "end": 2284.391,
+        "text": "objavljamo v revijah s višjimi faktorji vpliva in višjamo našo citiranost."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2285.371,
+        "end": 2302.583,
+        "text": "Ob enem pa smo tudi zelo veseli odzivov naročnikov, ki nam povejo, da so naše raziskave družbeno relevantne, da jih lahko uporabijo pri svojih odločitvah in to se nam zdi še posebej pomembno, se vendarle želimo predvsem to, da bi vsi raziskavci"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2303.384,
+        "end": 2321.336,
+        "text": "ki v krajini spremajo odločitve, ki imajo posledico za krajino, zavedali njenega pomena in bi v svoje ravnanje vnesli nekoliko večjo občutljivost za kakovosti v krajini."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2321.356,
+        "end": 2326.5,
+        "text": "Če sem začela s konferencov, bom še končala v letošnjem letu, v septembru."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2326.84,
+        "end": 2338.73,
+        "text": "organiziramo ravno v obeležitev od 50-letnice študija krajinske arhitekture letno konferenco Evropske zveze šol krajinske arhitekture."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2339.55,
+        "end": 2351.04,
+        "text": "V njej bomo spet gostili pomembne mednarodne srkovnjake in naslavljali različne teme pod skupnim naslovom Merila sprememb."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2357.468,
+        "end": 2369.572,
+        "text": "spoštovani nagrajenci, spoštovani vabljeni gostje, partneri in prijatelji Biotehniške fakultete, spoštovane sodelovke in sodelovci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2370.672,
+        "end": 2375.554,
+        "text": "Podelitev jesenkovih nagrad je osrednji dogodek Biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2376.214,
+        "end": 2383.336,
+        "text": "Letošnja podelitev jesenkovih nagrad poteka spet v Svetšani zbornični dvorani Univerze v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2384.3,
+        "end": 2392.042,
+        "text": "Življenje se je vrnilo na fakultete, na zvrnitvijo študentov in znova je zaživel akademski duh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2392.982,
+        "end": 2398.343,
+        "text": "COVID-19 nam je narekoval način življenja in dela v preteklih dveh letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2399.184,
+        "end": 2412.887,
+        "text": "Tudi v tej bitki je vsaj začasno zmagal človek, vendar ne kot človek, individum, temveč kot skupnost, kot človeštvo, potrditev, da je v skupnosti moč in predvsem"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2413.257,
+        "end": 2415.579,
+        "text": "da je zmagalo znanje in razum."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2417.02,
+        "end": 2423.584,
+        "text": "Dobili smo eno bitko, ko se je odprla nova fronta vojna v Ukrajini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2423.604,
+        "end": 2429.108,
+        "text": "S izgroženostjo in veliko zaskrbljenostjo spremljamo vsakodnevno dogajanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2430.008,
+        "end": 2434.852,
+        "text": "Živeli smo v prepričanju, da to ni mogoče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2434.992,
+        "end": 2442.517,
+        "text": "V 21. stoletju na ozemlju Evrope dobi digitalizacija in silovitega tehnološkega napredka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2444.645,
+        "end": 2450.91,
+        "text": "Vendar biotehnička fakulteta praznuje častitljivih 75 let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2451.351,
+        "end": 2462.92,
+        "text": "Bila je ustanovljena 11. oktober 1947. leta prav to v zbornični dvorani kot agronomska fakulteta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2463.561,
+        "end": 2466.523,
+        "text": "Ime biotehnička fakulteta je dobila leta 1961. leta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2470.365,
+        "end": 2481.277,
+        "text": "Tako so poleg odelkov za biologijo, agronomijo, gozdarstvo in veterino nastali še oddelek za lesarstvo, živilsko tehnologijo in živino rejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2482.017,
+        "end": 2484.74,
+        "text": "Leta 1996. je nastal še oddelek za krajinsko arhitekturo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2489.704,
+        "end": 2497.45,
+        "text": "ki letos spraznuje 50 let študija krajinske arhitekture in na zadnje še odelek za mikrobiologijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2498.091,
+        "end": 2506.157,
+        "text": "Leta 1990 se je odcepil odelek za veterino in se prooblikoval v fakulteto za veterino."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2508.359,
+        "end": 2514.944,
+        "text": "Letošnje jubilejno leto bo posebej svečano in zaznamovano številnimi dogodki"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2515.523,
+        "end": 2535.714,
+        "text": "ki so se začeli s festivalom Zvončko v Botaničnem vrtu Univerze v Ljubljani, čerešnjim BF festivalom, današnjo podelitvijo jesenkovih nagrad in priznanj in ga bomo zaključili Slavnostno akademijo v Cankarjevem domu oktobera letošnjega leta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2538.74,
+        "end": 2546.763,
+        "text": "V zadnjih letih se je fakulteta tako kot pretekla obdobja odzivala na potrebe po znanju in kadri v družbi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2547.503,
+        "end": 2555.966,
+        "text": "Z ustanovitvijo odelka za mikrobiologijo so se uresničile dolgoletne želje sodelavcev mikrobiologov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2555.986,
+        "end": 2563.168,
+        "text": "Uspešno delo odelka je dobilo priznane že v prvem letu delovanja, ko je raziskovalka doc."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2563.329,
+        "end": 2566.29,
+        "text": "Ana Dragoš dobila ERC projekt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2566.83,
+        "end": 2567.43,
+        "text": "Verjamemo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2567.883,
+        "end": 2574.966,
+        "text": "da je ANA zgled mnogim mladim sodelovcem in jih opogumlja, da se bodo podali po njeni poti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2576.807,
+        "end": 2596.517,
+        "text": "Skupaj s Fakulteto za računalništvo in informatiko in nekaterimi drugimi fakultetami ter Nacionalnim inštitutom za biologijo pripravljamo nov interdisciplinarni magisterski študij bioinformatika, ter skupaj z ekonomsko fakulteto še magisterski študij bioekonomija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2598.848,
+        "end": 2609.811,
+        "text": "Spremembe so potekale tudi na organizacijski ravni fakultete, sledili smo začrtanim smernicam zapisanem strategije fakultete in univerze."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2610.371,
+        "end": 2626.695,
+        "text": "S 1. apriljo lanskega leta smo vstopili v akademski poslovno informacijski sistem, ki je prinesel spremembe obstoječih poslovnih praks, sprejeti so bili številni novi pravilniki in navodila,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2627.283,
+        "end": 2630.726,
+        "text": "med drugim tudi nova pravila biotehničke fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2632.988,
+        "end": 2645.458,
+        "text": "V letu 2021 je področje raziskav in razvoja na biotehnički fakulteti okrepilo z vstopom raziskovalke in raziskovalcev v štiri nove raziskovalne programe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2646.279,
+        "end": 2656.387,
+        "text": "Veljavo je vstopil nov zakon o znanstveno-raziskovalni in inovacijski dejavnosti, ki bo tudi za nas prinesel določene novosti in spremembe,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2657.033,
+        "end": 2658.594,
+        "text": "Upajmo, da na bolje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2659.754,
+        "end": 2662.115,
+        "text": "Implementacije zakona bodo postopne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2663.495,
+        "end": 2680.861,
+        "text": "V letošnjem letu smo tudi s direktorjem Postojanske jame podpisali pismo v nameri za spostavitev raziskovalnega laboratorija Biotehničke fakultete v Postojanski jami in nadaljujemo z raziskavami človeške ribice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2681.661,
+        "end": 2683.802,
+        "text": "V obdobju zadnjih petih let"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2684.118,
+        "end": 2700.543,
+        "text": "Smo postopama urejali tudi status botaničnega vrta Univerze Ljubljani, ki je sedaj organizacijska enota v sklopu dekanata Biotehničke fakultete in tesno sodeluje z Univerzo Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2701.804,
+        "end": 2706.205,
+        "text": "Poseben dosežek, ki je nastal iz potrebe po promociji znanja,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2706.865,
+        "end": 2719.35,
+        "text": "Znanstvenih in strokovnih dosežkov, ki nastajajo na fakulteti in so pomembna tako na nacionalnem nivoju, kot tudi v mednarodnem prostoru, je BF Festival."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2720.05,
+        "end": 2721.911,
+        "text": "Čera je potekal že četrtič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2723.403,
+        "end": 2728.984,
+        "text": "Med aktualnimi področji sedanjosti in prihodnosti sta tudi hrana in prehrana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2729.024,
+        "end": 2739.746,
+        "text": "V okviru biotehničke fakultete pripravljamo prostor za spostavitev novega raziskovalno-razvojnega centra za raziskave na področju hrane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2740.446,
+        "end": 2750.588,
+        "text": "Da mora Slovenija okrepiti razvoj in raziskave za potrebe, slovenske industrije je kot cel zapisano tudi v načrtu za okrevanje in razvoj,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2752.512,
+        "end": 2757.153,
+        "text": "kjer so za postavitev centra rezervirana tudi namenska sredstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2759.033,
+        "end": 2770.555,
+        "text": "Prihodnosti pa se bo fakulteta srečala še z drugimi izjivi, ki smo izkupaj zapisali v strategiji razvoja fakultete do leta 2027."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2772.956,
+        "end": 2779.857,
+        "text": "Želimo, da bi ob 80-letnici biotekničke fakultete, torej v naslednjih petih letih,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2780.508,
+        "end": 2788.112,
+        "text": "Biotehnička fakulteta postala vodilna ustanova v regiji na področju ved oživljenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2788.132,
+        "end": 2796.917,
+        "text": "Strategijo smo gradili in oblikovali skupaj in tudi na pot njenega uresničevanja smo se že podali skupaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2798.358,
+        "end": 2806.102,
+        "text": "Priznam, ni vedno najlažje vleči tako velikega voza, kot je biotehnička fakulteta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2806.748,
+        "end": 2819.919,
+        "text": "Sem pa neizmerno ponosna, ko spremljam majhne korake napredka in ugotovim, da smo naredili pomemben korak naprej na pedagoškem, raziskovalnem in strokovnem področju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2821.12,
+        "end": 2833.61,
+        "text": "Naj se zahvalim vsem raziskovalkam in raziskovalcem, profesoricam in profesorjem, strokovnim sodelovcem in sodelovkam ter vsem drugim za podporo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2836.567,
+        "end": 2848.995,
+        "text": "Jesenkove nagrade so najprestižnejše nagrade biotehničke fakultete, ki se imenujejo po profesorju Franu Jesenku, prvem profesorju botanike na Univerzi v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2849.835,
+        "end": 2860.562,
+        "text": "Danes ponosno podeljujemo Jesenkove nagrade posameznikom, ki stopajo iz poprečja na področju biotehnike in pa"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2861.089,
+        "end": 2882.885,
+        "text": "priznanja Biotehniške fakultete za dostežke na različnih področjih delovanja našim sodelavcem in pa z unanjim partnerjem ter priznanja najboljšim študentom Biotehniške fakultete na 27 različnih programih prve in druge stopnje, na kar smo še posebej ponosni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2884.447,
+        "end": 2887.389,
+        "text": "Zato je pomembno, da nagradimo najboljše"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2888.052,
+        "end": 2899.879,
+        "text": "in da verjamemo v mlade in sledimo našemu temeljnemu poslanstvu, to je vrhunsko izobraževanje, odlično raziskovanje in družbena relevanca."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2901.18,
+        "end": 2907.204,
+        "text": "Z razvojem premikamo meje, a tudi vplivamo na življenje in naravne vere."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2908.144,
+        "end": 2912.587,
+        "text": "Kako ohraniti harmonično sožitje med naravom in človekom,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2913.078,
+        "end": 2926.083,
+        "text": "je vsekakor eden večjih družbenih izzivov tudi za biotehničko fakulteto, ki mu bomo kos le dobro oboroženi znanjem in družbeno odgovornostjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2927.043,
+        "end": 2938.867,
+        "text": "Želja po znanju in njegovem posredovanju sta tisto, kar nas druži in kar nam bodo posredovali tudi današnji nagrajence."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2939.907,
+        "end": 2941.928,
+        "text": "Čestitke današnjim nagrajencem"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2942.39,
+        "end": 2944.173,
+        "text": "In hvala vsem, ker ste prišli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2944.894,
+        "end": 2945.255,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 2947.942,
+        "end": 2956.566,
+        "text": "Par besed o postopkih, o taksonomiji teh priznanj in nagrad, ki jih je kar veliko, tako da se morda znajdemo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 2958.006,
+        "end": 2973.213,
+        "text": "In o tem, da je pravzaprav v ozadju strok selekcijski postopek, dolgotrajno delo komisije in razmislek, tako da vidimo, da so te nagrade res zaslužene in dobljene v ostri konkurenciji."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 2973.473,
+        "end": 2987.518,
+        "text": "Biotehniška fakulteta podeluje Jesenkovo nagrado, to je zdaj ta osredni del posamezniku za življenjsko delo na področju pedagoškega raziskovalnega ali strokovnega dela in sodelovanja pri upravljanju fakultete."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 2988.119,
+        "end": 2997.402,
+        "text": "Potem sta pa še nagrada najboljšemu doktorantu oziroma diplomantu doktorskega študija in pa najboljšemu doktorantu"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 2998.229,
+        "end": 3014.977,
+        "text": "diplomanto, najboljši diplomantki, do diplomskega študija obeh stopen skupaj, sicer na koncu, to se pravi ob zaključku druge stopne, ampak štejejo dosežki celotnega študija obeh stopen."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3015.737,
+        "end": 3024.822,
+        "text": "Za podelitev Jesenkove nagrade posamezniku za življenjsko delo je bilo predlaganih šest kandidatov med vsemi zaposlenimi na fakulteti."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3025.752,
+        "end": 3033.584,
+        "text": "za najboljšega diplomanta doktorskega študija tretje stopne in za najboljšega"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3035.422,
+        "end": 3055.78,
+        "text": "diplomanta podiplomskega študija, pardon, do diplomskega študija, pa en kandidat, kar seveda izhaja iz tega, da so tukaj kriteriji nekoliko bolj jasni, numerični, bazirajo na oceni in na objavah."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3056.667,
+        "end": 3068.591,
+        "text": "Senat fakultete se je na svoji, se je 28. februarja odločil, da se podeli Jesenkova nagrada po enemu kandidatu iz vseh teh kategorij."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3069.371,
+        "end": 3073.672,
+        "text": "Dva bi prišla v poštev, morda takrat, če sta pa v prečni oceni identični."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3074.312,
+        "end": 3076.933,
+        "text": "Potem so pa še priznanja biotehniške fakultete,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3080.596,
+        "end": 3106.439,
+        "text": "ki jih prejemajo posamezniki ter tudi skupine zaposlene na fakulteti za zgledno pedagoško delo, pomembna objavljena znanstvena in strokovna dela, tehnične rešitve, tudi izume, iznajedbe, odkritja in patente, selekcija nove sorte in podobno, ter tudi druge vidne dosežke na področju strokovnega dela in tudi v proizvodnim"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3107.596,
+        "end": 3119.482,
+        "text": "vse, s čimer se fakulteta ukvarja in kar krepi njen ugled in pomembno izboljšuje materialne možnosti delovanja."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3120.563,
+        "end": 3132.789,
+        "text": "Prav tako so lahko prejemniki teh nagrad posamezniki izven fakultete, ki pa"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3134.292,
+        "end": 3142.934,
+        "text": "in tudi organizacije, ki pa delujejo, sodelujejo in delujejo na področjih delovanja, se pravi na področjih biotehnike."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3143.534,
+        "end": 3157.418,
+        "text": "In na koncu še najboljši študenti, zdaj pa študentke in študenti po sameznih študijskih področjih in pa po prvi in drugi stopni ločeno."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3157.658,
+        "end": 3161.959,
+        "text": "Če pogledamo, koliko je bilo kandidatov in koliko je potem izbranih nagrajenj,"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3162.119,
+        "end": 3175.579,
+        "text": "in nagrajencov za podelitev priznanja fakultete po samezniku oziroma skupini same fakultete je bilo letos predlaganih 14 kandidatov oziroma skupin kandidatov"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3176.834,
+        "end": 3184.818,
+        "text": "za zunanje nagrajence oziroma priznanja po dva."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3186.599,
+        "end": 3195.304,
+        "text": "V letu 21 je študijske programe prve stopne in sicer tako visokošolske kot"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3196.645,
+        "end": 3214.554,
+        "text": "strokovne programe zaključilo 375 diplomantov, ki so potencialne kandidatke in kandidati na prvi stopni in 238 na drugi stopni v vseh programih Biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3215.255,
+        "end": 3225.02,
+        "text": "Danes sprejema priznanje Biotehniške fakultete 29 študentov od tega velikega števila diplomantki in diplomantov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3225.907,
+        "end": 3232.533,
+        "text": "ki so dosegli najviše poprečne ocene izpitev in vaj v času svojega študija, ko je potekal ta program."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3235.424,
+        "end": 3253.056,
+        "text": "Prav tako pa je Kadrovska komisija Senata na svoji seji 21. februarja 2022 se odločila, da se priznanja podelijo petim posameznikom oziroma skupinam z fakultete in dvema izven fakultete."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3254.136,
+        "end": 3255.697,
+        "text": "To je na kratko postopku."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3259.64,
+        "end": 3260.841,
+        "text": "Spoštovana gospoda dekanja,"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3261.952,
+        "end": 3267.938,
+        "text": "spoštovane nagrajenke, spoštovani nagrajenci, cenjeni nagrajenec, dragi gostje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3269.099,
+        "end": 3273.002,
+        "text": "Prof. dr. Juri Dijaci je redni profesor za področje gojenja gozdov."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3273.815,
+        "end": 3284.161,
+        "text": "Diplomiral in magistriral je na oddelku za gozdarstvo in obnuljive gozdne vere biotehničke fakultete v Ljubljani ter doktoriral na univerzi ETH v Cirihu, v Švici."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3284.921,
+        "end": 3289.824,
+        "text": "Profesor dejaciji je mednarodno priznan raziskovalec z vrhunskimi znanstvenimi objavami."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3290.585,
+        "end": 3293.867,
+        "text": "Uvršča se med najuspešnejše raziskovalce univerze v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3293.887,
+        "end": 3303.092,
+        "text": "V okviru analize baze Skopus iz začetka leta 2022 je bil uvrščen med dva odstotka najboljših raziskovalcev na svojem področju v svetu."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3304.24,
+        "end": 3312.187,
+        "text": "Vodil je vrsto domačih in mednarodnih raziskovalnih projektov in je področni urednik uglednih mednarodnih znanstvenih revij."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3313.15,
+        "end": 3316.993,
+        "text": "Profesor Dijaci se je izjemno izkazal s predanim učiteljskim delom."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3317.653,
+        "end": 3323.097,
+        "text": "Predava vrsto predmetov na domačji univerzi in je bil gostojoči predavatelj na več evropskih univerzah."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3323.878,
+        "end": 3331.623,
+        "text": "Bil je mentor pri 85. diplomskih in 16. magisterskih nalogah ter 10. doktorskih dizertacijah."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3332.244,
+        "end": 3337.848,
+        "text": "Več njegovih doktorandov je iz Tuine, več diplomskih del je prejelo preširno monogrado za študente."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3338.986,
+        "end": 3342.648,
+        "text": "Juridijaci je v dosedani karjeri opravljal vrsto vodstvenih funkcij."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3343.288,
+        "end": 3356.214,
+        "text": "Je predstojnik Katedre za gojenje gozdov in predsednik Pahrnikova ustanove, bil je prodekan Oddelka za gozdarstvo in obnovljive gozdne vere, bil je vodja programske skupine in predsednik Prosilve Slovenija."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3356.774,
+        "end": 3365.398,
+        "text": "Vključen je v delo Evropske unije in Evropskega parlamenta pri oblikovanju gozdarskih politik in razpravah o Evropski zeleni prihodnosti."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3366.408,
+        "end": 3387.962,
+        "text": "Pri letošnjem prejemniku jesenkove nagrade želim zlasti izpostaviti njegovo celostno in uravnoteženo delovanje, ki presega usmerjenost v doseganje odličnosti na samo enem ali dveh izbranih področjih, nasprotno zgoraj nešteti dosežki kažajo, da se je izkazal na vseh področjih, za katera se nagrada podeljuje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3388.363,
+        "end": 3388.723,
+        "text": "Čestitam."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3394.006,
+        "end": 3394.667,
+        "text": "Spoštovane"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3395.213,
+        "end": 3406.217,
+        "text": "Dame in gospodje, kolegice in kolegi, vsem nagrajencem in prejemnikom priznan, nam je oveliko čast in veselje sprejeti priznanja in nagrade."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3407.098,
+        "end": 3410.499,
+        "text": "Današnji dan bomo ohradili v zelo lepem spominu."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3411.219,
+        "end": 3420.303,
+        "text": "Iskreno se zahvaljujemo predlagateljem, članom Komisiji za izbor za obsežno delo in Biotehnički fakulteti za organizacijo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3421.545,
+        "end": 3430.01,
+        "text": "Imeli smo privilegij, da so nas usmerjali odlični, široko razgledani mentorji, ki se jim iz srca zahvaljujemo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3430.97,
+        "end": 3435.373,
+        "text": "Prizadevali si bomo, da bomo tudi sami dobri mentorji mlajši."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3436.434,
+        "end": 3444.498,
+        "text": "Za dosežki posameznikov so vedno ekipe sodelavcev ter predvsem njihovi najbližji in družine."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3445.019,
+        "end": 3446.82,
+        "text": "Vsem iskrena hvala."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3447.813,
+        "end": 3455.999,
+        "text": "Priznanja nas obvezujejo, da nadaljujemo začeto delo, ter da znanje delimo sodelavci in ga prenesemo v družbo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3456.841,
+        "end": 3461.742,
+        "text": "Nagrada pomeni tudi veliko spodbudo za naše delo v prihodnosti."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3462.362,
+        "end": 3479.367,
+        "text": "Zato mi dovolite, da osvetlim nekaj izzivo v povezavi z gozdovi, kjer lahko biotehniška fakulteta in slovensko gozdarstvo prispevata k izboljšanju razmer, ne nazadnje tudi skozi gozdo in okoljsko politiko."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3480.787,
+        "end": 3487.371,
+        "text": "V svetovnem rilu še vedno izgubljamo za dve in pol površini Slovenije gozdov letno."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3488.032,
+        "end": 3493.536,
+        "text": "Večinoma gre za pragozdove, ki jih je še približno tretjina vseh gozdov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3494.455,
+        "end": 3500.08,
+        "text": "Dosedanje izkušnje kažejo, da bo ta trend zelo težko ustaviti."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3500.72,
+        "end": 3513.832,
+        "text": "Spremembe se odvijajo v dveh smereh, ali krčitve za druge rabe tal, ali pa goloseki in nasadi hitro raztočih tujerodnih monokultur, ki so celo certificirani."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3515.009,
+        "end": 3531.074,
+        "text": "Alternativa, ki bi jo države v razvoju lažje sprejele, je postopna sprememba pragozdov v gospodarske gozdove, sonaravne, kot se je to odvilo pred 200 leti na dinarskem področju današnje Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3531.754,
+        "end": 3539.356,
+        "text": "Torej, zaščita dela pragozdov in upeljava sonaravnega gospodarenja na mesto industrijskih nasadov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3541.354,
+        "end": 3551.297,
+        "text": "Druga možnost izboljšanja je pogozdovanje degradiranih površin, nastalih zaradi prekomernega izsekovanja, požiganja in neurejene paše."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3552.058,
+        "end": 3568.203,
+        "text": "Pogozdovanje ni pomembno samo zaradi ugodnih učinkov gozda v povezavi z mikroklimo, s tlemi, skladiščenjem oblika in širjenjem surovinske osnove, ampak tudi zaradi socialnih učinkov,"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3568.823,
+        "end": 3572.845,
+        "text": "naprimer novih delovnih mest, enakosti spolov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3573.585,
+        "end": 3580.008,
+        "text": "O tem je veliko pisala nobelovana grejenka Vangari Mataji iz podsaharske Afrike."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3580.849,
+        "end": 3589.153,
+        "text": "Žal pa so v svetu interesne skupine, ki se tem procesom upirajo zaradi strahu pred izgubo vpliva."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3589.985,
+        "end": 3597.133,
+        "text": "Na področju pogozdovanj imamo v Sloveniji veliko izkušenj, naprimer pri ozelenitvi krasa."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3597.794,
+        "end": 3604.962,
+        "text": "Slovenski gozdarski strokovnjaki so svetovalno vključeni od jugovzhodne Evrope do Azije."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3605.645,
+        "end": 3621.715,
+        "text": "Pred leti je tudi Odelek za gozdarstvo vodil projekt pogozdovanja v Albaniji, ki je nam najbližja država s povsem uničenimi gozdovi in vsemi neugodnimi posledicami, od strašne erozije do pomankanja lesa."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3623.448,
+        "end": 3631.195,
+        "text": "Na ravni Evrope delež gozdov narašča, gozdarstvo in lesna industrija sta velika igravca na svetovnih trgih."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3631.936,
+        "end": 3643.286,
+        "text": "Vendar je zdravstveno stanje gozdov zaskrbljujoče, v primerjavi z drugimi celinami je malo strogo zaborovanih gozdov, so na ravnih gozdov je manj kot tretjina."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3644.272,
+        "end": 3658.255,
+        "text": "Evropska unija je v strategiji za gozdove 2030 prvič izredno izpostavila sonaravnejše gospodarjenje z gozdovi s podarkom na ohranjanju biotske pestrosti in prilagajanju na podnebne spremembe."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3659.095,
+        "end": 3670.557,
+        "text": "Vendar je to sprožilo precej napetosti med različnimi interesnimi skupinami, še posebej med zagovorniki industrijskega gozdarstva in ohranjanja narave."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3671.305,
+        "end": 3677.05,
+        "text": "V splošnem politika Evropske unije do gozdov ni dovolj medsektorsko usklajena."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3677.811,
+        "end": 3689.622,
+        "text": "Zmanjševanje negovalnih sečen, naprimer zaradi skladiščenja oglika, ovira prilagajanje gozdov na podnebne spremembe, zakar je potrebno gozdove aktivno usmerjati."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3690.403,
+        "end": 3696.809,
+        "text": "Nenazadnje tudi Evropski zeleni dogovor predvideva povečano rabo obnovljivih naravnih virov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3698.187,
+        "end": 3705.71,
+        "text": "Rešitve naravni Evrope so bolj v sklajenih politikah in optimiranju učinkov in rab gozdov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3706.55,
+        "end": 3722.857,
+        "text": "Dobr zgled na primeru Slovenije so Natura 2000 načrti za goznata območja, kjer se v participativnem procesu srečujejo deležniki in izoblikujejo za vse obvezujoč kompromis."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3723.823,
+        "end": 3729.348,
+        "text": "Podoben še bolj dodelan primer so gozdno razvojni načrti v Švici."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3730.869,
+        "end": 3745.402,
+        "text": "Pedagoško, raziskovalno in razvojno delo na biotehniški fakulteti lahko značilno prispeva k večji vsklajenosti sektorskih politik in nasploh v horeznečevanju Evropskega zelenega dogovora."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3746.624,
+        "end": 3747.424,
+        "text": "S tem bo Evropa"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3748.458,
+        "end": 3757.904,
+        "text": "kjer je v delu von Karlovica trajnost naraba naravnih virov prvič omenjena, postala tudi resnični zgled drugim celinam."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3759.205,
+        "end": 3770.591,
+        "text": "Verjamem, da bo okoljska kriza prispevala k boljšem razumevanju in upoštevanju narave in s tem dolgoročno tudi k boljši kakovosti življenja."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3772.393,
+        "end": 3772.953,
+        "text": "Še enkrat,"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3773.5,
+        "end": 3780.186,
+        "text": "Prav lepa hvala za vloženi trud in organizacijo tega prijetnega dogodka."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3780.546,
+        "end": 3781.146,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3784.249,
+        "end": 3796.099,
+        "text": "Spoštovani nagrajenci, spoštovani zbor, dovolite, da na koncu v imenu fakultete in v svojem osebno imenu vam še enkrat čestitam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3796.359,
+        "end": 3799.382,
+        "text": "Ste so ustvarjavci biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3800.197,
+        "end": 3805.322,
+        "text": "Nagrada pa je tudi vaša za obljuba, da boste zvesti svojemu poslanstvu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3806.183,
+        "end": 3808.866,
+        "text": "Hvala vam za vaše delo in rezultate."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3809.186,
+        "end": 3810.388,
+        "text": "Ponosni smo na vas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3811.385,
+        "end": 3828.32,
+        "text": "Knjiga, ki ste jo dobili, Atlas ptic Slovenije, je temeljno strokovno ornitološko delo in čudovit dokument narave, ki prinaša pomembeno pes pestrosti, slovenske narave in krati svarilo, da moramo z njo ravnati preudarno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3829.04,
+        "end": 3835.586,
+        "text": "Ptice veljajo za simbol svobode in večnosti, zaradi sposobnosti, da se dvegnejo v nebo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3836.579,
+        "end": 3849.645,
+        "text": "Mi lahko ohranimo to svobodo in trajnost, ker smo sposobni razumeti in dometi, da smo tudi sami leden narave."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3849.665,
+        "end": 3852.766,
+        "text": "Hvala tudi vsem, ki ste nas svojo prisotnostjo počastili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3855.752,
+        "end": 3869.221,
+        "text": "Pre sodelovanja z ustanovami znotraj raziskovalne in družbene skupnosti v državi in svetu biotehnička fakulteta ne more dobro opravljati svojega poslanstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3869.421,
+        "end": 3874.125,
+        "text": "Hvala vsem sodelovcem in sodelovkam za pomoč pri izvedbi prireditve."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3875.361,
+        "end": 3891.831,
+        "text": "Posebej pa hvala glavnemu govorcu, doktorju Pavlu Gantarju, ki je svojo izjemno znanstveno in intelektualno globino obogatil današnji dogodek in nam omogočil pogled na biotehničko fakulteto tudi od zunaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3892.652,
+        "end": 3899.996,
+        "text": "Hvala moderatorju Roku Koželu, ki se je trudil, da naredi ta dogodek poseben."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3901.897,
+        "end": 3904.299,
+        "text": "Glavnemu nagranjencu, profesorju"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3904.889,
+        "end": 3914.587,
+        "text": "dr. Juriju Djanciju, pa še enkrat hvala za vse dosežke preteklih desetletji, ki ste jih naredili za fakulteto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3915.487,
+        "end": 3917.988,
+        "text": "Zaploskajmo še enkrat nagrajence."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3918.889,
+        "end": 3927.854,
+        "text": "Sedaj bi pa vse nagrajence povabila, da se vpišete v knjigo nagrajencev in ne pozabite na fotografiranje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3928.514,
+        "end": 3934.818,
+        "text": "Potem pa vas vse skupaj vabim v sosednji prostor, da nazdravimo vašim nagradam."
+      }
+    ],
+    "runtime_sec": 1786.327898979187
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.07405138054580156,
+      "miss": 0.07391701773126291,
+      "fa": 0.00013436281453864596,
+      "confusion": 0.0,
+      "total_duration": 3892.4459999999194
+    },
+    "der_collar0.25": {
+      "der": 0.05524432719875374,
+      "miss": 0.05510102759243045,
+      "fa": 0.00014329960632329243,
+      "confusion": 0.0,
+      "total_duration": 3649.695999999919
+    },
+    "wer": {
+      "wer": 0.21643796859527514,
+      "ref_words": 7069,
+      "hyp_words": 6480
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.503,
+        "end": 3.659,
+        "text": "A, spoštovanje novinarke, spo štovani novinari?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 4.283,
+        "end": 8.35,
+        "text": "In drugi udeleženci novinarske konference, ki sta danes z nami prek spleta?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 9.025,
+        "end": 13.767,
+        "text": "Va posebno čast nam je, da smo danes po dveh letih ponovno na univerzi v Ljubljani?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 14.729,
+        "end": 21.428,
+        "text": "Ker bo v dvanajstih potekala tudi svečana podelitev jesenkovnih nagrad in priznani biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 23.2,
+        "end": 27.352,
+        "text": "O, ponovno smo z vami, da vam predstavimo delovanje fakultete v preteklem letu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 28.027,
+        "end": 32.178,
+        "text": "A visoko obletnico petinsemdeset let delovanja fakultete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 33.207,
+        "end": 37.713,
+        "text": "In pa se vede dosežke, na kratko tudi dosežki preteklih petih let."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 38.489,
+        "end": 43.417,
+        "text": "A to nam bo predstavila dekanje fakultete, profesorica doktorica Nataša Poklar Urlih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 44.193,
+        "end": 49.492,
+        "text": "Znam je danes tudi jesenkov nagrajenec za življenjsko delo, profesor doktor Jurij Diaci."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 50.572,
+        "end": 52.732,
+        "text": "Ki bo predstavil svoje delo in dosežke?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 53.423,
+        "end": 54.824,
+        "text": "Ki so vse prej kot skromni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 56.022,
+        "end": 68.375,
+        "text": "Z očmi sodelavcev in gozdarjev nam bo njegov vpliv na naprede gozdarske znanosti, vplivi na pedagoški proces in stroko predstavil profesor Doktor Robert Brus, protekan za področje gozdaljstva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 69.843,
+        "end": 77.403,
+        "text": "K predstavitvi smo povabili tudi jesenkovega nagrajence za najboljšega diplomanta dokutorskega študija, doktorirata Žigona."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 78.247,
+        "end": 88.152,
+        "text": "Ki navdušuje tako s svojimi raziskovalnimi dosežki kot tudi z usmerjenostjo v prakso, v času doktorata sta z mentornim razvila posebno napravo, o kateri pa nam bo sam povedal več."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 89.755,
+        "end": 95.408,
+        "text": "Posebno pozornost pa v leto dva tisoč, dvanddvajst namenjamo tudi oddelku z akrensko arhitekturo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 96.083,
+        "end": 103.441,
+        "text": "Kje se je v petdesetih letih delovanja s svojim pedakoškim, raziskovalnim in strokovnim delom uveljavil tako v Sloveniji kot v svetu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 104.74,
+        "end": 114.258,
+        "text": "Več v visokem jubileju in oddelku za kreinsko arhitekturo nam bo povedala profesorica doktorica Ana Kučan, prodekanje za področje kreinski arhitakture."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 115.962,
+        "end": 122.257,
+        "text": "A četrtoleto vam predstavljamo tudi bo festival, ki je namenjen predstavic znanstvenih dosežkov strog fakultete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 122.915,
+        "end": 130.12,
+        "text": "Predstavil ga bo profesor doktor Peter Trontl, prodekan za znanstveno raziskovalno in mednarodno dejavnost fakultete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 131.082,
+        "end": 148.092,
+        "text": "Na bofestivalu vsako leto izpostavimo prispevek enega oddelka, v leto dva tisoč dvandvajset smo izbrali prispeves kot delka za krenjsko arhitekturo, ki nam ga bo predstavila profesorica doktorica Mojca Golubić podja programske skupine urejanje krajine kot bivalnega okolja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 149.29,
+        "end": 160.208,
+        "text": "Napadovolj uvodnih besed, v besedi bi najprej povabila današnjo gostiteljico, profesorico, doktorico Natašo Poklar Urlih, tekanju Biotehniške fakultete Univerze v Ljubljani prosim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 163.347,
+        "end": 164.63,
+        "text": "Mala za besedo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.153,
+        "end": 170.35,
+        "text": "Kako te bi lo povedano, biotehniška fakulteta praznuje petinset deset let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 170.857,
+        "end": 175.97,
+        "text": "Ustanovljena je bila enajstega oktobra, tisoč dvesto sedeminštiridesetega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 176.729,
+        "end": 181.235,
+        "text": "Prav to na univerzi v Zbornični dvorani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 181.792,
+        "end": 187.411,
+        "text": "Slovesno jo je v Stoliču tedan direktor akademik profesor Doktor Anton Melik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 188.457,
+        "end": 224.435,
+        "text": "Fakulteta je rasla, leta tisoč devetsto devetinštiridesetega se je poimenovala v preimenovala V agronomsko in gozdarsko fakulteto, ime biotehniške fakultete je dobila leta Tisoč Devetsto enajšestdeset, takrat je poleg oddelka za biologijo, agronomijo, gozdarstvo in veterino so nastali še udenek za lesarstvo, živilsko tehnologijo in živinorejo. Leta tisoč devetsto šestindevetdeset sej je formiral še Udenek z krajinsko arhitekturo, ki v letu"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 225.498,
+        "end": 235.538,
+        "text": "V letošnjem letu praznuje petdeset let študij akrajinske arhitekture in nazadnje leta dva tisoč enajdvajsče udelek za mikrobiologijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 236.281,
+        "end": 246.524,
+        "text": "Leta tisoč devetsto devetdeset se je odcepil oddelek za veterino iz Biotehniške fakultete, informirala se je fakulteta za veterin."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 247.351,
+        "end": 258.488,
+        "text": "Letošnje jubileno leto bo posebej posvečeno in zaznamovano s številnimi dogodki, ki so se začeli s festivalom Zvončko ob Tanjičnem vrtu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 259.197,
+        "end": 275.465,
+        "text": "Včeraj nadaljevali z Bufa festivalom in danes podelitvijo jesenkovih nagrad in priznan biotehniške fakultete, zaključenega bomo pa Slavnostno akademijo v Cankarjevem domu oktobra letošnjega leta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 276.106,
+        "end": 306.278,
+        "text": "V zadnjih letih se je fakulteta tako kot pretekla obdobja odzivana na potrebe poznanju in kadrih v družbi.Kot sem že omenila, smo v preteklem letu ustanovili oddelek za mikrobiologijo, uspešno delo oddelka je dobilo prizlani že v prvem letu delovanja, ko je raziskovalka docentka doktor Ana Dragož, kot česta raziskova v Sloveniji dobila Erc proje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 307.713,
+        "end": 327.608,
+        "text": "Skupaj s fakulteto za računalništvo in informatiko, in nekaterimi drugimi fakultetami ter nacionalnim inštitutom za biologijo pripravljamo nov interdisciplinarni magistrski študij bioinformatike ter skupaj z ekonomsko fakultento še magistrki študi bioekonomike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 329.448,
+        "end": 351.419,
+        "text": "Spremembe so potekale tudi na organizacijski ravni fakultete, sledili smo začrtanim smernicam zapisanjem v strategiji fakulteti in univerze in tako smo s prvim aprilom stopili v sistem akademskega poslovnoinformacijskega sistema, ki je prinesel spremembe obstoječih praks."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 351.942,
+        "end": 358.304,
+        "text": "Zaradi novosti so zaposleni prevzeli nove naloge in nastala sunova delovna mesta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 359.249,
+        "end": 365.847,
+        "text": "Sprejeli smo tudi številne pravilnike, med drugim tudi novna pravila biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 366.64,
+        "end": 367.872,
+        "text": "A v leto..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 368.902,
+        "end": 380.68,
+        "text": "Dva tisoč enaindvajset področje je raziskal in razvojena biotehniški fakulteti oprepilo vstopom raziskovalcev in raziskovanj k v štiri nove raziskovale programe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 381.828,
+        "end": 394.349,
+        "text": "V veljavo je stopil nov zakon o znanstvenoraziskovalni in inovacijski dejavnosti, ki bo tudi za nas prinesel določene novosti in spremembe implementacije zakona."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 394.94,
+        "end": 400.103,
+        "text": "Pričakujemo že v letošnjem letu in pa v naslednjih letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 401.2,
+        "end": 412.962,
+        "text": "V letošnjem letu smo za postojnsko jamo podpisali tudi pismo o nameri za vzpostavitev raziskovalnega laboratorija biotehniške fakultete v Postojski jami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 413.587,
+        "end": 427.289,
+        "text": "V obdobju petih let smo postopoma urejali tudi status botaničnega vrta Univerze v Ljubljani, ki je sedaj organizacijska in noto sklopu dekanata biotehnišne fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 428.352,
+        "end": 442.831,
+        "text": "Posebej doseže, ki je nastal iz potrebo promociji znanja znanstvenih in strokovnih dosežkov, ki nastajajo na fakulteti in so pomembna tako na nacionalnem ljivoju kot tudi v mednarodnem prostoru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 443.337,
+        "end": 447.522,
+        "text": "Je bufa festival, če naj je potekal že četrtič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 448.906,
+        "end": 466.135,
+        "text": "Med aktualnimi področji sedanjosti in prihodnosti sta tudi hrane in prehrana, v kvrbju tehnniške fakultete pripravljamo prostor za vzpostavitev novega raziskovalno razvojnega centra za raziskovanje na podrošju hrane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 466.642,
+        "end": 470.725,
+        "text": "Ki je tudi del načrta za okrevanje in razvoj?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 473.29,
+        "end": 489.642,
+        "text": "Prihodnje seveda se bo fakulteta srečala še z drugimi izzivi, ki izkupaj, ki smo izkupa zapisali strategijo razvoja fakultete v naslednjih petih letih, to je od dva tisoč dvaindvajst do dvadeset sedemindvaja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 490.925,
+        "end": 498.957,
+        "text": "Postavili smo si za cen, da želimo postati vodenna ustanova uregi na področju vedno o življenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 499.733,
+        "end": 505.437,
+        "text": "Biogospodanstvu urejenju prostora in dvančstva okolja ter na drugih področjih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 506.062,
+        "end": 515.917,
+        "text": "Za uresničevanje zastavljenega cilja smo navedli devet strateških aktivnosti, ki ne bodo omogočile doseganje zastavojenih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 516.575,
+        "end": 517.182,
+        "text": "Cilju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 518.448,
+        "end": 520.996,
+        "text": "A, danes tudi v okviru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 521.84,
+        "end": 523.612,
+        "text": "Petinsedemdesetletnice?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 524.557,
+        "end": 535.357,
+        "text": "Biotehniške fakultete poteka svečana podelitev jesenkovih nagrad, ki so najprestižnejšimi agradi biotehneške fakultete in si imenujejo po..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 535.964,
+        "end": 548.789,
+        "text": "Profesorju Franco Jesenku prvemu profesorju Botanike na Univerzi v Ljubljani, prejemniki letošnje nagrade so profesor doktor Jurij Djalci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 549.363,
+        "end": 558.239,
+        "text": "Za življenjsko delo na področju pedagoškega in raziskovalnega dela ter sodelovanja pri upravljanju fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 558.745,
+        "end": 560.467,
+        "text": "Doktor Jure Žigon."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 561.698,
+        "end": 573.865,
+        "text": "Najboljši diplomat doktorskega študija in pa Anja Kos najboljše diplomatka študskega programa druge stopnje."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 576.329,
+        "end": 579.873,
+        "text": "Spoštovane, spoštovanji, profesor doktor Jurij Diaci."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 580.379,
+        "end": 586.606,
+        "text": "Je diplomiral in magistriral navdel ko za gozdarstvo in obnovljive gozdne vere biotehniške fakultete v Ljubljani?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 587.129,
+        "end": 601.962,
+        "text": "Ter doktoriral na univerzi Etihad v Sirihu v Šviciji.Na Biotehniški fakulteti je zaposlen od visokošolski učitelj od leta tisoč devetsto šestindevetdeset, od letta dva tisoć pet je redni profesor za področje gojenje gozdov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 603.262,
+        "end": 611.783,
+        "text": "Profesor diacije vrhunski, mednarodno priznan in odmeven raziskovalec z odličnimi znanstvenimi objavami in obsežno bibliografijo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 612.425,
+        "end": 616.103,
+        "text": "Uvršča sem med najuspešnejše raziskovalce v Univerze v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 616.728,
+        "end": 626.245,
+        "text": "V okviru analize bazeskopus iz začetka leta dva tisoč dvaindvajset je bil uvrščen med dva odstotka najboljših raziskovalcem na svetu, na svojem področju."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 627.14,
+        "end": 645.584,
+        "text": "Vodil je vrsto domačih in mednarodnih raziskovalnih projektov in je področni urednik ali član uredniških odborov uglednih mednaroduznanstvenih revij, uspešno razvija znanstveno raziskovanjo delo na podrošju gozdarstva in krepi ugled Univerze v Ljubljani tako domaćem kot v mednarodenem okolju."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 646.377,
+        "end": 650.275,
+        "text": "Profesor diacij se je izjemno izkazal s predanim učiteljskim delom."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 651.068,
+        "end": 656.502,
+        "text": "Predava vrsto predmetov na domači univerzi ni bil gostujoči predavatelj na več evropskih univerzah."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 657.127,
+        "end": 674.812,
+        "text": "V vaju sodobne metode poučevanja in redno prejema odlične študentske ocene, bil je mentor pri petinosemdesetih diplomskih in šestnajstih magistrskih nalogah ter desetih doktorskih disertacijah. Več njegovih doktorandov je iz tujine, več diplomskih del je prejelo Prešernovo nagrado."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 675.723,
+        "end": 685.493,
+        "text": "Juri Diaci je v sedanji karieri opravljal vrsto vodstvenih funkcij, je predstojnik katedre Zagojenje gozdov in predsednik Pahrnikove ustanove."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 686.067,
+        "end": 693.712,
+        "text": "Bil je prodekan oddelka za gozdarstvo in obnovljive gozne vere, dolgoletni vodja programske skupine in predsednik prosilve Slovenija."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 694.488,
+        "end": 703.634,
+        "text": "Intenzivno je vključen v delo Evropske unije in evropskega parlamenta pri oblikovanju gozdarskih politik in razpravah o evropskem zelenem sporazumu."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 705.018,
+        "end": 725.74,
+        "text": "Pri letošnjem prijemniku jesenkove nagrade želim zlasti izpostaviti njegovo celostno in uravnoteženo delovanje, ki presega usmerjenost v doseganju odličnosti na samo enem ali nekaj izbranih področij.Nasprotno, zgolj našteti dosežki kažejo, da se je izkazal na vseh področjih, za katera se jesenkova nagrada podeljuje."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 726.263,
+        "end": 735.292,
+        "text": "S prejemanjem različnih pogledov deluje povezovalno, kar je pri tako velikih ustanovah kot je biotehniška fakulteta še zlasti pomembno.Hvala!"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 737.789,
+        "end": 738.717,
+        "text": "Uzpoštovani!"
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 739.763,
+        "end": 751.593,
+        "text": "Jesenkovo nagrado za življenjsko delo razume kot priznanje slovenski gozdarski stroki, še posebej kateri zagujeni gozdov in oddelku za gozdarstvo naše fakultete."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 752.183,
+        "end": 760.25,
+        "text": "Pedogoško in strokovno delujemo na področju gozdne, ekologije in sonaravnega obnavljanja ter nege gozdnih ekosistemov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 760.79,
+        "end": 772.467,
+        "text": "Tudi raziskave o programski skupini so bile v podporo in so še znanstveno utemeljenem sonaravnem gozdarstvu, in to je posebnost alpskih držav in še posebej Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 773.041,
+        "end": 783.993,
+        "text": "Z raziskavami želimo prispevati k zaustavljanju degradacije gozdo v svetovnem grillu, ohranjanju biotske pestrosti ter prilagajanju gozdov na podnebne spremembe."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 784.735,
+        "end": 804.125,
+        "text": "Med prvimi v srednji Evropi smo začeli s sistematičnimi raziskavami zgodovinskih vzorcev naravnih motn v pragozovih, poznavanje teh je pomembno po eni strani zaradi posnemanja teh procesov pri sonaravnem gospodarjenju, po drugi stranji pa zaradi naraščajoče intenzivnosti naravnik ujem."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 804.783,
+        "end": 814.064,
+        "text": "V evropskih pragoznovih smo izpeljali tudi odmevno študijo o strukturi odmrlih dreves, ki so pomemben habitat za številne organizme."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 814.705,
+        "end": 826.332,
+        "text": "Zaradi vse pogostejših naravnih ujim se veliko ukvarjamo s proučevanjem načinov okrevanja gozdov pri zadetih poujmak za čim hitrejšo vzpostavitev vseh funkcij gozda."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 827.142,
+        "end": 841.334,
+        "text": "Razvili smo nove načine, proučevanja, pomlajevanja in sprememljivosti mikroklime v sestojnih vrzelih.Te zakonitosti je pomembno poznati za uspešno naravno obnovo in zaradi podnebnih sprememb."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 841.857,
+        "end": 849.198,
+        "text": "Gost namreč blaži podnebne skrajnosti in prispeva k ohranjanju številnih ogroženih organizmov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 849.873,
+        "end": 857.011,
+        "text": "Prvi poskus v naravi za preučevanje gozdne mikroklime smo zastavili že pred tridesetimi leti v nazarskem območju."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 857.534,
+        "end": 861.905,
+        "text": "V zadnjem času pa spremljam obsežen poskus v Visokogorju."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 863.103,
+        "end": 877.025,
+        "text": "Ker proučujemo tudi z vrsti umetne obnove in še posebej spodbujeno migracijo drevesnih vrst, podebne spremembe so namreč hitrejše od sposobnosti spontanega širjenja drevesih vrste."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 877.919,
+        "end": 882.425,
+        "text": "Poleg raziskavstvo za razvoj stroke pomembni tudi prenosi znanja."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 883.184,
+        "end": 895.891,
+        "text": "Profesor Mlinšek iz oddelka za gozdarstvo je bil med pobudniki ustanovitve evropskega združenja prosilova, ki je bilo zato prav za ta namen ustanovljeno v Sloveniji pred triintridesetimi leti."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 896.566,
+        "end": 910.758,
+        "text": "Odelek za gozdarstvo je ves čas tesno vpet v vodenje prosilve, ki danes šteje že šest tisoč članov iz petindvajset evropskih držav. Delež so naravnih gozdov, v Evropi pa se je povečal na tretjino."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 911.416,
+        "end": 918.014,
+        "text": "V zadnjem desetletju je veliko zanimanja tudi iz drugih celin, kjer je sonaravno gozdarstvo še v povojih."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 918.976,
+        "end": 952.118,
+        "text": "Odelek za gozdarstvo je tesno v petu vodenje pahenike ustanove, ki je pomemben steber mrežena znanja o sonaravnem gozdarnstvu.Ustanovila jo je vida Ribniker prav te sobi, hčerka Pionirja Sonaravnosti Franja pahelnika, ustanova je v dvanajstih letih svojega obstoja podelila odsemdesetletnih štipendij in sofinancirala sto petinpetdeset projektov, tesno sodeluje z Zavodom za kozdove Slovenije z občino Radlje pokrajinski muzejem."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 952.625,
+        "end": 964.049,
+        "text": "Na Koroškem in rezultati sodelovanja sta dve stalni razstavi, v načrtu je odprtje centra za sonaravno in trajnostno gospodarjenje z gozdovi."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 964.623,
+        "end": 972.605,
+        "text": "V lanskem letu je Pahnikove gozdove obiskala visoka delegacija direktoratov za okolje in kmetijstvo Evropske komisije."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 974.14,
+        "end": 984.299,
+        "text": "Gozdobi so zapleteni ekosistemi, drevesa so dogoživa, zato je v gozdarstvu interdisciplinarno in medgeneracijsko sodelovanje zelo pomembno."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 984.805,
+        "end": 994.306,
+        "text": "Odmevnost našega dela temelji na tradiciji sonaravnega gozdarstva v Sloveniji in premišljeno zastavljenih raziskavah naših predhodnikov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 995.032,
+        "end": 1016.328,
+        "text": "Povezovanje pedagoškega, raziskovalnega dela in prakse ter kakovostno mentorstvo mladim je tudi danes vodilno načelo oddelka za gozdarstvo.Zanimanja za naše delo je vse več, saj evropska unija o strategiji zagostova je do leta dvajset trideset prvič izpostavila spodbujanje sonarovnega gozdarstva."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1017.037,
+        "end": 1028.68,
+        "text": "To je posredno priznanje vsem deležnikom na področju gozdarstva in gozdov v Sloveniji, to je obveznost in hkrati razvojna priložnost Slovenije, pa lepa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1031.093,
+        "end": 1074.698,
+        "text": "Ja, hvala za besedo.Torej na kratko nekaj v moji doktorski dezertaciji oziroma raziskovalne delo, ki je bila opravljena v tej funkciji.Moj mentor se pravi, docenj Doktor Sebastjan Dale, torej prihaja iz Nemčije in s tem ko sem ga sprejel oziroma on mene bolj kot mentorja pri doktorskih disertacij, so bili nekako podalni neki temelji za novo raziskovalno področje, ki se bo razvilo na podrošju obdelave površin lesa in lesnih kompozitov, z namenom da izboljšoma omočljivostih materialov njihovo lepljenje povrašinsko obdelavo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1075.458,
+        "end": 1083.237,
+        "text": "In v kirotektni zultacije smo nekako razvili nikonovonapravov nov princip delovanja oziroma obdelave."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1084.064,
+        "end": 1143.802,
+        "text": "Ki do takrat še nekako ni bil niti svetovno, poznan oziroma uveljavljen.Tekom raziskovalnega dela smo preučili ogromno število lastnostih površilnih vsakih se spremenijo po obdelavi s to plazmo, gre za di električno barierno razletritveno plazmo, vendar v našem primeru s tako imenovano plavajoče elektrodo, kar pomeni, da zadeva nekako drugače deluje kot dosedaj znane naprave.Ugotovili smo recimo, da se pravivi naša naprava ima možnost reaktivacije površilne sate, pomeni, da recimoleski je staran ali pa ki že dolgo časa stoji na skladišču, postane z obdelavo ponovno aktiven pripravljen za lepljenje povrhšinsinskem delavost premazi in na koncu recimo dobimo boljšo adhizijo o oprijemostih premazov na samopovršino lesa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1144.342,
+        "end": 1186.681,
+        "text": "Ostaja še vrsto neraziskanih oziroma, tako potencialov, kako naprej poročevati pliv te obdelave s plazmo na površine lesa.Vrsto raziskav je bila v bistvu izvedenih tudi v tujini, takom med drugim v Nemčiji, Franciji na Švedskem, na Češkem in pa tudi pri nas recimo Ljubljani na Inštitutu Jožefa Štefana. In vsi te raziskave so bistvo nekaj podlaga tudi za nadaljnjo sodelovanje, razširjanje raziskav, kar mamo seveda tudi namen v prihodnjih letih razširiti, tako na kratko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1190.478,
+        "end": 1196.587,
+        "text": "Lepo zdrav, hvala lepa. Ja v letošnjem letu praznujemo petdesetletnico."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1197.16,
+        "end": 1210.93,
+        "text": "Od študija, krajinske arhitekture, ki ga je leta devetnajststo dvainsedemdeset najvej kot podiplomski študi ustanovil neč zaslužni zdaj že pokojni profesor Dušan Ogrin."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1212.128,
+        "end": 1222.81,
+        "text": "Kasneje ga je s pomočjo kolega profesorja Janeza Marušiča in sodelavci počasi razvil v oddelek."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1223.35,
+        "end": 1226.978,
+        "text": "Kater ga dediščino nadaljujemo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1227.772,
+        "end": 1238.116,
+        "text": "še danes, ne, bil je ustanovljen kot pravzaprav prvi res pravi in tretjestvenarni študij na Univerzi v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1238.656,
+        "end": 1251.008,
+        "text": "In združujejo tako znanstveno kot umetni škodela, to je počunaravi krajinske arhitekture, zajema prostorsko načrtovanje, urbanizem načrtovanja mestne krajine."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1251.717,
+        "end": 1252.628,
+        "text": "In..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1253.303,
+        "end": 1264.255,
+        "text": "Načrtovanje skatka prostorskih ureditev oziroma ureditelj odprtega prostora v različnih merilih.Naši študenti se..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1264.863,
+        "end": 1265.386,
+        "text": "Veselično, da je bilo še našlični in še v povedu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1266.044,
+        "end": 1283.02,
+        "text": "Na študiju absolvirajo odkonaroboslovno kot družboslovna oznanje, tehnično znanje in veščine, ki so jim potem potrebneni lahko spridem uporabljajo, da v dinamiki razvoja in varstva uspešno rešujejo prostorske."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1283.611,
+        "end": 1284.657,
+        "text": "Probleme."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1285.298,
+        "end": 1289.888,
+        "text": "Na študij je v teh letih seveda mednarodno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1290.58,
+        "end": 1311.91,
+        "text": "Pet v evropsko konferenco Šol za krajinsko arhitekturo, v Mrežo Lenotr, ki ran odkup obvezuje šole pa tudi strokovnjake iz prakse, v Mednarodno zvezo krajinski arhitetov in tudi akreditiran pri evropski zvezi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1312.45,
+        "end": 1313.902,
+        "text": "Inženirjev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1315.268,
+        "end": 1323.571,
+        "text": "Mogoč eden od naših dosežkov, toto, da je svet zaslužni profesor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1324.111,
+        "end": 1331.924,
+        "text": "Univerze, časni doktor Univerze postavl je to profesor Kalštajnic, ki je s profesorjem Dušana Mogrinov suniloval že."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1332.481,
+        "end": 1334.978,
+        "text": "Od samega začetka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1335.535,
+        "end": 1340.767,
+        "text": "Študija in je še danes izjemno aktiven pri svoji skrbi za načrtovanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1341.374,
+        "end": 1353.71,
+        "text": "Planeta, o tem raziskovalnem delu naš ga oddelka bo več povedala kolegica profesor doktor Mojca Golobić, sama bi predstavlja mogoče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1354.368,
+        "end": 1375.478,
+        "text": "Tako imenovane umetniške dosežke študentov, naši študenti so zlasti v zadnjem času izredno uspešni na natečajih, ki jih organizira na študskih natejčajh, ki ji organizira mreža na notru. Dosegli so izjemne uspehe tudi na urbanističnem natečaju v..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1376.153,
+        "end": 1377.183,
+        "text": "V Braziliji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1378.651,
+        "end": 1382.498,
+        "text": "Uključeni, uspešno smo se vkljušali tudi v..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1383.005,
+        "end": 1395.205,
+        "text": "Predstavitve delovanja na umetniškem področju na Univerzi v Ljubljani, pripravljamo razstave v Mali galeriji Banke Slovenije in se toto veljavljali v svetu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1395.728,
+        "end": 1397.618,
+        "text": "Za umetnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1398.125,
+        "end": 1402.917,
+        "text": "Zelo veliko naših alumnov, ne, naši diplomantov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1403.609,
+        "end": 1444.818,
+        "text": "In magistrantov seveda se uspešno veljavlja tudi v tujini, med njimi so recimo profesorji na fakulteti, zrvano na Bartlet šoli za arhitekturo v Londonu, na sodobni univerzi v Amsterdamu in na Hafen univerziji, prav pri Stanički univerziji v Hamburgu delujejo kot profesorji, a na Šalunji za Zbrežarje ustanovijo platformo Lendezin, ki je najbolj znana in največja spletna platforma z ukrajinsko arhitekturo.Na svetu podeljujeje tudi nagrade in veliko prireditev organizira prav v Ljubljani dostikrat v sodelovanju z nami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1445.628,
+        "end": 1454.572,
+        "text": "Med njimi so potem tu diplomantiki, so uspešni na različnih področjih, zdobje se da to priložnost mogoče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1455.095,
+        "end": 1458.908,
+        "text": "Izkoristla zato, da povem, da je izrazita škoda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1459.988,
+        "end": 1462.047,
+        "text": "Da, odšlaša država."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1462.874,
+        "end": 1475.294,
+        "text": "Nezmore ne zna, ali pa noče pravzaprav ustvarj razmer za delo, ki bi omogočale našim diplomantom, da bi zaraz lahko veljalal skrb za kraino."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1476.037,
+        "end": 1483.782,
+        "text": "In škodo sve, da bo utrpela prav kakovost slovenskih krajin, na katere smo sicer tako zelo ponosni.Hvala!"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1487.9,
+        "end": 1547.671,
+        "text": "Zdaj smo že, nekoliko se seznanili s tem, da je biotehniška fakulteta res zelo pestra po svojih dejavnostih, ravno kot je pestra, je tudi velika predstavlja približno deset procentov univerze v Ljubljani in s tem je njen raziskovalni, so raziskovanji dosežki tako številni, da prozaprav je nemogoče imet pregled nadvsem, kar v enem letu proizvedemo, kar pa pomeni, da se želimo vseeno javnosti pred stavc tistimi najboljšimi, najbolje odmevnimi, morda najbolji prodornimi, zanimivimi tudi prispevki vsakega izmed naših osmih oddelkov in temu je namenjen tkoimnovalni B festivalbe kot biotehniški, spravi vede o življenju Biotehnika, to je to kar naša fakulteta pokriva."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1548.751,
+        "end": 1549.274,
+        "text": "In..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1549.949,
+        "end": 1556.935,
+        "text": "To, ta dogoda, ki je potekal v očeri, v prostorih dekanata fakultete."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1557.796,
+        "end": 1568.242,
+        "text": "Zbornik in predstavitev pisna, predstavo od slikov na vseh dosežkov je na voljo, kot da tam so detajli o tem."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1568.967,
+        "end": 1592.002,
+        "text": "Tukaj bi pa mogoče povzel eno rdečo, nid z različne skupine teh prispevkov, povedal bi, da se za tudi vedno zbirajo najboljši dosežki ali pa kotrčeno tisti, ki jih želimo, ali poželijo oddelki predstav iz preteklega leta."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1592.93,
+        "end": 1638.779,
+        "text": "Nekaj teh naših znanstvenih dosežkov je tak, da jih že drugi prepoznajo kot Univerza v Ljubljani pa Agencija Republika Slovenije za raziskovalno dejavnost in ti so že bili predstavljeni to sodostisti naj najbolj odlični, kot da o teh zdaj ne bi več, ki je veliko besed zgubljal, tudi pa gre za, zato s čemrse oddelki naša fakulteta sami želimo predstavlj javnosti.V treh sklopih, nekako širčnih skupinah delovanja..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1639.927,
+        "end": 1670.302,
+        "text": "Bi jih lahko povzel, prvi sklop zajema naše dejavnosti, ki pokrivajo pravzaprav celotno površino ozemlja Slovenije, karkoli je naravnega naravnih virov prostorskega, krajinskega in je natakar drugačen način povezano tudi z raziskovalno dejavnostjo in podagoško seveda biotehniške fakultete, dva od teh dosežkov pri enem gre za zbirno."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1671.01,
+        "end": 1686.434,
+        "text": "Zbirno delo večih let, desetletij pravzaprav oddelka za krajinsko arhitekturo kolegica Golobiš bo več o tem povedala gre za nek splošni koncept urejanja krajine kot bivalnega okolja v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1687.042,
+        "end": 1734.241,
+        "text": "Drug dosežek je znanstvena monografija, tudi lahko krečamo ne samo monografia, monumentalna monografija ogromno podatkov zbranih o gozdnih rastišnih tipih Slovenije, da je bilo vloženje, še našli, že bi bilo, da bi bil obdobnih tipih Slovenije, te je ta dosež načrtovanju varovanja gozdov in še drugih dejavnostih, ki so povezane z mnogotirimi funkcijami, ki jih naši gozdavi, našli zelo pestri gozdoni nudijo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1735.102,
+        "end": 1779.938,
+        "text": "Potem naslednji tip, ozoroma nasledni sklop teh naših dosežkov nekako, zajema to čemur bi v angleščini rekli Katin Edž Sains, kar se tiče najbolj sodobnih prebojnih metodologij prva fronta znanstvenega raziskovanja na področju vet o življenju, kot so genomika evolucijska vprašanja in podobno z oddelka za biologijo je tudi predstavljena, so predstavilne raziskave genoma človeške ribice, velike posebnosti slovenskega kraškega okolja z veliko..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1781.035,
+        "end": 1877.189,
+        "text": "Drugimi aplikativnimi možnostmi, ta genom mimo grede je ogromen, več kot petnajstkrat večjih človeškega, tako da gre tudi res za zelo velik izziv, ki je bil, ki smo se ga lotili v sodelovanju s kitajskimi in danskimi raziskovalnimi skupinami nasledna stvar, mogoče nekoliko manjših gnov, ampak nič malen pomemben in zanimiv je sogenetske raziskave drežniške koze naše redke ogrožene autohtone pasme, za katero so prav te raziskave pokazale, da gre zares nekaj posebnega in že dolgo časa samo na območju severozahodne Slovenije že večjo pasmokoze, to je bil prispevek oddelka za zootehniko in mladi oddelek za mikrobiologijo, je kar v eni seriji svojih odličnih in mednarodno izredno prodornih dosežkov predstavil zelo nove še nikoli dosedej odkrite zakonitosti bakterij kako med sabo sodelujejo na podoben način kot celica v več celičnih organizmih, ali pa celo višji organizmi med sabo, ko si sorodniki, ko se prepoznajo kot sorodne in si med sabom pomagajo.S tem smo prišli do tretjega sklopa naših."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1878.505,
+        "end": 1894.722,
+        "text": "Naj zanimivejših in najpomembnejših znanstvenih in raziskovalnih dosežkov, ki pa imajo poleg tega, da so sami po sebi znanstvino odlični."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1895.279,
+        "end": 1941.871,
+        "text": "še nekoliko večji direktno prepoznavni aplikativni učinek spet gre za, kot je že zdaj verjetno razvidno iz nekaj rdeča nič našega delovanja, za trajnostno rabo naravnih virov in tukaj izpostavljam dosežek oddelka za lesrstvo, ki so razvili odprtokodno napravo za plazmo, s katero se da zaščitet in velik bolj trajno zaš čitet in so naravno za ščited les, kot pomemben naravni vir, ki ga imamo v Sloveniji v enkrat še nasrečo v velikam obsegu na voljo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1943.17,
+        "end": 2016.138,
+        "text": "Na drugi strani imamo prispevek oddelka za agronomijo, ki je predstavu doseganja učinkovitejše sonaravne obdelave komunalnega blata z optimizacijo prezračevanja v bioloških čistilnih napravah se pravi, imamo nek vir, ki se ga pravzaprav, ki je škodljiv kot tak, ampak, če ga pravilno obdelamo, ga lahko v prozaprovkoristno surovino spremenimo in ne nazadnje smo tudi pri prehrani, pri živilstvu, kjer so tudi še eno od področij delovanja naša fakulteta.In tukaj je oddelek za živilsto predstavu bistveno novost v zvezi z vsem, kar nudi kaljeno žito kot prehranski vir v primerjavi z nekaljenimi oblikami žita.Skratka, če povzamem še enkrat biotehniška fakulteta skrbi za nravo v Sloveniji v proskovnem."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2016.965,
+        "end": 2023.715,
+        "text": "Pogledu skrbi za to, da je znanje in..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2024.592,
+        "end": 2037.721,
+        "text": "In vedenje, ki ga predajamo študentom na visokem nivoju in skrbi za to, da so naši naravni viri rabljeni, da jih rabimo v trajnostnem smislu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2041.366,
+        "end": 2048.774,
+        "text": "Hala lepa za besedo in dopo pozdravljeni, povedala bom nekaj o raziskovalnem delu na oddelku za krenjsko arhitekturo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2049.466,
+        "end": 2073.243,
+        "text": "Kot je bilo že povedano, se je začelo skupaj z ustanovitvijo študija pred petdesetimi leti, ko so izjemni posamezniki predvsem profesorja Ogrin in Marušič spoznali, da akademska disciplina seveda potrebuje za dobro pedagoško delo, tudi raziskovalnost strokovno in v našem primeru tudi umetniško dejavnost."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2074.07,
+        "end": 2118.535,
+        "text": "Tedanje raziskave je zaznamovala prva konferenca o krajinskem planiranju v mednarodnem okviru, ki je bila organizirana v Ljubljani in so se udeležili številni svetovni strokovnjaki, s tega področja med drugim tudi že omenjeni profesor Štajnic z Harvardove univerze, zelo je odmevala ta konferenca in postavila okvirat kot oretične kot metodološke tej disciplini kreinsko planiranje.Tedajne raziskave so močno temeljile ali pa je označevala tudi uporaba za tiste čase izjemno napredne informacijske tehnologije."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2119.396,
+        "end": 2128.964,
+        "text": "In pa velika občutljivost za okolje in varstvo okolja, kar je bilo v tistem času prav tako novost v svetovnem merilu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2130.517,
+        "end": 2150.142,
+        "text": "Če zdaj preskočim kar nekaj desetletij, v današnjem času poteka raziskave na oddelku nekoliko na drugačen način, predvsem se je skupina razširila, v njej delujejo osem raziskovalcev, večinoma so to mladi zagnani motivirani ljudje in nismo samokrajinski arhitekti."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2150.682,
+        "end": 2152.808,
+        "text": "Ampak je skupina interdisciplinarna."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2153.635,
+        "end": 2166.882,
+        "text": "Ukvarjamo se pa, seveda s krajino, ki jo vidimo kot neko polje iskanja rešitev na presečišču med družbenimi okolskimi in gospodarskimi vidiki družbe."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2168.097,
+        "end": 2180.247,
+        "text": "S svojimi raziskavami naslavljamo tudi okvir, ki nam ga postavlja Evropska konvencija Ukrajini, ki krajino vidi v celem razponu od najbolj naravne."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2180.956,
+        "end": 2182.188,
+        "text": "Do urbane?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2183.437,
+        "end": 2188.06,
+        "text": "Ko raziskujejo naravno krajino, jo vidimo predvsem kot bivalno okolje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2188.583,
+        "end": 2191.891,
+        "text": "Drugih živih biti ne samo človeka."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2192.465,
+        "end": 2196.43,
+        "text": "In raziskujejo po men krajine za biodiverziteto."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2196.97,
+        "end": 2200.548,
+        "text": "Ekološko povezljivost in zeleno infrastrukturo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2201.408,
+        "end": 2211.112,
+        "text": "Ko govorimo o kulturni krajin, je vzpredil predvsem njena prepoznavnost in njen pomen za identiteto nacionalno, regionalno in lokalno."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2211.938,
+        "end": 2224.662,
+        "text": "In ko govorimo urbani krajini, nas zanima predvsem kot človekovo bivalno okolje in nek potencial za dejavnosti, kot recimo turizem v mestih pa tudi zunaj njega."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2225.894,
+        "end": 2228.678,
+        "text": "Naše raziskave so..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2229.37,
+        "end": 2229.725,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2230.467,
+        "end": 2235.53,
+        "text": "Ker obsežne v lanskem letu je teklo na oddelku šestnajst različnih projektov."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2236.357,
+        "end": 2246.87,
+        "text": "Z različnimi financerji od evropskih sredstev do nacionalne raziskovalne agencije posameznih ministrstev in tudi podjetij."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2247.697,
+        "end": 2251.156,
+        "text": "Naše raziskave naslavljajo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2251.865,
+        "end": 2261.332,
+        "text": "Sko in podpirajo odločevalce v državi, kakor tudi bolj konkretno odlo čitve in prispevajo k znanstvenim spoznanjem."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2262.175,
+        "end": 2284.417,
+        "text": "Njihovo odmevnost in pomen lahko merimo z običajnimi indeksi znanstven uspešnosti, kjer smo vsako leto še mal boljši in bolj objavljamo v revijah z višjimi faktorji vpliva in višamo našo citiranost."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2285.142,
+        "end": 2302.793,
+        "text": "A obenem pa smo tudi zelo veseli odzivo naročnikov, ki nam povejo, da so naše raziskave družbenorelevantne, da jih lahko uporabijo pri svojih odločitvah in to se nam zdi še posebej pomembno, saj vendarle želimo, predvsem to, da bi vsi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2303.485,
+        "end": 2320.225,
+        "text": "Ki v tej, ki v kraini sprejemajo odločitve, ki imajo posledico za kraino, zavedali njenega pomena in bi svoje ravnanje v svojo ravnanju vnesli nekolik večjo občutljivost za kakovosti v krain."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2320.85,
+        "end": 2326.587,
+        "text": "In če sem začela s konferenco, bom še končala v letošnjem letu, v septembru."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2327.178,
+        "end": 2340.357,
+        "text": "Organiziramo ravno v obeležitev petdesetletnice študijah, krenjske arhitekture, konferenco v obletno konferencjo Evropske zveze Šol Krenjsko arhitakture, v njej bomo..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2341.15,
+        "end": 2351.005,
+        "text": "Spet gostili pomembne mednarodne srkovnjake in naslavljali različne teme pod skupnim naslovom Merila sprememb."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2357.485,
+        "end": 2359.291,
+        "text": "Spoštovani in agrajenci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2359.983,
+        "end": 2362.109,
+        "text": "Spošljamo lani vabljeni gostje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2363.003,
+        "end": 2366.142,
+        "text": "Partnerji in prijatelji biotehniške fakultete?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2366.8,
+        "end": 2369.652,
+        "text": "Poštovane so delavke in sodelavci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2370.648,
+        "end": 2375.626,
+        "text": "Podelitev jesenkovih nagrad je osrednji dogodek biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2376.149,
+        "end": 2383.473,
+        "text": "Letošnja podelitev je Senkovi k nagrad poteka spet tu svetšani zbornični dvorani Univerze v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2384.3,
+        "end": 2391.995,
+        "text": "Življenje se je vrnilo na fakultete, na zvrnitvijo študentov in znova je zaživel akademski duh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2392.94,
+        "end": 2398.492,
+        "text": "Kovi devetnajst, nam je narekoval način življenja in delal preteklih dveh letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2399.15,
+        "end": 2415.653,
+        "text": "Tudi v tej bitki je vsaj začasno zmagal človek, vendar neko človekin individuum, temveč kot skupnost, kot človeštvo, potrditev, da je v skupnosti moč in predvsem, da ji je zmagalo znanje in razum."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2416.953,
+        "end": 2422.758,
+        "text": "Dobili smo eno bitko, ko se je odprla nova fronta Vojna v Ukrajini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2423.483,
+        "end": 2429.187,
+        "text": "S izgroženostjo in veliko zaskrbljenostjo spremljamo vsakodnevno dogajanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2429.913,
+        "end": 2431.668,
+        "text": "Živeli smo v preprečanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2432.461,
+        "end": 2442.687,
+        "text": "Da to ni mogoče, v enaindvajsetem stoletju na ozemlju Evrope dobi digitalizaciji in silovitega tehnološkega napredka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2444.645,
+        "end": 2447.682,
+        "text": "Vendar biotehniška fakulteta praznuje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2448.526,
+        "end": 2468.928,
+        "text": "V častitljivih petinsedemdeset let bi najustvenovljena enajstega oktobra, tisoč devetsto sedeminštiridesetega leta, prav tu v Zbornični dvorani kot agronomska fakulteta, ime Biotehniška fakulteta je dobila leta tisoč devetsto enainšestdesetega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2470.328,
+        "end": 2485.432,
+        "text": "Tako so poleg oddelkov za biologijo, agronomijo, gozdarstvo in veterino nastali še oddelek za lesarstvo, živilsko tehnologijo in živinorejo leta tisoč devetsto šestindevetdesetega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2486.174,
+        "end": 2506.289,
+        "text": "Je nastal še oddelek za krajinsko arhitekturo, ki letos praznuje petdeset let študijak krajinski arhitakture in nazadnje še oddelek za mikrobiologijo. Leta tisoč devetsto devetdeset se je odcepil oddelk za veterino in se prooblikoj v fakulteto za veterin."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2508.28,
+        "end": 2521.898,
+        "text": "Letošnje, jubileno leto bo posebej svečano in zaznamovano številnimi dogodki, ki so se začeli s festivalom Zvončkov v Taničnem vrtu Univerze v Ljubljani, včeraj s njim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2522.81,
+        "end": 2524.328,
+        "text": "V festivalom?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2524.835,
+        "end": 2535.888,
+        "text": "Današnjo podelitvijo je Senkovih nagrad in priznanj in ga bomo zaključili slavnostno akademijo v Cankarjevem domu oktobra letošnjega leta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2538.74,
+        "end": 2546.873,
+        "text": "V zadnjih letih se je fakulteta tako kot pretekla obdobja odzivala na potrebe po znanju in kadrih družbi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2547.447,
+        "end": 2555.277,
+        "text": "Z ustanovitvijo oddelka za mikrobiologijo so se uresničile dolgoletne želje sodelavcev mikrobiolokov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2555.902,
+        "end": 2564.744,
+        "text": "Uspešno delo oddenka je dobilo priznanje že v prvem letu delovanja, ko je raziskovalka docentka Ana Dragož dobila."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2565.267,
+        "end": 2566.195,
+        "text": "Erc projek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2566.752,
+        "end": 2570.887,
+        "text": "Verjamemo, da je Ana zgled mnogim mladim sodelavcem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2571.511,
+        "end": 2575.105,
+        "text": "In jih opogumlja, da se bodo podali po njeni poti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2576.759,
+        "end": 2596.705,
+        "text": "Skupaj s fakulteto za računalništvo in informatiko in nekaterimi drugimi fakultetami ter nacionalnim inštitutom za biologijo pripravljamo nov interdisciplinarni magistrski študij bioinformatika, ter skupaj z ekonomsko fakultetu še magistrski študi bioekonomija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2599.0,
+        "end": 2611.606,
+        "text": "Spremembe so potekale tudi na organizacijski ravni fakultete, sledili smo za črtanim smernicam zapisanjem strategije fakulteti in univerze.S prvim aprilom..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2612.433,
+        "end": 2622.71,
+        "text": "Lanskega leta smo vstopili v akademski poslovnoinformacijski sistem, ki je prinesel spremembe obstoječih poslovnih praks."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2623.334,
+        "end": 2630.877,
+        "text": "Sprejeti so bili številni novi pravinniki in navodila, med drugim tudi nova pravina biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2632.953,
+        "end": 2645.542,
+        "text": "V leto dva tisoč enaindvajset področje raziskav in razvoja na biotehniški fakulteti je okrepilo z vstopom raziskovalke raziskovovcev s štiri nove raziskovale programe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2646.2,
+        "end": 2651.988,
+        "text": "Veljavo je stopil nov zakon o znanstvenoraziskovalni in inovacijski dejavnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2652.629,
+        "end": 2656.477,
+        "text": "Ki bo tudi za nas prinesel določene novosti in spremembe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2657.017,
+        "end": 2658.704,
+        "text": "Opajmo, da na bolje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2659.7,
+        "end": 2662.282,
+        "text": "Implementanci zakona bodo postopne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2663.463,
+        "end": 2675.09,
+        "text": "V letošnjem letu smo tudi s direktorjem Postojnske jame podpisali pismo o nameri za vzpostavitev raziskovalnega laboratorija, biotehniške fakultete v Postojski jami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2675.613,
+        "end": 2676.659,
+        "text": "In nadaljeval."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2677.334,
+        "end": 2680.945,
+        "text": "In nadaljujemo z raziskavami človeške ribice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2681.587,
+        "end": 2700.588,
+        "text": "V obdobju zadnjih petih let smo postopoma urejali tudi status botaničnega vrta Univerze Ljubljani, ki je sedaj organizacijska enota v sklopu dekanata biotehniške fakultete in tesno sodeluje z Univerzo Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2701.786,
+        "end": 2722.188,
+        "text": "Poseben dosežek je nastal iz potrebe po promociji znanja, znanstvenih in strokovnih dosežkov, ki nastajajo na fakulteti in so pomembna tako na nacionalnem nivoju kot tudi v mednarodnem prostoru, je Bafa Festival, čedra je potekal že četrtič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2723.403,
+        "end": 2729.123,
+        "text": "Med aktualnimi področji sedanjosti in prihodnosti sta tudi hrana in prehrana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2729.647,
+        "end": 2739.89,
+        "text": "V okviru biotehniške fakultete pripravljamo prostor za spostavitev novega raziskovanja razvojnega centra za raziskave na področju hrane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2740.396,
+        "end": 2750.757,
+        "text": "Da mora Slovenija okrepiti razvoj in raziskave za potrebe, slovenski industrije je kot cilj zapisano tudi v načrtu za okrevanje in razvojs."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2752.495,
+        "end": 2757.254,
+        "text": "Ker so za postavitev centra rezervirana tudi namenska sredstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2759.009,
+        "end": 2772.07,
+        "text": "Prihodnosti pa se bo fakulteta srečana še z drugimi izzivi, ki smo iz skupaj zapisali v strategiji razvoja fakultete doleta dva tisoč sedemindvajset."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2772.847,
+        "end": 2779.917,
+        "text": "Želimo, da bi ob osemdesetletnici biotehniške fakultete torej v naslednjih petih letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2780.491,
+        "end": 2787.106,
+        "text": "Biotehniška fakulteta postala vodilna ustanova v regiji na področju med oživljenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2788.118,
+        "end": 2797.028,
+        "text": "Strategijo smo gradili in oblikovali izkopaj, in tudi na pot njenega uresničevanja smo se že podali izkopajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2798.294,
+        "end": 2799.087,
+        "text": "Priznam?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2799.745,
+        "end": 2811.288,
+        "text": "Ni vedno najlažje vneče, tako velikega voza kot je biotehniška fakulteta, sem pa neizmerno ponosna, ko spremljam majhne korake napredka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2811.811,
+        "end": 2819.995,
+        "text": "In ugotovim, da smo nadili pomemben korak naprej na pedagoškem raziskovalnem in strokovnem področju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2821.058,
+        "end": 2833.799,
+        "text": "Naj se zahvalim sem raziskovalkam in raziskova vsem, profesoricam in profesorjem, strokovnim sodelavcem in sodelokam ter vsem drugim za podporo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2836.567,
+        "end": 2841.477,
+        "text": "Jesenkove nagrade so najprestežnejše nagrade biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2842.118,
+        "end": 2849.037,
+        "text": "Ki se imenujejo po profesorju Franu Jesenku, prvem profesorji bo Tanike na univerzi v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2849.763,
+        "end": 2854.808,
+        "text": "Danes ponosno podeljujemo jesenkove nagrade posameznikom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2855.635,
+        "end": 2867.92,
+        "text": "Ki izstopajo iz povprečja na področju biotehnike in pa priznanja biotehniške fakultete za dosežke na različnih podrocih delovanja našim sodelavcem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2868.511,
+        "end": 2870.232,
+        "text": "In pa zunanjim partnerjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2870.806,
+        "end": 2877.691,
+        "text": "ter priznanja najboljšim študentom biotehniške fakultete na sedemindvajsetih različnih programih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2878.248,
+        "end": 2882.973,
+        "text": "Prvi in druge stopnje, na kar smo še posebej ponosni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2884.39,
+        "end": 2887.546,
+        "text": "Zato je pomembno, da nagradimo najboljše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2888.052,
+        "end": 2900.033,
+        "text": "In da verjamemo mlade in sledimo našemu temeljnemu poslanstvu, to je vrhunsko izobraževanje, odlično raziskovanje in družbena relevantca."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2901.08,
+        "end": 2907.34,
+        "text": "Z razvojem premikamo meje, a tudi vplivamo na življenje in naravne vere."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2908.083,
+        "end": 2919.119,
+        "text": "Kako ohraniti harmonično sožitvje med naravo in človekom, je vsekakor eden večjih družbenih izzivov tudi za biotehniško fakulteto?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2919.862,
+        "end": 2921.11,
+        "text": "Ki mu bomo kos?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2921.667,
+        "end": 2926.207,
+        "text": "Le dobro oboroženi znanjem in družbeno odgovornostjo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2926.949,
+        "end": 2933.311,
+        "text": "Želja poznanju in njegovem posredovanju sta tisto, kar nas druži."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2933.902,
+        "end": 2938.947,
+        "text": "Kar ne bo posredoval in kar ne bodo posredovali tudi današnji nagrajenci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2939.858,
+        "end": 2944.246,
+        "text": "Čestitke, današnjim nagrajencem in kvali vsem, ker ste prišli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2944.887,
+        "end": 2945.478,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2947.942,
+        "end": 2978.401,
+        "text": "Par besed o postopkih, o taksonomiji teh priznanj in nagrad, ki jih je kar veliko, tako da se morda znajdemo.In o tem, da je pravzaprav v ozadju strog selekcijski postopek dolgotrajno delo komisije in razmislek, kot da vidimo, da so ta te nagrade res zaslužene in dobljene v ostri konkurenci. Biotehniška fakulteta podeluje jesenkovo nagrado, to je za eta osrednji del."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2978.958,
+        "end": 2992.019,
+        "text": "Posamezniku za življenjsko delo na področju pedagoškega raziskovalnega ali strokovnega dela in sodelovanja pri upravljanju fakultete, potem sta pa še nagrada najboljšemu."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2992.711,
+        "end": 2997.284,
+        "text": "Doktorantu oziroma diplomatu doktorskega študija in pa najboljšemu..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 2998.229,
+        "end": 3000.389,
+        "text": "Diplomant, najboljši diplomantki."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3000.946,
+        "end": 3015.037,
+        "text": "Po diplomskega študija obeh stopenj skupaj, sicer na koncu, to se pravi ob zaključku druge stopnje, ampak šteje judoseški celotnega šTudija obeh stopen."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3015.644,
+        "end": 3024.976,
+        "text": "Za podelitev jesenkove nagrade posamezniku za življenjsko delo je bilo predlaganih šest kandidatov med vsemi zapustenimi na fakulteti."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3025.752,
+        "end": 3031.034,
+        "text": "Za najboljšega diplomanta doktorskega študija, tretje stopnje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3031.878,
+        "end": 3034.055,
+        "text": "In za najboljšega..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3035.422,
+        "end": 3038.003,
+        "text": "Diplomanta podiplomskega študija."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3038.527,
+        "end": 3041.142,
+        "text": "Pardon to diplomjskega študija pa..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3041.699,
+        "end": 3055.874,
+        "text": "Pa za po en kandidat, kar seveda izhaja iz tega, da so tukaj kriterij nekoliko bolj jasni numerični, bazirajo na oceni in objavah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3052.195,
+        "end": 3052.718,
+        "text": "V noge."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3056.65,
+        "end": 3083.718,
+        "text": "Senat Fakulteta se je na svoji sej osemvezga februarja odločil, da se podeli Jesenkova nagrada po enemu kandidatu iz vseh teh kategorij dva bi pršla poštev morda takrat čez ta povprečni oceni identični.Potem so pa še biotehniška, še priznanja biotehniska fakultete, ki jih prejemajo posamezniki tudi skupine."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3084.359,
+        "end": 3096.003,
+        "text": "Zaposlene na fakulteti za zgledno pedagoško delo pomembna, objavljena znanstvena in strokovna dela tehnične rešitve tudi izume, iznajdbe odkritja in patente."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3096.543,
+        "end": 3099.04,
+        "text": "Selekcija nove sorte in podobno."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3099.665,
+        "end": 3106.482,
+        "text": "Ter tudi druge vidne dosežke na področju strokovnega dela in tudi v proizvodnji."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3107.613,
+        "end": 3115.848,
+        "text": "Vse, kar s čemer se pač fakulteta ukvarja in kar krepi njen ugled in pomembno izboljšuje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3116.472,
+        "end": 3119.594,
+        "text": "Materialne možnosti delovanja."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3120.269,
+        "end": 3126.395,
+        "text": "Prav tako so lahko premniki teh nagrad posamezniki."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3127.07,
+        "end": 3129.517,
+        "text": "Izven fakultete."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3130.31,
+        "end": 3131.339,
+        "text": "Ki, um..."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3132.672,
+        "end": 3133.145,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3134.309,
+        "end": 3171.856,
+        "text": "In tudi organizacije, ki pa delujejo, sodelujejo in delujeju na področjih delovanja, saj pravi na području biotehnike.In na koncu še najboljši študenti, zdaj pa študentke in štutijskih poodročij in posameznih študijskih področij in pa po prvi in drugi stopnji ločeno, če pogledamo, koliko je bilo kandidatov in koliko potem izbranih nagrajenj in nagrajencev za podelitev priznanja fakultete po samezniku oziroma skupini same fakultete je bilo letos predlaganih štirinajst kandidatov."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3172.649,
+        "end": 3175.687,
+        "text": "Oziroma skupin kandidatov."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3176.868,
+        "end": 3185.002,
+        "text": "Za zunanje nagrajence, priznanja po dva."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3185.693,
+        "end": 3191.752,
+        "text": "V letu enaindvajset je študijske programe prve stopnje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3192.325,
+        "end": 3204.526,
+        "text": "In sicer tako visokošolske kot strokovno, strokovne programe zaključilo tristo petinsedemdeset diplomantov, ki so potencialne kandidatke in kandidati."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3205.218,
+        "end": 3210.668,
+        "text": "Na prvi stopnji in dvesto oseminitrideset na drugi stopnj."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3212.153,
+        "end": 3214.634,
+        "text": "V vseh programih biotehniške fakultete."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3215.157,
+        "end": 3225.13,
+        "text": "Danes sprejema priznanje biotehniške fakultete devetindvajset študentov od tega velikega števila diplomatkih diplomantov."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3225.923,
+        "end": 3232.64,
+        "text": "Ki so dosegli najvišje povprečne ocene izpitev in vajve v času svojega študija, ko je potekal ta program."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3233.568,
+        "end": 3233.99,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3235.424,
+        "end": 3238.546,
+        "text": "Prav tako pa je kadrovska komisija senata."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3239.221,
+        "end": 3253.244,
+        "text": "Na svoji seji, enaindvezga februarja dvaindvajset se odločila, da se priznanja podelijo petim posameznikom oziroma skupinam s fakultete in dvema izven fakulteti."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 3253.801,
+        "end": 3255.826,
+        "text": "To je na kratko postopku."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3259.741,
+        "end": 3261.108,
+        "text": "Uštovanja gospa Adikanija?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3262.002,
+        "end": 3264.837,
+        "text": "Spoštovane nagrajenke, spoštovanje nagrajanci..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3265.883,
+        "end": 3268.01,
+        "text": "Cenjeni nagrajenec, dragi gostje."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3269.056,
+        "end": 3273.072,
+        "text": "Profesor doktor Jurij Diaci je redni profesor za področje dojenja gozdov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3273.848,
+        "end": 3284.176,
+        "text": "Diplomiral in magistriral je na oddelku za gozdarstvo in obnolive gozdne vere biotehniške fakultete v Ljubljani ter doktoriral na univerzi ETH v Cirihu, v Švijici."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3284.902,
+        "end": 3289.913,
+        "text": "Profesor diaciji je mednarodno priznan raziskovalec z vrhunskimi znanstvenimi objavami."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3290.538,
+        "end": 3303.177,
+        "text": "Uvršča se med najuspešnejše raziskovalce unimerze v Ljubljani, v okviru analize baze skopos iz začetka leta dva tisoč dvaindvajset je bil uvržčen med dva odstotka najboljših raziskovalsam na svojem področju nasvetov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3304.207,
+        "end": 3312.256,
+        "text": "Vodil je vrsto domačih in mednarodnih raziskovalnih projektov in je področni urednik uglednih mednarodušnjih znanstvenih revij."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3313.15,
+        "end": 3317.048,
+        "text": "Profesor dijacij se je izjemno izkazal s predanim učiteljskim delom."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3317.639,
+        "end": 3323.14,
+        "text": "Predaba vrsto predmetov na domači univerzi in je bil gostujoči predavatelj na več evropskih univerzah."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3323.815,
+        "end": 3331.662,
+        "text": "Bil je mentor pri petinosemdesetih diplomskih in šestnajstnih magistrskih nalogah ter desetih doktorskih disertacijah."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3332.185,
+        "end": 3337.99,
+        "text": "Več njegovih doktorandov je iz tujine, več diplomskih del je prejelo Prešerno monogrado za študente."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3338.969,
+        "end": 3345.837,
+        "text": "Jurij Diaci je v dosedanji karieri opravljal vrsto vodstvenih funkcij, je predstojnik katedre za gojenje gozdov."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3346.343,
+        "end": 3348.352,
+        "text": "In predsednik Pahrnikova je ustanovil."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3348.942,
+        "end": 3365.53,
+        "text": "Bil je prodekan oddelka za gozdarstvo in obnovljive gozdne vere, bil je vodja programske skupine in predsednik prosilve Slovenija, vključen je v delo Evropski unije in evropskega parlamenta pri oblikovanju gozdarskih politik in razprava o evropski zeleni prihodnosti."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3366.374,
+        "end": 3381.022,
+        "text": "Pri letošnjem prejemniku jesenkove nagrade želim zlasti izpostaviti njegovo celostno in uravnoteženo delovanje, ki presega usmerjenost v doseganje odličnosti na samo enem ali dveh izbranih področjih, nasprotno."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 3381.528,
+        "end": 3388.953,
+        "text": "Zgoraj mešteti dosežki kažejo, da se je izkazal na vseh področjih, za katera se nagrada podeljuje, čistita."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3393.965,
+        "end": 3396.428,
+        "text": "Spoštovane dami in gospodje."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3396.935,
+        "end": 3398.065,
+        "text": "Kolegice in kolegi."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3398.707,
+        "end": 3406.3,
+        "text": "Sem nagrajencem in prejemnikom, priznan, nam je v veliko čast in veselje sprejeti priznanja in nagrade."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3407.06,
+        "end": 3410.587,
+        "text": "Današnji dan bomo uhradili v zelo lepem spominu."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3411.127,
+        "end": 3420.458,
+        "text": "Iskreno se zahvaljujemo predlagateljem, članom komisij za izbor za obsežno delo in Biotehniški fakulteti za organizacijo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3421.454,
+        "end": 3430.145,
+        "text": "Imeli smo privilegij, da so nas usmerali odlični široko razgledani mentorji, ki se jim iz srca zahvaljujemo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3430.921,
+        "end": 3435.511,
+        "text": "Prizadevali si bomo, da bomo tudi sami dobri mentorji mlajšim."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3436.338,
+        "end": 3447.02,
+        "text": "Za dosežki posameznikov so vedno ekipe sodelavcev ter predvsem njihovi najbližji in družine, vsem iskrena, hvala."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3447.796,
+        "end": 3456.217,
+        "text": "Priznanja nas obvezujejo, da nadaljujemo začeto delo ter da znanje delimo s sodelavci in ga prenesemo v družbo."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3456.807,
+        "end": 3479.572,
+        "text": "Nagrada pomeni tudi veliko spodbudo za naše delo v prihodnosti, zato mi dovolite, da osvetlim nekaj izzivov povezavi z gozdovi, kjer lahko biotehniška fakulteta in slovensko gozdarstvo prispevata k izboljšanju razmer, ne nazadnje tudi skozi gozdno in okoljsko politiko."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3480.77,
+        "end": 3493.696,
+        "text": "V svetovnem merilu še vedno izgubljamo za dve in pol površini Slovenije gozdov letno, večinoma gre za pragozdove, ki jih je še približno tretjina vseh gozdov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3494.438,
+        "end": 3513.929,
+        "text": "Dosedanje izkušnje kažejo, da bo ta trend zelo težko ustaviti, spremembe se odvijajo v dveh smreh ali krčitve za druge rabe tal ali pa goloseki in nasadi hitro raztočnih tujerodnih monokultur, ki so celo certificirani."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3515.009,
+        "end": 3531.074,
+        "text": "Alternativa, ki bi jo države v razvoju lažje sprejeli, je postopna sprememba pragozdov v gospodarske gozdove, so naravne, kot se je to odvilo pred dve sto leti na dinarskem področju današnje Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3531.682,
+        "end": 3539.461,
+        "text": "Torej zaščita dela pragozdov in vpeljava sonaravnega gospodarjenja namesto industrijskih nasadov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3541.3,
+        "end": 3551.476,
+        "text": "Druga možnost izboljšanja je pogozdovanje degradiranih površin, nastalih zaradi prekomernega izsekovanja, požiganja in neurejene paše."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3551.999,
+        "end": 3589.394,
+        "text": "Pogazdovanje ni pomembno samo zaradi ugodnih učinkov gozda v povezavi z mikroklimo, s tlemi, skladiščenjem ogljika in širjenjem surovinske osnove, ampak tudi zaradi socialnih učinko, na primer novih delovnih mest, enakosti, spolov.O tem je veliko pisala Nobelova nagrajenka v Angarij Mataji iz Podsaharske Afrike, žal pa so svetu interesne skupine, ki se tem procesom upirajo zaradi strahu pred izgubo vpliva."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3589.968,
+        "end": 3605.071,
+        "text": "Na področju pogozdovanj imamo v Sloveniji veliko izkušenj, na primer pri ozelenitvi krasa.Slovenski gozdarski strokovnjaki so svetovalno vključeni od jugovzhodne Evrope do Azije."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3605.645,
+        "end": 3621.912,
+        "text": "Pred leti je tudi udelek za gozdarstvo vodil projekt Pogozdovanja v Albaniji, ki je nam najbližja država s povsem uničenimi gozdovi in vsemi neugodnimi posledicami od strašne erozije do pomanjkanja lesa."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3623.414,
+        "end": 3631.312,
+        "text": "Na ravni Evrope delež gozdov narašča, gozdarstvo in lesna industrija sta velika igralca na svetovnih trgih."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3631.868,
+        "end": 3643.613,
+        "text": "Vendar je zdravstvenostanje gozdov zaskrbljujoče, v primerjavi s drugimi celinami je malo strogo zavarovanih gozdov, sonaravnih gozdov je manj kot tretjina."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3644.221,
+        "end": 3658.413,
+        "text": "Evropska unija je v strategiji za gozdove dvajset trideset prvič izrecno izpostavila sonaravnejše gospodarjevanje z gozdavi, spoudarkom na ohranjanju biotske pestrosti in prilagajanju na podnebne spremembe."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3659.02,
+        "end": 3670.816,
+        "text": "Vner je to sprožilo precej napetosti med različnimi interesnimi skupinami, še posebej med zagovorniki industrijskega gozdarstva in ohranjanja narave."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3671.322,
+        "end": 3689.767,
+        "text": "V splošnem politika Evropske unije do gozdov ni dovolj medsektorsko usklajena, zmanjševanje negovalnih sečen, na primer zaradi skladiščanja ogljika ovira prilagajanje gozdov na podnebne spremembe, za kar je potrebno gozdove aktivno usmerjati."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3690.29,
+        "end": 3696.922,
+        "text": "Nenazadnje tudi evropski zeleni dogovor predvideva povečano rabo obnovljivih naravnih virov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3698.187,
+        "end": 3705.832,
+        "text": "Rešitve naravni Evrope so v bolj usklajenih politikah in optimiranju učinkov in rab gozdov."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3706.456,
+        "end": 3723.027,
+        "text": "Dober zgled na primeru Slovenije so natura dva tisoč načrti za goznata območja, kjer se v participativnem procesu srečujejo deležniki in izoblikujejo za vse obvezujoč kompromis."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3723.803,
+        "end": 3729.507,
+        "text": "Podoben še bolj dodela primer sogozno razvojni načrti v Šviciji."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3730.807,
+        "end": 3745.488,
+        "text": "Pedagoško, raziskovalno in razvojno delo na biotehniški fakulteti lahko značilno prispeva kvečji vzklajenosti sektorskih politik in nasploh huresničevanju evropskega zelenega dogovora."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3746.534,
+        "end": 3747.698,
+        "text": "S tem bo Evropa."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3748.458,
+        "end": 3758.026,
+        "text": "Kjer je v delu vonjkarlovica trajnost naraba naravnih virov prvič omenjena, postala tudi resnični zgled drugim celinam."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3759.123,
+        "end": 3770.648,
+        "text": "Verjamem, da bo okoljska kriza prispevala k boljšemu razumevanju in upoštevanju narave in s tem dolgoročno tudi k bolji kakovosti življenja."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3772.285,
+        "end": 3776.2,
+        "text": "Še enkrat, prav lepa hvala za vloženi trud."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 3776.723,
+        "end": 3781.229,
+        "text": "In organizacijo tega prijetnega dogodka, vala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3784.25,
+        "end": 3787.186,
+        "text": "Spoštovani nagrajenci, spoštovalni zbor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3788.063,
+        "end": 3795.151,
+        "text": "Dovolite, da na koncu v imenu fakultete in v svojem osebnem imenom vam še enkrat čestita?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3795.809,
+        "end": 3799.589,
+        "text": "Se ste solstvarjalci biotehniške fakultete?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3800.163,
+        "end": 3805.563,
+        "text": "Nagrada pa jo tudi vaša zaobljuba, da boste zvesti svojemu poslanstvu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3806.137,
+        "end": 3810.625,
+        "text": "Hvala vam za vaše delo in rezultate, ponosni smo na vas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3811.351,
+        "end": 3828.412,
+        "text": "Knjiga, ki ste jo dobili Atlas Ptic Slovenije je temeljno strokovno ornitološko delo in čudovit dokument narave, ki prinaša pomembno pes pestrosti, slovenske narave jih krati svarilo, da moramo z njo ravnati pravdarno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3829.053,
+        "end": 3835.786,
+        "text": "Ti se veljajo za simbol svobode in večnosti, zaradi sposobnosti da se dvignejo v nebo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3836.545,
+        "end": 3846.704,
+        "text": "Mi lahko ohranimo to svobodo in trajnost, ker smo sposobni razumeti in doumeti, da smo tudi sami leden narave."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3849.64,
+        "end": 3854.264,
+        "text": "Kvala tudi vsem, ki ste na svojo prisotnostjo počastili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3855.715,
+        "end": 3868.068,
+        "text": "Pre sodelovanja z ustanovami znotraj raziskovalne družbene skupnosti v državi in svetu biotehniška fakulteta ne more dobro opravljati svojega poslanstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3869.08,
+        "end": 3874.396,
+        "text": "Kak hvalna vsem sodelavcem in sodelovkam za pomoč pri izvedbi prireditve?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3875.324,
+        "end": 3887.913,
+        "text": "Posebej pa hvala glavnemu govorcu, doktorju Pavlu Gantarju, ki je svojo izjemno znanstveno in intelektualno globino obogatil današnji dogode in nam omogočil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3888.487,
+        "end": 3891.912,
+        "text": "Pogled na biotehnisko fakulteto tudi od zonaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3892.672,
+        "end": 3900.164,
+        "text": "Hvala moderatorju Roku Koželu, ki se je trudil, da naredita dogodek poseben."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3901.801,
+        "end": 3910.829,
+        "text": "Glavnemu nagrajencu, profesorju, doktorju Jurij Odjanciju pa še enkrat hvala za vse dosežke pretekli desetletij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3911.352,
+        "end": 3911.993,
+        "text": "Ki ste jih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3912.871,
+        "end": 3914.727,
+        "text": "Naredili za fakulteto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3915.47,
+        "end": 3918.136,
+        "text": "In zaploskajmo še enkrat nagrajemcem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3918.828,
+        "end": 3935.062,
+        "text": "Sedaj bi pa vse nagrajence povabila, da se vpišete v knjigo nagrajancev in ne pozabite na fotografiranje, potem pa vas je skupaj vabi v sosednji prostor, da nazdravimo vašim nagradam."
+      }
+    ],
+    "runtime_sec": 631.7029521465302
+  }
+}

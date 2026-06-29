@@ -1,0 +1,760 @@
+{
+  "file_id": "Artur-J-Gvecg-P500035-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500035-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.0446258123430209,
+      "miss": 0.03322682766844491,
+      "fa": 0.011398984674575985,
+      "confusion": 0.0,
+      "total_duration": 544.2589999999975
+    },
+    "der_collar0.25": {
+      "der": 0.03748261459983304,
+      "miss": 0.027105816225277964,
+      "fa": 0.01037679837455508,
+      "confusion": 0.0,
+      "total_duration": 486.75899999999757
+    },
+    "wer": {
+      "wer": 0.10028116213683223,
+      "ref_words": 1067,
+      "hyp_words": 1034
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.765,
+        "end": 3.165,
+        "text": "Pozdravljeni!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3.185,
+        "end": 13.668,
+        "text": "Upam, da je za vami en lep vikend in da ste se lahko spočili ali vsaj malo okusili kakšno lepo doživetje v odnosih ali pa v naravi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 13.728,
+        "end": 18.729,
+        "text": "Zaposleni, otroci in študentje bi verjetno odgovorili, da so vikendi zakon."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 18.749,
+        "end": 31.112,
+        "text": "Kaj pa upokojenci, starostniki, tisti, ki živijo z nami ali v naši bližini ali okoli nas, pa niso v domovih zaustarile?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 31.132,
+        "end": 31.452,
+        "text": "Kako se počutijo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 31.874,
+        "end": 37.239,
+        "text": "Včasih se celo sprašujemo, če gava odgovornost je v resnici njihove počutje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 37.74,
+        "end": 45.908,
+        "text": "Veliko govorimo, kako poskrbeti za starostnike v domovih za ustarele, ki so posebej renljiva skupina."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 46.248,
+        "end": 49.792,
+        "text": "Vendar pa je med nami starostnikov mnogo več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 50.632,
+        "end": 51.894,
+        "text": "Kdo bo poskrbel za nje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 52.074,
+        "end": 55.297,
+        "text": "Država, strokovnjaki, njihovi bližnji?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 55.87,
+        "end": 65.216,
+        "text": "in koliko po drugi strani lahko na to, da ne bodo osamljeni, da se bodo počutili v redu v tem obdobju tudi sami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 66.377,
+        "end": 74.322,
+        "text": "Seveda na to nikakor nimamo enoznačnega odgovora in je vsak primer zase nekako edinstven."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.382,
+        "end": 82.988,
+        "text": "Ampak skušajmo pogledati dva vidika, mogoče dve v grobon kategoriji, za kakšnega starostnika sploh gre."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 84.777,
+        "end": 95.745,
+        "text": "Naprimer, ena skupina starostnikov je zagotovo že v otroštvu, v svojem nadostništvu, doživela veliko hudega, trplenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 96.125,
+        "end": 108.454,
+        "text": "Naprimer, ali so rojeni že medvojno, ali so jim umrli starši, so živeli znotraj alkoholizma, nasilja, zanemarjanja in podobnih težkih, bolečih temah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 110.107,
+        "end": 127.37,
+        "text": "Ti starostniki, ki imajo nedograjene odnose v svoji preteklosti, so zelo zaznamovani v svojih življenjih in se ponavadi že brez dodatnih stresnih obdobij v odnosih le delno znajdejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 127.69,
+        "end": 136.492,
+        "text": "Medtem, ko imamo po drugi strani skupino starostnikov, ki so vitalni, z nami spletajo živahne, zaupne odnose,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 137.107,
+        "end": 154.536,
+        "text": "se zmorejo pogovarjati o različnih temah, o različnih ščustvenih spektrih določenih tem, zadev, se poglabljajo vase, razvijajo neko zaupanje, sočutje in so na starost pravi modreci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 155.816,
+        "end": 166.902,
+        "text": "Če si torej skušamo predstavljati obe skupini, lahko hitro začutimo, kako zelo različno vzdušje vzbudita v našem telesu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 168.224,
+        "end": 182.227,
+        "text": "in posledično tudi zelo različna odgovornost za skrb ali pa po drugi strani naveličanost, da moraš vedno skrbeti še za nekoga, čeprav bi si v resnici želel, da bi bilo obratno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 182.247,
+        "end": 196.169,
+        "text": "Ob starostnikih torej, ki sami ne zmorejo vzpostaviti pozitivnega vstopa v odnose, je to za srednjo generacijo kar zahteven čustveni ziv, posebej zdaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 197.266,
+        "end": 217.015,
+        "text": "Pogosto so ti starostniki namreč naveličani, vidijo prej slabo kot dobro, že če pokličajo, imajo kakšne pikre, težke stavke ali vzdihe kot mi nismo zanobeno rabo ali na nas boste pa kar pozabili ali kaj podobnega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 217.195,
+        "end": 219.716,
+        "text": "Mrsi, kdo to še bolje pozna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 220.297,
+        "end": 223.338,
+        "text": "Ampak vsa ta sporočila so izredno obremenjujoča."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 224.907,
+        "end": 229.929,
+        "text": "Iskreno rečeno, obremenjujoča za obe strani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 230.029,
+        "end": 240.633,
+        "text": "Vendar tukaj, iskreno rečeno, lahko pogosto ali pa pogosteje, bolj na nek način računamo na čustveno zrelost srednje generacije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 240.753,
+        "end": 253.898,
+        "text": "Če namreč se srednja generacija zmore zavedati, kaj se v teh odnosih dogaja, katera čustva prevledujejo, kaj pogrešajo, kaj jih jezi, kaj jih spravlja v stiskov,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 254.81,
+        "end": 270.356,
+        "text": "in da potem odreagirajo znotraj tega ali pa skušajo te starše čim bolj razumeti ali pa te bližnje, je to zelo drugo ceno za celotnost družino, ker zniža to tesnobo oziroma napetost v družini ali pa jezo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 270.376,
+        "end": 280.78,
+        "text": "Šele ko se namreč zavedaš svojih občutkov in poznaš zgodovino odnosov, nekako lažje sprejmaš ali neodzivnost ali neprijetno odzivnost,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 281.827,
+        "end": 296.879,
+        "text": "preslišiš te zoperne stavke, jih ne vzameš toliko resno in na nek način z zavedanjem vsega tega in te zgodovine lahko tudi začneš razvijati še globje sočutje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 297.079,
+        "end": 306.607,
+        "text": "To zahteva preseganje teh starih ozorcev, ampak je res dragoceno za celoten družinski sistem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 306.687,
+        "end": 310.43,
+        "text": "Res je sicer, da tudi ti mnogi starostniki"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 310.7,
+        "end": 315.102,
+        "text": "še močno napredujajo, če se tega le vsaj malo zavedajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 315.442,
+        "end": 340.231,
+        "text": "To pomeni, da je dragoceno, da se v tem pogrešanju, v tem morda jezi na veličenosti, če čutimo, da je vsaj malo možno, pogovorimo in potem lahko tudi ti starostniki na nek način začnejo razvijati neke mogoče nove ozorce ali pa ne bodo uporabili kakšnega tega stavka, ki jim kar sem pride na jezik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 340.872,
+        "end": 368.848,
+        "text": "In z vsemi temi skupnimi močmi, kamor ste v resnici vsi povabljeni ali pa smo, če tako rečem, lahko potem se potrudimo, da so ta zadnja leta lepša in je potem tudi to poslavljanje, ki nas v tem obdobju na nek način tudi že navdihuje oziroma ga slutimo, bolj umirjeno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 370.454,
+        "end": 381.676,
+        "text": "Dejstvo je po drugi strani tudi, da je to zdaj res zahtevno, ker smo sicer bolj navajeni, ali pa sploh ta generacija, nekega fizičnega stika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 381.976,
+        "end": 393.459,
+        "text": "Tako, da smo povabljeni na kakšno kosilo, kakšnega obiska, se objamemo, malo posedimo skupaj, ni pa nujno, da se vedno veliko rečemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 393.559,
+        "end": 395.639,
+        "text": "To nam je bolj tuje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 395.699,
+        "end": 400.34,
+        "text": "Zato je tokrat v tej karantenski, že dolgotrajni situaciji"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 400.745,
+        "end": 411.894,
+        "text": "nek nov izziv, naučiti se več od tega, kar čutimo drug ob drugem, kar pogrešamo, kar nas morda moti, da se naučimo to v besede."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 412.034,
+        "end": 422.222,
+        "text": "In besede tudi imajo en zelo močen učink in tudi na nek način lahko pobožajo, nagovorijo, dajo občutek povezanosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 422.242,
+        "end": 426.665,
+        "text": "Je pa res, da moramo pogosto ob tem na nek način premagati te"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 426.968,
+        "end": 431.21,
+        "text": "svoje neprijetne občutke, ker nam je to toliko bolj tuje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 431.69,
+        "end": 445.115,
+        "text": "Torej, to je za mnoge, tudi mlajše družine, za srednjo generacijo, posebej pa za starostnike, en kar velik izziv, ki pa je dragocen in je na nek način naložba za naše odnose."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 445.495,
+        "end": 456.559,
+        "text": "Medtem ko, če gremo zdaj na drugo kategorijo tistih starostnikov, ki sem jih prej omenila, so lahko to starostniki, pri katerih pa opazimo pozitivno držo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 456.888,
+        "end": 463.334,
+        "text": "polno enih navihanih idej, znajo poskrbeti za se, pomagajo tudi nam, mlajšim družinam, psihično ali pa fizično celo, če to dopuščajo razmere trenutne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 463.474,
+        "end": 484.512,
+        "text": "Z njimi smo seveda lahko tudi bolj iskreni v odnosih, ni nam treba toliko paziti, kaj rečemo, in ti odnosi so v poprečju seveda veliko bolj sproščeni, zadovoljujoči,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 485.103,
+        "end": 485.463,
+        "text": "lepši na nek način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 485.503,
+        "end": 500.573,
+        "text": "Posebej tem staršem, ki zmorejo več, pa včasih pozabimo biti hvaležni in ne bo to ob njih en poseben izziv, da si drug drugemu to povemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 501.014,
+        "end": 513.622,
+        "text": "Tudi starši, ki se počutite vitalne, starostnike mislim zdaj, povejte svojem otrokom, da so dragoceni, da jih pogrešate, da komaj čakate, da se boste spet družili,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 513.807,
+        "end": 526.457,
+        "text": "pokličite svoje onučke in bližnje, tudi vi lahko veliko naredite za pozitivnost odnosov, po drugi strani krajšate čas v sebi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 526.477,
+        "end": 540.689,
+        "text": "In za zaključek bi rekla, ne glede na to, da imamo tukaj na nek način različne močnosti, različno močan potencial, ki ga lahko razvijamo, ampak kakorkoli ta potencial imamo vsi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 541.162,
+        "end": 552.267,
+        "text": "Potencijal za razvoj sočutja v odnosih ostane v nas zarisen in na nek način vzpostavljen celo življenje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 552.287,
+        "end": 559.91,
+        "text": "Želim vam srečno naprej in s to mislijo, da nikoli ni za obupat čisto do konca."
+      }
+    ],
+    "runtime_sec": 149.09559321403503
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.08598296031852522,
+      "miss": 0.08508816574461832,
+      "fa": 0.0008947945739069028,
+      "confusion": 0.0,
+      "total_duration": 544.2589999999975
+    },
+    "der_collar0.25": {
+      "der": 0.07999646642383607,
+      "miss": 0.07999646642383607,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 486.75899999999757
+    },
+    "wer": {
+      "wer": 0.1724461105904405,
+      "ref_words": 1067,
+      "hyp_words": 1019
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.765,
+        "end": 3.76,
+        "text": "Zdravljeni!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 4.368,
+        "end": 13.362,
+        "text": "Upam, da je za vami en lep vikend in da ste se lahko spočili ali vsaj malo okusili kakšno lepo doživetje v odnosih ali pa v naravi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 14.24,
+        "end": 19.437,
+        "text": "Zaposleni otroci in študentje bi verjetno odgovorili, da so vikendji zakon."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 20.467,
+        "end": 22.88,
+        "text": "Kaj popokojenci, starostniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 23.639,
+        "end": 29.343,
+        "text": "Tisti, ki živijo z nami ali v naši bližini ali okoli nas pa niso domovih zaoskarjale."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 30.153,
+        "end": 37.122,
+        "text": "Kako se počutijo, včasih se celo sprašujemo, čigava odgovornost je uresnici njihoveh počutil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 37.662,
+        "end": 45.492,
+        "text": "Veliko govorimo, kako poskrbeti za starostnike v domovih zaostarele, na primer, ki so posebej ranljiva skupina."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 46.15,
+        "end": 49.677,
+        "text": "Vendar pa je med nami starostnikov mnogo več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 50.487,
+        "end": 65.388,
+        "text": "Kdo bo poskrbel zanje država strokovnjaki, njihovi bližnji in koliko po drugi strani lahko nato ga ne bodo osamljeni, da se bodo počutili uredu o tem obdobju tudi sami?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 67.058,
+        "end": 73.876,
+        "text": "Seveda na to nekakor nimamo enoznačnega odgovora in je vsak primer zase nekako edinstven."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.686,
+        "end": 82.938,
+        "text": "Ampak skušajmo pogledati dva vidika, mogoče dve v grobom kategoriji za kakšnega starostnika sploh gre."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 84.76,
+        "end": 91.612,
+        "text": "Na primer, ena skupina starostnikov je zagotovo živo otroštvo v svojem nadostništvu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 92.118,
+        "end": 108.52,
+        "text": "Doživela veliko hudega trpljenja, na primer ali so rojene že med vojno ali so jim umrli starši, so živeli znotraj alkoholizma nasilja za nemarjanja in podobnih težkih bolečih temah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 110.09,
+        "end": 114.983,
+        "text": "Ti starostniki, ki imajo nedograjene odnose v svoji preteklosti?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 115.962,
+        "end": 127.184,
+        "text": "So zelo zaznamovani v svojih življenjih in se ponavadi že brez dodatnih stresnih obdobij v odnosih le delno znajdejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 128.247,
+        "end": 131.588,
+        "text": "Medtem ko imamo po drugi strani skupino starostnikov..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 132.331,
+        "end": 143.57,
+        "text": "Ki so vitalni, z nami spletajo živahne zaupne odnose, se zmorejo pogovarjati o različnih temah, o razlčniščutstvenih spektrih določenih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 144.312,
+        "end": 154.555,
+        "text": "Tem zadel se poglabljajo vase, razvijajo neko zaupanje sočutje in so na starost pravi modrici."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 156.378,
+        "end": 159.922,
+        "text": "Če si torej, skušamo predstavljati obe skupin."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 160.883,
+        "end": 166.975,
+        "text": "Lahko hitro začutimo, kako zelo različno vzdušjev zbudita po našem telesu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 168.19,
+        "end": 172.612,
+        "text": "In posledično tudi zelo različna odgovornost za skrb?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 173.388,
+        "end": 178.754,
+        "text": "Ali pa po drugi strani na veličanost, da moraš vedno skrbeti še za nekoga?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 179.294,
+        "end": 182.348,
+        "text": "Čeprav bi si uresnici želel, da bi bilo obratno?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 184.053,
+        "end": 185.622,
+        "text": "Ob starostnikih torej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 186.179,
+        "end": 190.398,
+        "text": "Ki sami ne zmorejo vzpostaviti pozitivnega vstopa v odnose?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 191.545,
+        "end": 196.135,
+        "text": "Je to za srednjo generacijo kar zahteven čustven izil, posebej zdaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 197.249,
+        "end": 200.236,
+        "text": "Pogosto so ti starostniki namreč naveličani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 200.86,
+        "end": 202.936,
+        "text": "Vidijo prej slabo kot dobro."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 203.965,
+        "end": 209.855,
+        "text": "Že čepokličejo, imajo kakšne pikre težke stavke ali vzdihek kot..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 210.547,
+        "end": 218.849,
+        "text": "Mi nismo za nobeno rabo ali, a nas na nas boste pa kar pozabili ali kaj podobnega, mrsi kdo to še bolje pozna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 220.165,
+        "end": 223.355,
+        "text": "Ampak vsa ta sporočila so izredno obremenjujoča."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 224.89,
+        "end": 228.13,
+        "text": "Iskreno rečeno, obremenjujoča za obe strani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 229.514,
+        "end": 239.69,
+        "text": "Vendar tukaj, iskreno rečeno, lahko pogosto ali pa pogosteje, bolj na nek način računamo na čustveno zrelo srednje generacije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 240.635,
+        "end": 241.63,
+        "text": "Če namreč?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 242.491,
+        "end": 245.377,
+        "text": "Sesredna generacija zmore zavedati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 246.018,
+        "end": 253.882,
+        "text": "Kaj se v teh odnosih dogaja, katera čustvo prevledujejo, kaj pogrešajo, kakih jezi, kako spravlja v stisko?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 254.793,
+        "end": 260.53,
+        "text": "In da potem odreagirajo znotraj tega, ali pa skušajo te starše čim bolj razumeta, kate bližnje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 261.29,
+        "end": 267.601,
+        "text": "Je to zelo drugo ceno za celotno združino, ker zniža to tesnobo oziroma napetost do družini, al pa jezo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 269.17,
+        "end": 272.022,
+        "text": "Šele ko se namreč zavedeš svojih občutkov?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 272.545,
+        "end": 274.52,
+        "text": "In poznaš zgodovino odnosov?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 275.06,
+        "end": 280.747,
+        "text": "Nekako lažje sprejmeš ali neodzivnost, ali neprijetno odzivnost?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 281.827,
+        "end": 293.707,
+        "text": "Preslišiš te zoperne stavke, jih ne vzameš toliko resno in na nek način z zavedanjem vsoga tega in te zgodovine lahko tudi začneš razvijati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 294.348,
+        "end": 295.883,
+        "text": "Še globljoso čutje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 297.065,
+        "end": 303.713,
+        "text": "To zahteva preseganje teh starih vzorcev, ampak je res drgo ceno za celoten družinski sistem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 305.333,
+        "end": 308.995,
+        "text": "Res in sicer, da tudi ti, mnogi starostniki..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 309.907,
+        "end": 315.155,
+        "text": "A še močno napredujejo, če se tega le vsaj malo zavedajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 316.083,
+        "end": 323.153,
+        "text": "To pomeni, da je dragoceno, da se o tem pogrešanju po te morda jezi na veličenosti..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 323.66,
+        "end": 340.214,
+        "text": "Če čutimo, da je vsaj malo možno pogovorimo in potem lahko tudi ti starost neki na nek način začnejo razvijat neke mogoče nove ozorce ali pa ne bodo uporabili kakšnega tega stavka, ki jim kar sem pride na jeziki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 340.855,
+        "end": 344.095,
+        "text": "In z vsemi temi, skupnimi močmi?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 344.905,
+        "end": 353.191,
+        "text": "Kamor, ste v resnici vsi pogabljeni ali pa smo, če tako rečem, lahko potem se potrudimo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 353.782,
+        "end": 368.902,
+        "text": "Da so ta zadnja leta lepša in je potem tudi to poslavljanje, ki nam na svetem obdobju na nek način tudi že navdihuje oziroma ga slutimo, bolj umirjeno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 370.454,
+        "end": 384.865,
+        "text": "Dejstvo je po drugi strani tudi, da je to zdaj res zahtevno, ker smo sicer bolj navajeni ali pa sploh ta generacija nekega fizičnega stika.Tako, da smo povabljeni nakrešno kosilo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 385.372,
+        "end": 390.451,
+        "text": "Kršenga obiska se objamemo, mal posedimo skupi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 390.957,
+        "end": 393.472,
+        "text": "Ni pa nujno, da si vedno veliko rečemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 394.062,
+        "end": 402.263,
+        "text": "To nam je vltuje, zato je tokrat v tej karantenski že dolgotrajni situaciji nek nov izziv."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 402.803,
+        "end": 430.934,
+        "text": "Naučiti se več od tega, kar čutimo drug ob drugem, kar pogrešamo, kar nas morda moti, da se naučimo to v besede in besede tudi imajo en zlomočen učink in tudi na nek način lahko pobožajo, nagovorijo, dajo občutek povezanosti, je pa res, da moramo pogosto ob tem na nek način premagati svoje neprijetne občudke, ker nam je to toliko bolj tuje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 431.677,
+        "end": 443.978,
+        "text": "Torej to je z mnoge tudi mlajše družine za srednjo generacijo, posebej pa za starostnike Emkr velik izziv, ki pa je dragoceni njene k način naložba za naše odnose."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 445.413,
+        "end": 451.083,
+        "text": "Medtem ko, če gremo zdaj na drugo kategorijo tistih starostnikov, ki sem jih prej omenila..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 451.96,
+        "end": 471.788,
+        "text": "So lahkoto starostniki, pri katerih pa opazimo pozitivno držo, polno enih navihanjih idej, znajo poskrbeti zase, pomagajo tudi na mlajšim družinam, psihično ali pa fizično celo, če to dopuščajo razmere trenutne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 472.582,
+        "end": 484.462,
+        "text": "Z njimi smo se videla lahko tudi bolj iskreni v odnosih, ni nam treba toliko pozitika, rečemo in ti odnosi so povprečo seveda veliko bolj sproščeni, zadovoljujoči."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 485.086,
+        "end": 489.878,
+        "text": "Lepši na nek način, posebej tem staršem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 490.773,
+        "end": 524.945,
+        "text": "Ki zmorejo več, v polčasih pozabamo biti hvaležni in ne bo to ob njihen poseben izziv, da si drug drugemu to povemo.Tudi starši, ki se počutite vitalne, starostnike mislim, da jih povejte s svojim otrokom, da so dragoceni, da jih pogrešate, da komaj čakate, saj boste spet družili, pokličite svoje vnučke in bližnje, tudi vi lahko veliko naredite za pozitivnost odnosov po drugi strani krajšate čez sebi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 525.923,
+        "end": 546.14,
+        "text": "In za zaključek bi rekla, ne glede na to, da imamo tukaj na nek način različne močnosti, razlišno močan potencial, ki ga lahko razvijamo, ampak kakorkoli ta potencial imamo vsi in potencial za razvoj sočutja v odnosih ostane v nas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 546.713,
+        "end": 559.893,
+        "text": "Za risanj in na nek način vzpostavljen celo življenje, tako da želim vam srečno naprej in sto mislijo ga nikoli ni zaogupat čisto do konca."
+      }
+    ],
+    "runtime_sec": 69.38545632362366
+  }
+}

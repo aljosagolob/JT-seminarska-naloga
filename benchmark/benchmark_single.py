@@ -151,37 +151,6 @@ def benchmark_file(wav_path: str) -> dict:
         "our_pipeline": {},
     }
 
-    # --- WhisperX ---
-    print("\n[WhisperX] Running...")
-    t0 = time.time()
-    try:
-        wx_segments = run_whisperx(wav_path)
-        wx_time = time.time() - t0
-        print(f"  Done in {wx_time:.1f}s ({len(wx_segments)} segments)")
-
-        if rttm_path:
-            for collar in [0.0, 0.25]:
-                der = evaluate_der(rttm_path, wx_segments, collar=collar)
-                result["whisperx"][f"der_collar{collar}"] = der
-                print(f"  DER (collar={collar}): {der['der']*100:.2f}%  "
-                      f"Miss={der['miss']*100:.2f}%  "
-                      f"FA={der['fa']*100:.2f}%  "
-                      f"Conf={der['confusion']*100:.2f}%")
-
-        if ref_segments:
-            wer = evaluate_wer(ref_segments, wx_segments)
-            result["whisperx"]["wer"] = wer
-            if wer["wer"] is not None:
-                print(f"  WER: {wer['wer']*100:.2f}%  "
-                      f"(ref={wer['ref_words']} words, hyp={wer['hyp_words']} words)")
-
-        result["whisperx"]["segments"]    = wx_segments
-        result["whisperx"]["runtime_sec"] = wx_time
-
-    except Exception as e:
-        print(f"  ERROR: {e}")
-        result["whisperx"]["error"] = str(e)
-
     # --- Our Pipeline ---
     print("\n[OurPipeline] Running...")
     t0 = time.time()
@@ -212,6 +181,37 @@ def benchmark_file(wav_path: str) -> dict:
     except Exception as e:
         print(f"  ERROR: {e}")
         result["our_pipeline"]["error"] = str(e)
+
+    # --- WhisperX ---
+    print("\n[WhisperX] Running...")
+    t0 = time.time()
+    try:
+        wx_segments = run_whisperx(wav_path)
+        wx_time = time.time() - t0
+        print(f"  Done in {wx_time:.1f}s ({len(wx_segments)} segments)")
+
+        if rttm_path:
+            for collar in [0.0, 0.25]:
+                der = evaluate_der(rttm_path, wx_segments, collar=collar)
+                result["whisperx"][f"der_collar{collar}"] = der
+                print(f"  DER (collar={collar}): {der['der']*100:.2f}%  "
+                      f"Miss={der['miss']*100:.2f}%  "
+                      f"FA={der['fa']*100:.2f}%  "
+                      f"Conf={der['confusion']*100:.2f}%")
+
+        if ref_segments:
+            wer = evaluate_wer(ref_segments, wx_segments)
+            result["whisperx"]["wer"] = wer
+            if wer["wer"] is not None:
+                print(f"  WER: {wer['wer']*100:.2f}%  "
+                      f"(ref={wer['ref_words']} words, hyp={wer['hyp_words']} words)")
+
+        result["whisperx"]["segments"]    = wx_segments
+        result["whisperx"]["runtime_sec"] = wx_time
+
+    except Exception as e:
+        print(f"  ERROR: {e}")
+        result["whisperx"]["error"] = str(e)
 
     # --- Summary ---
     print(f"\n{'─'*40}")

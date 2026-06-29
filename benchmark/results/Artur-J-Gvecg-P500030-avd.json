@@ -1,0 +1,838 @@
+{
+  "file_id": "Artur-J-Gvecg-P500030-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500030-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.06184727727250176,
+      "miss": 0.06184727727250176,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 972.8479999999923
+    },
+    "der_collar0.25": {
+      "der": 0.04670663915970316,
+      "miss": 0.04670663915970316,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 869.5979999999923
+    },
+    "wer": {
+      "wer": 0.15363511659807957,
+      "ref_words": 2187,
+      "hyp_words": 2123
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 1.671,
+        "text": "... razsežnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.111,
+        "end": 7.993,
+        "text": "Vsi se še zelo dobro spominjamo prizorov iz severne Italije, posebej iz bolnišnice v Bergamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 8.433,
+        "end": 20.256,
+        "text": "In ker tukaj živimo ob zelo pretočni meji z Italijo, smo s cmokom v grlo spremljali poročila italijanskih televizijskih hiš, še preden so te črne novice sploh dosegle preostali del Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 20.956,
+        "end": 37.92,
+        "text": "Zato smo se tisti, ki smo prepoznali resno osnovo nastalega stanja, nemudoma se stali z vodstvo bovnišnice s predlogej, kako samo zaščitno ukrepati in že konec februarja postavili prva dva šotora na ploščadi zareševalna vozila pred urgentnim centrom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 38.4,
+        "end": 48.562,
+        "text": "Tako smo dobesedno čez noč med prvimi v Sloveniji zagotovili zametke bodočega sivega območja, ki je na to omogočilo ločevati covidne pacijente od necovidnih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 49.002,
+        "end": 60.069,
+        "text": "Za razglasitvijo epidemije v prvem valu je bolnišnica svoje delovanje preoblikovala na način dela, kot je to predvideno za velike nesreče v zdravstvu po sistemu MRMI."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 60.609,
+        "end": 66.132,
+        "text": "Tako da smo ustanovili krizni štab, ki z manjšim poletnim premorom deluje neprekinjeno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 66.553,
+        "end": 73.417,
+        "text": "Sestane se tudi večkrat na dan in sprejema vse ključne odločitve o delovanju bolnišnice v kriznih razmerah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 73.977,
+        "end": 84.925,
+        "text": "V prvem valu je bila prioritetna naloga kriznega štaba oblikovati in zapisati načrt spremenjenega delovanja bolništice, ki je bolništični kompleks razdelil na tri področja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 85.386,
+        "end": 94.853,
+        "text": "Na področje glavne bolništične zgradbe, kamor razen v dveh natančno dogovorjenih in nadzorovanih okoliščinah, covidnim pacijentom vstop ni dovoljen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 95.273,
+        "end": 108.763,
+        "text": "Na področji urgentnega centra, ki smo ga preuredili v belo, sivo in rdeče območje, kar omogoča v največji miri ločevanje covidnih od necovidnih pacijentov in predstavlja nekakšen filtr, ki ščiti preostali del bolnišnice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 109.164,
+        "end": 114.468,
+        "text": "Zagotavlja pa tudi vhodna in izhodna vrata za hospitalizirane covidne pacijente."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 115.068,
+        "end": 133.102,
+        "text": "Ter na področje stare bovništične zgradbe, ki smo jo prioblikovali tako, da v njej lahko zdravimo hospitalizirane covidne bovnike, se je ta zgradba odmaknjena od večine ostalih bovništičnih dejavnosti in ne premore osrednjega prezračevalnega sistema, ki bi sicer lahko predstavljal pot raznosa okužbe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 133.702,
+        "end": 138.466,
+        "text": "Ta načrt je bil prepoznan kot zelo učinkovit in kot tak velja še danes."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 138.946,
+        "end": 143.351,
+        "text": "Šotorom pred urgentnim centrom so se kmalo pridružili bivalni zabojniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 143.872,
+        "end": 157.167,
+        "text": "Postavitvi celotnega montažnega sistema sivega območja gre za sluga upravi Republike Slovenije za zaščito in reševanje, regijski civilni zaščiti ter enoti poklicnih gasilcev iz Nove Gorice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 157.728,
+        "end": 160.99,
+        "text": "Te službe so tesno upete tudi v pravost brisov v Ljubljano."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 161.531,
+        "end": 167.675,
+        "text": "Njihovo požrtovalno delo je nepredseljnivo, zaslužijo si vse spoštovanje in globok poklon."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 168.256,
+        "end": 178.883,
+        "text": "Glede brisov na SARS-CoV-2 najomenim, da že od samega začetka izvajamo izključno nosno žrelne oduzeme za molekularno testiranje po metodi PCR v realnem času."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 179.464,
+        "end": 183.927,
+        "text": "Z Inštitutom za mikrobiologijo in imunologijo v Ljubljani odlično sodelujemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 184.087,
+        "end": 202.355,
+        "text": "Med prvimi smo z njimi vzpostavili digitalno povezavo, tako da lahko izvide testiran preberemo v našem bolnišničnem informacijskem sistemu takoj, ko je preiskava zaključena, kar izjemno olajša in pospeši delo, za kar bi se rad še posebej zahvalil profesor Petrovcu, ki je to omogočil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 202.615,
+        "end": 219.389,
+        "text": "Še en podatek glede testiranja pohvaliti želim vodjo našega bolnišničnega mikrobiološkega laboratorija, ki je omogočila PCR testiranje vsem urgentnim pacijentom, ki morajo biti hospitalizirani in izkazujo sum na SARS-CoV-2 okužbo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 219.929,
+        "end": 228.674,
+        "text": "Izvid je zdan prekot v eni uri, kar omogoča, da se svi v obločju urgentnem centru ne napihuje, pretočnost pacientov pa se zelo poveča."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 229.174,
+        "end": 239.44,
+        "text": "V zadnjem času smo začeli uporabljati tudi tako imenovane hitre antigenske teste, zaradi nizke občutljivosti pa PCR testov trenutno še ne morejo nadumestiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 240.128,
+        "end": 248.417,
+        "text": "Od samega začetka dobro sodelujemo z Zdravstvenim domom Nova Gorica, ki je svojo vstopno točko za jamanje brisov sprva organiziral pri nas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 248.798,
+        "end": 251.881,
+        "text": "Kasneje pa jo je premaknil na svojo matečno lokacijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 252.302,
+        "end": 256.186,
+        "text": "Poleg tega nam pomagajo tudi pri pravozu brisov v Ljubljano."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 256.987,
+        "end": 262.41,
+        "text": "Posebno poglavje predstavljajo domovi starejših občanov, kjer se okužba lahko izjemno hitro širi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 262.891,
+        "end": 279.741,
+        "text": "Zato je strokovno osebje naše bolnišnice že s pomladi obiskalo vse dlse oje na našem območju, pregledalo njihove prostore in osebno varovalno opremo, naučili smo jih, kako se leta pravilno uporablja, z nasveti smo jim tudi pomagali pri postavitvi rdečega območja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 280.021,
+        "end": 285.365,
+        "text": "V začetku je bilo po pričakovanih veliko neznak, kako reorganizirati domove."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 285.805,
+        "end": 287.987,
+        "text": "Danes pa je organizacija zelo dobra."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 288.387,
+        "end": 290.069,
+        "text": "Lahko bi rekel, celo odlična."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 290.129,
+        "end": 296.193,
+        "text": "Vse pohvale grado zaposlenim in vodstvom, ki so naša priporočila upoštevali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 296.814,
+        "end": 305.7,
+        "text": "Kljub naraščenju števila okuženih uspejo zadržati večino svojih varovancev v domovih in bolnišnico na tak način ne minimalno bremenijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 306.181,
+        "end": 308.443,
+        "text": "K nam pošiljajo res samo hudobavne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 309.063,
+        "end": 315.268,
+        "text": "Za posvet je vedno na voljo naš bolnišnični zdravnik zelo prizadevni, pa so tudi domski zdravniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 315.929,
+        "end": 319.772,
+        "text": "Sreči se črni obeti iz Italije pri nas v prvem valu niso vresničili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 319.792,
+        "end": 325.696,
+        "text": "V goriški regiji je bilo izjemno malo okuženih, še manj obolelih in nič hospitaliziranih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 326.217,
+        "end": 335.925,
+        "text": "Kot bi bili na našem koncu Slovenije nekako imuni pred carsko vde okužbo, čeprav vemo, da temu ni tako, kar se je nažalost izkazalo v drugem valu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 336.485,
+        "end": 343.731,
+        "text": "Kljub seboj smo urgentni centr in tretje nadstropje stare bolnišnečne zgradbe že v prve valo spremenili v neprodušni bunkar."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 344.211,
+        "end": 363.987,
+        "text": "Vrata smo tesno prilepili, postavili pregradne stene na hodnikih, nekatere moteče stene tudi porušili, naredili preboje med sobami, odstranili neuporabljeno premo pokrpali tla, uredili filtre, ločili čiste od nečistih poti, pa vso odpostavili v pozorine table in bili pripravljeni na najhujše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 364.447,
+        "end": 367.089,
+        "text": "Delalo se je vse dni v tednu, tudi pozdno v noč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 367.609,
+        "end": 371.291,
+        "text": "Nihče ni jamro v trujenosti ali v tem, kdaj gre lahko domov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 371.691,
+        "end": 372.752,
+        "text": "Izkazali so se vsi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 373.152,
+        "end": 382.158,
+        "text": "Na tem mestu pa še posebej pohvalim osebe tehničnih služb, ki je dobesedno očaralo in z omejenimi sredstvi ustvarilo tako rekoč nov oddelek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 382.638,
+        "end": 390.282,
+        "text": "Drugi val, ki nas je zajel na jesen, smo pričakali bistveno bolj racionalno pripravljeni, saj smo pridobili izkušnje in novo znanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 390.962,
+        "end": 407.59,
+        "text": "V stari bolnišnični zgradbi smo najprej uredili prostore za negovalni COVID-odelek, kjer smo kot prva bolnišnica v Sloveniji sprejeli 22 asimptomatskih oskrbovanjcev DSAO-jev iz drugih predelov Slovenije, tako da so lahko pri njih uredili rdeče območje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 408.17,
+        "end": 421.927,
+        "text": "Kesneje smo legovalni oddelek razširili po celotnem tretjem nadstropju in na del drugega nadstropja stare bolnišnične zgradbe, ter ga prioblikovali v akutni COVID-odelek in COVID-enoto za intenzivno terapijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 422.327,
+        "end": 424.189,
+        "text": "Urgentni centar pa ni več bunker."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 424.69,
+        "end": 434.352,
+        "text": "Zakotovili smo ustrezno IT tehnologijo, napeljali manjkajoče vode za kisik in zrak, torej spostavili radijske povezave med rdečim in belim območjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 434.972,
+        "end": 447.335,
+        "text": "Zdravstveno osebje smo opavnomočili glede uporabe osebne varovalne opreme, ki smo jo postopno, tudi s pomočjo državnih blagovnih rezerov, nabavili do te mire, da je delo s COVID pacijenti popolnoma varno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 447.775,
+        "end": 461.583,
+        "text": "Še predtem smo s strani Službe za preprečevanje in obvladovanje bolnišničnih okužb Univerzitetnega kliničnega centra iz Ljubljane pridobili pozitivno mnenje o primirnosti delovnih procesov na našem COVID-19 oddelku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 462.123,
+        "end": 472.79,
+        "text": "Veliki ziv predstavlja ustrezna medicinska oprema, ki je nimamo dovolj, vendar se na tem področju stanje bistveno izboljšuje, saj vsak dan prispeka k kos nove opreme."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 473.29,
+        "end": 479.392,
+        "text": "V največji meri gre tu zasluga Ministrstvu za zdravje, ki nam je omogočilo nabavo dražjih aparatur."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 479.853,
+        "end": 493.478,
+        "text": "Izjemno velik in spontan odziv pa smo doživeli tudi strani lokalnega gospodarstva, posameznikov in mestne občine Nove Gorica, ki so v velika številu pripravljeni donirati sredstva za pomoč regijski bolišnici."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 493.758,
+        "end": 495.439,
+        "text": "Vsem iskrena hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 496.139,
+        "end": 507.346,
+        "text": "Še večji izziv predstavlja kader, ki ga je kronično premalo, predvsem na področju zdravstvene nege, za kar je bilo treba bolništično delo reorganizirati z združevanjem oddelkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 507.906,
+        "end": 516.532,
+        "text": "Na COVID-oddelku ležijo tudi tisti pacijenti, pri katerih COVID-bolezen ni glavna diagnoza, tako da imamo stalno prisotnega tudi kirurga."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 517.072,
+        "end": 522.656,
+        "text": "V domačo bolnišnico smo poklicali vse naše specializante, ki tudi pomagajo pri delu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 523.156,
+        "end": 530.887,
+        "text": "Vsega skupaj je zadelo na COVID-u delko vključenih 10 zdravnikov in 38 zaposlenih z področja zdravstvene nege."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 531.628,
+        "end": 539.779,
+        "text": "Ni deset, s katerimi bi se lahko dovolj močno zahvalil vsem zdravstvenim tehnikom, srednjim in diploniranim medicinskem sestram,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 539.879,
+        "end": 551.165,
+        "text": "diplomiranim zdravstvenikom, pa tudi zdravnicam in zdravnikom ter drugemu osebju, ki dela v izjemno težkih in stresnih pogojih z eno samo željo pomagati bovnikom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 551.505,
+        "end": 553.266,
+        "text": "Neskončno hvala vsem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 553.967,
+        "end": 568.555,
+        "text": "Najlepša hvala tudi osebju zdravstvene nege zdravstvenega doma Nova Gorica in zdravstvenega doma Ajdoščina, ki nam je priskočilo na pomoč in seveda vsem predstavoljcem, ki v svojem prostem času nesebično pomagajo pri različnih opravilih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 568.955,
+        "end": 575.841,
+        "text": "Tudi strokovnih, saj jih veliko prihaja prav iz vrst medicinske fakultete in visoke šole za zdravstvo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 576.421,
+        "end": 591.935,
+        "text": "Vsem, ki bi se v času dela na COVID-u delko želeli iz preventivnih razlogov umakniti od svojih družin, je omogočena nastanitev v bližnje hotelu, ki ga je za čas epidemije uporabo odstopil naš največji ponudnik igralniških storitev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 592.495,
+        "end": 600.922,
+        "text": "Da je delo pri nas dobro in varno organizirano, kaže podatek o zelo nizkem številu udorov vkušenih pacijentov v belo območje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 601.383,
+        "end": 607.248,
+        "text": "Šlo je le za nekaj posameznikov, ki pa vkušbe niso prenesli na ostale pacijente ali osebe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 607.818,
+        "end": 615.583,
+        "text": "Do tega trenutka je bilo na bolniški odsotnosti šest zaposlenih, ki so se okužili med seboj na delovnem mestu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 615.603,
+        "end": 618.484,
+        "text": "33 zaposlenih pa se je okužilo izven bolnišnice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 618.965,
+        "end": 623.027,
+        "text": "V samej izolaciji zaradi stika z obolelimi je bilo 50 zaposlenih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 623.427,
+        "end": 625.549,
+        "text": "Vsi so na to imeli negativni bliz."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 626.009,
+        "end": 632.854,
+        "text": "Razveselivo je tudi dejstvo, da se nihče od zaposlenih, ki dela na COVID-odelku, ni okužil na delovnem mestu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 633.355,
+        "end": 643.043,
+        "text": "Sodelavke in sodelovci, ki so se po preboleli bolezni COVID-19 vrnili na delovno mesto, so toplo sprejeti in ne doživljajo stigmatizacije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 643.643,
+        "end": 645.604,
+        "text": "Kakšno je trenutno stanje pri nas?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 646.105,
+        "end": 654.87,
+        "text": "Na današnji dan je hospitaliziranih 27 COVID-pacijentov na navadnem COVID-oddelku in 7 pacijentov v COVID-enoti za intenzivno terapijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 655.27,
+        "end": 657.432,
+        "text": "Od tega je pet umetno predihavanih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 657.992,
+        "end": 664.937,
+        "text": "Sega skupaj se je pri nas zdravilo 106 COVID-pacijentov, od tega 12 v COVID-enoti za intenzivno terapijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 665.497,
+        "end": 673.425,
+        "text": "Polovica prihaja iz občin, ki tudi sicer gravitirajo v našo bolnišnico, drugi so iz ostalih predelov Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 673.645,
+        "end": 684.056,
+        "text": "Čeprav imamo k sreči na Primorskem bistveno manj COVID-pacijentov kot drugi v Sloveniji, pa je naša vloga predvsem biti solidaren z ostalimi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 684.717,
+        "end": 692.183,
+        "text": "Poprična starost COVID-pacijentov znaša 72 let, najmlajši je bil star 27 let, najstarejši pa 99 let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 692.243,
+        "end": 700.05,
+        "text": "Do danes je umrlo 16 COVID-pacijentov, v COVID-tenoti za intenzivno terapijo pa ni umrl nihče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 701.086,
+        "end": 706.189,
+        "text": "Poprečna starost umrlih COVID-pacijentov znaša 86 let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 706.209,
+        "end": 711.332,
+        "text": "56 COVID-pacijentov je ozdravilo in ne potrebujejo več bolnišnične oskrbe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 711.352,
+        "end": 717.095,
+        "text": "5 COVID-pacijentov pa je bilo premeščenih iz COVID-enote za intenzivno terapijo na navadni COVID-odelek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 717.456,
+        "end": 722.078,
+        "text": "Poprečna ležalna doba odpoščenih COVID-pacijentov znaša 5,7 dni, umrlih pa 4,9 dni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 725.943,
+        "end": 738.248,
+        "text": "Ne glede na trenutno stanje, bi rad spovedal, da splošna bolnišnica Nova Gorica ni pozabila na ostale ne-COVID bolnike in je svojo redno dejavnost zagotavljala vse do konca oktobera 2020."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 738.388,
+        "end": 739.388,
+        "text": "Zdaj pa to ni več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 743.695,
+        "end": 744.595,
+        "text": "...mogoče vceloti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 745.036,
+        "end": 751.539,
+        "text": "Obželujemo dejstvo, da se bo čekalna doba zaradi više sile nekaterim ne-COVID pacijentom podaljšala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 752.019,
+        "end": 755.761,
+        "text": "Zato bomo stvorili vse, da bo njihova stiska čim manjša."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 755.781,
+        "end": 760.364,
+        "text": "Hkrati pa povdarjamo, da urgentni center deluje kot vedno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 760.604,
+        "end": 763.787,
+        "text": "in da ne bomo zavrnili nobenega urgentnega pacjenta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 764.148,
+        "end": 766.43,
+        "text": "Tu je vsaka vojazen odveč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 767.011,
+        "end": 774.258,
+        "text": "Dokler bo v nas še zadnji atom moči, bomo poskrbeli za vse naše pacjente, tako covidne kot tudi ne-covidne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 775.049,
+        "end": 786.135,
+        "text": "skoraj da ne bi razveselili s kulinaričnimi presenečenji in s tem pokazali, da jim je mar za nas in naše delo in da cenijo trud, ki ga vlavgamo v zdravljanje bovnikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 786.636,
+        "end": 792.259,
+        "text": "Pri tem nikoli ne pozabijo povedati, da so njihovi darovi namenjeni COVID-junakom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 792.719,
+        "end": 795.201,
+        "text": "Res lepa pozornost in presrčna hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 795.721,
+        "end": 808.266,
+        "text": "A COVID-i onaki so tudi oni in vsi tisti, ki nosite maske, ki si razkožujete roke, ki pazite na medsebojno razdaljo in ki skrbite, da se okužba ne širi na druge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 809.007,
+        "end": 821.172,
+        "text": "Če lahko izluščim tudi kako pozitivno lasnost, ki nam jo je prinesel koronavirus, je prav gotovo tesnejše, strpnejše in boljše sodelovanje vseh, ki sodelujemo pri obravnavi pacijentov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 821.692,
+        "end": 838.447,
+        "text": "Ob zaključku bi si izposodil misel gospe Catherine Camus, hčere znamenitega Alberta Camus, avtorja še bolj znamenitega romana Cooga, ki je dejala, da nismo odgovorni za koronavirus, lahko pa smo odgovorni za odzive na nj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 838.467,
+        "end": 847.115,
+        "text": "Trdim, da smo na severnopriborskem z odzivi na koronavirus zelo odgovorni, sorazmelnji in v skladu z navodili stroke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 847.595,
+        "end": 855.604,
+        "text": "Primorci se v svoji zgodovini nismo nikoli predali in prav gotovo se ne bomo predali niti v boju s koronavirusom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 855.965,
+        "end": 858.408,
+        "text": "Skupaj za vso Slovenijo zmoremo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 860.386,
+        "end": 878.296,
+        "text": "Glede testiranja s hitrimi antigenskimi testi, lahko rečem, da imamo izdelan določen protokol in sicer glede na to, da ti testi niso zelo občutljivi, smo se skladno priporočili, stroke odločili, da načeloma testiramo pacijente, predvsem tiste, ki so namenjeni hospitalizaciji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 879.016,
+        "end": 880.077,
+        "text": "Vse."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 880.417,
+        "end": 890.265,
+        "text": "Takrat se potem odločimo, če je test pozitiven, potem je to a priori prevzeto, da je taka oseba tudi pozitivna na SARS-CoV-2 okužbo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 890.706,
+        "end": 901.835,
+        "text": "Če pa je hitri antigenski test negativen, potem pa moramo narediti še potrditveni PCR test, da lahko izključimo, ali gre za okužbo ali ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 902.135,
+        "end": 920.237,
+        "text": "Glede finančne obrmenitve bolnišnice, pa najbrž nisem jaz najbolj primerna oseba, tako da lahko rečem samo to, da vse stroške zbiramo na posebnem računu, na posebnem stroškovnem mestu, če se lahko bolje izrazim, tako da bi za ta podatek predlagam se obrnili na vodstvo bolnišnice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 921.828,
+        "end": 942.434,
+        "text": "Ja, glede opreme je tako, da nam primankuje predvsem monitorjev za nadzor vitalnih funkcij, potem oksimetrov, prenosni oziroma prevozni rentgenski aparat, ultrazvočni aparat, se pravi vse te aparature, ki bi jih potrebovali za nadzor težjih pacijentov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 944.643,
+        "end": 956.429,
+        "text": "Medtem, ko pa glede diagnoz, ki ste spraševali, gre to predvsem za kiurške pacijente, ki imajo, ne vem, naprimer zlomen kolk ali pa recimo, da bo imeli kakšno obolenje v trbušni votlini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 956.689,
+        "end": 966.615,
+        "text": "Taki pacijenti pa so pri nas niso hospitalizirani zaradi tega, ker bi potrebovali hospitalizacijo zaradi COVID-diagnoze, temveč imajo COVID-diagnozo za zdravljanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 966.635,
+        "end": 972.458,
+        "text": "Vendar, ker smo se odločili, da bodo tudi taki pacijenti ležali na COVID-odel, ko se pravi v rdečem območju,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 972.858,
+        "end": 975.819,
+        "text": "seveda pristanejo na preomenenem oddelku."
+      }
+    ],
+    "runtime_sec": 484.09296464920044
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.01213036363337329,
+      "miss": 0.01213036363337329,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 972.8479999999923
+    },
+    "der_collar0.25": {
+      "der": 0.010018422305479257,
+      "miss": 0.010018422305479257,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 869.5979999999923
+    },
+    "wer": {
+      "wer": 0.25925925925925924,
+      "ref_words": 2187,
+      "hyp_words": 2034
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.402,
+        "end": 20.365,
+        "text": "vsega iz bolničnice v Bergamo in kar tukaj živimo ob zelo pretročni meji iz Italijo, smo s smokom v grlu spremljali poročila italijanskih televizijskih hiš, še preden so te črne novice sploh dosegle preostali del Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 21.023,
+        "end": 239.572,
+        "text": "Zato smo se tisti, ki smo prepoznali resno osnovanost talega stanja, nemudoma sestali z vodstvom bolnišnice s predlogi, kako samozazščitno ukrepati in že konec februarja postavili prva dva šotora na ploščadi Zraševalna vozila pred urgentnim centrom.Tako smo dobesedlo čez loč med prvimi v Sloveniji zagotovili zametke bodočega sivega območja, ki je nato omogočilo ločevati kovidne paciente od nekovednih.Z razglasitvijo epidemije v prvem valu je bolnišnica svoje delovanje preoblikovala na način dela, kot je to predvideno za velike nesreče v zdravstvu po sistemu M R M I. Tako da smo ustanovili krizni štab, ki jih z manjšim poletnim premorom deluje neprekinjeno, se stanejo tudi večkrat na dan in sprejema vse ključne odločitve o delovanju bolnišnice v kriznih razmerah.V prvem valu je bila prioritetna naloga kriznega štaba oblikovati in zapisati načrt spremenjenega delovanja bolnižnice, ki je bolnični kompleks razdelil na tri področja, na podrošči glavne bolniše zgradbe, kamor razen v dveh natančno dogovorjenih in nadzorovanih okoliščinah, kovidnim pacientom vstop ni dovoljen. Na podroščju urgentnega centra, ki smo ga preuredili ob belo, sivo in rdeče območje, kar omogoča v največji meri ločevanja kovidnih od nekovidlih pacientov in predstavlja na kakšen filter, ki ščiti preostali del bolnišnice, zagotavljajo pa tudi uhodna in izhodna vrata za hospitalizirane kovitne paciente ter na področje stare bolnišečne zgradbe, ki smo jo prioblikovali tako, da v njejložen kot zelo učinkovit in kot so odločili, je bil bilo našli odložbeni, da bi bilo povznikljen za vniki, postavitvi celega celotnega montažnega sistema sivega območja gre zasluga v pravi Republike Slovenije za zaščito in reševanje.Glede briso v naslednjih, številnih in nekajstnih, je bilo odločeno, da bi bilo obdobno, da so neseljali, da je biljo odlošalo, da bo bilo podjetje, da si je bililo, da se je bilimo, dave naj omenim, da že od samega začetka izvajamo izključno nosno žrelne odvzeme za molekularno testiranje po metodi pisijar v realnem času, z inštitutom za mikrobiologijo in imunologijo v Ljubljani odlično sodelujemo, med prvimi smo z njenem postavili digitalno povezavo, tako da lahko iz videe testiranj preberemo v našo bolnišničnem informacijskem sistemu takoj, ko je preiskava zaključena, kar izjemno olajša in pospeši delo, za kar bi se rad še posebno zahvalil profesor Petrovcu, ki je to omogočil. Še en podatek glede testiranja pohvaliti želim vodjo našega bolnišničnega mikrobiloškega laboratorija, ki ji je omogo čila pisjar testiranje vsem urgentnim pacientom, ki morajo bitih hospitalizirani in izkazujejo sum na sarsko v dve okužbo.Izvit je znan prej kot v eni uri, kar omogoča, da se stivo območje ozbogentnem centru nenapihuje, pretočnost pacientov pa se zelo poveča.V zadnjem času smo začeli uporabljati tudi tako imenovane hitre antigenske teste, zaradi nizkov občutljivosti pa pisjar teskov trenutno še ne morejo nadomestiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 240.145,
+        "end": 256.278,
+        "text": "Od samega začetka dobro sodelujemo zdravstvenim domom Nova Gorica, ki je svojo vstopno točko zajemanje brisov sprva organiziral pri nas, kasneje pa jo je premaknil na svoj matično lokacijo, poleg tega nam pomagajo tudi pri prevozu brisav v Ljubljano."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 256.987,
+        "end": 308.557,
+        "text": "Posebno poglavje predstavlja v domovih starejših občanov, kjer se okužba lahko izjemno hitro širi.Zato je strokovno osebje naše bolnišnice že spomladi obiskalo vse dese oje na našem območju, pregledalo njihove prostore in osebnouvarovalno opremo, naučili smo jih, kako se leta pravilna uporabja, z nasveti smo jim tudi pomagali pri postavitvi rdečega območja.V začetku je bilo po pričakovanjih veliko neznak, kakor reorganizirati domove, danes pa je organizacija zelo dobra, lahko bi rekel celo odlična, vse pohvale grador za poslenim in vodstvom desoiojev, ki so naša priporočila upoštevanji.Kljub naraščanju števila okuženih uspejo zadržati večino svojih varovancev v domovih in bolnišnico na tak način le minimalno bremenijo, k nam pošiljajo res samo hudobavne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 309.08,
+        "end": 461.444,
+        "text": "Za posvet je vedno na voljo naš bolnišničnih zdravnik, zelo prizadevni pa so tudi domski zdravniki.K sreči se črni obeti iz Italije pri nas v prve valu niso uresličili, v Goriški regiji je bilo izjemno malo okuženih še menj obolelih in nič hospitaliziranih, kot bi bili na našem koncu Slovenije nekako imuni pred carsko obdve okužbo, čeprav vemo, da temu ni tako, kar se je na žalost izkazalo v drugem valu. Klub sebu smo urgentni center in tretje nadstropje stare bolničnejšnje zgradbe že v prvem valu spremenili v neproduš bunkar, grata smo tesno preletili, postavili pregradnje stene na hudnikih, nekatere moteče stene tudi porušili, naredili preboje med sobami, odstranili neuporab bi nizetkrat odločili, da so prišli v točko, da bi bilo vložen, da je bilo tudi vločilno, da nas je zajel na jesen, smo pričakali bistveno bolj racelano pripravljeni, saj smo pridobili izkušnje in novo znanje.V stari bolešnične zgradbi smo najprej uredili prostore za negovalni kovid oddelek, kjer smo kot prva bolničnica v Sloveniji sprejeli dvaindvajset asimptomatskih oskrbovancev dese ojo iz drugih predelov Slovenije, tako da so lahko pri njih uredali rdeče obločje, kasneje smo legovalni oddelek razširili pod celotnem tretjem nadstropju in nadel drugega nadstrope stare bolnišnične zgradbe ter ga prioblikovali v akutni kovito delek in kovit enoto za intenzivno terapijo, urgentni center pa ni več bunkar.Zagotovili smo ustrezno anti tehnologijo, napeljali manjkajoče vode z kisik in zrak ter spustavili radijske povezave med rdečim in belim območjem.Zdravstveno osebje smo opolnomočili glede uporabe osebene varovalne opreme, ki smo jo postopno tudi s pomočjo državnih blagovnih rezerv, nabavili do te mere, da je delo s kovitv pacienti popolnoma varno.Še pred tem smo strani službe za preprečevanje in obzvljadovali bolnišničnih okužb Univerzitetnega kliničnega centra iz Ljubljane pridobili pozitivno mnenje o primernosti delovnih procesov na našem kovid oddelku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 462.018,
+        "end": 495.599,
+        "text": "Velik izziv predstavlja ustrezna medicinska oprema, ki je nimamo dovolj, vendar se na tem področju stanje bistveno izboljšuje, saj vsak dan prispeka kos nove opreme.V največji meri gre tu zasluga ministrstvu za zdravje, ki nam je omogočilo nabavo dražjih aparatur, izjemno velik in spontan odziv pa smo doživeli tudi s strani lokalnega gospodarstva, posameznikov in nesme občine Nove Gorica, ki so v velika številu pripravljeni donirate sredstva za pomoč regijski bolnišnici, povsem iskrena hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 496.19,
+        "end": 553.345,
+        "text": "Še večji izziv predstavlja kader, ki ga je kronično premalo predostrmbno področjo zdravstvene nege, za kar je bilo treba bolništično delo reorganizirati z združevanjem oddelkov.Na kovitu delku ležijo tudi tisti pacienti, pri katerih kovit bolezen ni glavna diagnoza, tako da imamo stalno prisotnega tudi kirurga.V domačo bolnišnico smo poklicali vse naše specializante, ki tudi pomagajo pri delu, vsega skupaj je za delo nakobit oddelkov ključenih deset zdravnikov in osemintrideset zaposlenih s področja zdravstvene nege, ni besed, s katerim bi se lahko dovolj močno zahvalil vsem zdravstevnim tehnikom, srednjim in diplomiranim medicinskim sestram, diplomiranim zdravstojnikom pa tudi zdravnicam in zdravnikom ter drugem osebju, ki dela v izjemno težkih in stresnih pogojih z eno samo željo pomagati bulnikom. Neskončno hvala vsem!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 553.885,
+        "end": 592.006,
+        "text": "Najlepša hvala tudi osebju zdravstvene nege, zdravljstvenega doma Nova Gorica in zdravsvenega Doma Ajdovščina, ki nam je priskočilo na pomoč in seveda vsem prestovoljcem, ki v svojem prostem času nesubično pomagajo pri različnih opravilih, tudi strokovnih, saj jih veliko prihaja prav iz vrst medicinske fakultete in visoke šole za zdravstvo, vsem, ki bi se v času dela na kovit ovdelko želeli iz preventivnih razlogov umakniti od svojih družin, je omogočala nastanitev v bližnjem hotelu, ki ga je za čas epidemije uporabo odstopil naš največji ponudnik igralnihških storitev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 592.597,
+        "end": 684.177,
+        "text": "Da je delo pri nas dobro in varno organizirano, kaže podatek o zelo nizkem številu udorov okuženih pacientov v belo območje, šlo je le za nekaj posameznikov, ki pa okušbe niso prenesli na ostale paciente ali osebje. Do tega trenutka je bilo na boliški odsotnosti šest zaposlenih, ki so se okužili med seboj nad delovno mesto, triintrideset zaposljenih pa se je okušilo izven bolnišnice, v sami izolaciji zaradi stika z obolelimi je bilo petdeset zapislenih.Vsi so nato imeli negativni bliz, razveseljivo je tudi dejstvo, da se nihče od zaposlenih, ki dela na kovej todelku ni okužil na delovnem mestu, sodelavke in sodelovci, ki so se po preboleli bolezni kovit devetnajst vrnili na delo na mesto, so toplo sprejeti in ne doživljajo stigmatizacije, kakšno je trenutno stanjal pri nas.Na današnjih danih hospitaliziranih sedemindvajset kovit pacientov na navadnem koviti oddelku in sedem pacentov v kovite noti za intenzivno terapijo, od tega je pet umetno predvihavanih, se ga skupaj sva pri nas zdravilo sto šest kovitv pacientov, od tega dvanajst v koviti enoti za intenzivno terapijo. Polodica prihaja iz občin, ki tudi sicer gravitirajo v našo bolnišnico, drugi so iz ostalih predelov Slovenije in čeprav imamo k sreči na Primorskem bistveno manj kovit pacientov kot drugje v Sloveniji, pa je naša vloga predvsem biti solidarn z ostalimi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 684.768,
+        "end": 700.141,
+        "text": "Popreč na starost kovit pacientov znaša dvainsedemdeset let, najmlajši je bil star sedemindvajset let, najstarejših pa devetindevetdesetlet.Dodane si umrlo šestnajst kovid pacientev, v kovite noti za intenzivno terapijo pa ni umrl nihče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 701.069,
+        "end": 725.082,
+        "text": "Povprečna starost umrlih kovit pacientov znaša šestinoset let, šestinpetdeset kovid pacentov je ozdravilo in ne potrebujejo več bolnišnične oskrbe, pet kovic pacentv pa je bilo premeščenih iz kovite enote z intenzivno terapijo na navadni kovil oddelek, povprečno ležalna doba odpuščenih kovit pacientov znaša pet cela sedem dni, umrlih pa štiri cela devet dni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 725.926,
+        "end": 741.4,
+        "text": "Ne glede na trenutno stanje, bi rad povedal, da splošna bolnišnica Nova Gorica ni pozadila na ostale nekovi dvonike in je svojo redno dejavnost zagotavljala vse do konca oktobra dva tisoč dvajset."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 743.662,
+        "end": 774.374,
+        "text": "V mogoče v celoti, obžalujemo dejstvo, da so bočakalna doba zaradi višje sile nekaterim nekovit pacientom podaljšala, zato bomo storili vse, da bo njihova stiska čimanjša, hkrati pa poudarjamo, da urgentni center deluje kot vedno in da ne bomo zavrnili nobenega urgentnega pacienta, tu je vsaka bojazen odveč.Dokler bo nas še zadnji atom moči, bomo poskrbeli za vse naše paciente tako kovitne kot tudi nekovitni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 775.066,
+        "end": 858.547,
+        "text": "Skoraj daljenji ne bi razveselili s kulinaričnimi presenečeni in s tem pokazali, da jim je mar za nas in naše delo in da cenijo trud, ki ga vlabamo v zdravljenje bolnikov.Pri tem nikoli ne pozabi opovedati, da so njihovi darovi namenjeni Kovit junakom res lepa pozornost in presečna hvala, a kovit junaki so tudi oni in vsi tisti, ki nosite maske, ki si razkužujete roke, ti pazite nam med sebojno razdaljo in ti skrbite, da se okužba ne širi na druge.Če lahko izluščim tudi kako pozitivno lastnost, ki nam jo je prinesel koronavirus, je prav gotovo tesnejše, strpnejše in boljše sodelovanje vseh, ki sodelujemo pri obravnavi pacientov.Ob zaključku bi si izposodil misel Gospi Kin Kavi, hčerej znamenitega Alberto Tamija avtorja še bolj zame nitega romana Kuga, ki je dejala, da nismo odgovorni za koronavirus, lahko pa smo odgovoreni za odzive nanj. Trdim, da smo na severopriborskem z odzivi na koronavirus, zelo odgovorni so razmerni in v skladu zavodili stroke. Primorci se v svoji zgodovini nismo nikoli predali in prav gotovo se ne bomo predali niti v baju s koronavirostom, skupaj z vso Slovenijo zmoremo!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 860.352,
+        "end": 920.343,
+        "text": "Glede testiranja s hitrimi antigenskimi teste lahko rečem, da imamo izdelan določen protokol in sicer glede na to, da ti testi niso zelo občutljivi, smo se skladnost priporočili stroke odločili, da na čeloma testiramo paciente predvsem tiste, ki so namenjenih hospitalizacij vse, takrat se potem odločimo, če je test pozitiven, potem je to a priori prevzeto, da je taka oseba tudi pozitivna nasolska nasarsko v dve okužbo, čepaj je hitri antigenski test negativen, po tem pa moramo narediti še potrditvini pisja, pisjar test, da lahko izključimo ali gre za okužbo ali ne. Glede finančne obremenitve bolnišnice pa najbrž nisem mest najbolj primerna oseba, tako da lahkorečno samo to, da vse stroške zbiramo na posebnem računu, na posebno stroškovnem mestu, če sta lahko bolje izrazil, a tako da bi za ta podatek prilaganj se obrnili na vodstvu obrnišnice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 921.811,
+        "end": 943.647,
+        "text": "Jaglede opreme je tako, da nam primanjkuje predvsem monitorjev za nadzor vitalnih funkcij, potem oksimetrov prenosni oziroma prevoznji rentgenski aparat ultrazvočni aparat, so pravi vse te aparature, ki bi jih potrebovali za nadzor težnih pacientov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 944.643,
+        "end": 975.794,
+        "text": "Medtem ko pa glede diagrozi, ki ste spraševali, gre to predvsem za kijurške paciente, ki imajo, ne vem, na primer zlomni kolk ali pa recimo, da bo imeli kratšno obolenje v trebučni votlinji, taki pacienti pa so pri nas niso hospitalizirani zaradi tega, ker bi potrebovalih hospitalizacij zaradi kovic, diagnoze, temveč imajo v kovici diagnot za zdravoven, vendar, ker smo se odločili, da bojo tudi taki pacienti ležali na koviku delku, se pravi v rdečem območju, seveda pristanejo na prej omenjenem oddelku."
+      }
+    ],
+    "runtime_sec": 145.48168444633484
+  }
+}

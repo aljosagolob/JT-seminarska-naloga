@@ -1,0 +1,1738 @@
+{
+  "file_id": "Artur-J-Gvecg-P500058-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500058-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.07604328101004619,
+      "miss": 0.07441145094545296,
+      "fa": 0.0010363058743537478,
+      "confusion": 0.0005955241902394963,
+      "total_duration": 2132.57499999998
+    },
+    "der_collar0.25": {
+      "der": 0.06615981694752353,
+      "miss": 0.06458971214745277,
+      "fa": 0.0009911128528626943,
+      "confusion": 0.0005789919472080672,
+      "total_duration": 1977.5749999999798
+    },
+    "wer": {
+      "wer": 0.2116198537899192,
+      "ref_words": 5198,
+      "hyp_words": 4701
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.031,
+        "end": 1.776,
+        "text": "Lep dober dan v mojem imenu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1.796,
+        "end": 6.788,
+        "text": "Sveda lepo zdrav vsem zbranim, tudi obiskovalcem Sejma Agra."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 6.808,
+        "end": 8.092,
+        "text": "Vesel sem, da je"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 9.278,
+        "end": 12.519,
+        "text": "precej obiskam, glede na to, da živimo v COVID situaciji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 13.779,
+        "end": 17.52,
+        "text": "In seveda pozdrav do vsem tistim, ki nas spremljajo na daljavo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 18.24,
+        "end": 18.88,
+        "text": "Kaj ne rečem?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 18.98,
+        "end": 27.362,
+        "text": "Ja, danes smo, ker je danes veterinarski dan, naj tudi to povdarim, na agri smo obravnavali tudi problematiko afriške prešiče kuge."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 28.182,
+        "end": 34.164,
+        "text": "In jasno, najbližje nam trenutno je, torej najbližje je afriška prešiče kuga na mačarskem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 35.924,
+        "end": 61.477,
+        "text": "Izbruhi se pojavljajo praktično dnevno, tako da vam v bistvu, če vam povem zdajšnjo številko, bo jutri že drugačna, zato ker se ti izbruhi pojavljajo res v velikem številu in seveda to, kar imajo nekatere druge države, članice, je dejstvo, da imajo potem afriško prašičo kugol tudi pri domačih prašičih, ker seveda dodačno, pozorčo dodatne, predvsem ekonomske in tudi socialne učinke na prašičih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 62.097,
+        "end": 65.5,
+        "text": "na gospodarstvo oziroma na panogo kot takšno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 65.98,
+        "end": 80.552,
+        "text": "Mi se moramo zavedati, da v Sloveniji prašiče reja je občutljiva panoga, verjetno bo ten kolega Varga lahko povedal kaj več in seveda pojav recimo, da nimo afriške prašiče, kuge pri domačih prašičih bi lahko resno zamajal temelje tej panogi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 80.632,
+        "end": 90.84,
+        "text": "Tako da, kar bi jaz želel podariti je, da seveda učinkovit boj lahko dosežemo v bistvu z zelo preprostimi ukrepi,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 91.561,
+        "end": 118.299,
+        "text": "Prvi, ki bi ga rad povdaro, je seveda ta, da vsi tisti, ki prihajajo pri svojem delu v stik z živalmi, z domačimi živalmi, mogoče bo potem me kolega Bradači dopolno dodi, kar se tiče področja divih prašičev, seveda vprimero, če opazijo, da živali kažejo določene znake, da niso ješče, da imajo povišeno temperaturo, da seveda v tem obvestijo veterinarijo, veterinarsko postajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 119.32,
+        "end": 144.539,
+        "text": "prav tako, če se zgodi pogin te živali in seveda to je prvi element, s katerim lahko dobimo mi sploh informacijo, da potem lahko posumimo, se te živali ustrezno pregledajo ali skratka odzame kri ali podobno, naopravi preiskava po poginu in druga zadeva, ki je za moj pogled ključna, so pa seveda biovarnostni ukrepi, ker pomeni, če se bomo držali nekih"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 145.78,
+        "end": 147.061,
+        "text": "biovarnostnih pravil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 147.161,
+        "end": 164.051,
+        "text": "Če bomo upoštevali tisto, kar lahko vsakdo najde tudi na naši spletni strani oziroma na spletni strani Afriška prešiča Kuga, lahko naredimo nevarjetno veliko uslugov vsem ostalim, skratka, osnovni biovarnostni ukrepi, prepoved vstopa, države,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 164.191,
+        "end": 178.898,
+        "text": "nepooblaščanjem osebam, potem ustrezno ravnanje skrmo, potem uporaba zaščitne obleke, tudi te table z napisi iz kratka, ki ne bi odvračali ljudi, da se pač ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 179.598,
+        "end": 183.319,
+        "text": "Ne vstopajo v hleve in podobno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 184.999,
+        "end": 199.983,
+        "text": "To je definitivno ključ do tega, da bomo priprečili vnos afriške prašiče kuge, oziroma ga bomo saj, ukoliko do njega pride, bomo lahko, če bo ta vnos posamičen, bomo lažje potem izvajali ukrepe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 209.585,
+        "end": 219.969,
+        "text": "neprijetni, ampak kot je bilo že rečeno, bolezen je izredno nalezljiva, za njo ni cepiva in seveda povzroča enormno ekonomsko škodo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 220.049,
+        "end": 231.153,
+        "text": "Tako da še enkrat bi položil vsem na srce prijava izbruha bolezni oziroma nekih znakov in pa druga stvar, ki je zelo pomembna,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 232.433,
+        "end": 245.356,
+        "text": "pa seveda biovarnostni ukrep in pri tem povdarim še en vidik biovarnostnih ukrepov, tudi trgovanje oziroma nakup prašičev, promet s prašiči, vse to mora seveda potekati v kontroliranih pogojih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 245.456,
+        "end": 250.798,
+        "text": "Na sprotnem primeru lahko tudi na ta način potencijalno vnesemo virus v svojo domačo čredo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 253.699,
+        "end": 258.26,
+        "text": "Promet živalmi v Evropi je urejen na način, da se živali pošilejo kontrolirano."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 258.3,
+        "end": 273.304,
+        "text": "Skratka, žive živali, zarazliko od ostalih, recimo ga blaga, naprimer živil ali pa drugih proizvodov, mora spremljati veterinarsko spričovalo, ki ga seveda potrdi veterinar v državi, odkudar di živali izvira in potem,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 273.524,
+        "end": 278.228,
+        "text": "se te živali zopet, ko pridajo v drugo državo članico, se potrdi izprejem teh živali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 278.288,
+        "end": 287.755,
+        "text": "Skratka, pri živih živalih je postopek trgovanja malce drugačen kot pri ostaljem blagu, tako da se v bistvu ti ukrepi vs čas že tudi izvajajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 287.835,
+        "end": 297.623,
+        "text": "Skratka, vs čas se izvajajo ti ukrepi in jasno je seveda tudi, da je Evropska zakonodaja določa, da v primeru, ko ima določena država ali pa del države,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 298.263,
+        "end": 303.807,
+        "text": "Afriško, Prašičo, Kugo, živali iz tistih področji pravzaprav sploh ne smejo dačiti v trgovanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 303.847,
+        "end": 308.831,
+        "text": "Skratka, se naredi tako manjala blokada trgovanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 308.992,
+        "end": 317.698,
+        "text": "Od nekaj dni do teden, deset dni so ti znaki oziroma od okužbe do pojava prvih znakov bolezni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 317.758,
+        "end": 320.3,
+        "text": "Skratka, od nekaj dni do recimo tedna ali pa deset dni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 321.201,
+        "end": 321.742,
+        "text": "Absolutno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 323.221,
+        "end": 325.542,
+        "text": "Ja, hvala lepo za vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 325.863,
+        "end": 339.231,
+        "text": "Jaz moram reči, da se na teh raznih srečanih, ki jih imamo lovci v Evropi, ugotavljamo, da se je pač afriška pričiča Kuga premaknila iz Litvije, Latvije, preko vseh te skupine držav do Mačarske."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 339.691,
+        "end": 356.599,
+        "text": "Ugotavljamo, da je najhitrejši prenos z kakšnimi salamami, z pol izdelki, ko v bistvu nekdo okušenega prešiča predela, na avtocesti odvrže, mogoče za ograjo in kar naenkrat bomo lahko jutri izbruh tukaj, da vem, na Trojanah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 357.359,
+        "end": 370.717,
+        "text": "Zdaj, da se bi na to lahko preustrezno pripravili, je v bistvu bil v pogoji sprejetje zakona, interventnega zakona za afriško plašiče Hugo, ki je v bistvu prinesel tako načrt ravnanja, kot pribedel določene ukrepe."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 371.218,
+        "end": 374.923,
+        "text": "Generalni direktor veterinarske uprave je februarja sprejel sklep."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 375.263,
+        "end": 378.984,
+        "text": "s katerimi je v bistvu razglasil ogroženost našega območja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 379.404,
+        "end": 384.385,
+        "text": "To pa avtomatsko pogojuje, da morajo vsi upravljalci lovišč sprejeti načrt upravljanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 384.765,
+        "end": 393.226,
+        "text": "Ta načrt je bil dodelan, je tipski načrt, ga pa je se vera treba prilagoditi na specifično okolje določenega upravljalca lovišča."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 393.506,
+        "end": 401.067,
+        "text": "Vemo, da imamo 411 lovišč, s katerimi upravljajo lovske družine in še 15 ostalih Trigavski narodni park."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 401.348,
+        "end": 403.348,
+        "text": "Pač vsi morajo imeti ta načrt."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 403.968,
+        "end": 411.353,
+        "text": "Gre za konkretizacijo ukrepov iz drugega poglavja zakonu, internetnega zakonu Afriški pršiči Kugi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 411.893,
+        "end": 425.062,
+        "text": "Govorimo o intenzivnem odstrelu od biotehničnih ukrepih, od drugih preventivnih ukrepih in med drugim tudi o tem, da je treba obvezno poiskati in prijaviti najdbo vsakega vnuljega pršiča."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 425.602,
+        "end": 442.154,
+        "text": "Kje pa vidim, da je ključna zgodba pri vseh, ne samo pri lovcih, tudi s prehajavcih, tudi pri kimetih, ki delajo v gozdu, da ti strenutek, ko v bistvu najdemo poginulnega divjega prašiča, je pač potrebno obvestiti ali interventno številko,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 442.915,
+        "end": 445.896,
+        "text": "112 ali obvestiti lovsko družino."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 446.276,
+        "end": 456.46,
+        "text": "Ta kraj je pač treba ustrezno vzavarovati, da se v kolikor bo in ko bo prišlo do pojabati afriške prašiče kuge, prepreči mozno šseri na te bolesti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 456.64,
+        "end": 462.623,
+        "text": "Treba je odstraniti, treba je razkužiti to območje in vsi ti ukrepi so v bistvu predpisani v načrtu ravnanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 462.963,
+        "end": 465.824,
+        "text": "Načrt Ravnan ima kar nekaj skopov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 466.584,
+        "end": 484.931,
+        "text": "Začnemo v bistvu lovci pri delu, kjer govorimo o tem, kako lovimo na individualnem lovu, kako na skupinskih lovih, kako v bistvu uporabljamo vse pri lovu, o teh biotehničnih ukrepih, kateri so vse obvezni elementi oprema, orodje, ki jo pač moramo meti za spravilo teh prašičev pri odstrelu in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 485.392,
+        "end": 488.333,
+        "text": "Gre za komplet te zgodbe, ampak"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 488.933,
+        "end": 508.538,
+        "text": "Namen tega je bil skupaj s ministrstvom za kmetijstvo, veterinarsko upravo, da smo v bistvu pripravili en tako obsežen načrt, po katerem v bistvu posamezni, ki se samo ravnajo, je postopkovnik in v bistvu izpolnajo vse tiste minimalne zahteve, ki morajo pač vačveljati, da bomo lahko preprečili širjanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 509.458,
+        "end": 516.76,
+        "text": "Zdaj, kar je ključnega je to, da je v bistvu prišlo do spodbude, da se povečuje odstrelj,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 517.52,
+        "end": 527.807,
+        "text": "Divih prašičev s tem predvidevam, da bodo škode manjše, predvsem se bo pa zrečila populacija in s tem se možnost prenosa zmanjša."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 529.188,
+        "end": 539.415,
+        "text": "Med samo populacijo v načrtu je tudi en posebeno poglavje, ki govori o tem, kako je s kmeti, ki doma redijo prašiče, pa so istočasno lovci."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 540.115,
+        "end": 549.657,
+        "text": "Kaj se najhitreje zgodi prenos iz gozda do neko kmetijsko gospodinstvo oziroma kmetijsko gospodarstvo, kjer pa čredijo prašiče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 549.917,
+        "end": 559.3,
+        "text": "Zaradi tega se tudi vodi posebna evidenca vstopa vseh teh ljudi v lovišče, da se potem lahko tudi prekontrolira, če bo do česar koli prišlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 559.96,
+        "end": 575.133,
+        "text": "Pomembno je tudi, da vse ozaveščamo, da je pred vrati afriškega prašiča kluga, da bodo poznali, prepoznali te znake, predvsem pa v tistem trenutku, ko se bo kadaver divega prašiča našel v gozdu, da znajo obvestiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 577.291,
+        "end": 586.682,
+        "text": "Mi smo v dogovoru s medijskim ministrstvom že pred leti dosegli, da je odstrel djevega prašiča v Sloveniji na vzgor neomejen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 587.303,
+        "end": 592.529,
+        "text": "Se pravi, gorne številke, ki bi omejevala odstrel djevega prašiča v Sloveniji, ne poznamo več."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 593.71,
+        "end": 596.693,
+        "text": "tam 13500, s 8500 smo zdaj prišli že na 13500 letnega odstrela divih prešičev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 596.733,
+        "end": 598.515,
+        "text": "Mislim, da ga lahko intenziviramo tam nekje na 15-16."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 609.353,
+        "end": 615.415,
+        "text": "Morate se zavedati, da tudi Divi Prešič je v bistvu zelo zahtevna devijaca lov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 615.435,
+        "end": 624.178,
+        "text": "Je inteligenten, zna se prilagoditi razmeram, tako da je v bistvu treba kar nekaj truda, časa in energije odložiti v ta odstrel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 625.278,
+        "end": 638.303,
+        "text": "S temi spodbudami, 50 in 100 evri, se mogoče nekaj delno povrne temu lovcu, ki se trudi, ampak mislim, da je predvsem pomembno, da na vseh teh izobraževanjih, ki jih imamo, smo jih kar nekaj že spelali,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 639.323,
+        "end": 645.787,
+        "text": "da povemo, kakšen je pomen, kje je tista vloga lovca, da se v bistvu vsi zavirajo tiste splošne odgovornosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 645.987,
+        "end": 659.375,
+        "text": "Ker konc koncev, ko bo enkrat to pri nas izbruhalno, mislim, da je to v bistvu skor bankrot, saj so vse tiste rece domačih prešičev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 659.535,
+        "end": 660.515,
+        "text": "Hvala za vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 661.598,
+        "end": 661.938,
+        "text": "Res."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 662.298,
+        "end": 670.762,
+        "text": "Tudi z moje strani pozdrav vsem sogovornikom, vsem zbranim tukaj, pa predvsem tisti, ki nas spremljajo preko odaljenega omizija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 672.523,
+        "end": 679.806,
+        "text": "Kot ste omenili, pojav afriške prašičje kuge je velik problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 681.157,
+        "end": 694.542,
+        "text": "In če to zaznamo, da je to na nivoju, pojemo tam nekje 80 do 100 kilometrov od naše meje, je to velika nevarnost za celotno Slovenijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 695.342,
+        "end": 702.905,
+        "text": "Ne samo za slovensko prašiče rejo, za slovenskega rejca, za slovenskega agroživilstvo, za celotno Slovenijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 703.405,
+        "end": 704.986,
+        "text": "Vemo, kaj to povzroči."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 706.547,
+        "end": 708.687,
+        "text": "Kolega Guček je povedal, kaj to pomeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 709.068,
+        "end": 709.468,
+        "text": "Se pravi,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 710.37,
+        "end": 719.879,
+        "text": "Prekinjen bo promet z ne samo živalmi, tudi z mesom, tudi z izdelki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 720.619,
+        "end": 729.848,
+        "text": "In to lahko ogrozi neke vrste slovensko samouskrbo oziroma prehransko varnost v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 730.148,
+        "end": 731.73,
+        "text": "Mi vemo, da Slovenci smo pač..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 733.942,
+        "end": 749.157,
+        "text": "Takore kot 41 kilogramov po prečjo na glavo prebivalstva potrošimo svinjine in če se bo ta komponenta iz naše prehrane omaknila, to lahko pomeni,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 750.192,
+        "end": 751.913,
+        "text": "nekaj vrste prehransko krizo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 752.833,
+        "end": 775.646,
+        "text": "Če se pa povrnemo v drugo smer, se pravi, v škodu, ki jo povzroči ta pojav, eventualni pojav, ki si ga nikakor ne želimo, to pomeni, da bojo reci pršiče v prvi vrsti, tisti, ki bojo morali zaklati, oziroma jih bojo pobili praktično čredo, se pravi, to bo prvi ekonomski izpad."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 776.326,
+        "end": 777.227,
+        "text": "V drugi kategoriji"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 778.306,
+        "end": 784.129,
+        "text": "klavnice, predelovalna industrija ne bodo imeli živali za predelavo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 784.709,
+        "end": 805.18,
+        "text": "Se pravi, ta kriza ali pa finančni izpad ne bo samo enkraten, ker potem so posamezni pogoji, ki bo mogoče gospod Guček še povedal, da se lahko pa potem vrne v drugem krogu nazaj reja prašiče oziroma vsa gospodarska aktivnost v vezi z prašiče rejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 805.88,
+        "end": 823.223,
+        "text": "Tako da to je, kar se z gospodarskega vidika tiče, tudi lahko neke vrste padec tega pomena prehrane za slovenskega potrošnika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 825.269,
+        "end": 838.37,
+        "text": "Se strinjam s kolego Vargo, ja, definitivno se tudi zakonodaja predvideva možnost postaviti ograj vendar v fazi, ko imamo, ko se nam že pojavijo okužena ali pa ogrožena območja ali pa sotanja po srednji bližini naše mene."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 838.39,
+        "end": 838.911,
+        "text": "To je prepozno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 839.832,
+        "end": 850.722,
+        "text": "Tu se moramo tudi zavedati dejstva, da postavitev graji gre za določen poseg v zemljišča, zasebna zemljišča in seveda zakon tudi to možnost toreja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 851.342,
+        "end": 864.194,
+        "text": "Bi pa tu rad povdaro še eno zadevo, kar je bilo že preizpostavljeno, da prenos afriške prašiče kakor samo živimi živalmi, torej prašiči iz Mažarske, je resno tveganje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 864.554,
+        "end": 892.335,
+        "text": "Vendele obstaja lahko tudi prenos preko okuženih mesnih izdelkov, ki jih seveda samo imajo, ne vem, prevozniki, avtoprevozniki, ki jih uporabljajo v bistvu za svojo zasebno prehrano in ostanki teh živil, teh živil živalskega zvora so lahko zopet tveganje, tako da ni nojno, da pride bolezen v Slovenijo ravno preko meje, lahko se, ker je še hujše pojavljenje kje,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 892.735,
+        "end": 906.446,
+        "text": "V centru Slovenije oziroma na nekem področju, kjer so pač divji prešiči in zavedati se moramo dejstvo, da Slovenija je goznata država in mi imamo populacijo divjih prešičov praktično po celotnemu zemlju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 906.486,
+        "end": 913.851,
+        "text": "Tako da to je ta element, ki ga je treba tudi upoštevati pri tem, ko govorimo o tem, ali se bolezen..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 914.892,
+        "end": 917.552,
+        "text": "kako se je bolezen širil oziroma kako je umejit."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 917.692,
+        "end": 939.816,
+        "text": "Pa še mogoče to, kar je bilo tudi rečeno glede teh udorov v te nepooblaščene, nezakonite vstope na zasebna zemlišča ali pa objekte, apsolutno je tu potrebno obvestiti v vsakem primeru, tudi mi smo zdaj v teh primerih odstopili, kjer smo imeli te informacije policiji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 939.956,
+        "end": 943.317,
+        "text": "Skratka, tu je potrebno res rigorozno takšne zadeve"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 943.917,
+        "end": 944.957,
+        "text": "obravnavat."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 945.458,
+        "end": 947.438,
+        "text": "Jaz se strinjam s tem, da obstaja tveganje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 948.699,
+        "end": 951.06,
+        "text": "Poznamo zgodbo okrog teh posnetkov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 951.08,
+        "end": 967.986,
+        "text": "Jaz osebno pač čutim malce prizadetega, ker bi verjetno, namreč to je še za dogotrajne še snemanje, verjetno bi lahko s tem, bi mogli pobudniki pravočasno ali pa čimprej se znaniti pristojne organe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 968.606,
+        "end": 969.566,
+        "text": "Tako da še enkrat,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 971.947,
+        "end": 983.134,
+        "text": "Nepoblaščeni vstopi so jasno niso spremljivi in mi jih obravnavamo skrajno resno oziroma kolikor imamo informacijo, potem tudi posredujemo v reševanje policiji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 986.999,
+        "end": 990.1,
+        "text": "Ja, mislim, da govorimo kar o nekaj mesecih, lahko tudi leto odvisno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 990.82,
+        "end": 995.982,
+        "text": "Namreč zelo težko je nabaviti, odvisno je od tega, v kakšnem obsegu in kje bi se pojavila bolezna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 996.002,
+        "end": 1009.107,
+        "text": "Ampak, ko se enkrat pojavi, potem se razglasi vkuženo, ogroženo, moče se izvede vsi predpisani okrepi, omeji se promet z živili, z mesom, z proizvodi svinskega mesa in seveda, zdaj, če se to uspe zajeziti,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1009.747,
+        "end": 1016.453,
+        "text": "na tistem mestu, kjer se pač bolezen prvič pojavi, potem je seveda lahko govorimo o krajšem obdobju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1017.073,
+        "end": 1033.627,
+        "text": "Ne bi pa rad zelo tukaj špekuliral in preeduciral, v kakšnem časovnem obdobju, vkolikor pa se potem ta bolezen širi točkasto, skratka, kot požar, kar je bilo tudi rečeno v strani recev, prešičev, potem pa seveda zadeva bistveno, bistveno bolj dramatična in seveda"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1034.047,
+        "end": 1045.673,
+        "text": "Eradikacija bolezni potem lahko vzame zelo veliko časa in dejansko to pomeni za določen del prešiče reje, v bistvu saj začasno konec prešiče reje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1046.133,
+        "end": 1054.818,
+        "text": "In potem seveda, v kolikor bodo za to sploh še možnosti, potem počasna obnova in repopulizacija čret in tako dalje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1054.878,
+        "end": 1062.082,
+        "text": "Zkratka, še enkrat, zelo pomembno je, da se zavedamo pomena preprečitve vnosa,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1062.802,
+        "end": 1081.535,
+        "text": "In gospod Varga je rekel, da resnih rejcev je okrog 300, ne, ampak vseh rejcev v Prešiče je pa bistveno več, govorimo o nekaj tisoč oziroma deset tisoč in seveda problematično je, da pri določenih rejcih, ki imajo te živali za nekomercialne namene, samo za zasno domačjo porabo, da seveda"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1081.955,
+        "end": 1100.413,
+        "text": "nimajo verjetno predstave, kaj lahko nastane, okoliko se bolezen pojavi in nekako mogoče so v tem smislu manj dojemljivi za naše apele pa za pozive oziroma, da upoštevajo predpisanje ukrepe, da imajo živalik, da se izvaja tudi..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1101.074,
+        "end": 1106.556,
+        "text": "preregistracije primikov, ker s tem lahko potem sledimo, kam je bila neka žival prodana in podobno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1107.096,
+        "end": 1123.483,
+        "text": "Zelo pomembno je, da se tu vsi, ki so lasniki prašičev, imetniki prašičev, ne glede na to, ali so ti prašiči namenjeni za trg, oziroma, da gre za komercialno rejo, tudi vsi tisti, ki imajo prašiče zgolj za se, za lasno domače, da se zavedajo, pomena,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1124.243,
+        "end": 1125.665,
+        "text": "biovarnostnih ukrepov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1125.705,
+        "end": 1144.846,
+        "text": "In seveda, tako kot je bilo prej rečeno, že spet se ponavljam, ampak mislim, da se tukaj lahko ponavljam večkrat, obveščanje veterinarja oziroma, kot je bilo rečeno s stranini gospoda Bradačeva, primero najdbe pršiča, potem intervencijske številke, ena, ena, dva skratka, da se seveda čim prej tisto področje"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1145.287,
+        "end": 1157.193,
+        "text": "da se žival potem odpelje ali gotovi vzrok, zakaj je bolna, da se spremajo stresni okrepi, torej zaščitna oprema, razkoževanje in podobno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1157.313,
+        "end": 1171.161,
+        "text": "Tako da še enkrat res bi apeljiral, da se tu moramo vsi od prvega do zadnjega zavedati pomena, da smo odgovorni do svojih živali in da se tudi odgovorno skrbimo za nje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1174.43,
+        "end": 1178.312,
+        "text": "Ja, glejte, živilska industrija je v Sloveniji kar nekaj, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1178.532,
+        "end": 1186.436,
+        "text": "Kar nekaj velikih podjetij, ki se ukvarjajo izključno z predelavo živil, ne, oziroma z predelavo svinjine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1187.657,
+        "end": 1193.36,
+        "text": "Poleg tega pa tudi so tri, štiri velika podjetja, ki se ukvarjajo z rejo prašiča, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1193.92,
+        "end": 1200.123,
+        "text": "Tako kot je prej gospod Varga obvedel, na tem severo-vzhodnem delu Slovenije je kar dve tretjini pršiče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1200.703,
+        "end": 1210.267,
+        "text": "Od tega je nekaj velkih rejcev in pa seveda podjetje, ki ima 30-40 tisoč pršičev v koncentraciji na dveh lokacijah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1211.067,
+        "end": 1213.868,
+        "text": "Tako da to bi bile enormne škode."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1214.188,
+        "end": 1214.928,
+        "text": "In kot sem prej omenil,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1216.229,
+        "end": 1218.51,
+        "text": "Škoda se povrne enkrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1219.09,
+        "end": 1220.411,
+        "text": "Kaj pa čas?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1220.571,
+        "end": 1221.951,
+        "text": "Gospod Guček ni povedal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1222.332,
+        "end": 1230.455,
+        "text": "Mi vemo, da vsaj pol leta je minimalen čas, če smo eksplozivni pri reševanju oziroma pri sanaciji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1230.955,
+        "end": 1237.978,
+        "text": "Ampak to po izkušnjah iz drugih držav vidimo, da to traja leto, dve, lahko tudi več časa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1238.238,
+        "end": 1242.2,
+        "text": "Tako je bilo povedano, če se to širi kot požar pikčasto po državi,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1242.52,
+        "end": 1244.442,
+        "text": "Po celem območju, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1245.023,
+        "end": 1256.716,
+        "text": "Se pravi, ne samo, da ne bo živali, ker je tudi prepovedan promet, potem bojo jasno, ne samo, da bojo rejci propadli, bojo propadla tudi živilska podjetja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1257.016,
+        "end": 1260.119,
+        "text": "Ali se bojo morala prestrukturirati v kakšne druge dejavnosti, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1260.54,
+        "end": 1263.583,
+        "text": "To pa pomeni spet ogromno tveganje, vprašanje, kaj na..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1264.424,
+        "end": 1270.79,
+        "text": "Kaj bojo vlasniki s tem povedali ali se bojo strinjali s tem, da ponovno vložijo kapital in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1270.85,
+        "end": 1276.676,
+        "text": "To so res ekonomske, ogromne ekonomske škode, ki bi lahko nastale."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1277.036,
+        "end": 1280.059,
+        "text": "Tako da še enkrat, kot pravimo vsi po vrsti, apel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1281.08,
+        "end": 1283.681,
+        "text": "Res zdravila cepiva ni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1284.121,
+        "end": 1286.402,
+        "text": "Edino zdravilo je preventiva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1286.783,
+        "end": 1300.029,
+        "text": "Se pravi, čim bolj spoštovati te preventivne ukrepe, ki jih uprava jasno in glasno je povedala, poslala vsem zgibanke, tudi mogoče še več oglasov, zdaj v tem času, ko je pač,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1301.009,
+        "end": 1320.667,
+        "text": "jesen, področje lova in tako naprej, ker tu prihaja tudi do gostovanja raznih lovcev, to bo kolega malo več povedal, ker lahko pride do takega prenosa, ko si ga najmanj mislimo, ali na obutvi, ali na upremi, ali kakorkoli, ki se odvrže in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1321.007,
+        "end": 1323.729,
+        "text": "Tako da res apel edina"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1324.55,
+        "end": 1332.355,
+        "text": "Intenzivna preventiva je lahko samo tista, ki nam prepreči pred to katastrofo, ki nas eventualno čaka, če se zgodi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1334.641,
+        "end": 1342.986,
+        "text": "In tudi v pogovoru z mađarskimi kolegi, ko se pogovarjamo z organizacijo sejma One With Nature, smo spregovorili tudi o tej temi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1343.386,
+        "end": 1345.687,
+        "text": "O gostih in o obiskih, ki prihajajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1345.848,
+        "end": 1350.55,
+        "text": "Moram pa reči, da se je v bistvu kar se tiče lovnega turizma ta dobesedno izničil."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1351.111,
+        "end": 1352.792,
+        "text": "Covid ukrepi so ga odpravili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1353.392,
+        "end": 1360.676,
+        "text": "Zdaj nekaj je v povojih, nekaj je bilo tistih tradicionalnih obiskov, ki še mogoče kaj pridejo drugače, pa tega je izredno malo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1361.877,
+        "end": 1372.644,
+        "text": "Kar se tiče Mađarske, sam je povedal, da se na določenem območju, ko pride do okužbe, dost hiter pojavi, v bistvu te prešiče poginejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1372.724,
+        "end": 1385.151,
+        "text": "Da je zelo pomembno, da se to območje omeji, tudi postavi kakšna ograja, kar ta interventna zakonodaja omogoča, ne glede na lastništvo in na vse ostale stvari, ampak mora biti takrat bolezen že prisotna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1386.192,
+        "end": 1387.273,
+        "text": "Mislim, da je izkušnje"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1388.033,
+        "end": 1397.298,
+        "text": "skozi leta kažejo na to, da je v bistvu najbolj navaren ta prenos z suhomestnimi izdelki ali pa z kakšnimi klavniški odpadki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1397.378,
+        "end": 1405.823,
+        "text": "Pa imamo tako primere, da smo iz Afrike prišli v Litvijo, da smo v bistvu iz Poljske prišli v Bruselj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1406.583,
+        "end": 1407.244,
+        "text": "Po drugi strani,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1408.064,
+        "end": 1409.306,
+        "text": "Ravno tako so odpadki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1409.526,
+        "end": 1423.783,
+        "text": "Po drugi strani se je pa izkazalo, da so v Bruslu v bistvu uspeli s temi ukrepi izkoreniniti pač afriško prašičo kugo med prašiči, seveda tudi z intenzivnim odstrelom in vsem ostalimi stvarji, ampak ne beležijo več primera."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1424.264,
+        "end": 1427.288,
+        "text": "Podobno zelo uspešni so bili tudi Čehi pri teh aktivnostih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1427.588,
+        "end": 1437.371,
+        "text": "Tako da mislim, da se na podlagi tega, da smo se imeli čas tudi v Sloveniji pripraviti in da je vsa ta zakonodaja, vsi ti predpisi, da smo temu prelagojeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1437.631,
+        "end": 1453.015,
+        "text": "Tudi ta izobraževanja, ki zdaj potekajo, tako medlovci, vabljeni so tudi vsi ostali, dajo zelo veliko dodatnega znanja, kako se v bistvu z nekimi enostavnimi preventivnimi ukrepi obraniti temu, da bi se afriška pršičja prelagovala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1453.255,
+        "end": 1454.636,
+        "text": "nekontrolirano širila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1455.056,
+        "end": 1457.617,
+        "text": "Da se naredi to in jaz se upam, da nam bo to tudi suhpelo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1458.257,
+        "end": 1476.044,
+        "text": "Mogoče samo še dodatek okrog te ograje na slovensko-mačarski meji je zagotovo nek preventivni ukrep, ampak praksa kaže na to, da se v bistvu hitreje širi ta krat, kadar jo v bistvu kakšen neodgovoren posameznik prenese."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1476.984,
+        "end": 1480.426,
+        "text": "Se pravi, da jo v bistvu v trenutku nam jo lahko zanese tudi do kopra."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1481.386,
+        "end": 1489.01,
+        "text": "Sam prenos v naravnem okolju med divimi prašiči, kar istočasno, ko se kužijo, tudi poginejo, je zelo počasen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1489.19,
+        "end": 1492.332,
+        "text": "Mačari to uspejo držati na določenem mestu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1492.352,
+        "end": 1503.918,
+        "text": "V tem drugem delu, kjer imajo tako imenovano rumeno cono do prekmurja, imajo pa vrsto preventivnih ukrepov, kjer mislim, da so zelo uspešni in učinkoviti, da se ta zadeva ne širi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1508.116,
+        "end": 1523.411,
+        "text": "V bistvu v hlevu, kjer se pojavi bolezen, to pomeni, da se pač vse te živali, ki so v hlevu, morajo neškodljivo odničiti, kot mi jo porabimo, skratka, potrebno je hertonazirati, poskrbeti za njihovo odničenje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1524.232,
+        "end": 1541.697,
+        "text": "Seveda pa je to samo prvi del zgodbe, podobno, torej govorimo o tako menovanem okuženem območju, potem pa se, poleg tega, seveda zopet odvisno od koncentracije prešičev, ki je lahko zelo različno, določi še pa ogroženo območje,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1542.457,
+        "end": 1556.993,
+        "text": "In na tem ogroženem moču se potem uvede poseben nadzor, kar se tiče prometa, vstopa in izstopa prešiča, kako se potem s temi prešiči rovna, tudi nadzor klanja teh živali, potem posebni postopki rovnanja z mesom, skratka..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1557.914,
+        "end": 1585.508,
+        "text": "Na ta način se seveda v prvi fazi, kot sem že rekel, na tem poselstvu izvede depopulacija, potem pa seveda sledijo postopki, kjer je potrebno izvesti razkožovanje, skratka kompletne opreme in jasno, šele po določenem času, potem zopet lahko govorimo o tem, da bi se živali lahko začeli nabavljati, ampak"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1585.808,
+        "end": 1587.993,
+        "text": "Jaz bi še enkrat rad podaril, da"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1590.432,
+        "end": 1597.815,
+        "text": "Ni problem v tem, da, torej, ko se bolezen pojavi, ni problem v tem, da je potrebno živali uničiti, čeprav to zdaj se sliši mogoče kruto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1597.975,
+        "end": 1598.815,
+        "text": "To se da vse narediti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1599.075,
+        "end": 1615.741,
+        "text": "Problem je, ko imamo živali, ko imamo bolezen, ker je skoraj nemogoče in tudi druge države, članice, ki so se ukvarjale s to boleznjo, tudi tiste, za katere so v zelo redkih primerjih dobro, recimo Belgija, uspele, da so obdržale bolezen samo na enem mestu, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1616.521,
+        "end": 1633.197,
+        "text": "In kar je še premen, mene še bolj skrbi recimo, če se ta bolezen pojavi nekje v notranjosti države in to na področju, kjer je reja prašičev bolj, kot sem že prej rekel, so to manjše reje, do nekaj živali, ki so nekomercialne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1633.818,
+        "end": 1643.784,
+        "text": "Se lahko zgodi, da potem ljudje skušajo ugotoviti, kaj je narobe, pride do obiska sosed, pride pogledati sosedov, ti posluši, jaz imam težave z živalmi, imaš tudi težave."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1644.445,
+        "end": 1647.747,
+        "text": "In v tem primeru se potem lahko to zelo, zelo hitro razširi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1647.767,
+        "end": 1657.754,
+        "text": "Tako da, seveda izgube so neposredne, kar pomeni izguba živali, potem pa tako, kot je bilo rečeno, strani sogovornikov tudi seveda posredne izgube."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1659.522,
+        "end": 1673.785,
+        "text": "Plus, da gre seveda čas, ki ga zgubiš in seveda tudi posrednje izgube v smislu izgube poslovanja, zaživeljska podjetja, banke ne čakajo, kot je bilo rečeno, strani gospoda Varge."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1674.265,
+        "end": 1679.527,
+        "text": "Tako da gre za zelo, zelo resno zadevo in seveda..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1680.967,
+        "end": 1692.629,
+        "text": "Tudi ko se vsi ukrepe izpeljajo in seveda in recimo nam uspe omejiti bolezen pa jo eradicirati, bodo še vedno posledice precejšnje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1696.39,
+        "end": 1712.802,
+        "text": "Mi smo začeli s 1. junijem in mislim, da imamo že preko 4.000 gospodarstv pregledanih, tako da potekajo ti pregledi in se bodo zdaj v jesenskem času še intenzivirali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1713.302,
+        "end": 1720.847,
+        "text": "In definitivno, v bistvu moram povedati, da je bil cilj želja uprave je bila, da bi sprejeli poseben predpis,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1721.568,
+        "end": 1735.569,
+        "text": "in uvedli bi o varnostne ukrepe, vendar na žal potem to ni bilo izvedljivo, tako da imamo zdaj samo pregled in njihovo kategorizacijo odvisno od stopnje zaščitnih ukrepov,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1736.57,
+        "end": 1744.014,
+        "text": "ki jih imajo ti reci oziroma ukrepov, s katerimi pač ne bi preprečovali vnos okužbe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1744.074,
+        "end": 1749.957,
+        "text": "Saj tu ne govorimo zdaj samo o afriški prašiči kubi, ta je trenutno aktualna in dejansko gre za zelo nalezljivo bolezen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1750.477,
+        "end": 1754.219,
+        "text": "Biovarnostni ukrepi so splošno pravilo, ki se ga je potrebno držati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1754.579,
+        "end": 1759.242,
+        "text": "Mogoče, če samo pomenim recimo na perotninskem področju,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1759.722,
+        "end": 1782.302,
+        "text": "kjer govorimo, recimo, če imamo neke specifične kategorije živali kot somatične jate, so ti ukrepi že zdaj zelo storogi, zato, ker pač se je pelotninski sektor, ima določene bolezni, ki se lahko prenašajo in se seveda se je zelo hitro naučil, da je potrebno poskrbeti z biovarnostnimi ukrepi, da do teh bolezni, da do širitve ne more priti ali pa vnosa bolezni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1782.722,
+        "end": 1786.526,
+        "text": "No, v tem primeru, kot sem že rekel, več preko 4 tisoč pregledov je bilo že upravljenih,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1787.026,
+        "end": 1796.853,
+        "text": "Rezultati so seveda različni, je pa res, da je seveda treba vzeti v ozir ekonomski učine, ki ga je Maraja Prešiče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1796.933,
+        "end": 1807.34,
+        "text": "Če je torej nekdo redi Prešiče, pa to ni njegova osnovna dejavnost ali pa v bistvu vir prihodka, je njegov odnos sigurno drugačen, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1807.58,
+        "end": 1830.098,
+        "text": "torej kot če je seveda, če je ta reja v bistvu za svojo lasno domačo porabo, tukaj se še vedno lahko zgodi, da potem tako živali se prodajajo, nekontrolirano kljub temu, da so premiki živali, da je potrebno vsak premik živali tudi samo enega prašiča prijaviti in se potem ta informacija zavede v ustrezni registr, še vedno prihaja do tega, da se seveda s temi živalmi"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1830.698,
+        "end": 1855.021,
+        "text": "recimo trguje na način, da ni, da pač se te informacije ne sporočajo in seveda tu jaz vidim definitivno lahko neko težavo in se strinjam z tistimi, kot bom rekel, resnimi reci, kot je prej rekel gospod Varga, ki pa dejansko vse svoje sile napenjajo v to, da bi nekako skušali imeti pod kontrolo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1856.062,
+        "end": 1867.548,
+        "text": "v te ukrepe, te pogoje in ki se vedno dobro premislijo, od kje prihajajo živali, na kakšen način jih kupijo, kako preverijo dobovitelja, kakšni pogoji, kakšni dokumenti jih spremljajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1868.489,
+        "end": 1881.616,
+        "text": "Tako da, kar se pa tiče samih pregledov, ti potekajo in jaz mislim, da bomo v doglednem roku, da jih bomo, glede na to, kako smo načrtovali tudi upravljo v tem predpisnem roku, glede na vse pravim, od 1. junija do zdaj je bilo že 4.000 pregledov narejanih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1882.376,
+        "end": 1882.937,
+        "text": "Zdaj imamo preko 4.000."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1886.403,
+        "end": 1893.799,
+        "text": "Ja, mogoče to, kot je gospod Guček omenil, da bi tudi z temi nekomercialnimi rejci, da bi do njih probali neko"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1895.161,
+        "end": 1921.065,
+        "text": "Večje vzaveščenost, zdaj verjetno jih s kakim dodatnim zakonom ne bomo mogli zajeti, ampak samo, da bi jih zajeli v to informiranje o preventivi, kajti na tak način bomo lahko samo vsi skupaj, rejci, predelovalna industrija in pa seveda slovenski potrošnik ostalej kot gormanji pri uživanju pršičega mesa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1925.148,
+        "end": 1932.197,
+        "text": "Kar se tiče samega kadra pa teh ostalih stvari, jaz moram reči, da sem tudi jaz ljubitelj kralja živali in si rad prebohčem dobro pečenko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1932.738,
+        "end": 1936.603,
+        "text": "Tako da sem dovolj motiviran za to, da grem na lov in da lovim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1937.924,
+        "end": 1943.432,
+        "text": "Seveda se pa zavedam, kaj v bistvu v to pa vzloči pri recih, kakšna škoda bo nastala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1943.812,
+        "end": 1959.523,
+        "text": "Takole se mi zdi, da smo skupaj s veterinarsko upravo res dobro pripravili sistem tako z izobraževanji lovci, z načrtovanimi, tudi vajo smo že izvedli, kako ukrepati v primeru, če se bo afriška pršiča kuga pojavlja pri nas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1959.543,
+        "end": 1962.465,
+        "text": "Takole mislim, da moramo te stvari samo spelati do konca."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1962.845,
+        "end": 1969.649,
+        "text": "Kaj se diče intenzivnosti od strela, sem že v številkah povedal, da smo ga povečali, mogoče bi sprememba in stimulacija"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1970.39,
+        "end": 1977.712,
+        "text": "Bila dodateljna vpliv to, da moramo najprej doseči in izpolniti povprečje od strela zadnjih petih let."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1977.872,
+        "end": 1979.873,
+        "text": "Šele potem v bistvu lovec dobi nagrado."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1979.993,
+        "end": 1981.033,
+        "text": "Ni motivacija."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1981.514,
+        "end": 1984.375,
+        "text": "Tukaj so priložnosti za spremembe."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1984.635,
+        "end": 1988.816,
+        "text": "Ne bi tukaj v bistvu bil pesimist."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1989.416,
+        "end": 1990.957,
+        "text": "Se mi zdi, da se je zelo veliko naredilo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1991.737,
+        "end": 1998.32,
+        "text": "kar v bistvu javnost mogoče niti ni opazila, za samim sprejemom interventnega zakona, za izvedbenimi načrti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1998.34,
+        "end": 2009.945,
+        "text": "Tako da mislim, da smo v Sloveniji pripravljeni in da tudi v sodelovanju z sosednjimi državami se nam kaže mogoče pa le upanje, da Afriška preživljiva Kuga ne bo prišla k nam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2010.125,
+        "end": 2013.047,
+        "text": "Je že kar nekaj časa v bistvu, ko se jo drži na Mačarskem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2015.564,
+        "end": 2038.058,
+        "text": "Jaz se strinjam, torej zaključna misel, hvala, da imam to možnost, vedno se da narediti kaj več, ker se tiče mojega, torej jaz sem pozitivni realist, ampak še enkrat, kontrola prometa živali, biovarnostni okrepi, prijava poginov,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2039.493,
+        "end": 2065.971,
+        "text": "Mi pa bomo tudi v budoče še ozaveščali javnost, ravno zelo propravljamo zopet eno kampanjo, da bomo v medije zopet poslali informacijo o afriški prašiči kugi in jasno, če greste na brskalnik pa vtipkate afriška prašiča kuga, boste imeli prvi zadetek splet na stran, ki je namenjena samo afriški prašiči kugi, tako da..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2068.349,
+        "end": 2074.176,
+        "text": "Jaz mislim, da je treba samo nadaljevati z vsem tem in vedno znova ponarjati, ponavljati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2075.305,
+        "end": 2079.187,
+        "text": "Pa seveda tukaj apeliram tudi na vso strokovno javnost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2079.688,
+        "end": 2086.572,
+        "text": "Vesel sem, da sodelujemo z zlovci, tudi z izvajalci javnosti, z osiljci življenjske javnosti, tudi z kmeti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2086.932,
+        "end": 2089.633,
+        "text": "In ena zadnja tukaj so pomemben člen tudi veterinari."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2089.773,
+        "end": 2098.839,
+        "text": "Torej veterinari, ne se ni govorim to samo o uradnih veterinarjih oziroma inšpektorjih, ampak tudi veterinarjih, koncesionarih oziroma vseh veterinarjih, ki so na terenu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2099.399,
+        "end": 2119.486,
+        "text": "Oni so seveda tisti, ki poznajo zadevo, ker so strkonjake za to področje, oni morajo biti še posebej čuteči oziroma budni in seveda kadrkol, kajdi to mogoče, ozaveščati svoje stranke, tudi če ne pridejo opraviti pregleda zaradi izpolnjovanja pogojev,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2120.932,
+        "end": 2132.879,
+        "text": "oziroma kategorizacije, treba je pač pokazati, torej opozoriti in seveda tudi sam biti primeren zgled, kako se pač uporablji zaščitna uprema, kaj početi in kako enkaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2132.939,
+        "end": 2145.007,
+        "text": "Skratka, mislim, da ne gre za eno rešitev, kjer bi pač imeli nekje napisan, nek recept, ampak da bomo mogli, da gre za večplastne rešitve in je potrebno upoštevati celo paleto rešitev,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2145.147,
+        "end": 2159.552,
+        "text": "Ukrepov, priporočil, smirnic, skratka in to je edini pogoj, da mogoče ne bomo imeli težav ali pa če bomo imeli težave s afriško prešiče, kako da bodo te, čim manjše."
+      }
+    ],
+    "runtime_sec": 633.1950070858002
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.017309590518504506,
+      "miss": 0.014956097675345443,
+      "fa": 0.001791261737570818,
+      "confusion": 0.0005622311055882458,
+      "total_duration": 2132.5749999999794
+    },
+    "der_collar0.25": {
+      "der": 0.015011820032110032,
+      "miss": 0.012545668305879672,
+      "fa": 0.0018684499955754334,
+      "confusion": 0.0005977017306549257,
+      "total_duration": 1977.5749999999798
+    },
+    "wer": {
+      "wer": 0.33839938437860717,
+      "ref_words": 5198,
+      "hyp_words": 4544
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 0.031,
+        "end": 61.844,
+        "text": "Lep dober dan, mimo imenu, sveta le pozdrav sem zbranim toljo obiskovalcem sejma Agra, vesel sem, da je precej obiskam glede na to, da živimo v kovej situaciji in sveta pozdral do deset tistim, ki nas spremljajo nadaljavo, kajne rečem, ja, danes smo, ker je danes veterinarski dan, naj tudi to poudarim na Agri, smo obravnavali tudi problematiko afriške prašiče Kuge in jasno, najbližje nam trenutno, torej najbliže afrijska prašića Kuga na Madžarskem, izbruhi se pojavljajo praktično dnevno tako da vam obistvo, če vam povem, zdajšnjo številko bo jutri že drugačna, zato ker se ti izbruhji pojavejo res v volkem številu in seveda to, kar imajo nekateri druge države članice, je dejstvo, da imajo potem afriško vprašiček kogo tudi pri domačih prašiščih, ker seveda dodatno povzroča dodatne predvsem ekonomske in tudi socialne učinke na..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 62.485,
+        "end": 251.047,
+        "text": "Na gospodarstvu oziroma na panogo kot takšno, mi se moramo zavedati, da v Sloveniji prešičaraja je občutljiva panoga, verjetno bo tem kolega Varga lahko povedal, kje je več in seveda pojav recimo, denimo afriški prešićek uge pri domačih prešličih bi lahko resno zamajal temelje tej panogi, tako da krvi je želel podariti je, da seveda učinkovit boj lahko dosežemo v bistvu z zlo preprostimi ukrepi, prvi, ki bi ga rad poudaro, je seveda ta, da vsi tisti, ki prihajajo pri svojem delu z stik z živalmi, z domačimi živalami, mogoče pa potem nek kolega bradači dopolno tudi kar se tiče področja medivih, vprašiča osreda v primeru, če opazijo s katerim lahko dobimo misplok informacijo, da potem lahko posumimo, saj te živali ustrezno pregledajo ali skratka odzame krije ali podobno ne upravi preiskavanj po poginu in druga zadeva, ki je za mojo pogled ključna, so pa srda biovarnostni ukrepi.Ker bomo meni, če se bomo državnikih beovarnostnih pravil, če bomo upošteval tisto, kar lahko vsakdo najde tudi na naši spletni strani oziroma na spletki strani Afriška Prešića Kuga, lahko naredimo neverjetno voljkov slugov vsemu stalem skratka osnovni beovornostni ukrepi, prepoved vstopa, nepooblaščenjem osebam, potem ustrezno ravnanje s krmo, potem uporaba zaščitne obleke tudi te table z napisi iz kratka, ki od ne bi odvračali ljudi, da se pač ne, ne vstopajo v recimo v hleve in podobno. To so, to je definitivno ključ do tega, da bomo lahko, da bo preprečili vnos afriške prašiče Kuge oziroma ga bomo vsaj, okol bo tega manj oziroma ta vnos posamičen, bomo lažje potem izvajal ukrepe, kar namreč kupajo enkrat vprašiček kuga, jeve čredi ozoroma, ko so živali zboleljo, potem pa so od sledi od rastični ukrepi, ki so seveda neprijetni, ampak kot je bilo že rečeno boleznje izredno nalezljiva, zanjo ni cepiva in seveda povzroča enormno ekonomsko škodo.Toda še nekaj bi poudaral sem položev vsem na srce, prijava izbruha bolezni oziroma nekih znakov in pa druga stvar, ki je zelo pomembna, pa seveda biovarnostni ukrepi, ne pri tem poudarim še en, en vidik biovornostnih ukrepov tudi trgovanje ozoroma nakup prašičev, promet s prešići, vse to mora seveda potekati v kontroliranih pogojih, v nasprotnem primeru lahko tudi na ta način potencialno vnesemo virus v svojo domačo čredo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 253.679,
+        "end": 307.291,
+        "text": "Promet živalni v Evropi je urejena način, da se živalje pošelejo kontrolirano skatka, že veživali za razlik od ostalega, a ostali hrcimo ga blaga, na primer živil ali pa drugih proizvodov mora spremlja s veterinarsko spričovalo in ki ga seveda potrdi veterinar v državi, od kodrat živali izvira in potem se te živalji zopet, ko pridejo v drugo državo članico, se potrdi iz sprejem teh živalje skatka.V priživih živalih je postopek trgovanja malce drugačen kot pri preostaljem blagu tako da se ob istvu ti ukrepi ves čas že tudi izvajajo, skatka ves čast se vzvajaju ti ukrepij in jasno je seveda tudi, da evropska zakonodaja določa, da v primeru, ko ima dološanja država ali pa del države afriško vprašiče Kugo živali od ististih področjev pravzaprav sploh ne smejo večči to trgovanje, skatka se ob nariditku mala blokada trgovenja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 307.291,
+        "end": 307.46,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 308.793,
+        "end": 320.504,
+        "text": "Od nekaj dni do do teden, deset dni so ti znaki oziroma od okužbe do pojava prvih znakov boleznih, skatka od nekaji dni dolercimo tedna ali pa deset dni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 321.128,
+        "end": 322.09,
+        "text": "Absolutno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 323.204,
+        "end": 327.372,
+        "text": "Ja, stara lepo za vprašanje, jo smo namreč, da se..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 328.081,
+        "end": 357.022,
+        "text": "Na teh raznih srečanjih, ki jih imamo lovci v Evropi, ugotavljamo, da se je pa čafriška prašiča Kuga premaknila iz Litvije, Latvije preko vseh te skupine držav domačarske, ugotalimo, da mi je najhitrejši prenos z kakšnimi salamami, z polizdelki, ko vpis v nekdo okuženega prešiča predela na avtocesti odvrže mogoče za ograjo in kar naenkrat mu lahko jutri izbruh tukaj, ne vem na trojana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 357.545,
+        "end": 403.512,
+        "text": "Zdaj, da se bi nato lahko preusrezno propravlj, je ob isto bil pogoje sprejetje zakona, interventnega zakona za afriško vpraščičev Kugo, ki je obisto prnesel tako načrta ravnanja kot privedel določene ukrepe. Generalni direktor v edinarske uprave je februarja sprejel sklep, s katerim je v bistvu razglasil ogroženost našega območja, to pa avtomatsko pogojuje, da morajo vsi upravljalci lovišč sprejeti načrt upravlanja. Ta načrt je bil dodelan, je tipski načrd, ga pa je severa treba prilagodit na specifično okolje določenega upravljavca lovišča, vemo, da imamo štiristo enajst lovižč, s katerimi opravlja evropske družine in še petnajsto ostalih Trigavski narodni park, pa čusi morajo imeti ta načrt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 404.407,
+        "end": 528.168,
+        "text": "Gre za konkretizacijo ukrepov in z drugega poglavja zakon o intervetnega zakona Afriški prečiči Kugi, govorimo o intenzivnem odstrelu, biotehničnih ukrepih, drugih preventivnih okrepih in med drugim tudi o tem, da je treba obvezno poiskati in prijaviti najdbo vsakega povrigovnilega prašiča, ki je pa vidim neključna zgodba pri vseh, ne samo pri lovcih, tudi s prehajalcih tudi pri kimetih, ki delajo v gozdu, te ti s trenutek, ko obisno najdemo poginuljega divjegaiča, je pač potrebno obvestit ali interventno številko sto dvanajst ali obvestiti lovsko družino, ta kraj je pa če treba ustrezno vzvarovati, da se, v koliko bo in ko bo prišlo dopojavati afriške prašiće kuge prepreči mozno šiserje na te bolezni, treba je odstrant, trebal razkužet to območje in vsi ti ukrepi so ob isto predpisani v načrtu ravnanja.Načrt ravnanj makar nekaj skopov začnemo ob isto lovci prdelo, kjer govorimo o tem, kako lovimo na individualnem lovu, kakor na skupinskih lobih, kakovisto uporabljamo vse pri lobu o teh biotehničnih ukrepih, katere so se obvezni elementi oprema orodje, ki jo pač moramo meti zaspravilo teh prašičev pri odstrelu in tako naprej.Gre za komplet te zgodbe, ampak namen tega je bil skupaj s ministrstvom za kmetijstvo veterinarsko upravo, da smo ob isto pripravili in tako obsežen načrt, po katerem ob isto posamrzniki se samo ravnajo, je postopkovnik in ob isto izpolnejo vse tiste minimalne zahteve, ki morajo pač vač veljat, da bomo lahko preprečil širjanje, kar je ključnega to, da jo bistvu s pršlo do spodbude, da se povečuje od strel, divih prašičal, s tem predvidevam, da bodo škode manjše, predvsem se bo pa zrečila populacija in s tem se možnost prenosa zmanjša."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 528.944,
+        "end": 559.572,
+        "text": "Med samopopolacijo v načrtu je tudi tem posebno poglavje, ki govori o tem, kako je s kmeti, ki doma redijo prašiče, pa so istočasno lovci, kaj se najhitreje zgodi prenos iz gozda do neko kmetijsko gospodinjstvo, oziroma k vnitijsko gospodarstvo, kjer pa čredijo prašiče, zaradi tega se tudi vodi posebna evidenca, vstopa vseh teh ljudi velo višče.Da nestavno se potem lahko tudi prekontrolira, če bodo čez alkoli prišlo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 560.602,
+        "end": 575.3,
+        "text": "Pomembno je tudi, da v bistvu vse ozaveščamo, da je pred vrati Afšiča prašića Kuga, da bodo poznal prepoznate znake, predvsem pa v tistem trenutku, ko se bo v bistvokršen kadavr, divega prašića našel gozdo, da znajo obvestit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 577.325,
+        "end": 593.002,
+        "text": "Mi smo v dogovoru s smedijske ministrstvom že pred leti dosegel, da je odstrel Divega Prašiča v Sloveniji navzgor neomejen, se pravi gorne številke, ki bi omejevala odstril Divegra Prašića v Sloveniji, ne poznamo več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 593.812,
+        "end": 601.793,
+        "text": "Tam trinajst tisoč petsto, osem tisoć petsto smo vse prišli že na trinajs tiso čpetsto letnega od srela divjih prešičev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 602.772,
+        "end": 608.662,
+        "text": "Mislim, da ga lahko intenziveramo tam, nekje na petnajst, šestnajst."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 609.218,
+        "end": 650.377,
+        "text": "Morda se zavela, da tudi Divi Prešić je v bistvu zlo zahtevna divjata lov, je inteligenten, z nase prilagodit razmeram, skoraj jo bistvu treba kar nekaj truda časa in energije odložiti v ta odstrel, s tem izpodbudami petdesetimiotimi evri, sem obočaj neki delno povrnil temu lovcu, ki se trudi, pa k mislim, da je predvsem pomembno, da na vseh teh izobraževanjih, ki jih imamo, smo jih kar nekaj že spelal, povejo, kakšen je pomen, kje je tista vloga lovca, da so bistvu vsi zavirali tiste splošne odgovornosti?Ker konc koncev, ko bo enkrat to po nas izbruheljno..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 651.187,
+        "end": 655.726,
+        "text": "Mislim, da je to obisto skor bankrot, saj so vse tiste rejce domačih prašičev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 655.793,
+        "end": 656.047,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 659.236,
+        "end": 670.947,
+        "text": "Ja, hvala za vprašanje, res, tudi z moje strani pozdrav vsem sogovornikom, vsem zbranim tukaj pa predvsem tisti, ki nas premijo preko oddaljenega omizija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 672.466,
+        "end": 676.347,
+        "text": "Kot sta omenila, a pojav afriške prašičije kuge?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 677.782,
+        "end": 749.517,
+        "text": "Je velik, velik problem, ne? In če to zaznamo, da je to na nivoju pojemu tam nekje osemdeset do sto kilometrov od naše meje, je to velika nevarnost za celotno Slovenijo, ne samo za slovensko prašičarjejo, za slovanskega rejca, za Slovenskega agroživilstvo, za celotnoslovenijo, vemo kaj to povzroči kolega Guček, ki je povedal, kaj tu pomeni, se pravi prekinjen bo promet z nesamoživalmi, tudi z mesom, tudij z izdelki in to lahko ogrozi neke vrste slovensko samovzkrbo, oziroma prehransko varnost v Sloveniji. Mi vemo, da slovenci smo pač gurmani, tako rekoč štirideset enajstrtdeset kilogramov povprečju na glavo prebivalstva potrošimo svinjine in če se bo ta komponenta iz naše prehrane umaknila, to lahko pomeni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 750.158,
+        "end": 752.167,
+        "text": "Nekaj vrste prehransko krizo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 752.774,
+        "end": 814.503,
+        "text": "Če se pa povrnemo v drugo smer, se pravi v škodo, ki jo povzroči ta pojav, eventuelni pojave, ki si ga nikakor ne želimo, to pomeni, da bojo rejci vprašičev prvi vrsti tisti, ki bojo morali zaklati, oziroma bo ji bojo pobili praktično čredo, se pravi to bo prvi ekonomski izpad.V drugi kategoriji klavnice predelovalna industrija ne bodo imeli, ne bodov imeli žemali za predelavo, se pa pravi ta kriza ali pa finančni izpad ne bo samo enkraten, ker potem so posamezni pogoji, ki ji bo mogoče gospod Guček še povedal, da se lahko potem vrne v drugem krogu nazaj reja prašičev oziroma sam gosp gospodarska aktivnost zveze z prašićrejo, tako da to je kar se z gospoderskega vidika tiče tudi lahko nekaj vrste."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 815.566,
+        "end": 823.396,
+        "text": "Padec tega pomena prehrane v zaslovenskega potrošnika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 825.269,
+        "end": 825.286,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 825.286,
+        "end": 983.472,
+        "text": "Sestriljem s kolego Vargo, ja definitivno se tudi zakonodaja predvideva možnost postavitve ugraja vendar v fazi, ko se nam že pojavijo okužena ali pogrožena območja, ali pa svetanja posrednji bližini naše meje.To je prepozno! To se moramo tudi zavedati dejstva, da postavitev graje, seveda tudi gre za določen poseg v zemljišča, zasebna zemliščaja in seveda zakon tudi to možnost toreja bi pa turat poudaril še eno zadevo dan, ker je bilo že preizpostavljeno, da prenos, prašičije, afriške prašiće kakukule samo živimi živalmi, torej s Prašići iz Mhažarske je seveda resno tveganje, vendarle lahko obstaja tudi prenos preko okuženih mesnih izdelkov, ki jih seveda sabo imajo ne vem prevozniki avtop pojavinje, ki je v rojstvu, kar je šele hudbega, kjer je vložena v poloči, pa je v to, da bi bilo, da so vložejo, da bojo, že nekaj, nekrat, neč le na kar je še hujše pojavinje, kje v centru Slovenije oziroma na nekem področju, kjer so pač divji Prešič in zavedat semrmo dejstvo, da Slovenija goznata dežela in mi imamo populacijo divjih Prešiću praktično po celotnem ozemlju.Tako da to je ta element, ki ga je treba tudi upoštevat pri tem, ko se govorimo o tem ali sebolezen, kako se boleznje široma kako je omejit, pa še mogoče to, kar je bilo tudi rečeno glede teh udorov na te nepouplaščene nezakonitev stopena, zasebna zemljišča ali pa objekte absolutno je tu potrebno obvestit v vsakem primeru, tudi mi smo zdaj v teh primerih odstopelj, kjer smo imeli informacije policije izkratka, to je potrebno res rigorozno takšne zadeve obravnavat, je s strinjem vstendo obstaja tveganje poznamo zgodbo okrog teh posnetkov, je se osebno pač čutim malce prizadetka, ker bi verjetno namreč šloval za dolgotrajnejše snemanja, ne verjetna bi lahko s tem bi mogel pobudniki pravočasno, ali pa čim prej se znanit pristojne organe, tako da še enkrat ne pooblaščeni vstopi so, jasno niso sprejemljivi in mi jih obravavamo skrajno resno oziroma, kolikar imamo informacijo, potem tudi posredujemo v reševanje policiji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 838.111,
+        "end": 838.988,
+        "text": "Kako je prepozno?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 983.523,
+        "end": 983.877,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 986.999,
+        "end": 1171.426,
+        "text": "Je mislim, da govorimo kar v nekaj mesecih lahko tudi leto odvisno, namreč zlo težko je nabredat odvisne odega o kakšnem obsegu in kje bi se pojavila bolezna, ampak vsaj, ker pojavi potem se razglasi okuženo ogroženo območje, se izvedejo vsi predpisani ukrepi, omeji se promet za živili z mesom s proizvodi svinskega mesa in seveda zreče se to uspe, zaezid na tistem mestu, kjer se pač bolezen prvič pojavi, potem je seveda lahko govorimo o krajšem obdobju, ne bi parad zale tule špekuliro, pa preduciralo v kakšnem časovnem obdobju, okolj kar pa se potem tip tja te bolezen širi točka sto skratka kot požar, kar je bilo tu trečeno strani rejcev, prešičev, potem bi pa seveda zadeva bistveno bolj dramatična in seveda radikacije bolezni potem lahko vzame zelo veliko časa in dejansko to pomeni za določen del prešičereje v bistvu vsaj začasno konec prešićereje, in potem seveda v kolikor bodo zadnospokšejo obmožnosti, potem počasna obnova in repopobilzacija čaret in tako dalje, z kratka še enkrat, zelo pomembno je, da se zavedamo pomena preprečitve vnosa in gospodarge reko, da resnih rejcev je okrog tristo ne, ampak vseh rejscev prešičejo pa bistveno več, govorimo o nekaj tisoč oziroma deset tisoć in seveda problematično je, da pri določenih rejcih, ki imajo te živali za nekomercialne namene samo za zasnoto mačjo porabo, da seveda nimajo verjetno predstave, kaj lahko nastanejo, ko kar se bolezen pojavi in nekako mogoče, so v tem smislu manj dojemljivi za naše apele, pa za pozive oziroma dalpoštevajo predpisane ukrepe, da imajo živali, da se izvaja tudi preregistracija premikov, ker s tem lahko potem sledimo, kaj bi bila nekaj žival prodana in podobna. Zelo pomembno je, da se tu vsi, ki so lastniki Prašičev in netniki prašićev ne glede na to ali so ti prašići namenjeni za trg oziroma, da gre za komercialno rejo, tudi vsi tisti, ki imajo prešiček zgolj zase, za lastno domačo, prav, da se zavedajo pomena biovarnostnih ukrepov in seveda tako, kot bo preizvečeno že s petce ponavljama, pa kaj mi smislim, da so tu, ki lahko ponavlam večkrat obveščanje veterinarja oziroma kot je bilo rečeno s strani gospoda Bradača v primeru najdbe Prašiča, potem intervencijske številke ena in ena dva skratka, da se vda čim prej tisto področje, da so žival potem odpelje ali ugotovvi vzrok, zakaj je bolna, da se spremlja ustrezni okrepi od torej zaščitna oprema razkoževanje in podobno.Tako da še enkrat res bi apeliru, da si tu moramo vsi od prvega do zadnjega zaved odpomina, da smo odgovorni do svojih živali in da seveda tudi odgovorno skrbimo zanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1174.43,
+        "end": 1263.884,
+        "text": "Jaglete živilske industrije je v Sloveniji kar nekaj, ne? Kar nekajo velikih podjetij, ki se okmarjajo izključno z predelavo živil, oziroma z predelovo svinjine, poleg tega pa tudi so tri, štiri velika podjetja, ki so ok ukvarjajo z reju prašiče, ne? Tako je prej gospod Varga obvedal na tem severovzhodnem delu Slovenije, kar dve tretjini prašiće, no. Od tega je nekaj velikih rejcev in pa soveda podjetje, ki ima trideset, štirideset tisoč prašhikode in kot sem prej omenil, škoda se povrnila enkrat, kaj pa čas, saj gospod Guček ni povedal ne, mi vemo, da vsaj pol leta je minimalen čas, ne, če smo eksplozivni pri reševanju oziroma pri sanaciji, ne? A pa k to po izkušnjah iz drugih držav vidimo, da to traja leto dve, lahko tudi več časa, četakrat je bilo vedeno, česa to širi kot požar pikčasto po pocelem območju, ne? Se pravi, ne samo da ne bo živali, ker je tudi prepovedan promet, potem bo jo jasno, ne samodo bo rejci propadli, bo jo propadla tudi živilska podjetja, ali se bo jo morala prestrukturirati v kake druge dejavnosti, ne? To pa pomeni spet ogromno tveganjo, vprašanje k na..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1264.508,
+        "end": 1300.283,
+        "text": "Kaj bojo lastniki s tem povedali ali se bojo strinjali s tem, da ponovno vložijo kapital in tako naprej to so res ekonomske ogromne ekonomske škode, ki bi lahko nastale.Tako da še enkrat kot pravimo vsi povrsti apel res zdravila cepiva ni, edino zdravilo je preventiva, se pravi čim bolj spoštovatiti preventivne ukrepe, ki jih uprava jasno in glasno, je povedala poslala vsem z gibanke tudi še mogoče še več oglasov, zaj v tem času ko je pač."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1301.077,
+        "end": 1323.993,
+        "text": "Jesen področje lova in tako naprej, ker tu prihaja tudi do gostovanja raznih lovcev, to bo kolega maloveč povedal, ker lahko pridejo do takega prenosa, ko si ga najmanj mislimo, ali na obutvi ali na opremi ali kakor kolik se odvrže in tako navrej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1324.583,
+        "end": 1332.751,
+        "text": "Intenzivna preventiva je lahko samo tista, ki nam prepreči pred to katastrofo, ki nas eventuelno čaka, če se zgodi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1332.751,
+        "end": 1332.802,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1334.658,
+        "end": 1360.983,
+        "text": "In tudi o pogovoru z madžarskimi kolegi, ko se pogobarjamo z organizacijo Sema Vanvitnejčer, smo spregovorili tudi v tej temi, o gostih in obiskih, ki pihajo, moram pareš, da se je v bistvu kar setiče lognega turizma ta dobesedno izničil, kovit ukrepi so ga odpravili, ne, vzveb nekaj po vojih, nekajo bilo tistih tradicionalnih obiskov, ki še mogoček je pridejal drugače pa tega izredno malo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1361.945,
+        "end": 1480.778,
+        "text": "Kar se tiče Madžarske, je sami povedo, da se na odločilo, da se je odl prišli v Litvijo, da so ob isto iz Poljske pršli na Bruselj, po drugi strani ravno odkost odpadk. Po drugi sranji se je pa izkazalo, da se v Bruslu v bistvu uspel s temi ukrepi iz Koreninic, pa čafriško pašičo kugo med Prašići s vratu cintizivnim odstrelom in samo stalimi stvari, ampak ne beležijo več primera. Podobnost zlo uspešni so bili tudi Čehih, par teh aktivnostih, tako da mislim, da se na podlagi tega, da smo se imeli čas tudi v Sloveniji, pravd in da je vsata zakonodaja vsi predpisi, da so o temu prilagojeni.Tudi ta izobraževanja, ki zre potekajo, takom med lovci, vabljeni so tudi vsile ostali, dajo zlo veliko dodatnega znanja, kako se ob isto z nekim enostavnimi preventivnimi ukrepi, obraniti temu, da bi se afriška pašičja nekontrolirano širila.Da se naredet to in je stupan, da nam bodo tudi spelo mogoče samo še dodatek okrog te ograje na slovensko mačarski meji je zagotovo nek preventivni ukrep, ampak praksa kaže na to, da so v bistvu hitreje širi takrat, kadar jo v bistvoku še neodgovoren posameznik prenese, se prav da jo v bistvu v trenutku nam jo lahko zanese tudi kopra."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1481.487,
+        "end": 1504.1,
+        "text": "Sam prenos v naravnem okolju med dvemi prašiči, ker istočasnaka se kužijo tudi poginejo, je zlo počasen.In mačarjih ob isto to uspejo držati na določenem mestu, v tem drugem delu, kjer imajo to tako imenovano rumeno cono do Prekmurja, majajo pa vrsto preventivnih ukrepov, kjer mislata so zlo uspešne in učinkoviti, da se ob isto ta zadevanje širi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1508.116,
+        "end": 1589.217,
+        "text": "V bistvu v hlevu, kjer se pojavje bolezen, to pomeni, da se pač vse te živali, ki so v hljubu morajo neškodljivo odničiti kot mi uporabno skatkam potrebneh jevtonazirati, poskrbet za njihovo uničenje, sreda pa je to in samo prvi del zgodbe, podobno, torej govorim o tkomenovanem okuženjem območju, potem pa se poleg tega, sveda zopet odvisno od koncentracije prešičev, ki je lahko zlo različne, določi še pa ogroženo obmo če in na tem obgrožene moče se potem uvede posebno nadzor, ko se tiče prometa vstopa in izstopa prešiča, kako se potem s njimi prešići ravna.Tudi nadzore klanja teh živali, potem posebni postopki uravnanja z mesom, skratka, na ta način se seveda v prvi fazi, kot sem že rekel na tem posestvu izvede depopulacija, potem pa seveda sledijo postopki, kjer je potrebno uizvesti razkuževanje, skratka, kompletne opreme in jasno šele podoločenem času potem zopet lahko govorimo o tem, da bi se živali lahko začele na Bavla. Tampak je Zbishevnjke ter rad poudaril, da..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1590.415,
+        "end": 1658.0,
+        "text": "Ni problem v tem, da torej ko se boleznju pojavi ni problem o tem, če je potrebno živali uniči, čeprav to zese slišim mogoče kruto, to se da vse narid probleme, ko imamo živalij, ko jemamo bolezen, ker je skoraj nemogoče in tudi druge države članice, ki so se ukvarjale s to bolezni, tudi tiste za katere so zlo redkih primerih dobro, recimo Belgija, uspele, da so ob države bolezen samo na enem mestu, ne?In ker je še premen bolj, mene še bolj skrbi, recimov, če se ta bolezn pojavi njekeve notranjosti držav, in to na področju, kjer je Reja Prašičov bolj, kot sem že prej rekli, so to manjše reje do nekaj živali, ki so nekomercialne, se lahko pogosto zgodi, da potem ljudje skušajo ugotoviti kajne robe, pride do obiska, sosed prida pogledat sosedo, ti posluši jesmo težave z živalmi, imaš tudi težava in v tem primeru se potem lahko to zelo, zelo hitro razširi.Tako da srede izgube so neposredne, kar pomeni izguba živali, potem pa kot je bilo rečeno strani na sogovorniku, tudi sredo posredne izgube."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1659.485,
+        "end": 1693.454,
+        "text": "Plus, da gre seveda čas, ki ga zgubiš in seveda tudi posredne izgube v smislu izgobe poslovanja za živilska podjetja banke ne čakajo, kot je bilo rečeno strani gospodovarge tako, da gre za zelo, zelo resno zadevo in seveda tudi ko se vsi ukrepi izpeljejo in se voda in recimo nam uspe omejit bolezen pa jo je radicirati bodo še vedno posledice precejšnje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1696.373,
+        "end": 1702.988,
+        "text": "Mi smo začeli s prvim junijem in mislim, da imamo že preko štiri tisoč."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1697.302,
+        "end": 1698.331,
+        "text": "Začeli srb."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1702.988,
+        "end": 1703.107,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1703.107,
+        "end": 1881.847,
+        "text": "Gospodarstvo pregledanih tako da potekajo ti pregredi in se bodo zelo v jesenskem času še intenziviral, definitivno ob isto mornem povedati, da je bil cilj želja uprave, je bila, da bi sprejeli poseben predpis in uvedel bilo varnostne ukrepe, vendar nežal potem to ni bilo izvedljivo, tako da imamo z desno pregled rej in njihovo kategorizacijo odvisno odstopnje zaščitnih ukrepov, ki jih imajo, ti rejci oziroma z ukrepovs, katerimi pač ne bi preprečevali vnos okužbe, se tu ne govorimo za samoafriški prašičji kubi, ta je trenutna aktualna in dejansko gre za zelo narezljivo bolezen, bivovarnostni ukrepi so splošno pravilo, ki se ga je potrebno držat, mogoče če samo po omenjem, recimo na perutninskem področju, kjer govorimo, recimu če imamo neke specifične kategorije živali kot somatične jate, so ti ukrepi že zdaj zelo storogi, zato ker pač se je perutinski sektor ima določene bolezni, ki se lahko prenašajo in se seveda, se je zelo hitro naučil, da je potrebno poskrbet z beovarnostnimi ukrepi, da do teh boleznij, da za doširitve ne more prid ali pa v nosa bolez ni. No, k tem primeru, pa kot sem že rekel, več preko štiri tisoč pregledov blaževpravljenih rezultati so seveda različni, je pa res, da je seveda treba vzeta v ozir ekonomski učinjenj, ki ga ima Reja Prešičo, če rej torej nekdo redi Prešića, pa to ni njegova osnovna dejavnost ali pa v bistvu vir prihodka, je njegov odnos sigurno drugačen, ne, torej kot čeje seveda, če ta reja obistvo zasvoja lastno domačo porabo, tudi se še vedno lahko zgodi, da potem taka živali se prodaja, jo ne kontrolirano klub temu, da so premiki živali, da je potrebno vsak premik živalji tudi samo enega prašiča prijaviti in se potem ta informacija zavede v ustrezni register, še vedno prihaja do tega, da se sveto s njimi živalmi, recimo trguje na način, da ni, da pač se te informacije ne sporočajo in seveda tu je s vidim definitivno lahko neko težavo in se strinjam z tistimi, ko bom rekel kakomu najrečem resnimi rejci, kot je prereklo Gospod Varga, ki pa dejansko vse svoje sile naprejnejo v to, da bi nekako skušal imet pod kontrolo te ukrepe, te pogoje in ki seveda dobro premislijo od kje prihaja živali na kakšni načini kupijo, kako preverijo, da bovitelja, kakšne pogoji, kaksnih dokumentih spremljajo. Tako da se pa ti časami jih pregled v tipu tekajo in je smiseln, da bomo v doglednem roku, da glede na dokak smo načrtoval tudi upravlj v tem predpisemem roku gledene, vse pravim od prvega junija do zdaj je blod že štiri tisoč pregredov narejenih?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1881.847,
+        "end": 1882.133,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1882.133,
+        "end": 1883.669,
+        "text": "Oddelamo preko štiri tisoč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1886.369,
+        "end": 1894.132,
+        "text": "Ja, mogoče to, kot je gospod Guček v menu, da bi tudi z temi nekomercialnejimi rejci, da vi do njih probali neko..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1894.975,
+        "end": 1921.283,
+        "text": "Večje vzaveščenost, ne, za verjetno jih s kakim dodatnim zakonom ne bomo mogli zajeti, ampak samo da bi jih zajeli v to informiranje o preventivi, kajti na tak način bomo lahko samo vsi skupaj rejci predelovalna industrija in pa seveda slovenski potrošnik v stari kot gormaniji pri uživanju pršičega mesa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1925.165,
+        "end": 2013.337,
+        "text": "Ker se tiče samega kadra, pa teh ostalih stvari, jaz moram le, da sem tudi s ljubitelji kralja živali in si rad prvoščen dobro pečenko, ker sem dovolj motiviran za to, da grem na lov in da lovim. Seveda se pa zavedam, kaj obisno v to povzloči pri rejcih, kakšna škoda bo nastala. Korej se mi zdi, da smo v bistvu skupaj z veterinarsko upravo res dober praval sistem tako z izobraževanji lovci, z načrtovanimi tudi vajo smo že izvedli, kako ukrepati v primeru, če se bo afriška prašniča Kuga pojavlja pri nas, ko le mislim, da moramo te stvari samo uspela do konca.Ker si ti če je intenzivno cesti odstrelal, sem že v številkah povelil, da smo ga povečali, mogoče bi spremembo in stimulacija vlado datum vpliv, to, da mormo najprej doseč in izpont povpreč je odstrelal zadnjih petih let, šele potem ob isto vlovec dobi nagrado ni motivacija, tukaj so priložnosti za spremembe, ne bi tukar obisto bil pesimist.Se mi zdi, da se je zlo velik naredilo, kar v bistvu javnost movoče niti ni opazila, za samim sprejemom interventnega zakona, za izvedbenimi načrti, tako da smo, mislim, da smo v Sloveniji pripravljeni in da tudi sodelovanju z srednjimi državami, vse nam kažejo mogoče pa le upanje, da Afriška pršučja koga ne bo pošla k namno, je že kar nekaj časa ob bistvu, ko se jo drži na mačarskem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1932.843,
+        "end": 1934.632,
+        "text": "Sel sem dovolj motiviran za to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2015.547,
+        "end": 2028.811,
+        "text": "Jaz se strinjam, torej zaključna misel, hvala, da mam to možnost, vedno se da naredite več, ker se tičejo mojega, toreje sem pozitivni realist."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2029.57,
+        "end": 2031.595,
+        "text": "Ampak še enkrat."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2032.118,
+        "end": 2038.48,
+        "text": "Kontrola prometa živali, biovarnostni okrepi prijava poginov..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2039.408,
+        "end": 2159.862,
+        "text": "Mi pa bomo tudi v bodoče šel zaveščal javno, strano zelo propravljamo zopetano kampanjo, da bomo v medije zoped posnali informacijo o afriški prašičji Kugi in jasno, če greste na brskalnih, pa utipkate afriško prašiček Kuga, boste imel prvi zadetek spletnost stranki namenjena samoafriški prašići Kugi. Tako da je smislim, da je treba samo nadaljevat z vsem tem in vedno znova poudarjat, ponavlat pa seveda tudi apeliram, tudi na vso strokovna javnost, vesel sem, da sodelujemo z lovci, tudij z izvajalci dejavnost in zasilci živilske dejavnosti tudi skmeti in njene zadnje tudi so pomemben člen tudi veterinarij, torej veterinarji, ne se ni govoril samo o uradnih veterinarih oziroma inšpektorjih, ampak tudi veterinarjih koncesionarjih ozirs vseh veterinarjih ki so na terenu oni so seveda tisti, ki poznajo zadevo, ker so strokovnjake za to področje, oni morajo biti še posebej čuteči oziroma budni in, zavoda, kadrkol kredito mogoče, ozaveščat svoje stranke tudi če ne pridejo opravit pregleda zaradi izpolnjevanja pogojev ozoroma kategorizacije, treba je pač pokazat torej opozorit in seveda to sam bit primeren zgled, kako se pač uporabili zaščitno oprema kaj početi in kako in kaj skratka, mislim, da ne gre za eno rešitev, kjer bi pač melniki napisanek recept, ampak da bomo mogli, da gre za več plastne rešitve in je potrebno upoštevat celo paleto ukrepov, priporočil smirnic skratka, in to je edini pogoj, da mogoče ne bomo imeli težav, al pa če bomo mel težave, safriško prašiček ugoda bodo te čim manjše."
+      }
+    ],
+    "runtime_sec": 293.7621839046478
+  }
+}

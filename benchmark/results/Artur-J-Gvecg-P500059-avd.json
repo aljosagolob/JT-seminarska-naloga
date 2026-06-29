@@ -1,0 +1,3862 @@
+{
+  "file_id": "Artur-J-Gvecg-P500059-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500059-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.07663557320936552,
+      "miss": 0.07480393074507803,
+      "fa": 0.0,
+      "confusion": 0.001831642464287491,
+      "total_duration": 3568.3819999999505
+    },
+    "der_collar0.25": {
+      "der": 0.06440668679255404,
+      "miss": 0.06271725477164584,
+      "fa": 0.0,
+      "confusion": 0.0016894320209081993,
+      "total_duration": 3394.6319999999505
+    },
+    "wer": {
+      "wer": 0.20230998509687034,
+      "ref_words": 8052,
+      "hyp_words": 7303
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 0.031,
+        "end": 8.073,
+        "text": "Dobrodan, dobrodošli, lepo, da ste danes pa šli."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 8.894,
+        "end": 14.735,
+        "text": "Rada bi vas še posebej pozdravila po enem v bistvu takem težkem letu za nas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 14.835,
+        "end": 23.398,
+        "text": "To leto ne samo, da je bilo obvarjeno s koronskim zaprtjem in vse splošnim ne preveč dobrim počutjem in izolacijo,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 24.078,
+        "end": 35.785,
+        "text": "S pomladi je umrla, se je od nas poslovila tudi naša dolgoletna direktorica, ustanoviteljica Zavoda Bunker in festivala Mladi levi, ne vem kako priušek."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 36.125,
+        "end": 39.407,
+        "text": "Pomlad je bila obarvana z žalostjo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 40.43,
+        "end": 55.559,
+        "text": "Ampak smo se odločili, da moramo v bistvu v nevenkinem duhu se hitro razdobirati in peljati to, kar smo skupaj ustvarjali 24 let, smelo naprej, tako kot bi ona to naredila."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 56.2,
+        "end": 67.167,
+        "text": "Zato danes tukaj sedi malo spremenjena ekipa, oziroma isti obrazi, kot ste jih videli že prejšnja leta, ampak malo čakano v drugačnih vlogah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 67.767,
+        "end": 70.771,
+        "text": "Predstavlja bom najprej celo ekipo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 71.252,
+        "end": 83.049,
+        "text": "Torej, nova bunkereva direktorca Alma Ređi Celimović, oblikovalka programa Festivala Mladi Levi, oblikovalka programa Stare elektrarne Mojca Juk."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 84.068,
+        "end": 104.041,
+        "text": "izvršna producentka festivala Maja Ležin, producentke festivala, ki sedijo tamle bolj v ozadju, Polona Vozov, ki je dela tudi administracijo, Špela Kopitar in Klara Drnovšek-Solina, ki vodi tudi prostovoljsko delo skozi festival."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 104.842,
+        "end": 118.458,
+        "text": "Z nami pa je tudi naša rezidenčna umetnica Leja Kokovičič, ki se bo letos na festivalu predstavila s posebno noviteto, dražbeno hišo uprezoritvenih umetnosti For Sale, s prvodražbo predstave Declone Ltd."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 118.578,
+        "end": 119.919,
+        "text": "in Cannihunters."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 120.62,
+        "end": 127.187,
+        "text": "Ne bom preveč dolgo govorila jaz, ker bom predala besedo mojim kolegicam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 127.247,
+        "end": 135.777,
+        "text": "Moje ime je Tamara Bračič-Vidmar, sem vodja komunikacije in na me se lahko obrnite z vsemi vprašanji, ki vas bodo potem pestila v zvezi z logistiko in takšnimi zadevami."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 136.758,
+        "end": 139.381,
+        "text": "Zdaj pa predajem besedo Almi Reči-Celimovic."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 140.296,
+        "end": 142.498,
+        "text": "Pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 143.939,
+        "end": 149.004,
+        "text": "Vsi novi začetki so težki, pa bom povedala eno anegdoto, da mogoče malo razbijemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 149.044,
+        "end": 162.777,
+        "text": "Ne vem, kaj je rada vedno govorila eno anegdoto Ivanki Mežan in Števki Droljc, ki jaz ne vem, če je resnična, ampak anegdota pravi, da se Ivanka Mežan enkrat Števki Droljc na oder zadrla, ne tak patetično šteti,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 164.815,
+        "end": 175.441,
+        "text": "Tako da me se nekako velikrat spomnimo na te anegdote in si ob žalosti mislimo, da je treba pač iti naprej nekako tudi s humorjem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 175.841,
+        "end": 178.162,
+        "text": "Zdaj pa ob pot festivalu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 178.322,
+        "end": 183.785,
+        "text": "Festival Mladi Levi smo vedno označevali kot nekako krono bunkrja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 184.026,
+        "end": 193.371,
+        "text": "Ne zato, ker se mi rade urejamo ali pa ker smo The Queens ali pa rade nosimo kronce, ampak ker je pač začetek nove sezone, krona prejšnje sezone."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 193.891,
+        "end": 203.638,
+        "text": "in pa tudi skupek naporov celotne ekipe in edini dogodek, ki vse naše nekako razvejene programske sklope, aktivnosti, ki jih delamo čez sezono, poveže."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 204.198,
+        "end": 215.766,
+        "text": "Če uporabljam ekonomsko terminologijo, to je nekakšna popolna kapitalizacija vsega, kar Bunker ima, ustvarja in vseh njegovih, se mi zdi tako, prednosti, pridobljenih veščin in znanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 217.381,
+        "end": 228.993,
+        "text": "Krona je tudi zato, ker je največji letošnji dogodek in tudi največji letni dogodek vsako leto in pa demonstracija tega, v kaj vrjamemo, kaj nas predstavlja in za čem stojimo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 230.358,
+        "end": 247.73,
+        "text": "Letos seveda o Mladih levih lahko govorimo kot o festivalu, ki je nastal v izrednih okoliščinah, ne samo zaradi tega, ker se je poslovila ustanoviteljica, ne vem kako priušek, ampak tudi zaradi tega, ker je nastajal v sezoni, ki jo je zaznamovalo sedemmesečno zaprtje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 248.735,
+        "end": 271.477,
+        "text": "Sicer mislim, da je sektor, ta beseda se zelo rada uporablja, odporen in da je delovanje v krizi nekakšen modus operandi, ki smo ga navajali in zato mislim, da smo dobro prekramarili krizo do zdaj in da se trudimo nekako strmeti naprej pozitivno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 272.528,
+        "end": 280.69,
+        "text": "Letošnji festival je, kot je napovedala Tamara, v izrednih okoliščinah ustvarjala celotna programska ekipa Zavoda Bunker."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 281.371,
+        "end": 286.712,
+        "text": "Prihodnje leto pa umetniško vodstvo festivala prevzema Mojca jug z mlajšo programsko ekipo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 288.993,
+        "end": 291.794,
+        "text": "Zdaj mogoče sem kratek pogled na sam festival."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 292.981,
+        "end": 314.184,
+        "text": "Kljub sedemmesečnem zaprtju nekako odpornosti govori to, da je v programu vseeno zelo veliko slovenskega programa, torej domačih predstav in to ni kompromis, ker na mlade leve vedno pridajo nekako najboljše predstave sezone oziroma največji preseški in kljub vsemu jih je bilo letos veliko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 314.969,
+        "end": 338.243,
+        "text": "Eden izmed njih je tudi bunkarjeva produkcija, naša premjera, ki je že doživela pred premjero in nam je še uposebno veselje, ker združuje dva bunkarjeva velika projekta in sicer premjero projekta For Sale, Leje Kokovičič, ki bo v dražbeni hiši, ki jo je ustanovila, prodala bunkarjevo predstavo kolektiva Beton Limited in Hkaniht Anders."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 340.484,
+        "end": 346.085,
+        "text": "Zdaj, umetnost v nobenem obdobju ne more samo biti, ker potem je dekor ali pa postane kultura."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 346.205,
+        "end": 350.186,
+        "text": "V tem obdobju pa sploh ne more samo biti, ampak vedno dela."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 350.466,
+        "end": 363.009,
+        "text": "Torej deluje, vrta, kople in si izvotli in svoj prostor in tudi svoje mesto v svetu in pa nekako poskuša ali projecirati neke nove stvari ali pa aktivno vplivati na svet."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 363.569,
+        "end": 365.551,
+        "text": "Letošnji program je testament z tega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 366.051,
+        "end": 379.402,
+        "text": "Združuje in predstave, ki so nastale pred koronskim časom, ki so nastale v odgovor koronskemu času, ali pa ki so nastale ne glede na koronske čase, ampak na vkljub okoliščinam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 379.482,
+        "end": 387.989,
+        "text": "Potem kasneje bomo šli čez program, pa bomo mogoče pri vsaki predstavi lahko naznačili, kako se to bere skozi posamečne projekte festivala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 388.935,
+        "end": 402.198,
+        "text": "Kot smo napisali v vodniku, si želimo na nek način, da ta festival ne bi imel nalepke, da je post koronski ali koronski in tudi si ne želimo, da bi imel nalepko, da je postnevenkin festival."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 402.378,
+        "end": 414.36,
+        "text": "Ne zato, ker ne bi želela ohranjati njega spomina, ampak zato, ker njena dediščina nekako živi naprej in edino vlogo, ki jo tukaj prevzemamo na svoje hrbte, je, da ne bi živel samo za nas, ampak da bi nas vse preživel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 417.13,
+        "end": 435.097,
+        "text": "Zdaj, kaj sploh si misli o tem, kaj lahko festival zgenerira, poleg tega, da poskušamo umetnosti ponovno izboriti prostor in čas in pa neke prostore druženja in delovanja in skupnosti, ki presegajo samo posamečne projekte."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 435.317,
+        "end": 440.559,
+        "text": "Mislim, da projekte in da celotni festival letos zaznamuje neke vrste dialektičnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 441.28,
+        "end": 446.622,
+        "text": "Umetnost ne sme biti didaktična in predvsem, če je umetnost nikoli ni kategorična."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 448.028,
+        "end": 456.353,
+        "text": "Vse dileme v današnjem svetu zgledajo rešljive s preprosto polarizacijo, ampak vemo, da nobena dilema ni rešljiva s polarizacijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 457.413,
+        "end": 473.002,
+        "text": "In želimo si, da bi umetnost ostala polje, kjer je dvo možn, nujn, kjer je ambivalentnost zaželena in potrebna in kjer v bistvu neprestano treniramo interpretativno odprtost in to, da lahko izmenjamo mnenja, ne da bi kompromitirala resnico ali pa realnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 474.016,
+        "end": 487.681,
+        "text": "Jaz upam, da smo vse dale lepo popotnico temu festivalu in da bo po 24 mladih levih, da se drugo leto sestanemo na 25 pa vsaj do 100, tudi če jih ne doživimo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 490.452,
+        "end": 500.785,
+        "text": "Zdaj pa bomo se kot ponavadi malo sprehodili čez naš program, ki je letos predvsej velik, ko smo ga na koncu stavili, se mi je zdelo, da mogoče pretiravamo, ampak mislim, da ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 500.865,
+        "end": 508.174,
+        "text": "Dejmo ponuditi čim več stvari, bojo tudi mogoče namenjene za malo manjšo število publike, tako da so nekatere stvari večkrat tudi ponavljamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 508.795,
+        "end": 515.238,
+        "text": "Letošnji festival se kot ponavadi ostaja v tem kvartu, kvartu Tabor."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 515.718,
+        "end": 521.26,
+        "text": "Na tem mestu bi izpostavila, že več let zelo, zelo dobro sodelujemo z športnim društvom Tabor."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 521.68,
+        "end": 531.925,
+        "text": "Letos pa se skoraj je tako, kot da bi tri, četvrt festivala in nekih naših aktivnosti in druženj preselili prav na njihovo igrišče pred njihovo športno dvorano Tabor."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 531.965,
+        "end": 536.527,
+        "text": "Tako bo tudi prvi dan festivala se bo odvil tam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 538.985,
+        "end": 546.006,
+        "text": "Zraven znane lokacije Stare Mestne elektrarne se bojo letos mladi levi pojavili tudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 546.887,
+        "end": 561.79,
+        "text": "Nova lokacija za nas je AGRFT, sodelujemo z AGRFT-jem, potem predstavo v Novi Pošti, Miklošičevem parku, različni sprehodi po mestu, stara lokacija Ljubljanska tržnica, Ludkono gledališče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 562.61,
+        "end": 564.511,
+        "text": "To pa mislim, da je to v lokaciji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 564.651,
+        "end": 565.771,
+        "text": "Elektrarno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 565.832,
+        "end": 574.416,
+        "text": "Sem rekla, a pa elektrarni, tudi bomo kaj v elektrarni, čeprav zelo malo letos, v bistvu glede na to, da smo tukaj doma."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 575.016,
+        "end": 579.098,
+        "text": "Ampak doma smo po celem taboru, to letos bomo še bolj, dokažemo to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 580.143,
+        "end": 599.752,
+        "text": "Skratka, festival se začne dvajsetega osmega že s popovdenskim dogajanjem v naslednji petek, ob štirih popovdne se počasi izberemo na igrišču športnega društva Tabor, kjer se ob štirih prične predstava Tanje Elkuri, menjalniški tečaj kulture."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 599.852,
+        "end": 606.935,
+        "text": "Tanje, ne vem, če rabim prav posebej predstavljati, ker si je bila že na Mladih Levih na mesto žensk, mislim, da je ljubljanska publika tudi že pozna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 607.615,
+        "end": 620.509,
+        "text": "je multidisciplinarno umetnica iz Libanona, ki trenutno živi v New Yorku in v predstavi, ki bo na ogled v športni dvorani Tabor."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 620.87,
+        "end": 628.458,
+        "text": "Predstava temeljina intervjuji z njeno babico, ki je živela v vasi Akra, kar je na meji med Sirijo in Libanonom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 628.979,
+        "end": 643.025,
+        "text": "Predvsem gre za neki razrez neke družinske zgodovine in v bistvu kako, kje živimo, kako živimo, kako meje vidne in nevidne vplivajo na mikrosvet male družine ali pa tudi večje na celo generacijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 643.565,
+        "end": 651.708,
+        "text": "Predstava si ogleda deset ljudi naenkrat in v bistvu Tanja ponuja, kako bi rekla, ta lokal, vsem ta inštalacija,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 651.828,
+        "end": 672.003,
+        "text": "To je kot arhivski predalje Omarce, kjer imaš individualno izkušnjo, ko pogledaš noter, prebereš tekste, to so razni dokumenti, kako so odkrili nov del družine v Mehiki, stare denarke, ni več nič vredne, ni bil nekje skrit kot veliko družinsko bogatstvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 672.483,
+        "end": 682.028,
+        "text": "Zelo smo veseli, da Tanja Žal ne pride letos, ampak zelo smo veseli, da smo uspeli to predstavo prepeljati na mlade leve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 682.749,
+        "end": 687.712,
+        "text": "Mislim, da smo že lani se pogovarjali, ampak je bilo lani praktično neizvedljivo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 688.312,
+        "end": 707.775,
+        "text": "Ta dan se nadaljuje to popovdansko druženje, bomo imeli malo glasbe, DJ, za popit, prostor za klepetat, sodelujemo spet z kuharjem Primužem Dolničarjem in z gospedmi z Dnevnega centra aktivnosti za starejše, da bomo skupaj kar pripravili za pojest."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 708.376,
+        "end": 714.22,
+        "text": "Ob osmih se odpravimo nazaj v staro mestno elektrarno na predstavo Filipa Kema Farm Fatal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 714.38,
+        "end": 717.463,
+        "text": "Tudi to smo želani bili v dogovorjih, leto se je realiziralo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 717.543,
+        "end": 725.429,
+        "text": "Filip je tudi, ne vem, koliko je ljubljenec mladih levo, je pa sigurno ljubljenec pisarne bunkerje, v glede na to, koliko rad se je že pojavil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 725.909,
+        "end": 727.811,
+        "text": "je neka značilna predstava."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 727.931,
+        "end": 734.076,
+        "text": "On je začel kot scenograf in tudi ta element je zelo močen v njegovih predstavah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 734.436,
+        "end": 739.36,
+        "text": "Kot en izmed igravcev je ta sama postavitev te scenografije, ker je toliko povedna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 739.801,
+        "end": 744.165,
+        "text": "Tu je nek prazen velik prostor, belina, ki je potreba napolniti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 744.725,
+        "end": 752.708,
+        "text": "Predstava se dogaja v postčloveščem obdobju, ko so preživela samo strašila, ki se probajo znajti tukaj in zdaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 753.189,
+        "end": 761.172,
+        "text": "Svet je uničen zaradi ekoloških katastrof, tiče petje je samo še po radiju in posnetek žuburenja potoka prav tako."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 762.353,
+        "end": 769.576,
+        "text": "Strašila se pač probajo nekako znajti v tem svetu, ki so ga opostošil človek in kako od tu naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 770.695,
+        "end": 774.316,
+        "text": "Ni še konec otvoritvenega dneva, seveda."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 776.636,
+        "end": 784.979,
+        "text": "Ko se konča ta predstava, se vrnemo nazaj pred športno društvo Tabor, kjer sledi koncert srbsko-slovenskega hrvaškega benda Majka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 787.019,
+        "end": 798.702,
+        "text": "Tako bomo rekli, visoko energetska balkanska norost, dva ženska vokala, harmonika, trubenta, bas, bobni in neizmerna energija, kar pa je najboljš recept za otvoritev pa za zaključek tega dneva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 800.513,
+        "end": 819.494,
+        "text": "Mojca je pozabila, samo časovno umestiti, ker v Otvoritveni dan spada še en dogodek in sicer tokrat se na mlade leve vrača hrvaški umetnik vizualne umetnosti, body arta in performansa v javnem prostoru, Siniša Labrovič."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 820.055,
+        "end": 829.839,
+        "text": "Tokrat prihaja na Mlade Leves performativno instalacijo, v okviru katerej bo postala omara njegov začasni dom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 830.019,
+        "end": 842.545,
+        "text": "Omaro on v tej instalaciji jemlje kot neko prispodovo objekta, ki je sicer v intimnem prostoru, v katerem pa skrivamo vsak kakšnega ogostnjaka, najsi bo to naša"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 843.005,
+        "end": 853.168,
+        "text": "seksualna orientacija ali pa politične prepričanja ali pa v katerih se skrivajo tudi družbeni kostnjaki, stvari, ki jih pometemo pod preproge."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 853.368,
+        "end": 866.612,
+        "text": "Tokrat se je odločil, da je treba dregniti v to gnezdo in ena izmed idej oziroma stvari, ki so ga navedle na to, da se loti instalacija z omaro,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 866.832,
+        "end": 888.797,
+        "text": "je tudi pandemija koronavirusa, kjer smo bili izpostavljeni izolaciji in kako je ta izolacija vplivala na nas vse, kaj pravzaprav pomeni živeti v umarji, kaj pomeni živeti v izolaciji in kako v bistvu v družbi mi lahko prisilimo mogoče koga, da živi v svoji umarji, v svoji izolaciji, ker morda ni sprejet, ker ga družba nekako izloči."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 889.377,
+        "end": 897.062,
+        "text": "V Omaru se bo Siniša Labrovič uselil v prvi dan festivala, ob 6. povdan, na otvoritveni dan."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 897.783,
+        "end": 911.973,
+        "text": "Omara bo stala v Miklošičevem parku, kjer dom najdejo tudi brezdomci, ki so pa te ljudje, ki nekako živijo izven družbenega radarja, ki bi skoraj rekli, da so v Omari naše družbe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 912.453,
+        "end": 916.676,
+        "text": "Tam bo živel v Omari Siniša Labrovič do konca festivala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 917.457,
+        "end": 923.081,
+        "text": "in ne bo izstopil iz nje v svojem izoliranem mehurčku."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 923.541,
+        "end": 942.513,
+        "text": "Spremljali pa bomo življenje, njegovo lahko po spletnem prenosu, ki bo 24h na dan objavljena in bo povezana na spletni strani bunker, kjer si goste lahko ogledali, kaj ono notri počne, izvajajo bo tudi performanse v živo v nekih določenih trenutkih dneva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 942.833,
+        "end": 945.295,
+        "text": "In zadnji dan festivala bo izomare izstopil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 947.107,
+        "end": 948.829,
+        "text": "Tako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 948.889,
+        "end": 951.171,
+        "text": "To je bil otvoritveni dan, sedaj pa gremo naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 952.792,
+        "end": 966.746,
+        "text": "V soboto pa bomo pozdravili spet enega starega znanca Mladi hlevo in sicer belgijskega umetnika, performerja, pisatelja Benjamina Ferdonka, ki se na festival vrača že četrtič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 966.946,
+        "end": 969.909,
+        "text": "On je pa res pravi koronski umetnik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 971.17,
+        "end": 975.454,
+        "text": "Tudi predstave, ki jih zadnji čas ustvarja, so zelo koronske."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 975.954,
+        "end": 990.486,
+        "text": "In sicer je njegova škatla gledališče zelo priročna, tako da je v času korone in zaprtja zelo rad nastopil na balkonih, stanovanj, pred okni različnih hiš."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 991.167,
+        "end": 1004.97,
+        "text": "Na festival prihaja z predstavo Continuum, ki je neke vrste nadaljevanje predstave One More Thing, ki smo na levi gostili pred šestimi leti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1005.01,
+        "end": 1010.592,
+        "text": "Na sporedu bo dvakrat v parku ŠD Tabor, oziroma štirkat, v soboto in nedelju bo dvakrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1011.772,
+        "end": 1033.909,
+        "text": "Gre pa za zelo prepoznavno njegovo namizno gledališče, kjer je zelo malo ali celo nič besed, zato pa veliko vrvic, s katerimi odstira, zastira razne ploskve geometrijske like, obspremljavi lokalnega glasbenika tokrat in sicer kontrabasista Gašporja Ljuka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1037.185,
+        "end": 1040.486,
+        "text": "Predstava solo Nina Rajič Kranjac."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1042.027,
+        "end": 1056.412,
+        "text": "Nina Rajič Kranjac je David Letterman imela eno dajo, ki je imela naslov My guest needs no introduction, torej moj gost ne potrebuje napovedi, uvoda in jaz mislim, da je Nina Rajič Kranjac ne potrebuje uvoda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1057.132,
+        "end": 1061.734,
+        "text": "To je ena izmed dveh maskenih produkcij, ki jih gostimo na festivalu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1061.974,
+        "end": 1079.343,
+        "text": "Jaz ne bi želela špekulirati, ali je Nina Rajč Kranjac to predstavo naredila kot odgovor koronski izolaciji, ampak če bi si pa držila špekulacijo, pa bi rekla, da vsekakor je imela v lockdownu veliko časa za razmišljati o sebi, ker to je predstava o njej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1079.963,
+        "end": 1092.534,
+        "text": "Zmoj so sva gledale predstavo še v nastajanju, bore tri ure, na levih bo predstava trajala šest ur, gre za celovečernji oziroma polnočni happening na Novi Pošti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1093.801,
+        "end": 1105.47,
+        "text": "Predstava Nina Rajč-Kranjac je seveda o njej in o gledališču, meni se pa zdi predstava predvsem fenomenalna, mogoče če jo pogledamo s feminističnimi očali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1105.49,
+        "end": 1121.303,
+        "text": "To je šesturna predstava o eni mladi umetnici, kjer je celotni gledališki poligon, torej ona, štirje igravci, celotna produkcija, nova pošta, šest ur pozornosti igravcev, posvečeno liku in delu Nina Rajč-Kranjac."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1121.763,
+        "end": 1133.011,
+        "text": "Seveda ne brez ironične distance občasno in ne brez samorefleksije in samokritike, ampak ta predstava se mi zdi zelo pomembna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1133.332,
+        "end": 1146.882,
+        "text": "Zdi se mi pa tudi zelo pomembna zato, ker se ustvarja neko vzdušje, da je razmišljanje o umetnosti sami ali pa o umetnosti ali pa nasploh v gledališču utrujajoče in nekako redundantno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1147.362,
+        "end": 1155.633,
+        "text": "Jaz pa mislim, da ta predstava pokaže, da je lahko tudi izjemno sveže, izjemno aktualno in pa z veliko novimi uvjeti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1156.394,
+        "end": 1164.424,
+        "text": "Tako da predstava je že skor polna, ker pa gre za domačo produkcijo, ima seveda več ponovitev še prej in kasneje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1166.178,
+        "end": 1168.781,
+        "text": "No, pa smo že pri nedeli."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1168.941,
+        "end": 1178.312,
+        "text": "V nedeljo zvečer bo prvič na sporedu predstava Silke Huismans in Hannes Derere, Prijeten otok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1178.933,
+        "end": 1182.136,
+        "text": "To sta dva umetnika, ki živite in ustvarjata skupaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1182.216,
+        "end": 1186.241,
+        "text": "Oba živite v Bruslju zdaj, sicer Silke prihaja iz Brazilije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1187.002,
+        "end": 1192.085,
+        "text": "In oba si delite tudi ljubezen do raziskovanja in do dokumentarnega gledališča."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1192.145,
+        "end": 1197.988,
+        "text": "Na mladih levih sta že bila z njeno prvo skupno predstavo, ki je bila prav tako dokumentarna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1198.488,
+        "end": 1209.374,
+        "text": "Tokrat pa se na leve vračata z predstavo Prijeten otok, ki v bistvu govori o malem otočku na uru sredi tihega oceana."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1209.514,
+        "end": 1212.035,
+        "text": "Imej so mu dali prvi raziskovalci iz Evrope."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1212.295,
+        "end": 1215.557,
+        "text": "Klicali so ga Pleasant Island, Prijeten otok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1216.077,
+        "end": 1231.955,
+        "text": "Ampak vse to se je v tem času spremenilo, ker nekoč Rajski otok je zdaj postal pravzaprav sinonim za postak apokalipso, poleg ekonomskega in humanitarnega ter ekološkega opostošenja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1232.716,
+        "end": 1236.178,
+        "text": "Zdaj je otok v Groziji dvigajoče se morje, morska gladina."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1236.639,
+        "end": 1245.245,
+        "text": "Hkrati pa je otok postal tudi centar za prebežnike v zamenu za finančna sredstva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1245.305,
+        "end": 1253.45,
+        "text": "Namreč gosti avstraljske centre za pridržanje prebežnikov, kar daje otoku nek občutek zapora."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1254.451,
+        "end": 1275.021,
+        "text": "skrajne nesrečnosti ljudi, ki so tam in v bistvu otok poskuša preprečevati prihod tujih novinarjev in preprečevati poročanje o teh dejstvih, ampak Silke in Hanes sta nekako dobila dostop za kratek čas do tega otoka in kar prinašata nazaj so prečevanja"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1276.102,
+        "end": 1280.306,
+        "text": "lokalcev, domačinov in vprašanja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1280.326,
+        "end": 1294.701,
+        "text": "Vprašanja o tem, kaj čaka na uru in kaj čaka naš svet, če se ne bomo nikoli ustavili, če bomo stremeli vedno večji produkciji in povedno večji neskončni rasti in dobički."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1297.162,
+        "end": 1316.512,
+        "text": "V ponedeljek pa bo prvič na sporedu zvočna instalacija enega slovenskih glasbenikov in umetnikov, zelo zanimivega glasbenika, v bistvu Tomaža Groma, ki glasbo dojema na izjemno kompleksen način."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1319.183,
+        "end": 1325.73,
+        "text": "Razume glasbo bolj kot medij komunikacije, ne samo kot estetski užitek, kot poslušanju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1326.271,
+        "end": 1331.176,
+        "text": "Zame to predstavlja neka možnost iskanja in poglobdene refleksije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1331.677,
+        "end": 1334.14,
+        "text": "Nekrat jo uporablja skoraj bi rekla politično."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1334.18,
+        "end": 1340.246,
+        "text": "V bistvu uporablja jo kot možnost, da z glasbo dregne v neka aktualna družbena dogajanja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1340.767,
+        "end": 1344.51,
+        "text": "In tudi s to instalacijo je Dregnju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1345.331,
+        "end": 1359.001,
+        "text": "Ta zvočna instalacija je kompozicija 657 prtcev, ki jih je zaplačilo 20 evrov, prispevalo 111 umetnic in umetnikov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1359.121,
+        "end": 1365.486,
+        "text": "Prvič je bila predvajana instalacija... Če bi kdo demonstriral..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1368.07,
+        "end": 1382.418,
+        "text": "Instalacija je bila prvič predvajena prav na ta veseli dan kulture 3. decembra leta 2020 in sicer tukaj je bilo v Ščadi, v bistvu pred Ministrstvom za kulturo in Metelkovo šest, ki je sede številnih nevladnih organizacij."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1383.359,
+        "end": 1398.533,
+        "text": "Sprašuje pa oziroma postavlja pa vprašanja sama instalacija o sremotenju, taboiziranju in normalizaciji teles, pa hkrati o tem, kako pravzaprav mi dojemamo sodobno umetnost, kaj ta umetnost je."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1399.053,
+        "end": 1411.185,
+        "text": "V okviru Mladih levov bo kompozicija zazvenela pred športnim društvom Tabor in Staro elektrarno, pa v Miklošičevem parku in še na Preširovem trgu, torej šterkate jo lahko slišite."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1411.906,
+        "end": 1416.951,
+        "text": "Na voljo pa bo tudi na vinilni plošči, sicer v omejeni nakladi, ampak lahko jo poslušate doma."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1421.243,
+        "end": 1435.795,
+        "text": "V ponedeljek in torek pa letos že drugo leto zapored, torej zdaj že temu lahko rečemo, da tradicionalno, nadaljujemo s debatno kafano pod krošnjami kostanjev na ŠD Tabor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1435.975,
+        "end": 1448.285,
+        "text": "Lani so bile pretožbe, da nismo kuhali dost močne kave, da nismo skuhali dovolj kave, tako da letos dajemo besedo, da kava bo tehla ovilno in da bo zelo močna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1450.066,
+        "end": 1453.048,
+        "text": "Letošnja tema pa je vzdrževanje in skrb."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1453.729,
+        "end": 1466.237,
+        "text": "Zdaj, vzdrževanje in skrb seveda mene in pa celoten bunker nekako tudi osebno zadeva, kako skrbeti za stvari, da ostanejo, kako vzdrževati neke sisteme, nekaj, kar je pridobljenega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1466.958,
+        "end": 1471.202,
+        "text": "Zato, da ne bi vedno izumljali novega ali se borili za vzpostavitev novega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1471.803,
+        "end": 1480.451,
+        "text": "Seveda pa je sistemsko ta tema nekako bolj močno vzniknila v koronakrizi, ker je bila, se mi zdi, predvsem poplava tekstov o skrbi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1481.372,
+        "end": 1486.016,
+        "text": "Enega izmed bolj popularnih in viralnih je napisala Bojana Kunst."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1486.617,
+        "end": 1491.022,
+        "text": "o tem, kaj je skrbstveno delo in kaj sploh pomeni skrb na področju umetnosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1492.143,
+        "end": 1498.23,
+        "text": "Mene pa upam, da tudi govorce in moderatorko pa predvsem zanima tudi tema ozdrževanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1498.75,
+        "end": 1508.081,
+        "text": "In sicer nekako na področju umetnosti je ozdrževanje namenjeno ali tehničnemu sektorju, ali pa nekako sektorju arhivov in muzejev."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1508.521,
+        "end": 1521.283,
+        "text": "Ampak ravno gledališče, ki ga rado imenujemo efemerna umetnost, se mora ogromno ukvarjati s tem, kako lahko sploh delamo, da gradimo na ramenih velikanov, da ne izumljamo vedno stvari na novo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1521.863,
+        "end": 1536.126,
+        "text": "Seveda pa ta tema izjemno nagovarja tudi v področju kulturne politike, kjer se zdi, da ni prebojev v novo, hkrati pa ni upoštevanja tega, kar vse je že vzpostavljeno, kaj vse je že dobro, da bi se te stvari vzdrževale in ohranjale."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1537.006,
+        "end": 1542.379,
+        "text": "Zdaj moderatorka bo Alenka Pirman oba dneva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1543.03,
+        "end": 1544.951,
+        "text": "in govorci pa bojo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1546.172,
+        "end": 1550.435,
+        "text": "Prvi dan bo sta govorca Dželo Hađi Selimović in Mateja Ratej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1550.956,
+        "end": 1556.74,
+        "text": "Mateja Ratej je kar logična izbira, ker je zgodovinarka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1557.541,
+        "end": 1571.371,
+        "text": "Ukvarja se pa predvsem, tukaj se bomo naslonili na njene raziskave, pregleduje izjemno zanimive osebne zgodbe, arhive, nekih zelo partikularnih zgodb, ki jih seveda povezuje in s zdajšnjo realnostjo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1571.971,
+        "end": 1577.935,
+        "text": "In pa mogoče tudi z nekimi ideološkimi izbirami včasih in danes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1578.135,
+        "end": 1581.878,
+        "text": "In pa seveda, kaj sploh ohranjamo od preteklosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1581.978,
+        "end": 1586.161,
+        "text": "To je, se mi zdi, ključno ideološko vprašanje zgodovine."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1586.741,
+        "end": 1589.163,
+        "text": "Njen sogovornik pa bo Dželo Hadži Selimovič."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1589.243,
+        "end": 1591.545,
+        "text": "Zdaj, jaz mislim, da vsi, ki so stari toliko,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1591.765,
+        "end": 1598.849,
+        "text": "ali pa starejši, se pa ste kdaj gledali dokumentarce na zagrebški televiziji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1599.05,
+        "end": 1606.254,
+        "text": "Vse dokumentarce zadnjih 40 let, ki smo jih gledali na zagrebški televiziji, je odabral Dželo Hadži Selimovič."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1606.414,
+        "end": 1610.497,
+        "text": "On je legendarni kurator dokumentarnega programa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1611.037,
+        "end": 1616.861,
+        "text": "ki je pregledal sto tisoče dokumentarcev in jih koriral za televizijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1617.282,
+        "end": 1639.638,
+        "text": "Zdaj sicer preseljen v enomehno Istrsko vas, kjer goji olke, ampak še vedno korira svoj spletni dokumentarni program in pa dela za različne dokumentarne festivale, festivale dokumentarnega filma, tako da se nam je zdelo tudi, da bo človek, ki je videl svet skozi te dokumentarce, more vedeti, kaj je relevantnega povedati o njem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1640.737,
+        "end": 1661.86,
+        "text": "Naslednji dan pa bosta sogovornika Alenke Pirman Natalija Majsova, ki se predvsem ukvarja s sovjetskim filmom, ukvarja se pa tudi s študijami spomina in seveda spomin je nekako ključna človeška valuta pri ohranjanju in vzdrževanju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1662.1,
+        "end": 1670.827,
+        "text": "Njen sogovornik pa bo Moanis Sinanovič, ki je že nekaj let spremljevalec festivala Mladi levi, sourednik kritičke platforme Kriterij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1671.628,
+        "end": 1678.474,
+        "text": "Ravno včeraj pa je prišla vest, da je nominiran za Veronikino nagrado, ker je pesnik."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1679.555,
+        "end": 1681.717,
+        "text": "Dobr pesnik."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1682.537,
+        "end": 1687.421,
+        "text": "Dobr pesnik, tako da vabljeni na obe debati in na kavo, seveda."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1689.32,
+        "end": 1696.085,
+        "text": "V torek pa bomo tudi odprli razstavo nepraktične ženske kolektiva Škart."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1696.105,
+        "end": 1702.831,
+        "text": "To je belgrajski kolektiv, ki ga sestavljata Dragan Protič-Prota in Đorđe Balmazović-Žole."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1703.411,
+        "end": 1717.002,
+        "text": "Ona dva sta tudi že stara znanca mladih levov in v bistvu prihajata prva na festival, saj z delavnico, ker ta razstava bo rezultatene delavnice, prihajata že v ponedeljek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1717.282,
+        "end": 1743.904,
+        "text": "Ona dva sta velik podarek zadnje čase namenjata alternativnemu izobraževanju in vodita številne delavnice za otroke in starostnike in tudi naša letošnja delavnica, ne praktične ženske, je namenjena starostnikom in sicer bosta sodelovala z upokojenci in upokojenkami iz Doma starejših občanov Tabor,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1744.585,
+        "end": 1757.951,
+        "text": "In sicer bodo na delavnici kovali našpičene družbeno kritične verze in jih izvezli na narisane prtičke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1758.991,
+        "end": 1762.693,
+        "text": "Te pa bojo razstavljali v parku športnega društva Tabor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1763.293,
+        "end": 1765.854,
+        "text": "Razstavo si bo pa moč ogledati do konca festivala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1766.294,
+        "end": 1773.398,
+        "text": "Zdaj, sem za primir, ker to delavnico sta že večkrat izvezla, bi vam prebrala recimo izvedla in izvezla."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1774.538,
+        "end": 1780.762,
+        "text": "Dva primera, recimo, sama na netu, lažni prijatelji v lažnom svetu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1781.923,
+        "end": 1790.248,
+        "text": "Ali pa, za umirjenje nemam vreme, dok ne rešim sve probleme."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1790.328,
+        "end": 1804.057,
+        "text": "Se nam je pa zdaj zelo pomembno, da sodelujemo z starostnikami, se nam zdi, da so bili prav v času pandemije najbolj zapostavljeni in izrinjeni na rob družbe in ne nekakšna žrtva pandemije na nek način."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1806.297,
+        "end": 1822.396,
+        "text": "Naslednja predstava, kaj ne vem, kdaj bo, tudi vtorek, skratka Matija Felin, tudi ga ne bi posebej predstavljala, veliko dela v Sloveniji, ni prvič na Mladih levih, prvič je bil v 2007 za svojo diplomsko predstavo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1823.037,
+        "end": 1837.379,
+        "text": "Vrača se v velikem slogu s triurnim solom, izjemna, izjemna predstava, imela je že premjero v elektrarni, drugače to je na večji mednarodnih koprodukciji, je bila premjerno predstavljena na Vinerfest v Ohnu na Dunaju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1838.14,
+        "end": 1846.382,
+        "text": "Skaj ka Matija Ferlin gre nekako, kot da bi v eni, v treh urah pogledali skoraj da dve predstavi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1847.183,
+        "end": 1865.488,
+        "text": "Prvi del predstave je baziran na pasjonu po Mateju, se pravi na Bahovo glasbo in v prvem delu se tudi ukvarja z Bahovim življenjem in z njegovo postopno slepoto, na kar v drugem delu poveže se skupaj za neko osebno zgodovino družine z"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1866.608,
+        "end": 1875.192,
+        "text": "z trplenjem, z telesom, ukvarja se tudi, v bistvu govori o sebi, o svojem telesu in o tej uporabi in izrabi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1875.212,
+        "end": 1879.695,
+        "text": "V bistvu je zelo mlad človek, ampak že glede na to, kaj dela, kako živi,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1881.543,
+        "end": 1887.906,
+        "text": "zdravje, fizičnega telesa je izredno pomembne za to, da lahko izvaja, kar pač izvaja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1888.006,
+        "end": 1896.89,
+        "text": "V teh treh urah nam pokaže, veliko se referira tudi na svoje prejšnje predstave, kdo je videl prejšnje predstave, lahko tudi tega veliko prebral znotraj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1896.97,
+        "end": 1902.193,
+        "text": "Če pa bo prvič za vaši izkušnja Matija Ferlina, bo pa tudi prav tako, bo čudovita."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1903.474,
+        "end": 1909.797,
+        "text": "Res, mislim, meni se zdi, da bo to en vrhunca mogoče celo letošnjega festivale."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1910.517,
+        "end": 1916.518,
+        "text": "Skratka, razgrneva svoj široki instrumentarij od giba do glasu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1920.179,
+        "end": 1927.22,
+        "text": "Aha, potem je pa estonska predstava Ostane kot je, It stays as it is."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1927.321,
+        "end": 1938.483,
+        "text": "Predstava je treh umetnikov, Mart Kangro, Eero Eppner, Juhan Ulfsak, ki so v Ljubljani že gostovali na festivalu Mladi Levi s predstavo Delo na miza, Work table."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1939.323,
+        "end": 1951.658,
+        "text": "V delovni mizi so se predvsem spraševali, kako je znanje, kaj je znanje, kako se učimo in pred nami razgrnali vse osebne zgodbe in pa dejanska napotila, kako lahko delamo stvari."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1952.639,
+        "end": 1959.327,
+        "text": "V predstavi It stays as it is pa se ukvarjajo nekako z nezmožnostjo gledališča."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1959.607,
+        "end": 1966.257,
+        "text": "Gre deloma za koronsko predstavo, ker je nastajala v času zaprtja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1966.397,
+        "end": 1969.722,
+        "text": "Gledališču odzamejo njegov najbolj ključni del, to je odr."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1970.812,
+        "end": 1974.494,
+        "text": "In že na začetku povejo, da tako kot je, bo ostalo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1977.216,
+        "end": 1990.003,
+        "text": "Potem se v svoji klasični maniri lotijo ustvarjanja gledališča s ključno omejitvijo in seveda dokažejo, da se gledališče da delati skoraj vsako omejitvijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1991.343,
+        "end": 1998.587,
+        "text": "Je pa nekako mogoče na gledalcih, da se gremo z njimi, ker seveda ključna komponenta gledališča je pa občinstvo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1999.668,
+        "end": 2007.172,
+        "text": "Potem imamo še eno predstavo, ki je nastajala v zaprtju in to je predstava Vita Weissa, Slaba družba."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2007.412,
+        "end": 2011.154,
+        "text": "Vito Weiss, po mojem, tudi ne rabi širše predstavitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2011.174,
+        "end": 2017.457,
+        "text": "V elektrarni je gostoval že kot heroj, trenutno je zaposlen v mladinskem gledališču."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2017.737,
+        "end": 2028.443,
+        "text": "Ta predstava je pa njegov solo, kjer poskuša ustvariti gledališče in naseliti gledališče z dogajanjem v času odsotnosti ljudi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2028.963,
+        "end": 2051.999,
+        "text": "Zato toliko bolj ključne komponente gledališča postanejo sam prostor, naključeno najdeni rekviziti, predmeti in mi smo to predstavo gledali v koronskem času, tako da zdaj pa predstavo čaka soočenje z občinstvom, torej kakšna je pa slaba družba gledališča ali občinstva, ko leto spet odpre svoja vrata."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2053.229,
+        "end": 2062.073,
+        "text": "Ravnoprej smo se šalili, da očitimo, da smo festival starih znancev, ker je večina umetnikov takih, da se na festival vrača."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2063.033,
+        "end": 2075.659,
+        "text": "Zdaj, jaz ne bi tega povezovala s tem, da nimamo nobene dobre ideje ali pa da ne vzniknejo novi mladi umetniki, ker jih je seveda v festivalskem programu veliko, vseeno smo festival mladi levi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2076.519,
+        "end": 2082.842,
+        "text": "Je pa res, da sistematično nekako gojimo dolgoročnejša sodelovanja z določenimi umetniki,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2083.182,
+        "end": 2088.383,
+        "text": "in aktivno sledimo njihovim umetniškim trajektorijam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2089.423,
+        "end": 2097.144,
+        "text": "Tudi zato, ker jih izberemo, ker se nam zdijo dobri in poskušamo podpreti njihove karijere in mednarodno delovanje mogoče bolj dolgoročno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2097.644,
+        "end": 2112.507,
+        "text": "Se nam zdi, da kljub temu, da ima gostovalni sistem velik nekih pomankljivosti, ki jih je korona sam še bolj dodatno razgalila, si ne smemo postiti z tega, da umetnost in umetniki potujejo in gostujejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2112.967,
+        "end": 2121.251,
+        "text": "Torej, Gods Entertainment so bili na Festivalu Želani s predstavo pometeno pod preprogo oziroma z inštalacijo pometeno pod preprogo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2121.711,
+        "end": 2124.993,
+        "text": "So dunajski kolektiv, ki je izjemno fluiden."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2125.193,
+        "end": 2131.516,
+        "text": "Mi sodelujemo večinoma z delom dveh umetnikov, Majede Grmenžič in Borisa Čeka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2132.377,
+        "end": 2136.739,
+        "text": "V predstavi pa sporadično potem sodelujejo različni ljudje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2137.199,
+        "end": 2144.184,
+        "text": "Torej, predstava Europe to go oziroma Po Evropi je voden sprehod, voden natura po Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2145.285,
+        "end": 2157.253,
+        "text": "Nastala je na povabilo Kampnagla iz Hamburga in Gods Entertainment so razvil klasični množični turistični ogled po Evropi, kar potovanja po Evropi ni možno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2157.753,
+        "end": 2175.027,
+        "text": "Torej, ko se boste sprehodili po Ljubljani, boste v Ljubljani srečali ključne turistične znamenitosti, kot so pokopališče Perla Šez, Večni ogen iz Sarajeva, potem Volkulja, ki doji Romula in Rema iz Rima."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2175.607,
+        "end": 2182.43,
+        "text": "Skratka neke ikonične podobe, ki jih boste lahko ogledali v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2182.89,
+        "end": 2193.574,
+        "text": "Jaz pa mislim, da se sama tura bolj kot s poskusom nekej minimundizacije ukvarja s tem, kaj sploh je množični turizem in kaj gledamo, ko gledamo turistične znamenitosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2194.034,
+        "end": 2206.632,
+        "text": "ki so v bistvu, ko pridejo do notoričnega statusa, kot ga imajo izbrane stvari v tej turi, že same na sebi neke kolise, potemkinove vasi in zakaj ne bi gostovale, če mi ne moremo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2209.036,
+        "end": 2214.338,
+        "text": "Potem gostimo, ta pa je mladolevovska umetnica, Ine Uben."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2215.159,
+        "end": 2221.881,
+        "text": "Ine Uben smo v bistvu spoznali, ko smo bili v Pragi na Damu in gledali njeno diplomsko predstavo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2222.782,
+        "end": 2227.904,
+        "text": "Predstava moje stanovanje, my apartment, je sicer nastala v predkoronskem času."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2228.324,
+        "end": 2239.309,
+        "text": "In lahko si predstavljate Trirjev film Dogville, kjer v bistvu celoto rišejo skredo na tla in tako ustvarjajo in ambijente in zamejitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2239.909,
+        "end": 2249.053,
+        "text": "Tudi in je uben skredo in določenimi rekviziti, slika pred nami svoje stanovanje, kako se je v njem odomačila, kako ga je spremenila v dom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2249.553,
+        "end": 2262.197,
+        "text": "Ampak ta predstava si predstavljam, da bo po koronskem času in pa v ljubljanskih okoliščinah, kjer je lastno stanovanje v bistvu nekako težko dosegljiv ideal, imela mogoče neke druge odzvene."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2263.198,
+        "end": 2269.0,
+        "text": "Je pa prekrasna predstava mlade umetnice, ki zelo subtilno dela participatorno gledališče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2270.275,
+        "end": 2279.079,
+        "text": "Potem pa imamo 27. augusta premjero, že prej napovedane Leje Kokovičič."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2279.239,
+        "end": 2283.201,
+        "text": "Leja Kokovičič je umetnica, ki s Bunkerjem sodeluje že kar nekaj časa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2283.321,
+        "end": 2286.903,
+        "text": "Lahko bi rekli, da je njeno sodelovanje s Bunkerjem korirano od zunaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2287.983,
+        "end": 2297.128,
+        "text": "Sugerirala nam ga je bivša kuratorka Praškega kvadrijanala in pa zdajšnja predstojnica, en izmed katedr na Damu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2297.528,
+        "end": 2305.553,
+        "text": "ki nam je Lejo poslala na počitniško delo in ustvarila s ljubezen in sodelovanje za številna leta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2306.073,
+        "end": 2310.676,
+        "text": "Leja je rezidenčna umetnica na osnovni šoli, deluje z nami tudi kot producentka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2311.937,
+        "end": 2321.083,
+        "text": "Letošnja premjera na Mladih Levih pa je začetek delovanja dražbenih hišev prizoritvenih umetnosti For Sale, ki jo je ustanovila Leja Kokovičič."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2321.643,
+        "end": 2332.309,
+        "text": "Dražbena hiša je resnična dražbena hiša, ki bo na Mladih Levih prodala predstavo kolektiva Beton Limited, Ich kann nicht anders."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2333.29,
+        "end": 2336.892,
+        "text": "Vsi ste vabljeni, da dražite dele predstave."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2337.572,
+        "end": 2340.034,
+        "text": "Predstava je razkosana na zelo specifičen način."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2340.154,
+        "end": 2345.137,
+        "text": "Na spletni strani performanceforsale.com so predstavljeni vsi prodajni loti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2345.757,
+        "end": 2354.382,
+        "text": "Lea Kokovičič je drugač dramaturginja iz AGRFT in pa magistrirala je Snovalno gledališče in gledališče predmetov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2355.602,
+        "end": 2372.212,
+        "text": "Zelo nekako informira področje vizualne umetnosti, rada se pa ukvarja s konceptualnim gledališčem oziroma bolj konkretno z gledališkimi oziroma oprizoritvenimi akciji, ki poskušajo konkretno delovati v prostoru ekonomije in politike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2372.892,
+        "end": 2376.153,
+        "text": "Dražbena hiša bo delovala tudi po premjeri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2376.633,
+        "end": 2382.154,
+        "text": "Prva prodaja bo za nas delovni preizkus dražbe."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2382.194,
+        "end": 2389.755,
+        "text": "Potem bomo dražbeno hišo izboljšali, naredili še bolj uspešno in prodajali predstave še naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2389.955,
+        "end": 2399.737,
+        "text": "Prva priložnost za nadaljevanje projekta bo v septembru, kjer bomo imeli na konferenciji Reshape Artist Talk, v katerem bo predstavila uspehe prve prodaje dražbene hiše."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2400.955,
+        "end": 2427.607,
+        "text": "Mogoče bi tukaj na tem mesecu sam dodala, da ne pozabim potem, vsi tisti, ki boste o Dražbeni hiši uprezditvenih umetnosti for sale poročali in si ne želite upisati kot dražiteli, ker nimate namena dražiti in kupiti del predstave, mi lahko upišete in vam bom dala navodilo, kako se lahko upišete kot novinari in dobite prost dostop do tega dogodka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2428.327,
+        "end": 2444.178,
+        "text": "Čeprav jaz tukaj dodajam, vsak obiskovalec je tudi kupec, tako da apeliram na vas, da se registrirate, date kreditno kartico, ker mogoče tudi če v naprej ne načrtujete, boste na sami dražbi začutili potrebo po nakupu kosa umetniška tega dela."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2444.438,
+        "end": 2447.08,
+        "text": "Pa tudi izkušnja je bolj celostna, če ste dražitelji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2451.074,
+        "end": 2456.923,
+        "text": "Zdaj pa smo že proti koncu predstavili program, smo že na drugi soboti, 28."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2459.166,
+        "end": 2465.335,
+        "text": "Lirični utrinki v mestu, to je bil projekt, ki je najuspešnejših projektov Bunkerja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2466.076,
+        "end": 2490.407,
+        "text": "Prvi smo ga predstavili, bil nareden prav zanemene Mladi Hlevo, to je flash mob opera, štirje izvrstni vrhunski slovenski operni pevci, belgijski režiser, takrat je nastal po sklopu nekih čudnih naključij in zdelo se nam je, da ga bomo leta, ko smo ga predstavili leta 2012, da se bo zgodil samo trikrat na teh treh lokacijah v Ljubljani, ampak zgodba se je razvila pa polnoma drugače."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2490.867,
+        "end": 2495.989,
+        "text": "Ta opera še izmer je zelo aktivna in zelo živa, po desetih letih ima ne vem koliko ponovit"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2496.029,
+        "end": 2499.531,
+        "text": "ker jih več ne moremo sploh prešteti in slediti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2500.151,
+        "end": 2509.776,
+        "text": "Skratka leta smo se odločili, da obeležimo deseto obletnico, tako da še enkrat ponovimo lirične vtrinke."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2509.816,
+        "end": 2523.222,
+        "text": "To je sicer flash mob opera, ki naj bi vas presenetila, ampak jaz bom zdaj kar povedala, kdaj pa kje bo, ker boste vseeno zelo uživali, tudi če boste vedeli, da se bo zgodila skratka glavna ljubljanska tržica v sobotu do povdne ob desetih in enajstih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2525.729,
+        "end": 2527.19,
+        "text": "Potem pa predstava."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2527.29,
+        "end": 2530.532,
+        "text": "Ta zgradba govori resnično."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2531.632,
+        "end": 2540.137,
+        "text": "To je performativna instalacija zgodovine Skopja, ki je na Praškem kvadrijenalu leta 2019 prejela prvo nagrado."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2540.337,
+        "end": 2546.201,
+        "text": "Je delo vizualnega umetnika in aktivista iz Makedonije, Filipa Jovanovskega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2546.421,
+        "end": 2550.003,
+        "text": "On pa tudi je prvič na festivalu kot umetnik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2550.603,
+        "end": 2556.808,
+        "text": "ki se zauzema za ohranitev pomena javnosti in javnega prostora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2556.988,
+        "end": 2571.198,
+        "text": "Na primeru Železniškega doma v Skopju pokaže, kako pomembna je arhitektura in da ni samo v funkciji lepega, ampak tudi kakšen pomen ima za skupnost in za prebivalce, ki to arhitekturo uporabljajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2571.899,
+        "end": 2587.607,
+        "text": "Predstava je, čeprav govori specifično o Skopju, ki je skoraj vzorčni primer brutalne preobrazbe mesta, pa lahko na nek način govori o vseh mestih, oziroma se lahko najdemo tudi prebivalci Ljubljane v tej zgodbi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2589.297,
+        "end": 2598.743,
+        "text": "Na festivalu je še predstava Tihožitje Ludkovnega gledališča Ljubljana Tina Grabnarja in Tjaša Brtoncl."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2598.943,
+        "end": 2602.766,
+        "text": "Tudi tukaj bom samo odbrzela skozi, ker predstavo zelo verjetno poznate."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2603.606,
+        "end": 2612.312,
+        "text": "Tina Grabnar in Tjaša Brtoncl sta svoje izhodišče, da delata v Ludkovnem gledališču, vzela zelo resno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2612.472,
+        "end": 2617.335,
+        "text": "Ludkovno gledališče ima večinoma predstave, kjer animirajo žive objekte."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2617.715,
+        "end": 2623.619,
+        "text": "in v tihožitju animirajo nagačene zajce."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2623.979,
+        "end": 2642.012,
+        "text": "Tihožitje je predstava, ki večinoma nekako komunicira skozi ambijente, ki so fenomenalni in v bistvu kreira neke pokrajine, ki so iz vseh kosov sveta, zvočne pokrajine, vizualne pokrajine, v katere naseljuje te naši žive predmete."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2642.752,
+        "end": 2645.514,
+        "text": "Seveda pa nas zajci oziroma cela predstava"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2647.87,
+        "end": 2667.395,
+        "text": "nekako pominjajo na to, kaj sploh je življenje in nam postavljajo vprašanje, kdo smo mi, ki seveda te najžive predmete animiramo, kdo sploh so živali, v kakem odnosu smo z njimi, kaj sploh zajec pomeni lahko v pravljici, na odru ali drugače v življenju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2667.935,
+        "end": 2670.938,
+        "text": "In pa predvsem nas ti najživi predmeti neprestano gledajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2671.098,
+        "end": 2676.122,
+        "text": "To se je meni zdelo predstavil, da so tako animirani, da nas iz odra neprestano gledajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2676.242,
+        "end": 2682.488,
+        "text": "Tako da se tudi mi neprestano sprašujemo o tem, kdo smo mi, ki nas gleda ta zajec."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2684.978,
+        "end": 2688.683,
+        "text": "No, ta skupina ni bila še pa nikoli na Mladih Levih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2688.923,
+        "end": 2697.273,
+        "text": "Gre za kolektiv štirih prijateljic in igravk iz reke, ki so same sebe tudi poimenovali kolektiv igralke."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2697.293,
+        "end": 2703.802,
+        "text": "To je njihov drugi projekt, tokrat sodelujejo s slovensko režiserko Tjašo Črnjgoj, predstava se pa imenuje Babice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2704.182,
+        "end": 2720.191,
+        "text": "Gre za dokumentarno gledališče, zgodbe, ki jih prepovedujejo, temeljijo na osnova so resnične osebe, zgodbe resničnih žensk in predvsem se ukvarjajo s položajem upokojenj, konkretno seveda na Hrvaškem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2720.771,
+        "end": 2726.314,
+        "text": "Se pravi, tako lahko nekdo, ki je delal 40 let ali kakorkoli zdaj živi pod pragom revščine."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2726.714,
+        "end": 2733.618,
+        "text": "Na Hrvaškem so od leta 2005, če nabiraš plastenke in jih vračaš v trgovino, dobiješ za plastenko, mislim, da"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2734.118,
+        "end": 2739.82,
+        "text": "50 lip in to je v bistvu nekak light motiv cele te predstave."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2739.94,
+        "end": 2761.789,
+        "text": "Te štiri ženske, kateri zgodbe se predstavljajo, vse so našle zdaj v svoj obstanek, mislim, kako lahko preživijo, je, da v bistvu nabirajo te plastenke po mestih, tako da istočasno so, popolnoma so v mestu nevidne, istočasno so pa na vseh dogodkih, vejo za vse, kar se dogaja, ampak to gledajo iz drugega stališča, nekako se bojo zabavili, ampak kjer bo veliko ljudi, da bojo nabrali veliko plastenk."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2762.249,
+        "end": 2773.155,
+        "text": "Tu je zgodba predvsem usmerjena na hrvaško, ampak mislim, da je tema absolutno univerzalna in da se pač vsi moramo spraševati, kako in kaj in tudi razmišljati sami o sebi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2777.116,
+        "end": 2791.79,
+        "text": "V športnem društvu Tabor oziroma na zelenici Zraven bomo v okviru festivala začeli proces vzpostavitve nevenkinega gaja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2792.371,
+        "end": 2805.73,
+        "text": "Od njene februarske smrti do zdaj se zelo trudimo vzpostaviti več sistemov, kako nekako negovati spomin na njo, da bi bil tudi v skladu z njo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2805.87,
+        "end": 2807.332,
+        "text": "Eno je seveda, da delamo naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2807.913,
+        "end": 2818.4,
+        "text": "Nekaj druge inicijative so, kot na primer društvo Prosto Roš je v sodelovanju z nami vsemi uložilo pobudo, da bi se po njej imenovala ulica oziroma trg."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2818.42,
+        "end": 2825.444,
+        "text": "Imamo njeno spominsko knjigo, njena pisarna, nekako staja njena pisarna in je na voljo rezidenčnim umetnikom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2826.585,
+        "end": 2837.452,
+        "text": "Ena izmed inicijativ je pa, da bi se na taboru, kjer je ona 15 let delovala in poskušala vzpostavljati tudi nekakve sisteme sodelovanja, kulturno četrt tabor,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2837.832,
+        "end": 2840.853,
+        "text": "da bi bil en del tabora posvečen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2841.054,
+        "end": 2851.779,
+        "text": "Zdaj, ko smo razmišljali, kaj bi bilo všeč, smo se vsi strinjali, da mora iti za javni prostor in da mora iti za nek kakovostni javni prostor, ki ga bojo ljudje uporabljali in v katerem bojo uživali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2852.459,
+        "end": 2864.085,
+        "text": "Zdaj skupaj z mestno občino smo določili trato ob športnem društvu Tabor in skupaj z KUD-om obrat in pa z Inštitutom za politike prostora, z Majo Simoneti,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2864.545,
+        "end": 2882.171,
+        "text": "bo od festivalskega srečanja naprej, kjer se bomo pofočkali vsi deležniki, ki bi radi sodelovali pri procesu, začel nek skupnostni proces, kjer bi in ljudje iz četrti in iz organizacij, ki delujemo na taboru, tudi iz njene družine, v bistvu skupaj zasnovali ta prostor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2882.531,
+        "end": 2893.935,
+        "text": "Zdaj je rahlo degradiran in neoporabljen, potem pa bi ga radi naredil ponovno ne spektakularnega in disneylandovskega, ampak nekak prijaznega lokalnemu prebivalstvu in mimoedočim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2894.515,
+        "end": 2898.057,
+        "text": "imenoval se bo pa Nevenki in Gaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2898.237,
+        "end": 2906.68,
+        "text": "Letos sodelujemo tudi z Inštitutom Abil Cedek, to je platforma za raziskovanje v polju sodobne glasbe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2906.901,
+        "end": 2915.724,
+        "text": "Njihov program smo povezali, imajo program Rezidenc in potem se zmeraj povezujo z nekimi festivali ali različnimi javnimi dogodki, kjer uspejo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2916.925,
+        "end": 2919.126,
+        "text": "predstaviti rezultate te svoje rezidence."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2919.146,
+        "end": 2927.888,
+        "text": "V okviru Mladi Hlebo se bodo zgodile dva koncerta, 24. in 27. augusta ob sedmi pred športno dvorano Tabor."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2929.349,
+        "end": 2938.572,
+        "text": "Gostili bomo pa skladateljico in saksofonistko Brino Kren in skladatelj in saksofonista Lenarta Deboka, vsakega za svojo glasbeno zasedbo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2940.331,
+        "end": 2946.816,
+        "text": "Vsporedno s festivalom pa organiziramo tudi poletni laboratori Akt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2949.398,
+        "end": 2956.844,
+        "text": "Bunker je že od leta 2010 del mreže, ki skuša povezati problematiko okoljskih sprememb in umetnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2957.604,
+        "end": 2963.028,
+        "text": "Najprej se je ta mreža imenovala On Thin Ice na tankem ledu, kasneje pa Imagine 2020."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2963.108,
+        "end": 2963.869,
+        "text": "Zdaj je leto 2020."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2965.39,
+        "end": 2970.753,
+        "text": "2020 je za nami in mogoče ni bilo tako, kot smo si ga mi predstavljali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2971.573,
+        "end": 2979.317,
+        "text": "Zdaj se partnerstvo imenuje ACT, kot akronim za Art Climate Transition."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2980.325,
+        "end": 2989.989,
+        "text": "Ena od skupnih aktivnosti te mreže so tako imenovani poletni laboratoriji, ki potekajo v bistvu že od samega začetka mreže."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2990.049,
+        "end": 2998.513,
+        "text": "Laboratorija se vdeležujejo izbrani umetniki in sicer jih izberejo vsi partnerji, ki sodelujejo v mreži."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2999.013,
+        "end": 3008.518,
+        "text": "Bunker je v umetnici na Ljubljanskem laboratoriju, bosta dramaturg Injateri Žeželj in filmska režisarka Ivana Bogrin-Cvidali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3009.417,
+        "end": 3027.751,
+        "text": "Cilj teh laboratorijev je, da umetniki skupaj z znanstveniki predvsem preživijo čas skupaj z neko željo, da umetnost ne bi bila le dekoracija in ilustracija znanosti in da znanost ne bi ostala samo na svojem otoku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3028.351,
+        "end": 3038.175,
+        "text": "Umetnike in umetnice boste v Ljubljani v nek začasni kolektiv povezali Marija Lucia Cruz Correa, s katero sodelujemo že zelo dolgo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3038.655,
+        "end": 3049.5,
+        "text": "Je umetnica in aktivistka, sama si trenutno reče varuhinja narave, guardian of nature in pa gojši ferflösem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3049.62,
+        "end": 3057.083,
+        "text": "Tudi belgijska umetnica in raziskovalka, ki pa si reče toxic detective, se pravi stropena raziskovalka smo upravedli, detektivka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3058.203,
+        "end": 3077.758,
+        "text": "Tema letošnjega ljubljanskega laboratorija so urbana drevesa, drevesa v mestu, ki bodo sodelujoči raziskovali v praksi in sicer krstovčki na ramenu in različnimi orodi, teorijo, umetniškim raziskovanjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3077.918,
+        "end": 3086.565,
+        "text": "Pri tem jim bojo pomagali gostujoči predavateli, ki sodelujejo na različne načine na tem laboratoriju in sicer"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3087.025,
+        "end": 3095.833,
+        "text": "urbanistka Maja Simoneti, filozof Luka Činkvemani, umetnica Špela Petrič in biologinja Katja Rebolj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3095.953,
+        "end": 3111.628,
+        "text": "Bodo pa umetniki na laboratoriju zarisali nek zemljevid dreves in zgodb s temi drevesi povezanimi in ta del pa bo tudi odprt za javnost in sicer jih bomo predstavili obiskovalcem v petek, to je 8."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3113.249,
+        "end": 3122.135,
+        "text": "27. augusta, opetih začetkom v parku Tivoli, potem pa bo sledil sprehod med temi drevesi in zgodbami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3123.745,
+        "end": 3133.134,
+        "text": "Kot en del ob programa festivala gostimo tudi slovenske gledališke založnike, to so Emanat, knjižnica MGL, Maska Ljubljana in Slogi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3133.774,
+        "end": 3147.607,
+        "text": "Za Obletnico maske je Toni Soprano Meneglete izdelala prevozno, prenosljivo knjigarno, ki bo gostovala usporedno v debatni kafani in drugih dogodkih v ŠD Tabor na igrišču."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3147.927,
+        "end": 3161.552,
+        "text": "Absolutno bojo na voljo knjige, napovedujejo tudi mogoče kak mikro dogodek, ampak predvsem mogoče o posedanju in o debatah, če koga navdihne, da si kupi kakšno knjigo za nadaljne branje in razmišljanje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3162.743,
+        "end": 3171.635,
+        "text": "Pred četirimi leti smo prvič z umetniško intervencijo zaznamovali tale zonalni zid stare elektrarne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3171.975,
+        "end": 3176.101,
+        "text": "Takrat je to nekako postalo naše okno v svet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3176.221,
+        "end": 3180.246,
+        "text": "Neka točka spremembe, ki komunicira z ulico."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3180.867,
+        "end": 3196.724,
+        "text": "In vsaki dve leti povabimo k sodelovanju eno gledališko ustvarjalko in vizualno umetnico, ki ustvarja v gledališču in ki je svojo ustvarjalnost odkala tudi že v projekte v Stari elektrarni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3197.405,
+        "end": 3208.295,
+        "text": "Prvo leto je bila to prav, ko jo je ravno omenila Alma, Toni Soprano Meneglejte, ki je naredila velik zapis aplavz in potem naslednje leto aplavz na kvadrat."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3209.135,
+        "end": 3214.901,
+        "text": "Na to pa smo v 15-letnici stare elektrarne k sodelovanju povabili scenografinjo Uršo Vidic."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3215.461,
+        "end": 3224.829,
+        "text": "ki je v zvočni zapis besede Svoboda ujela vsa imena umetnikov, ki so v petnastih letih delovali v Stari elektrarni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3225.349,
+        "end": 3227.871,
+        "text": "Ta zapis še vedno lahko vidite zdaj na zidu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3228.572,
+        "end": 3238.199,
+        "text": "Letos smo k sodelovanju povabili vsestransko gledališko ustvarjalko Petro Weber, ki deluje kot oblikovalka svetlobe, fotografinja in tudi dramaturginja predstav."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3238.9,
+        "end": 3259.385,
+        "text": "Petra Weber v svojih večplastnih delih ponovadi s preprosto gesto zadane kakšno občutljivo družbeno točko in tudi za leto si je zamisel na instalacijo iz črk, znotraj katerih pa lahko sami najdemo različne pomene."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3259.485,
+        "end": 3268.787,
+        "text": "Pomene, ki so recimo zelo pomembne za ta čas, za današnji čas, je, da nizmed njih, ki bo zelo lahko ga prebrat, bo živela umetnost, umetnost v živo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3268.887,
+        "end": 3290.158,
+        "text": "Ker pa so nam iz Elektra Ljubljana sporočili, da bodo zaradi nujnih pravil tole steno morali podreti in popraviti transformator, ki stoji za to steno, smo se odločili, da odprtje te instalacije predstavimo v predvidu na november, ko bo stala nova stena, ki bo enaka."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3290.218,
+        "end": 3296.502,
+        "text": "Tako da v bistvu novembro odpiramo instalacijo Petra Weber na zahodnji steni starej elektrarni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3297.898,
+        "end": 3302.381,
+        "text": "Ta trenutek s predstavitvijo programa Mladih levov zaključujemo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3303.562,
+        "end": 3306.585,
+        "text": "Bi pa rada povedala še nekaj praktičnih stvari o festivalu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3307.445,
+        "end": 3312.349,
+        "text": "Kot vsako leto, tudi leto z nami sodeluje veliko prostovoljcev, skoraj 30 jih je."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3313.69,
+        "end": 3317.452,
+        "text": "S prostovoljci sodelujemo že dolga leta."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3318.013,
+        "end": 3336.463,
+        "text": "Vsako leto pa prostovoljstvu na Mladih Levih vabimo vse ljudi, ki si želijo spostavljati nove stike, ki si želijo neke izkušnje gledališča, festivala, zaodarja, ki si želijo predvsem, da so dobre družbe in videti veliko umetnosti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3336.884,
+        "end": 3342.327,
+        "text": "To ni težko delo, to niso neka opravila, ki so zoprna in težko jih je opravljati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3342.547,
+        "end": 3356.272,
+        "text": "Za ta upravila imamo plačane sodelovce, ampak v bistvu predvsem zato, da se imajo na Festivalu Fino in da izkusijo nekaj novega in drugačnega, je pa dejstvo, da se veliko prostovoljcev iz leta v leto k nam vrača."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3357.413,
+        "end": 3363.515,
+        "text": "In tudi zdaj še vedno vabimo, če je še kdo zainteresiran, da se nam pridruži kot prostovoljet na letošnjem festivalu,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3363.775,
+        "end": 3368.319,
+        "text": "Veliko bo dela z umetniki, direktnega dela z umetniki, kar je v bistvu najbolj zanimivo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3368.379,
+        "end": 3377.125,
+        "text": "Vabljeni pa so tudi na vse naše družavne dogodke in na festivalski piknik, ki ga organiziramo v sredi festivala za vse sodelavce, umetnike in prostovoljce."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3378.086,
+        "end": 3380.488,
+        "text": "Tokrat mogoče ena posebnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3381.269,
+        "end": 3384.912,
+        "text": "Festivalske vstopnice še vedno stanejo en simbolični evro."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3386.422,
+        "end": 3394.767,
+        "text": "Seveda pa so na vseh prizoriščih festivala na voljo škatle, kamor lahko donirate vaše prostovoljne prispevke po vaših zmožnostih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3394.827,
+        "end": 3400.77,
+        "text": "Zelo jih bomo veseli in obljubimo, da jih bomo pridno porabili za umetnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3400.95,
+        "end": 3406.213,
+        "text": "Tokrat pa dajemo možnost tudi uporabe oziroma plačila s plačenimi boni, ki so letos na voljo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3406.614,
+        "end": 3407.334,
+        "text": "To so boni 21."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3408.815,
+        "end": 3414.896,
+        "text": "Za plačilo s temi boni smo pripravili tudi posebne vstopnice, ki varirajo od 10 do 50 evrov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3415.196,
+        "end": 3424.838,
+        "text": "Torej z njimi lahko plačate pravzaprav eno celotno vstopnico za dogodek, kot bi stala mogoče v nekem normalnem okviru."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3425.238,
+        "end": 3434.4,
+        "text": "Ampak zato pač vabimo, da prinesete s sabo kopijo osebnega dokumenta in izpolnen obrazec za to, da lahko bon uporabite."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3434.6,
+        "end": 3439.985,
+        "text": "Se prevečujemo zato na všečnost, ta je kar zuprna, ampak dajemo možnost vseeno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3440.405,
+        "end": 3442.087,
+        "text": "Upamo, da jo boste izkoristili."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3443.428,
+        "end": 3451.815,
+        "text": "In hkrati upozarjamo, da so nekatere predstave že precej polne, da so zato rezervacije za dogodke festivalske obvezne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3452.656,
+        "end": 3469.022,
+        "text": "da se lahko zgodijo spremembe programa, mogoče pride do zmanjšanja števila ljudi, ki bodo lahko v nekem prostoru in zato nam prosim pustite kontakte, da vas lahko kontakteramo, da lahko stvari spremenimo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3469.582,
+        "end": 3478.325,
+        "text": "Žal, mi nimamo vpliva na to in hkrati prosimo, da upoštevate pravilo PCT, ki ga bomo žal morali letos tudi preverjati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3478.525,
+        "end": 3491.963,
+        "text": "Upamo za solidarnost, za zdravje vseh, da pač bomo to poštevali vsi in da bo festival kljub tem komplikacijam, ki sem jih ravnokrat naštela, šel lepo in dobro skozi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3492.565,
+        "end": 3506.789,
+        "text": "Rade bi samo še to povedala, da takoj že med festivalom začenjamo naslednjo sezono Stare elektrarne z izobraževalnim programom PARL, ki ga delamo skupaj z različnimi partnerji, vodi ga pa Via Negativa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3507.309,
+        "end": 3513.03,
+        "text": "Nadaljujemo z Gibanico, to je bienalni festival sodobnega slovenskega plesa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3514.27,
+        "end": 3518.291,
+        "text": "Na to pa napovedujemo novo premiero kolektiva Beton Ltd.,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3520.392,
+        "end": 3533.12,
+        "text": "Hopla virleben bo naslov in veliko konferenco, zaključno konferenco velikega menarnega projekta ReShape, ki se bo zgodila v Ljubljani od 22. do 25. septembra."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3536.322,
+        "end": 3542.091,
+        "text": "Za naprej vam bom povedali pa v naslednji novinarski konferenci začetku septembra."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3542.411,
+        "end": 3544.294,
+        "text": "Samo toliko, da veste, da takoj nadaljujemo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3544.855,
+        "end": 3547.459,
+        "text": "Zdaj pa odpiram prostor za vprašanja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3547.699,
+        "end": 3548.701,
+        "text": "Sej vem, da so mi že dolgi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3548.941,
+        "end": 3551.585,
+        "text": "Imam dokakšno vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3554.125,
+        "end": 3562.889,
+        "text": "Če ne, pa smo na voljo za izjave, fotografije in ostale materijale vam lahko pošlem posebej, sicer pa vam smo slale danes v mailu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3562.909,
+        "end": 3571.554,
+        "text": "Na posebnem linku na Dropboxu so čisto vsi vizualni materijali, nek krajši tekst o programu, naša knjižica v e-obliki."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3572.574,
+        "end": 3575.036,
+        "text": "Če karkoli potrebujete, pa prosim me kontaktirajte."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3575.336,
+        "end": 3578.137,
+        "text": "Dor se pa še nise, pa prosim še upišite na tale listo prisotnosti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3578.858,
+        "end": 3583.0,
+        "text": "Hvala za potrpežljivost in poslušanje, hvala za družbo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3584.517,
+        "end": 3586.08,
+        "text": "In se vidimo na festivalu Mladi Levi."
+      }
+    ],
+    "runtime_sec": 1113.5134766101837
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.04807669134077935,
+      "miss": 0.04034377485369918,
+      "fa": 0.006049240243897901,
+      "confusion": 0.0016836762431822715,
+      "total_duration": 3568.3819999999505
+    },
+    "der_collar0.25": {
+      "der": 0.04029302734434619,
+      "miss": 0.03238878323187681,
+      "fa": 0.006252518682437748,
+      "confusion": 0.0016517254300316417,
+      "total_duration": 3394.63199999995
+    },
+    "wer": {
+      "wer": 0.30998509687034276,
+      "ref_words": 8052,
+      "hyp_words": 7273
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_04",
+        "start": 0.031,
+        "end": 3.237,
+        "text": "Dobro dan, dobrodošli."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3.811,
+        "end": 34.372,
+        "text": "Vrdošli, da lepo, da ste danes pa šli. Rada bi vas še posebej pozdravila po enem vizutah, v težkom letu za nas to leto ne se mu daje vloobarvano z koronskim zaprtjem in vse splošnim, nepreveč dobrim počutjem in izolacijo. Spomladi je umrla, se je od nas poslovila tudi naša dovoletna direktorica, ustanovica Vica Zavoda Bunker in festivala Mladilevi, ne vem kako privšek."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 35.165,
+        "end": 36.532,
+        "text": "In..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 37.409,
+        "end": 39.603,
+        "text": "Mladi je bila obarvana z žalostjo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 40.413,
+        "end": 83.039,
+        "text": "Ampak smo se odločile, da moramo bistvu v nevenkinem duhu, saj je hitro dobropirat in peljat to, kar smo skupaj ustvarili štiriindvajset let, smelo naprej, tako kot bi ona, to naredila.Zato danes tudi malo spremenjena ekipa, oziroma isti obrazi kot ste jih bili že prejšnja leta, ampak mnočkano v drugačnih vlogah.Predstavlja bom najprej celo ekipo, torej, nova bunkareva direktorca Alma Rejčicer Limović, oblikovalka programa Festivala mladi levi, oblikovalka programa Stare elektrarne Mojca Jug."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 84.052,
+        "end": 88.405,
+        "text": "Izvršna producentka festivala, Naja Ležin."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 89.013,
+        "end": 95.594,
+        "text": "Producentke festivala, ki sedijo tamle bolj v ozadju Polona Vozov, ki je delala tudi administracijo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 96.134,
+        "end": 104.217,
+        "text": "Špela Kopitar in Clara Drnovšek Solina ji vodi tudi prostovoljsko delo skos festival."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 104.892,
+        "end": 120.012,
+        "text": "Znamenj pa je tudi naša rezidenčna umetnica Leja Kokovičič, ki se bo letos na festivalu predstavlja s posebno noviteto dražbeno hišo oprizoritvenih umetnosti Forselj, s prvo dražbo predstave, deklon LTD in hkanih panders."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 120.704,
+        "end": 121.379,
+        "text": "Emm..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 122.155,
+        "end": 135.858,
+        "text": "Ne bom preveč dolgo govorila, jaz, ker bom predala besedo mojim kolegicam, mojem je Tamara Bračić Vidmar, sem volja komunikacije, nam se lahko vrneto za sami vprašanje, ki vas bodo potem pestila zvezdlogistiko in takšnimi zadevami."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 136.617,
+        "end": 139.503,
+        "text": "A, zvega predvajam besedo Almi Reči Celimović."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 139.503,
+        "end": 139.553,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 139.553,
+        "end": 139.57,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 139.57,
+        "end": 139.655,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 140.245,
+        "end": 141.072,
+        "text": "Zdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 142.135,
+        "end": 142.844,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 143.84,
+        "end": 162.875,
+        "text": "Vsi nov začetki so težki, pa bom povedala eno anekdotov, da mogoč mal razbijemo. Nevenka je rada vedno govorila eno Anekdotu Ivanki Mežan in Štefki Droljc, ki je z nevem če resnična, ampak Anekdot pravi, da se je Ivanka Mežankrat Šteefki Droz na oder zadrla, ne tak patetič v Štefi!"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 162.352,
+        "end": 162.79,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 164.798,
+        "end": 173.303,
+        "text": "S kuda mese nekaj velikrat spomnemo na te anekdote in si ob žalosti mislimo, da je treba pač it naprej nekakor tudi s humorjem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 174.805,
+        "end": 182.416,
+        "text": "Zdaj pa ob pot festivalu, festival Mladi levi smo vedno označeval kot nekako Krono Bunkerja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 183.243,
+        "end": 215.947,
+        "text": "Ne zato, ker se mi rade urejemo, ali pa ker smo dekuinsal, rade nosimo kronce, ampak sker je začetek nove sezone, kronaprejšnje sezone in tudi skupaj k naporu celotne ekipe in edini dogodek, ki vse naše nekak razvejene programske sklope aktivnosti, ki jih delamo čez sezono poveže. Če je uporabnil ekonomsko terminologijo, to je nekakšna popolna kapitalizacija vsega, kar bunker ma ustvarja in vseh njegovih sem zditkov prednosti pridobljenih veščin in znanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 217.415,
+        "end": 229.126,
+        "text": "Krona je tudi zato, ker je največji letošnji dogodek in tudi najvejši letni dogodeg vsako leto in pa demonstracija tega, v kaj verjamemo, kaj nas predstavlja in za čem stojimo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 230.358,
+        "end": 237.142,
+        "text": "Letos seveda o mladih levih lahko govorimo kot o festivalu, ki je nastal v izrednih okoliščinah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 237.682,
+        "end": 247.857,
+        "text": "Ne samo zaretega, ker se je poslovila ustanoviteljica, ne vem kako privšek, ampak tudi za te, zareten kar je nastajal v sezoni, ki jo je zaznamovalo sedemmesečno zaprtje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 248.718,
+        "end": 249.376,
+        "text": "A..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 250.0,
+        "end": 264.023,
+        "text": "Sicer mislim, da je sektor zlo ta besedece zloradov uporablja odporn in da je delovanje v krizi nekakšno modo superandi, ki smo ga navajani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 264.58,
+        "end": 271.651,
+        "text": "Mislim, da smo dober prekrmaril krizo do zdaj in da se trudimo pač nekak strmet naprej pozitivno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 272.545,
+        "end": 288.205,
+        "text": "Letošnji festival je kot je napovedala Tamara v izrednih okoliščinah ustvarila celotna programska ekipa Zavoda Bunker, prihodnje leto pa umetniško vodstvo festivala prevzema mojca jug z mlajšo programsko ekipo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 288.914,
+        "end": 291.935,
+        "text": "Zdaj je mogoče sem kratek pogled na sam festival."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 292.998,
+        "end": 302.549,
+        "text": "Kljub sedemmesečnem zaprtju nekako odpornosti govori to, da je v programu vse en zlo velik slovenskega programa, torej domačih predstav."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 303.224,
+        "end": 314.142,
+        "text": "In to ni kompromis, ker na mlade leve vedno pridejo pač nekaj najboljše predstave sezone oziroma največji presežki in klub vsemu jih je bilo letos velik."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 314.969,
+        "end": 338.425,
+        "text": "Eden izmed njih je tudi Bunkarjeva produkcija, naša premiera, ki je že doživela pred premiero in nam je še v posebno veselje, ker združuje dva Bunkerjeva velika projekta, in sicer premiero projektov Forselj, le je Kokovičič, ki bo v dražbenih hišikli ustanovila prodala Bunkerjevo predstavo kolektiva beton Limited, jih kanift Anders."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 340.518,
+        "end": 355.25,
+        "text": "Zdaj umetnost v nobenem obdobju ne more sam bit, ker potem je dekor ali pa postavna kultura, v tem obdobil pa sploh ne more samo bit, ampak vedno dela, torej deluje vrta kople in si izvotli in svoj prostor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 355.756,
+        "end": 363.097,
+        "text": "In tudi svoje mesto v svetu in pa nekak poskuša, ali projicira nekaj nove stvari, ali pa aktivno vplivati na svet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 361.73,
+        "end": 361.966,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 361.966,
+        "end": 362.135,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 363.62,
+        "end": 378.031,
+        "text": "Letošnji program je testamen tega, združuje in predstave, ki so nastale pred koronskim časom, ki se nastale v odgovor k Koronskem očasu, ali pa, ki si nastale ne glede na koronske čase, ampak navkljub okoliščinam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 379.178,
+        "end": 388.105,
+        "text": "Pred potem kasneje bomo šle čez program, pa bomo mogoče v vsaki predstavi tudi mogošelah naznačilo, kako se to bere skosposamečne projekte festivala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 388.932,
+        "end": 396.678,
+        "text": "Kot smo napisale v uvodniku, si želimo na nek mečin, da ta festival ne bi imel nalepke, da je pust koronski ali koronskij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 397.741,
+        "end": 401.352,
+        "text": "In tu si ne želimo, da bi imel na lepko, da je post nevenki in festival."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 401.909,
+        "end": 414.498,
+        "text": "Ne zato, ker ne bi želela ohranjati njenga spomina, ampak zato kar njena dediščina nekak živi naprej in edino vlogo, ki je tudi prevzemamo na svoje hrbteje, da ne bi že vzel samo za nas, ampakt da bi nas vse preživel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 417.113,
+        "end": 433.735,
+        "text": "Zdaj kaj sploh si mislil o tem, kaj lahko festival zgenerira poleg tega, da poskušamo umetnosti ponovno izborit prostor in čas in pa nekaj prostore druženja in delovanja in skupnosti, ki presegajo sam posamične projekte?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 434.663,
+        "end": 446.83,
+        "text": "Mislim, da projekte in da celotni festival letos zaznamuje nekje vrste dialektičnost, umetnost ne sme biti didaktična in predvsem če je umetno nikoli ni kategorična."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 448.012,
+        "end": 456.5,
+        "text": "Vse dileme v današnjem svetu zgledajo rešljive s preprosto polarizacijo, ampak vemo, da nobena dilema ni rešliva s polarizacion."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 457.327,
+        "end": 473.037,
+        "text": "In želimo si, da bi umetnost ostala polje, kjer je dvomožen, nujn, kjere ambivalentna sta želena in potrebna, in kjer v bistvu neprestano treniramo interpretativno odprtost, in to, da lahko izmenjamo mnenja, ne da bi kompromitirala resnico ali prerealnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 473.982,
+        "end": 482.386,
+        "text": "Je s upam, da smo vse dale lepo popotnico temu festivalu in da bo pač po štiriindvajsetih mladih levih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 482.943,
+        "end": 487.938,
+        "text": "Da se drugo leto sestanemo na pet in dvajsetih, pa vsaj dostone, tudi če jih ne doživiš."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 490.435,
+        "end": 537.145,
+        "text": "Zdeli pa bomo se, kot ponavadi mal sprehodi čez naš program, ki je letos precej velik, ko smo ga na koncu stalešnje izdelate mogoče pretiravamo, ampak mislim, da ne, dejmo ponudi, čim več stvari izboj, tudi mogoše namenjenja za mal manjša število publike, tako da so nekatere stvari večkrat tudi ponavljamo.Letošnji festival se kot po navadi ostaja v tem kvartu, kvarto Tabor na tem mestu bi izpostavila že več let zelo zlo dober sodelujemo z športnim društvom Tabor, letos pa so skoraj kot ob tri četrt festivala nekaj naših aktivnost in druženj preselili prav na njihovo igrišče pred njihovo športno dvorano Tabor, ko bo tudi prvi dan festivala odvil tam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 538.985,
+        "end": 562.087,
+        "text": "Zraven znane lokacije, stare mestne elektrarne, se letos, se bo jo letos mladilevi pojavli tudi, nova lokacija za nas je Agerfete sodelujemo z Agerfa Tejem, potem predstavo v Novi Pošti, Miklošičevem parku, različni sprehodi po mestu, stara lokacija ljubljanska trženca, lutkovno gledališče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 562.61,
+        "end": 579.569,
+        "text": "To pa, mislim, le to lokacije.Elektrarni, če prav zlomalo letos, besedstvo glede na to, da je to naša hit, da smo tukaj doma, ampak doma smo po celem taboru, to leto smo še bolj dokažemo tu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 566.575,
+        "end": 566.913,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 566.913,
+        "end": 566.93,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 566.93,
+        "end": 566.98,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 580.143,
+        "end": 628.658,
+        "text": "Skratka, festival se začne dvajsetega osmega že s popoldanskim dogajanjem v naslednji petek ob štirih popoldnih, se počasi izberemo na igrišču športnega društva Tabor, kjer se ob štirih prične predstava Tanja El Kuri in menjaniške tečaj kulture Tanja, naj vem čevam prav posebej predstavlja, kar si ji je bila že na mladih levih namesto žensk, mislim, da ljubljanska publika tudi že pozna. Je multidisciplinarno umetnica iz Livovna, ki trenutno živi v Njojorku in v predstavi, ki bo na ogled v Športni dvorani Tabor, govori bistvu predstava temelji na intervju iz njeno babico, ki je živela v vasi Akra, kar je na meji med Sirijo in Med Sirijo en libanonom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 629.3,
+        "end": 697.205,
+        "text": "Predvsem gre za neki razrest, neke družinske zgodovine in v bistvu kako, kje živimo, kako živim, kakomeje vidne in nevidne vplivajo na mikrosvet male družine ali pa tudi večje na celo generacijo. Predstava je predstavo si ogleda deset ljudi na enkrat in bistvu Tanja ponuja, kako bi rekel ta lokal, sem ta inštalacija kot nekaj arhiv predali, arhivi predaljejo Marce, kjer imaš pač individualno izkušnjo, ko pogledaš noter prebereš tekste, to so razni dokumenti, kakos so odkrili nov del družine v Mehiki, stare denarke ni več nič vredni in je bil nekje skrit kot veliko družinsko bogastvo. Skatka zelo smo veseli, da Tanja žal ne pride letos, ampak zelo sme veseli da smo uspeli to predstavo prepeljati na mlade leve, mislim, da je bila to želani, da so želanji se pogovarili njen, pa kje bo v lani praktično neizvedljivo.Ta dan se naveljuje pol topopoldansko druženje, bomo imeli mal glasbe, didžeji za popit, prostor za klepetat..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 653.515,
+        "end": 654.157,
+        "text": "Poma rce."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 697.525,
+        "end": 769.801,
+        "text": "Sodelujemo spet z Kuharjem Primožem Dolničarjem in zgospemi z dnevnega centra aktivnosti za starejše, da bomo skupaj kar pripravljali zapojezd.Ob osmih se odpravimo nazaj v staromestno elektrarno na predstavo Filipa Kemafarm Fatal, tudi to smo želani bili v dogovorih letos realiziralo, Filip je tudi ne vem, kolik je ljubljenic mladih levo, je pa segurno ljubljenic pisarne bunkerjeve glede na to, koliko krat se že po javu, je nekaj značilna, predstavil on kot ji začel kot scenograf in tu ta element je zmeri zlo zlomočen v njegovih predstavah, bistvo kot eni izmed igralcev je ta sama postavitev testvenografije, ker je toliko povedna. Tu je nek prazn velik prostor, belina, ki je potreba napolnit, predstava se dogaja v postloveškem obdobju, ko so preživela samo strašila, ki se probajo znajd tukaj in zdaj, svet je uničen zaradi ekoloških katastrof, tiče petje samo še po radiu in posnetek žuborenja potoka prav tako. Strašila se pa pač probajo nekak znajd v tem svetu, ki so ga opustošil človek in kako od tu naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 770.763,
+        "end": 785.309,
+        "text": "Ni še konec otvoritvenega dneva, seveda, ko si konča ta predstava, se vrnimo pa nazaj pri športno društvo Tabor, kjer sledi koncert srbsko slovenskega hrvaškega benda Majka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 785.933,
+        "end": 798.91,
+        "text": "Ko bomo rekli visoko, energetska balkanska norost, dva ženska vokala, harmonika, trobenta, bas, bobni in neizmerna energija, kar pa je najboljša recept za otvoritev pa za zaključek tega dneva."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 800.497,
+        "end": 801.745,
+        "text": "Mojca je pozabljal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 800.986,
+        "end": 801.762,
+        "text": "Da, da bi te pozabljalo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 801.762,
+        "end": 802.032,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 802.032,
+        "end": 802.977,
+        "text": "Po potem ne pa."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 802.977,
+        "end": 810.098,
+        "text": "Je pozabla samo časovno umestit, ker v otvoritveni dan spada še en dogodek?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 803.028,
+        "end": 803.062,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 806.487,
+        "end": 807.23,
+        "text": "Pardon."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 810.503,
+        "end": 824.662,
+        "text": "In sicer tokrat se je na mlade leve vrača hrvaški umetnik, vizualne umetnosti bodijarda in performansa v javnem prostoru Siniša Labrović.Tokrat prihaja na mladi leve s performativno instalacijo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 825.235,
+        "end": 828.695,
+        "text": "Opiru, katere bo postala umara njegov začasni dom."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 829.505,
+        "end": 852.016,
+        "text": "Omaro on v tej instalaciji jemlje kot neko prispodobo, ki objeta tisicer v intimnem prostoru, o katerem pa skrivamo vsak kakšnega okostnjaka, naj si bo to naša seksualna orientacija ali pa politična prepričanja, ali pa o katerih se skrivajo tudi družbeni kostni njaki, stvari, ki jih pometemo pod preproge."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 852.573,
+        "end": 888.922,
+        "text": "Tokrat se je odločil, da je treba dregenj v to gnezdo in ena izmed ideji oziroma stari, ki so ga navedle na to, da se loti instalacije z omaro, je tudi pandemija koronavirusa, kjer smo bili spostavljeni izolaciji in kako je ta izolacion vplivala na nas vse, kaj pravzaprav pomeni živetvo Marij, kakaj pomenin že vedno izolatij in kakovostu družbi mi lahko prisilimo mogoče, ko ga dažvi v svoji umarju svoj izolati, ker morda ni sprejet, ker ga družba nekaj izloči."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 889.428,
+        "end": 897.157,
+        "text": "V omaro se bo Siniša Lavrović vsilil prvi dan festivala ob šesti popoldan na otvoritveni dan."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 897.697,
+        "end": 901.325,
+        "text": "Omara bo stala na Mikriji Mikložičevem parku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 899.755,
+        "end": 899.84,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 899.84,
+        "end": 899.975,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 899.975,
+        "end": 900.295,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 901.966,
+        "end": 916.816,
+        "text": "Kjer dom najdejo tudi brezdomci, ki so pa te ljudje, ki nekako živijo izven družbenega radarja, ki bi skoraj rekel, da so v Umari naše družbe, tam bo živel v Umariji Siniša Labrović do konca festivala."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 917.508,
+        "end": 945.487,
+        "text": "In ne bo izstopu iz nje v svoj izolirane mehurčku, spremljali pa bomo življenje njegovo lahko po spletnem prenosu, ki bo štiriindvajset ur na dan objavljanem bo povezaval naspletni strani Bunker, ki si goste lahko gledal kaj, onotrj počne, izvajajo bo tudi performance v živo v nekih določenih trenutkih dneva in zadnji dan festivala bo iz umarja izstop."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 934.079,
+        "end": 934.298,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 947.14,
+        "end": 947.393,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 948.811,
+        "end": 951.713,
+        "text": "To je bil utvoritveni dan, se pa gremo naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 952.709,
+        "end": 1004.296,
+        "text": "V soboto pa bomo pozdravlj spet enega starega znanca, mladih levo in sicer belgijskega umetnika performerja pisatelja Benjamina Ferdonka, ki se na festival vrača že četrtič, on je pa res pravi koronski umetnik in tu predstave, ki jih zadnje čas ustvarja, so zelo koronske.In sicer je njegova škatla gledališče zlo priročna, kot da je v času korone in zaprtja zlorad na stopu na balkonih, stanovanj pred okni različnih hiš.Na festival prihaja s predstavo Kontinuum, ki je neke vrste nadaljevanje predstave One more thing, ki smo nalevih gostili pred šestimi leti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 999.419,
+        "end": 999.588,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1004.515,
+        "end": 1034.215,
+        "text": "Na sporedu bo dvakrat v parku Šedetabor oziroma štirkrat, v soboto in nedeljo vakrat po dvakrad, gre pa za zlo prepoznavno njegovo namizno gledališče, kjer je zlo malo ali celo nič besed, zato pa veliko vrvi, s katerimi odstira zastira razne ploskve geometrijske like ob spremljavi lokalnega glasbenika tokrat, in sicer kontrabasista Gašper Jalivka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1037.185,
+        "end": 1041.387,
+        "text": "A predstava solo Nina Rajić Kranjac."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1041.91,
+        "end": 1047.749,
+        "text": "Nina Rajić, kranjace, David Letterman je imel en oddajo, ki je imela naslov Maj gest, nič znov in trodakšen."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1048.154,
+        "end": 1048.171,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1048.373,
+        "end": 1056.693,
+        "text": "Torej moj gost ne potrebuje napovedi ugoda in je smislim, da ni narajati škranjak, ne potrebuje ugoda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1057.267,
+        "end": 1092.755,
+        "text": "To je ena izmed dveh maskinih produkcij, ki jih gostimo na festivalu, je s naj bi želela špekulirat Alina Rajić Kranjat s to predstavo nrdila kot odgovor o koronski izolaciji, ampak če bi si pa drgala špekularcijo, pa bi rekla, da vsekakor imela v logdavnu velik časa za razmišljat oseb, ker to je predstava o njej.Z mojcu sva gledale predstavo še v nastajanju bore tri ure, na levi bo predstav atrajala šest ur, gre za celovečerni oziroma polnočni hepinink na novi pošti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1093.818,
+        "end": 1155.682,
+        "text": "Predstava ni najč kranjacije seveda o njej in o gledališču, mese pa zdi predstava predvsem fenomenalna, mogoče če jo pogledamo s feminističnimi očali, to je šesturjna predstavo v nji mladi umetnici, kjer je celoten gledalniški poligon, torej ona štirje igralci celotna produkcija, nova pošta, šest ur pozornosti igralcev posvečeno liku in delu ni nerajič kranjak.Seveda ne brez ironične distance občasno in, ampak ta predstava se mi zdi zelo pomembna, zdi se mi pa tudi zelo pomembna za to, ker se ustvarja neko vzdušje, da je razmišljanje o umetnosti sami ali pa o umvetnosti ali po nasplohu gledališču utrujajoče in nekak redundantno, je spomislim, da ta predstava pokaže, da je lahko tudi izjemno sveže, izjemnou aktualno in pa z velik novimi uvrti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1156.306,
+        "end": 1164.642,
+        "text": "Tako da predstava je že skor polna, ker pa gre za domačo produkcijo, ma siveda več ponovitev še prej in kasneje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1166.161,
+        "end": 1186.394,
+        "text": "No, pa smo že pri nedelji, v ne deljo zvečer bo prvič na sporedu predstava Silke Hujsmans in Hanez Derere, prijeten Otok. Tosta dva umetnika, ki živita in ustvarjata skupaj, oba živite v Bruslju, zdaj sicer silke prihajajo iz Brazilije."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1187.069,
+        "end": 1208.585,
+        "text": "In oba si delita tudi ljubezen do raziskovanja in do dokumentarnega gledališča, na mladih levih sta že bila z njuno prvo skupno predstavo, ki je prav tako dokumentarna, tokrat pa se na leve vračata z predstavbo prijetenotek, ki v bistvu govori o malem točku na uro, na uru sredi tihega oceana."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1209.142,
+        "end": 1215.554,
+        "text": "Imej so mu dalj vrgli raziskovalci iz Evrope, za petlical so ga Plezant Island, prijetel noto."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1216.162,
+        "end": 1219.739,
+        "text": "Pa ko se to se je v tem času spremenilo..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1220.33,
+        "end": 1226.641,
+        "text": "Ker nekoč rajski oto, ki je zdaj postal vzuprav sinonim za postak po kalipsu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1227.265,
+        "end": 1232.125,
+        "text": "Poleg ekonomskega in humanitarnega ter ekološkega upustošenja?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1232.783,
+        "end": 1238.116,
+        "text": "Zdaj otok v grozi dvigajoče se morje, morska gladina hkrati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1234.927,
+        "end": 1235.095,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1238.453,
+        "end": 1257.185,
+        "text": "Va je odpostal tudi Center za prebežnike, v zameno za finančna sredstva namreč gosti avstralske Center za predežanje prebeznikov, kar dajo v toku enek občutek zapora, skrajne nesrečnosti ljudi, ki so tam."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1257.691,
+        "end": 1275.595,
+        "text": "In ob isto avtok poskuša preprečevat prihod tujih novinarjev in prepreševat poročanja o tem o teh dejstvih, ampak Silke in Hanez sta nekaj dobila dostop za kratek čas do tega otoka in kar prinašata nazaj sopričevanja."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1276.186,
+        "end": 1276.743,
+        "text": "A, ne."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1277.249,
+        "end": 1295.93,
+        "text": "Lokalcev, domačinov in vprašanja o tem, kaj čaka na uro in kajčaka na svet, če se ne bomo nikoli ustavili, čemo stremeji vedno večji produkciji in povedno vejči neskončni rasti in dobičko."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1297.178,
+        "end": 1304.452,
+        "text": "Hah, temkrat sem šest.V ponedeljek pa bo prvič na sporedu zločna instalacija..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1304.975,
+        "end": 1318.39,
+        "text": "Enega slovenskih glasbenikov in umetnikov zelo zanimivega glasbnika v bistvu Tomaža Groma, ki glas bodo jema na izjedno kompleksen način."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1319.167,
+        "end": 1352.208,
+        "text": "Razume glasbo bolj kot medij komunikacije, ne samo kot nek estetski užitek ob poslušanju in zanto predstavlja nek možnost iskanja in poglobljene refleksije, je hkrati uporabljal skoraj bi rekla politično, v bistvu uporabljajo kot možnost, da glas bo dregne v nekako aktualna družbena dogajanja in tudi s to instalacijo je dregnil. To ta instalacija zvočna je obisok kompozicija šeststo sedemintvetdesetih prvcev."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1352.917,
+        "end": 1361.928,
+        "text": "Ki jih je zaplačilo dvajset evrov, prispevalo sto enajst umetnic in umetnikov.Prvič je bila predvajana instalacija..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1362.434,
+        "end": 1362.957,
+        "text": "A."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1364.24,
+        "end": 1365.995,
+        "text": "Prviš je bila pred dva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1364.493,
+        "end": 1365.893,
+        "text": "Če bi dobro postrilo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1368.07,
+        "end": 1382.735,
+        "text": "Instalacija je bila prvič predvajana prva na ta veseli dan kulture tretjega decembra, leta dvajset, dvajec, in sicer tudi v Loštadi, v bistvu pred ministrstvom za kulturo in Metelkovo šest, ki je sedež številnih nevladnih organizacij."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1383.376,
+        "end": 1417.193,
+        "text": "Sprašuje pa oziroma postavlja povprašanja sama instalacija o sramotenju, tabojziranju in normalizaciji teles, hkrati o tem, kako prozakromi dojemamo sodobno umetnost, kaj ta umetost je.V okviru mladih levo bo kompozicija zazvenela pred športnim društvom Tabor in staro elektrarno, pa v Mikrošičevem parku in še na preštenemu trgu, torej štirke te lahko slišite, a na voljo pa bo tudi na vinilni plošči sicer v omejeni nakladjem, pa k lahko jo poslušate doma."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1417.919,
+        "end": 1418.425,
+        "text": "Ame."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1419.269,
+        "end": 1419.353,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1421.21,
+        "end": 1441.763,
+        "text": "V ponedeljek in torek pa letos že drugo leto zapored, torej z tem lahko rečemo, da tradicionalno nadaljujemo z debatno kakano pod krošnjami kostanjev na še databor. Lani so bile pritožbe, da nismo kuhal do osmočne kave, da nismo skuhali dovolj kave."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1440.245,
+        "end": 1440.295,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1440.295,
+        "end": 1440.65,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1440.65,
+        "end": 1440.802,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1440.802,
+        "end": 1441.477,
+        "text": "Skoda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1441.898,
+        "end": 1453.238,
+        "text": "Letos dajemo besedo, da kava bo tekla ovilno in da bo zelo močna, letošnja tema pa je vzdrževanju in skrb."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1453.745,
+        "end": 1466.401,
+        "text": "Zdaj vzdrževanje in skrb seveda mene in pa celoten bunker nekakrat osebno zadeva, kako skrbet za stvari, da ostanejo, kakovzdrževat nekje sisteme, neki kar je pridobljenega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1466.992,
+        "end": 1486.043,
+        "text": "Zato da ne bi vedno izumljalo novega ali se boril za vzpostavitev novega, seveda pa je sistemsko ta tema nekak bolj močno vzniknila v korona krizi, ker je bila se mi zdi predvsem poplava tekstov o skrbi, enkaj zmed bolj popularnih in viralnih napisala Bojana Kunst."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1486.685,
+        "end": 1536.247,
+        "text": "O tem, kaj je skrbstveno delo in kaj sploh pomeni skrp na področju umetnosti.Mene pa upam, da tudi govorce in moderatorku, pa predvsem zanima tudi tema vzdrževanja, in sicer nekak na poddročju Umetnostij je vzDrževanje namenjeno al tehničnemu sektorju ali pa nekak sektorjo arhivov in muzejev, ampak ravno gledališče, ki ga rado imenujemo efemerna umetnost, sem moral ogromno ukvarjat s tem, kako lah sploh delamo, da gradimo na ramenih velikanov, da ne izumljamo vedno stvari na novo, seveda pa ta tema izjemno nagovarja tudi področje kulturne politike, kjer se zdi, da ni prebojal v novo, hkrati pa ni upoštevanja tega kar vse že vzpostavljeno, kaj vse je že dobro, da bi se te stvari vzdrževale in ohranjale."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1537.208,
+        "end": 1542.558,
+        "text": "Zdaj moderatorka bo Alenka Pirman, oba Dneva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1543.081,
+        "end": 1639.825,
+        "text": "In govorci pa bojo, prvi dan bosta govorca Dželo Hadžiselimović in Mateja Ratej. Mateja Ratej je kar lobočna izbira, ker je zgodovinarka, ukvarja se pa predvsem, tuk se bomo naslonil na njene raziskave, pregleduje izjemno zanimive osebne zgodbe, arhive nekih zlo partikularnih zgodb, ki jih seveda povezuje in z dežno realnostjo in pomogoče tudi z nekimi ideološkimi izbirami včasih in danes in pa seveda kaj, kaj sploh ohranjamo od preteklosti, to je, se mi zdi, ključno ideološko vprašanja zgodovine. Njen sogovornik pa bo Dželo Hadžiselimović, zdaj je smislim, da vsi, ki so stari tolk, al pa starejši, se pa stikdaj gledal dokumentarce na zagrebški televiziji, vse dokumentarca zadnjih štirideset let, ki smo gledali na zagrepški televiziji je odbral Dželo Hadžis Elinović, on je legendarni kurator bistod dokumentarnega programa, ki je pregledu sto tisoče dokumentarcev in jih kurirav za televizijo, zdaj sicer priseljejo na omehno iz Trskovaz, kjer goji oljke, ampak še vedno kurira svoj spletni dokumentarni program in pa dela za različne dokumentarne festivale, festivale dokumentarinega filma, tako da se nam je zdel tudi, da bo člok, ki je vidosvet skosetje dokumentarce, more vedeti, kjer relevantnega poveda Tonjen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1640.72,
+        "end": 1677.423,
+        "text": "Naslednji dan pa bosta sogovornika Alenke Pirman Natalija Majsova, ki se predvsem ukvarja s sojetskim filmom, ukvarjajo se pa tudi s študijami spomina in seveda spomin je nekak ključno čveška valuta pri ohranjanju in vzdrževanju, njen sogovornik pa bo Mojani Sinanović, ki je že neki let spremljevalec Festivala Mladi levi, so urednik kritiške platforme Kriterij, ravno včeraj pa je pršla vest, da je nominiran zavaronikino nagrado, ker je pesnik."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1678.081,
+        "end": 1681.692,
+        "text": "Toda dober prez."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1680.983,
+        "end": 1681.422,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1681.962,
+        "end": 1687.632,
+        "text": "Dober pesnik, kot da vabljeni na obe debati in na kavo seveda."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1689.32,
+        "end": 1717.13,
+        "text": "V torek pa bomo tudi odprl razstavo nepraktične ženske, kolektiva Škart.To je biograjski kolektiv, ki ga sestavljata Dragan Protič Prota in Žorže Balmazović Žole, onadva sta tudi že stara znanca mladih levov in v prihajata prva na festival, saj z delavnico, ker ta razstava bo rezultatene delavnica, prihajaš že v ponedeljek."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1713.434,
+        "end": 1714.379,
+        "text": "Rezultate ne delajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1717.417,
+        "end": 1758.102,
+        "text": "Ona dva sta velik poudarek, poudarek zadnje čase nameneta alternativnemu izobraževanju in vodita številne delavnice za otroke in starostnike.In tudi naša letošnja delavnica ne praktične ženske je namenjena starostnikom, in sicer bosta sodelovala z upokojenci in upokoenkami iz doma starejših občanov Tabor.In sicer bodo na delavnici kovali našpičene družbene kritične verze in jih izvezli na prtičke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1758.693,
+        "end": 1773.965,
+        "text": "Te pa bo razstavlj v parku športnega društva Tabor, razstavo si bo pomoč ogledat do konca festivala, zjesen za primer, ker to delavnico sta že večkrat izvezla, bi vam prebrala recimo izvedla in izvezlo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1774.943,
+        "end": 1781.035,
+        "text": "Dva primera, recimo, sama na Netu lažni prijatelji v Lažnem svetu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1781.828,
+        "end": 1787.262,
+        "text": "Ali pa za umirjenje nemam vreme, dok ne rešim sve problemi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1789.996,
+        "end": 1804.171,
+        "text": "Se nam je pa zdel zelo pomembno, da sodelujemo s starostnikami, saj se nam zdi, da so bili prav v času pandemiji najbolj zapustavljeni in izrinjeni na rob družbe in ne kakšna žrtev pandemija na nek način?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1806.314,
+        "end": 1812.76,
+        "text": "Nasledna predstava, kaj naj vem, kdaj bo na to torek."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1812.035,
+        "end": 1813.486,
+        "text": "Udorek, devet obseg."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1813.486,
+        "end": 1822.767,
+        "text": "Skrska Matija Ferlin tudi ne bi posebej predstavljala velik del v Sloveniji, ni prvič na mladih levih, priče bi dva tisoč sedem za svojo diplomsko predstavo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1813.503,
+        "end": 1813.79,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1823.088,
+        "end": 1837.685,
+        "text": "Vrača se v velikem slogu s triurnim solom, izjemna izjemnja predstava, premele že premiero v elektrarni, druga če to je na večji mednarodnih koprodukcij, je bila premijedno predstavljen na Vinerfest v Ohnu na Dunaju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1838.191,
+        "end": 1880.497,
+        "text": "Skajka Matija, Ferlin gre nekak zanj, kot bi v eni v trih urah pogledali skorajda dve predstavi. Prvi del predstave je bazirana pasijonu po Mateju na se pravi nabah v glasbo in prvem delu se tudi ukvarja z Bahovim življenjem in z njegovo postopno slepoto, nakar v drugem delu poveže se skupaj za neko osebno zgodovino družine z zetrpljenjem, z telesom, v ukvarju se tuk bistvu govori o sebi, o svojem telesu in o tej uporabi in izrabi.Bi so je zelo mlad človek, ampak že glede na to kaj dela, kako živi?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1881.627,
+        "end": 1916.66,
+        "text": "Zdravje fiz njegovega telesa je izredno pomembno zato, da lahko izvaja kar pač izvajajo v teh treh urah, nam pokaže veliko se referira tudi na svoje prejšnje predstave, kdo je videl prejše predstavbo blah tudi tega veliko prebral znotraj, če pa bo prvič za vas izkušnja Matija Fer Ferlina bo pa tudi prav tako bo čudovita, res mislim, mesecdi, da bo to eden vrhun, samogodno celo letošnjega festivala.Skratka razgrne ves svoj širok instrumentarij od giba do glasu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1919.933,
+        "end": 1938.682,
+        "text": "Aha, potem je pa estonska predstava ostanek odje, iz steze zitis. Predstava je treh umetnikov Mart Kangro Eroepner Juhan Ulfsak, ki so v Ljubljani že gostovalna festivalu Mladilevi s predstavo Delo na mizah, Worktable..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1939.373,
+        "end": 1951.777,
+        "text": "V delovni mizi so se predvsem spraševal, kako je znanje, kaj je znanja, kakose učimo in pred nami razgrnal vse osebne zgodbe in pa dejanska napotila, kakov lah delamo stvari."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1952.418,
+        "end": 1969.951,
+        "text": "V predstavi Icetej z Ezitis pa se ukvarjajo nekak z nezmožnostjo gledališča, skratka gre deloma za koronsko predstavo, ker je nastajala v času zaprtja, gledaljišču odvzamejo njegov najbolj ključni del, to je oder."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1970.828,
+        "end": 1998.79,
+        "text": "In že na začetku povejo, da tako kot je bo ostalo.In potem se v nekak svoji že klasični maniri lotijo ustvarjanja gledališča s ključno omejitvijo in seveda dokažejo,da se gledaljišče da delat skoraj vsako omejitvijo, je pa nekak mogoče na gledalcih, da se gremo z njimi, ker seveda ključna komponenta gledalašča je pa občinstvo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1999.904,
+        "end": 2006.249,
+        "text": "Potem imamo še eno predstavo, ki je nastajala v zaprtju in to je predstava Vita Vajsa, slaba družba."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2006.857,
+        "end": 2052.166,
+        "text": "Vito Vajs, po mojem tudi ne rabi širše predstavitve, v elektrarni je gostoval že kot heroj ter nudno je zaposlen v mladinskem gledališču, ta predstava je pa njegovo solo, kjer poskuša ustvariti gledalnišče in naselit gledalnišča z zadogajanjem v času odsotnosti ljudi, zato tolk bolj ključne komponente gledalaščev postanejo sam prostor, naključno najdeni rekveziti predmeti in mi smo to predstavo ogledal v korunskem času, kot da zdaj pa predstavu čaka soočenje z občinstvom?Torej kako, kakšna je pa slaba družba gledališča ali občinstva, ko letos spet odpre svoja brata."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2053.229,
+        "end": 2101.694,
+        "text": "Ravno prej smo sešale, da očitmo, da smo festival starih znancev, ker je večina umetnikov takih, da se na festival vrača. Zdaj je ne bi tega povezovala s tem, da nimamo nobene dobre ideje, ali pa da ne vzniknejo novem ladju umetniki, kjer jih je seveda v festivalskem programu velik, vseeno smo festival Mladi levi. Je pa res, da sistematično nekaj gojimo dolgoročnejša sodelovanja z določenimi umetniki in aktivno sledimo njihovim nekak umetniškim trajektorjem, tudi zato ker jih izberemo, ker se nam zdijo dobri in poskušamo podpret njihove kariere in pa med narodno delovanje mogoče bolj dolgoročno, se nam zdi, da klub temu doma gostovalni sistem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2066.645,
+        "end": 2068.248,
+        "text": "Veje, Alfa, da..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2102.167,
+        "end": 2206.775,
+        "text": "Velik nekih pomanjkljivosti, ki jih je korona sam še bolj dodatno razgala, si ne smemo pustiti tega, da umetnost in umetniki potujejo in gostujejo.Torej Godz Entertainment so bili na festivalu že lani s predstavo pometeno pod preprogo oziroma z inštalacijo pometeno pod preprogo so dunajski kolektiv, ki je izjemno fluiden, mi sodelujemo večinoma za delom dveh umetnikov Majde Grmenžič in Boris Čeka, v predstavi pa sporadično potem sodelujejo različni ljudje, ki torej predstava Juro Ptugov oziroma po Evropi je voden sprehod vode natura po Ljubljani nastala je na povabilo kamp nagla iz Hamburga in godzentrtejmancu razvil klasični množične turistični ogled po Evropi, kadar potovanje po Evropi ni možno.Torej ko se boste sprehodel po Ljubljani, bostev v Ljubljani sreča ključne Turistične znamenitosti, kot so pokopališče Perla Šez, večni ogenj iz Sarajeva, potem Vovkulja, ki doji Romula in Rema iz Rima, skratka nekaj ikonične podobe, ki jih lahki bosta lahko ogledal v Ljubljani, je spomislim, da se sama tura bolj kot s poskusom nekaj minimalizacije ukvarja s tem, kaj sploh je množični turizem in kaj gledamo, ko gledemo turistične znamenitosti, ki so v bistvu, ko pridejo do notoričnega statusa, kot ga majo izbrane stvari v tej turi že same nasebnike kulise, potem kino ve vasi in zakaj ne bi gostovala neče mi nemorno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2207.838,
+        "end": 2269.297,
+        "text": "Potem gostimo, ta pa je mladolivovska umetnica in oben, in oben smo, bistvu s poznalko smo bili v pragi na Damu in gledaljeno diplomsko predstavo. Predstava moje stanovanje, maje apartment, sicer nastala v predkoronskem času in lahko si predstavljate trirel, fantrirjev film Dogvil, kjer ob isto celoto rišejo skredo na tla in tako ustvarjajo ambiente in zameitve, tudi ine oben skredu in določenimi rekveziti slika pred nami svoje stanovanje, kako se je v njem odomačila, kakoga je spremenila v dom, ampak ta predstava si predstavljam, da bo po koronskem času in pa v ljubljanskih okoliščinah, kjer je lastno stanovinje obvestvo nekak težko dosegljiv ideal, imela mogoče neke druge odzvene, je pa prekrasna predstava mlade umetnice, ki z lo subtilno dela participatorno gledališčem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2270.309,
+        "end": 2297.225,
+        "text": "Potem pa mamo sedemindvajsetega avgusta, premiero že prej napovedane Leja Kokovičič.Leja Kakovičić je umetnica, ki z bunkerjem sodeluje zdaj že kar neki časa, lahko bi rekli, da je njeno sodelovanje s bunkerjam kurirano od zunaj, sogerirala nam ga je kuratorka, bivša kuratarka Praškega kvadrinala in pa zdejšnja predstojnica eni med kater na damo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2297.731,
+        "end": 2345.302,
+        "text": "Ki nam je lejo, bi sto poslala na počitniško delo in ko ustvarila s ljubezen in sodelovanje za številna leta, le je rezidenčna umetnica na osnovnej šoli, deluje z nami kot producentka.Letošnja primera na mladih levih pa je začetek delovanja dražbenih hiša v prizoritvenih umetnosti Forselj, ki je ustanovila Leja Kokovičić.Dražbenna hiška je resnična dražbene hiše, ki bo na mladih levjih prodala predstavo kolektiva Beton Limited inih Karnit Anders, vsi se vabljeni, da dražite, da dele predstave, predstava je razkosana na zelo specifični način, na spletni strani performanceforseil.com so predstavljeni vsi prodajani loti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2345.842,
+        "end": 2372.369,
+        "text": "Leja Kokovičič je drugač dramaturginja iz Agarfa T in pa magistrirala je snovalno gledališče in gledalniščev predmetov, zlo nekak informira področje vizualne umetnosti, rada se pa ukvarja s konceptualnim gledalu očem oziroma bolj konkretno z gledalniškimi ozirmoprizoritvenimi akciji, ki poskušajo konkretno delovat v prostoru ekonomije in politike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2372.943,
+        "end": 2399.656,
+        "text": "Dražbena hiša bo delovala tudi po primeri, prva prodaja bo obistvo za nas delovni preisk v zdražbe in potem potem bomo dražbeno hišo seveda izboljšal, naredil še bolj uspešno in prodajal predstave še naprej. Zdaj prva priložnost za nadaljevanje projekta pa bo septembra, ker bomela na konferenci Rišej Artist tok, v katerem bo predstavlja uspehe prve prodaje države."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2400.905,
+        "end": 2411.148,
+        "text": "Mogoče bi tudi na tem mesec sam dodala, da ne pozabim potem, vsi tisti, ki boste odražbeni hiši oprizoritvenih umetnosti forsej poročal."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2411.671,
+        "end": 2427.888,
+        "text": "In si ne želite vpisati kot dražitelji, ker nimate na mej nadražiti in kupi didela predstave, mi lahko opišete in vam bom dala navodila, kako se lahko upišate kot novinarji in dobite prost dostop do tega dogodka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2428.411,
+        "end": 2432.663,
+        "text": "Čeprav iz tudi dodajam vsak obiskovalec, je tudi kupec, kot da apeliraša val."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2432.663,
+        "end": 2432.917,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2432.917,
+        "end": 2444.78,
+        "text": "Da se registrirate, date kreditno kartico, ker mogoče tu čevnaprej ne načrtujete, boste na sami dražbi začutil potrebo po nakupu kosa umetniškega dela."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2433.355,
+        "end": 2434.098,
+        "text": "Za seriji so."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2435.6,
+        "end": 2436.629,
+        "text": "Na kartico."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2441.27,
+        "end": 2441.827,
+        "text": "Bo po nakonu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2444.375,
+        "end": 2447.277,
+        "text": "Pa tudi izkušnja je bolj celost, na česte dražitve."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2446.703,
+        "end": 2447.024,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2447.024,
+        "end": 2447.294,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2447.294,
+        "end": 2447.328,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2448.408,
+        "end": 2448.425,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2448.425,
+        "end": 2448.442,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2448.442,
+        "end": 2448.796,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2451.074,
+        "end": 2457.672,
+        "text": "Zdepas smo že proti koncu predstavili, da jugamo samo žene tudi drugi soboti, pa drugim smo osemindvajsetega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2453.504,
+        "end": 2454.027,
+        "text": "Vzpomečiš, da bi bilo vložen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2454.584,
+        "end": 2455.023,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.023,
+        "end": 2455.057,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.057,
+        "end": 2455.175,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.175,
+        "end": 2455.276,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.276,
+        "end": 2455.327,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.327,
+        "end": 2455.394,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.394,
+        "end": 2455.445,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.445,
+        "end": 2455.512,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.512,
+        "end": 2455.563,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.563,
+        "end": 2455.613,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.613,
+        "end": 2455.63,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.63,
+        "end": 2455.647,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.647,
+        "end": 2455.664,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.664,
+        "end": 2455.681,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.681,
+        "end": 2455.698,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.698,
+        "end": 2455.715,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.715,
+        "end": 2455.732,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.732,
+        "end": 2455.748,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2455.748,
+        "end": 2455.782,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2455.782,
+        "end": 2456.221,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2456.221,
+        "end": 2456.373,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2458.246,
+        "end": 2523.451,
+        "text": "Lirični utrinki v mestu, to je bi projekt, ki tu je najuspešnejših projektov bunkerja. Prvi smo ga predstavili, bil na rem prav za namene mladih levo, toj Flešmob opera štirje izvrstni vrhunski slovenski operni pevci, belgijski režiser takrat je nastal po sklopu nekih čudnih naključij in zdelo se nam je, da ga bomo leta, ko smo ga predstavili leta dva enajst, da se bo zgodil samo trikrat na teh treh lokacijah v Ljubljani, ampak zgodba se razvila pa polno madrugače.Ta opera še izmeri zlo aktivne in zloživa po desetih letih manj, ne vem, koliko ponovitev, ker jih več ne moremo sploh preštet in sledit.Skraka letos smo se odločili, da obbeležimo deseto obletnico, tako da še enrat ponovimo, lirične utrinke, to sicer flešmov opera, ki naj bi vas presenetla in pa, kjer smo zdi, kar povedala, kdaj pa kje bo, ker boste vseeno zloživali tučev ustavili, da se vzgodila skratka Ljubljanska tržica v soboto dopoldne ob desetih in enajstih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2525.746,
+        "end": 2549.759,
+        "text": "Potem pa predstava ta zgradba govori resnično, to je performativna instalacija Zgodovine Skopja, ki je na Praškem kvadrenalu leta dva tisoč dvetnajst prejela prvo nagrado, je delo vizualnega umetnika in aktivista iz Makedonije, Filipa Jovanovskega, on pa tudi je prvič na festivalu kot umetnik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2550.923,
+        "end": 2588.048,
+        "text": "Ki se zavzema za ohranitev pomena javnosti in javnega prostora, na primeru železniškega doma v skupju pokaže, kako pomembna je arhitektura in da ni samo funkciji lepega, ampak tudi, kakšen pomen ima za skupnost in za prebivalce, ki to arhitekturo uporabljajo. Predstava je, čeprav govori specifično oskopju, ki je skoraj vzorčni primer brutalne preobrazbe mesta, pa lahko na nek način govorejo vseh mestih, ziroma se lahko naj najdemo tudi prebivalci Ljubljane v tej zgodbi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2589.28,
+        "end": 2622.035,
+        "text": "Na festivalu je še predstava Tijožitje, lutkovnega gledališča Ljubljana, Tina Grabnarja in Tjaša Brtoncl. Tudi tuki bom sam odbrzela skos, ker predstavo zelo verjetno poznate, Tin Grabnar in Tijaša Bertoncl sta svoji izhodišče, da delata v lutkonjem gledališču, vzela zelo resno, lutkono gledalnišča ima večinoma predstave, kjer animirajo nežive objekte in v tijožitju animirajajo nagačene zajce."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2622.929,
+        "end": 2646.638,
+        "text": "Tihožitje je predstava, ki večinoma nekak komunicira skozi ambiente, ki so fenomenalni in v bistvu kreira neke pokrajine, ki se iz vseh kosov sveta zvočne pokrajine, vizualne pokrajne, v katere naseljuje te nežive predmete, seveda pa na zajci oziroma cela predstava."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2647.87,
+        "end": 2682.548,
+        "text": "Nekako pominjajo na to, kaj sploh je življenje in nam postavljajo vprašanje, kdo smo mi, ki seveda te nežive predmete animiramo, kdospolj so živali, v kakem odnosu smo z njimi, a kaj spoloh zajec pomeni lahk v pravljici na odru ali drugače v življenju in pa predvsem nas ti najživi predmeti neprestano gledajo, to se je menec delu predstavi, da so odkoanimirani, da nas iz odra neprestano gledavajo, kot da se tudi mi neprestando sprašujemo o tem, kdo smo mi, ki nas gledata zajec."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2672.17,
+        "end": 2672.204,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2672.204,
+        "end": 2672.221,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2672.221,
+        "end": 2673.284,
+        "text": "Da se odkuanimirajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2684.911,
+        "end": 2685.198,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2685.94,
+        "end": 2738.945,
+        "text": "No, ta skupina ni bilo še pa nikoli na mladih levih, gre za kolektiv štirih prijateljic in igralk iz reke, ki so same sebe tudi poimenovali kolektif igralke, to je njihov drugi projekt, tokrat sodelujejo z slovensko režiserko Tjašo Črnigo, predstava se pa imenuje babice, je gre za dokumentarno gledališče, zgodbe, ki jih prepovedujejo temeljijo na osnova sorestnične osebe, zgonbe resničnih žensk in predvsem se ukvarjajo s položajem upokojenj, konkretno se voda na Hrvaškem, se prav tako lahko nekdo, ki je delal štirideset let ali kakor koli zdaj živi po odpragu Mrejuščine.Na Hrvastkem so odglede dva tisoč pet, če nabiraš plastenke in jih vračaš trgovino dobiš za plastenko mislim, da petdeset lip in to je bistvo nekak leit motiv cele te predstave."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2688.05,
+        "end": 2688.877,
+        "text": "V teh levih, hrbnih, v teh levih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2739.822,
+        "end": 2774.888,
+        "text": "Te žene, te štiri ženske, kjer izgodbe se predstavljajo vse so našle zes svoje obstane, mislim, kako lahko preživijo jedovisto nabirajo te plastenke po mesti, tako da istočasno so ne, popolnoma so v mestu nevidne, istočastno so pa na vseh dogodki vezel, vsekrat se dogaja, ampak to gledajo z drugega strelišča, ne kako se bo zabavale, ampak kjer bo veliko ljudi, da bo jo nabrale veliko plastenk.Od tu izgodba predvsem usmerjena na Hrvaškem pa mimo že tema absolutno univerzalne in da se pač vsi moramo spraševat, kako in kaj je tudi razmišljal sami o sebi?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2777.116,
+        "end": 2779.293,
+        "text": "Če je to, kar so v nemogli na tega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2779.293,
+        "end": 2779.934,
+        "text": "Predvsem, da bi bilo vse dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2780.542,
+        "end": 2791.966,
+        "text": "V športnem društvu Tabor oziroma na zelenici Zraven bomo v okviru festivala začel proces vzpostavitve nevenkine Gagaja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2792.607,
+        "end": 2896.169,
+        "text": "Od njene februarske smrti do zdeji se zelo trudno vzpostaviti več sistemov, kako nekaj knegovat spomin nanjo, da bi bil to skladu z njo. Eno je seveda, da delamo naprej, da smo po druge iniciative so kot na primer društvo prostorošje v sodelovanju z nami vsemi vložilo pobudo, da bi se po njej imenovala ulica oziroma trg, mama njeno spominsko knjigo, njena pisarna nekako staja njene pisarna in je na voljo rezidenčnim umetnikom a ena izmed iniciativ je pa, da bi se na taboru, kjer jo na petnajst let delovala in poskušala vzpostavljati tudi nekak sisteme sodelovanja kulturno četrt tabor, da bo bil en del tabora posvečen.Zdaj, ko smo razmišljali, kaj bi bilo všeč, smo se vsi strinjal, da mora za javni prostor in da morajo za nekakovostni javniprostor, ki ga bo ljudje uporabljale in v katerem bodo uživali.Z izklju skupij z mestno občino smo določili trato ob športnem društvu Tabor in skupij z Kudom Obrat in pa z Inštitutom za politike prostora, zmajev Simoneti bo od festivalskega srečanja naprej, kjer se bomo pofočkal vsi deležniki, ki bi radi sodeloval pri procesu, začel nek skupnostni proces, kjere bi in ljudje iz četrti in iz organizacij, ki delujemo na taboru, tudi z njene družine, v bistvu skupaj zasnoval ta prostor, zdaj je rahlo degradiran in ne uporabljen, potem pa bi ga radi naredil ponovno nespektakularnega in diznilendovskega, ampak nekak prijaznega lokalnevo prebivalstvo in mimoidočim. Imenoval se bo pa Nevenkin Gaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2897.907,
+        "end": 2938.913,
+        "text": "Letos sodelujemo tu z inštitutoma vilicidek, to je platforma za raziskovanje v polju sodobne glasbe. Njihov program smo povezali, maj program rezidenc in potem se zmeraj povezujejo z nekimi festivali ali različnimi javnimi dogodki, kjer uspejo predstaviti rezultate te svoje rezidence v okviru mladih levosov od razgodila dva koncerta štiriindvajsetega in sedemindvaja setega avgusta ob sedmih pred športno dvorano Tabor.Gostili bomo pa skladateljico in seksofonistko Brino Kren in skladitelji in seksifonista Lenar Tadeboka vsakega za svojo glasbeno zasedbo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2940.314,
+        "end": 2979.413,
+        "text": "Vzporedno s festivalom pa bo organiziramo tudi Poletni laboratorij akt, Bunker je že od leta dva tisoč deset del mreže, ki skuša povezati problematiko okoljskih sprememb in umetnosti.Najprej se ta mreža imenovala onfin ajs na tankem ledu, kasneje pa in medžin 2020.Zdaj leto dvajset, dvaja set je za nami in mogoče ni bilo tako kot smo si ga mi predstavljali, zdaj se partnerstvo imenuje Ekt, ACT kot akronim za altclimate tranzišem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2980.325,
+        "end": 3008.725,
+        "text": "Ena od skupnih aktivnosti te mreže so tako imenovani poletni laboratoriji, ki potekajo v bistvu želcamega začetka mreža, laboratorija se udeležujejo izbrani umetniki in sicer jih izbere laboratoriju bosta dramatur Genaterji Žežel in filmska režiserka Ivana Bogrinc Vidalin."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3009.417,
+        "end": 3015.188,
+        "text": "Cilj teh laboratorijev je, da umetniki skupaj z..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3015.88,
+        "end": 3043.387,
+        "text": "Znanstveniki predvsem preživijo čas skupaj z neko željo, da umetnost ne bi bila le dekoracija in ilustracija znanosti in da znanos ne bi ostala samo na svojem otoku.Umetnike in umetnice bosta v Ljubljani v nek začasni kolektiv povezali Marija Lusija Kruz Koreja, s katero sodelujemo že zelo dolgo, je umetnica in aktivistka, sama si trenutno reče varuhinja narave."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3037.295,
+        "end": 3037.615,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3043.927,
+        "end": 3057.14,
+        "text": "Gardionov nečer in pa Gojši Ferflösem, tudi belgijska umetnica in raziskovalka, ki pa si reče Toksik detektiv, se pravi strupena raziskovalka smo uprevedali, detektivek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3058.203,
+        "end": 3076.732,
+        "text": "Tema te letošnjega ljubljanskega laboratorija so urbana drevesa, drevese v mestu, ki bodo sodelujoči raziskovali v praksi in sicer krstovčki na ramenu in različnimi orodji teorijo umetniškim raziskovanjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3077.272,
+        "end": 3094.72,
+        "text": "Pri tem jim bo pomagali gostujoči predavatelji, ki sodelujejo na različne načine na tem laboratoriju, in sicer urbanistka Maja Simoneti, filozof Luka Činkovemani, umetnica Špela Petrič in biologinja Katja Rebolj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3095.598,
+        "end": 3122.26,
+        "text": "Bodo pa umetniki na laboratoriju zarisali nek zemljevid dreves in zgodb s temi drevesi povezanimi, ta del pa bo tudi odprt za javnost, in sicer jih bomo predstavili obiskovalcem v petek, to je sedemindvajsetga avgusta, ob petih začetkom v parku Tivoli, potem pa bo sledil sprehod med temi drevesi in zgodbami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3113.317,
+        "end": 3114.127,
+        "text": "Sedem in dvajset."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3122.26,
+        "end": 3122.294,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3123.728,
+        "end": 3161.714,
+        "text": "Kot en del obprograma festivala gostimo tudi slovenske gledališke založnike, to so emanat knjižnica Magal L Maska, Ljubljana in slogi. Za obletnico maske je Toni Soprano mene glejte izdelala prevozno prenosljivo knjigarno, ki bo ugostovala vzporedno ob debatnih kafani in drugih dogodkih v Šadatabor na igrišču, absolutno bojo na voljo knjige, napovedujejo tudi mogoče kak mikrotovodek, ampak predvsem mogoše ob posedanju in ob debatah, če je takoga navdihne, da si kupi kakvo knjigo za nadaljnje branja in razmišljanje."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3162.743,
+        "end": 3170.692,
+        "text": "Na pred štirimi leti smo prvič z umetniško intervencijo zaznamoval tale zunanji izid stare elektrarnecih vsakast."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3171.367,
+        "end": 3180.395,
+        "text": "Takrat je to nekaj postavilo naše okno v svet, neki neka točka spremembe, ki komunicira z ulicom."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3180.918,
+        "end": 3187.28,
+        "text": "In vsaki dve leti povabimo k sodelovanju eno gledališko ustvarjalko."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3187.803,
+        "end": 3196.932,
+        "text": "In vizualno umetnico, ki ustvarja v gledališču in ki je svojo ustvarjalnost odkala to dežje v projekte v Stari elektrarni."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3197.455,
+        "end": 3208.289,
+        "text": "Prvo leto je bila to prav, ko jo je ravno omenjala Alma, Toni so prano mene glejte, ki je naredila velik zapis aplavz in potem naslednje leto aplavzna kvadrat."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3208.964,
+        "end": 3227.847,
+        "text": "Nato pa smo v petnajstletnici stare elektrarnega zelovanja povabili scenografinjo Uršo Vidic, ki je v zapis vzvočni zapis besede svoboda ujela vsaj imena umetnikov, ki so v petinajstih letih delovali v stari elektrarni.Ta zapis še vedno lahko vidite zdaj na zidu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3228.404,
+        "end": 3238.478,
+        "text": "Letos smo k sodelovanju povablji vsesstransko gledališko ustvarjavko Petro Veber, ki deluje kot oblikovalko svetlobe, fotografinja in tudi dramaturginja predstav."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3239.187,
+        "end": 3244.722,
+        "text": "Petra Veber v svojih večplastnih delih ponovadi preprosto gesto."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3245.313,
+        "end": 3255.623,
+        "text": "Zadane kakšno očutljivo družbeno točko in tudi za letos si je zamislila bistvu izdelacijo iz črk."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3256.147,
+        "end": 3269.005,
+        "text": "Znotraj katerih pa lahko sami najdemo različne pomene, pomene, ki storicimo zlo pomembne za ta čas, za našem čas eden izmed njih, ki bo zelo lahko ga prebratbo uživela umetnost, umetost v živo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3269.697,
+        "end": 3281.307,
+        "text": "Ker pa so nam iz elektrize Ljubljana sporočili, da bodo zaradi nujnih opravil tole steno moral podreti in popravi transformator, ki stoji za to steno."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3281.813,
+        "end": 3289.053,
+        "text": "Smo se odločili, da odprtje te instalacije prestavimo predvidoma na november, ko bo stala nova stina, ki bo enaka."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3289.677,
+        "end": 3296.63,
+        "text": "Tako da v bistvu novembra odpiramo instalacijo Petre Veber na zahodni steni stare elektrarne."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3297.862,
+        "end": 3302.553,
+        "text": "Ta trenutek s predstavitvijo programa mladih levo zaključujemo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3303.413,
+        "end": 3313.117,
+        "text": "Bi pa rada povedala še nekaj praktičnih stvari v festivalu, kot vsako leto tudi letos z nami razdeluje veliko prostovoljcev skoraj tridesetih je."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3313.792,
+        "end": 3356.367,
+        "text": "Prostovoljci s prostovolji sodelujemo že dolga leta, vsako leto pa prostovolstvo na mladih levih, prostovolnstvu na mladih levih vabimo vse ljudi, ki si želijo spustavlja nove stike, ki se želajo nekaj izkušnje gledališča, festivala za oderja, ki si želijo predvsem, bi so dobre družbe in videti veliko umetnosti, to ni težko delo, to niso neka opravila, ki so zoperna in težkodih je upravljala, za ta opraviloma mu plačane, plačanje sodelavce, ampak v bistvu predvzem za to, da se ima na festivalu fino in da izkusijo nekaj novega in drugačnega, je pa dejstvo, da so veliko prostovoljcev iz leta v leto k nam vrača."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3356.941,
+        "end": 3377.343,
+        "text": "In tudi zdaj še vedno vabimo, če je še kdo zainteresiran, da se nam pridruži kot prostovoljnje na leto našelem festivalu veliko bo delavc umetniki, direktnega dela z umetnikom, kar jo bistvu najbolj zanimivo, vabljeni pa so tudi na vse naše družabne dogodke in na festivalski piknik, ki ga organiziramo sredi festivala za vse sodelavce umetnike in prostovoljce."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3378.001,
+        "end": 3385.088,
+        "text": "Tokrat, mogoče ena posebnost, festivalske vstopnice še vedno stanjajo en simbolični evro."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3386.388,
+        "end": 3399.584,
+        "text": "Seveda pa so na vseh prizoriščih festivala na voljo škatle, kamor lahko donirate vaše prostovoljni prispevke po vaših zmožnosti, zelo jih bomo veseli in obljubimo, da jih bo pridno porabili za umetnost."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3400.192,
+        "end": 3422.078,
+        "text": "Tokrat pa dajemo možnost tudi uporabe oziroma plačila s plačilnimi boni, ki so letos na voljo, to so boni enaindvajset. Za plačilo stimi bonij smo pripravili tudi posebne vstopnice, ki je varirajo od deset do petdeset evrov, torej z njimi lahko plačate prav zelo eno celotno vstopnico za odogode, kot bi stala mogoče v nekem normalnem."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3422.585,
+        "end": 3423.783,
+        "text": "A okviru?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3424.407,
+        "end": 3451.947,
+        "text": "Ampak zato pa čevabimo, da prinesete sabo kopijo osebnega dokumenta in izpolnjen obrazec za to, da lahko bolj uporabite.Se prevečujemo zato ne všečnost, taj kar zoper napak dajemo možnost seeno, upamo, da se boste izkoristli in hkrati opozarjamo, saj nekatere predstave že precej polne, da so zato rezervacije za dogodke festivalske obvezne."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3452.707,
+        "end": 3492.025,
+        "text": "Da se lahko zgodijo spremembe programa, mogoče pride do ozmanjšanja števila ljudi, ki bodo lahko v nekem prostoru in zato nam prosim pustite kontakte, da vas lahko kontaktiramo, da lahko stvari spremenimo, žal ni nimamo vpliva na to, jih hkrati prosimo, da upoštevate pravilo PcT, ki ga bomo žal morali letos tudi preverjati, upamo, da za solidarnost, za zdravje vseh, da pač bomo to upoševalo si in da bo festival kljub tem komplikacijam, ki sem hrano kar naštela še v lepo in dobro skos."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3492.532,
+        "end": 3502.184,
+        "text": "Rad bi samo še to povedala, da takoj že med festivalom začenimo naslednjo sezono stare elektrarne z izobraževalnim programom Parl."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3502.792,
+        "end": 3522.839,
+        "text": "Kje ga delamo skupaj z različnim partnerji, vodi ga pa bija negativa. Nadaljujemo z gibanico, to je bienalni festival sodobnega slovenskega plesa, nato pa napovedujemo novo primero, a kolektiva beton LTD, hopla vir leben, bo naslov?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3523.362,
+        "end": 3551.712,
+        "text": "In veliko konferenco, zaključno konferencjo velikega menarodnega projekta Rijšejp, ki se bo zgodila v Ljubljani od dvaindvajstka do petindvaja s septembra.Za naprej vam bom povedali pa o naslednji novinarski konferenci, še v zesetbra, sam toliko da veste, da takoj nadaljujemo, zelo pa odpiram proste zaprašanja, saj vem, da bi že dolgi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3554.108,
+        "end": 3571.675,
+        "text": "Ok, če ne paj smo na voljo za izjave, fotografije in ostale materiale vam lahko pošljem posebi sicer pa vam poslala danes v mejlu, na posebno linko na Drogbok so soči svoji vizualni materiali, nekajši teksto programu, naša knjižica v eobliki."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3556.252,
+        "end": 3556.64,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3566.478,
+        "end": 3566.849,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3570.376,
+        "end": 3571.0,
+        "text": "Da, v iobredi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3571.962,
+        "end": 3583.167,
+        "text": "Če karkoli potrebujete, pa prosim me kontaktirajte, dokler se pa še nisem, pa projšem še vpišite na talo listoprisotnosti. Hvala za potrpežljivost in bo slušanje, hvala z družbo!"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3584.483,
+        "end": 3587.116,
+        "text": "In se vidimo na festivalu v Nadi levi."
+      }
+    ],
+    "runtime_sec": 465.32200360298157
+  }
+}

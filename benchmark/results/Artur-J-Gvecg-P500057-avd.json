@@ -1,0 +1,1030 @@
+{
+  "file_id": "Artur-J-Gvecg-P500057-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500057-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.07988812454822398,
+      "miss": 0.07591360191937058,
+      "fa": 0.0039745226288534176,
+      "confusion": 0.0,
+      "total_duration": 910.2979999999966
+    },
+    "der_collar0.25": {
+      "der": 0.067750509477092,
+      "miss": 0.064024482977264,
+      "fa": 0.003726026499828014,
+      "confusion": 0.0,
+      "total_duration": 854.7979999999966
+    },
+    "wer": {
+      "wer": 0.20336391437308868,
+      "ref_words": 1962,
+      "hyp_words": 1796
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 6.338,
+        "text": "Stanje v bolnišnici, saj v naši, je ta hip stabilno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 6.979,
+        "end": 9.762,
+        "text": "Smo v eni višji fazi strategije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 10.595,
+        "end": 19.517,
+        "text": "obravnave COVID-19 bolnikov, kot je določena s državnim načrtom, tako da sta odprti še dve bolnici, to veste, bolnik in celje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 20.457,
+        "end": 33.999,
+        "text": "Na ta način smo nekolik zmanjšali pritisk nauke celoblana, tako da trenutno imamo bolnike v DTS-u, v eni hali in pa na infekcijski kliniki, intenzivni terapiji in enem modelku."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 34.619,
+        "end": 39.5,
+        "text": "Za naslednji teden planiramo dodatno razširitev kapacitet"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 40.16,
+        "end": 46.803,
+        "text": "v DTS-u, polintenzivne postelje in povečanje intenzivnih postelj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 47.743,
+        "end": 53.465,
+        "text": "Verjetno bo pa treba odpreti še nekaj dodatnih kapacitet za bolnike, ki ne potrebuje intenzivne terapije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 54.265,
+        "end": 62.388,
+        "text": "Če vas zanima glede strukture bolnikov, poprejša starost bolnikov je tam okrog 64 let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 63.389,
+        "end": 68.771,
+        "text": "Tisti, ki ležijo na intenzivni terapiji, so nekoliko starejši, kot tisti, ki so na navadnih oddelkih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 69.151,
+        "end": 74.412,
+        "text": "Imamo tudi posamezne bolnike mlajše od 50 let."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.932,
+        "end": 80.494,
+        "text": "Večinoma so ta hip zdaj bolniki, bi rekla, 65 in navzgor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 81.434,
+        "end": 86.535,
+        "text": "Posamezni pacijenti so bili zdaj v zadnjem mesecu tudi iz domov za starejše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 87.275,
+        "end": 98.638,
+        "text": "Njih je bilo prav zelo veliko, tudi sicer teh zelo starih, če smem tako reči, ni več veliko, ker ta populacija pa še kar se mi zdi dobro precepljena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 99.138,
+        "end": 100.618,
+        "text": "Koliko je cepljenih?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 101.459,
+        "end": 102.299,
+        "text": "Zelo malo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 104.619,
+        "end": 116.242,
+        "text": "Takih, ki so bili polno cepljeni, praktično vsi te so pa imeli neka stanja osnovna, zaradi katerih pa čujmulski odgovor ni bil tak, kot bi moral biti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 116.282,
+        "end": 121.563,
+        "text": "Govorim predvsem o volnikih, ki so na kemoterapiji, bioloških zdravilih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 122.203,
+        "end": 128.985,
+        "text": "Mar si kakšen od teh volnikov sploh ne razvije protiteles, ne če dobi COVID, ne če ga cepmo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 129.125,
+        "end": 133.586,
+        "text": "In jih je treba potem po sebi ščitati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 133.966,
+        "end": 138.047,
+        "text": "Zdaj, številke so tako mehne, da je to nemogoče primerjati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 138.647,
+        "end": 141.927,
+        "text": "Mi imamo, prav lahko rečem, da so bila kar vsa cepiva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 142.747,
+        "end": 146.468,
+        "text": "Načni, tako da breka, zdaj pa eno cepivo iztopa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 147.488,
+        "end": 152.189,
+        "text": "Ampak, ker so tako mehne številke, vsako cepivo pravzaprav veliko težo predese."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 153.589,
+        "end": 157.33,
+        "text": "Imamo enega dujenčka, ta hip, ker je tudi mamica bolna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 158.825,
+        "end": 164.951,
+        "text": "Drugače pa so otroci bili zelo, zelo v manjšini po samezni primeri."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.091,
+        "end": 174.441,
+        "text": "Tudi sicer vemo, da otroci saj do sedaj niso potrebovali hospitalizacije v takem obsegu kot odrasli, tudi če so zboljeli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 176.037,
+        "end": 189.821,
+        "text": "Nimamo tega občutka, edino kar pa je nekaj, ki kaže, da delta različica morda bolj okvarja sluh kot ostale variante."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 189.961,
+        "end": 195.503,
+        "text": "To se tožijo bolj neki, sploh tisti po prebolelem COVID-u, da slabše slišijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 196.143,
+        "end": 198.764,
+        "text": "To je pa tudi zaenkrat edino, kar smo upozili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 200.472,
+        "end": 202.633,
+        "text": "Ja, to je kar skozi stalen dotok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 203.814,
+        "end": 210.738,
+        "text": "Nekaj takih, ki so bili pač hospitalizirani in rabijo potem še kontrole."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 211.239,
+        "end": 214.561,
+        "text": "Te delamo tukaj tukaj pri nas na kliniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 214.641,
+        "end": 223.066,
+        "text": "Nekaj takih, ki so bili hospitalizirani, pa morda niso bili naročeni na kontrolo ali pa imajo še kljub temu težave."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 223.366,
+        "end": 225.407,
+        "text": "Potem so pa kar..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 226.628,
+        "end": 235.973,
+        "text": "nekaj bolnikov, ki niso rabili bolnice, ki so po njihovi lastni oceni imeli še kar lahek potek, pa imajo zdaj hude težave."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 235.993,
+        "end": 245.418,
+        "text": "V smislu najhujša težava, ki jo navajajo, je res taka huda, svinčena kronična otrojenost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 245.678,
+        "end": 253.462,
+        "text": "Kadrovski problem je strašno velik in bom rekla, tudi globalno verjetno na hitro ni rešljiv."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 254.185,
+        "end": 263.155,
+        "text": "Tudi medicinske sestre rabijo določeno izobraževanje, ki traja kar nekaj časa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 263.195,
+        "end": 268.481,
+        "text": "Recimo, da je medicinska sestra sposobna dela za najtežjimi bolniki v IT3."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 268.581,
+        "end": 270.283,
+        "text": "To je en problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 270.343,
+        "end": 273.226,
+        "text": "Drugi problem je to, da kader odhaja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 274.368,
+        "end": 281.678,
+        "text": "Iz različnih razlogov, veliko je delovnih mest zdaj na voljo v domačih krajih, v bližini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 282.098,
+        "end": 292.012,
+        "text": "Mi imamo ljudi, ki so se vozili spod četrtka iz Celja in še oddaljene, te pač zdaj dobivajo delo blizu svojega doma."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 292.627,
+        "end": 303.452,
+        "text": "To drugo navoljo so tudi delovna mesta od pondelka do petka, brez nočnih, brez popovdanskih ali pa komejkaj, brez vikendov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 303.612,
+        "end": 314.476,
+        "text": "Imamo računete, da eno povplečna medicinska sestra zdaj na kliniki za infekcijske bolezni je delala tudi po tri vikende na mesec."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 314.656,
+        "end": 320.699,
+        "text": "Majo tudi več kot osem nočnih do devet in se predstavljate, kakšen obremenitev"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 321.179,
+        "end": 324.261,
+        "text": "sploh za mlade mamice, z družinami je to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 324.801,
+        "end": 337.087,
+        "text": "Tako da me ne čudi, da odhajajo, kaj ti finančna spodbuda, pa spet ni taka, da bi bila razlika v plačilu tako velika, da bi se komu to zaradi denarja splačalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 337.828,
+        "end": 347.093,
+        "text": "Res bo treba sistemsko te stvari urediti, če nočimo, da se nam zgodi to, kot v Ameriki, kjer ne vem, koliko tisoč postelj vsak dan zaprejo za to, kar ni sestel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 348.517,
+        "end": 363.628,
+        "text": "Pri nas na kliniki nimamo nič postelj zaprtih, čeprav morda ste zaznali v medijih kaj drugega, kajti naša intenziva je tudi prej imela 10 postelj, zdaj imamo 16 postelj in vsi vdelki so odprti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 363.728,
+        "end": 373.736,
+        "text": "Glede stanja zaprtosti po kliničnem centru, pa moram reči, da je to vprašanje za strokovno direktorce oziroma za predstojnike večjih klinik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 375.432,
+        "end": 400.36,
+        "text": "No, zdaj je tako, mi, če gledamo podatke iz drugega vala, ko smo res imeli neznansko veliko število, smo imeli največ na vrhuncu nekaj čez 350 navadnih bolnikov in skoraj 70 intenzivnih bolnikov, plus seveda še vse ostale intenzivne postle so bile odprte in tudi oddelki, glavno so delali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 400.66,
+        "end": 415.736,
+        "text": "Zdaj, težko si predstavljam, da bi ta podvik še enkrat ponovil, brez kašnega izrazitga, preosmerjanja kadra in pa dejanskega zapiranja ne-covidnih programov, česar si pa res ne želimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 416.557,
+        "end": 427.508,
+        "text": "Ker ne gre tukaj samo za tiste življenjsko ogrožene bolnike, ampak tudi za bolnike, ki trpijo in ki bi mogoče en operativni poseg izredno izboljšal kvaliteto življenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 428.429,
+        "end": 434.295,
+        "text": "Ko da bi ste izkoristila to priliko, da bi pač pravzaprav res prosila,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 435.136,
+        "end": 440.362,
+        "text": "da ljudje ne pozabijo na te ukrepe, ki smo se jih držali vse te mesece."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 440.983,
+        "end": 446.269,
+        "text": "Govorimo o maskah, govorimo o razdaljah, govorimo o prezračevanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 446.709,
+        "end": 452.396,
+        "text": "To bo zdaj v meri bolj aktualno, ker se bliža jesen in zima."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 452.676,
+        "end": 455.399,
+        "text": "In pa seveda o cepljenju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 456.28,
+        "end": 467.982,
+        "text": "ki je trenutno pravzaprav edini ukrep, ki nas nekako navdaja z upanjem, da bomo te velike številke zmanjšali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 468.242,
+        "end": 470.142,
+        "text": "To je samo igra številka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 470.202,
+        "end": 484.505,
+        "text": "Seveda, nekatere številke so boljše kot druge, kar pravzaprav nas zanima, je, da cepivo prepreči težek potek in da prepreči smrt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 485.305,
+        "end": 488.546,
+        "text": "To pa so vsa cepiva kar predvsej učinkovita."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 489.047,
+        "end": 502.812,
+        "text": "Tudi ne vem, koliko, pravzaprav, kakšno je znanje o tem, če govorimo o učinkovitosti cepiva, kaj si recimo vi konkretno predstavljate, če bom jaz rečen, da ena cepiva učinkovito 40%, ali pa 50%, ali pa 60%."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 502.912,
+        "end": 509.095,
+        "text": "Ko da je to treba tudi v pravih kontekstih nekako razumeti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 509.575,
+        "end": 513.157,
+        "text": "Kar nas zanima, se pravim, je to, da bolnik ne pride v bolnico,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 514.347,
+        "end": 520.689,
+        "text": "da ne zboli s težko obliko, zaradi katere bi morda potreboval intenzivno terapijo ali pa celo bok na den, da umre."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 521.809,
+        "end": 529.112,
+        "text": "In seveda, da cepivo vsaj do določene mere preprečuje prenos okužbe z tistega, ki vseeno zboli, na druge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 529.772,
+        "end": 531.613,
+        "text": "In vsa cepiva to omogoča."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 531.773,
+        "end": 537.715,
+        "text": "Nikoli pa ni bilo v zgodovini medicine še 100% učinkovitega cepiva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 537.815,
+        "end": 538.915,
+        "text": "To pa morate vedeti, ker"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 539.255,
+        "end": 546.392,
+        "text": "imamo upravka z živimi organizmi in biološkimi materijali in tukaj je veliko variacij možnih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 548.829,
+        "end": 569.145,
+        "text": "Tega ne morem komentirati, prvi zato, ker to nekako o imenih ne govorimo, drugo bi pa vseeno rada vedla, da ocena zahtevnosti je subjektivna, kajti objektivne ocene težkega poteka pomenijo, da je bolnik zaradi tega dejansko hospitaliziran."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 569.545,
+        "end": 576.433,
+        "text": "Vsekakor pa ne govorim zdaj o ministrci, govorim o povprečnem bolniku, ki zboli doma za COVID-om."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 577.274,
+        "end": 589.908,
+        "text": "Če si predstavljate, da imate 4, 5, 6, 7 dni vručino 40, da vas čisto vsaka kost in koščica boli, boste sigurno tudi sami rekli, da ste imeli zahtev do oblika COVID-a."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 592.023,
+        "end": 602.989,
+        "text": "Ne, ta hip ne, ker so številke premehne za kakr štokolj primarjavamo temi cepivi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 603.089,
+        "end": 621.418,
+        "text": "Ja, to pa je problema, ker praktično, če gledate na povedi, nas vrhunec čaka tam nekje že skoraj da začetku oktobra, tako da če se gredo ljudi danes cepiti, bodo ravno takrat morda imeli polno zaščitovno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 623.326,
+        "end": 628.79,
+        "text": "Dej, ki ščiti, ne pa tako kot polno cepljene."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 629.01,
+        "end": 645.141,
+        "text": "Glede vrtcev in šol bi rekla, da problem tukaj vidim predvsem v tem, da otroci, ki sicer ne zbolevajo s težko obliko, narabijo bolnice in relativno redko kdaj doživijo težke posledice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 645.601,
+        "end": 655.107,
+        "text": "prenesejo okužbo v okolje, kjer imamo rizične bolnike, kjer imamo krhke ljudi, kjer imamo slabo zaščitene ljudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 655.848,
+        "end": 673.5,
+        "text": "Tako da, če se bojo te ukrepi PCT spoštovali, upam, da so naši šolniki odgovorni vsebe, ki vejo, da imajo pravka ne samo z otroci, ampak tudi še z celo družino, ki je vzad za otroko, potem bomo morda"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 673.9,
+        "end": 675.761,
+        "text": "ta del preprečal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 675.821,
+        "end": 688.847,
+        "text": "Vsekakor pa apeliram na vse tiste, zlasti na tiste, ki so starejši od 50 let ali pa da tiste, ki tudi niso še tako stari, pa imajo vsaj kakšno kronično bolezen, da pohitijo s tepljenjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 691.231,
+        "end": 704.645,
+        "text": "No, jaz se s tem načeloma strinjam, čeprav nisem zraven pri odločanju, v kakšni semafori to bodo, kajti dejansko so bolništice tiste, kjer se bo zgodba ustavila."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 705.466,
+        "end": 710.652,
+        "text": "Kajti bolništice imajo pravzaprav samo določene mere možnost širjenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 711.498,
+        "end": 723.387,
+        "text": "Potem pa, če gledate te krivulje, ki nekatere napovedujo tudi, ne vem, več kot 2000 primerov, veste kaj, klinični centar ima 2200 postelj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 724.228,
+        "end": 732.815,
+        "text": "Se pravi, da bi naj bilo bolnikov za več kot en klinični centar in tega naša država sigurno ne bo sposobna obvladovati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 735.19,
+        "end": 750.265,
+        "text": "No, lejte, v Ameriki so zelo hitro, pravzaprav, cepljenim rekel, da zdaj so zaščiteni, pa ne rabijo več mask, pa tako naprej in se je skazalo, da to ni ravno najboljš odločitev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 750.766,
+        "end": 773.849,
+        "text": "Tako da za enkrat, pravzaprav, če že hočete govoriti o kakšni diskriminaciji, smo cepljeni, v bistvu diskriminirani, kar moramo uporabljati vse zaščitne ukrepe, kljub temu, da smo se cepili, ker se pač naši sodelovci in sorodniki in znanci in prijatelji iz meseca po vsem nerazumljivih razlogov noče vcepeti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 775.606,
+        "end": 797.0,
+        "text": "Lajte, to je pač nek tak zelo zanimiv izgovor, na katerega lahko pade nekdo, ki ne pozna te stvari, ki prvič ne ve, kaj je to eksperimentalno cepivo, ki drugič, ki ne pozna, raziskavke so bile upravljene, na kakšen način so bile upravljene, ki ne ve, kakšni so postopki v dobritve."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 797.6,
+        "end": 801.883,
+        "text": "Tako da to je ena taka zanimiva floskola, ki pa čistočno pomeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 804.007,
+        "end": 805.968,
+        "text": "V katero zdravilo zdaj govorimo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 807.588,
+        "end": 809.829,
+        "text": "Ja, večjih je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 809.849,
+        "end": 822.433,
+        "text": "Za zdravilo od AstraZeneca, jaz žal moram reči, da nič ne vem, da v, tako kot reče, se reče, grdo v pipeline-u, se pravi, na obzorju sta dve zdravili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 823.463,
+        "end": 828.788,
+        "text": "Za eno je skoraj sigurno, da bo leto že na voljo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 829.509,
+        "end": 843.021,
+        "text": "Glede drugega pa še dobro ne ve, ne bi tukaj proizvojalce omenjala, ker smo pravzaprav dolžni, ko sodelujemo na teh predstavitvah, na kak spoštovati tudi zaupnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 845.063,
+        "end": 859.112,
+        "text": "Zdravila, ki so trenutno na voljo, pravzaprav ta hip uporabljamo še vedno, remdesivir, čeprav bomo verjetno s časom to s tem zdravilom nehali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 859.372,
+        "end": 871.38,
+        "text": "Zelo veliko se uporabljajo kortikosteroidi, to so ta protivnetna zdravila, potem uporabljamo eno zdravilo, ki deluje imunosupresivno, se pravi zavira imunski odgovor,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 871.76,
+        "end": 875.301,
+        "text": "To je neko monoklonsko protitelo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 875.401,
+        "end": 887.225,
+        "text": "Potem imamo pa sedaj končno za uporabo tudi Regeneron, to je koktejl dveh monoklonskih protiteles, ki je pa nemenjen pri prečevanju težkega poteka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 888.386,
+        "end": 897.829,
+        "text": "Zdravniki v Sloveniji so že dobili informacijo, tudi navodila, kje se zdravilo dobi, kako ga je treba dati, kjeri so tisti bolniki, ki pridajo v poštev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 898.809,
+        "end": 901.43,
+        "text": "Začeli smo že, nimamo pa še veliki izkušenj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 903.13,
+        "end": 923.083,
+        "text": "Ti klinične študije že tečejo in Slovenija ni bila vključena in tudi če se bomo že vključili, se bomo vključili v temu, če jemo rečemo sočutna raba, ko zdravilo še nima odobritve in takrat pa res morda lahko govorimo o eksperimentalni rabi zdravila."
+      }
+    ],
+    "runtime_sec": 287.69364762306213
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.051252447000871657,
+      "miss": 0.05080534066865952,
+      "fa": 0.0004471063322121334,
+      "confusion": 0.0,
+      "total_duration": 910.2979999999966
+    },
+    "der_collar0.25": {
+      "der": 0.0404820788069223,
+      "miss": 0.040186102447595386,
+      "fa": 0.00029597635932691706,
+      "confusion": 0.0,
+      "total_duration": 854.7979999999966
+    },
+    "wer": {
+      "wer": 0.3425076452599388,
+      "ref_words": 1962,
+      "hyp_words": 1740
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 1.212,
+        "text": "No, stanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1.938,
+        "end": 5.077,
+        "text": "V bolnišnici saj vnaši je ta hip stabilno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 5.785,
+        "end": 10.038,
+        "text": "Smo v eni višji fazi strategije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 10.544,
+        "end": 39.637,
+        "text": "Obra vnave kovit bolnikov, ko če določa nas z državnim načrtom, tako da sta odprti še dve bolnici, to veste, bolnik in Celje.Na ta način smo nekolik zmanjšal pritisk nauka celoblana, takko da s trenutno imamo bolnike v DTSu, v eni hali in pa na infekcijski kliniki intenzivni terapiji in enem oddelku za nasledi teden planiramo dodatno razširito kapacitet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 40.21,
+        "end": 102.479,
+        "text": "V DTS-u polintenzivne postelje in povečanje intenzivnih postelj, verjeto bo pa treba odpreča nekaj dodatnih kapacitet za bolnike, ki ne potrebuje intencivne terapije. Zvečeva zanimaglede strukture bolnikov, popriša starost bolniku je tem okrog štarn šest let, tisti, ki ležijo na intenzivni terapisu nekoliko starejše kot tisti kiso na navadnih oddelkih, imamo tudi posamezne bolnike mlajše od petdeset let, večinoma so ta hip zdej bolniki bi rekla petinšestdeset in navzgor.Posame dni pacienti so bili zdaj v zadnjem mestu tudi iz domov za starejše, njih bo prav zelo veliko, tu sicer teh zelo starih časmenj, ko reč ni več veliko krati, ta populacija pa še kar se mi zdi dobro precepljena.Kok je cepljenih, zelo malo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 103.171,
+        "end": 129.091,
+        "text": "Je takih, ki so bili polno cepljeni praktično vsi te, so pa imeli neka stanja osnovna, zaradi katerih pa čujmovski odgovor ni bil tako bi moral bit, govorim predvsem o bolnikih, kjer so na kemoterapiji, bioloških zdravilih, marsikak še na teh volnikov sploh ne razvije proti teles, ne če dobi kovit, neče gacepno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 129.8,
+        "end": 132.061,
+        "text": "In jih je trival po tem posebej ščitet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 133.833,
+        "end": 152.311,
+        "text": "Zdaj številke so tako mehne, da je to nemogoče primerjat, mi imamo prav lahko rečen, da so blakr vsat zapiva. Načni odhode breke zdaj pa eno cepivo izstopa, ampak ker so takomehne številke vsako cepivo prozupro veliko težo par deset."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 153.526,
+        "end": 157.576,
+        "text": "Imamo en gradujenčka, ta hip, ker je tudi mamica bolna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 158.808,
+        "end": 162.301,
+        "text": "Drugače pa so otroci blizelo zelo manjšini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 162.807,
+        "end": 169.321,
+        "text": "Posamezni primeri, tu sicer vemo, da otroci vsaj dosedaj niso."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 169.895,
+        "end": 174.603,
+        "text": "Potrebovali hospitalizacije v takem obsegu kot odrasli, tudi če so zboleni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 176.037,
+        "end": 186.314,
+        "text": "Nimamo tega občutka, eden okar pa je neki kažen da delta različica morda bolj ukvarja sluh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 187.225,
+        "end": 198.903,
+        "text": "Kot ostale variante, to se tožijo bolniki, smo tisti po preboleljinko vidu, da slabše slišijo, pa tu z enka tedino, kar smo opazili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 200.388,
+        "end": 225.869,
+        "text": "Ja, to je krskost talen dotok nekaj takih, ki so bili pa če hospitalizirani in rabijo potem še kontrole, ti je delamo tukaj tle pri nas na kliniki, nekakih, da so bili hospitaliziranji, pa morda niso bili naročeni na kontrolu Alpa, imajo še kljub temu težave, no, potem so pa kar..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 226.78,
+        "end": 233.429,
+        "text": "Nekaj bolnikov, ki niso rabli bolnice, ki so po njihovih lastni oceni imel še kar lahek potek."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 233.986,
+        "end": 243.115,
+        "text": "Pa imajo zde hude težave, v smislu najhujša težava, ki navajajo, je res taka huda svinčena kronična utrujenost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 245.191,
+        "end": 248.431,
+        "text": "No, kadrovski problem je strašno velik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 248.988,
+        "end": 253.612,
+        "text": "In bom rekla, tudi globalno verjetno na hitro ni rešljiv."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 254.219,
+        "end": 268.765,
+        "text": "Kajti tudi medicinske sestre rabijo določeno izobraževanje, ki traja kar neki časa, recimo, da je medicinska sestra sposobna dela za najtežjimi bolniki v Iitetri."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 269.339,
+        "end": 273.575,
+        "text": "To je en problem, drug problem je to, da kader odhaja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 274.368,
+        "end": 297.976,
+        "text": "Iz različnih razlogov velik je delovnih mest zdaj na voljo, v domačih krajih ob bližini mi imamo ljudi, ki so se vozili spod četrtkaj Celja in še oddaljene te pač zdaj dobivajo delo blizu svojega doma to to drugo na voljo so tudi delovna mesta od pondelka do petka."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 298.516,
+        "end": 347.234,
+        "text": "Brez nočnih, brez popoldanskih ali pa komike je brez vikendov, mu jemo računate, da pa na povprečna medicinska sestra zdale v kliniki z infekcijske boleznije delala tudi po tri vikende na mesec, v majo tudi več kot osemnočni in do devet, se predstavljate kakšna obremenitev sploh za mlade mamice z družinami, je to tako da me ne čudi, da odhajajo, kajti finančna spodbuda pa spet ni taka, da bi bila razlika v plačilu tako velika, da jim se komuto zaradi denarja splečalo ne.Prezbo treba sistemsko te stvari uredit, če nočmo, da se nam zgodi tokrat v Ameriki, kjer ne vem kolik tisoč postelj vsak dan zaprejo, za tokaj nisestem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 348.517,
+        "end": 374.015,
+        "text": "Pri nas na kliniki nimamo nič postelj zaprtih, čeprav morda ste zaznali v medijah, kaj družca, kakaj ti naša intenziva je tudi prej imela deset posteljs, da imamo šestnajst postel in vsi udelki so odprti. Glede stanja za prtosti po klinčnem centru pa moram reč, da je to vprašanje za strokovno direktorco oziroma za predstojnike večjih klinik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 375.432,
+        "end": 415.966,
+        "text": "No, zetko mi, če gledamo podatke iz drugega vala, ko smo res imeli neznansko veliko število, smo imeli največ na vrhuncu nekičest tristo petdeset navadnih bolnikov in skoraj sedemdeset intenzivnih vol da bi ta podvig še enkrat ponovil brez kšenga izrazitga preusmerjanja kadra in pa dejanskega zapiranja nekovednih programov česar si pa res ne želim ono."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 416.658,
+        "end": 434.545,
+        "text": "Ker nagre tudi samo za tiste življenjsko ogrožene bolnike, pa tudi za bolniki, ki trpijo in ki bi mogoče en operativni poseg izredno izboljšal kvaliteto živlenja ne.Ko da biste izkoristila to prilko, da bi pač pravzaprav res prosila..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 435.254,
+        "end": 451.252,
+        "text": "Da ljudje ne pozabijo na te ukrepe, ki smo se jih držali vse te mesece, govorimo o maskah, govorni o razdaljah, o prezračevanju, to bo zdaj v miru bolj aktualno, ker se bliža jeseni in zima."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 451.96,
+        "end": 465.882,
+        "text": "In pa seveda ocepljeni one, ki je trenutno pravzaprav edina edini ukrep, ki nas nekak navdaja z upanjem, da bomo te velike številke zmanjšali."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 467.738,
+        "end": 484.63,
+        "text": "To so, to je samo igra številka, ne?Seveda na nekatera številke so boljše kot druge, kar je pravzaprav nas z njima, je decapivo prepreči težek potek in da prepreši smrt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 485.356,
+        "end": 513.352,
+        "text": "To pa so vsa cepiva kar precej učinkovita, tudi ne vem kolk, pravzaprav kakšno je znanje o tem, če govorimo o učinkovitosti cepiva, kaj si recimo vi konkretno predstavljate, čevam je srečen dne na cepivo učinku bito štarsotplat pa petdeset ali pa šestdeset procentov, kot da je to treba tudi v pravih kontekstih nekak razumet.Kar nas zanima, se pravam, je to, da bolnik ne pride v bolnico?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 514.297,
+        "end": 520.81,
+        "text": "Danes boli iz težko obliko, zaradi katere bi morda potreboval intenzivno terapijo ali pa celo bok nadet do umre."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 521.57,
+        "end": 546.562,
+        "text": "In seveda, da cepivo vsaj do določene mere preprečuje prenos okužbe stiska kivsenost boli na druge in vsa cepiva to omogoča, nikol pa ni bilo v zgodovini medicine šeststo procentno učinkovitga cepiva, to pa morate vedeti, ker mamo upravka z živimi organizmi in z biološkimi materiali in tudi v velik variaciji možni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 548.789,
+        "end": 590.015,
+        "text": "Tega ne morem komentirati, prvič zato, ker to na kakimi o imenih ne govorimo, drugo bi povsem urada vedela, da ocena zahtevnosti je subjektivna, kajti objektivne ocene težkega poteka pomenijo, da je bolnik zaradi tega dejansko hospitaliziran.Vsekakor pa nagovorim z del ministrci, govorimo povprečnem bolniku, ki izboli doma za kovidom, čez izpredstavljate, da imate štiri pet, šest, sedem dni vročino štrdost, da vas čisto vsaka kost in koščica boli boste sigurno tu sami rekel, da ste imel zahtev do oblika govida."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 592.006,
+        "end": 596.815,
+        "text": "Ne, ta hip ne, tak hip ne. Ker so številke premehne za..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 597.575,
+        "end": 598.064,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 599.093,
+        "end": 601.675,
+        "text": "Kakrš lokol primerjava med temi cepili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 602.924,
+        "end": 615.715,
+        "text": "Ja, to pa je problema, kar praktično če gete napovedi, nas vrhunec čakate nekje že skoraj do začetka oktobra."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 616.222,
+        "end": 621.537,
+        "text": "Ko da če se gredo, ljudi danes cepit bodo ravno takrat morda imeli polno zaščitono."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 623.326,
+        "end": 626.937,
+        "text": "Neki ščiti, ne ne pa ne pa tako kot polno ceplega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 628.507,
+        "end": 631.612,
+        "text": "No, glede zrcev in šol."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 632.303,
+        "end": 636.64,
+        "text": "Bi rekla, da problem tudi videm predvsem v..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 637.147,
+        "end": 648.622,
+        "text": "O tem da otroci, ki sicer ne zbolevajo s težko obliko na rabi obolnice in relativno redko kdaj doživijo težke posledice, prenesejo okužbo v okolje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 649.145,
+        "end": 688.987,
+        "text": "Ker imamo rizične bolnike, ker imamo krhke ljudi, kjer imamo slabo zaščitene ljudje.Tako da če se bo o te ukrepi pa tata spoštovali, domni upam, da so naše šolniki odgovorne osebe, ki verjo, da imajo opravka ne samo z otroci, ampak tudi še z celo družino, ki je vzad za otroko, potem bomo morda ta del preprečal.Vsekakor pa apeliram na vse tiste, zlasti na tisto, ki so starejši od petdeset let, ali pa da tiste,ki tu niso še tokstari, pa maj vsaj kršno kronično bolezen, da pohitijo s teprem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 689.493,
+        "end": 689.746,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 691.214,
+        "end": 704.782,
+        "text": "No, je s tem načeloma strinjam, čeprav nisem zraven pri odločanju kakšnih semaforjih tobodo, ker ti dejansko je so bolnišnice tiste, kjer se bo zgodba ustavljane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 705.389,
+        "end": 723.428,
+        "text": "Kajti bolnišnice imajo prav samo določene mere možnost širjenja, ne? A potem pa, če gledate te krivulje, ki nekatere napovedujejo tudi, ne vem, več kot dva tisoč primerov, res takaj, klinični center ima dva tuštostu postelj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 724.137,
+        "end": 733.013,
+        "text": "Se pravi, da bi naj bilo bolnikov za več kot en klinični center in tega naša država segurno ne bo sposobna obvladvat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 735.19,
+        "end": 769.109,
+        "text": "Nolajte, v Ameriki so zelo hitro, pravzaprav cepljeni mrekelj, da zdaj so zaščitani, pa narabijo več mask, pa tako naprej in si izkazalo, da to ni ravno najboljša odločitev, kot da za enkrat, pravsaprav, če že hočte govor, tokajšnji diskriminaciji, a ne smo cepljeni bistvo diskriminirani, kar moramo uporablja tose začetne ukrepe kljub temu, da smo se cepil, ker se pač naši sodelavci in sorodniki in znanci in prijatelji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 769.649,
+        "end": 773.952,
+        "text": "Iz men sicer povsem nerazumljivih razlogov noče v cepet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 775.572,
+        "end": 797.105,
+        "text": "Lajte, to je pač nek tak zelo zanimiv izgovor, na katerega lahko pade nekdo, ki nam pozna teh stvari, ki prvič ne ve kaj to eksperimentalno copivo, ki drugički napozlare z iskalk so bele upravljene, na kašen način so bele opravljanje, ki ne ve, kakšni so postopki od obritve."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 797.628,
+        "end": 802.015,
+        "text": "Kot to je nataka zanimiva floskula, ki pa čistočno pomeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 803.99,
+        "end": 806.2,
+        "text": "V katero zdravilo zdaj govorimo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 807.517,
+        "end": 808.445,
+        "text": "Ja, več jih je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 809.693,
+        "end": 813.406,
+        "text": "Za zdravilo vda stra zelje, ker je žal mora neč denočna vem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 814.03,
+        "end": 827.497,
+        "text": "Da v kokrat reče se reček grdo upaj plajnode, se prav na obzorju sta dve zdravili, za eno je skoraj sigurno, da bo letos že na voljo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 828.239,
+        "end": 840.608,
+        "text": "Glede drugega pa še še dobro ne ve, ne bi tudi proizvajalcev menjala, ker smo pravzaprav dolžni, ko sodelujemo na teh predstavitvah, na kak spoštovrt od..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 841.3,
+        "end": 844.321,
+        "text": "Pač zaupnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 845.03,
+        "end": 901.544,
+        "text": "Zdravila, ki so trenutno na voljo, pravzaprav ta hip uporabljamo še vedno remdesiver, čeprav bomo verjetno sčasoma to s tem zdravilo nehal. O zelo veliko se uporabljajo kortikosteroidi, to sta ta protivnetna zdravila za uporabo tudi regeneron, zato je bilo še v povedu, da bi bilo našlih neseljosti in se je odju težkega poteka.V zdravniki v Sloveniji so že dobili informacijo, tudi navodila, ki je se zdravilo dobi kako ga je treba, dat, kjer so tisti bolniki, ki pridejo poštev, začel smo že, nimam pa še veliki skušenj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 903.113,
+        "end": 915.466,
+        "text": "Ti tlinče študije že tečejo in Slovenija ni bila vključena, in če se bomo že vklučal, se boma vkljujel v tem, o čemu rečemo sočutna raba."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 915.972,
+        "end": 923.617,
+        "text": "A ne, ko zdravilo še nima odobritve in takrat pa res morda lahko govorimo o eksperimentalni rabi zdravila."
+      }
+    ],
+    "runtime_sec": 109.85544061660767
+  }
+}

@@ -1,0 +1,820 @@
+{
+  "file_id": "Artur-J-Gvecg-P500040-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500040-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.07951438222860475,
+      "miss": 0.07570947876325276,
+      "fa": 0.0038049034653519923,
+      "confusion": 0.0,
+      "total_duration": 913.5579999999936
+    },
+    "der_collar0.25": {
+      "der": 0.07116342642945891,
+      "miss": 0.06755093419825936,
+      "fa": 0.003612492231199544,
+      "confusion": 0.0,
+      "total_duration": 823.8079999999936
+    },
+    "wer": {
+      "wer": 0.20374600274097762,
+      "ref_words": 2189,
+      "hyp_words": 1906
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 3.953,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 6.334,
+        "end": 27.085,
+        "text": "Najprej izhajati želim iz misije našega inštituta, ker se mi zdi, da je potrebno upoštevati, ker seveda odraža potem tudi razmerja, ki so med spoloma in jih bomo kasneje tudi videli na našem inštitutu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 27.385,
+        "end": 46.517,
+        "text": "Naša ukvarjamo se s področjem nervoslovnih in tehniških znanosti in seveda se tu soočamo z stanjem, kakršno je značilno ne le za Slovenijo, ampak za cel svet, da je tu pač manj deklet in žensk kot moških in to se potem odraža tudi seveda v statistiki pri nas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 46.697,
+        "end": 53.642,
+        "text": "Ves čas od naše ustanovitve dalje, pred dvema letoma smo odzabeležili sedmesto obletnico,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 54.402,
+        "end": 75.172,
+        "text": "je naš moto, da izvajamo vrhunske raziskave in stremimo k razgovanju odličnosti in na ta način seveda ljudje rečejo, delamo po nekih meritokratskih merilih, ki veljajo za vse enako, za oba dva spola enako, to smo tudi danes že slišali, potem torej velja, da je vse v redu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 75.952,
+        "end": 89.421,
+        "text": "Ker smo nevoslovni in tehnički inštitut, nimamo znotraj inštituta nekih skupin, ki bi se ukvarjali z nevoslovjem, s številkami, da bi se podrobneje kdo seveda poglobil v številke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 89.781,
+        "end": 95.065,
+        "text": "Zato na tak način tudi nismo zaznali, ali imamo to vrstne probleme ali ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 95.225,
+        "end": 98.867,
+        "text": "To pa so seveda zelo dobri pogoji za nezavedno razlikovanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 99.728,
+        "end": 106.791,
+        "text": "In tukaj je nekaj teh čisto osnovnih števil, ki jih imamo na inštitutu in so tudi edine številke, ki jih bom prikazala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 107.851,
+        "end": 117.775,
+        "text": "Če pogledamo število doktorandov v letu 2019, na eno žensko pridejo 1,8 doktorandov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 119.276,
+        "end": 124.178,
+        "text": "Potem naslednja vrstica je še zanimiva število zaposlenih raziskovalk, raziskovalcev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 124.838,
+        "end": 130.443,
+        "text": "na eno raziskovalko prideta 2,3 moškega, se pravi, že povečamo število."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 131.003,
+        "end": 142.673,
+        "text": "Potem starejši raziskovalki, to so redni in izredni profesori in docenti, tu že na eno starejšo raziskovalko, to je"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 143.013,
+        "end": 154.842,
+        "text": "to mislimo senior researcher, pridejo trije starejši raziskovalci in potem še spodna vrstica zaposlenih na vodilnih položajih, to je pa še slabše razmerje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 155.382,
+        "end": 159.425,
+        "text": "Na eno zaposleno na vodilnem položaju pridejo 3,6 moških."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 159.445,
+        "end": 161.126,
+        "text": "Razmerje leta 2009-2019 ne igra neke posebne vloge,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 167.431,
+        "end": 183.012,
+        "text": "Zanimivo je, da če pogledamo vodilne položaje, se pravi vodje raziskovalnih odsekov, je pa to razmerje še slabše in sicer je ena proti sedem, čeprav je bilo še pred dvima letoma bistveno boljše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 184.306,
+        "end": 193.131,
+        "text": "V znanstvenem svetu danes sedijo 4 ženske, 11 moških, v pravni odbor 2 ženski, 8 moških."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 193.751,
+        "end": 202.476,
+        "text": "Se pravi, da te številke odražajo neke razlike, ki se večajo više, kot gremo po lesvici, to se pravi, da se soočamo tudi mi,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 202.936,
+        "end": 206.621,
+        "text": "s problemom, ki, kot je bil prej pokazan, da je vse slovenski problem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 207.141,
+        "end": 215.932,
+        "text": "Mogoče bom kasneje omenila še statistiko, glede na grad, ki sem se jo sama za to priložnost pač izbrskala iz podatkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 217.113,
+        "end": 222.22,
+        "text": "Kar se tice institucionalne podpore, imamo pač tisto, ki je minimalno zahtevana,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 223.22,
+        "end": 225.221,
+        "text": "z zakonom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 226.081,
+        "end": 237.006,
+        "text": "Moje osebno mnenje pa je, da je mogoče celo kaj od tu uprašljivega glede na konkurenčnost, ki jo morajo raziskovalke izkazati v raziskovalnem prostoru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 239.707,
+        "end": 265.74,
+        "text": "Vendar pa se na inštitutu če dalje bolj zavedamo, da to področje je pomembno, da mu moramo posvetiti večjo pozornost in zaradi tega smo se že pred nekaj leti pridružili mednarodnemu konzorciju, ki ima znanje z tega področja, kako pripraviti dober načrt enakosti spolov, v kakšnem postopku, da je vključujoč, demokratičen, da prijemo vse fokusne skupine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 266.42,
+        "end": 271.905,
+        "text": "Pripravili smo projekt, z njim večkrat kandidirali in končno lani uspeli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 272.066,
+        "end": 276.09,
+        "text": "Začeli smo z izvajanjem letos 1. februarja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 276.53,
+        "end": 285.659,
+        "text": "V glavnem tukaj je nekaj navedeno, nekaj ali nejih glavnih ključnih aktivnosti, ki jih bomo izvajali, ampak jaz jih bom razdelila v tri skupine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 286.4,
+        "end": 315.927,
+        "text": "Prva skupina je ocena stanja, ker kot vidite so naši podatki zelo skopi, ocenili bomo stanje, kakšno na inštitutu je z tega vidika, potem drugi sklop aktivnosti je osveščanje, da se moramo s tem tudi na inštitutu ukvarjati, oblikovanje participativnega postopka, organizacija znotraj inštituta, ki bo temu primerna, da nam omogoči izpeljavo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 316.387,
+        "end": 320.352,
+        "text": "na to pa seveda priprava načrta enakosti spolov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 321.133,
+        "end": 328.662,
+        "text": "Vse skupaj nameravamo narediti v letu in pol, potem pa zadnji sklop je pa seveda ocena učinkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 329.903,
+        "end": 331.665,
+        "text": "Rekla bi, da"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 334.783,
+        "end": 361.47,
+        "text": "Kljub temu, da do zdaj institucionalne podpore nismo imeli, se pravi, nismo imeli formalizirane, če gledamo donočene podatke, recimo o nagrajevanju se tudi pri nas vidi, da smo če dalje bolj osveščeni, da polagamo pozornost na to, da iščemo, bom rekla, odlične kandidatke, vendar pa mislim, da je institucionalna podpora in njeno oblikovanje tudi potrebno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 361.73,
+        "end": 371.657,
+        "text": "To konec koncev nas bo k temu prisilila tudi Evropska komisija z novim pogojem v programu Obzorje Evropa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 371.677,
+        "end": 373.698,
+        "text": "Hvala lepa za vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 374.099,
+        "end": 375.7,
+        "text": "Zakaj sem se odločila za to pot?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 375.74,
+        "end": 389.69,
+        "text": "Zato, ker me je zanimala elektrotehnika, ker sem imela rada matematiko, ker me je zanimalo, kaj se dogaja v jadrski elektrarni in ker sem imela vzgojo, ki me je pravzaprav k temu spodbujala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 389.71,
+        "end": 390.831,
+        "text": "Jaz se sploh nisem vprašala,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 391.531,
+        "end": 405.263,
+        "text": "a je to stvar deklet alefantov in ko sem prišla na odsek na institutu Joža Štefan sem bila kar malce presenečena, ker sem bila edino deklet takrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 405.884,
+        "end": 416.233,
+        "text": "Ne bi bila poštena, če ne bi rekla, da me to, da me moj spolj ni overal, ni me overal, dejansko me ni in včasih sem celo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 417.89,
+        "end": 420.892,
+        "text": "bolj izstopala, kar je bilo dobro."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 420.912,
+        "end": 436.601,
+        "text": "Vse pa seveda potem skozi leta opazi neke vrste, kakorkoli se že temu reče, stekleni strop ali pa okolje, ki je oblikovano pomerilih, ki dejansko so bližje enemu spolu kot drugemu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 437.161,
+        "end": 445.325,
+        "text": "Ja, jaz se strinjam, da mogoče, mislim, se strinjam s tem zagotavo, da nimamo ženske močnih mrež, ampak mreže pa imamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 445.385,
+        "end": 456.691,
+        "text": "Jaz sama delujem in sem aktivna v nekaterih mrežah, ker se strokovno izpopulnjujemo ženske in si med sabo seveda dajemo podporo, vendar te mreže niso močne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 456.851,
+        "end": 460.353,
+        "text": "To je pa seveda odraz položaja, ki ga v tej družbi igramo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 461.562,
+        "end": 478.654,
+        "text": "In ko govorimo o teh stvarih, se mi zdi zelo pomembno, da se zavedamo, da če rečemo, saj pri nas v naši inštituciji ali pa kakorkoli v državi imamo urejeno to področje zato, ker veljajo zakoni za vse enako, ker veljajo merila za vse enako."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 478.994,
+        "end": 491.518,
+        "text": "Ampak, če bi mi želeli omogočiti enake možnosti različnim družbenim skupinam, namenoma ne umenjam samo žensk, potem moramo upoštevati tudi, da igramo različne družbene vloge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 492.078,
+        "end": 497.1,
+        "text": "In tudi te družbene vloge med ženskami in moškimi so različne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 497.24,
+        "end": 499.721,
+        "text": "In to moramo upoštevati, ko oblikujemo merila."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 499.801,
+        "end": 501.021,
+        "text": "In zato je tako pomembno,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 502.602,
+        "end": 517.171,
+        "text": "da so v teh glavnih odločevalskih organih, da je vsej minimalni dele žensk, ki bodo imele možnost podati oziroma tudi doseži potem to okolje, da bo odražalo dolovanje ženske."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 517.231,
+        "end": 522.174,
+        "text": "To pa po nekih raziskavah, ki sem jih brala, ta delež mora biti preko 30%."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 522.254,
+        "end": 527.917,
+        "text": "In zdaj, ko smo se pogovarjali, smo videli, da mrci, ki je tega procenta, ne dosegamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 529.703,
+        "end": 534.169,
+        "text": "Prej sem omenila, da sem tudi jaz bila na začetku svoje karijere proti kvotom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 534.69,
+        "end": 544.583,
+        "text": "Potem pa sem ugotovila, da enostavno na določenih področjih se rabijo in to jih potrebujemo kot družba in to je tam, kjer so sistemi zelo zaprti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 545.144,
+        "end": 574.195,
+        "text": "kjer niso odprti, pa ne samo za ženske, tudi Mark omenil si mlade, se pravi, če želimo mi sistem osvežiti, da je postane bolj dinamičen, da bolj diha, da se premika, je treba dati nek impuls in v primeru žensk, pa zdaj nasplošno govorim, ker sem tudi v politiki pač delovala in tam sem videla, kakšen učinek je bil, jaz mislim, da v določenih sistemih so kvote potrebne, je pa res, da lahko včasih naredijo tudi škodo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 574.895,
+        "end": 589.002,
+        "text": "Vedno, kadar govorimo o kvotah, seveda imamo tudi v ozadju nek mehanizem, ki jih uresniči in ta mehanizem seveda je sestavljen iz ljudi, ki imajo takrat moč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 589.062,
+        "end": 593.825,
+        "text": "In zdaj je vprašanje, kako se zdaj te kvote uresničijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 593.905,
+        "end": 603.55,
+        "text": "Ali se potem gre dejansko po nekih merilih za odličnost in se nasprotni spol potem zbera ali se ga zbera morda po nekih drugih merilih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 604.19,
+        "end": 607.951,
+        "text": "In v tem primeru se je možno narediti tudi škoda."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 608.111,
+        "end": 622.217,
+        "text": "Jaz sem danes enkrat že rekla, pa bom tudi zdaj na tem mestu povedala, deset let sem bila v profesionalni politiki in me ni sram povedati, da sem prišla v Evropski parlament samo zaradi kvot."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 622.837,
+        "end": 628.107,
+        "text": "In nikoli me ni bilo tega sram in vedno sem profesionalno delovala in dobila za to priznanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 628.467,
+        "end": 635.44,
+        "text": "Tako da mislim, da določeni zaprti problemi pred sistemi jih je dobro, da jih na ta način odpremo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 637.383,
+        "end": 644.585,
+        "text": "Ja, res je, od leta 1993 podeljujemo te nagrade."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 646.286,
+        "end": 665.171,
+        "text": "Žal imam pri sebi zdaj samo podatek o nagrajencih, ne pa tudi o prijavljenih in sicer razmer je seveda močno uprit moškim, na eno žensko pride 5,5 moškega, se pravi 12 ženskih in 66 moških je doslej dobilo zlati znak Jožefa Štefana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 665.851,
+        "end": 684.217,
+        "text": "Je pa opazen nek trend, ki ga bomo seveda v okviru projekta, ki sem ga že prej na hitro predstavila, bolje razdelali, namreč v letu 2019 sta bila nagrajena sicer samo dva moška, ampak tako v letu 2017 kot tudi v letu 2018 sta nagrajena po en moški in dve ženski."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 687.738,
+        "end": 697.702,
+        "text": "Tako da to vendar le pomaga verjetno tudi to, da se v družbi več o teh neenakostih oziroma o potrebi promocije govori."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 698.643,
+        "end": 710.408,
+        "text": "Potem je recimo pri nas zanimiv še direktorjev sklad, ki smo ga oblikovali prvič izvedli v letu 2017 in je spodbuda mlajšim raziskovalkam in raziskovavcem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 710.688,
+        "end": 731.915,
+        "text": "se jim da določeno podporo tistim, ki izstopajo in zelo zanimivo je, da men je bil v podpreti mlade in tu se opazi, da so spolno kar dovolj dobro uravnoteženi, ker so bili prejemniki tega sklada štiri ženske, pet moških, kar je zelo dobro razmerje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 735.173,
+        "end": 739.017,
+        "text": "Bi pa omenila še nekaj glede samo cenzure."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 739.738,
+        "end": 750.25,
+        "text": "Jaz dejansko verjamem, da pri ženskah je močnejša in ko sem bila v enem od teh omrežji, od katerih smo tudi prej govorili, so nas ženske prav, smo dobila lahko rečem nek apel,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 750.53,
+        "end": 770.271,
+        "text": "od ene od televizijskih hiš, nacionalke se lahko kar povem, da lepo prosijo, da kadar kakšno povabijo v odajo ali nastop ali dodajo izjavo, naj se ne vprašamo, če smo sposobne to narediti, da to so že oni presodili, da naj samo pogledamo na urnik ali imamo takrat čas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 770.611,
+        "end": 782.342,
+        "text": "Se mi zdi, da to je kar močen, bom rekla, eden od argumentov, ki kaže na to, da ženske res težje pristanemo na samo promocijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 782.743,
+        "end": 794.894,
+        "text": "Seveda so pa tako nagrade kot razni nastopi v medijih izredno pomembni, ker gre za promocijo, širšo promocijo znanosti, področja, dekleta video,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 795.755,
+        "end": 797.996,
+        "text": "da imajo vzornice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 798.437,
+        "end": 806.802,
+        "text": "In tu ni tako enostavno, da bomo samo rekli, v redu potem pa, tako kot so se odločili pri kogakoli, naredimo promocijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 807.322,
+        "end": 822.252,
+        "text": "Ampak mi ciljamo na intelektualke, intelektualce, na ljudi, ki dejstva preverjajo, tako, da poleg promocije moramo dejansko omogočiti okolje, ki jim omogoča enake možnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 822.452,
+        "end": 825.514,
+        "text": "Ne bom rekla enakost, ampak enake možnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 826.973,
+        "end": 829.795,
+        "text": "Vrnila bi se na načrt za enakost spolov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 830.035,
+        "end": 838.401,
+        "text": "Prej sem omenila, da ga tudi mi pripravljamo in razmišljamo tudi o povezavi z slovenskimi strokovnjakinami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 839.242,
+        "end": 854.313,
+        "text": "Mislim, da je pri tem načrtu treba zelo paziti, da je pripravljen z dovolj veliko občutljivostjo, da dejansko pripomorek izboljšanju razmer, kajti ni tisti načrt, ki je najbolj udaren"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 854.513,
+        "end": 856.574,
+        "text": "tudi najboljši za vsako inštitucijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 856.614,
+        "end": 874.045,
+        "text": "Mislim, da moramo to upoštevati in biti sicer ambiciozni, vendar in v pokorakih, ki so sprejemljivi, to pa za oba spola, ker meni se zdi izredno pomembno, da bodo imeli ti načrti v inštitucijah dejansko veliko, veliko večino, večinsko podporo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 874.645,
+        "end": 889.924,
+        "text": "In seveda tu so tudi neke nacionalne specifike, s katerimi se bomo pa vsi ukvarjali in mogoče bi bilo zelo na mestu in bi bila zelo vesela, da bi recimo strani države bila pripravljena neka konferenca, na kateri bi se izmenjalo znanje o dobrih praksah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 892.668,
+        "end": 903.991,
+        "text": "kjer bi pač inštitucije, ki s tem imamo manj izkušen, bi dobili neko znanje, videli, kaj je v Sloveniji dobro, kaj je slabo, v katero smer kreniti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 904.311,
+        "end": 917.515,
+        "text": "Se pravi, da bi bilo tudi ne samo strani Evropske komisije, ampak tudi strani države pokazano, kaj in v katero smer naj krenemo in da bi nam pomagala pri tem."
+      }
+    ],
+    "runtime_sec": 320.61627078056335
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.03586745450206724,
+      "miss": 0.03555329820328814,
+      "fa": 0.0003141562987790995,
+      "confusion": 0.0,
+      "total_duration": 913.5579999999936
+    },
+    "der_collar0.25": {
+      "der": 0.03098658910814126,
+      "miss": 0.03063820696084476,
+      "fa": 0.0003483821472965021,
+      "confusion": 0.0,
+      "total_duration": 823.8079999999936
+    },
+    "wer": {
+      "wer": 0.25034262220191866,
+      "ref_words": 2189,
+      "hyp_words": 1938
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.368,
+        "end": 1.162,
+        "text": "Ala lepa?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.782,
+        "end": 4.84,
+        "text": "Bom poskusila delit."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 6.173,
+        "end": 16.062,
+        "text": "Najprej se želim, izhajati želim iz misije našega inštituta, ker se mi zida je potrebno upoštevati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 16.687,
+        "end": 27.25,
+        "text": "Nato upoštevati, ker seveda odraža potem tudi razmerja, ki so med spoloma in jih bomo kasneje tudi videli našem inštitutu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 27.807,
+        "end": 53.862,
+        "text": "Naša ukvarjamo se s področjem nervoslovnih in tehniških znanosti, in seveda se tu soočamo z stanjem, kakršno je označilno ne le za Slovenijo, pa k zase v svet, da je tu pač manj deklet in žensk kot moški, in to se potem odraža tudi seveda o statistiki pri nas, ves čas od našel ustanovitve dalje, pred dvema letoma smo odzabeležali sedemdeseto obletnico."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 54.436,
+        "end": 75.31,
+        "text": "Je naš moto, da izvajamo vrhunske raziskave in stremimo k razgovanju odličnosti in na ta način seveda ljudje rečejo delamo po nekih meritokratskih merilih, ki veljajo za vse enako, za oba dva spola enako to smo tudi danes razlišali, potem torej velja, da ji je vse v redu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 76.053,
+        "end": 98.969,
+        "text": "Ker smo na poslovni in tehniški inštitut, nimamo znotraj inštituta nekih skupinj, ki bi se ukvarjale z džuboslovjem s številkami, da bi se podrobneje kdo seveda poglobil v številke, zato na tak način tudi nismo zaznali ali imamo tovrstne probleme ali ne, to pa so seveda zelo dobri pogoji za nezavedno razlikovanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 99.83,
+        "end": 106.85,
+        "text": "No in tule je nekaj teh čisto osnovnih številkih mamo na inštitutu in so tudi edine števelke, ki jih bom prikazala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 107.525,
+        "end": 117.835,
+        "text": "Če pogledamo število doktorandov v letih, v letu dva devetnajst na enega, na eno žensko, pridejo ena celi osem doktorandov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 118.679,
+        "end": 124.332,
+        "text": "A potem naslednja vrstica je še zanimiva število zaposlenih raziskovalk, raziskovalsev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 124.838,
+        "end": 149.105,
+        "text": "Na eno raziskovalko prideta dva cela tri moškega, se pravi že povečamo število, potem starejši raziskovalsi to so redni in izredni profesorji in docenti, tu že na eno starejše raziskovovo, to je, to mislimosti, ni jo resrčar, pridejo trije starejše raziskovalsi in potem še..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 149.678,
+        "end": 166.857,
+        "text": "Spodnja vrstica zaposleni na vodilnih položajih, to je pa še slabše razmerje, na eno eno zaposleno na vodenem pološaju pridejo tri cele šest, pride tri cele sest moških.Razmerje leta dva devet, dva nevetnajstne igranike posebne vloge."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 167.498,
+        "end": 183.142,
+        "text": "Zanimivo je, da če pogledamo vodilne položaje, se pravi vodje razkovalnih odsekov, je pa to razmerja še slabše in sicer je ena proti sedem, čeprav je bilo še pred dvema letoma bistveno boljše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 184.272,
+        "end": 222.41,
+        "text": "V znanstvenem svetu danes sedijo štiri ženske, enajst moških upravni odbor dve ženski, osem moških.Sepravi da te številke odražajo nekaj razlike, ki se večajo višje kot gre po lestvici, to se pravi, da se soočamo tudi mi z problemom, ki kot je bil prej pokazan, da je vse slovenski problem.Mogoče bom kasneje omenila še statistiko glede nagradke, sem si jo sama za to priložnost izbrskala iz podatkov, kar se tiče institucionalne podpore imamo pač tisto, ki je minimalno zahtevanje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 223.203,
+        "end": 237.209,
+        "text": "Z zakonom, mojo osebno mnenje pa je, da je mogoče celo kaj od tu uprašljivega glede na konkurenčnost, ki jo morajo raziskovalke izkazati v raziskovanem prostoru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 238.154,
+        "end": 238.711,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 239.808,
+        "end": 265.964,
+        "text": "Vendar pa se na inštitutu, čedalji bolj zavedamo, da to področje je pomembno, da mu moramo posvetiti večjo pozornost.In zaradi tega smo se že pred nekaj leti pridružili mednarodnemu konzorciju, ki ima znanje s tega podroća kako pripraviti dober načrt enakost iz polov v kakšnem postopku, da je vključujoč, demokratičen, da pokrijemo vse fokusne skupine?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 266.487,
+        "end": 285.826,
+        "text": "Pripravili smo projekt, z njim večkrat kandidirali in končno lani uspeli, začeli smo z izvajanjem letos februarja, prvega februari, v glavnem tule je nekaj navedeno nekaji ali nejih glavnih ključnih aktivnostikih, jih bomo izvaja, pa kjer si jih vam razdelila v tri skupine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 286.467,
+        "end": 323.778,
+        "text": "Prva skupina je ocena stanja, ker kot vidite so naši podatki zelo skopij, ocenili bomo stanje kakšno na inštitutu, je z tega vidika, potem drugi sklop aktivnosti je osveščanje, da se moramo s tem tudi na inštitutu ukvarjati oblikovanje participativnega postopka organizacija znotranja inštituta, ki bo temu primerna, da nam omogoči izpeljavo, nato pa seveda priprava načrta enakosti spolov, vse skupaj je nameravo mornardit v letu in pol."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 324.402,
+        "end": 328.722,
+        "text": "Potem pa zadnji sklopje pa seveda ocena učinkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 329.802,
+        "end": 330.308,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 331.507,
+        "end": 333.548,
+        "text": "Rekla bi, da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 334.747,
+        "end": 369.374,
+        "text": "Kljub temu, da do zdaj institucionalne podpore nismo imeli, se pravi nismo emeli formalizirane, če gledamo določene podatke, recimo o nagrajevanju se tudi pri nas vidi, da smo čedalje bolj osveščani, da polagamo pozornost na to, da omogoč, da iščemo bom rekla odlične kandidatke, vendar pa mislim, da je institucionalna podpora in njena oblikovanja tudi potrebna. To konec koncev nas bo temu prisilila tudi Evropska komisija z novim pogojem v programu Opsori Evropa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 371.399,
+        "end": 403.782,
+        "text": "Karalepa, za vprašanje, zakaj sem se odločila zato pod, zato ker me je zanimala, zado, ker me jo je zanimala elektrotehnika, ker sem imela rada matematiko, ker mi je zainemalo, kaj se dogaja v jadrski elektrarni in ker sem jimela vzgojo, ki me je pravzaprav k temu spodbujala, je se sploh nisem vprašala, a je to stvar deklet ali fantov in kot sem prišla na odseg na Inštitutu Joža Štefan, sem bila kar malce presenečena, ker sem bela edino dekle takrat."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 376.917,
+        "end": 377.204,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 404.626,
+        "end": 416.675,
+        "text": "Ne bi bila poštena, če ne bi rekla, da me to, da mu je spol ni oviral, ni me oviral dejansko meni in včasih sem celo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 417.856,
+        "end": 436.705,
+        "text": "bolj izstopala, kar je bilo dobro, saj pa seveda potem skozi leta opazi nekaj vrste kakorkoli se že temu reče stekleni strop ali pa okolje, ki je oblikovano pomerilih, ki dejansko so bližje enemu spolu kot drugemu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 437.262,
+        "end": 460.499,
+        "text": "Ja, je sestrinjam, da mogoče, mislim sestrnjam s tem zagotovo, da nimamo ženske močnih mrež, ampak mreže pa imamo, je sama delujem v in sem aktivno v nekaterih mrešah, ker se strokovno izpopolnjujemo ženska in si med sabo oddajamo podporo, vendar tei reže niso močne, to je pa seveda odraz položaja, ki ga v tej družbi igramo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 461.545,
+        "end": 502.13,
+        "text": "Amp, in ko govorimo o teh stareh, se mi zdi zelo pomembno, da se zavedamo, da če rečemo, saj za nas, saji pri nas v naši instituciji ali pa kakorkoli v državi imamo urejeno to področje, zato ker veljajo zakon za vse enako, kar veljaja omarila za vše enako.Ampak če bi mi želeli omogočiti enake možnosti različnim družbenim skupinam, namenoma ne omenjam samo žensk, potem moramo upoštevat tudi, da igramo razlišne družbene vloge in tu te družbene vloage med ženskami in moškimi so različne, ne? In to moramo upoštevatko oblikujemo merila, in zato je tako pomembno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 502.653,
+        "end": 528.016,
+        "text": "Da so v teh glavnih odločevalskih organih, da je vsaj minimalni delež ženski bodo imele možnost podat oziroma tudi dosež, potem ta to okolje, da bo odražalo dolovanje ženske, tokrat po nekih raziskavah, ki sem jim ubrala, ta delaž mora biti preko trideset procentov in zdaj, ko smo se pogovarjali, smo videli, da mrci, ki je tega procenta, ne dosegamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 529.72,
+        "end": 574.591,
+        "text": "Prej sem omenila, da sem tudi razmela na začetku svoje kariere proti kvotam, potem pa sem ugotovila,da enostavno nadoločenih področjih se rabijo in to jih potrebujemo kot družba in to je tam, kjer so sistemi zelo zaprti, kjert niso odprti, pa ne samo za ženske, tudi Mark omeni vsi mlade, se pravi če želimo mi sistem osvežit, da je postane bolj dinamično, da bolj diha, da se premika. Je treba datnik impuls in v primeru žensk pa zdaj nasplošno govorim, kar sem tudi v politiki pač dželovala in tam sem videla kakšen učinek je bil, je smislim, da v ta določenih sistemih so kotne pomembo potrebne, je pa res, da lahko včasih naredijo tudi škodo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 575.249,
+        "end": 589.289,
+        "text": "Kajti vedno, kadar govorimo o kvotah, seveda imamo tudi v ozadju nek mehanizem, ki jih uresniči in ta mehaniza seveda je sestavljen iz ljudi, ki imajo takrat moč, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 589.829,
+        "end": 603.667,
+        "text": "In zdaj je vprašanje, kako so zdaj te kvote uresničijo ali se potem gre dejansko po nekih merilih za odličnost in se nasprotni spol potem zbira ali se ga zbiera morda po nekih drugih merili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 604.257,
+        "end": 616.07,
+        "text": "In v tem primeru, ne, se da je možno narediti tudi škoda, jaz sem danes enkrat že rekla, pa bom tudi z eno tem mesto povedala, deset let sem bila v profesionalni politiki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 616.694,
+        "end": 622.381,
+        "text": "In meni se ran povedal, da sem prišla v evropski parlament samo zaradi kvot."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 622.887,
+        "end": 635.51,
+        "text": "In nikoli me ni bilo tega seram in vedno sem profesionalno delovala in dobila zato priznanje, tako da mislim, da določeni zaprti problemi pred sistemi jih je dobro, da jih na ta nočin odpremo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 637.417,
+        "end": 734.296,
+        "text": "Ja, res je od leta triindevetdeset podeljujemo te nagrade. Žal imam pri sebi za samo podatek o nagrajencih, ne pa tudi o prijavljenih in sicer je razmerje seveda močno uprit v moškim, na eno žensko pride pet celih pet moškega, se pravi dvanajst žensk in šestinšest moških je doslej dobilo zlati znak Jožefa Štefana. Je pa opazenek trend, ki ga bomo seveda v okviru projekta, ki sem ga že prej na hitro predstavila, bolje razdelali namreč v leto dva tisoč devetnajst sta bila nagrajena sicer samo dva moška, ampak tako v leti v letu dva desetemnajst kot tudi v letos dva tesmoč osemnajst, sta nagraja na po en moški in dve ženski, tako da tu vendarle pomaga verjetno tudi to, da se v družbi več od neenakostih oziroma ob potrebi promocije govori.Potem je recimo pri nas zanimivše direktorjev sklad, ki smo ga oblikovali prvič izvedli v letu dva tisoč sedemnajst in je spodbuda mlajšim raziskovalkom in raziskovavcem, se jim da določeno podporo tistim, ki izstopajo.In zelo zanimivo je, ne, da men je bil podpreti mlade in tu se opazi, da so spolnokrj dovolj dobro uravnoteženi, ker slesli so dobili prejemniki tega sklada štiri ženske pet moških kar, kar je zelo dobro razmerje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 735.157,
+        "end": 737.941,
+        "text": "Bi pa omenila še nekaj glede samo cenzure."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 738.532,
+        "end": 825.623,
+        "text": "Je zdajansko verjameno, da pri ženskah je močnejša in ko sem bila v enem od teh omrežij, od katerih smo tudi prej govorili, so nas ženske prav spodobile lahko rečem nek apel, od ene od televizijski hiš, nacionalke se lahko krv povem, da lepo prosijo, da kadar kakšno povabijo v oddajo ali nastopu, dodajo izjavo, naj se ne vprašamo, če smo sposobne to narediti, da to so že oni presodili, da naj samo pogledamo na urnik, kar imamo takrat čas. Se mi zdi, da je to kar močno, bom rekla, eden od argumentov, ki kaže na to, da ženske res težje pristanemo na samo promocijo. Sveza so pa tako nagrade kot razni nastopi v medijih izredno pomembni, ker gre za promocijo širšo pomocio, znanosti področja, dekleta in vidijo, da imajo vzornice, a ne. In tu ni tako enostavno, da bomo samo rekli, v redu potem pa tako kot se odločili pri kogakoli, naredno promocijo, ne? Ampak mi ciljamo na intelektualke in intelektoralce, na ljudi, ki s dejstva preverjajo, tako da jim, da poleg promocije moramo dejansko omogočiti okolje, ki jim omogoča enake možnosti, ne, ne bom rekla enakost, ampak enakemožnost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 826.957,
+        "end": 833.42,
+        "text": "Govila bi se na načrt za enakost spolov, prej samo menila, da ga tudi mi pripravljamo in..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 834.128,
+        "end": 914.909,
+        "text": "Razmišljamo tudi o povezavi z slovenskimi strokovnjakinami, mislim, da je pri tem načrtu treba zelo pazit, da jo je pripravljen z dovolj veliko občutljivostjo, da dejansko pri pomoreki z boljšanju razmer, kajti ni tisti načrt, ki je najbolj udaren, tudi najbolji za vsako inštitucijo, mislim, da moramo to upoštevat in bičicarambijo ambiciozni vendarjih pokorakih, ki so sprejemljivi, to pa za oba spola, ker mencecni izredno pomembno, da bodo imeli načrti v institucijah dejansko veliko veliko večino večinsko podporo.In seveda tu so tudi nekaj nacionalne specifike, s katerimi se bomo pa vsi ukvarjali in mogoče bi bilo zelo na mestu in bi bila zelo vesela, da bi recimo strani države bila pripravljena neka konferenca, na kateri bi se izmenjalo znanje o dobrih praksah, kjer bi pač inštituciji, institucije, ki s tem mamo manj izkušen, pridobili neko znanj, videli kaj je v Sloveniji dobro, kaj slabo, v katero smer kreni, se pravi, da bi bilo tudi ne samo strani Evropske komisije, ampak tudi s strani države pokazano, kakaj in v ketero smerv naj krenemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 916.023,
+        "end": 917.542,
+        "text": "In da bi nam pomagala pri tem."
+      }
+    ],
+    "runtime_sec": 122.38253688812256
+  }
+}

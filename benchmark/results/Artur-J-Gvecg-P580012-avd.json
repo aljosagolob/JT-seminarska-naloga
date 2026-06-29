@@ -1,0 +1,4270 @@
+{
+  "file_id": "Artur-J-Gvecg-P580012-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P580012-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.2893104730986412,
+      "miss": 0.10502119705730976,
+      "fa": 0.13257583443238508,
+      "confusion": 0.05171344160894642,
+      "total_duration": 1626.404999999973
+    },
+    "der_collar0.25": {
+      "der": 0.2776602446828118,
+      "miss": 0.07962095347614916,
+      "fa": 0.14794107694551165,
+      "confusion": 0.05009821426115096,
+      "total_duration": 1453.9639999999729
+    },
+    "wer": {
+      "wer": 0.3410024650780608,
+      "ref_words": 4868,
+      "hyp_words": 5106
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 0.031,
+        "end": 2.676,
+        "text": "Jaz bi vse naredil, da ljudi nasmejem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3.337,
+        "end": 3.538,
+        "text": "Vse."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 4.76,
+        "end": 7.966,
+        "text": "In nimam ja zdaj te meje, kaj ne smem reči, kaj ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 8.086,
+        "end": 9.869,
+        "text": "Mislim, meni je tako, jaz bom rekel, karkoli."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 10.33,
+        "end": 12.314,
+        "text": "Jaz se bom tudi slekel, če se bo kdo smel."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 14.628,
+        "end": 18.65,
+        "text": "Z mano je ta hip najbolj popularni slovenec oziroma slovenski bosanec."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 19.15,
+        "end": 24.373,
+        "text": "Karizmatični in brezmejno duhovit radijski in televizijski voditelj Denis Avdič."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 24.633,
+        "end": 31.416,
+        "text": "Pred natanko enim tednom je upihnil deset svečk v Denis Avdičovu na Radio Ena."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 32.116,
+        "end": 36.739,
+        "text": "Dobrodošel in seveda velik poklon in iskrene čestitke."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 36.799,
+        "end": 37.279,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 37.779,
+        "end": 38.74,
+        "text": "Kaka lepa napoved."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 38.9,
+        "end": 39.16,
+        "text": "Živjo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 39.26,
+        "end": 39.34,
+        "text": "Čau."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 39.805,
+        "end": 42.927,
+        "text": "zabavljač simendaže od nekdaj."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 43.408,
+        "end": 50.433,
+        "text": "A je res, da si rad nastopal, pel in zabaval ljudi v lokalnih avtobusih v rodni Bosni?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 50.833,
+        "end": 51.514,
+        "text": "Res je, ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 51.774,
+        "end": 59.74,
+        "text": "Ko sem šel z mamo kam, ali pa ko sem šel s teto kamarkoli, ko so popolnene znanci bili na avtobusu, sem kot otrok znal ustat, nasedeš in sem pel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 60.0,
+        "end": 62.782,
+        "text": "In ljudje so poslušali in so mi ploskali in je bilo to to."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 63.616,
+        "end": 74.49,
+        "text": "Vemo, da sta se starša k malu po tvojem rojstvu ločila, ti si ostal pri mami, kuharici v gostilni, kjer si je preživel tudi veliko svojega časa."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 74.951,
+        "end": 81.339,
+        "text": "Fascinirala me je tvoja izkušnja igranja biljarda v tej gostilni, ko si imel komaj pet let."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 81.571,
+        "end": 88.913,
+        "text": "To je bila edina gostilna v vasi in pač tam sem preživljal svoj čas, igrišče je bilo tudi blizu in pač ali sem bil na igrišču ali sem bil pa tam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 89.093,
+        "end": 94.595,
+        "text": "Ja, jaz sem bil jared skozi igral in pri petih letih sem ga jaz zelo dober igral, čeprav sem bil majhen."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 94.715,
+        "end": 101.497,
+        "text": "Meni sem zdal stov z ramen in jaz sem stopil na stov, palce je bile itak trikrat večje od mene in če to cele dneve igraš, pa ga res znaš že dober igrat."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 101.577,
+        "end": 102.758,
+        "text": "Dones bom rekel, da nimam pojma."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 102.838,
+        "end": 103.778,
+        "text": "Takrat sem ga pa obladil."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 103.947,
+        "end": 109.891,
+        "text": "Tudi kdo, ki je čakal na čevapčiče, je bil izvan za sotekmovalca."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 109.931,
+        "end": 120.359,
+        "text": "Se pravim, da so že na koncu nekoga, ki je bil prvič, ki se je sam men pelil, pa se je ustavo, da je nekaj pojedel, ker je bil lačen, so ga znali lokalci izved pet tip proti temamo za, ne vem, sto mark."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 120.739,
+        "end": 123.081,
+        "text": "In je vsak mislil, da bo dovolj."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 123.101,
+        "end": 124.082,
+        "text": "Si je dobil kaj od tega?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 125.581,
+        "end": 134.569,
+        "text": "Uh, ja, dobil sem in moram reči, da pri petih ali šestih letih sem potem ta dnar zbral z cigarete, ker sem kadil že takrat."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 134.66,
+        "end": 140.222,
+        "text": "No, to sem te hotel vprašati, če še kadiš, ker si pri petih že delal mehorčke."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 140.442,
+        "end": 142.263,
+        "text": "Tako je in pri sedmih sem nehal."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 142.463,
+        "end": 146.944,
+        "text": "V osnovni šoli niti enega nisem pržgal, v srednji šoli niti enega nisem pržgal in polu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 147.244,
+        "end": 149.185,
+        "text": "Kot polcajek sem začel delati in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 149.445,
+        "end": 156.048,
+        "text": "Jaz sem drugim prijateljem, sem jemal cigarete, če sem jih kje videl in vrgel na tla in pohodil, ker mi je šlo to na živce."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 156.368,
+        "end": 156.728,
+        "text": "Še vedno?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 157.128,
+        "end": 158.368,
+        "text": "Ne, to ne delam več."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 158.749,
+        "end": 159.849,
+        "text": "Kadiš pa še vedno ne."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 159.989,
+        "end": 164.678,
+        "text": "Dobro, dobro."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 164.898,
+        "end": 168.425,
+        "text": "Dejan Avdic se je pripeljal iz Ljubljane na klepet."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 169.086,
+        "end": 171.25,
+        "text": "Ostanite na frekvencah Štajerskega vale."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 171.311,
+        "end": 171.872,
+        "text": "Zanimivo bo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 175.514,
+        "end": 184.198,
+        "text": "Denis Avdič je genialna in srčna oseba, ki odlično obvlada svoj poseb, zna pa tudi prisluhniti, slišati in pomagati."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 184.638,
+        "end": 189.0,
+        "text": "Nedavno že v šestem prazničnem maratonu na A1."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 189.28,
+        "end": 197.024,
+        "text": "Denis, pri sedmih si je mama ustvarila novo družino, ti si je ostal pri babici in teti."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 197.444,
+        "end": 200.886,
+        "text": "Mama bi morala oditi že prej so tvoje besede kruto spoznanje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 201.046,
+        "end": 205.787,
+        "text": "Nekako sem imel občutek, da bi si pač Totona mogla to življenje malo urediti že prej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 205.907,
+        "end": 207.207,
+        "text": "V tej smeri sem razmišljal."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 207.447,
+        "end": 209.148,
+        "text": "Se pravi, oče je šel in si je uredil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 209.208,
+        "end": 212.288,
+        "text": "Novo življenje v Sloveniji, z novo partnerko, otroke in kot držina."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 212.748,
+        "end": 213.269,
+        "text": "Mama pa ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 213.689,
+        "end": 217.549,
+        "text": "In mama je šele pol šla, ko se je teta ločila, ker ni mogla imeti otrok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 217.67,
+        "end": 222.691,
+        "text": "In ko je teta prišla, je mama takrat videla mogoče neko priliko, da meni nekje pusti in da gre."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 223.031,
+        "end": 224.371,
+        "text": "To mi recimo ni bilo pravo, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 224.671,
+        "end": 232.454,
+        "text": "Ampak to, da bi si ona mogla življenje urediti, se pravi, najdeti partnerja, mlada, sin, tako naprej, a pač imaš otroka iz poroga zakona, v redu, zgodi se, pač to je to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 232.915,
+        "end": 237.617,
+        "text": "Ampak da si pa nekoga najde, da si ustvari novo družino, je moj mnenje, da bi si mogla to narediti prej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 237.837,
+        "end": 239.617,
+        "text": "Mogoče bi šel tudi jaz takrat zraven."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 239.978,
+        "end": 244.199,
+        "text": "Ampak v tem primeru, ko je pa ona najdla, pa mene ni želela zraven."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 244.8,
+        "end": 248.601,
+        "text": "V kraju Dobrovci pri Gračanici se je vse to odvijalo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 249.121,
+        "end": 252.363,
+        "text": "Živeli ste skromno, a ne tarnaš zaradi tega?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 253.021,
+        "end": 255.824,
+        "text": "Ne, jaz sem imel fajn, jaz sem imel občutek svobode."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 255.905,
+        "end": 259.048,
+        "text": "Sem imel non-stop zuni, a je bil sneg, a je bilo pa poletje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 259.108,
+        "end": 266.217,
+        "text": "Živeli smo res na vasi, plezali smo, hodili smo kamarkol, ne vem, tudi po 7-8 kilometrov stran od hiše."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 266.337,
+        "end": 267.799,
+        "text": "Star 5-6 let otrok, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 268.38,
+        "end": 272.445,
+        "text": "To je meni danes nepredstavljivo, jaz svojega otroka, če ga ne vidim, imam že paniko."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 272.95,
+        "end": 281.162,
+        "text": "Deset let si imel, ko se je začela vojna v Bosni in Hercegovini in so te za to obdobje poslali živeti k očetu v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 281.623,
+        "end": 286.389,
+        "text": "Mali bosanček, prideš v kamnik, v peti razred osnovne šole."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 286.81,
+        "end": 287.952,
+        "text": "Trauma ali vdanost?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 288.172,
+        "end": 305.724,
+        "text": "Trauma mi je bila bolj ta, da sem prišel v novo okolje, kjer sem iz tiste svobode, ko zjutri ustaneš, greš od doma in te enostavno do večera ni in te nišče ne najde, ampak ti začeli priješ nazaj, si se imel pa cel dan fajn, nišče ni skrbil, kje boš jedel, asi kje jedel in tako naprej, ker nekje si zihar jedel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 305.764,
+        "end": 306.624,
+        "text": "Jaz sem se imel super."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 306.824,
+        "end": 311.047,
+        "text": "Pridaš v Slovenijo, ker moraš postaviti vprašanje, če reš lahko veniš z hiše, če reš lahko na dvorišče."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 311.267,
+        "end": 312.708,
+        "text": "Se pravi, sem se počutil, kaj sem prišel v zapor."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 312.888,
+        "end": 314.95,
+        "text": "Njobenega ne poznaš, nimaš svojih prijateljov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 315.17,
+        "end": 315.35,
+        "text": "Tuk"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 317.011,
+        "end": 320.074,
+        "text": "In če hočeš iti k kakšnemu sošolcu na obisk, se moraš najaviti?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 343.133,
+        "end": 350.097,
+        "text": "Tudi s to mi ni bilo prav, da v Sloveniji, da kaj greš in potrkaš, da je tako, ne, ne, vse imaš telefon, da jih pokliči prej pa vpraši, če lahko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 350.477,
+        "end": 350.817,
+        "text": "Tudi to je."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 350.897,
+        "end": 352.198,
+        "text": "To je bil taken šok."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 352.516,
+        "end": 364.868,
+        "text": "V šestem razredu so te skoraj spet selili v drugo šolo, ki so jo v Kamniku ustanovili za begunce, ti namreč nisi imel državljanstvo, a je oče uredil to po balkansko, da je ostalo?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 365.028,
+        "end": 373.557,
+        "text": "Mislim po balkansko, temu pa ne bom rekel po balkansko, rekel bom, da ga je uredil po slovensko, ker konc koncev smo bili v Sloveniji takrat."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 373.897,
+        "end": 390.433,
+        "text": "In na vse načine je probal, jaz sem se pravil peti razred, sem končal v slovenski šoli, končno sem osvojil slovenski jezik, novo pisavo, se pravil latinico in vse skupaj in potem so me hotel v šest razred dati kar nazaj v bekunsko šolo, ki bi tukaj potekala seveda spet v bosanskem jeziku."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 390.933,
+        "end": 392.675,
+        "text": "Zakaj, če sem izdelal peti razred?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 392.915,
+        "end": 394.616,
+        "text": "Ne sveda, da nimaš državljanstva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 395.177,
+        "end": 407.548,
+        "text": "In vse prošnje in tako naprej, in način je šlo čez, potem je pa pač dva dni preden se je začel šesti razred, je oče prišel domov v vrgo državljanstvo, prav vrgo ga je namizo, ker ima še donsto slika v glavi, v kuhni ga je vrgo namizo, je rekel, prej bi mi povedal, da je treba dati 800 mark."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 408.348,
+        "end": 417.176,
+        "text": "Vojne je konec, Denis Avdič naj bi se vrnil v Bosno, to da o tem poskladbi, ako ima Boga, skupine Bielo dugme."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 417.476,
+        "end": 418.397,
+        "text": "Fantastična pesem."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 421.332,
+        "end": 424.455,
+        "text": "Denis, si se tudi sam kdaj vprašal ima Boga?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 424.855,
+        "end": 425.616,
+        "text": "Ja, sem se."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 425.636,
+        "end": 434.343,
+        "text": "Imam občutek, da je nas zelo, zelo veliko enih ljudi malo pozabil in zaradi tega rajš verjamem, da ga ni kot da je."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 434.723,
+        "end": 447.554,
+        "text": "Verjamem pa, da nekaj pa tam zgorej obstaja v eni taki energijski obliki in imam občutek, da pa na to energijsko obliko pa lahko čist vsak od nas vpliva."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 448.114,
+        "end": 448.615,
+        "text": "In računa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 449.095,
+        "end": 450.256,
+        "text": "Ja, apsolutno da je."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 450.478,
+        "end": 464.004,
+        "text": "Pri koncu vojne na Balkanu sva ostala, babica umre, teta se poroči, ostaneš v Sloveniji, pridno zaključiš osmi razred, da zadostiš zahtevnim pogojem za vpis na policijsko šolo v Tacnu, ki je bila tisti hip v mnogo čem idealna."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 464.484,
+        "end": 472.888,
+        "text": "Pomenila je zanesljivo službo, selitev v internat, pa prenočišče in hrano od ponedelka do petka, pa še zagotovljena oblačila."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 472.908,
+        "end": 477.71,
+        "text": "V paketu dobra odločitev, kako pa jo je sprejela tvoja duša?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 478.117,
+        "end": 478.897,
+        "text": "Zelo dober."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 478.957,
+        "end": 481.618,
+        "text": "Za me je pa to moja druga družina v bistvu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 481.798,
+        "end": 483.979,
+        "text": "So šolci, vzgojitli in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 484.499,
+        "end": 489.981,
+        "text": "Ne vem, če bi lahko na katerikoli drugi šoli na tak način tako hiter, dajmo temu reči, se osamosvojil, dozoril."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 490.441,
+        "end": 497.183,
+        "text": "Ker tukaj si pač mogel, bil si vržen, končal si srednjo šolo, bil sem star 18 let in sem dobil že takoj pištola, uniforma, služba, delej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 497.843,
+        "end": 499.144,
+        "text": "Dvezni dopustaj in to je to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 499.505,
+        "end": 505.492,
+        "text": "Edino stvar, ki sem jo vedel, je bila prvi dan, ko sem končal v policijsko službo, sem sam ga sebe vprašal, zdaj pa dopenzi je tako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 505.512,
+        "end": 509.516,
+        "text": "In takrat sem si rekel, a ne, nekaj boš naredil."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 509.576,
+        "end": 518.446,
+        "text": "Skratka, pa v pravljeni šoli si se preselil v postojno in kot policist delal v cirknici, ob delu policista te zamika še radio."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 518.887,
+        "end": 523.731,
+        "text": "Začel si na radio Postojna oziroma Radio 94, kjer si izpolnjeval glasbene želje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 524.151,
+        "end": 532.398,
+        "text": "Sledil je radio Gama MM v Ljubljani, kjer ti je direktor svetoval, da odstani raje policist."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 532.578,
+        "end": 534.06,
+        "text": "Ni ti vzelo poguma?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 534.66,
+        "end": 535.321,
+        "text": "Ne, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 535.481,
+        "end": 543.508,
+        "text": "Svoje odločitve rad spremam sam in me ne pri zadane, če mi nekdo drug reče, da sem pa v nečem za nač."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 543.748,
+        "end": 546.23,
+        "text": "Kar gre zgolj za mnenje nekoga."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 546.68,
+        "end": 550.642,
+        "text": "Bil je še radio Antena, med vsem tem pa je nastajal radio Ena."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 551.442,
+        "end": 556.504,
+        "text": "Na audiciji so leta 2007 med 180-imi izbrali tri."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 557.425,
+        "end": 569.79,
+        "text": "Začel si kot vikend voditelj, dve leti je kasneje si vodel popovdenski program, 2011 pa si dobil svoj jutrani šov, tudi zato, ker si leto predtem dobil Viktorja za radijsko osebnost leta?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 570.102,
+        "end": 575.647,
+        "text": "Verjetno tudi zato, malo pa tudi zato, ker pač se mi zdi, da je bila takrat taka situacija."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 575.947,
+        "end": 579.61,
+        "text": "Na radiju Boštejan Romih ima enostavno preveč dela in ni več zdržal."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 579.67,
+        "end": 588.177,
+        "text": "Je bil potrče eno leto in pač ni bilo več, dajmo temu reči, prostora za neko improvizacijo in se je takrat vodstvo odločilo, kaj pa če damo priliko temu mlademu fantu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 589.078,
+        "end": 590.559,
+        "text": "In sem padel noto."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 590.639,
+        "end": 593.141,
+        "text": "In je skazalo se kot odlično."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 593.341,
+        "end": 596.524,
+        "text": "Viktorji so bili še 2012, 2016."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 596.965,
+        "end": 604.352,
+        "text": "Nedavno nazaj nas radicev pravzaprav razen po glasu ni prepoznao nihče."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 605.272,
+        "end": 607.855,
+        "text": "Družbena omrežja so zdaj vse to spremenila."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 608.155,
+        "end": 612.457,
+        "text": "Zdaj, danes v bistvu, če si na radiju, moraš biti na družbenih omrežjih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 612.477,
+        "end": 616.578,
+        "text": "Jaz sem en tistih, ki nikakor ni hotel biti na Instagramu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 617.059,
+        "end": 626.002,
+        "text": "Nekaj časa sem se še lahko opiral, dokler pač vodstvo ni reklo, ga boš sam imel ali ti ga bomo pa mi ustvarjal in ti bomo delal, kot da ga ti delaš."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 626.482,
+        "end": 627.563,
+        "text": "Ker to je danes potrebno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 627.983,
+        "end": 632.206,
+        "text": "In potem sem se pa res ustrašal, da bo nekdo to drug delal, pa bi ljudje mislili, da sem to jaz."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 632.226,
+        "end": 635.929,
+        "text": "In sem se rekel, rajš ga imam potem sam, kot kar pa da postim nekomu drugmu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 635.949,
+        "end": 643.435,
+        "text": "Tako da danes se mi zdi, da če delaš na radih, če delaš v medijih, moraš biti prisoten povsod, kjer je možno."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 643.575,
+        "end": 646.498,
+        "text": "Denis, si se tudi sam kdaj vprašal ima Boga?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 646.799,
+        "end": 647.68,
+        "text": "Ja, sem vse."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 647.7,
+        "end": 660.269,
+        "text": "Imam občutek, da je na zelo, zelo veliko enih ljudi malo pozabil in zaradi tega rajš verjamem, da ga ni kot da je, ker če je pa dopušča take stvari, je en velik prasec."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 660.709,
+        "end": 662.63,
+        "text": "To je moja razmišlja, to je moj tako iskreno odgovor."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 663.051,
+        "end": 675.84,
+        "text": "Verjamem pa, da nekaj pa tam zgorej obstaja v eni taki energijski obliki in imam občutek, da pa na to energijsko obliko pa lahko čisto vsak od nas vpliva."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 676.06,
+        "end": 676.967,
+        "text": "In računa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 677.41,
+        "end": 678.336,
+        "text": "Ja, apsolutno da."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 678.797,
+        "end": 692.322,
+        "text": "Pri koncu vojne na Balkanu sva ostala, babica umre, teta se poroči, ostaneš v Sloveniji, pridno zaključiš osmi razred, da zadostiš zahtevnim pogojem za vpis na policijsko šolo v Tacnu, ki je bila tisti hip v mnogo čem idealna."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 692.803,
+        "end": 701.206,
+        "text": "Pomenila je zanesljivo službo, selitev v internat, pa prenočišče in hrano od ponedelka do petka, pa še zagotovljena oblačila."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 701.226,
+        "end": 706.028,
+        "text": "V paketu dobra odločitev, kako pa jo je sprejela tvoja duša?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 706.435,
+        "end": 707.216,
+        "text": "Zelo dober."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 707.276,
+        "end": 709.658,
+        "text": "Za me je pa to moja druga družina v bistvu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 710.118,
+        "end": 712.3,
+        "text": "So šolci, vzgojitli in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 712.821,
+        "end": 718.305,
+        "text": "Ne vem, če bi lahko na katerikoli drugi šoli na tak način tako hiter, dajmo temu reči, se osamosvojil, dozoril."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 718.766,
+        "end": 725.511,
+        "text": "Ker tukaj si pač mogel, bil si vržen, končal si srednjo šolo, bil sem star 18 let in sem dobil že takoj pištola, uniforma, služba, delej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 726.112,
+        "end": 727.453,
+        "text": "Dvezni dopustaj in to je to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 727.813,
+        "end": 733.816,
+        "text": "Edino stvar, ki sem jo vedel, je bila prvi dan, ko sem končal policijsko službo, sem sam ga sebe vprašal, zdaj pa dopenzi je tako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 733.836,
+        "end": 737.517,
+        "text": "In takrat sem si rekel, a ne, nekaj boš naredil."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 737.878,
+        "end": 746.742,
+        "text": "Skratka, pa v pravljeni šoli si se preselil v postojno in kot policist delal v cirknici, ob delu policista te zamika še radio."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 747.222,
+        "end": 752.043,
+        "text": "Začel si na radio Postojna oziroma Radio 94, kjer si izpolnjeval glasbene želje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 752.483,
+        "end": 760.705,
+        "text": "Sledil je radio Gama MM v Ljubljani, kjer ti je direktor svetoval, da odstani raje policist."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 760.885,
+        "end": 762.365,
+        "text": "Ni ti vzelo poguma?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 762.965,
+        "end": 763.626,
+        "text": "Ne, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 763.806,
+        "end": 771.767,
+        "text": "Svoje odločitve rad spremam sam in me ne pri zadane, če mi nekdo drug reče, da sem pa v nečem za nač."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 772.047,
+        "end": 774.528,
+        "text": "Kar gre zgolj za mnenje nekoga."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 774.998,
+        "end": 778.959,
+        "text": "Bil je še radio Antena, med vsem tem pa je nastajal radio Ena."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 779.76,
+        "end": 784.821,
+        "text": "Na audiciji so leta 2007 med 180-imi izbrali tri."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 785.742,
+        "end": 798.106,
+        "text": "Začel si kot vikend voditelj, dve leti je kasneje si vodel popovdenski program, 2011 pa si dobil svoj jutrani šov, tudi zato, ker si leto predtem dobil Viktorja za radijsko osebnost leta?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 798.421,
+        "end": 803.967,
+        "text": "Verjetno tudi zato, malo pa tudi zato, ker pač se mi zdi, da je bila takrat taka situacija."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 804.268,
+        "end": 807.912,
+        "text": "Na radiju Boštejan Romih ima enostavno preveč dela in ni več zdržal."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 807.932,
+        "end": 816.501,
+        "text": "Je bil potrče eno leto in pač ni bilo več, dajmo temu reči, prostora za neko improvizacijo in se je takrat vodstvo odločilo, kaj pa če damo priliko temu mlademu fantu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 817.402,
+        "end": 818.824,
+        "text": "In sem padel not."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 818.924,
+        "end": 821.445,
+        "text": "In je skazalo se kot odlično."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 821.666,
+        "end": 824.847,
+        "text": "Viktorji so bili še 2012, 2016."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 825.288,
+        "end": 832.672,
+        "text": "Nedavno nazaj nas radicev pravzaprav razen po glasu ni prepoznao nihče."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 833.572,
+        "end": 836.174,
+        "text": "Družbena omrežja so zdaj vse to spremenila."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 836.474,
+        "end": 840.775,
+        "text": "Danes v bistvu, če si na radiju, moraš biti na družbenih omrežjih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 840.795,
+        "end": 844.896,
+        "text": "Jaz sem en tistih, ki nikakor ni hotel biti na Instagramu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 845.376,
+        "end": 854.318,
+        "text": "Nekaj časa sem se še lahko opiral, dokler pač vodstvo ni reklo, ga boš sam imel ali ti ga bomo pa mi ustvarjal in ti bomo delal, kot da ga ti delaš."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 854.799,
+        "end": 855.879,
+        "text": "Ker to je danes potrebno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 856.319,
+        "end": 860.526,
+        "text": "In potem sem se pa res ustrašal, da bo nekdo to drug delal, pa bi ljudje mislili, da sem to jaz."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 860.547,
+        "end": 864.253,
+        "text": "In sem rekel, rajš ga imam potem sam, kot kar pa, da postim nekomu drugmu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 864.293,
+        "end": 869.182,
+        "text": "Tako da danes se mi zdi, da če delaš na radih, če delaš v medijih, moraš biti prisoten povsod, ker je možno."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 873.599,
+        "end": 879.082,
+        "text": "Manifiko je zdaj odpel, reci ne, ko moraš reči da."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 880.142,
+        "end": 885.925,
+        "text": "Se je tebi to večkrat dogajalo?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 886.265,
+        "end": 891.328,
+        "text": "Ja, že od majhnega, že kot otrok sem mogoče, ko bi mogel reči ja, sem rekel ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 891.828,
+        "end": 897.871,
+        "text": "Kasneje ugotoviš, da pa so situacije, ki je prav, da rečeš ne, tudi če bi mogel reči."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 898.051,
+        "end": 900.252,
+        "text": "Kar te situacije se mi zdi, da te naredijo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 900.352,
+        "end": 907.153,
+        "text": "Če gledam samo karijerni vidik, te bolj definirajo stvari, ki si jih zavrnil, kot pa stvari, ki si jih sprejel."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 907.173,
+        "end": 916.475,
+        "text": "Osem let si bil zaposlen pri policiji, zdaj pa že deset let in točno en teden vodiš svoj jutrni program na komercijalni radijski postaji A1."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 917.156,
+        "end": 918.896,
+        "text": "Kako si si ga zamislil v začetku?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 919.043,
+        "end": 919.783,
+        "text": "Začel sem sam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 919.823,
+        "end": 925.865,
+        "text": "Stvar je bila pa v tem, da sem se jaz tri mesece dobesedno kregal z našim vodstvom, ko so oni meni rekli, če bi jaz delal zjutraj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 926.025,
+        "end": 931.507,
+        "text": "Spisal sem, kdo vse bi mogel delati za ta jutrani program, ljudi, ki so na radiju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 931.607,
+        "end": 934.828,
+        "text": "In tukaj so je zapel, ker je pa šef rekel, ti bi rad, da pa uradija dela sam za te."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 934.908,
+        "end": 935.588,
+        "text": "In jaz sem rekel, ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 935.648,
+        "end": 937.969,
+        "text": "Mi smo se pogovarjali o plači, mi so se kregali o ljudeh."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 938.209,
+        "end": 942.811,
+        "text": "In potem, ko je po treh mesecih popustil in mi dal na voljo vse te ljudi, sem pa začel."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 942.831,
+        "end": 944.011,
+        "text": "15 vas je zdaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 944.591,
+        "end": 946.632,
+        "text": "Ja, zdaj nas je okrog 15, ja, jutrani ekipe."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 946.904,
+        "end": 951.387,
+        "text": "Ljudje si sploh ne znajo predstavljati, kaj je še delo v ozadju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 952.188,
+        "end": 957.291,
+        "text": "En pripravljeno kroniko je audio producent pripravljati vso musko, na katero mi govorimo, vse podlage."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 957.331,
+        "end": 961.093,
+        "text": "Dva producenta kličeta samo poslušalce in snemata izjave."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 961.174,
+        "end": 963.355,
+        "text": "Potem imamo nekoga, ki gre tudi na teren, kaj preveriti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 963.415,
+        "end": 966.777,
+        "text": "Potem imamo urednico jutranjega programa, ki vse splanira, kaj bo imelo 6, 10, 6, 15, 6, 25, 6, 30."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 967.198,
+        "end": 968.458,
+        "text": "To je vse skup določen nekako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 968.498,
+        "end": 968.939,
+        "text": "Potem imamo..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 972.301,
+        "end": 980.586,
+        "text": "punco, ki skrbi za video oddel, kako bomo stvari nekje posneli, potem imamo družabna omrežja, kaj bomo kdaj objavili, na kak način, zakaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 980.706,
+        "end": 988.311,
+        "text": "Potem imamo pa še dva producenta, ki spiše ta dobesedno scenarij vsak dan, kako bo potekal, kaj kdo reče točno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 988.432,
+        "end": 996.577,
+        "text": "Se pravi, da jaz znam povedati, recimo jutri, kaj bomo govorili ob 7.10 in koliko časa bomo govorili in kaj bo kdo rekel, vse je določeno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 997.157,
+        "end": 1000.72,
+        "text": "Se pravi, dajmo reči, da smo stotno pripravljeni, ampak"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1001.36,
+        "end": 1006.362,
+        "text": "Uporabljamo 90 odstotkov priprave in si dopuščamo 10 odstotkov improvizacije."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1006.702,
+        "end": 1008.682,
+        "text": "Dotaknjeva se zdaj dobrodelnosti."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1009.303,
+        "end": 1020.126,
+        "text": "Že šesto leto zapored, tokrat 22. in 23. decembra ste na A1 neprekinjeno z dobrodelno noto odajali kar 28 ur številnimi gosti."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1020.526,
+        "end": 1022.087,
+        "text": "Letos prvič brez politikov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1022.437,
+        "end": 1031.522,
+        "text": "Seveda smo predsednika države in predsednika vlade, če so vsako leto povabil in če so vsak let sta se oba odzvala in sta prišla in je čast."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1031.642,
+        "end": 1039.746,
+        "text": "Kadarkoli se nek politik, pa sploh niti ni pomembno kdo, samo da se en politik pojavne, ki je ljudi razdvaja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1040.286,
+        "end": 1041.987,
+        "text": "Eni so za, eni pa ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1042.267,
+        "end": 1043.988,
+        "text": "Eni ga imajo radi, eni ga ne marajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1044.008,
+        "end": 1046.009,
+        "text": "In smo rekli, ne tega, pa res ne rabimo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1046.169,
+        "end": 1049.251,
+        "text": "Mi smo pa v situaciji, ko morajo biti pa vsi za vlade."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1049.251,
+        "end": 1051.233,
+        "text": "To se je izkazalo kot odlično."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1051.253,
+        "end": 1056.817,
+        "text": "2019 ste zbrali 353.319,70 evra."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1057.318,
+        "end": 1061.101,
+        "text": "Letos so bila zbrana sredstva popoln šok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1061.722,
+        "end": 1065.184,
+        "text": "Miljon 37 tisoč, pa še nekaj, več nekaj."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1065.325,
+        "end": 1066.706,
+        "text": "Bravo, še en poklon."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1066.946,
+        "end": 1070.789,
+        "text": "To je bila nevredna številka, ki jim ben ni pričakoval in jim vse sezula."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1070.849,
+        "end": 1073.812,
+        "text": "Tudi ljudem, ki so pomagali vas vse skupaj sezuti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1074.192,
+        "end": 1076.274,
+        "text": "Mislim, ja, brez ljudi ni šans."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1076.474,
+        "end": 1079.216,
+        "text": "To je prava moč radija, zato ga imam tako rad."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1079.316,
+        "end": 1091.967,
+        "text": "Enostavno imam občutek, da smo si blizu, tukaj, da smo en zraven druzga, da tole zdelje, kar poslušate in kar mi dva zdaj govoriva, da smo si enostavno nekako, da bi sedeli nekje na eni kavi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1092.407,
+        "end": 1097.752,
+        "text": "Med tem, ko drugi mediji, televizija in tako naprej, se mi zdi pa, da naredi en zid med nami."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1097.952,
+        "end": 1102.294,
+        "text": "Ja, da pač vi ste nekje tam in gledate nas, ki smo nekje tukaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1102.314,
+        "end": 1104.856,
+        "text": "Zaradi tega imam radijo od vseh medijev najrajš."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1105.576,
+        "end": 1114.701,
+        "text": "Med gosti je bil tudi Martin Golob, najbolj znani slovenski župnik, ta hip, ki se mu je ta četrtek dobesedno zgodilo dobro se z dobrim vrača."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1115.141,
+        "end": 1122.945,
+        "text": "On nam je prinesel svoj denar, ki ga je šparal za nakup kolesa in je rekel, kolobo že počako, jaz sem se odločil, da te svoje prihranjke podarim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1122.965,
+        "end": 1125.926,
+        "text": "V četrtek smo mu pa mi pač podarili specialko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1126.266,
+        "end": 1127.187,
+        "text": "Dobro se z dobrim vrača, ja."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1127.5,
+        "end": 1131.002,
+        "text": "V lanskem maratonu pa so pripravili prisenečene tudi zate."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1131.282,
+        "end": 1133.464,
+        "text": "Miro Todosovski je prišel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1134.004,
+        "end": 1137.466,
+        "text": "In vedno pojava mojo najljubšo pesem Divljagode kap po kap."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1141.709,
+        "end": 1147.132,
+        "text": "Denis Avdič velja za izvrstnega moderatorja Radija 1, odlično pa so znajde tudi pred kamero."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1147.693,
+        "end": 1151.635,
+        "text": "Že leta 2013 si imel na Planet TV svojo šov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1151.695,
+        "end": 1152.276,
+        "text": "Pozabil sem to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1155.192,
+        "end": 1157.914,
+        "text": "Katastrofa je bila."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1158.294,
+        "end": 1160.836,
+        "text": "Gremo naprej, to pozabimo, pa je."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1162.237,
+        "end": 1167.94,
+        "text": "Od leta 2014 si nepogrešljiv voditelj licenčne vodaje Znano Brasi ima svoj glas."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1168.461,
+        "end": 1178.027,
+        "text": "Trija sodelavci ste zadolženi za besedila in scenarij, ti pa potem zameš vajeti v svoje roke in nas dobesedno prilepiš pred televizorjem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1178.227,
+        "end": 1182.208,
+        "text": "Joj, ni, ja, to je, ne, mislim, ni, ni, ni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1182.548,
+        "end": 1184.449,
+        "text": "Ma brez lažne skromnosti, prosim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1184.469,
+        "end": 1188.831,
+        "text": "Jaz sem tukaj, jaz sem tukaj v vlogi prometnika, nekega povezovalca."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1188.951,
+        "end": 1193.372,
+        "text": "Ta odaja mi je všeč zato, ker ima že vsebino, ki jo meni ni treba pripravljati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1193.712,
+        "end": 1199.874,
+        "text": "Glavne zvezde so tekmovalci, teh je osem, vsak teden se preobrazijo v neko glasbeno zvezdo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1200.114,
+        "end": 1207.897,
+        "text": "Nisem v prvem planu, kar mi pa neizmerno ustreza, da bi imel pa neko svojo avtorsko odaja, pa vem, koliko je dela, ko dobiš nepopisan list papirja,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1208.197,
+        "end": 1210.378,
+        "text": "In moraš začeti od začetka do konca."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1210.478,
+        "end": 1211.519,
+        "text": "Ekipa je res ogromna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1211.679,
+        "end": 1216.662,
+        "text": "Maska, vaje, produkcija, skratka več kot sto ljudi to dela."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1217.283,
+        "end": 1220.565,
+        "text": "Jaz bi to dal gledal, če ne bi vodil."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1221.205,
+        "end": 1222.186,
+        "text": "Kdaj bo nadaljevanje?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1222.906,
+        "end": 1225.348,
+        "text": "Ko bomo lahko imeli publiko."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1225.448,
+        "end": 1229.651,
+        "text": "Dotakniva se še stand-upa, začelo se je na policijskih novoletnih zabavah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1230.438,
+        "end": 1234.881,
+        "text": "Ja, se pravi, vzgojiteljice iz vrtca in policaji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1234.961,
+        "end": 1242.366,
+        "text": "Skupaj smo najeli eno gostilno in smo imeli novoletno zabavo in meni so dal mikrofon, roke, da nekaj povem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1242.727,
+        "end": 1251.973,
+        "text": "In jaz sem bil obrnen proti policajem in sem oponašal in sem se zafrkavil, ampak sem zelo hitro ugotovo, da se smejo pa tudi na tej strani, ko so vzgojiteljice."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1252.173,
+        "end": 1255.556,
+        "text": "In takrat sem prvič začutil, da sem pa smešen, ker..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1255.936,
+        "end": 1258.418,
+        "text": "se smejejo tudi ljudje, ki me sploh ne poznajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1258.678,
+        "end": 1262.041,
+        "text": "In takrat je bil prvič v meni občutek, koliko je to dobro početi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1262.441,
+        "end": 1265.103,
+        "text": "In pa spoznanje, da pa lahko to počnem."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1265.704,
+        "end": 1269.226,
+        "text": "V Špast teatru si bil gost Vida Valiča."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1269.286,
+        "end": 1270.848,
+        "text": "Zanimiva izkušnja, Nataljuj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1271.562,
+        "end": 1274.244,
+        "text": "On me je povabil za svojega zadnjega gosta teh stand-up večerov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1274.404,
+        "end": 1279.548,
+        "text": "Karte so bile razprodane v petih minutah in to ne za stopnice, ampak za ta veliko dvorano."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1279.948,
+        "end": 1282.911,
+        "text": "Jaz sem mislil, da bom nastopil enkrat in potem sem nastopil 220 krat."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1282.991,
+        "end": 1286.113,
+        "text": "Bila sem v Tivoliju, na kongresnem trgu je bilo 15 tisoč ljudi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1286.233,
+        "end": 1290.557,
+        "text": "Skratka, taka nepozabna vožnja po slovenske gledališče."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1291.137,
+        "end": 1294.599,
+        "text": "Spomnimo se predstavu Dar po moško, Dar po moško 2."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1294.719,
+        "end": 1306.964,
+        "text": "Odličen se je bil komedij Moš, ki so z Marsa ženske, so z Venere, pri kateri so se gledalci spraševali, zakaj bi plačevali drage zakonske terapevte, ko pa imamo Denisa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1307.135,
+        "end": 1309.557,
+        "text": "Ja, ne, je kar, če rabiš terapevta, si ga vzem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1310.678,
+        "end": 1311.739,
+        "text": "To je moj nasvet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1312.299,
+        "end": 1315.502,
+        "text": "Ampak, ja, ta predstava je pa tudi mena ljubša."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1315.722,
+        "end": 1318.164,
+        "text": "270 predstav sem imel in je bilo ful dober."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1318.264,
+        "end": 1322.827,
+        "text": "Ta predstava ima tudi še dve nadaljevanji, še drugi del in tretji del."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1322.967,
+        "end": 1336.578,
+        "text": "In trenutno sem v fazi, ko se mi ne ljubi tega delati zaenkrat, ker imam mehnega otroka, pa sem rekel, da bom še malo s tem počakal, ampak zagotovo bi pa rad naredil še drugi in tretji del."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1337.341,
+        "end": 1342.785,
+        "text": "Ko gledamo stand-up nastope, imamo največkrat vtis čiste improvizacije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1343.205,
+        "end": 1352.571,
+        "text": "Jaz za eno predstavo, ki traja eno uro, eno uro po deset minut, porabim tam nekje leto do dve leti dela."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1353.191,
+        "end": 1356.414,
+        "text": "Vse je natančno spisano, naučeno na pamet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1356.994,
+        "end": 1358.495,
+        "text": "Moški so zmarjste, ženski so zvenene."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1358.555,
+        "end": 1362.017,
+        "text": "Predstava traja uro po pol, ima 54 strani, fond črk je 12."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1363.278,
+        "end": 1365.459,
+        "text": "Vse znam dobesedno na pamet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1365.559,
+        "end": 1367.26,
+        "text": "Vseh 54 strani."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1367.42,
+        "end": 1369.481,
+        "text": "Do vejce na pamet znam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1370.082,
+        "end": 1373.504,
+        "text": "Jaz sem na odru zgledal, kot da govorim in kot da improviziram."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1374.024,
+        "end": 1376.425,
+        "text": "Če bi me kdorkoli v mesu vprašal, ej, koliko je ura?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1376.565,
+        "end": 1378.106,
+        "text": "Ali pa, ali grem lahko na vejce?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1378.646,
+        "end": 1379.587,
+        "text": "Sam, da bi me prekinul."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1379.967,
+        "end": 1381.948,
+        "text": "bi bilo konc z mano."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1381.968,
+        "end": 1382.848,
+        "text": "Jaz bi se zgubil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1383.148,
+        "end": 1385.349,
+        "text": "In dvakrat se mi je to zgodilo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1385.409,
+        "end": 1396.193,
+        "text": "In sem mogel iti nazaj po scenariji, ljudje so čakali, jaz sem listal, da sem videl, kje sem se ustavil, da sem prebral dva stavka in je steklo naprej."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1396.313,
+        "end": 1407.297,
+        "text": "Denis, znan si kot moderator brez dlake na jeziku, ki znaš s svojim humorjem nasmejati poslušalce tudi z odličnimi imitacijami znanih slovencev."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1408.3,
+        "end": 1410.724,
+        "text": "Tudi s tem si začel na policijskih zabavah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1410.804,
+        "end": 1411.225,
+        "text": "Tudi, ja."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1411.485,
+        "end": 1416.112,
+        "text": "Imitacije so mi zdijo res danost izbrancem."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1416.553,
+        "end": 1419.077,
+        "text": "Kako poteka preobrazba v drugo osebo?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1419.457,
+        "end": 1423.724,
+        "text": "Tu je glas, tu je tisoč in ena tipičnost, ki mora prepričati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1424.264,
+        "end": 1435.071,
+        "text": "Nikoli nisem novega študiral, enostavno sem probal iz čiste zafrekancije in ko so moji prijatelji, to je pa čisto dešenka, deš še malo, sem se pa pol temu malo posvetil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1435.191,
+        "end": 1440.734,
+        "text": "Nikoli si pa nisem rekel, aha, tega bom in zdaj ga bom gledal in zdaj ga bom študiral in zdaj se bom naučil in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1441.755,
+        "end": 1442.835,
+        "text": "Nikoli nisem tega počel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1443.116,
+        "end": 1443.336,
+        "text": "Danes, ja."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1443.856,
+        "end": 1445.338,
+        "text": "Zdaj si slavna vsebnost."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1445.478,
+        "end": 1450.844,
+        "text": "Ni bila lahka pod do tega, tudi tvoj dan ima samo 24 ur."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1451.345,
+        "end": 1454.508,
+        "text": "Zgodilo se je, da je bilo vsega v nekem trenutku preveč."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1454.909,
+        "end": 1460.375,
+        "text": "Telo ti je sporočilo in ti je dalo poduk, da moraš kdaj znati reči ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1460.579,
+        "end": 1461.499,
+        "text": "Ja, do 16, ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1461.539,
+        "end": 1476.787,
+        "text": "Zjutri ustanem v 4, sem šel na radio, iz radio sem šel pol direkt na Pop TV, iz Pop TV direkt sem v avto, pa sem se nekam pelil na predstavo in domov sem prišel okrog polnoči, sem šel po tuž, spati za 3 ure in spet sem je dan ponovil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1477.348,
+        "end": 1481.23,
+        "text": "In po šestih letih se mi je zgodilo, da sem zjutri ustal, šel na radio, prišel domov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1482.01,
+        "end": 1499.718,
+        "text": "Šel pod tuž, šel v dnevno sobo, otroku lupčka dati, pa reči, da dio, in ko sem se sklonil, sem začutil eno, kot da me srce močno zabolelo, ostal sem brez zraka in sem se sam zgrudil in sem padel, takrat je prišel rašivljic in ukliničen, ga je tako naprej in so delali nekaj preskave, skratka vsi znaki so kazali, da je bil to infarkt."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1499.818,
+        "end": 1503.74,
+        "text": "Potem smo se pa pač malo pogovarjali z psihologi in pa smo pa ugotovili, da"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1504.42,
+        "end": 1509.264,
+        "text": "Je pa to posledica nespanja, pretjeranega dela, stresa in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_07",
+        "start": 1509.304,
+        "end": 1509.945,
+        "text": "Vsega preveč."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1510.025,
+        "end": 1517.412,
+        "text": "Ja, in je enostavno šlo za izgorelost in so mi rekli malo se umirfati in je to to in smo malo zmanjšali stvari."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1517.768,
+        "end": 1530.218,
+        "text": "Odkar si se pojavil na slovenskem medijskem prostoru, si po imenovanju Bosanac dal, kot se je predtem trudil že Džuro, novo podobo negativnega prizvoka, oznake z žalivo nalepko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1530.539,
+        "end": 1534.162,
+        "text": "Nekateri so to, je malo v Sloveniji kot žalivko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1534.342,
+        "end": 1537.705,
+        "text": "Tako da je nekoga, lej ga, kakšen si Bosanci in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1537.725,
+        "end": 1539.766,
+        "text": "Ja, lej ga, kakšen si Slovenc, kje so zdaj?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1540.066,
+        "end": 1542.629,
+        "text": "In če me kdo rekel Bosanc, sem rekel nazaj enostavno Slovenc."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1542.709,
+        "end": 1543.71,
+        "text": "A se ti počutiš žalnega?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1543.75,
+        "end": 1543.85,
+        "text": "Ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1544.01,
+        "end": 1544.991,
+        "text": "Zakaj bi si mogel jaz?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1545.511,
+        "end": 1558.415,
+        "text": "In sem se nekako trudil, da poveja, da pa to pač ni željuka, da je to zgolj beseda, ki se uporablja, da označiš človeka, ki prihaja iz teh krajev."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1558.755,
+        "end": 1566.117,
+        "text": "Oroz na vas, Dobrovci v Bosni se vrača, šteta ima tam nov dom, ki si ga pomagal preurediti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1566.456,
+        "end": 1569.099,
+        "text": "Ta hiša je bila narejena še iz kamna pa blata."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1569.579,
+        "end": 1570.98,
+        "text": "Ni imela niti kopalnice notra."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1571.0,
+        "end": 1572.682,
+        "text": "To je en sam prostor, jene na peču."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1572.902,
+        "end": 1574.604,
+        "text": "Stara smederevac na drva."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1575.184,
+        "end": 1582.231,
+        "text": "Ko se je tim rodil, se pravi 2013, smo šli mi v Bosno in jaz pač, ne morem biti z Zajenčkom zdaj v tisti bajti, jaz sem bil v hotelu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1582.831,
+        "end": 1583.812,
+        "text": "In tja je to to malo prizadel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1583.832,
+        "end": 1586.014,
+        "text": "In zdaj moram reči, da je to zelo smešna stvar, ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1586.635,
+        "end": 1593.237,
+        "text": "Jaz sem dal se z temi delovci, ki so lokalnimi v Bosni, pač naš gradbenike, in pa smo mi to na papir vrgli."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1593.257,
+        "end": 1600.42,
+        "text": "Jaz sem šel na spletno strano montažne hiše, ki smo vzeli en načrt in sem rekel, dajte vi mi predračun, kako bi pa to prišlo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1600.44,
+        "end": 1604.582,
+        "text": "30 tisoč evrov so dal predračun za hišo veliko 160 kvadratov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1604.982,
+        "end": 1605.722,
+        "text": "Vse je noter."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1605.822,
+        "end": 1607.524,
+        "text": "In sem pač rekel, ja, pa pa dejmo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1607.965,
+        "end": 1609.326,
+        "text": "In zdaj teta notra živi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1609.547,
+        "end": 1613.612,
+        "text": "In mi, ko pridemo, imamo svojo spalnico in tudi kopalnico."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1614.473,
+        "end": 1615.534,
+        "text": "Greva spet glasbi."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1615.754,
+        "end": 1621.221,
+        "text": "To še proizki z pesmijo Pratim te je zadnja izbira Denisa Audiča danes."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1621.522,
+        "end": 1623.464,
+        "text": "Mi dva pa pridemo nazaj še enkrat."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1627.574,
+        "end": 1629.196,
+        "text": "Nesmrtni to še je bil to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1629.616,
+        "end": 1630.397,
+        "text": "Njega obožujem."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1630.657,
+        "end": 1634.962,
+        "text": "Slava pri mnogih tirja svoj davek, tudi v osebnem življenju."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1635.623,
+        "end": 1638.686,
+        "text": "Povezovali so te z mnogimi znanimi Slovenkami."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1638.926,
+        "end": 1644.472,
+        "text": "Tvoje srce je bije že zelo dolgo zakamničanko Ano, rojeno v Banjeluki."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1644.552,
+        "end": 1647.215,
+        "text": "Se spomniš za detka Amorjeve puščice?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1647.858,
+        "end": 1648.698,
+        "text": "Spomnim se, ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1648.918,
+        "end": 1650.299,
+        "text": "Jaz se poznavam še iz srednje šole, no."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1650.879,
+        "end": 1655.94,
+        "text": "In ona je bila sošolka od mojega najboljšega prijatela in on je mogel enkrat iti po ene zapiske, polkih njej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1656.0,
+        "end": 1657.94,
+        "text": "In sva šla skupaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1657.98,
+        "end": 1665.022,
+        "text": "In jaz, ko sem jo videl, nisem pregovoril besede, nisem nekaj živel, nisem rekel, jaz sem bil čistih in sem jo sam gledal."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1665.322,
+        "end": 1665.502,
+        "text": "Zazet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1665.562,
+        "end": 1670.663,
+        "text": "In potem, fu, let nazaj, sva se pa pol srečala in sva šla na kavo in ja."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1671.162,
+        "end": 1676.265,
+        "text": "Stej ste srečno poročena, imate dva sinova, Tima in Nika."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1676.605,
+        "end": 1678.706,
+        "text": "In šolanje od doma."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1679.146,
+        "end": 1680.987,
+        "text": "Tim je drugi razred, ta malo je pa star dve leti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1681.767,
+        "end": 1682.888,
+        "text": "Nik se mi zdi, da bo večji problem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1682.908,
+        "end": 1690.452,
+        "text": "Jaz se v bistvu že zdaj Timu govorim, da ta malo brat, zihar mu ne bo ratal v življenju in ne bo imel odnare in če ga ne bo imel, da mu more pomagati."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1690.512,
+        "end": 1691.632,
+        "text": "Živite v Ljubljani."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1691.933,
+        "end": 1692.053,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1692.593,
+        "end": 1694.754,
+        "text": "Krk pa je vaš pobek na morje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1694.854,
+        "end": 1695.434,
+        "text": "Ja, ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1695.494,
+        "end": 1700.257,
+        "text": "Krk je pa nekaj tazga, da gremo nekam in da se malo odklopimo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1700.626,
+        "end": 1703.627,
+        "text": "V Kamniku si imel lokal, tega se ne greš več."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1703.707,
+        "end": 1704.168,
+        "text": "Nikoli."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1704.428,
+        "end": 1706.609,
+        "text": "Avdič na Žaru je pa še vedno tam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1706.909,
+        "end": 1720.255,
+        "text": "Ja, to je zdaj taka stvar, ne, jaz sem imel lokal dve let in ja, zgubil sem, zgubila sva žena, vse, brez veze, te ti, če hočeš imeti lokal, danes jaz čestitam vsakmu, ki mu laufa, ne, da kaj zasluži, da ima sploh odprte čestitke."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1720.555,
+        "end": 1723.656,
+        "text": "To moraš biti skoz prisoten in moraš biti skoz raven."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1723.716,
+        "end": 1725.257,
+        "text": "In sva ga dala v podnajem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1725.657,
+        "end": 1729.578,
+        "text": "Ja, nisem potem mogel spremeniti imena, ker pač jaz sem Avdič Denis."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1729.698,
+        "end": 1732.96,
+        "text": "Avdič je pa kar velik in Avdič na žaru in nekdo to imel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1733.04,
+        "end": 1736.641,
+        "text": "Tako da jaz pa mislim, da pa zdaj, pred kratkim, da se je pa to zgodil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1736.841,
+        "end": 1746.625,
+        "text": "Ker jaz sem pa že res prosil, da je pa zdaj že res caj po vseh teh letih, da če lahko prosim, pa se to ime lokala spremeni, ker ljudje še vedno mislijo, da je to moje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1746.725,
+        "end": 1749.586,
+        "text": "In mislim, da se je prejmenovalo Kantina Kamnik, končno."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1749.766,
+        "end": 1753.894,
+        "text": "Tatarc, suši, to te vedno zapelje."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1754.175,
+        "end": 1756.259,
+        "text": "Še prav nič ni diši po Bozni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1757.09,
+        "end": 1761.471,
+        "text": "Veljaš za hitrega, energičnega, duhovitega in prijaznega, vs čas nasmejanega govorca, tudi doma?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1782.149,
+        "end": 1782.909,
+        "text": "Ja, kaj pa se."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1783.029,
+        "end": 1784.81,
+        "text": "Zdaj tukaj Ana bi znala mrsko jih povedati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1784.95,
+        "end": 1792.073,
+        "text": "Ana zna vedno reči, to, kar vi vidite na radiju, pa na televiziji, pa na odrih, pa na stopih, vi morate vedeti, da vi vedno dobite najboljš od njega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1792.753,
+        "end": 1794.774,
+        "text": "Jaz dobim pa vse ostalo tudi doma."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1795.274,
+        "end": 1797.635,
+        "text": "Doma znam biti tudi sploh do otrok, znam biti tudi strok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1798.216,
+        "end": 1801.437,
+        "text": "Ker se mi zdi, da imajo neke omejitve."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1801.697,
+        "end": 1808.76,
+        "text": "Posel povezuješ z dobrovoljo in največja nagrada ti je, da ljudi nasmejiš, pa tudi, da jim pomagaš."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1809.149,
+        "end": 1811.77,
+        "text": "Takrat je dosto, da mogoče ljudem sam prisluhneš."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1811.89,
+        "end": 1815.151,
+        "text": "Jaz bi vse naredil, da ljudi nasmejem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1815.811,
+        "end": 1816.111,
+        "text": "Vse."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1817.231,
+        "end": 1820.452,
+        "text": "In nimam ja zdaj te meje, kaj ne smem reči, kaj ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1820.552,
+        "end": 1822.313,
+        "text": "Mislim, meni je tako, jaz bom rekel karkoli."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1822.793,
+        "end": 1826.894,
+        "text": "Jaz se bom tudi slekel, če se bo kdo smel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1827.475,
+        "end": 1832.036,
+        "text": "In tukaj pa zelo hitro greš pa čez mejo in rečeš, o, to pa ni prav, da je rekel, to pa ne bi smel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1832.196,
+        "end": 1835.537,
+        "text": "Ampak vedno pa vse delam z namenom, da nekoga spravim v dobro volo."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1835.812,
+        "end": 1849.115,
+        "text": "Dragi mi, Denis Avdič, še enkrat iskrene čestitke za rekordni znesek v nedavnem 28-urnem maratonu in za tvojih izjemnih deset let in en teden v Denis Avdič šovu na Radio 1."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1849.995,
+        "end": 1860.517,
+        "text": "Počaščena sem, da si se v blišču vsega tega odzval mojemu povabilu in obogatil naše drugo nedelsko dopovdne z letnico 2021."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1861.977,
+        "end": 1865.258,
+        "text": "Za popotnico pa ena čokolada, ker imaš tudi to za nas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1865.798,
+        "end": 1866.721,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1866.781,
+        "end": 1867.865,
+        "text": "Kakšen je nekaj s peferonom?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1868.005,
+        "end": 1868.306,
+        "text": "Čili."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1868.607,
+        "end": 1869.088,
+        "text": "Dobar je."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1869.329,
+        "end": 1870.814,
+        "text": "Bom si vzel še vodo zraven."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1872.64,
+        "end": 1873.141,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1873.362,
+        "end": 1875.208,
+        "text": "Pa lepo nedeljo vsem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1875.368,
+        "end": 1875.79,
+        "text": "Pa še kdaj."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1876.211,
+        "end": 1876.713,
+        "text": "Z veseljem."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1876.873,
+        "end": 1877.174,
+        "text": "Srečno."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1877.234,
+        "end": 1877.395,
+        "text": "Adio."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1877.435,
+        "end": 1877.575,
+        "text": "Čau."
+      }
+    ],
+    "runtime_sec": 590.8584425449371
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.23658805771010333,
+      "miss": 0.03354330563420371,
+      "fa": 0.15771225494265148,
+      "confusion": 0.045332497133248106,
+      "total_duration": 1626.404999999973
+    },
+    "der_collar0.25": {
+      "der": 0.2384137433939242,
+      "miss": 0.024135398125399995,
+      "fa": 0.17146779425075423,
+      "confusion": 0.04281055101776998,
+      "total_duration": 1453.9639999999729
+    },
+    "wer": {
+      "wer": 0.47206244864420704,
+      "ref_words": 4868,
+      "hyp_words": 5082
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 0.031,
+        "end": 1.195,
+        "text": "Lez bi vse naredil!"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1.82,
+        "end": 2.765,
+        "text": "Da ljudi ne smejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2.765,
+        "end": 3.237,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3.203,
+        "end": 3.76,
+        "text": "Vse."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 4.672,
+        "end": 12.367,
+        "text": "In nimam je z tem meje, kaj ne sme mreč, kakaj ne, mi se meni tako, jaz bom rekel, kar kol, da se bom tudi slekel, če se bo glosmejo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 14.678,
+        "end": 31.486,
+        "text": "Z mano je ta hip najbolj popularni slovenec oziroma slovenski bosanec, karizmatični in brezmejno duhovit radijski in televizijski voditelj Denis Avdič.Pred natanko enim tednom je vpihnil deset svečk v Denis Avdićovu na radi uena."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 32.026,
+        "end": 36.059,
+        "text": "Dobrodošel in seveda velik poklon in iskre nečastit."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 36.65,
+        "end": 39.552,
+        "text": "Je hvala lepa, jo je kakal lepa napoved živja, čejo!"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 39.805,
+        "end": 50.437,
+        "text": "Zabavljač si menda že od nekdaj, a je res, da si rad nastopal, pev in zabaval ljudi v lokalnih avtobusih v Rodni Bosni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 50.538,
+        "end": 63.059,
+        "text": "Res je, ja, ko sem šla z mamo, kamar pa ko semšel s teto, kamarkoli, ko so popolnjeni znanci bili na avtobusu, sem kot otrok znal ustet, nasedeš in sem pel. In ljudje so poslušali in se mi ploskali in je bilo to to."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 63.599,
+        "end": 70.872,
+        "text": "Vemo, da sta se starša kmalu po tvojem rojstvu ločila, ti si ostal pri mami, kuharici v gostilni."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 69.286,
+        "end": 69.758,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 71.058,
+        "end": 74.534,
+        "text": "Ker si je preživel tudi veliko svojega časa."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 74.45,
+        "end": 74.753,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 74.872,
+        "end": 81.368,
+        "text": "Frascenirala me je tvoja izkušnja igranja bilijarda v tej gostilni, ko sem jo komaj pet let."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 81.554,
+        "end": 103.762,
+        "text": "To je bila edina gostilna o vasi in pa če tam sem preživlo svoj čas, igrišče bo tudi blizu in pač al sem bil neigriš čolsem bil potem.Ja, sem biliard skos igro in pri petih letih sem ga je zelo dober igro, če prostim bi v mehem, mi je zdal sto vzraven in jaz sem stopo na stol palce ble ita trikrat večjo od mene in četv cele dnevi igraš, polga res ne že dober igre, dom z bomo rekel njen pojma, takrat sem ga pa obladil."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 103.947,
+        "end": 108.149,
+        "text": "Tudi kdo, ki je čakal načevabči, če je bil izvan za..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 108.149,
+        "end": 122.425,
+        "text": "Ja, ja, ne, se pravam, da so že na koncu nekoga, ki je bil prvič, ki si je sam mem pelu, pa se ustavo, da je neki povedal, ker je bil lačen, so ga znal lokalci izved pet ti proti Tomavmu za, ne vem, stomark, njen je vsak misel do bodovone."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 108.318,
+        "end": 109.718,
+        "text": "Ja, je, ne, to..."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 123.134,
+        "end": 124.163,
+        "text": "Si dobil kaj od tega?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 125.581,
+        "end": 134.66,
+        "text": "Uh, ja, dobo sem in moram reš da pri petih ali šestih letih sem potem tatnar z pravostci grete, ker sem kadi užite krat."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 134.66,
+        "end": 140.279,
+        "text": "No, to sem tehodelo vprašati, če je še kadiž, ker si pri petih že delal mehurčke."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 135.925,
+        "end": 136.229,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 140.38,
+        "end": 156.766,
+        "text": "Tako je in pri sedmih sem nehal, v osnovni šoli niti en ga nisem pržgal, v srednji šoli ni niti enga nisam pržgala in polo kot polcaik sem začel delati in ko naprej, jaz sem drugim prijatlom, sem jemol cigarete, če sem jih kje videl in vrgel na tla in pohodu, ker mi je šlo to na živce."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 156.243,
+        "end": 156.833,
+        "text": "Še vedno?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 156.833,
+        "end": 158.707,
+        "text": "Ne, to ne delam več."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 158.707,
+        "end": 159.922,
+        "text": "Kadiš pa še vedno ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 160.141,
+        "end": 161.255,
+        "text": "A..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 162.436,
+        "end": 162.689,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 162.689,
+        "end": 168.612,
+        "text": "Dobro, dobro! Dejan Avdic se je pripeljal iz Ljubljane na klepet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 164.326,
+        "end": 165.473,
+        "text": "Deja navdišči."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 168.916,
+        "end": 172.004,
+        "text": "Ostanite na frekvencah štajerskega vala, zanimivo bo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 175.531,
+        "end": 193.942,
+        "text": "Denis Avdič je genialna in srčna oseba, ki odlično obvlada svoj posel, zna pa tudi prisluhniti slišati in pomagati, nedavno že v šestem prazničnem maratonu na A ena.Deniz pri sedmih si je mama ustvarila novo družino."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 193.807,
+        "end": 194.212,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 194.296,
+        "end": 196.928,
+        "text": "Ti si je ostal pri babici in tretji."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 196.827,
+        "end": 196.844,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 196.844,
+        "end": 197.182,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 197.182,
+        "end": 200.995,
+        "text": "Mama bi morala oditi že prej svoje besede, kruto spoznanje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 201.063,
+        "end": 242.339,
+        "text": "Nekak sem jo občutek, da si pač toto namogla to življenje malo urediti že prej v tej smeri sem razmišlo, sprav oče je šel in si je uredil novo živlinje v Sloveniji z nova partnerko otroke in kot družina, mama pa ne in mama je šele pol šla, ko se je teta ločila, kaj ni mogla med otrok in ko je tata pa šla je mama takrat videla mogoče neko priliko, da meni nekje pusti in da gre, to mi recimo ni bilo prav, ampak toda psijona mogla življenja uredic, prav najde partnerja mlada si in tako napreja pač maša troka iz prvega zakona o redu zgodi se, pa če to je to, ampaki da si pa nekoga najde, da si ustvari novo družino, me je moj mnenje, da bi si mogla to narediti prej.Mogoče bi šel do te stakrat zdraven, ampak v tem primeru, ko pa ona najdla..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 223.962,
+        "end": 224.907,
+        "text": "Prav ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 243.098,
+        "end": 244.212,
+        "text": "Pa mene ni želela zdrav."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 244.702,
+        "end": 252.481,
+        "text": "V kraju dobrovci pri gračanici se je vse to odvijalo, živeli ste skromno, a ne partner zaradi tega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 253.021,
+        "end": 272.528,
+        "text": "Ne, sem se v fani, sem jaz imel občutek svobode. Sem bil na stopzuni, a je bil sneg, aj pa poletje živeli smo res na vasi, plezel smo, hodil smo kmarkol, ne vem, tudi po sedem osem kilometrov stran od hiše star pet šest let otrokne, to imen donost nepredstavljiv, je svojega otroka če ga ne videm, me mam že paniko!"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 272.95,
+        "end": 281.05,
+        "text": "Deset let si imel, ko se je začela vojna v Bosni in Hercegovini, in so te za to obdobje poslali živet k očetu v Slovenijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 280.848,
+        "end": 280.915,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 280.915,
+        "end": 280.966,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 280.966,
+        "end": 281.033,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 281.05,
+        "end": 281.236,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 281.472,
+        "end": 284.138,
+        "text": "Mali borsanček prideš v kamnik."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 284.29,
+        "end": 284.645,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 284.645,
+        "end": 286.45,
+        "text": "Peti razred osnovne šole."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 286.349,
+        "end": 286.67,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 286.67,
+        "end": 288.087,
+        "text": "Travma ali vdanost?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 288.104,
+        "end": 333.7,
+        "text": "Trauma mi je bila bolj ta, da sem pršil v novo okolje, kjer sami stiste svobode, ko zjutraj ustaneš, greš od doma in te enostavno do večera ni, internihče ne najde, ampak ti začel prijež nazaj, si se me oprzel dan, fajn, nihče ni skrbel, kje boš jedu, a si kje jedu in ko naprej, ker nekje si zihar jedu. Ne sem se mu super, prideš v Slovenijo, ker morši svoje generacije na šoli.In pa sem pršel po Slovenijo, se prava v nov jezik, tudi nova pisava in mi je bilo težko sprejet, da mam zelo oceno tri, če sem jo v dolu vse pet, pa se sploh nisem rabo učit za to, saj se pa matram..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 335.725,
+        "end": 339.32,
+        "text": "Jen manj tri, da ne znam opis, a kako je to mene bole."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 338.813,
+        "end": 343.1,
+        "text": "In kako češitek, kakšnemu sošolcu na obisk se moraš najaviti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 343.1,
+        "end": 352.212,
+        "text": "Tudi to mi ni bilo prav, da v Sloveniji, da k grešem potrkaš, da je tako na ne, se imaš telefond in pokliči prej povpraši, če lahko. To je, da bo takem šok."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 351.115,
+        "end": 351.436,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 352.482,
+        "end": 356.853,
+        "text": "V šestem razredu so te skoraj spet selili v drugo šolo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 356.853,
+        "end": 357.292,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 356.87,
+        "end": 364.936,
+        "text": "Ki so jo v Kamniku ustanovili za begun, se ti namreč nisi imel državljanstva, ne?A je odže uredil to po balkansko, da je ostalo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 361.612,
+        "end": 361.949,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 364.936,
+        "end": 407.596,
+        "text": "Mi so po balkansko, temu pa ne bom rekel po borkansko rekomom, da ga je uredil po slovensko, ker konj skoncev smo oblili v Sloveniji takrat in na vse načine je probal, da sem se prav peti razred sem končal v slovenski šoli, končno sem osvojil sloinski jezik, novo pisavo, se se prav latinico in s skupi in potem so me hotel v šest razredat kar nazaj v bekunsko šolo, ki bi tu, kje potekala, seveda spet ob bosanskem jeziku.Zakaj, če sem izdelal pet razred?Nesvega nimaš državljanstva in vse prošnje in ko naprej načini šlo čez, potem pa pa dva dni preden se je začel šesti razredjoček, pršel domov vrgu državljasto pro vrgo, ga je na mizo krvomšljanostu slikal v glavi, v kuhni ga je vrgel na mizo, je oprej bil pojal, da je treba datumstnostomark."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 371.534,
+        "end": 371.669,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 408.22,
+        "end": 417.232,
+        "text": "Vojne je konec, Denis Avdič naj bi se vrnil oborstno toda, o tem poskladbi, a ko ima Boga skupine Belo dume."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 417.4,
+        "end": 418.48,
+        "text": "Fantastična pesem."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 421.332,
+        "end": 424.538,
+        "text": "Denis, si se tudi sam kdaj vprašal, ima voga."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 424.741,
+        "end": 447.64,
+        "text": "Ja, sem se, mam občutek, da je na zlo zlo velik enih ljudi mal po zabu in zaradi tega rajš verjamem, da ga ni kot da je, verjamen pa, da nekaj potem zgoraj obstaja v eni taki energijski obliki in mam ob čutek, da pa nato energijsko obliko pa lahko čist vsak od nas vpliva."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 447.995,
+        "end": 448.703,
+        "text": "In rečuna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 448.906,
+        "end": 450.188,
+        "text": "Ja, absolutno ne."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 450.425,
+        "end": 477.863,
+        "text": "Pri koncu vojne na Balkanu sva ostala, babica umre, teta se poroči, ostanek v Sloveniji pridno zaključiš osmi razred, da za dostiž zahtevnim pogojem za vpis na Policijsko šolo v Tatsnu, ki je bila tisti hip v mnogo če im idealna.Pomenila je zanesljivo službo, selitev v internat pa prenočie in hrano od ponedeljka do petka pa še zagotovljena oblačila, v paketu dobra odločitev, kako pa jo je sprejela tvoja duša?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 466.405,
+        "end": 466.928,
+        "text": "Se lijejo?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 468.025,
+        "end": 468.43,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 470.54,
+        "end": 470.928,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 473.189,
+        "end": 473.206,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 473.206,
+        "end": 473.493,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 473.493,
+        "end": 473.527,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 478.117,
+        "end": 507.631,
+        "text": "Zelo dobro, zame je pa to moja druga družina ob istvu, so šolci vzgojitli in ko naprej ne vem če bi lahko na kateri koli drugi šoli ne tak način, kot hiter, da mu temu rečte, se osamosvojil do Zorov, kar tu, ki si pač mogu, bil si vržen, končal si srednjo šolo, bil sem starost najes let in sem dobro že tako epištola uniforma služba delej dve dni dopusta in to je to, edino stvar, ki sem jo vedel, je bila prva dan, kaj sem končal v Policijsko služebo, sem sam ga sej vprašal, zre pa do penzietkov. In takrat sem si rekel Aane!"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 492.494,
+        "end": 492.798,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 505.859,
+        "end": 506.264,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 507.85,
+        "end": 508.357,
+        "text": "Mhm."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 508.289,
+        "end": 509.268,
+        "text": "Neki boš naredil."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 509.504,
+        "end": 515.157,
+        "text": "Skratka pa v pravljeni šoli si se preselil v Postojno in kot policist delal v Cirknici."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 515.107,
+        "end": 515.917,
+        "text": "Oddi."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 515.528,
+        "end": 518.498,
+        "text": "Ob delu policista te zamika še radio."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 519.022,
+        "end": 532.083,
+        "text": "Začel si na radio Postojna oziroma Radio štiriindevetdeset, kjer si izpolnjeval glasbene želje, sledil je radio Gama M M v Ljubljani, kjert ji je direktor svetoval, da odstani raje policist."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 523.78,
+        "end": 524.185,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 531.323,
+        "end": 531.374,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 531.374,
+        "end": 531.661,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 532.201,
+        "end": 534.04,
+        "text": "Niti vzela poguma."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 532.454,
+        "end": 532.572,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 534.293,
+        "end": 546.393,
+        "text": "Ne, ne, svoje odločitve razprejemam sam in me ne prizadane, če mi nekdo drugreče, da sem pa v ničem znač, kar gre zgolj za mnenje, nekoga."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 546.68,
+        "end": 550.73,
+        "text": "Bil je še radio Antena, medvsem tem pa je nastajal radio ena."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 550.73,
+        "end": 551.067,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 551.067,
+        "end": 551.101,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 551.354,
+        "end": 556.535,
+        "text": "Na audiciji so leta dva sede med sto osemdesetimi izbrali tri."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 556.737,
+        "end": 557.108,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 557.345,
+        "end": 562.087,
+        "text": "Začel si kot vikend uviditelj, dve leti je kasneje si vodil popoldanski program."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 559.066,
+        "end": 559.538,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 562.019,
+        "end": 562.306,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 562.306,
+        "end": 569.95,
+        "text": "Dva enajst pa si dobil svoj jutranji šov, tudi zato, ker si leto pred tem dobil Viktorja za radijsko osebnost leta."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 562.323,
+        "end": 562.34,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 570.068,
+        "end": 588.361,
+        "text": "Verjeten tudi zato, mal pa tudi za to, ker pač se mi zdi, da je bila takrat taka situacija na Radiu Boštjan Romih imeno stavno preveč dela in ni več zdržev, je bil potrčen eno leto in pač ni bilo več, demo temu reč prostora za neko improvizacijo in se takrat vodstvo odločilo, kaj pa če damo priliko temu mlademu fantu."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 588.293,
+        "end": 588.698,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 588.698,
+        "end": 590.521,
+        "text": "In sem padel not."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 590.757,
+        "end": 593.069,
+        "text": "In izkazalo se, kot odlično."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 591.652,
+        "end": 592.09,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 592.9,
+        "end": 593.204,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 593.204,
+        "end": 598.115,
+        "text": "Viktorji so bili še dva enajst, dva dvanajst dva šestnajst, nedavno nazaj."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 598.672,
+        "end": 604.156,
+        "text": "Nas radicev pravzaprav, razen po glasu ni prepoznal nihče."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 603.818,
+        "end": 604.477,
+        "text": "Češč, je."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 605.118,
+        "end": 607.784,
+        "text": "Družbena omrežja so zdaj vse to spremenili."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 607.733,
+        "end": 640.927,
+        "text": "Don, se obisluči si na Radio morš bitno družbenih omrežij, jaz sem en tistih, ki nikakor ni hotel biti na Instagramu. Neki časa sem se še lahko upiral, dokler pač vodstvo ni reklo ga boš sam imel, ali ti ga bomo pa mi ustvarjal in ti bomo delal kot da ga ti delaš, ker to je danes potrebno.In pa sem se prej sustrašal, da bo nekdo to drug delal pa bodem demislal, že sem to jaz, naj jim se reko rajžgam, ampotem sam, kar pa da pustim nekom od drugodkov, a danes sem izdi, za če delaš na radi, če te rašu medih možbi prisoten povsod, kjer je možno?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 632.371,
+        "end": 632.708,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 643.39,
+        "end": 646.63,
+        "text": "Denis, si se tudi sam kdaj vprašal, ima boga."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 646.782,
+        "end": 675.959,
+        "text": "Ja, sem se, mam občutek, da je na zlo zlo velik enih ljudi mal pozabu in zaradi tega rajš verjamem, da ga ni kot da je, ker če je pa dopušča take stvari, je en velik vrasec. To je moj razmišč, to mu je tak in skren odgovor, verjamen pa, da nekaj potem zgoraj obstaja v eni taki energijski obliki in mam občutek, da pa na to energijsko obliko pa lahko čist vsak od nas vpliva."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 676.313,
+        "end": 677.039,
+        "text": "In rečuna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 677.225,
+        "end": 678.507,
+        "text": "Ja, absolutno ne."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 678.743,
+        "end": 706.182,
+        "text": "Pri koncu vojne na Balkanu sva ostala, babica umre, teta se poroči, ostanek v Sloveniji pridno zaključiš osmi razred, da za dostiž zahtevnim pogojem za vpis na Policijsko šolo v Tatsnu, ki je bila tisti hip v mnogočem idealna. Pomenila je zanesljivo službo, selitev internat pa prenočie in hrano od ponedeljka do petka pa še zagotovljena oblačila, v paketu dobra odločitev, kako pa jo je sprejela tvoja duša?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 694.724,
+        "end": 695.247,
+        "text": "Se lijejo?"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 696.344,
+        "end": 696.732,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 698.858,
+        "end": 699.162,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 699.162,
+        "end": 699.23,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 699.23,
+        "end": 699.247,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 701.491,
+        "end": 701.525,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 701.525,
+        "end": 701.761,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 701.761,
+        "end": 701.845,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 706.435,
+        "end": 735.967,
+        "text": "Zelo dobro, zame je pa to moja druga družina ob istvu, so šolci vzgojitli in ko naprej. Ne vem če bi lahko na kateri koli drugi šoli ne tak način, kot hiter, da mu temu rečte, se osamosvojil do Zorov, kar tu, ki si pač mogu, bil si vržen, končal si srednjo šolo, bil sem starost najsled in sem dobro že tako epištola uniforma služba, delej dve dni dopusta in to je to. Edino stvar, ki sem jo vedel, je bila prva dan, kaj sem končal v Policijsko slušbo, sem sam ga sej vprašal, zre pa do penzietkov, in takrat sem si rekel Aane!"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 720.796,
+        "end": 721.117,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 734.178,
+        "end": 734.583,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 736.186,
+        "end": 736.675,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 736.608,
+        "end": 737.603,
+        "text": "Neki boš naredil."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 737.84,
+        "end": 743.459,
+        "text": "Skratka pa v pravljeni šoli si se preselil v postojno in kot policist delal v cirknici."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 743.425,
+        "end": 744.235,
+        "text": "Oddi."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 743.847,
+        "end": 746.817,
+        "text": "Ob delu policista te zamika še radio."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 747.34,
+        "end": 762.342,
+        "text": "Začel si na radio Postojno oziroma Radio štiriindevetdeset, kjer si izpolnjeval glasbene želje, sledil je radio Gama M M v Ljubljani, kjert ji je direktor svetoval, da odstani raje policist. Oh, niti vzela poguma!"
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 752.099,
+        "end": 752.504,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 759.625,
+        "end": 759.676,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 759.676,
+        "end": 759.963,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 760.79,
+        "end": 760.857,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 762.629,
+        "end": 774.728,
+        "text": "Ne, ne, svoje odločitve razpremam sam in me ne prizadane, če mi nekdo drugreče, da sem povničem zanač, kar gre zgolj za mnenje, nekoga."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 774.982,
+        "end": 779.065,
+        "text": "Bil je še radio Antena, medvsem tem pa je nastajal radio ena."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 779.065,
+        "end": 779.386,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 779.386,
+        "end": 779.403,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 779.673,
+        "end": 784.87,
+        "text": "Na audiciji so leta dva sede med sto osemdesetimi izbrali tri."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 785.039,
+        "end": 785.427,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 785.663,
+        "end": 790.388,
+        "text": "Začel si kot vikendvoditelj, dve leti je kasneje si vodil popoldanski program."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 787.385,
+        "end": 787.84,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 790.338,
+        "end": 790.642,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 790.642,
+        "end": 798.269,
+        "text": "Dva enajst pa si dobil svoj jutranji šov, tudi zato, ker si leto pred tem dobil Viktorja za radijsko osebnost leta."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 798.404,
+        "end": 816.663,
+        "text": "Verjeten tudi zato, mal pa tudi za to, ker pač se mi zdi, da je bila takrat taka situacija na radiobuštjan Romih imenostavno preveč dela in ni več zdržev, ki je bil potrčen eno leto in pač ni bilo več, demo temu reč prostora za neko improvizacijo in se takrat vodstvo odločilo, kaj pa če damo priliko temu mlademu fantu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 816.595,
+        "end": 816.612,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 816.612,
+        "end": 817.034,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 817.034,
+        "end": 818.823,
+        "text": "In sem padel not."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 819.093,
+        "end": 821.388,
+        "text": "In izkazalo se, kot odlično."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 819.97,
+        "end": 820.46,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 821.236,
+        "end": 821.523,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 821.523,
+        "end": 826.433,
+        "text": "Viktorji so bili še dvainajst, dva dvanajst dva šestnajst nedavno nazaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 821.54,
+        "end": 821.59,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 826.99,
+        "end": 832.745,
+        "text": "Nas radicev pravzaprav, razen po glasu ni prepoznal nihče."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 832.12,
+        "end": 832.154,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 832.154,
+        "end": 832.762,
+        "text": "Češč, hej."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 833.437,
+        "end": 836.052,
+        "text": "Družbena omrežja so zdaj vse to spremeni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 836.018,
+        "end": 869.245,
+        "text": "Zdon so bistvost, če si na radiu morš biti na družbenih omrežjih, jaz sem en tistih, ki nikakor ni hotel biti v instagramu. Neki časa sem se šele lahko upiral, dokler pač vodstvo ni reklo ga boš sam imel, ali ti ga bom opamil ustvarjal in ti bomo delal kot da ga ti delaš, ker to je danes potrebno.In pa sem se pa res ustrašal, da bo nekdo to drug delal pa bodo mislili, da sem to jaz, naj jim se reko rajžgam, ampotem sam, kar pa da pustim nekomu drugodku, da danes se mi zdi, za če delaš naradi, čedraš o medih možbi prisoten povsod, kjer je možno?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 860.707,
+        "end": 860.96,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 873.599,
+        "end": 879.37,
+        "text": "Manifiko je zdaj odpel, reci ne, ko moraš reči da."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 879.944,
+        "end": 883.184,
+        "text": "Se je tebi to večkrat dogajalo?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 883.538,
+        "end": 884.028,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 886.053,
+        "end": 906.691,
+        "text": "Ja, že od mehnega že kot otrok sem mogoče, ko bi mogel reči, ja, sem rekli ne. Kasneje ugotoviš, da pa so situacije, kjer pa pravda rečeš ne, tudi če bi mogal rečt, ja. Ker te situacij se mi zdi, da te naredijo, če gledam samo karierni vidik, te bolj definirajo stvari, ki si jih zavrnil, kukr pa stvari, ki si ji sprejel."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 907.012,
+        "end": 909.847,
+        "text": "Osem let se je bil zaposlen pri policiji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 909.762,
+        "end": 910.083,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 910.37,
+        "end": 918.993,
+        "text": "Zdaj pa že deset let in točno en teden vodiš svojo trener program na komercialni radijski postaji Aena, kako si si ga zamislil v začetku?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 919.043,
+        "end": 942.871,
+        "text": "Ko začel sem sam, stvar je bila pa v tem, da sem se jaz tri mesece dobesedno krego z našim vodstvom, ko so on imen rekli, če bi jaz delal zjutri. Spisal sem, kdo vsebi mogel delat za ta jutranji program, ljudi, ki so na radiu in tudi, ki se je zapel, kar je pa šef rektivirata polradia dela sam zate, in jaz sem rekel, ja, me sploh niso pogovarala o plači, mi je sva se kregala od ljudeh in potem ko je po treh mesecih po pustu in mi dal na voljo vse te ljudi, sem pa začel."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 943.09,
+        "end": 944.035,
+        "text": "Petnajst vas je zdaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 944.508,
+        "end": 946.752,
+        "text": "Jaz, zrna si okrog petnajstja, jutranje ekiper."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 946.904,
+        "end": 951.342,
+        "text": "Ljudje si sploh ne znajo predstavljati, kaj je še delo v ozadju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 951.342,
+        "end": 1006.473,
+        "text": "O, en pripravljutranju kroniko je avdiproducent priprala s osomusko, na katero mi govorimo vse podlage, dva producenta kličeta samo poslušalce in snemata izjave, potem imamo nekoga, ki gre tudi na terenke, prevert, potem mamo morednico jutranjega programa, ki vses planira, kaj bo umelo šest deset, šest petnajst, šes petindvajset, šes trideset, naj v to je vse skup določen nekak polmamo punco, ki skrbi za videodedel, kako bomo stvari nekaj posnel, potem imamo družabna omrežja, kaj bomo kdaj objaval na kak način, zakaj, potem pa še dva producenta, ki spišeta dobesednost scenarij vsak dan, kako bo potekal kajkdo reče točno, se prav da je znam povedat, z recimo juter, kaj bomo govorilo ob sedem deset in kok časa bomo govorili in kaj bo kdo rekel vseje določeno. Se prav demoreč, da smo stoodstotno pripravljeni, ampak uporabljamo devetdeset odstotkov priprave in si dopuščemo deset odstopkov improvizacije."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1006.642,
+        "end": 1022.183,
+        "text": "Dotaknila se zdaj dobrodelnosti, že šesto leto zapored, tokrat dvaindvajsetega in triindvujsetega decembra ste na A ena neprekinjenost dobrodelno noto oddajali kar osemindvajsett ur s številnimi gosti, letos prvič brez politikov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1022.437,
+        "end": 1038.907,
+        "text": "Svedel smo predsednika države in predsednik vlade, če so vsako leto povabil in če je vsak let, sta se oba odzvala in sta pršla in je čast.Kadarkol se nek politik pa ni, vzponiti ni pomembno kdo, sam da sem en politik pojavnik, ki je ljudi razdvaja!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1038.974,
+        "end": 1039.396,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1039.48,
+        "end": 1049.065,
+        "text": "Ne, eni so za, enipa ne, eniga majoradi, enega nemarajo in smo rekelne tega pa res ne rabimo, mi smo pa z situacij, ko morajo biti povsi za."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1049.521,
+        "end": 1061.182,
+        "text": "To se je izkazalo kot odlično, dva devetnajst ste zbrali tristo triinpetdeset tisoč tristo devet najst cela sedemdeset evra, letos so bila zbrana sredstva popoln šok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1061.182,
+        "end": 1065.181,
+        "text": "Milijon sedemintrideset tisoč, pa še neki vej, več nek."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1064.978,
+        "end": 1068.218,
+        "text": "No, bravo, še en poklop in četit."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1065.974,
+        "end": 1070.564,
+        "text": "Še en poklog, in četet."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1069.619,
+        "end": 1073.99,
+        "text": "Tudi ljudem, ki so pomagali vas vse skupaj se zuti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1073.99,
+        "end": 1104.854,
+        "text": "Mi sem, jaj, si brez ljudi ni šans, to je prava moč radia, zato ga vam skoraj enostavno mam občutek, da smo si blizu, tukaj, da smem en zraven družba, da to le zdelje, kar poslušate in kar mi vas ne govoriva, da sme si enostavo nekako, da bi sedel nekje na eni kavi, medtem ko drugi mediji, televizija in tako naprej, se mi zdi pa, da nrdi en zid med nami, ja, da peč viste nekjer tam in gledate, naski smo nekjetu, ki zrategamo mesec radio od vseh medijev najrajš."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1096.737,
+        "end": 1097.21,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1097.21,
+        "end": 1097.227,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1101.597,
+        "end": 1101.833,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1105.512,
+        "end": 1114.996,
+        "text": "Med gosti je bil tudi Martin Golob, najbolj znan iz slovenski župnih ta hip, ki se mu je ta četrtek dobesedno zgodilo dobro sez dobrim vračam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1109.258,
+        "end": 1109.748,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1115.047,
+        "end": 1127.5,
+        "text": "Onam je prinesel svoji denar, ki ga je šparal za nakup kolesa in je rekel, kolobo že počakal, sem se odločal, da te svoje prihranjke podarim, na črtek smo pa mi pač podarili specialku.Dobro se zdobri vračejo!"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1127.5,
+        "end": 1133.525,
+        "text": "V lanske maratonu pa so pripravili prisenečenje tudi zate, Miro Todosovski je prišel."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1133.525,
+        "end": 1137.457,
+        "text": "In vedno odpojevamo na ljubšo pesem Dvil jagode kap po kap."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1141.658,
+        "end": 1151.648,
+        "text": "Denis Avdič velja za izvrstnega moderatorja Radia I, odlično pa so znajde tudi pred kamero. Že leta dva trinajst si imel na planet TV svojo šov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1151.648,
+        "end": 1152.442,
+        "text": "Pozaba sem to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1155.175,
+        "end": 1156.205,
+        "text": "Katastrofa je bila."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1156.424,
+        "end": 1157.183,
+        "text": "No."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1157.183,
+        "end": 1161.098,
+        "text": "Gremo naprej, pa lov to pozabmo pa je."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1161.098,
+        "end": 1178.075,
+        "text": "Od leta dva štirinajst si ne pogrešljiv voditelj licenčne oddaje z nanobrasima svoj glas, trije sodelavci ste zadolženi za besedila in scenarij, ti pa potem zamež vajti v svoje roke in nas dobesedno prilepiš pred televizorjem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1178.26,
+        "end": 1218.878,
+        "text": "Joj, ni, ja, to ne, mi sem ni, ni...ma brezlahne skromnosti prosili...ja sem tukaj, jaz sem tuki v vlogi prometnika, sem je nekaj povezovalca, dal daje mi je ušel zratega, ker ima že vsebino, ki jo me ni treba pripravljati.Glavne zvezde so tekmovalci, teh je osem, vsak teden se preobrazijo v neko glasbeno zvezdo. Nisem ob prvem planu, kar mi pa neizmerno ustreza, da bi imel pa neko svojo avtorsko dajo pa ven kukje dela, kot da biš nepopisan list papirja in morš začet od začvetka do konca, ekipa je res ogromna maskaka, vaje, ozadi produkcija, skratka več kasto ljudi to dela. Zame zbi to oddajo gledal?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1182.412,
+        "end": 1184.993,
+        "text": "Ma brezla, res kromnosti, prosim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1219.553,
+        "end": 1220.566,
+        "text": "Če ne bi vodil."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1221.14,
+        "end": 1222.22,
+        "text": "Kdaj bo nadaljevanje?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1222.878,
+        "end": 1224.228,
+        "text": "Ko bomo lahmelj publiko."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1225.358,
+        "end": 1229.678,
+        "text": "Dotaknila se še s tenda, pa začelo se je na policijskih novoletnih zabavah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1229.678,
+        "end": 1229.898,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1229.898,
+        "end": 1229.932,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1229.932,
+        "end": 1265.167,
+        "text": "Ja, se prav vzgojiteljice iz vrtca in policaje skupaj smo najel enogostilno in smo me lovaletno zavavo in mesto dal mikrofon proke, da nekje povem. Je nesem bil obrnjen pod policajem in sem oponašal in sem se zafrkal, ampak sem zlo hitro ugotovo, da se smejejo pa tudi na tej strani kosujožiteljce, in takrat sem prvič začuto, da sem pa smešen, ker se smejajo tudi ljudje, ki me sploh ne poznajo, in taked je bo prvi čumen občutek, ko kaj to dober počet, in pa spoznanje, da pa lahko to počnem."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1265.622,
+        "end": 1271.073,
+        "text": "V Špaz teatru si bil gost Vida Valiča, zanimiva izkušnja Nataljuji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1268.744,
+        "end": 1269.065,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1271.562,
+        "end": 1290.884,
+        "text": "On me poabo za kvojega zadnjega gosta teh stand up večerov, harte so le razprodane v petih minutah in to ne zastopnice, ampak zatevel kot v orano, jaz sem sloval, da bom nastopal enkrat in potem sem nastopel dvesto dvajsetkrat, bla so odtivoljil na Kongresnem trgu vlo petnajst tisoč tudi iz kratka taka nepozabna vožnja po slovenski gledališči."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1290.614,
+        "end": 1307.101,
+        "text": "Spomnimo se predstav, dar po mošku, dar pa po možku dve, odličen se je bil komedij, moški so z Marsa ženske, so z Venere, pri kateri so se gledalci spraševali, zakaj bi plačevali drage zakonske terapevte, ko pa imamo Denisa."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1299.203,
+        "end": 1299.254,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1299.254,
+        "end": 1299.372,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1307.118,
+        "end": 1309.48,
+        "text": "Ja, ne, je kar če raboš terapelta si ga vzem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1310.577,
+        "end": 1326.322,
+        "text": "To je moj nasvet, ampak ta predstava je pa to od mne najljubša.Dvesto sedemset predstav sem jo in je bilo fuldo ober, ta predestava ima tudi še dve nadaljevanjih, še drugi del in tretji del, trenutno se mu fazi, ko se mi ne ljubi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1326.878,
+        "end": 1336.632,
+        "text": "Tega delat zaenkrat, kromajhem gotroka pa sem rekel dom v šemavstnem počaku, ampak zagotovo bi pa rad naredil še drugi in tretji del."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1337.324,
+        "end": 1342.454,
+        "text": "Ko gledamo s tem, da pnastopaj imamo največ skratutis čiste improvizacije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1342.437,
+        "end": 1351.583,
+        "text": "Jest za eno predstavo, ki traja eno uro, eno vro pa deset minut, poravam temneke leto do dve leti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1352.174,
+        "end": 1362.738,
+        "text": "Dela, vse je natančno spisano, naučeno na pamet. Moški so z marsažinske sozvenene, predstava traja Evropo pol, ima štiriinpetdeset strani, fond črk je dvanajst."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1363.379,
+        "end": 1393.467,
+        "text": "Vse znam dobesedno na pamet, vseh štiriinpetdeset strani, do vejce, na pamec znam.Jaz sem na odru zgledal, kot da govorim in kot da improviziram, če bi mi kdorkol vmes vprašal, ej, koki ura, al pa, a grem lož na VC, sam da bi me prekino, bi bilo konzmanom,zbis se zgubil in dvakrat sem jih to zgodil.In sem mogel it nazaj po scenarij, ljudje sočakal, jesem listov, da sem videl, kje sem se ustavil, da se prebral dva stavka in ji steklo naprej."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1396.235,
+        "end": 1400.47,
+        "text": "Denis znan si kot moderator brez dlake na jeziku."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1401.196,
+        "end": 1407.338,
+        "text": "Kje znaš s svojim humorjem nasmejati poslušalce tudi z odličnimi imitacijami znanih slovencev?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1408.3,
+        "end": 1410.781,
+        "text": "Tudi s tem si začel na policijskih zabavah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1410.747,
+        "end": 1411.878,
+        "text": "Tudi, ja, tudi."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1411.388,
+        "end": 1411.793,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1412.502,
+        "end": 1423.741,
+        "text": "Imitacije so mi zdijo res danost izbrancem, kako poteka preobrazba v drugo osebo, tu je glas, tu jo tisoč in ena tipičnost, ki mora prepričati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1424.315,
+        "end": 1443.89,
+        "text": "Nikol nisem novenga študerov, enostavno sem probal iz čiste zafrkancije in ko so moji prijatelji, o, te pače si sodešenka, dešem mal, sem se pa pol temu mal posvetil. Nikol si pa nisema rekel, aha, tega bom, in zdega bom gledo, in zdedega bom študero in zdaj se bom naučal in tako naprej nikol nisan tega počel, danes, ja!"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1443.89,
+        "end": 1460.427,
+        "text": "Zdaj si slavna osebnost ni bila lahka pot do tega, tudi tvoj dan ima samo štiriindvajset ur, zgodilo se je, da je bilo vsega nekem trenutku preveč, telod je sporočilo in ti dalo poduk, da moraš kdaj znati reči ne."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1454.555,
+        "end": 1454.909,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1460.63,
+        "end": 1481.335,
+        "text": "Ja, do šestnajstja. Zjutrju sta navštiri sem šel na radio, iz radia sem šal pol direkt na PopTV, iz PopTVa direkt v avto pa sem se ne kampelu na predstavo in domov sem pršlo okrog polnoči, sem šlo po tuž spad za tri ure in spet se mi je dan ponovil in po šestih letih se mi zgodilo, da zjutrjustvo všel na radio, paršo domov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1482.145,
+        "end": 1483.259,
+        "text": "Šal pod tuš."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1483.782,
+        "end": 1503.965,
+        "text": "Šol, dnevno sobo, otroku, lupčka dat pa rečtadijo in ko sem se sklonal, sem začutil na kredbe s srce močno zabolelo, stal sem brez zraka in sem se sam zgrudel in sem padel takaj te pršo rešilci, naklenčenke in tako naprej, sem delali nekje preiskave, skratko vsi znaki so kazali, da je bil to infark. Potem sem se pa poč mal pogovarjal z psihologi in posmo pa ugotovil, da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1501.754,
+        "end": 1502.227,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1504.437,
+        "end": 1509.398,
+        "text": "Je pa to posledica, ne spanja pretiranega dela, stresa in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1509.027,
+        "end": 1509.972,
+        "text": "Svega preveč."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1509.719,
+        "end": 1517.515,
+        "text": "Ja, in je enostavno šlo za izgorelost in so mi rekli mal si umirfant in je to to in smo mal zmanjšali stvari."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1517.752,
+        "end": 1530.307,
+        "text": "Odkar si se pojavil na slovenskem medijskem prostoru, si po imenovanju bosanec dal, kot se je pred tem trudil že džuro, novo podobo negativnega prizvoka o znake z žaljivo nalepko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1530.374,
+        "end": 1558.471,
+        "text": "Nekateri so to jemal v Sloveniji kot željivko, kot da nekoga lega kakšen bosanc in odtko naprej, ja le kakakšeni si slovencu, kje so zdaj? In če mi je kdo rekel bosanc, sem rekel nazadnjo ustavno slovens, a se ti počutu žalenja, ne, zakaj bi se mogel jaz? In sem se nekak trudu dopovejal, da pa to pač ni željivka, da je to zgolj beseda, ki se uporablja, označiš človek, a ki prihaja iz teh krajev, ja, to je to."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1556.834,
+        "end": 1557.273,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1558.673,
+        "end": 1566.25,
+        "text": "O rojstna vas, dobralci v Bosni se vrača, šteta ima tam nov dom, ki si ga pomagal preurediti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1566.436,
+        "end": 1579.042,
+        "text": "Ta hiša je bila nrejena iz še iz kamna pa blata, nimela niti kopalence, no ter saj to je en sam prostor njene na pečo nad stara smedeljevac nadrva.Ko se ti mrodil, sprav dva trinajst smo šlimi v Bosno in jaz pač..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1579.548,
+        "end": 1609.079,
+        "text": "Ne morem iz zenečka vzvejo tisti bajti, nisem bil v hotelu in je teta Tomal prizadel. Izel mora režli to zlo smešna stvarne, jaz sem dol s temi delavci, kaj so lokalnimi neobostni prč maš gradbenike in pa smo mi to na papir vrgulec na šol naspletno stran od montažne hiše, mu vzela eno črt in se nikonata, da vede mi predračun, kog bi pa to pošlo trideset tisoč evrov so dal predra čun, zahišal veliko sto šestdeset kvadratov, vse je eno otežb in sem pa če rekoja, ja pa demo, in zeta notrežbi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1602.515,
+        "end": 1602.802,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1604.573,
+        "end": 1604.641,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1609.079,
+        "end": 1611.222,
+        "text": "In ko pridemo, imamo svet."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1609.096,
+        "end": 1609.113,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1609.67,
+        "end": 1613.23,
+        "text": "In mi, ko pridemo, imamo svojo spalnico in tudi kopalnico."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1612.91,
+        "end": 1613.72,
+        "text": "Bravo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1614.344,
+        "end": 1623.541,
+        "text": "Greva spet glasbi, to še proizki s pesmi Operatim te je zadnja izbira Denis Avdiča danes, midva pa prideva nazaj še enkrat."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1627.574,
+        "end": 1629.413,
+        "text": "Nesmrtni to še je bil to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1629.515,
+        "end": 1630.544,
+        "text": "Njega obožujem."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1630.544,
+        "end": 1634.999,
+        "text": "Slava pri mnogih tirja svoj davek tudi v osebnem življenju."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1635.573,
+        "end": 1647.318,
+        "text": "Povezovali so te z mnogimi znanimi slovenkami, tvoj srce je bije že zelo dolgo za Kamničanko Ano, rojeno obanje Luki, se spomniš zadetka Amorjeve puščice?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1647.908,
+        "end": 1659.215,
+        "text": "Spomnem se, je spoznala še iz srednje šoleno in ona je bila sošolka od mojega najboljšega prijatla in on je mogel enkrat it po ene zapiske, ki jih njej, in sva šla skupaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1659.822,
+        "end": 1670.875,
+        "text": "Nisem spregovoril besede, nisem nekdje življeni, sem rekel, si bo čistih in se me sam glejo, potem, fu let nazaj, sva se pa pol srečala in sva šla na kavo in jaz."
+      },
+      {
+        "speaker": "SPEAKER_05",
+        "start": 1665.138,
+        "end": 1665.695,
+        "text": "Za zdet."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1665.695,
+        "end": 1665.712,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1671.162,
+        "end": 1671.5,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1671.247,
+        "end": 1676.377,
+        "text": "Stej sta srečno poročena, imata dva sinova Tima in Mika?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1677.018,
+        "end": 1678.52,
+        "text": "In šolanje v doma!"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1677.035,
+        "end": 1690.315,
+        "text": "In šolanje od doma.Tim je drugi razred, tamo je pa str dve let in nik se mi zdi, da bo večji problem, so bistvo že zdaj, ti mu govorim, da tamal brad si zihar mu ne bo ratalo življenju in ne bom jo od nare in če ne ga ne bom bil, da mu mora pomagati."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1690.433,
+        "end": 1691.733,
+        "text": "Živite v Ljubljani?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1691.851,
+        "end": 1692.205,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1692.492,
+        "end": 1694.399,
+        "text": "Krk pa je vaš pobeg na morje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1694.45,
+        "end": 1700.423,
+        "text": "Ja, ja, krki pa nekaj, ta zgada, da gremo nekam in da se malo odklopno."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1700.609,
+        "end": 1703.613,
+        "text": "V Kamniku si imel lokal, tega se ne greš več?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1703.613,
+        "end": 1704.288,
+        "text": "Nikoli."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1704.288,
+        "end": 1706.718,
+        "text": "Avdič na žaru je pa še vendam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1705.807,
+        "end": 1705.823,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1706.718,
+        "end": 1749.817,
+        "text": "Ja, to je zdaj taka stvar, ne, jez, sem jo lokal dve let in ja, zgubo sem, zgobila sva žena vse brezvezet, te ti, če hočeš med lokal, da on se izčesita vsak moko molafa, ne da kaj zaslužema sploh odprt čestitke, to možbičko sprisoten in možbitsko zraven in svagadala upodne jem, a ja nisem pol mogel spremeni imena, ker pač je sem avdič Denis, avdićev je pa veliki in avdišno žaro in nekdo to omejo od koda jaz, pa mislim, da pa zdaj pred kratkim, da se pa to zgodil, kar jaz sem pa že res prosil, da je pa že reš vsaj po vseh teh letih, da če lahko prosem, pa se to ime lokala spremeni, ker ljudje še vedno mislim, da je to moje in mislim na se preimenovalo Kantina Kamnik končno."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1749.817,
+        "end": 1753.968,
+        "text": "Tatarc, suši, to te vedno zapelje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1753.883,
+        "end": 1754.947,
+        "text": "Jo, to bom razredil."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1754.947,
+        "end": 1756.347,
+        "text": "Takrat, prav nič ni diši po bosni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1757.056,
+        "end": 1772.193,
+        "text": "Pa se, počeja, si mamje smo mi seme s mnem hrano na splošno rad, jaz nijam, jaj smo tudi vampirati, kje jih eni marjajo, mesef v mesefu dobri. Ne vem, men če neki dober je dober, ampak res pa je, da stvari kih pa obožujem, ker so pa moje, moje, moje, kaj pa suši, pa ne vem zakaj..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1764.16,
+        "end": 1764.869,
+        "text": "Ves se vložiš?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1772.193,
+        "end": 1780.225,
+        "text": "Veljaš za hitrega, energičnega, duhovitega in prijaznega vrščas nasmejanega govorca tudi doma?"
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1780.934,
+        "end": 1781.474,
+        "text": "Aj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1781.474,
+        "end": 1781.508,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1781.508,
+        "end": 1797.742,
+        "text": "Mmm, ja, kaj pa se tudi Ana bi znala mrskej povedat, ne? Ana zna vedno rečt, to, kar vi vitite na radiu, pa na televiziji, pa navodrih pa nastopih, vi morate vede, da vi vedno dobite najboljšo od njega! Jaz dobin pa vse ostalo poltudomane, doma znam bit tudi sploh do otrok, znam bi tudi strok."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1797.742,
+        "end": 1798.13,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1798.13,
+        "end": 1798.147,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1798.13,
+        "end": 1801.555,
+        "text": "Kar se mi zide pač prav, da imajo nekje omejitve."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1801.623,
+        "end": 1807.242,
+        "text": "Posel povezuješ z dobro voljo in največja nagrada ti je, da ljudi nasmejiš."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1807.04,
+        "end": 1807.377,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1807.31,
+        "end": 1808.98,
+        "text": "Pa tudi, da jim pomagaš."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1809.149,
+        "end": 1813.655,
+        "text": "Ja, taker kajti dost od omogoča vedem sam prisluhneš, tako da je zbil vse naredil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1814.262,
+        "end": 1815.241,
+        "text": "Da ljudi nasmej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1815.241,
+        "end": 1815.68,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1815.68,
+        "end": 1816.237,
+        "text": "Vse."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1817.148,
+        "end": 1824.927,
+        "text": "In nimam je z tem meje, kaj ne sme mreč, kakaj ne, mi se meni tako, jaz bom rekel, krkol, da se bom tudi slekel, če se bo glosmejo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1825.838,
+        "end": 1835.643,
+        "text": "Jez bom, ne?In tudi pa zloh hitel greš po čez mejo, pa rečejo, ooo to pa ni prav, da je rekel, to pa ne bi smel, ampak vedno pa usedelam z namenom, da nikoga spravimo dobro volo."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1835.795,
+        "end": 1865.427,
+        "text": "Dragi mi, Denis Avdič še enkrat iskrene častitke za rekordni znesek v nedavnem osemindvajseturnem maratonu in za dvojih izjemnik deset let in en teden v Denis Avdić šov na Radio I. Počaščena sem, da si se v blišču vsega tega odzval mojemu povabilu in obogativ naše drugo nedeljsko dopoldne z letnico dva tisoč enaindvajset, za popotnico pa ena čokolada, da imaš tudi to zanjo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1863.875,
+        "end": 1864.55,
+        "text": "Ker je ojga."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1866.271,
+        "end": 1870.726,
+        "text": "Hvala, kakšna je neki s peferonom? Čili, dobrje, bom še vzel še bodo zraven."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1872.582,
+        "end": 1875.873,
+        "text": "Hvala le pa, lepo nedeljo vsem, pa še kdaj."
+      },
+      {
+        "speaker": "SPEAKER_06",
+        "start": 1876.042,
+        "end": 1877.577,
+        "text": "Z veseljem, srečna, dija!"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1877.645,
+        "end": 1878.016,
+        "text": ""
+      }
+    ],
+    "runtime_sec": 296.8853042125702
+  }
+}

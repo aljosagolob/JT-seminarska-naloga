@@ -1,0 +1,3784 @@
+{
+  "file_id": "Artur-J-Gvecg-P500014-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500014-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.08089568034326688,
+      "miss": 0.06447040177152011,
+      "fa": 0.004444169977511146,
+      "confusion": 0.011981108594235628,
+      "total_duration": 3190.021999999927
+    },
+    "der_collar0.25": {
+      "der": 0.07293474529237388,
+      "miss": 0.05707327432379117,
+      "fa": 0.004188926416290203,
+      "confusion": 0.011672544552292516,
+      "total_duration": 2947.771999999927
+    },
+    "wer": {
+      "wer": 0.18601676850930796,
+      "ref_words": 7037,
+      "hyp_words": 6424
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 10.537,
+        "text": "Spoštovane in spoštovani, pozdravljeni v spletnem pogovoru SDA kluba Slovenske tiskovne agencije, v katerem gostimo društva, ki pomagajo osebam z rakom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 11.078,
+        "end": 26.167,
+        "text": "V sodelovanju s druženjem slovenskih organizacij bolnikov z rakom smo namreč pripravili spletni pogovor z naslovom So društva za pomoč osebam z rakom že pripravljena na drugi morebitni val epidemije novega koronavirusa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 26.947,
+        "end": 34.989,
+        "text": "Pogovor poteka vživo, vaše vprašanja pa sprejemamo tudi na elektronskem naslovu klub.sta.afna.sta.si."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 35.829,
+        "end": 40.75,
+        "text": "Za rakom v Sloveniji vsako leto na novo zboli več kot 15 tisoč ljudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 41.291,
+        "end": 46.152,
+        "text": "Zaradi staranja prebivalstva je pričakovati, da bo število obolelih le še neraščelo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 46.792,
+        "end": 52.056,
+        "text": "Še več izzivov pa je v onkologiji prinesla epidemija novega koronavirusa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 52.436,
+        "end": 73.732,
+        "text": "Kako so se društva za pomoč osebam z rakom prilagodila novim razmerom, bolnikom in njihovim svojcem v času epidemije, kakšna je bila v tem času potreba po brezplačnih storitvah društav in kako so pripravljena na že omenjeni morebitni novi jesenski val, so le nekatere vprašanja, na nekatera in na katera bomo iskali danes vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 74.112,
+        "end": 77.654,
+        "text": "odgovore z mojimi spoštovanimi sogovornicami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 78.174,
+        "end": 86.938,
+        "text": "Z nami so Kristina Modic, predsednica Združenja Onko.net in izvršna direktorica Slovenskega Združenja bovnikov z linfomom in leukemijo LNDL."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 87.298,
+        "end": 88.899,
+        "text": "Lepo pozdravljeni, gospa Modic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 89.705,
+        "end": 105.58,
+        "text": "Z nami je Tanja Španič, predsednica Združenja Evropa Dona Slovenija, lepo pozdravljeni, Ana Žličar, predsednica Društva onkoloških bovnikov Slovenije, dober dan želim, in pa docen dr. Lorna Zadravec-Zaletel, predsednica ustanove Mali Vites."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 106.141,
+        "end": 107.801,
+        "text": "Drage dame, lepo pozdravljene."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 107.981,
+        "end": 110.882,
+        "text": "Pozdrav seveda velja tudi vsem, ki nas spremljate v živo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 111.702,
+        "end": 132.468,
+        "text": "Združenje slovenskih organizacij bovnikov z rakom OncoNet ali krajše Združenje OncoNet so leta 2016 ustanovile štiri slovenske organizacije bovnikov z rakom, ki so prepoznale potrebo in pomen tesnejšega sodelovanja in formalnega povezovanja različnih organizacij, ki zastopajo onkološke bovnike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 133.208,
+        "end": 141.666,
+        "text": "Gre za prostovoljno, neuladno, samostojno in nepredobitno združenje, katerega v srednja naloga je upravljanje nalog skupnega pomena,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 142.102,
+        "end": 154.346,
+        "text": "področju zdravstva, socialnega varstva in izobraževanja, boljša zastopanost skupnih in posamečnih interesov in učinkovito uveljavljanje različnih in večplastnih pravic bolnikov z rakom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 155.207,
+        "end": 170.572,
+        "text": "Vstanovne članice Združenja Onko Neco, Slovensko Združenje bolnikov z linfomom in leukemijo, LNDL, Slovensko Združenje za boj proti raku Dojk Evropa Dona, Vstanova Mali Vites in Društvo za boj proti raku in drugim kroničnim boleznim Korak Pekasi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 171.987,
+        "end": 183.377,
+        "text": "V nadaljevanju so se Združenju Onko.net pridružili še Združenje za boj proti raku debelega črevesa in danke Evropa Konan, Društvo Onko.me in Društvo onkoloških bolnikov Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 185.015,
+        "end": 197.784,
+        "text": "Zdaj pa gremo kar našim sogovornicam in predvsem ko vprašanjem, kako so se društva spopadala skozi čas, ki je bil za vse nek nov čas, čas epidemije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 198.324,
+        "end": 208.611,
+        "text": "Kako so se članice spopadle z izzivom novega koronavirusa in kaj so se v tem času navnčile nam bodo sogovornice zaupale v samem začetku pogovora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 209.332,
+        "end": 220.854,
+        "text": "Zato lepo prosim najprej na začetku, gospod Ano Žličar, predsednico društva onkoloških bolnikov Slovenije, kako ste se vi v vašem zdruštvu znašli v tem nekem čisto novem času in prostoru?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 221.154,
+        "end": 227.216,
+        "text": "Če se namotim, ste med drugim uvedli prav poseben način svetovanja in pogovora z onkološkimi bolniki."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 229.276,
+        "end": 230.976,
+        "text": "Seveda."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 231.857,
+        "end": 238.038,
+        "text": "To, da stojimo bolnikom na vojo za pomoč,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 238.61,
+        "end": 240.711,
+        "text": "ko se najdejo največji stiski."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 241.391,
+        "end": 246.653,
+        "text": "To je ključni program našega društva, imenuje se podhokrevanje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 247.473,
+        "end": 264.64,
+        "text": "In zato, ker so bili onemogočeni ti posebni stiki, so nastale največje stiske, ker se bolniki niso mogli več obračati na naše prostovoljke oziroma prostovoljce, ki so jim bili na voljo na jej infotočkah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 265.694,
+        "end": 276.84,
+        "text": "In tudi skupine, ki delajo na 20 lokacijah v Sloveniji, so se lahko med sabo družili in si ponujali pomoč."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 277.66,
+        "end": 282.062,
+        "text": "Tega seveda nismo mogli izvajati na zdaj način."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 282.783,
+        "end": 295.149,
+        "text": "Zato smo se odločili in smo uvedli, da modro številko, poimenovali smo jo Onkofon, na to številko lahko domiki pokličejo"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 299.461,
+        "end": 320.382,
+        "text": "To jim omogoča popolno anonimnost in na voljo so jim ljudje, ki so se z rakom spoznali, spopali in ga tudi premagali, kar je za unike zelo pomembno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 322.58,
+        "end": 333.228,
+        "text": "Zdaj smo ravno sredi tega, da spušamo to naše številko promovirati v vseh zdravstvenih zavodih v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 334.85,
+        "end": 345.378,
+        "text": "Imamo že tudi Lekarne Ljubljana, ki so nam stopili na pod v lahko to številko obraševali v Lekarnih Ljubljana."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 345.398,
+        "end": 348.34,
+        "text": "Zdaj se bomo povezali pa tudi z drugimi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 349.161,
+        "end": 351.262,
+        "text": "Kratka, na vseh"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 352.465,
+        "end": 364.848,
+        "text": "na tistih mestih, kjer se bomiki največ igražujejo, tako da do čim večjega števila bude ta naša številka."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 364.908,
+        "end": 375.331,
+        "text": "Seveda poleg tega programu pod pokrevanjo je pri nas zelo pomembna tudi program publikacij."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 375.351,
+        "end": 381.213,
+        "text": "V okviru tega izhaja okno, revija in seveda tudi publikacije"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 381.929,
+        "end": 387.111,
+        "text": "čisto strokovne, ki bovnikom pomagajo, da se s tem seznanjajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 387.191,
+        "end": 394.074,
+        "text": "Tudi javno smo seveda opravljali, ravno kaj je pred izzidom številka okna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 394.475,
+        "end": 402.558,
+        "text": "Izdali smo tudi publikacijo, ki ljudi opozarja na nevarnosti malivnega melanoma."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 403.119,
+        "end": 407.901,
+        "text": "Ste pa še dve v pripravi, ki boste išli zgodaj v jeseni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 408.101,
+        "end": 409.421,
+        "text": "Mi smo to vse izdali."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 409.541,
+        "end": 410.802,
+        "text": "Evo problem, kako to"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 412.017,
+        "end": 425.607,
+        "text": "do bolnikov, ker ne moremo puščati to v bolnišnicah in na drugih mestih, tako da pač to bojo dobili naši člani, teh je preko 2600."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 425.647,
+        "end": 440.098,
+        "text": "Vse pa pogovarjamo tudi z zdravstvenimi domovi, kaj bi lahko dali njim, da bi seveda do tega bolnika pošli, ampak ne tako, da to se vzame v roko in potem se pustim"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 440.671,
+        "end": 442.972,
+        "text": "že spet nekdo drug vzame tolj v roko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 443.652,
+        "end": 459.637,
+        "text": "Torej, največja zadeva, ki nam jo je zdaj uspela speljati, je pač ta naš onkofon, ki ga lahko ljudje uporabljajo in so jim na boljo naši prostovoljci v vseh koncih Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 459.737,
+        "end": 462.898,
+        "text": "Torej, ne samo Ljubljana in Maribor, ampak tudi drugod."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 462.998,
+        "end": 469.78,
+        "text": "Tako da želimo si zelo, da veliki poslovijo to številko,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 471.485,
+        "end": 475.748,
+        "text": "v teh časih lahko uveliko pomoči."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 475.768,
+        "end": 482.694,
+        "text": "Boli si samo za prvi val, ali drugega in še katerega, če bo na njega prišlo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 482.714,
+        "end": 488.359,
+        "text": "Z veliko željo seveda, da se to ne bi podelilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 488.439,
+        "end": 489.279,
+        "text": "Toliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 489.399,
+        "end": 498.887,
+        "text": "Je mogoče že povedati kakšno številko, koliko ste že prejeli klicev na onkofon?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 499.447,
+        "end": 510.654,
+        "text": "Veste, kaj te številke jaz nimam, vse pa dejansko, statistika se zbira, se vodijo, je pa opazno, da je tega vsak dan več."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 510.674,
+        "end": 523.821,
+        "text": "Je menilo kar nekaj časa, da se je ta številka prijela in da so jo ljudje klicali, ampak zdaj, kolikor dobimo informacije, če se temu reče s terena, seveda je ta številka vsak dan bolj klicana."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 523.861,
+        "end": 526.943,
+        "text": "Žal, ne morem vam pusteč številkami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 530.227,
+        "end": 539.656,
+        "text": "Je pa že potem, da je rast števila klicev zadosten podatek, da je bil ta telefon več kot nujen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 540.237,
+        "end": 545.942,
+        "text": "Ne samo v času epidemije, ampak tudi v vseh ostalih časih in dogodkih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 546.363,
+        "end": 552.889,
+        "text": "Izvršna direktorica in ustanoviteljica Združenja predsednica OncoNet Kristina Modic, tudi v Združenju leukemija in linfom,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 553.109,
+        "end": 562.337,
+        "text": "ste zabavnike prilagodili rehabilitacijo, zabavnike s krvnimi raki v online program, torej program preko spleta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 562.777,
+        "end": 573.927,
+        "text": "Pripravili ste tudi poseben enačin tedenskega informiranja ter strokovne podpore članom združenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 574.027,
+        "end": 578.371,
+        "text": "Gospa Modic, samo še mikrofonček bova vklopili, tako da se slišimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 578.451,
+        "end": 579.131,
+        "text": "Super, hvala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 580.447,
+        "end": 581.728,
+        "text": "Ja, tako je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 581.788,
+        "end": 599.237,
+        "text": "Ko se je že nakazovalo, da bo epidemija prišla iz tujine tudi v naše kraje, smo takrat v združenju že začeli takoj razmišljati, kako se prelagoditi z našimi programi na te nove razmere, da bomo lahko še naprej v uporo in pa blizu našim bolnikom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 599.617,
+        "end": 608.864,
+        "text": "Tako smo s kolegi iskali različne načine, kako prilagoditi predvsem tiste programe, ki jih izvajamo v skupinah, v živo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 609.284,
+        "end": 613.828,
+        "text": "To so naše posvetovalnice, delavnice, informativni dnevi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 614.028,
+        "end": 628.619,
+        "text": "In seveda, kako prenes ta naš rehabilitacijski program, ki je prvi te vrste za bolnike s krvnimi raki, kako ga v bistvu prilagoditi na te nove razmere."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 628.979,
+        "end": 637.687,
+        "text": "Osredotočili smo se predvsem na ta program v tem času in mislim, da nam je dobro uspelo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 638.708,
+        "end": 649.558,
+        "text": "Namreč ta program ima tri module, prehranski, fizikalni in psihosocialni, ki je prej baziral na individualni in skupinski podpori, zdaj smo ga pa pač uspeli"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 650.258,
+        "end": 655.904,
+        "text": "v online, skratka na online, preko interneta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 658.306,
+        "end": 669.238,
+        "text": "Sicer strokovnjaki so doma snemali videovsebine in pa nasvete, ki smo jih potem objavljali na spletni strani našega rehabilitacijskega programa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 669.698,
+        "end": 679.55,
+        "text": "Potem uporabnikom smo to pošiljali tudi po elektronski pošti, tudi ostalim našim članom smo pošiljali vse te videovsebine."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 680.011,
+        "end": 681.613,
+        "text": "To se je dogajalo tedensko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 681.793,
+        "end": 686.7,
+        "text": "Tedensko je vsak prejel po tri različne podporne videovsebine."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 687.08,
+        "end": 715.364,
+        "text": "Tudi naši strokovnjaki so se zelo hitro prilagodili in so preko videokonferenčnega sistema Zoom izvajali tako individualno kot predvsem skupinsko podporo, imeli so posvetovalnice, tako da smo na nek način jim stali ob strani ne le skozi ta program rehabilitacije, ampak tudi za vsa ostala vprašanja, ki so se porajala in so bila povezana s temi novimi razmerami z rehabilitacijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 715.784,
+        "end": 717.746,
+        "text": "s tem, ko smo morali biti doma."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 718.606,
+        "end": 733.878,
+        "text": "Seveda smo morali tudi hitro prilagoditi našo spletno stran tega rehabilitacijskega programa, jo bom tudi zdaj na hitro podelila, za tiste, ki jo morda še ne poznajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 733.898,
+        "end": 739.802,
+        "text": "V bistvu to je spletna stran, tukaj so trije moduli, prehranski, psihosocialni in pa fizikalni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 740.383,
+        "end": 745.167,
+        "text": "Vsak modul ima, ko se klikne na njo,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 745.99,
+        "end": 757.484,
+        "text": "ima številne videovsebine in potem so si lahko bolniki pomagali tudi v tem času na ta način."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 757.765,
+        "end": 759.988,
+        "text": "Tako kot ste že prej preumenili, pa"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 761.164,
+        "end": 777.602,
+        "text": "In tako kot nam vedno naši strokovnjaki zdravstveni stojijo ob strani preizvajanja naših programov, je tudi tokrat predstavnik kliničnega odelka za hematologijo, prof. dr. Samo Zber, pripravlja vsak teden dolgo pismo za naše bolnike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 778.643,
+        "end": 780.926,
+        "text": "To smo tudi objavljali na socialnih omrežjih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 781.529,
+        "end": 788.331,
+        "text": "In pa se pošiljajo našim članom šesto naslovov po elektronski pošti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 789.312,
+        "end": 803.557,
+        "text": "Tukaj jih je profesor Zver informiral, kako poteka zdravljanje v tem času, kako skrbijo za to, da je zdravljanje varno, da je zdravstveno osebje, kako skrbi za vse te varne razmere."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 804.097,
+        "end": 805.838,
+        "text": "Vkrati pa je bovnikec podbujal"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 806.858,
+        "end": 808.519,
+        "text": "k pozitivi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 809.479,
+        "end": 818.784,
+        "text": "Tudi vedno jim je posredoval vse kontaktne podatke, kamor jih lahko kakorkoli pokličajo na telefonske številke."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 820.625,
+        "end": 833.812,
+        "text": "Res so bili tako naši člani kot tudi preko socialnih omrežev ostali bovniki skrbni miraki dobro informirani in pa podprti, tako da so se imeli na koga obrniti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 834.466,
+        "end": 853.694,
+        "text": "In kar nam je še tako zelo pomembno, da v tem času smo dobili res tak feedback nazaj od njih, ali po elektronski pošti, ali po telefonu, da so veseli, da jim v teh težkih časih še bolj stojimo ob strani, kot smo jim morda še prej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 853.714,
+        "end": 857.936,
+        "text": "In jim je to zelo olajšalo vsak dan."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 859.171,
+        "end": 870.321,
+        "text": "Potem pa sveda imamo nekatere programe, ki se jih pa žal ni dalo izvajati v tem času, to so te veliki informativni dnevi, te predstavljamo na jesen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 871.895,
+        "end": 877.058,
+        "text": "Pripravljali smo pa zdaj tudi malo več časa za pripravo novih publikacij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 877.158,
+        "end": 881.64,
+        "text": "Tudi mi imamo štiri v pripravi, ki bodo išle jeseni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 882.34,
+        "end": 884.481,
+        "text": "Snemali smo tudi druge videje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 884.501,
+        "end": 889.064,
+        "text": "Skratka, kjer se je le dalo, smo prilagodili"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 889.664,
+        "end": 895.186,
+        "text": "zadeve in tako, da je v bistvu delo potekalo nemoteno naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 896.146,
+        "end": 909.17,
+        "text": "S kolegico Brino sva delali od doma, tudi naši prostorovci so delali od doma, ampak te videokonferenčni sistemi so nam omogočali, da smo bili na vezi tako mi med sabo kot z bolniki in tudi s trokovnjaki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 911.433,
+        "end": 931.422,
+        "text": "Nekaj o odzivih ste že povedali, zdaj lahko mogoče izklopiva tudi share screen, pa še pod vprašanje zdaj ob tele predstavitvi je bilo veliko takih odzivov, da si želijo to vrstne storitve tudi v vsakršnem času."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 932.729,
+        "end": 944.034,
+        "text": "Ja, po eni strani moram povedati, da nekje polovica naših uporabnikov, programov se je odločila za te online prilagoditve, za Zoome in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 944.414,
+        "end": 948.356,
+        "text": "Druga polovica pa vse eno čaka, da bomo šli spet nazaj v živo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 948.997,
+        "end": 964.814,
+        "text": "Ampak vseeno nas je to, izkušnje so pokazale, da bomo morali določene stvari obdržati, ne glede na to, ali bo še val naslednji ali ne, bomo določene osebine še vedno imeli tudi online, ne le v živo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 967.171,
+        "end": 977.806,
+        "text": "Predsednica Slovenskega združenja za boj proti raku dojke Evropa Dona, gospoda Tanja Španič, tudi v vašem združenju ste se bolnicam približali s programi na spletu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 978.486,
+        "end": 982.993,
+        "text": "Kaj vse ste jim ponudili in kako so recimo bolnice to sprejele?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 984.451,
+        "end": 987.052,
+        "text": "Dobar dan tudi z moje strani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 988.052,
+        "end": 994.074,
+        "text": "Kot je že Kristina omenila, se na začetku leta res nismo zavedali, kako bodo ti programi potekali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 994.174,
+        "end": 997.775,
+        "text": "Vsi smo pripravili svoje letne programe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 998.015,
+        "end": 1004.097,
+        "text": "Seveda smo burno spremljali dogajanje in ko so se nam že nakazovali ukrepi,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1004.937,
+        "end": 1018.428,
+        "text": "Smo se zelo hitro osedli skupaj s kolegicami, tudi preselili svoje delo od doma in ugotavljali, kaj lahko od naših programov postavimo na splet oziroma približamo uporabnicam preko spleta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1019.149,
+        "end": 1031.419,
+        "text": "Seveda je naše delo stavljeno tako iz osveščanja, zagovorništva in podpore bolnicam in svojcem, tako da smo rekli, vsak del bomo na svoj način poskušali približati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1031.819,
+        "end": 1044.891,
+        "text": "Najbolj pomemben je seveda tudi ta osebna podpora bolnicam in njihovim bližnjim, tako da smo se najprej usmerili v ta del in poskušali čim več programa postaviti na splet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1045.171,
+        "end": 1046.352,
+        "text": "Tu smo izkoristili naša"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1047.513,
+        "end": 1051.198,
+        "text": "naše kanale, družbenih omrežji in spletne strani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1051.679,
+        "end": 1064.236,
+        "text": "Začeli smo kar nekako s podbojanjo telesne dejavnosti, ki je tudi ena izmed pomembnih aktivnosti, ki jo upravljamo in sicer hitro smo naredili skupino, zaprto skupino,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1064.236,
+        "end": 1089.963,
+        "text": "na Facebooku, ki ima danes že 185 članic in v bistvu prek te skupine smo nagovarjali članice telesnih dejavnosti, ki jih lahko upravljajo doma ali v bližnji okolici, vse od dvaj do jogijskih dvaj, pa tudi plesne koreografije, ki smo jo nekako po tihem začeli pripravljati že za oktober, tako da smo tudi razmišljali o programu Osveščena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1090.763,
+        "end": 1092.123,
+        "text": "kako ga bomo prilagodili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1092.143,
+        "end": 1120.21,
+        "text": "V zadnjih letih je izjemno pomemben del našega programa psihosocialna podpora, tako obolelim kot njihovim bližnjim in ta del nas je nekako najbolj spodbudil, da smo se prilagodili tudi v spletne učilnice oziroma v spletne sobe, tako kot je tudi Kristina omenila, da smo povabljali v porabnice tiste, ki so bile pripravljene na tak način, da smo podporne skupine preselili na splet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1120.75,
+        "end": 1127.574,
+        "text": "Moram reči, da nas je na začetku ta odziv kar presenetil, da je bil kar dober in smo pričakovali tako velikega odziva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1128.394,
+        "end": 1134.218,
+        "text": "In smo tako v Ljubljani kot v Mariboru skupine za bolnice začeli preko spleta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1134.958,
+        "end": 1143.823,
+        "text": "Razen skupina za metastatske oziroma za bolnice z napredovalim rakom dojk je ostala bolj v pisni in telefonski obliki."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1144.424,
+        "end": 1149.527,
+        "text": "One so raj počakali, da bojo razmere omogočale, da se bodo v živo spet videle."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1150.147,
+        "end": 1176.038,
+        "text": "Začeli smo tudi s delavnicami čujetičnosti preko spleta, kar je tudi ena velika posebnost, ker to so vseeno take metode in prijemi, ki zahtevajo oziroma imajo boljši učinek, če se dogajajo v živo, tako da je rahlanje ukrepov tudi to malo doprineslo, da so vsaj zaključile zadnjimi dvemi srečanji v živo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1176.758,
+        "end": 1198.627,
+        "text": "Seveda spletne variante težko nadomestijo vse osebne stike, tako da tudi, ko smo jih spraševali, kako so to sprejeli, so bile sicer navdušene, da so imele to možnost, predvsem tiste iz odaljenih krajev, ki sicer se ne bi mogle pripeljati ali v Ljubljanu ali v Maribor, pa so vseeno imele nek stik."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1199.067,
+        "end": 1205.992,
+        "text": "Vsi so pa na koncu odgovorili, da v živo pa bi se vse na vsaj kakšen krat srečali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1206.072,
+        "end": 1219.942,
+        "text": "Tako da nekaj smo vse naučili, nekaj je bilo res izboljšal in boljšega, ampak mislimo, da v polnosti ne more to nadomestiti tega osebnega stika ali s terapevtom ali z drugimi bolnicami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1221.123,
+        "end": 1243.501,
+        "text": "V tem času je potekal tudi Svetovni dan raka jajčnikov, ena izmed zelo pomembnih tem, ki jih v zadnjih letih obeležujemo, kar nam je tudi uspelo narediti letos preko spleta z kratkimi videji, zelo podobno, ko kar v združenju Levkemija linfom smo pozvali strkovnjake, da so doma posneli odgovore na naše zastavljene vprašanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1244.021,
+        "end": 1248.305,
+        "text": "Te kratke videje smo potem delili preko družbenih omrežji in tudi"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1248.545,
+        "end": 1254.15,
+        "text": "preko naših mailing list, da so lahko dobile ženske svoje odgovore."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1254.631,
+        "end": 1266.802,
+        "text": "In seveda ti videji so namenjeni tudi osveščanju, sicer rak jajčnikov ni tako pogost kot rak dojke, vendar vseeno je izjemno pomembno, da ga čim prej odkrijemo,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1267.343,
+        "end": 1281.462,
+        "text": "In ker smo zaznali, da se v tem času manj ljudi tudi odziva, oziroma da je manj ljudi šlo na preglede k zdravnikom, smo tudi preko te kampanje skušali pozvat ljudi, da tudi če kaj začutijo, da je z njimi narobe grejo k zdravnikom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1282.548,
+        "end": 1284.93,
+        "text": "Tako da to je bil še en tak apel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1285.11,
+        "end": 1293.596,
+        "text": "Nasrečo so nas tudi naši podporniki, sponzori v tem času razumeli te prilagoditve in nas v kljubu samo podprli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1293.996,
+        "end": 1306.805,
+        "text": "Tako da mislim, da smo imeli kar na vseh straneh neke pozitivne učinke, da smo se znali prilagoditi in da smo se tudi veliko naučili, če se nam ponovi v takšni obliki,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1307.185,
+        "end": 1318.419,
+        "text": "ali v kakršnikoli obliki drugi val, tretji ali bilo kateri val ali pa še kakšna taka izkušnja, da vidimo, kaj lahko in na kakšen način lahko prilagodimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1320.82,
+        "end": 1338.493,
+        "text": "Ta človeški dotik, bližina in toplina, ki smo jo pogrešali že zdravi, je, kot smo slišali iz dosedanjega pogovora, bila tudi ena najbolj pogrešenih tematih med osebami z rakom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1339.754,
+        "end": 1346.82,
+        "text": "Najverjetneje bo moja sogovornica pritrdila, da so pa otroci to najbolj občutljivi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1346.84,
+        "end": 1355.148,
+        "text": "Ustanova Mali Vites, namreč fundacija za pomoč mladim ozdravljenim od raka, pomaga ozdravljenim pri odpravljanjih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1355.549,
+        "end": 1361.491,
+        "text": "njihovih občutkov osamljenosti in jih ob enem spodbuja, da bolj pozitivno gledajo na življenje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1361.531,
+        "end": 1376.275,
+        "text": "Omogočajo jim tudi skupinsko rehabilitacijo v toplicah in na taborih, kar zdajle ni bilo možno, pa druženje omogočate v okviru regijskih skupin in številne aktivnosti in tudi to sedaj v epidemiji ni bilo omogočeno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1376.575,
+        "end": 1380.157,
+        "text": "Poleg tega pa tudi psihološko in medicinsko svetovanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1380.638,
+        "end": 1388.303,
+        "text": "Tudi pri vas v malem vitezu ste se prilagodili s komunikacijo, kaj ne, dr. Lorna Zadravec Zaletelj?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1390.497,
+        "end": 1391.217,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1391.558,
+        "end": 1398.561,
+        "text": "Najverjetneje res najbolj pogrešamo, kot smo že omenili, te tesnejše stike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1398.822,
+        "end": 1410.088,
+        "text": "Na nek način nas je strah, v bistvu je nek strah prišel vse nas, ne glede na to, ali smo na javnih mestih, še vedno tudi v domačem okolju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1410.428,
+        "end": 1411.849,
+        "text": "Zato je toliko bolj pomembno,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1412.249,
+        "end": 1434.68,
+        "text": "da prav društva, ki jih danes predstavljamo, lahko vovnikom, ki imajo ta strah še večji oziroma ki morajo biti še bolj pazljivi, tako vovniki kot predvsem tudi njihovi svojci pa sodelavci, da se znamo prilagoditi na pravi način na ta nek novi čas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1435.321,
+        "end": 1440.804,
+        "text": "Podariti pa je tudi treba, da moški obolevajo in umirajo pogosteje kot ženske,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1441.544,
+        "end": 1450.431,
+        "text": "Tudi odzivni so slabše, saj rezultati presejalnih programov, recimo se vidi, kažejo slabša odzivnost moških v primerjavi z ženskami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1450.872,
+        "end": 1456.817,
+        "text": "Zato je tudi nastalo društvo Onko Men, da v zavesti slovenske moške in njihove bližnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1456.917,
+        "end": 1464.323,
+        "text": "Tudi aktivnosti tega društva bo predstavila predsednica Združenja Onko Net Kristina Modic, kot tudi aktivnosti Združenja Evropa Kolon."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1464.643,
+        "end": 1465.704,
+        "text": "Gospod Modic, prosim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1466.924,
+        "end": 1485.252,
+        "text": "Ja, tako kot ste že čisto na začetku omenila, Združenje Onko Net se stavlja sedem organizacij bovnikov, tako da tukaj smo se štiri predstavili, so pa potem z nami še Društvo Korak iz Novegorice, Evropa Kolon Slovenija in pa Društvo Onko Men."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1485.633,
+        "end": 1493.696,
+        "text": "Jaz bi želela povdarjati, da tudi ta tri društva so si v tem času prizadevala, da so bila čim bliže svojim članom, svojim bovnikom,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1496.675,
+        "end": 1505.258,
+        "text": "kot naša društva, so jim bili na voljo svetovanjem po elektronski pošti, pa preko telefonov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1505.819,
+        "end": 1509.3,
+        "text": "Aktivni so bili tudi na socialnih omrežjih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1510.561,
+        "end": 1526.367,
+        "text": "Za nas, organizacije bolnikov, je bil ta čas zelo, zelo aktivan, mogoče še bolj aktivan kot kadarkoli prej, ker smo vsi še več energije vlagali v še več vsebin podpornih"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1526.965,
+        "end": 1543.794,
+        "text": "Kajti tako kot je že omenila Lorna, pa mislim, da tudi Tanja, bolniki so bili zdaj kar predvsej v predsebu, ali so oni še bolj ogroženi kot ostali in na kakšen način lahko sebe še bolj zaščitijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1544.274,
+        "end": 1552.178,
+        "text": "In prva točka, kamor so ponavadi poklicali, ali je bil to njihov osebni zdravnik, največkrat pa kar nam od udruštva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1553.105,
+        "end": 1562.575,
+        "text": "Tako da smo bili res njihova pomembna opora v tem času, pogosto tudi psihološka opora, da smo se z njimi samo pogovarjali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1563.075,
+        "end": 1572.545,
+        "text": "Nekateri bolniki živijo sami, so rabili v tem času še več, bi rekla, pogovora in to vse so dobili v naših društvih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1575.886,
+        "end": 1594.096,
+        "text": "Lahko rečete, glede na to, da spremljate vse društva, ki so združene v ovom konetu, da je bilo katero izmed društev še bolj obremenjeno v tem času oziroma so bila katera društva bolj obremenjena kot ostala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1594.536,
+        "end": 1603.481,
+        "text": "Ne prijazna oziroma mogoče ne hvaležna primerjava, ampak najverjetne so društva, ki so dobila res ogromno klice v tem času."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1604.607,
+        "end": 1611.102,
+        "text": "Jaz mislim, da so sigurno tiste društva, mislim, da smo bila vsa društva zelo obremenjena, kajti na nek način"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1613.872,
+        "end": 1624.534,
+        "text": "Raka je veliko, bolnikov je veliko in mislim, da bi delali krivico, če bi rekla, da je eno društvo bilo bolj obrmenjeno od drugega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1624.934,
+        "end": 1632.236,
+        "text": "Vsak smo bili zelo obrmenjeni in tudi na vezi smo bili, tako da, kot je meni znano, smo imeli vsi polne roke dela."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1632.616,
+        "end": 1643.018,
+        "text": "Skupaj seveda z našimi strokonjavki, ki so nam pri tem šli nas proti in nam pomembno pomagali v teh časih, da smo bili skupaj močna opora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1644.095,
+        "end": 1653.802,
+        "text": "Zdaj le bom poprosila vse svoje sogovornice, če izpostavimo predvsem težave, na katere ste naleteli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1654.162,
+        "end": 1660.347,
+        "text": "Nekaj ste jih sicer že omenili, ampak težave, na katere ste naleteli v tem času."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1660.847,
+        "end": 1667.071,
+        "text": "Že od začetka programi so padli v vodo, je gospa Lorna prej omenila, a ne pa Tanja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1667.872,
+        "end": 1671.555,
+        "text": "Začeli smo novo leto kot vsako novo leto z vsemi programi,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1671.955,
+        "end": 1675.759,
+        "text": "z dodelanimi načrti za leto in potem so stvari padle."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1676.599,
+        "end": 1679.722,
+        "text": "Gospa Žličar?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1679.742,
+        "end": 1684.467,
+        "text": "Jaz bi rada povedala še to, kar sem žal pozabila."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1684.967,
+        "end": 1686.369,
+        "text": "Če si prvi, ni vedno fajn."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1686.609,
+        "end": 1688.911,
+        "text": "Pa se poveš, da spomniš, kaj poslušaš druge."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1689.792,
+        "end": 1695.297,
+        "text": "Zelo pomembno se mi zdi, da v tem času so bili na vozi"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1711.696,
+        "end": 1717.361,
+        "text": "No in to bomo seveda vzdrževali tudi preko onkofona."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1733.802,
+        "end": 1737.183,
+        "text": "Jaz ne slišim, gospe Žličar, ostale sogovornice slišite?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1738.044,
+        "end": 1739.124,
+        "text": "Ne, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1739.624,
+        "end": 1743.966,
+        "text": "Zdajle, gospa Žličar, če lahko še enkrat, prosim, ponovite."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1744.386,
+        "end": 1747.507,
+        "text": "Padla je povezava z vami in tudi slišali vas nismo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1747.947,
+        "end": 1749.828,
+        "text": "Če lahko še enkrat ponovite, prosim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1752.078,
+        "end": 1764.547,
+        "text": "povdari, da so na voljo bolnikom ne samo naši prostovoljci, oziroma prostovoljke in prostovoljci, ampak tudi strokovnjaki iz področja psihologije in tudi psihoonkologinja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1765.067,
+        "end": 1770.03,
+        "text": "Tako da, ko res nastopijo stiske, so ti ljudje njim na voljo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1770.431,
+        "end": 1780.978,
+        "text": "Mi imamo zelo dobro in tudi dobro obiskano spletno stran, kjer so čisto poimensko navedene telefonske številke, ki jih bolniki lahko"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1781.66,
+        "end": 1808.848,
+        "text": "pokričajo, če to pač ni preko onkoneta, jih lahko pokričajo tudi sicer, ter so tudi pozvani vsi, ki ne dobivajo naših publikacij zaradi razmer, ki so narekovale to, lahko se obrnejo na društvo in vsak, ki bo želel karkoli, kar smo to zdaj objavljali oziroma publicirali, da jim brezplačno pošljemo in"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1809.2,
+        "end": 1823.384,
+        "text": "Smo jih pozvali tudi zdaj v tej številki okna, ki bo izšla, da se vsi, ki želijo, bodi si redijo, bodi si kar koli drugega, da jim gremo toliko naproti, da jim stvari pošljamo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1824.405,
+        "end": 1829.586,
+        "text": "Stiske je bilo pa veliko, ampak veste, niso bile stiske samo nebovniki."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1829.866,
+        "end": 1834.708,
+        "text": "Mi smo imeli prejšnji teden srečanje z našimi prostovoljkami in prostovoljci."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1836.25,
+        "end": 1844.492,
+        "text": "Tudi oni so bili v zelo velikih stiskah, ker so jim bili onemogočeni osebni stiki."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1844.952,
+        "end": 1855.295,
+        "text": "In moram reči, da ko sem vse te naše prostovoljce gledala v prejšnji tem, kako so se razveselili teh stikov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1855.475,
+        "end": 1864.598,
+        "text": "Seveda, že spet na varni, dalji in z upoštevanjem vseh umejitev, mislim, da sem takrat"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1865.208,
+        "end": 1870.19,
+        "text": "še bolj dovmela, kako težko je bilo pa za bovnike."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1871.071,
+        "end": 1877.153,
+        "text": "Ker so si dejansko ostali, nasprotno, so si stali ob strani samo bovnike in njihovi svojci."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1877.934,
+        "end": 1883.996,
+        "text": "Ko gre pa za raka, veste, je pa težko ugotavljati, komu je huje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1884.096,
+        "end": 1891.499,
+        "text": "Ali bovniku, ali eni od njih v teh trenutkih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1891.66,
+        "end": 1892.52,
+        "text": "Za naprej, stvar,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1892.917,
+        "end": 1912.045,
+        "text": "Če govorimo o tem drugem valu, da se nam bo izgodil, najbolj si želim tega, da ne bi že spet upadlo število diagnostičnih postopkov iz takšnih ali drugačnih razlogov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1912.125,
+        "end": 1915.587,
+        "text": "Na tačne razloge je težko opredeliti, ali je šlo za"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1916.812,
+        "end": 1925.879,
+        "text": "Strah bolnikov, ali je šlo za previdnost osebnih zdravnikov, ki jih niso želeli kamno potovati, težko je ugotavljati zakaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1925.98,
+        "end": 1933.025,
+        "text": "Ampak dejstvo je, da se je to zgodilo in to po tem stisku se mora še spotencirati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1933.045,
+        "end": 1944.815,
+        "text": "Zato si res želim, da se, najprej si želim, da drugega valja seveda ne bi bilo, ampak če se nam pa že zgodi, da se to ne bi tako zelo poznalo po celih teh treh mesecih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1947.777,
+        "end": 1948.918,
+        "text": "Hvala lepa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1948.938,
+        "end": 1955.102,
+        "text": "Poglejmo še ostale sogovornice, mogoče gospa Zadravec."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1955.462,
+        "end": 1968.05,
+        "text": "Na katere težave ste pa v vašem društvu naleteli, poleg tega, da so vam bili odrezani dobesedno skoraj do vsi programi, s katerimi ste omogočali druženja svojih malih vitezov?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1968.61,
+        "end": 1973.053,
+        "text": "Ste imeli še kakšne druge, mogoče birokratske težave, kakršne koli druge in kakšna"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1973.393,
+        "end": 1980.015,
+        "text": "je sedaj pot naprej k novemu valu, ki ga že vsi napovedujemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1980.135,
+        "end": 1983.996,
+        "text": "Kaj pa recimo ob novem valu?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1984.096,
+        "end": 1994.519,
+        "text": "Boste uporabili znanje, ki ste ga v bistvu zdaj osvojili v teh dveh, treh mesecih, ga še kako nadgradili in že imate kakšne nove ideje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1996.276,
+        "end": 1999.837,
+        "text": "Gospod Tanja Španič, kaj pa vaše bolnice?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2000.297,
+        "end": 2013.06,
+        "text": "Zdaj se vredno vsi že na kakšen trenutek ali dva razmišljamo, kako pa bo, pa kako bo že z povprečnim življenjem neke družine, organizacije in vse ostalo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2013.42,
+        "end": 2026.243,
+        "text": "Kako se pa vaše bolnice, kako se vaše društvo pripravlja in mogoče prele še niste mogoče izpostavili težav, na kateri ste naleteli v teh dveh, treh mesecih"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2026.263,
+        "end": 2029.322,
+        "text": "časa epidemije razgrešene."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2029.857,
+        "end": 2049.651,
+        "text": "Ja, najprej na začetku je bilo res tako, da so telefoni najbolj zvonili, potem so nam bili v veliko pomoč, kot je Ana že umeljena, tudi na onkološkem inštitutu so podprli posebno telefonsko številko za pomoč bolnikom, ker je bilo veliko strahu o tem, ali bodo dobili terapijo ali ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2049.871,
+        "end": 2051.673,
+        "text": "To je bilo najbolj pogosto vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2052.113,
+        "end": 2058.698,
+        "text": "Potem pa tako, kot je tudi Lorna omenila, ali sodijo v ogroženo skupino ali ne, tiste, ki so že zaključile zdravljenje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2059.338,
+        "end": 2072.011,
+        "text": "Že zaradi drugih programov smo malo poanalizirale in je v bistvu v istem obdobju, če ga primeremo z lanskim, v istem obdobju smo projeli kar trikrat in več, kar trikrat več klicov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2072.031,
+        "end": 2076.515,
+        "text": "Tako da je bilo res, kar se tega tiče, več dela."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2077.428,
+        "end": 2085.432,
+        "text": "Ko se je to malo umirilo, ko so bolnice videli, da terapija poteka je normalno, je bilo tega bistveno manj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2085.912,
+        "end": 2094.816,
+        "text": "To je izjemno pomembno, da tudi strokovnjaki oziroma zdravniki komunicirajo z bolniki, kar je se na onkološkem inštitutu izkazalo za zelo pozitivno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2095.216,
+        "end": 2106.402,
+        "text": "Druge inštitucije so tu imele malo več težav, tako da smo kar večkrat tudi mi kot društva morali posredovati, da so se potem po samezni primjeri razrešili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2107.162,
+        "end": 2127.495,
+        "text": "Pa tudi ravno zaradi ogroženosti bolnic in ozdravljenj smo tudi zelo burno spremljali Evropska priporočila, ki so jih pripravljale različne organizacije, ravno te, ki jih je tudi Lorna že umenila, kdaj se za koga smatra, da še sodi v ogroženo skupino in kdaj ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2128.255,
+        "end": 2134.639,
+        "text": "Ravno tako zaradi dela, zaradi odhodov trgovina in na zadnje tudi zaradi odhodov zdravnikov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2134.739,
+        "end": 2143.464,
+        "text": "Tudi bolnice, ki so v zdravljenju, so se bale priti zdravniku, da se ne bi tam morali biti okužile."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2143.784,
+        "end": 2153.91,
+        "text": "Mislim, da smo tukaj imeli vsi eno tako spolsko področje in da smo se zelo dobro na koncu jeli tako z bolnicami kot z strokovnjaki."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2154.985,
+        "end": 2162.609,
+        "text": "Največja ovira je bila to, da res nimajo oziroma ne morejo vsi sodelovati preko spletnih urodi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2163.469,
+        "end": 2169.772,
+        "text": "Čeprav moram reči, da so vse kar v redu, da so te aplikacije tako dostopne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2170.292,
+        "end": 2179.397,
+        "text": "Večina ljudi ima ženike, pametne naprave, telefone ali tablice, kakšne vnuke, če sami ne zmorejo, da jim pomagajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2179.977,
+        "end": 2182.838,
+        "text": "je pa res, da potem potrebuješ tudi dobro povezavo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2182.858,
+        "end": 2189.682,
+        "text": "In je bilo tako malo pozitivnih, malo težav, da smo se vsi nekako lovili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2190.502,
+        "end": 2200.287,
+        "text": "Kar mislim, da nam bo za prihodnje pomagalo, je pa to, da bi obdržali nekatere stvari preko spleta, kar je tudi Kristina že omenila, ravno zaradi tega, ker"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2200.987,
+        "end": 2219.094,
+        "text": "Mogoče v času zdravljenja niti ne moreš vsak dan, vsak teden potovati v drugi kraj na podporno skupino, potrebuješ pa definitivno neke vrste podporo, sploh psihološko podporo in zaradi takih primerov bomo obdržali eno skupino zagotovo preko spleta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2219.954,
+        "end": 2228.919,
+        "text": "Mogoče tega, če nas ne bi situacija v to malo prisilila, ne bi še nekaj časa poskusili, tako pa smo poskusili in smo videli, da gre."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2230.099,
+        "end": 2244.487,
+        "text": "Vsekakor bi pa del oziroma večji del programa moramo izvajati, mislim, bomo izvajali vživo, ker je to tudi namen vse psihološke podpore in tudi druženja, da dobiš tisti"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2245.267,
+        "end": 2252.168,
+        "text": "tisto podporo, ki jo mogoče od bližnje okolice in tudi od zdravstvenega osebja ne moreš dobiti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2252.288,
+        "end": 2273.112,
+        "text": "Tako da to se nam zdi zelo pomembno, mislim pa, da lahko rečemo, da smo zdaj v tem obdobju videli, kako to poteka in da če se nam ponovno kaj takega zgodi, da smo pripravljeni, da vidimo, da gre in pač ja, ne moremo vsega, ampak v takem obsegu in na tak način kot se da, da svoj program tudi speljamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2275.034,
+        "end": 2277.556,
+        "text": "Hvala lepa, gospa Modic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2278.377,
+        "end": 2290.247,
+        "text": "Križe in težave so naslednje najeno vprašanje, na katere predvsem križe ste naleteli v tem času in kakšna je priprava zdaj za naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2291.007,
+        "end": 2299.835,
+        "text": "Imate mogoče kakšne načrte, se pripravljate na jesen, kako bi recimo pomagali čim več vašim članom"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2299.975,
+        "end": 2307.061,
+        "text": "kolikor pride res še do enega, ne vemo kako močnega in kako dolgotrajočega vala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2307.081,
+        "end": 2310.344,
+        "text": "Ja, v bistvu že Tanja pa kolegiče so povedali,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2311.906,
+        "end": 2317.929,
+        "text": "še tem pa Tanja prejle, da splet je kar velik izziv za določene bovnike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2319.289,
+        "end": 2325.092,
+        "text": "Tako da tukaj je bilo res kar precej energijo vloženo, da smo jim to približali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2325.972,
+        "end": 2334.496,
+        "text": "Na zadnje smo tudi s kolegico jim pomagali bovnikom, smo jih tudi učili, kako uporabljati vsa ta urodja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2336.137,
+        "end": 2337.197,
+        "text": "Ampak se je izplačalo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2338.923,
+        "end": 2353.126,
+        "text": "je pa pred nami zdaj v Združenju polnikosti in polnilokemijo kar velik izziv in sicer kdaj se zdaj počasi začeti odločati in predstaviti iz online programa rehabilitacijo v živo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2354.546,
+        "end": 2367.209,
+        "text": "Tako da nekako načrtujemo, oziroma smo se že odločili, da bomo julija pričeli s telovadbo zunaj in pa počasi tudi s posvetovalnicami strokovnjaki v živo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2367.982,
+        "end": 2377.467,
+        "text": "Skoz bomo spremljali sliko in se prilagajali razmerama, glede COVID-a."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2377.808,
+        "end": 2391.215,
+        "text": "Je pa nekaj res, tako kot je Žetanja omenila, s temi našimi programi, ki smo jih dali na online, smo se približali bolnikom v vseh regijah po Sloveniji, kar je zelo velik plus."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2391.235,
+        "end": 2394.257,
+        "text": "Tako da na nek način nas je COVID spodbudil"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2394.914,
+        "end": 2405.886,
+        "text": "oziroma nam pomagal, da smo prišli do bolnikov in pomagati tudi v druge regije, ne le v Ljubljani, ker je vedno vse skoncentrirano samo na Ljubljano."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2406.126,
+        "end": 2408.749,
+        "text": "To je ena stvar."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2409.049,
+        "end": 2415.136,
+        "text": "Druga stvar je tudi, da preko teh online vsebin se vedno bolj približujemo tudi mladim bolnikom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2415.873,
+        "end": 2425.799,
+        "text": "ki niso tako zainteresirani za posvetovalnice v živo, raje se držijo zadej, pa so se nam zdaj rajši priključala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2426.52,
+        "end": 2436.626,
+        "text": "V bistvu nam te prilagodlitve odpirajo vrata, oziroma bolnikom odpirajo vrata do nas širšče, kar je"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2438.333,
+        "end": 2442.116,
+        "text": "se mi zdi zelo velika dodana vrednost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2442.837,
+        "end": 2456.408,
+        "text": "Tako da izziv je, kako zdaj spet nazaj v živo, nazaj v življenje, po drugi strani pa tudi izziv, kaj ohraniti od tega online izvajanja v prihodnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2458.718,
+        "end": 2483.562,
+        "text": "Imamo tudi vprašanje, ki ga je poslala poslušalka, ki želi biti anonimna in sicer zanimajo, ali spremljate kot društva mogoče tudi bovnike, ki nimajo, prele smo jih sicer med pogovorom že omenili, ki nimajo sorodnikov in ki nimajo znancev, ki bi zanje"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2483.862,
+        "end": 2488.844,
+        "text": "skrbeli, ter nimajo povezave s svetom, torej z internetom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2489.044,
+        "end": 2501.47,
+        "text": "Ali se v društvih iščejo poti tudi do teh ljudi, na kakšen način in ali jim mogoče tudi v tem času pomagate tudi v društvih?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2501.65,
+        "end": 2505.972,
+        "text": "Seveda tudi s temi bolniki imamo stik zagotovo, pa ne z vsemi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2506.711,
+        "end": 2515.277,
+        "text": "Želeli bi si, da bi prišli do teh bolnikov, mislim še do več teh bolnikov, ki so osamljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2517.278,
+        "end": 2530.668,
+        "text": "Tukaj nam lahko zelo pomagajo tudi mediji, na nek način to treba izpostaviti, z različnimi radijskimi vodajami, v časopisih, ki nas v bistvu z našimi kontaktnimi podatki približajo tem ljudem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2531.298,
+        "end": 2557.842,
+        "text": "Na tak način ali pa preko strokovnjakov smo do sedaj tudi prišli do teh bolj ranljivih in seveda navoljil smo jim in za osebni pogovor, pogovor po telefonu, to so navadno dolgi pogovori, velike stiske teh ljudi, morali pa bomo skupaj z"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2559.614,
+        "end": 2573.283,
+        "text": "skupaj, vsa društva, pa tudi opodporiti, kot sem rekla, in medijev, in strokovnjakov, in različnih socialnih služb v bodoče, še bolj pridati, oziroma še lažje pridati do njih in jim pomagati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2574.044,
+        "end": 2583.51,
+        "text": "Mislim, da Evropa Dona, mogoče po Tanja povedala, imajo tudi poseben socialni program, kjer takšnim tudi pomagajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2583.53,
+        "end": 2584.891,
+        "text": "Tako da mogoče Tanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2586.512,
+        "end": 2587.213,
+        "text": "Ja, mislim,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2589.871,
+        "end": 2609.24,
+        "text": "kar nekaj klicov, celo gospa se nam je oglasila in se je sama ponudila, da v tem času vzame k sebi dve bolnici, ki lahko zagotovijo v svoji hiši prostor, da sta izolirani in da jima pomaga, tako s prevozih zdravnikov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2609.32,
+        "end": 2614.723,
+        "text": "Oglasla se je ena, ki je sprejela tako pomoč, drugače pa smo vsem tem času"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2615.403,
+        "end": 2625.333,
+        "text": "tudi socialno, finančno, socialno podprli kar nekaj bolnic, ki so zaradi situacije utrpele še veliko finančno krizo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2625.353,
+        "end": 2630.098,
+        "text": "Tako da smo poskušali, seveda mi zelo težko najdemo te ljudi,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2630.438,
+        "end": 2641.883,
+        "text": "Smo pa širili naše sporočila, tako kot je Kristina rekla, da ljudje vejo, da smo društva tu in da se obrnejo, tudi če se skbilo, katerim drugim mrakom na nas obrnejo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2641.943,
+        "end": 2654.949,
+        "text": "Mi smo med sabo povezani, jih lahko usmerimo na sorodna društva oziroma tudi na druge, ki niso iz področja onkologije, pa nudijo tako vrstno podporo, pomoč na domu ali pa da jim dogrejo trgovino."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2655.149,
+        "end": 2657.71,
+        "text": "Obstajajo tudi lokalna taka društva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2658.13,
+        "end": 2665.394,
+        "text": "s katerimi imamo neke povezave in v vsakem primeru tisti, ki se obrne na nas, smo poskušali pomagati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2665.895,
+        "end": 2673.66,
+        "text": "Je pa res, da drugače, kot da širimo in da se oglasimo, ne moremo prva biti teh ljudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2674.28,
+        "end": 2688.62,
+        "text": "Je pa res, ko smo v stiski, potrebujemo, da se zgodi tudi tako, da se ne sami ljudje, ki so v stiski na nas obrnejo, ampak njihovi znanci, sosedje in v bistvu na tak način potem skupaj nekaj poiščemo in poskušamo pomagati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2690.581,
+        "end": 2698.348,
+        "text": "Mogoče vprašanje za vas, gospod Modic, glede na to, da združen je on koneta, združuje vsa ta društva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2698.868,
+        "end": 2712.9,
+        "text": "Ali vam manjka, zdaj le je tudi Tanja omenila, ali vam manjka potem ta neka celostna mreža, ki bi poskrbela, da bi pokrili tudi te najbolj osamljene, najbolj oddaljene mreže,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2713.16,
+        "end": 2726.256,
+        "text": "Ne bom rekla primere, ampak ljudi, ki se sami borijo s svojimi stiskami, ukolikor bi bila ta mreža dopolnjena z močno podporo socialnih in drugih služb na terenu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2726.316,
+        "end": 2729.721,
+        "text": "Ali to pogrešate ali iščete rešitve v tej smeri?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2730.828,
+        "end": 2746.52,
+        "text": "Pogrešamo pa hkrati tudi iščemo rešitve, kako bi se jim dejansko približala, ker ponavadi te ljudje sami sploh ne iščejo pomoči ali pa celo zaradi stigme raka nekako tudi odklanjajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2747.281,
+        "end": 2765.572,
+        "text": "Tako da, kar se nas tiče, nas čaka veliko dela na tem, da se povežemo z ustreznimi inštitucijami, in da bi te inštitucije, ki imajo dostop do teh ljudi, jih tudi ozavestile, da obstajajo organizacije bolnikov, ki jim lahko pomagajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2766.637,
+        "end": 2768.698,
+        "text": "Tako da to je naša pobuda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2769.338,
+        "end": 2785.487,
+        "text": "Zdaj prav aktivno na tem področju še nismo naredili prvega koraka, kajti smo imeli do zdaj toliko enih težav v zvezi z celostno obravnavo bolnikov z rakom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2785.967,
+        "end": 2790.689,
+        "text": "Opozarjamo na številne težave, tako da smo se mogli nekako fokusirati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2791.19,
+        "end": 2795.112,
+        "text": "Ampak glede na to, da je teh vprašanj vedno več,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2796.37,
+        "end": 2803.535,
+        "text": "bo tudi to ena od naših pomembnih nalog zelo, mislim, že zdaj, ne dalječ v prihodnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2805.376,
+        "end": 2815.743,
+        "text": "To vprašanje sem zastavila predvsem zato, ker so verjetno to res najbolj osamljeni bolniki, najbolj osamljeni posamezniki in je njihova stiska potem še toliko večja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2816.223,
+        "end": 2823.148,
+        "text": "In ker ste zelo pohvalno primer izjemno lepe prakse v združevanju v Sloveniji,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2823.488,
+        "end": 2840.774,
+        "text": "In si želim, da bi to moč izkoristili in jo tudi seveda v dobrobit širili naprej, pa bi mogoče še druga društva se tako lepo povezovala kot vaše na vseh straneh našega bivanja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2841.314,
+        "end": 2852.578,
+        "text": "Upam in želim, da se bomo mogoče čez kakšno leto pogovarjali prav o uspehu v tej smeri, mogoče celo v isti zasedbi, le še eno leto mlajše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2853.138,
+        "end": 2865.842,
+        "text": "Mogoče kakšna zaključna misel, drage sogovornice, sedaj za zaključek, gospa Žličar, pomenili ste, da si želite predvsem, da ne bi upadlo število diagnosticiranih postopkov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2866.542,
+        "end": 2879.906,
+        "text": "Verjetno je želja, da bi bilo v prihodnje še kakšen primer manj, da bi imeli kakšnega člana manj zaradi tega, ker bi jih bilo manj, ne zato, ker bi jih manj bilo včlanjenih."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2882.737,
+        "end": 2896.285,
+        "text": "Torej, jaz seveda upam tudi to, da če že prije do drugega vala, da imamo več po COVID-19, da je stroka več, da imamo tudi mi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2897.106,
+        "end": 2911.355,
+        "text": "Sem pretičena, da bomo lažje izhajali, kot smo zdaj, ko je bilo vse novo in vsak od nas imel težave samo s sabo, kako preživeti to obdobje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2912.032,
+        "end": 2917.794,
+        "text": "potem lahko razumemo, kaj je to pomenilo za bomke."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2918.555,
+        "end": 2941.464,
+        "text": "In zdaj mislim, da bomo lahko ravnali tako, da bomo spoštovali razmere, da bomo spoštovali seveda ta virus, ampak ne zato, ker bi nam ne vem, kaj pomenil, ampak ravno zato spoštovali bomo, da ga ne bomo imeli samo kot"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2942.086,
+        "end": 2947.11,
+        "text": "sovražnika, ki ga, ki se ga ne da premagati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2947.17,
+        "end": 2950.753,
+        "text": "Ampak, da bomo vendarle lahko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2951.113,
+        "end": 2959.28,
+        "text": "Poleg tega pa zelo me veseli tudi vašo mislo o povezovanju vseh teh društav."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2959.32,
+        "end": 2965.485,
+        "text": "Jaz mislim, da vsaka društva, ki smo s področje onkologije nekako smo ugotovili, da"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2966.538,
+        "end": 2978.13,
+        "text": "če smo skupaj, zmoremo več, da si lažje pomagamo, da vsak lahko drugemu predstavi problem, ki je za neko društvo specifičen."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2978.17,
+        "end": 2986.618,
+        "text": "Skoj smo pač različno društvo in jaz si seveda želim, da bi bilo to povezovanje še močnejše."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2986.678,
+        "end": 2988.4,
+        "text": "Mi smo se zadnji pridružili."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 2989.741,
+        "end": 3001.63,
+        "text": "V tem onko letu in moram reči, da izkušnje v tem dobrem letu, mislim, Kristina, da je, kar smo skupaj, smo videli, da se res, če smo združeni, veliko naredi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 3001.93,
+        "end": 3007.595,
+        "text": "Naredi se za društvo veliko, predvsem pa za domljike in rado bi to tako ostane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3010.48,
+        "end": 3015.666,
+        "text": "Doktor Lorna Zadravec, zaletev tudi vi si za svoje viteze."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3016.327,
+        "end": 3028.2,
+        "text": "Najverjetneje v bodoče želite čim več stikov, kar smo danes izpostavili in upam in želim, da bodo omogočeni tudi ali pa na vkljub novim valom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3029.92,
+        "end": 3045.786,
+        "text": "Zelo lep poziv, zelo na mestu, premalokrat se slišimo, imamo izjemno dobra društva, izjemne posameznike, strokovnjake, ki se trudijo na svojem področju, le slišati jih je treba oziroma jim dati možnost in mesto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3046.586,
+        "end": 3050.668,
+        "text": "Mogoče, gospa Španič, eno kratko misel za zaključek."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3051.841,
+        "end": 3074.179,
+        "text": "Ja, mislim, da vsi, ki smo se v svojem življenju srečali z rakom, poskušamo ven iz tega nekaj pozitivnega izpeljati, tako da mislim, da bomo tudi mi iz tega COVID obdobja kot društva poskušala potegniti to najbolj pozitivno, kaj smo se naučili in to prenesi naprej, tako da bomo prilagojeni na nove pobude."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3074.419,
+        "end": 3081.065,
+        "text": "Seveda pa povezovanje naših društev je plotkar velikega dela zadnjih skoraj petih let."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3081.625,
+        "end": 3095.355,
+        "text": "Tako da tudi druga društva pozivamo, da se nam pridružijo in da mogoče čez neki čas imamo krovno organizacijo bolnikov tudi v Sloveniji, tako kot imajo tudi druge naše sosednje države in države v Evropi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3097.737,
+        "end": 3099.258,
+        "text": "Dela vam ne manjka, dekleta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3100.255,
+        "end": 3103.358,
+        "text": "Gospa Modic, še vaša zaključna misel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3103.778,
+        "end": 3111.926,
+        "text": "Danes smo zdaj že v zaključku slišali, da ste močni, da bi bilo fino, da ste slišani, da ste bolj glasni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3113.427,
+        "end": 3116.51,
+        "text": "Kako pa naprej bo on konet"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3116.59,
+        "end": 3128.715,
+        "text": "še bolj glasem bo poskušal prodreti do čim več bovnikov oziroma do čim več posameznikov z rakavimi oboleni na vse zadnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3129.115,
+        "end": 3134.037,
+        "text": "Številke so takšne, da se jih v bistvu mogoče na trenutke sploh ne zavedamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3135.372,
+        "end": 3136.213,
+        "text": "Tako je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3136.973,
+        "end": 3141.297,
+        "text": "Združenje Onko.net bo preko svojih društav, ki so povezane v Onko.netu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3141.317,
+        "end": 3146.042,
+        "text": "Jaz mislim, da bo doče prišel še do več bolnikov."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3146.142,
+        "end": 3152.868,
+        "text": "Mi tudi v Združenju Onko.net načrtujemo še bolj aktivno delo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3153.348,
+        "end": 3158.613,
+        "text": "Zdaj je težko, vsako društvo ima svoje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3159.217,
+        "end": 3178.83,
+        "text": "cilje, ki jih vodi, tako da razmišljamo o profesionalizaciji, tako da bi potem dejansko bili še močnejši, še bolj glasni skupaj in jaz mislim, da imamo vse možnosti in da bomo uspešni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3179.67,
+        "end": 3183.933,
+        "text": "Če za koncu pa jaz mogoče sam še en tak apel dal ali pa en poziv,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3184.293,
+        "end": 3198.819,
+        "text": "Naši strokovnjaki, hematologi in onkologi upozarjajo, da moramo še vedno poskrbeti za ustrezno zaščito, tako da moramo še naprej upoštevati vse te ukrepe, ki so predpisani."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3199.399,
+        "end": 3209.663,
+        "text": "Opažamo, da pač vse ljudje so vse sprostili in imajo v mislih, da je treba še vedno ustrajati ukrepe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3211.276,
+        "end": 3217.78,
+        "text": "Varna in zaščitena sproštenost v nadaljevanju, a vendar le z nekaj več človeške topline."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3217.98,
+        "end": 3219.781,
+        "text": "To je vse, kar si želimo, verjetno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3220.361,
+        "end": 3230.127,
+        "text": "Spoštovane sogovornice, res hvala za vse informacije, ki ste jih delili z nami in s poslušalci, ki so nas spremljali in gledalci v živo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3230.608,
+        "end": 3235.05,
+        "text": "Še vedno bo posnetek na voljo še dolgo časa, če ne celo večno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3235.15,
+        "end": 3238.973,
+        "text": "To bomo še videli, ker nas zadnje čas je kar kakšen virus preseneti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3239.693,
+        "end": 3249.839,
+        "text": "Hvala lepa vam, da se vam še poimensko zahvalim, docen dr. Lorna Zadravec-Zaletel, gospa Ana Žličar, Tanja Španič in Kristina Modic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3250.3,
+        "end": 3251.46,
+        "text": "Res lepa hvala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3251.861,
+        "end": 3268.291,
+        "text": "Želim vam obilo energije, da bi zmogli v nadaljevanju združiti še več ljudi, še več posameznikov, vključiti še več strokonjakov in biti še bolj glasni v pomoč posebam zrakovni oboleni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3268.651,
+        "end": 3270.175,
+        "text": "Hvala lepa še enkrat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3270.576,
+        "end": 3273.844,
+        "text": "Želim vam seveda mirno jesen in vse dobro."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3274.064,
+        "end": 3274.947,
+        "text": "Srečno, nasvidenje."
+      }
+    ],
+    "runtime_sec": 919.5036458969116
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.07261548666435591,
+      "miss": 0.054836298934615904,
+      "fa": 0.002478039336405647,
+      "confusion": 0.01530114839333436,
+      "total_duration": 3190.021999999927
+    },
+    "der_collar0.25": {
+      "der": 0.06704521245198046,
+      "miss": 0.05002693559746086,
+      "fa": 0.0022857941523292255,
+      "confusion": 0.014732482702190377,
+      "total_duration": 2947.7719999999267
+    },
+    "wer": {
+      "wer": 0.27994884183600965,
+      "ref_words": 7037,
+      "hyp_words": 6437
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 26.288,
+        "text": "Poštovane in spoštovanji, pozdravljeni v spletnem pogovoru estaj kluba Slovenske tiskovne agencije, v katerem gostimo društva, ki pomagajo osebam zrakom.V sodelovanju z Združenjem slovenskih organizacij bolnikov z rakom smo namreč pripravili spletni pogovor z naslovom Sodruštva za pomoč osebam z rakom že pripravljena na drugi morebitni val epidemije novega koronavirusa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 27.014,
+        "end": 34.996,
+        "text": "Pogovor poteka v živo, vaša vprašanja pa sprejemamo tudi na elektronskem naslovu klub STA Afna STA Pikasi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 35.722,
+        "end": 46.285,
+        "text": "Za rakom v Sloveniji vsako leto na novost boli več kot petnajst tisoč ljudi, zaradi staranja prebivalstva je pričakovati, da bo število obolelih le še naraščelo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 47.028,
+        "end": 88.979,
+        "text": "Še več izzivov pa je v onkologiji prinesla epidemija novega koronavirusa, kako so se društva za pomoč osebam z rakom prilagodila novim razmerom, bolnikom in njihovim svojcem v času epidemije, kakšna je bila v tem času potreba po brezplačnih storitvah društev in kako so pripravljena na že omenjeni morebitni novi jesenski val, so le nekatera vprašanja, na nekaj in na katere bomo iskali danes odgovore z mojimi spoštovanimi sogovornicami, z nami so Kristina Modic predsednica Združenja Onko Net in izvršna direktorica Slovenskega združene bovnikov z Lenfomom in Lokemijo Elendel, lepo pozdravljeni gospam modic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 89.705,
+        "end": 100.403,
+        "text": "Z nami je Tanja Španič, predsednica Združenja Evropa Dona Slovenija, ne po pozdravljeni Ana Žličar, predsebnica Društva Onkoloških bolnikov Slovenije, dober dan želim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 100.927,
+        "end": 110.984,
+        "text": "In pa, docen doktor Lorna Zadravec za letelj, predsednice ustanove Mali Vitez. Drage dame lepo pozdravljene, pozdral seveda velja tudi vsem, ki nas spremljate v živo!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 111.625,
+        "end": 132.635,
+        "text": "Združenje slovenskih organizacij bolnikov z rakom Onkonec ali krajše združeni onkonez so leta dva tisoč šestnajst ustanovile štiri slovenske organizacije bolnikove z rakem, ki so prepoznale potrebo in pomen tesnejšega sodelovanja informalnega povezovanja različnih organizacij, ki zastopajo onkološke bolnike."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 133.276,
+        "end": 154.471,
+        "text": "Gre za prostovoljno, nevljadno, samostojno in nepredobitno združenje, katerega osrednja naloga je opravljanje nalog skupnega pomena v področju zdravstva, socialnega varstva in izobraževanja, boljša zastopanost skupnih in posamičnih interesov in učinkovito uveljavljanja različnih in večplastnih pravic, vunikov z rakom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 155.129,
+        "end": 170.772,
+        "text": "Vstanovne članice Združenja on konec so slovensko združanje bolnikov z limfomom in levkemijo Elendel, Slovensko zd druženje Zaboj proti raku Dojk Evropa Dona, vstanova Mali Vitez in Društvo Zabaj proti raku in drugim kroničnim boleznim korak Pikasi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 172.004,
+        "end": 183.513,
+        "text": "V nadaljevanju so s Združenjo onko red pridružili še Zdraženje z boj proti Raku Debelega črevesa in Danke Evropa Konan, Društvo Onkomen in Društvu Onkoloških v Unikov Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 185.032,
+        "end": 208.707,
+        "text": "Zdaj pa gremo krh našim sogovornicam in predvsem v povprašanjem, kako so se društva spopadala skozi čas, ki je bil za vse nek novčas čas epidemije. Kako so ste članice spopadle z izzivom novega koronavirusa in kaj so se v tem času naučile nam bodo sogovornice zaupale v samem začetku pogovora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 209.399,
+        "end": 227.337,
+        "text": "Zato lepo prosim najprej na začetku gospo Ano Žličar, predsednico Društva Onkoloških bolnikov Slovenije, kako ste se vi v vašem zdruštvu znašli v tem nekem čisto novem času in prostoru, še vsemomotim ste med drugim uvedli prev poseben način svetovanja in pogovora z onkoložkimi bolniki."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 229.261,
+        "end": 229.835,
+        "text": "Seveda."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 230.645,
+        "end": 231.05,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 231.809,
+        "end": 234.442,
+        "text": "To, da stojimo bolnikom."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 235.876,
+        "end": 240.787,
+        "text": "Na voljo za pomoč, ko se najdejo največji stiski."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 241.327,
+        "end": 246.777,
+        "text": "To je ključni program našega družba, imenuje se odkup hokrevanju."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 247.385,
+        "end": 264.783,
+        "text": "In zato, ker so bila nemogočeni te osebni stiki, ko nastale največje siske ter se voliti niso mori več obražak na naše prostovoljke oziroma prostovoltce, ki so nji na voljo na dveh in fotočkah."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 265.677,
+        "end": 268.715,
+        "text": "In tudi skupine, ki delajo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 269.272,
+        "end": 276.933,
+        "text": "Na dvajsetih lokacijah v Sloveniji so se lahko mecavo dviglenci opomojale pomoč."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 275.752,
+        "end": 275.785,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 277.608,
+        "end": 280.139,
+        "text": "Tega se v dne nisno mogli izvajati v stehu."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 281.219,
+        "end": 282.13,
+        "text": "Način."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 282.653,
+        "end": 286.13,
+        "text": "Zato smo se odločili in smo uvedli, da..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 286.72,
+        "end": 291.243,
+        "text": "Moč, v številko, ko imelovali svojo onkošon."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 292.508,
+        "end": 301.402,
+        "text": "Nato številko le povljati popilčejo in stopijo v sti, na telefonski sti k znašimi prostovoljkami oziroma prostobovec."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 302.887,
+        "end": 306.43,
+        "text": "Da to jim omogoča pokolno enanimnost?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 307.426,
+        "end": 316.083,
+        "text": "In na voljo so in ljudje, ki so se z rakom spoznali, spopali in ga tudi premagali."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 316.623,
+        "end": 318.614,
+        "text": "Kar je zaunike?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 319.323,
+        "end": 320.993,
+        "text": "Zelo, zelo pomembno."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 322.546,
+        "end": 331.49,
+        "text": "Zdaj smo ravno sejevi te, da razkušamo to naše številko promovira v vseh zdravstvenih zavodih."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 332.198,
+        "end": 333.329,
+        "text": "V Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 334.763,
+        "end": 343.032,
+        "text": "Imamo že tudi lekarnja Ljubljana, ki so nam stopili na pot in v lahko to številko obražila ji."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 343.758,
+        "end": 348.432,
+        "text": "V lekarnost Ljubljana zdaj se bo povezali tudi z drugimi."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 349.057,
+        "end": 350.457,
+        "text": "Kratka, da..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 351.048,
+        "end": 362.438,
+        "text": "Na vseh, pa na tistih mestih, kjer so ter se bolniki največ ziležujejo, zato da do čim večje ga štirila, videe, da naša štiril."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 364.21,
+        "end": 373.677,
+        "text": "Je pa seveda poleg tega programovna odkokrevanju, je prene zelo pomembno tudi program."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 374.42,
+        "end": 375.466,
+        "text": "Publikacij?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 376.023,
+        "end": 381.406,
+        "text": "V topliru tega izhajaja okno, revija in seveda tudi publikacije."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 381.912,
+        "end": 389.27,
+        "text": "Čisto strokovniki bolnikom pomagajo, da se s tem seznanjajo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 390.282,
+        "end": 402.753,
+        "text": "Opravljali ravno, kar je pred izidom številka okna, izdali smo tudi publikacijo, ki ljudi okozarja na delavnosti malimnega melanoma."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 397.96,
+        "end": 398.078,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 403.023,
+        "end": 406.988,
+        "text": "Ste pa še dlje v pripravi, ki postojšli spodaj jeseni."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 407.63,
+        "end": 413.114,
+        "text": "Mi smo to vseh izdali, je bo problem, kako to da pride do bolnikov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 412.405,
+        "end": 412.844,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 414.143,
+        "end": 419.948,
+        "text": "Ker ne moremo puščati v toglobnižnicah in na drugih mestih, tako da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 414.498,
+        "end": 414.92,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 420.691,
+        "end": 425.753,
+        "text": "Pač to bodo dobili naši člani, teh je odpredal vadnisoč šeststo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 426.648,
+        "end": 432.031,
+        "text": "Vse pa pogovarjajo bo tudi z zdravstvenimi domogi, kaj bi lahko."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 432.959,
+        "end": 438.359,
+        "text": "Da ali nim, da bi seveda do te davoniki pošli, ampak nečako, da to se vzada v rok."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 438.882,
+        "end": 443.017,
+        "text": "In potem se pustim že spet nog do drugo zame, toljuro."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 443.607,
+        "end": 450.121,
+        "text": "Torej največja zadeva, ki nam jo je zdaj uspelo speljati pač ta naš."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 450.796,
+        "end": 458.086,
+        "text": "Ki ga lahko ljudje uporabljajo in svojimi na boljo naši prostovoljci v vseh koncih."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 459.014,
+        "end": 462.98,
+        "text": "Slovenije torej ne samo Ljudjane in Mariboram, pa tudi drugo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 464.026,
+        "end": 466.793,
+        "text": "Po da želimo si zelo..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 467.468,
+        "end": 473.273,
+        "text": "Na, boliki poslovijo to štirinko, ne ugotovijo, da jim je v teh časih lahko uveliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 470.607,
+        "end": 471.08,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 474.353,
+        "end": 475.028,
+        "text": "Pomoč."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 475.653,
+        "end": 479.534,
+        "text": "Modiji si samo za prvi val ali drugega in..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 479.534,
+        "end": 479.635,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 479.821,
+        "end": 484.58,
+        "text": "Še katerega čarba do njega prišla, z veliko željo seveda zelo ne bi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 482.656,
+        "end": 483.263,
+        "text": "Z veliko že."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 488.09,
+        "end": 488.545,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 488.191,
+        "end": 488.343,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 489.136,
+        "end": 498.974,
+        "text": "Je mogoče že povedati kakšno številko, koliko ste že prejeli klicev na onkofon?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 499.43,
+        "end": 506.737,
+        "text": "Veste, kaj te številke je, snimam se pa dejansko, statistika se zbira, se vodijo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 507.344,
+        "end": 522.548,
+        "text": "Je pa opazil, da je tega vsak dan več.Je menilo kar nekaj časa, da se je ta številka prijela in da so jo ljudje klicali, ampak zdaj kolikor dobimo informacije, če se temu reče s terena, seveda je ta Številkar vsakdan."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 523.072,
+        "end": 527.662,
+        "text": "Volk vince ne žal, ne more na pustič številkami poljko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 523.409,
+        "end": 524.928,
+        "text": "Price ne žal, ne more na."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 530.21,
+        "end": 538.715,
+        "text": "Je pa že potem, da je rast števila klicev zadosten podatek, da ji bil ta telefon več kot nujen."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 536.403,
+        "end": 536.74,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 539.052,
+        "end": 552.974,
+        "text": "Ne samo v času epidemije, ampak tudi v vseh ostalih časih in dogodkih.Izvršna direktorica in ustanoviteljica združenja predsednica Onko Ned Kristina Modic tudi o zdrušenju Levkemija in Linfom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 539.086,
+        "end": 539.558,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 553.328,
+        "end": 570.44,
+        "text": "Ste zabolnike prilagodili rehabilitacijo, zabolnikje s skrvni miraki v onlain program, torej program preko spleta, pripravili ste tudi poseben enačin tedenskega informiranja ter strokovne podpore članom Združenja?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 573.983,
+        "end": 579.687,
+        "text": "Gospa Mordic samo še mikrofonček bo vklopili, tako da se slišimo super hvala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 580.48,
+        "end": 612.847,
+        "text": "Ja, tako je, ko se je že nakazovalo, da bo pač epidemija pršla iz tujine tudi v naše kraje, smo takrat v združenju že začel takoj razmišljat, kako se preagodit z našimi programi nad te nove razmere, da bomo lošene prej v oporo in pa blizu našim bolnikom, odkako smo s kolegi iskal različne načine, a ne kako prilagoditi predvsem tiste programe, ki jih izvajamo v skupinah v živo, to so naše posvetovalnice delavnice informativni dnevi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 613.522,
+        "end": 630.312,
+        "text": "In seveda, kako prene staneš rehabilitacijski program, ki pač prvi te vrste za bolnike s krvnimi raki, kakoga obesto prilagoditi na te nove razmere?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 631.088,
+        "end": 649.634,
+        "text": "V sredotočen smese predvsem na ta program v tem času in mislim, da nam je dobro uspelo, namreč ta programa tri modele prehranski, fizikalni in pa psihosocialni model, ki je prej baziral na individualni in skupinski podpori, zdaj smo ga pač uspel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 650.242,
+        "end": 657.43,
+        "text": "Pravit v onlajn, skatka na onlaina ne, preko interneta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 658.122,
+        "end": 717.86,
+        "text": "In sicer strokovnjaki so doma snemali videosebine in pa nasvete, ki smo jih potem objavljali na spletni strani našega rehabilitacijskega programa, potem uporabnikom smo to pošiljal tudi po elektronski pošti, tudi ostalim našim članom smo pošiljali vse te videosebine, to se je dogajalo tedensko, tedenskost je vsak prejel po tri različne podporne videoosebina, tudi naši strokovnjaki so se zlo hiter pragodil in so preko videokonferenčnega sistema Zum izvajali tako individualno kot predvsem skupinsko podporo, imel so posvetovalnice, tako da smo na nek načinem stali ob strani Nele skozi ta program rehabilitacije, ampak tudi za vsa ostala vprašanja, ki so se porajala in so bila povezana s temi novimi razmerami z stenkov smo morali biti doma."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 718.484,
+        "end": 728.66,
+        "text": "Seveda smo mogli tudi hiter prilagoditi naša spletnost stran tega rehabilitacijskega programa, jo bom to zdeljena hitro podelila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 730.077,
+        "end": 747.222,
+        "text": "Za ti stekljo morda še ne poznajo, obisoto je splet na stran, tukaj so trije moduli prehranski psihosocialni in pa fizikalni, vsak modul ima, ko se klikne nanj, ima vsega možnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 747.863,
+        "end": 749.467,
+        "text": "Številne videovsebine?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 750.023,
+        "end": 756.757,
+        "text": "A ne, in potemstvo si lahko bolniki pomagali tudi v tem času na ta način."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 757.381,
+        "end": 760.334,
+        "text": "Od kako ste živi prej omenil, pa..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 761.127,
+        "end": 777.665,
+        "text": "In tako kot nam vedno naši strokovnjaki zdravstveni stojijo ob strani preizvajanju naših programov, je tudi tokrat predstavnik kliničnega oddelka za hematologijo profesor Doktor Samozver pripravljal vsak teden dolgo pismo za naše bolnike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 778.205,
+        "end": 780.938,
+        "text": "To smo tudi objavljali na socialnih omrežjih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 781.529,
+        "end": 803.618,
+        "text": "In pa seveda pošilja našim članov na preko šeststo naslovov po elektronski pošti, tukaj jih je profesor zver informiral, kako poteka zdravljenje v tem času, kakos krbijo za to, da je zdravlenje varno, da zdravstveno osebje.Vsledi vrne razmere."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 804.142,
+        "end": 810.267,
+        "text": "Krati pa je bolnike spodbujal k pozitivnem, h pozitivi, a ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 810.79,
+        "end": 846.869,
+        "text": "Tudi vedno jim je posredoval vse kontaktne podatke, kamorih lahko kadarkoli pokličejo na telefonske številke skratka. Res so bili tako naši člani kot tudi prego socialnih omrežev ostali, bolniki s kar ni miraki do dobro informiranim pa podprti, tako da so se mel na koga obrnita ne?In kar nam je še tako zelo pomembno, da v tem času smo dobili res tak fitbeg nazaj od njih alpoelektronski pošti ali po telefonu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 847.375,
+        "end": 858.479,
+        "text": "Da so veseli, da jim vzel težki časih še bolj stojimo ob strani, kot smo jim morda še preja in jim je to zlo olajšalo vsak dan, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 859.154,
+        "end": 881.699,
+        "text": "Potem pa sveda mamo pa nekatere programe, ki se jih pa žal ni dalo izvaja, v tem času so te skupaj veliki informativni dnevi, te prestavljamo na jesen. Pripravlja, imel smo pa zdaj tudi malo več časa za pripravo novih publikacij, tudi mi imamo štiri v pripravi, ki bodo izšle jeseni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 882.222,
+        "end": 889.36,
+        "text": "Snemali smo tudi druge videe, skratka, kjer se je le dalo, smo prilagodili."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 889.917,
+        "end": 909.307,
+        "text": "Zadeve in tako, da je obvestvo delo potekalo nemotno naprej s kolegico Brino, sva delali od doma, tudi naši prostovoljci so delali o doma kot ampak te videokonferenčni sistemi so nam omogočali, da smo bili na vezi tako mime Cabo kot z bolniki in tudi strokovnjaki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 911.433,
+        "end": 931.565,
+        "text": "Nekaj o odzivih ste že povedali, zdaj le lahko mogoče izklopiva tudi šerskrinj pa še pod vprašanje zdaj obtele predstavitvi je bilo veliko takih odzivev, da si želijo tovrstne storitve tudi v vsakršnem času."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 932.712,
+        "end": 964.96,
+        "text": "Ja, po eni strani moram povedati, da nekje polovica naših uporabnikov programov se je odločila za te onlin prilagoditve, ne, zazume in tako naprej druga polovnica pa vseeno čaka, da bomo šli spet nazaj v živo, ampak vseenom nas je to izkušnje so pokazale, da bomo morali določene stvari obdržat ne glede na to ali bo še val naslednji ali ne, bomo dolo čene vsebine še vedno imeli tudi onlajnele v živo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 967.188,
+        "end": 983.101,
+        "text": "Predsednica Slovenskega združenja z boj proti Raku dojk Evropa Dona Gospa Tanja Španič, tudi v vašem združeju ste se bolnicam približali s programi na spletu, kaj vse ste jim ponudili in kako so, recimo, bolnice to sprejeli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 984.451,
+        "end": 996.736,
+        "text": "Ja, in lep dober dan tudi z mojstrani, jah kot je že Kristina omenila se na začetku leta res nismo zavedali, kako bodo ti programi potekali, vsi smo pripravili svoje eletne programe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 997.63,
+        "end": 1004.313,
+        "text": "Seveda smo burno spremljali dogajanje in ko so se nam že nakazovali ukrepi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1004.954,
+        "end": 1007.823,
+        "text": "Smo se zlo hitro usedle skupaj s kolegicami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1008.397,
+        "end": 1040.324,
+        "text": "Tudi preselile svoje delo od doma in ugotavljale kaj lahko od naših programov postavimo na splet oziroma približamo uporabnicam preko spleta.Seveda je naše delo ustavljanjo takoj z osveščanja, zagovorništva in podpore bolnice in svojcem, tako da smo rekli vsak del bomo na svoji način poskušali pribrižat. Najbolj pomemben je seveda tudi ta osebna podpora, bolnicama in njihovim bližnjim, takoj da smo se najprej usmerle v ta del."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1040.898,
+        "end": 1046.905,
+        "text": "In poskušale čim več programa postavit na splet, tu smo izkoristile naša..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1047.597,
+        "end": 1090.072,
+        "text": "Na naše kanale, družbe in homožeži in spletne strani začeli smo kar nekako z spodbujanjo telesne dejavnosti, ki je tudi ena izmed pomembnih aktivnosti k jo opravljamo. Sicer hitro smo naredili skupino, zaprto skupinno na Facebooku, ki ima danes že sto petinosemdeset članic in bi so prek te skupine smo nagovarjali članice telesni dejavnosti, ki jih lahko opravljajo doma ali v bližnji okolici, vse od vaj do jogijskih vaj pa tudi plesne koreografije, ki smo jo nekako potihem začele pripravljati že z oktober, smo tudi razmišljale o programu Sveščana."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1090.848,
+        "end": 1098.138,
+        "text": "Kako ga bomo prilagodili?V zadnjih letih je izjemno pomemben del našega programa psihosocialna podpora."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1098.661,
+        "end": 1120.328,
+        "text": "Tako bolelim kot njihovim bližnjim in ta del nas je nekako najbolj spodbudil, da smo se prilagodili tudi v spletne učilnice oziroma v splettne sobe, tako kakratera je tudi Kristina omenila, da sme povabljali uporabnice, tiste, ki so bile pripravljene na tak način, da smo podporne skupine preselili na splet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1120.987,
+        "end": 1127.635,
+        "text": "Moram leč že nas je od na začetku ta odziv kar preseneto, da je bil kar dober in smo prečakovali tako velikega odziva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1128.31,
+        "end": 1132.124,
+        "text": "In smo tako v Ljubljani kot v Mariboru skupine za bolnice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1132.833,
+        "end": 1134.284,
+        "text": "Začeli preko spleta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1134.858,
+        "end": 1176.185,
+        "text": "Razen skupina za metastatske oziroma za bolnice z napredovalim rakom dojk je ostala bolj v opisni in telefonstvi obliki, one so raje počakale, da bo razmere omogočale, saj se bodo v živo spet videle.Začeli smo tudi z delavnicami čujetičnosti preko spleta, kar je tudi ena velika posebnost, ker to so vseeno take metode in prijemi, ki zahtevajo oziroma majo boljši učinek, če se dogajajo v živo, tako da je rahlanju ukrepov tudi to malo doprineslo, da so vsaj zaključile zadnjimi dvemi srečani v živo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1177.197,
+        "end": 1198.595,
+        "text": "Seveda spletne variante težko nadomestijo vse osebne stike, sko da tudi ko smo jih spraševali, kako so to sprejeli, so bile sicer navdušene, da so imele to možnost predvsem tiste iz oddaljenih krajev, ki sicer se ne bi mogle prepeljetali v Ljubljano ali Maribor, pa so vseeno imele nek stik."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1199.388,
+        "end": 1220.06,
+        "text": "Vsi so pa na koncu odgovorili, da jo uživo pa bi se vseeno vsaj kakšenkrat srečali, tako da nekaj smo vse naučili, nekaji je bilo res izboljšal in boljšega, ampak mi smo dopolnosti ne moretu nadomestit tega osebnega stika ali s terapev, to mali z drugimi bolnicami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1221.14,
+        "end": 1252.46,
+        "text": "V tem času je potekal tudi svetovni dan Raka Jajčnikov, ena izmed zelo pomembnih tem, ki jih v zadnjih letih obeležujemo, kar me je tudi uspelo naredit letos preko spleta, z kratkimi videi, zelo podobno kot v združenju Levkem Jalinfom smo pozvali strokovnjake, da so doma posneli odgovore na naša zastavljena vprašanja, te kratke videe smo potem delili preko družbenih omrežij in tudi preko naših e-mailing list, da se lahko dobile ženske."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1253.135,
+        "end": 1281.586,
+        "text": "Svoje odgovore in seveda ti videj so namenjeni tudi osveščanju sicer rak jajčnikov, ni tako pogost kot rak dojke, vendar vseeno je izjemno pomembno, da ga čim prej odkrijemo in ker smo zaznali, da se v tem času manj ljudi todi odziva oziroma, da je manj ljudje šlo na preglede k zdravnikom, smo tudi preko te kampanje skušali pozvet ljudji, da tudi čakaj začutijo, da jaz njimi narobe grejo z zdrav nikom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1282.548,
+        "end": 1318.559,
+        "text": "Ko da to je bil še en tak apel, na srečo so nas tudi naši podporniki sponzorji v tem času razumeli te prilagoditve in nas kljubu samo podprli, toda mislim, da smo imeli kar na vseh straneh neke pozitivne učinke, da so seznal pralagodit in da smo si tudi veliko naučili, če se nam ponovi v takšni obliki ali v kakršni koli obliki drugi vala, tretji ali bilo kateri valer pa še kakšna taka izkušnja, da vidimo, kaj lahko in na kakše način lahko prilagodimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1320.837,
+        "end": 1388.32,
+        "text": "Ta človeški dotik bližina in toplina, ne, ki smo jo pogrešali že zdravi, je, kot smo slišali iz dosedanjega pogovora, bila čudijena najbolj pogrečanih tematih med osebami z rakom in najverjetneje bo moja sogovornica pritrdila, da so pa otroci to najbolj občutljivi. Vstanova mali vitez namreč fundacije za pomoč mladim ozdravljenim odraka, pomaga v zdravljanjem pri odpravljanjih občutkov osavljenosti in jih obenem spodbuja, da bolj pozitivno gledajo na življenje omogočanja, tudi skupinsko rehabilitacijo v toplicah in na taborih, kar zdaj ne bilo možno pa druženje omokočate v okviru regijskih skupin in številne aktivnosti, in tudi to sedaj v epidemiji ni bilo omogošeno, poleg tega pa tudi psihološko in medicinsko svetovanje.Tudi pri vas v malem vitezu ste se prilagodili s komunikacijo, kajne doktor Lorna Zadravec zaletel?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1390.497,
+        "end": 1426.441,
+        "text": "Pa le lepa, najverjetneje res najbolj pogrešamo, kot smo že omenili te tesnejše stike na nek način nas je strah, ne, obvesto je nek strah prišel vse nas, ne glede nato, a smo na javnih mestih še vedno tudi v domačem okolju, zato je toliko bolj pomembno, da prav društva, ki jih danes predstavljamo lahko bolnikom, ki imajo ta strah še večji oziroma, ki morajo biti še bolj pazljivi tako bolniki kot predvsem tudi njihovi svojci pa sodelavci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1426.981,
+        "end": 1429.124,
+        "text": "Da se znamo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1429.85,
+        "end": 1441.004,
+        "text": "Prilagoditi na pravi način na Tanek Novičas, poudariti pa je tudi treba, da moški obolevajo in umirajo pogosteje kot ženske."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1441.561,
+        "end": 1455.922,
+        "text": "Tudi odzivni so slabše, saj je rezultati presajalnih programov, recimo svet kažejo slabšo odzolnost moških v primerjavi z ženskami.Zato je tudi nastalo društvo Onko Menda v zavesti Slovenske moške in njihove bližnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1456.563,
+        "end": 1465.777,
+        "text": "Tudi aktivnosti tega društva bo predstavila predsednica Združenja onkone Kristina Modic kot tudi aktivnosti Zdluženj Evropa kolon, pa modic prosim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1466.924,
+        "end": 1493.84,
+        "text": "Jadko kot sta že čist na začetku omenila ne združenje Onkonet sestavlja sedem organizacij bolnikov, tako da tokaj smo se štiri predstavile, so pa potem z nami še Društvo korak iz Nove Gorice Evropa kolon Slovenija in pa Društvou Onkomen. Jaz bi želeila poudar, da tudi ta tri društvast so si v tem času prizadevala, da so blači bliže svojim članom, svoim bolnikom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1494.43,
+        "end": 1495.207,
+        "text": "Um."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1496.675,
+        "end": 1509.905,
+        "text": "Kot naša društva so jim bili na voljo sveta z svetovanjem po elektronski pošti, pa sveta preko telefonov, aktivni so bili tudi na socialnih omrežjih skratka."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1510.445,
+        "end": 1519.017,
+        "text": "Za nas s organizacije bolnikov je bil v bistvu ta čas zelo, zelo aktivanj, mogoče še bolj aktivan kot kadarkoli prej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1519.658,
+        "end": 1526.408,
+        "text": "Ker smo vsi še več energijev vlagali, v ševeč vsebin podpornih energij."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1526.999,
+        "end": 1532.146,
+        "text": "Kajti tako kot je že omenila Lorna, pa mislim, da to Tanja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1532.737,
+        "end": 1552.565,
+        "text": "Bolniki so bili zdaj kar precej v precepu ali so oni še bolj ogroženi kot ostali in na kakšen način lahko sebe še bojo zaščitijo, in prva točka, kamor so ponavadi poklicali ali je bil to njihov osebni zdravnik največkrat pa kar nam odruštva ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1553.105,
+        "end": 1572.899,
+        "text": "Tako da smo bili res njihova pomembna opora v tem času, pogosto tudi psihološka opora, da smo se z njimi samo pogovarjali, nekateri bolniki živijo sami, so Rabel v temčasu še več direktla pogovor, a ne in to vse so dobili v naših družtvih, a, ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1575.903,
+        "end": 1603.544,
+        "text": "Lahko rečete, obvedena tudi spremljate vse, vsa društva, ki so združenje v onkonetu, da je bilo katero izmed društev še bolj obremenjeno v tem času oziroma subila, katera društa bolj obramenjena kot ko dosta, ne je prijazna oziroma mogoče nehvaležna primerjava, ampak najverjetneje so društva, ki so dobila res ogromno klice v tem času."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1604.607,
+        "end": 1611.914,
+        "text": "Smešem, da so sigurno o tistu društva, sem bila vsa društa zlo obremenjena, kajti na nek način..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1612.454,
+        "end": 1620.233,
+        "text": "Raka je veliko, a ne, Bolnikov je velik, in mislim, da bi..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1620.757,
+        "end": 1643.453,
+        "text": "Dejal krivico, če bi rekala ne dejeno društvo vlobolj obremenjeno od drugega, vsaj smo blazlo obreminjena in tudi na brezi smo bili, tako da kot je meni znano, so mi losi polne roke dela skupaj seveda z našimi strokovnjaki, ki so nam pri tem šli nasproti in nam pomembno pomagal v teh časih, da smo blizkopej močno uporane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1644.128,
+        "end": 1677.389,
+        "text": "Zdaj le bom povprosila vse svoje sogovornice, če izpostavimo predvsem težave na katere ste naleteli, nekaj ste jih sicer že omenili, ampak težavi na katerem ste naleteli v tem času, že od začetka programi so padli v vodo, je gospa Lor naprej omenila, ne pa Patanja.Začeli smo novo leto kot vsako novo letos, so se mi programi z dodelanimi načrti za leto in potem so stvari padle, gospa Žličar?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1679.633,
+        "end": 1693.707,
+        "text": "Je zdi, da povedala še to, kar sem težav pozabila, če si prvi ni vedno fajn, pa sem boljša lespomniška poslušaš druge?Zelo komentno se mi zdi na tem času..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1693.707,
+        "end": 1693.724,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1694.163,
+        "end": 1694.18,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1694.18,
+        "end": 1696.188,
+        "text": "So bili ne obvodni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1711.645,
+        "end": 1720.133,
+        "text": "No in to bomo seveda zdrževali tudi preko Onko Šona, pa dovolite, da povem še to, da ravno..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1733.819,
+        "end": 1737.363,
+        "text": "A jaz ne slišim, gospelžličer ostane sogovornice sližite?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1737.633,
+        "end": 1737.869,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1737.869,
+        "end": 1747.589,
+        "text": "Ne, ne, ne. Aha, zdele je, zdeleg, gospa Žličar, če lahko še enkrat, prosim, ponovite padla, je povezava z vam in tudi slišali vas nismo?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1737.886,
+        "end": 1738.645,
+        "text": "Ne, a ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1747.808,
+        "end": 1749.935,
+        "text": "Da če lahko še enkrat ponovitev prosim?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1750.458,
+        "end": 1775.669,
+        "text": "Ker sem pozabla poudari, da so na voljo bolnikom ne samo naši prostovoljci, odziroma prostovolfa in prostovolsih, ampak tudi strokovnjaki iz področja psikologije in tudi psihonkologinja, tako da korist nastopijo stiske, so ti ljudje njim na voljo.Ni imamo zelo dobro in tudi dobro biskano spretno stran, kjer so..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1776.243,
+        "end": 1787.617,
+        "text": "Čisto poimensko navedene telefonske številke ti bolniki lahko pokričejo, če to pač ni preko onko neta in lahko kokričajo tudi sicer."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1788.241,
+        "end": 1795.936,
+        "text": "Tem so tudi pozvani vsi, ki ne dobivajo naših publikacij zaradi razmer, ki so narekovale to."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1796.594,
+        "end": 1807.951,
+        "text": "Lahko se obrnejo na društvo in vsak, ki bo želel kar koli, kar smo jo zdaj objavljali oziroma publicirali, da jim brezplačno pošljeno."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1808.592,
+        "end": 1821.856,
+        "text": "In smo jih pozvali tudi zdaj v tej številki okna, ki bo izšla, da se vsi, ki želijo bodisi redili, bodisi kakoli drugega, da jim bremo toliko naproti, da en splori."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1822.717,
+        "end": 1823.527,
+        "text": "Pošljamo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1824.421,
+        "end": 1834.63,
+        "text": "Stiske je bilo veliko, a v Agreste niso bile stiske samo nebovniki, nismo imeli prejšnji teden srečanje z našimi prostovoljkami in prostovoltami."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1836.217,
+        "end": 1842.595,
+        "text": "Tudi oni so bili v zelo velikih stiskah ter so jim bili onemogočeni."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1843.169,
+        "end": 1846.392,
+        "text": "oslovni stiki in moram reč, da..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1846.983,
+        "end": 1849.987,
+        "text": "Da, ko sem vse te naše prostovoljce gledala."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1850.763,
+        "end": 1856.99,
+        "text": "Kajšnji tem, kako so se razveselili teh stikov, sedaj spet navarni."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1859.183,
+        "end": 1862.423,
+        "text": "Dalji je z upoštevanje vseh omejitev."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1863.082,
+        "end": 1870.186,
+        "text": "Pislim, da sem takrat še bolj doumela, kako težko je bilo pa za volnike."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1871.013,
+        "end": 1877.29,
+        "text": "Ker so si dejansko ostali, nasprotna so si stali ob strani semobovniki in njihovih svojci."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1877.915,
+        "end": 1880.108,
+        "text": "Ko gre pa zaraka, vista je pa..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1880.986,
+        "end": 1885.357,
+        "text": "Težko ugotavlja, ko mu je huje ali novniku."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1886.082,
+        "end": 1887.247,
+        "text": "Kargin o njih."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1887.888,
+        "end": 1888.9,
+        "text": "V teh, da..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1889.575,
+        "end": 1890.132,
+        "text": "Trem metri."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1891.347,
+        "end": 1897.49,
+        "text": "Za naprej iztrah, če govorimo o tem v drugem vaju, da se nam bo zgodil."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1898.738,
+        "end": 1900.763,
+        "text": "Najbolj si želim tega."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1901.708,
+        "end": 1906.062,
+        "text": "Da ne bi že spet upadla število."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1906.619,
+        "end": 1908.627,
+        "text": "Diagnostičnih postopkov."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1909.859,
+        "end": 1915.799,
+        "text": "Iz takšnih ali drugačnih razlogov, nato natančne razloge je težko predelitali, je šlo za..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1916.795,
+        "end": 1924.642,
+        "text": "Strag bolnikov ali je šlo za previdnost osebnih zdravnikov, ki jih niso želeli kamno potvar, težko jo ugotavlja."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1925.317,
+        "end": 1929.215,
+        "text": "Zakaj, ampak dejstvo je, da se to zgodilo in..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1930.447,
+        "end": 1935.273,
+        "text": "To potem stisko se mu še potencira, zato si res želim, da se..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1935.796,
+        "end": 1940.048,
+        "text": "Če presi želim, da drugega vaja seveda ne bi bilo, ampak če se nam pa že zgodi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1939.525,
+        "end": 1939.812,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 1940.808,
+        "end": 1944.807,
+        "text": "Da se to ne bi tako zelo poznala po četih treh miz."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1947.76,
+        "end": 1978.591,
+        "text": "Hvala lepa, poglejmo še ostale sogovornice, mogoče gospa Zadravec, na katere težave ste pa v vašim društvu naleteli poleg tega, da so vam bili odrezani dobesedno skoraj do vsi programi, s katerimi ste omogočali druženja svojih malih vitezov, ste imeli še kakšne druge, mogoče birokratske težave, kakršni koli druge in kakše, je sedaj pot naprej k novemu valu, ki ga že vsi napovedujejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1980.093,
+        "end": 1994.622,
+        "text": "Kaj pa recimo ob novem valu, boste uporabili znanje, ki ste ga bi ste zdaj osvojili v teh dveh treh mesecih, ga še kako nadgradili, že imate kakšne nove ideje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1996.293,
+        "end": 2026.381,
+        "text": "Gospa Tanja Španič, kaj pa vaše bolnice zdajle se vretno vsi že na kakšen trenutek ali dva razmišljamo, kako pa bo, pa kako bo že z povprečnim življenjem nekje družina, a ne organizacija in vse ostalo, kakovost se pa vaši bolnici, kak se pa vaše bolnice, kakose vaše društvo pripravlja in mogoče prele še niste mogoše izpostavili težav, na katere ste naleteli v teh dveh treh mesecih?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2027.613,
+        "end": 2029.452,
+        "text": "Časa epidemije je razgrešene."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2029.823,
+        "end": 2044.049,
+        "text": "Je najprej na začetku, je bloristko, da so telefoni najbolj zvonili, potem so nam bili v veliko pomoč kot Janežu, umelna tudi novnkološkem inštitutu, so podprli posebno telefonsko številko za pomoć."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2044.589,
+        "end": 2058.798,
+        "text": "Bolnikom, kar je bilo veliko strahu o tem, ali bodo dobili terapijo ali ne, to je bil v najbolj pogosto vprašanje, potem pa tako kot je tudi Lorna omenila, ali so odločali v ogroženost skupino ali ne tiste, ki so že zaključile zdravljenje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2059.405,
+        "end": 2072.112,
+        "text": "Že zaradi drugih programov smo malo poanalizirale in je ob izstvu v istem obdobju, če ga primerimo z lanskim istim obdobenj, smo prejeli kar trikrat in večka trikrad več klicalno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2072.618,
+        "end": 2076.685,
+        "text": "Sko da je bilo res, kar se tega tiče več dela."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2077.428,
+        "end": 2101.947,
+        "text": "Ko se je to malo umirilo, ko so bolnice videli, da terapija poteka normalno, je bilo tega bistvenoma in tu je izjemno pomembno tudi strokovnjaki zeloma zdravniki komunicirajo z bolniki, kar je se na kološkem inštitutu izkazalo za zelo pozitivno, druge inštitucije so tu imele malo več težav, tako da smo ker večkrat tudi mi kot društva morali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2102.538,
+        "end": 2106.537,
+        "text": "Posredovat, da so se potem posamezni primeri razrešili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2107.229,
+        "end": 2108.056,
+        "text": "A pa tudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2108.63,
+        "end": 2127.715,
+        "text": "Ravno zaradi ogroženosti, bolnic in ozdravljenj smo tudi zelo burno spremljali evropska priporočila, ki so jih pripravljale različne organizacije ravnote, ki jih je tudi Lorna že omenila, kdaj se za koga smatra, da še sodi v ogrošeno skupino in kdaje ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2128.357,
+        "end": 2140.118,
+        "text": "Ravno tako zaradi dela, zaradi odhoda utrgovina in ne nazadnje tudi zaradi vzhoda k zdravniku, ne, tudi bolnice, ki so o zdravljenju, so se balje pritrecimo k zdrovniku da se ne bi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2140.743,
+        "end": 2154.074,
+        "text": "A, tam more biti okužile, ne?Tako da mislim, da smo tudi imeli vsi kren o tako spolzko področje in da smo se zelo dobro na koncu je letko z bolnicami kot z strokovnjaki."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2154.968,
+        "end": 2162.68,
+        "text": "V največjo ovira je bila to, da res nimajo oziroma nemore vsi sodelovati preko spletnih orodij."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2163.389,
+        "end": 2175.472,
+        "text": "Čeprav, mormeč, so vse, kar v redu desote aplikacije tako dostopne večina ljudi imaženike pametne naprave, telefone ali tablice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2175.978,
+        "end": 2200.413,
+        "text": "Kakšne vnuke če sami ne zmorejo, da jim pomagajo, je pa res, da potem potrebuješ tudi dobro povezavo, ne eni blodko mal pozitivnih mal težav, da smo se vsi nekako lovili, kar mislim, da nam bo pač za prihodnje pomagalo, pa to, da bi obdržali nekatere stvari preko spleta, kar je tudi Kristina že omenila ravno zaradi tega, ker..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2201.02,
+        "end": 2208.8,
+        "text": "Mogoče v času zdravljenja niti ne moreš vsak dan, vsak teden potovet v drugi kraj na podporno skupino."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2209.306,
+        "end": 2219.296,
+        "text": "Potrebuješ pa definitivno nekaj vrstev podporov, sploh psihološko podporo in zaradi takih primerov bomo obdržali eno skupino zagotovo prepospleta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2220.022,
+        "end": 2229.016,
+        "text": "Mogoče tega, če nas ne bi situacija v to malo prisila, naj bi še nekaj časa poskusili, tako pa smo poskusli in smo videli, da gre."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2229.792,
+        "end": 2244.642,
+        "text": "Vsekakor bi pa del, zeloma večji del programa moramo izvajati, bomo izvjavali v živo, ker je to tudi namen vse psihološke podpore in tudi druženja, da dobiš tisti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2245.351,
+        "end": 2251.088,
+        "text": "Tisto podporo, ki jo mogoče od bližnje okolice in tudi od zdravstvenega osebja ne moreš dobi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2251.865,
+        "end": 2259.897,
+        "text": "Tko da to je, to se nam zdi zelo pomembno, mi sem pa dala hrečemo, da so mu zdaj v tem obdobju videli, kako to poteka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2260.437,
+        "end": 2264.993,
+        "text": "In da če se nam ponovno kaj takega zgodi, da smo pripravljeni, dovidimo, da gre?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2265.702,
+        "end": 2273.228,
+        "text": "In pa če ne moremo vsega, ampak utakem obsegu in na tak način kot se da, da svoj program tudi speljemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2275.051,
+        "end": 2305.865,
+        "text": "Hvala lepa, gospa modic. Križi in težave, a ne so naslednje najino vprašanje, na katere predvsem križe ste naleteli v tem času in kakšna je priprava zdaj za naprej, imate mogoče kakše načrte, se pripravljate na jesen, kako bi recimo pomagali čim več v vašim članom, kolikor pride res še do enega ne vemo, kakomočnega in kako dolgotrajejočega vala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2306.928,
+        "end": 2344.002,
+        "text": "Se obisodžetanja pa kolegice so povedale, a ne, števmpatanja prejle, da splet je kar velik izziv za določene bolnike, tako da tukaj je bilo res kar precej energijo vložene, da smo jim to približali, ne nazadnje smo tudi s kolegico in pomagale bolnikom, smo jih totočile, kako uporabljati vsata orodja, ampak se izplačalo, a ne? Je pa pred nami združenju bol uniku z njim pomilo, ker je velik izziv."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2344.559,
+        "end": 2353.537,
+        "text": "In sicer, kdaj se zdaj počasi začet odločat in predstaviti z onlani programa rehabilitacijo v živo one?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2354.195,
+        "end": 2367.391,
+        "text": "Tako da nekako načrtujemo, da bomo oziroma smo se že odločili, da bo julija pričeli stelovatbo zunaj in pa počasi tudi s posvetovalnicami strokovnjaki v živo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2368.049,
+        "end": 2376.52,
+        "text": "S kozbomo spremljajo pa ciliko in se prilagajali, pa če razmerama ne, glede korvida."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2377.111,
+        "end": 2381.026,
+        "text": "Je pa nekaj res, tako kot je že Tanja omenila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2381.785,
+        "end": 2391.303,
+        "text": "S tem in našimi programi, ki smo jih dali na online, smo se približali ob izstvobovnikom v vseh regijah po Sloveniji, kar je zelo velik plus."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2391.995,
+        "end": 2394.442,
+        "text": "Skoda na nek način nas je kobi spodbudu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2394.982,
+        "end": 2406.322,
+        "text": "Oziroma nam pomagal, da smo pršli do bolnikov in pomaga tudi v druge regije, ne le v Ljubljani, ker je vedno vse skoncentrirano samo na Ljubljano, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2406.878,
+        "end": 2415.232,
+        "text": "To je ena stvar, druga stara je tudi, da preko teh onlajn vsebin se vedno bolj približujemo tudi mladim bolnikom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2415.923,
+        "end": 2425.88,
+        "text": "Ki niso tako zainteresirani za posvetovanjico v živo, raje se držijo zadej pa so se nam zdaj rajši preključala, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2426.42,
+        "end": 2442.198,
+        "text": "Toda ob bistvu nam te prilagodlitve odpirajo vrata, oziroma bolnikom odpirajajo v rata do nas širščeane, kar je vsemi zelo velika dodana vrednostno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2442.89,
+        "end": 2456.558,
+        "text": "Skoda izziv je, kako zdaj spet nazaj v živo, nazaj o življenju, a ne, po drugi strani pa tudi izzil, kaj ohraniti od tega on-line izvajanja v prihodnje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2458.718,
+        "end": 2461.469,
+        "text": "Imamo tudi vprašanje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2461.992,
+        "end": 2499.32,
+        "text": "Ki ga je poslala poslušalka, ki želi biti anonimna in sicer zinimajo ali sprejemljate kot društva mogoče tudi bolnike, ki nimajo prele smo jih sicer med pogovorom že omenili, ki nimajo sorodnikov in ki nimajajo znancev, ki bi zanje skrbeli ter nimajo povezave s svetom do rezinternetom ali se v društvih iščejo poti tudi do teh ljudi na kakšen način in ali jim mogoče tudi v tem času pomagate tudi, v društvih?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2501.108,
+        "end": 2515.368,
+        "text": "Ja, seveda tudi s temi bolniki imamo stik zagotovo pa ne z vsemi in želeli bi si, da bi prišli do teh bolnikov, mi sem še do več teh bolnih, ki so osamljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2515.958,
+        "end": 2530.758,
+        "text": "Tukaj nam lahko zelo pomagajo tudi mediji na nek način to treba izpostavljati z različnimi radijskimi oddajami, v časopisih, ki nas obestvu z našimi kontaktnimi podatki približajo tem ljudem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2531.281,
+        "end": 2537.575,
+        "text": "Na tak način ali pa preko strokovnjakov smo dosedaj tudi pršli do teh bolj ranljivih?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2538.166,
+        "end": 2541.575,
+        "text": "In seveda, o dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2542.452,
+        "end": 2546.857,
+        "text": "Na voljo smo jim in za osebni pogovor, pogovorko telefonu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2547.397,
+        "end": 2553.64,
+        "text": "To so navadno dolgi pogovori, v velike stiska teh ljudi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2554.957,
+        "end": 2556.239,
+        "text": "Morali pa bomo..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2556.998,
+        "end": 2558.315,
+        "text": "Skupaj z..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2559.614,
+        "end": 2567.258,
+        "text": "Skupaj, a ne vsa društva pa tudi ob odpori, koka sem rekla in medijev, instrokovnjakov in različnih socialnih služb v bodoče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2567.832,
+        "end": 2584.96,
+        "text": "Še bolj pride, oziroma še lažje pride do njih in jim pomagata, ne?Mislim, da Evropa donavna mogoče potanja povedala, imajo tudi poseben socialni program, kjer takšnim tudi pomagajo, bodo mogoše Tanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2586.378,
+        "end": 2587.373,
+        "text": "Ja, mislim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2589.871,
+        "end": 2596.604,
+        "text": "Kar nekaj klicov, celo gospa se nam je oglasila in se je sama ponudla, da..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2597.228,
+        "end": 2688.573,
+        "text": "V tem času vzame k sebi dve bolnici, ki lahko zagotovijo svoji hiši prostor, da se sta izolirani in da jima pomaga, ko sprevozi zdravniku, oglasla se ena, ki je sprejela tako pomoč, drugače pa smo v vsem tem časuudi socialno, finančno in socialno podprli kar nekaj bolnic, ki so zaradi situacij utrpele še veliko finančna kriza, tako da smo poskušali sreda mi zelo težko najdemo te ljudi, smo pa širili naše sporočila, tko, ker Kristina rekla, da ljudje vejo, da smo društva tu in da se obrnejo tudi če se s kvilo katerim drugim mrakom ne nas obrnijo, mi smo med sabo povezani in jih lahko usmerimo nasorodna društvavziroma tudi na druge, ki misel iz področja onkologije pa nudijo tako vrstno podporo pomoč na domu ali pa da jim dogrejo trgovino, ne obstajajo tudi lokalna taka društvast, s katerimi imamo neke povezave in v vsakem primeru tistike so obrne na nas, smo poskušamo pomagati, je pa res, da drugače kukrv deširimo in da se oglasimo ne moremo prvabe teh ljudine.Je pa res ko smo v stiski potrebujemo, da s krat se zgodi tudi tako, da se ne sami ljudje, ki so v stiski na nas obrnejo, ampak njihovi znanci, sosedje in obisune tak način potem skupaj nekaj poiščemo in poskušamo pomagati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2690.581,
+        "end": 2729.748,
+        "text": "Mogoče vprašanje za ves gospomodic glede na to, da združenje onkoneta ne zdrušuje vsa, vsa ta društva, ali vam manjka zdaj le je tudi Tanja omenila, ali vas manjkajo potem ta nekaj celostna mreža, ki bi poskrbela, da bi pokrili tudi te najbolj osamljene, najbolje oddaljene primerja, ampak ljudi, ki se sami borijo s svojimi stiskami, v kolikor bi bila ta mreža dopolnjena z močno podporo socialnih in drugih služb na terenu, ali to pogrešate ali iščete rešitve v tej smeli?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2730.811,
+        "end": 2746.876,
+        "text": "Pogrešamo pa hkrati tudi, ščemo rešitve, kako bi se jim dejansko približala nekaj ponavadi te ljudje sami sploh ne iščejo pomoči ali pa zelo zaradi stigme raka nekak to odklanjajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2747.45,
+        "end": 2754.757,
+        "text": "Toda kar se nas tišče naščaka velik dela na tem, da se povežemo z ustreznimi inštitucijami kjer bi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2755.364,
+        "end": 2756.393,
+        "text": "Na svetu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2756.9,
+        "end": 2765.945,
+        "text": "Ker in debite inštitucije, ki imajo dostop do teh ljudli, jih tudi ozavestle, da obstajajojo organizacije bolnikov, ki jim lahko pomagajo ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2766.603,
+        "end": 2768.729,
+        "text": "Ko da to, to je naša pobuda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2769.235,
+        "end": 2779.63,
+        "text": "Zdaj prav aktivno na tem področju še nismo naredil prvega koraka, kajti smo imeli do zdaj tolk enih težav v zvezi z..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2780.255,
+        "end": 2781.082,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2781.689,
+        "end": 2795.83,
+        "text": "Celostno obravnavo pač bolnikov z rakom, opozarjamo na številne težave, a ne, tako da smo se mogli nekak pokosirati, ampak glede na to, da je teh vprašanj vedno več."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2796.37,
+        "end": 2803.441,
+        "text": "Bo tudi to ena od naših pomembnih nalog zlo v, mislim že zdaj, ne ne daleč v prihodnje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2805.331,
+        "end": 2879.952,
+        "text": "To vprašanje sem zastavila predvsem zato, ker so verjetno to res najbolj osamljeni bolniki, najbolje osamleni posamezniki in njihova stiska potem še toliko večja, in ker ste zelo pohvalno primer izjemno lepe prakse v združevanju v v Sloveniji in si želim, da bi to moč izkoristili in jo tudi seveda v Dobrovič širili naprej pa bi mogoče še druga društva se tako lepo povezovala kot vaše na vseh straneh našega bivanja upam in želim, da se bomo mogoče čez kakšno leto pogovarjale prav o uspehu v tej smeri, mogo če celo uvisti zasedbi le še eno leto mlajše, moguče kakršna zaključna misel drage sogovornice, sedaj za zakljujček, gospa Žličar, omenili ste, da si želitev predvsem da ne bi upadlo število diagnosticiranih postopkov, verjetno je, želja, da bi bilo v prihodnje še kakšen primer manj, da bi imeli kakšega člana manj zaradi tega, ker bi jih bilo manj ne zato, ker bih manj bilo včlanjenih."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2882.703,
+        "end": 2883.344,
+        "text": "Korej je?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2884.458,
+        "end": 2888.018,
+        "text": "Seveda upam tudi to, da če že prije do drugega vala."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2889.183,
+        "end": 2894.06,
+        "text": "Demo več, pokovi do devetnajst, dve stroka več."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2894.836,
+        "end": 2895.157,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2896.034,
+        "end": 2903.965,
+        "text": "Sem prepričana, da bomo lažje skajali, kot smo zdaj, ko je bilo vse novo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2905.231,
+        "end": 2907.762,
+        "text": "In vsakodne se mi otežali sam sobom."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2909.416,
+        "end": 2911.475,
+        "text": "Kako preživeto obdobje?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2911.998,
+        "end": 2915.93,
+        "text": "Potem lahko razumemo, kaj je to pomenilo za..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2917.297,
+        "end": 2917.837,
+        "text": "Polnike."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2918.478,
+        "end": 2926.46,
+        "text": "In zdaj mislim, da bomo lahko ravnali tako, da bodo spoštovali razmere, ki bodo, bo smo spoštvovali se bolj."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2927.135,
+        "end": 2927.607,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2928.535,
+        "end": 2935.015,
+        "text": "Ta virus, ampak ne zato, ker bi nam ne venka pomemba, ampakt ravno zato."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2929.97,
+        "end": 2930.037,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2935.775,
+        "end": 2937.142,
+        "text": "Poštovali bomo."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2938.627,
+        "end": 2949.764,
+        "text": "Da ga ne bomo imali samo kot sobražnika, ki ga, ki se ga ne da premagajo, ampak da bomo vendarle lahko."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2950.591,
+        "end": 2957.982,
+        "text": "Poleg tega pa je zelo me beseli tudi vašo niso o povezovanju vseh teh društev."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2959.231,
+        "end": 2965.745,
+        "text": "Je smisel, da vsa ta društva smo spodočal okologije in nekako smo ugotovili, da..."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2966.487,
+        "end": 2970.47,
+        "text": "Če smo skupaj zmoremo več, da si lažje pomagamo?"
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2971.195,
+        "end": 2981.641,
+        "text": "Da vsak lahko drugemu predstavi problem, ki je za neko društvo specifičen stok, smo pač različno društojenje, si sva, da želim."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2982.367,
+        "end": 2988.577,
+        "text": "Da bi bilo to povezovanje še močnejše, mi smo se zadnji pridružili."
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 2989.707,
+        "end": 3005.283,
+        "text": "V tem onkunetu jim moram reči, da izkušnje v tem dobrem letu mislim Kristina, da je karsen skupaj, smo videli na sredstvu smo založeni veliko nervi, nervi se za društva veliko predvsem pa za dolnikke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3005.283,
+        "end": 3005.485,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3005.485,
+        "end": 3005.502,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3005.502,
+        "end": 3005.519,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_04",
+        "start": 3006.363,
+        "end": 3007.966,
+        "text": "Ravita tako sta en."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3010.48,
+        "end": 3024.858,
+        "text": "Doktor Lorna Zadravec zaletel, tudi vi si za svoje viteze najverjetneje obodoče želite čim več stikov, kar smo danes izpostavili in upam in želim, da bodo omogočeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3025.634,
+        "end": 3028.3,
+        "text": "Tudi ali pa nov kljub novim valom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3029.954,
+        "end": 3045.884,
+        "text": "Zelo lepozil, zelo namesto premalokrat se slišimo ne, imamo izjemno dobra društva, izjemne posameznike strokovnjake, ki se trudijo na svojem področju, le sližati jih je treba oziroma in dati možnost in mesto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3035.287,
+        "end": 3035.962,
+        "text": "Nič ni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3046.475,
+        "end": 3050.727,
+        "text": "Mogoče, gospa Španić, eno kratko misel za zaključek."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3051.807,
+        "end": 3095.395,
+        "text": "Ja, mi sem, da vsi, ki smo se v svojem življenju srečali z rakom, poskušamo ven iz tega nekaj pozitivnega izpeljat, kot da mislim, da bomo tudi iz Dega kovid obdobja kot društva poskujala potegni tisto najbolj pozitivo, kaj smo se naučili in to prenes naprej, sko da bomo prilagojeni na nove pobude, seveda pa povezovanje naših društev je plod kar velikega dela zadnjih skoraj petih let, skoda tudi druga društva pozivamo, da se nam prodružijo in da mogoče čez neki časa mamo krovno organizacijo bolnikov tudi v Sloveniji, kukle majajo tudi druge naše sosednje države in državi v Evropi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3097.623,
+        "end": 3099.513,
+        "text": "Delavam ne manjka dekleta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3100.222,
+        "end": 3134.09,
+        "text": "Gospa Modic, še vašo zaključnem misel, danes smo zdaj že v zakljičku slišali, da ste močni, da bi bilo fino, da sta sližani, daste bolj glasni, kako pa naprej bo onkonet še boljglasen, bo poskušal prodreti do čim več svojih, do čem več bolnikov oziroma do čima več posameznikov z rakavimi oboleni navsezadnje, številke so takšne, da se jih v bistvu mogoče na trenutke sploh ne zavedamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3135.338,
+        "end": 3172.362,
+        "text": "Tako je združenje Onko net po preko svojih društev, ki so povezane onko neto, je z mislim, da v bodoče prišel še do več bolnikov. Mi tudi v zdrušenju Onkonet načr bi bilo še vločno delo, tako da zdaj težko, a ne, pa vsako društvo ima svoje cilje, ki jih vodi, takodra razmišljamo profesionalizaciji, a, ne, takoda bi potem dejansko bliše močnejši še bolj glasni skupaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3172.987,
+        "end": 3173.729,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3174.556,
+        "end": 3184.057,
+        "text": "In jaz mislim, da imamo vse možnosti in da bomo uspešni. Če zakonzi pa jaz mogoče sanjše en tak apel dala, pa je poziv..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3184.563,
+        "end": 3192.292,
+        "text": "Naši strokovnjaki hematolog in onkologi opozarjajo, da moramo še vedno poskrbeti za ustrezno zaščito."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3192.967,
+        "end": 3209.774,
+        "text": "Tako da moramo še naprej upoštevati vse te ukrepe, ki so predpisani, opažamo, da pač vse ljudje so vse sprostili in naj pač imajo v mislih, da je treba še vedno vztraja dokrepi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3211.259,
+        "end": 3219.882,
+        "text": "Varna in zaščitena sproštenost v nadaljevanju, a vendarle z nekaj več človeške topline, to je vse, kar si želimo verjetno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 3215.174,
+        "end": 3215.714,
+        "text": "Svoboda, še vložite, da so tudi našli, da bi se odločili, da je bilo še našel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 3220.321,
+        "end": 3275.013,
+        "text": "Spoštovanje sogovornice, res hvala za vse informacije, ki ste jih delili z nami in poslušalci, ki so nas spremljani gledalci uživo, še vedno bo pustetek na voljo, šele dolgo časa, če ne celo večno, to bomo še videli, ker nas zadnje čase krkšen virus preseneti. Hvala lepa, vam da se vam še poimensko zahvalim, docen doktor Lorna Zadravec zaletel, gospa Ana Žličar Tanja Španić in Kristina Modic res lepa hvala, želim vam obilo energije, da bi zmogli v nadaljevanju združiti še več ljudi, ševeč posameznikov, vključiti ševet strokovnjakov in biti še bolj glasni v pomoč posebam zrakevani oboleni.Hvala le pa še enkrat, da želim vam seveda mirno jesem in vse dobro srečno nasidenje."
+      }
+    ],
+    "runtime_sec": 437.13955211639404
+  }
+}

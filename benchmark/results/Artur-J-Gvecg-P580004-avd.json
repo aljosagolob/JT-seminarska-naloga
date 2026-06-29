@@ -1,0 +1,2962 @@
+{
+  "file_id": "Artur-J-Gvecg-P580004-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P580004-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.09688749880858286,
+      "miss": 0.07745916541053077,
+      "fa": 0.005646769769518894,
+      "confusion": 0.013781563628533187,
+      "total_duration": 1416.384999999985
+    },
+    "der_collar0.25": {
+      "der": 0.07087943976600385,
+      "miss": 0.05275946759321361,
+      "fa": 0.005869850140481329,
+      "confusion": 0.012250122032308911,
+      "total_duration": 1300.8849999999852
+    },
+    "wer": {
+      "wer": 0.14357163871726977,
+      "ref_words": 3399,
+      "hyp_words": 3312
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.79,
+        "end": 5.073,
+        "text": "Redke so družine, kjer se piše o uspehu obeh otrok."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 5.774,
+        "end": 25.869,
+        "text": "Fermetova iz Mestinja, Sodi Mednje, Tadej Ferme, pranilec pri košarkarskem klubu Rogaška in Ana Ferme, izjemen vokal, pevka z bogato pevsko kilometrino, kljub svojim ledosti, med drugim najmlajša na odru muzikala Cvetje v jeseni, sta brat in sestra in moja gosta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 26.009,
+        "end": 26.549,
+        "text": "Pozdravljena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 26.569,
+        "end": 27.49,
+        "text": "Pozdravljena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 28.297,
+        "end": 30.36,
+        "text": "Zamenjajmo vlogo v začetku."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 30.641,
+        "end": 34.486,
+        "text": "Je kakšna povezava med Ano in košarko?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 34.506,
+        "end": 35.768,
+        "text": "Ja, v bistvu je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 36.59,
+        "end": 43.861,
+        "text": "Jaz sem devet let igrala košarko, torej še v osnovni šoli, potem sem se nekako usmerila bolj intenzivno v petje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 44.148,
+        "end": 45.928,
+        "text": "Kaj pa tadej in petje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 46.389,
+        "end": 53.99,
+        "text": "Pojem konstantno, ampak raje bolj privatno, ker dvomim, da bi kdo želel slišati moj glas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 54.53,
+        "end": 55.191,
+        "text": "Voljo imaš?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 55.531,
+        "end": 56.331,
+        "text": "Voljo pa imam, ja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 56.691,
+        "end": 60.572,
+        "text": "Ana se je z glasbo začela spogledovati že v osnovni šoli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 60.652,
+        "end": 65.073,
+        "text": "Kot četrtošolka si Ana bila udeleženka pri reditve Korajža Velja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 65.173,
+        "end": 65.933,
+        "text": "Vspomnimo se."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 66.113,
+        "end": 71.757,
+        "text": "Prireditev je potekala torej sklop v šole in sem takrat zmagala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 71.777,
+        "end": 82.044,
+        "text": "V bistvu smo razredi tekmovali med sabo, no potem pa je ta zmaga prinesla še nastopanje na regijskem tekmovanju in potem še državno v glavnem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 82.064,
+        "end": 86.107,
+        "text": "Vključila sem se v studio H, kjer me je povčeval Bogo, hvala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 86.167,
+        "end": 88.609,
+        "text": "Se spomniš, kaj si pela takrat, katero pesem?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 88.649,
+        "end": 91.191,
+        "text": "Seveda, Metul od Saše Lendero."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 91.211,
+        "end": 91.831,
+        "text": "Spomniš?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 91.831,
+        "end": 93.072,
+        "text": "Po vlastnem izboru."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 93.473,
+        "end": 94.433,
+        "text": "Po vlastnem izboru."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 94.654,
+        "end": 101.8,
+        "text": "To je bilo tako, prišli so na šolo, dobili se znam vaših želja in potem ste malo ovadili in že začeli tekmovati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 101.84,
+        "end": 103.782,
+        "text": "Tako, tako, čisto preprosto."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 103.802,
+        "end": 114.893,
+        "text": "V bistvu navičili so te, kako preti mikrofon, kako ga držati in potem si imel neko svojo koreografijo, naprimer, jaz sem imela štiri plesavke in je bilo to to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 115.912,
+        "end": 120.397,
+        "text": "Omenila si studio H, ki je pripravljal to prireditev, to tekmovanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 120.938,
+        "end": 125.904,
+        "text": "Strbol je ta studio H, ampak je ostala potem povezava še tudi naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 126.492,
+        "end": 134.96,
+        "text": "Jaz sem sodelovala s Studijem H in potem naprej z Marjanom Hvalo še do svojega drugega letnika gimnazije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 135.281,
+        "end": 140.986,
+        "text": "Na zadnjo sem bila z njimi na tekmovanju Europop v Budimpešti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 141.126,
+        "end": 147.693,
+        "text": "Potem pa sem počasi prešla k moj zdajšnji mentorici Marti Zore, ki pa je v Kranju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 147.873,
+        "end": 150.795,
+        "text": "To je bilo v trbovljah in tja so te starši vozili?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 151.095,
+        "end": 151.415,
+        "text": "Tja so, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 151.455,
+        "end": 151.975,
+        "text": "Kako pogosto?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 152.456,
+        "end": 154.477,
+        "text": "Nekako smo imeli vajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 154.557,
+        "end": 161.201,
+        "text": "Vsako sobotu popovdne po kosilu nekje smo se zatem in mami, no, spravila v avto in šla v trbovlje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 161.541,
+        "end": 162.862,
+        "text": "Ana pa ni lepevka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 163.382,
+        "end": 165.643,
+        "text": "Odlična je tudi za klavirjem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 167.284,
+        "end": 170.766,
+        "text": "Ana, prej sem omenila tvoje igranje klavirja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 171.206,
+        "end": 174.108,
+        "text": "Končala si šest letnikov Niže glasbene šole."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 174.468,
+        "end": 185.958,
+        "text": "To so bila lepa leta, poučevala me je gospa profesorica Bibijana Horvat, na katero imam zelo lepe spomine in smo še danes v stiku."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 185.978,
+        "end": 191.503,
+        "text": "In ob učenju, ob petju ti ni bilo težko potem še vaditi klavir?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 191.523,
+        "end": 193.765,
+        "text": "Ne, to je del glasbe, to sem rada počela."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 194.198,
+        "end": 202.48,
+        "text": "Po osnovni šoli pa si se odpravila v gimnazijo Rugaška in tam srečala Borisa Pokorna z Štajerskih sedem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 202.98,
+        "end": 204.901,
+        "text": "Je kaj vplival na tvojo nadaljno pot?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 205.401,
+        "end": 208.622,
+        "text": "Da mi je predvsem zagon za naprej motivacijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 208.742,
+        "end": 216.604,
+        "text": "On je bil moj profesor kemije in videla sem, da če bom daj imela težave s kemijo, se lahko vedno obrnem nan, prav tako pa tudi v glasbi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 217.128,
+        "end": 224.114,
+        "text": "Na šoli ste se lutili muzikala Mama Mia, legendarne skupine ABBA, kjer si igrala v porniško mamo Dono."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 224.174,
+        "end": 225.355,
+        "text": "Glavno vlogo si imela."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 225.375,
+        "end": 228.578,
+        "text": "To je bila igra, petje, pa še angliščina."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 228.698,
+        "end": 232.201,
+        "text": "To je bilo nekaj, kar sem si želela že od malega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 232.862,
+        "end": 237.345,
+        "text": "Muzikli so moja strast, ljubezen in v tem sem se res našla."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 238.266,
+        "end": 244.812,
+        "text": "Mama Mia, šolski muzikal, ki se zdi mogoče tako nadolžen, je bil dobro odskoč na deska za naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 245.022,
+        "end": 250.884,
+        "text": "In dobre prijateljske vezi, velika ekipa, kako ste to zmogli, res enkratno?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 251.324,
+        "end": 258.467,
+        "text": "Zmogli smo skupno željo po uspehu, z neko sliko, ki smo jo želeli uresničiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 258.587,
+        "end": 266.33,
+        "text": "Meli smo cilje, dobro začrtene, imeli smo dobri mentorici in predvsem veliko poguma in želje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 266.99,
+        "end": 268.971,
+        "text": "In potem tudi kar nekaj nastopil, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 269.031,
+        "end": 269.811,
+        "text": "Ja, tudi to."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 269.931,
+        "end": 274.453,
+        "text": "Mogoče nismo celo tega pričakovali, zato je bila to še dodatna nagrada za nas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 274.722,
+        "end": 279.949,
+        "text": "Omenila si že prej izpolnjevanje solo petja zdaj pri Marti Zore."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 280.489,
+        "end": 282.172,
+        "text": "Gre za tehniko petja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 282.232,
+        "end": 283.013,
+        "text": "Kako to poteka?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 284.027,
+        "end": 286.448,
+        "text": "Najprej je ogrevanje, opevanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 286.908,
+        "end": 292.01,
+        "text": "Marta me je naučila marsikaj novega, predvsem pri opevanju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 292.29,
+        "end": 295.491,
+        "text": "To so različne vaje, tudi dikcijske vaje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 295.851,
+        "end": 304.754,
+        "text": "Potem pa sledi, na primer, kakšno skladbo in potem vadimo po skladbi, analizirava, me posname, da vidim, kaj narobe in tako to poteka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 304.814,
+        "end": 306.095,
+        "text": "Ste že kaj posneli skupaj?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 307.155,
+        "end": 308.576,
+        "text": "Skupaj kot duet?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 308.736,
+        "end": 310.216,
+        "text": "Ne, to še ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 310.456,
+        "end": 312.117,
+        "text": "Sva pa že sodelovali v studio."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 314.142,
+        "end": 324.6,
+        "text": "To je torej Ana Fermé, ob njej pa danes v studiju njen brat Tadej, ki je začel trenirati košarko pri šestih letih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 324.68,
+        "end": 325.942,
+        "text": "Kako je to zgledalo Tadej?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 326.613,
+        "end": 346.413,
+        "text": "To je zgledalo tako, da sem v bistvu sam imel bolj željo po treniranju nogometa, vendar ker je mami to bil pregrob šport, se je odločila, da me pobasa v avto in odpelje na trening v košarkarsko šolo Milana Bastašiče in tam se je vse skupaj začelo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 346.677,
+        "end": 350.8,
+        "text": "V osnovni šoli pa je bil tvoj veliki motivator Boris Emršič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 351.0,
+        "end": 353.182,
+        "text": "To so bila zelo lepa leta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 353.662,
+        "end": 357.025,
+        "text": "Borisu bom večno hvaležen za vse, kar je storil za mene."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 357.605,
+        "end": 362.749,
+        "text": "Ne samo tekrat, tudi zdaj, če rabim kak na svet ali kar koli, mi je na voljo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 363.209,
+        "end": 368.093,
+        "text": "Košarkarsko smo dosegali lepe rezultate, osvojili skoraj vse."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 368.633,
+        "end": 373.177,
+        "text": "Tukaj sem se dejansko zaljubil košarko, da sem se še naprej okvarjal z njo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 373.728,
+        "end": 378.594,
+        "text": "In to na tak način, da ni samo napor trening, ampak tudi radost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 378.974,
+        "end": 379.916,
+        "text": "Ja, je radost, ja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 379.996,
+        "end": 381.017,
+        "text": "To je znal Boris."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 381.117,
+        "end": 381.778,
+        "text": "To je znal Boris."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 381.798,
+        "end": 382.399,
+        "text": "Oziroma zna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 382.859,
+        "end": 383.68,
+        "text": "To zna, tako."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 384.241,
+        "end": 389.828,
+        "text": "V osnovni šoli pa si tudi smučal, ampak ne v tekmovalnem smislu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 390.147,
+        "end": 392.509,
+        "text": "Zanimali so me različni športi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 392.63,
+        "end": 405.003,
+        "text": "Tudi Boris je bil eden izmed tistih, ki je zagovornik, da če hočeš biti uspešen športnik v bilo katerem športu, moraš nekako probavati različne športe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 405.563,
+        "end": 413.031,
+        "text": "Če si vseh uspešen, bo to sigurno doprineslo, da boš boljši tudi v tistem športu, katerega si želiš trenirati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 414.042,
+        "end": 420.301,
+        "text": "In potem je prevladala seveda košarka, ki si jo nadaljeval potem tudi na prvi gimnaziji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 420.522,
+        "end": 436.054,
+        "text": "Takrat sem iz košarkarskega kluba Lipnik Šmarje prestopil s pomočjo Damjana Novakoviča v košarkarski klub Šentjur, ker sem treniral celo srednjo šolo in tudi še naprej, ko sem se že opisal na fakulteto za šport."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 436.554,
+        "end": 444.34,
+        "text": "Tudi na prvi gimnaziji smo imeli lepe uspehe in tudi tam je trener Boštjan Kuhar, ki je osebni trener"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 444.62,
+        "end": 452.122,
+        "text": "Bena Udriha in mnogih drugih slovenskih reprezentantov, kar je tudi zelo pomagalo v moji igri."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 452.442,
+        "end": 456.484,
+        "text": "Na prvi gimnaziji so te nagradili za te tvoje športne dosežke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 456.864,
+        "end": 465.666,
+        "text": "V zadnjem letniku sem dobil nagrado za najboljšega športnika šole, kar mi je, morda se ne sliši kot ne vem kakšna nagrada, vendar osebno ima velik pomen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 465.987,
+        "end": 468.487,
+        "text": "Rojen športnik je tadej Fermé."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 468.767,
+        "end": 470.648,
+        "text": "Lahko sklepamo iz slišanega."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 473.617,
+        "end": 477.279,
+        "text": "Tadej Vermej je z mano v studiju, obsestri Ani."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 478.019,
+        "end": 482.502,
+        "text": "Tadej z izbiro fakultete si svoj športno pot povezal potem še spoklicno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 483.064,
+        "end": 483.564,
+        "text": "Tako je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 484.005,
+        "end": 488.148,
+        "text": "Vpisal sem se na fakulteto za šport in sicer smer športnega treniranja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 488.468,
+        "end": 492.411,
+        "text": "Pa si še trener ekipe še kl osnovne šole Šmarje Priješah?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 492.531,
+        "end": 493.532,
+        "text": "Ne, trenutno ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 494.112,
+        "end": 500.817,
+        "text": "Bil sem samo eno sezono in to je bila tista, v kateri smo osvojili naslov prvaka šolske gošarkarske lige."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 501.017,
+        "end": 502.558,
+        "text": "Torej prvi v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 503.078,
+        "end": 503.479,
+        "text": "Tako je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 503.719,
+        "end": 504.76,
+        "text": "Pod tvojim vodstvom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 504.88,
+        "end": 505.82,
+        "text": "Pod mojim vodstvom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 506.441,
+        "end": 509.223,
+        "text": "Kljubne dosti si igral že v večjih kljubih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 509.656,
+        "end": 522.625,
+        "text": "Začel sem v Šmarju, kot sem že omenil, šel v Šentjur, nato pa iz Šentjurja v Laško in v isti sezoni še iz Laškega v Maribor, trenutno pa igram v košarkarskem klubu Rogaška."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 523.072,
+        "end": 525.734,
+        "text": "Bil si tudi član vseh selekcij reprezentance."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 525.934,
+        "end": 535.04,
+        "text": "To je kadetska reprezentanca do 16 let, mladinska do 18 let in pa bil sem tudi kapetan reprezentance mlajših članov do 20 let."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 535.22,
+        "end": 536.201,
+        "text": "Kaj to pomeni?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 536.281,
+        "end": 550.571,
+        "text": "Ta vloga pomeni neko določeno odgovornost, na katero se zanašajo tvoji sojigravci, torej da v težkih trenutkih potegneš voz, ko to morda ni najlažje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 550.831,
+        "end": 558.213,
+        "text": "Pri fermetovih so tudi ljubitelji motorjev, vsi razen Tadeja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 558.233,
+        "end": 567.835,
+        "text": "Ja, Tadej je imel žal neljubo izkufnjo z motorjem, jaz pa sem zelo zagreta za jeklenega konička, ki ga tudi imam, prav tako mami in ati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 568.596,
+        "end": 569.796,
+        "text": "In komaj čakeš poletja?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 570.116,
+        "end": 573.977,
+        "text": "Komaj čakam, že danes bi šla na motor, če bi bilo to možno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 577.905,
+        "end": 583.37,
+        "text": "Če je tedej povezal šport kot hobi tudi poklicno, je pri sestri Ani drugače."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 583.971,
+        "end": 589.436,
+        "text": "Vstavi vas se, Ana, še pri tvojem študiju, ki pa res ni nič povezan z glasbo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 590.297,
+        "end": 602.328,
+        "text": "Ja, mogoče se zdi, da ni povezan z glasbo, ampak sem ravno od kolegice Maja Slatimšek slišala za primer fizioterapeuta zaglasilke, kar bo mogoče moja budoča pot."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 602.772,
+        "end": 604.554,
+        "text": "To je potem kakšna specializacija."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 604.814,
+        "end": 606.616,
+        "text": "Tako, to so specializacije potem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 606.836,
+        "end": 609.119,
+        "text": "Zdaj pa študiraš fizioterapijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 609.139,
+        "end": 610.56,
+        "text": "Fizioterapijo v Mariboru."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 611.301,
+        "end": 612.983,
+        "text": "Naporno uskljevanje vsega skupaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 613.555,
+        "end": 614.695,
+        "text": "Ja, zelo naporno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 614.716,
+        "end": 627.941,
+        "text": "K sreči imamo ješ tudi možnost opravljanja izpitev redno, torej naprimer ne samo izpitev v junju ali januarju, ampak tudi lahko v marcu, aprilu, kakor si pač tudi sam določiš."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 628.181,
+        "end": 641.067,
+        "text": "Vendar, če ne bi jaz obiskovala takšnega faksa, potem mislim, da ne bi mogla usklajevati stvari, torej muzikal v Ljubljani, petje v Kranju, pa še potem drugi nastopi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 642.175,
+        "end": 647.018,
+        "text": "Po glasbi si seveda najbolj prepoznavna, k cveti v jeseni se še vrneva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 647.559,
+        "end": 656.385,
+        "text": "Omeniva zdaj Fens, to je festival novih skladb, ki poteka vsako poletje v slovenskih obalnih mestih, nekoč je bil del melodiji Morja in Sonca."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 657.185,
+        "end": 660.007,
+        "text": "Tri kategorije, otroški, najstniški, nova scena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 660.488,
+        "end": 663.069,
+        "text": "Ti si že kar pri otroškem začela, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 663.15,
+        "end": 664.05,
+        "text": "Spomniva se leta 2008."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 664.17,
+        "end": 665.231,
+        "text": "Ja, pravzaprav."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 665.702,
+        "end": 668.764,
+        "text": "Takrat sem nastopila skladbo Dišeča polja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 669.164,
+        "end": 673.067,
+        "text": "Osvojila sem tretje mesto in to je res nekaj, kar nikoli ne boš pozabil."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 673.407,
+        "end": 675.489,
+        "text": "Prvič sem stala na tako velika modru."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 675.889,
+        "end": 677.49,
+        "text": "Dve leti pozdneje, ponovno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 678.29,
+        "end": 681.112,
+        "text": "Ja, takrat sem bila v duetu z rokom Hvalo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 681.573,
+        "end": 685.615,
+        "text": "Osvojila sem drugo mesto, skladbo When I First Saw You."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 686.056,
+        "end": 688.177,
+        "text": "Že v višji kategoriji, najsnežki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 688.197,
+        "end": 688.397,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 688.958,
+        "end": 692.48,
+        "text": "Lani pa melodije More in sonce v portoroškem auditoriju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 692.868,
+        "end": 696.811,
+        "text": "Še teden prej nisem pričakovala, da se zna zgoditi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 697.432,
+        "end": 717.048,
+        "text": "Bilo je pa tako, da je Tomi Purič, ki je vodja Ninjenega benda, bobner v našem muziklu, že redan gost na teh melodijah Morje in sonca in si je zaželel ženskega vokala, na kar me je vprašal, če bi bila pripravljena sodelovati in imela sem celih pet dni, da se pripravim na vse skladbe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 717.409,
+        "end": 721.272,
+        "text": "Nekje sem prebrala teda, da je bila pri tem tudi tvoja močna podpora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 722.011,
+        "end": 730.158,
+        "text": "Anin MMS je meni omogočil izlet v Portoroš, preljal sem jo na Melodije mor in sonca."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 730.559,
+        "end": 731.6,
+        "text": "In stiskal fige."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 731.7,
+        "end": 732.801,
+        "text": "In stiskal fige, ja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 733.201,
+        "end": 735.043,
+        "text": "Pa potem še prišel na nastop."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 735.163,
+        "end": 737.405,
+        "text": "Tudi tadaj nam predstavi svoje uspehe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 741.215,
+        "end": 745.622,
+        "text": "Tudi športniki seveda mirite svoje uspehe in sodelovanje na večjih tekmovanjih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 745.822,
+        "end": 754.076,
+        "text": "Tadej Fermé je z mledinsko reprezentanco Slovenije sodeloval med drugim tudi na Evropskem prvenstvu divizije A v košarki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 754.343,
+        "end": 761.068,
+        "text": "Ja, v bistvu smo bili v vseh kategorijah v diviziji A, to je najmočnejša divizija v Evropi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 761.609,
+        "end": 766.572,
+        "text": "Žal nismo dosegli kakšne vidnejše vrstitve, ampak vse eno je bilo lepo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 766.752,
+        "end": 767.693,
+        "text": "In nova izkušnja?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 768.073,
+        "end": 776.7,
+        "text": "Nova izkušnja, veliko smo odnesli od tega, trdo smo trenirali, to traja čez poletje, tako da nimaš kaj dosti od počitnic, ampak se splača."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 776.72,
+        "end": 790.207,
+        "text": "Če omenim samo nekatere imena, kot so Valanciunas, Enes Kanter in podobna sedaj že kar obeljavljena imena v svetovni košarki, potem je velika čast, da si že del tega."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 790.627,
+        "end": 794.869,
+        "text": "No gotovo pa ogromno šteje uspeh lanske sezone."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 795.653,
+        "end": 802.137,
+        "text": "Lanska sezona je bila pa res nekaj neverjetnega in to iz več strani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 802.337,
+        "end": 813.305,
+        "text": "Igrala je ekipa, ki smo se že večinoma odprej poznali, torej ki smo igrali skupaj že v Šentjuri v prejšnjih sezonah in smo imeli bratski odnos, kar se je tudi prenesel na igrišče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 813.325,
+        "end": 822.791,
+        "text": "Vzdušje na zadnjih tekmah je bilo v Šentjurskem Hruševcu pravi pekel, v Rogaški pa te kar nesla tista euforija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 823.298,
+        "end": 826.841,
+        "text": "Kaj pa nominacija za športnika leta občine Rogaška Slatina?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 827.281,
+        "end": 830.644,
+        "text": "To je pa samo še češnja na torti klanski sezoni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 830.824,
+        "end": 836.729,
+        "text": "Res na tem mestu bi se zahvalil zvezi športniko Rogaške za to nominacijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 837.25,
+        "end": 838.511,
+        "text": "Bravci lahko glasujete."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 839.151,
+        "end": 845.537,
+        "text": "Tudi Ana ima izkušnje z festivalov v Tujini, Črnagora naprimer, ta je posebej v lepem spominu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 845.924,
+        "end": 852.528,
+        "text": "Ta je bil moj prvi v drugi državi, torej v Črnjegori, kraj rožaje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 852.648,
+        "end": 861.795,
+        "text": "Osvojila sem šestno mesto od 36 mladih nastopajočih, kar ne štejem kot slab uspeh, ampak v bistvu zelo dober."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 862.095,
+        "end": 870.3,
+        "text": "Saj sem se prvi srečala s kamerami, z odrskimi lučmi, pa tisto, da moraš biti urejen, da je nekaj posebnega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 870.62,
+        "end": 871.441,
+        "text": "Vse je bilo novo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 872.262,
+        "end": 874.323,
+        "text": "Izjemna tudi uvrstitev v Budimpešti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 875.0,
+        "end": 879.304,
+        "text": "Budim pešti, pa sem zasedla peto mesto, skladbo spomin."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 880.365,
+        "end": 889.475,
+        "text": "Torej, uspehi, ki veliko štejejo, tudi v tujini, kot smo slišali, domači x-faktor pa je imel drugačne filtre."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 890.17,
+        "end": 905.044,
+        "text": "Ja, to pa je bil moj druge letnik, x-faktor, seveda sem se tega želela vdeležiti, ampak po takratni izkušnji bom še dobro premislila, ali bom se še kdaj spravila v ta levi berlog."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 905.564,
+        "end": 912.21,
+        "text": "Ja, seveda sem se prijavila, bila sprejeta, upravila prvo audicijo v celju, sledila je Ljubljana, nastop"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 913.171,
+        "end": 938.971,
+        "text": "predžirijo, tam sem trikrat dobila da, torej greš v naslednji krog, potem je pa sledil bootcamp, kjer pa smo bili zbrani vsi tisti, ki smo v prejšnjih krogih že dobili tri da ali dva da, na kar tam vidiš, da so stvari malo drugačne, kot si si jih mogoče predstavljal, malo že poznanstva, tvoji kilometri, koliko si pripravljen žrtvovat, morda tudi sebe,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 939.952,
+        "end": 942.753,
+        "text": "si se pripravljam popolnoma spremljiti ali ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 943.153,
+        "end": 952.896,
+        "text": "Jaz sem bila takrat kar malo nezanimiva za njih, ker sem bila navadna najsnica, ki ne želi preveč izstopati, ampak pač samo pokazati tisto, kar zna."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 953.356,
+        "end": 958.018,
+        "text": "Od začetka sem bila seveda zelo razočarana, ker se nisem tega predstavljala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 958.538,
+        "end": 966.821,
+        "text": "Mogoče sem se malo preslabo pripravila na uspeh, ampak zdaj pa vidim, da lahko to štejem kot dobro izkušnjo za naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 969.922,
+        "end": 972.905,
+        "text": "Z mano v studiju sta brat in sestra Fermé."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 973.586,
+        "end": 978.711,
+        "text": "Ana, nadarjena in uspešna mlada pevka in tadej uspešen košarkar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 979.272,
+        "end": 983.877,
+        "text": "Vsak na svojem področju žanjeta uspehe in zaslužene aplauze."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 984.237,
+        "end": 989.863,
+        "text": "Ana, prepevati ob živi spremljavi je najbrzo vsakega pevca svoj vrsten čar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 990.003,
+        "end": 1002.49,
+        "text": "Tisi članica Big Band Dašmarje Prijeljšah pod vodstvom Kaje Bičkaj in se je imela z njimi že leta 2013 samostojni koncert z nasmehom v očehu poletno noč."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1002.51,
+        "end": 1008.553,
+        "text": "Ja, tako je, takrat sem se tudi priključila potem kot stalna članica Big Band Dašmarje Prijeljšah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1008.793,
+        "end": 1011.074,
+        "text": "Koncert je potekal 22. junija 2013 in je bil pravi zalogaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1011.094,
+        "end": 1012.395,
+        "text": "Večkrat si nastopila, preobjavila."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1017.678,
+        "end": 1019.219,
+        "text": "Oblačila si se."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1019.339,
+        "end": 1019.979,
+        "text": "Ja, seveda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1020.36,
+        "end": 1023.822,
+        "text": "Koncert seveda ni smel biti samo v eni obleki."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1023.842,
+        "end": 1025.403,
+        "text": "Imela sem namreč dva sklopa."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1026.043,
+        "end": 1030.786,
+        "text": "Na začetku smo se dotaknili predvsem zimzeleni sklad, ki so meni še posebej pri srcu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1030.886,
+        "end": 1037.93,
+        "text": "Potem v drugem sklopu sem pa imela bolj živahne, zabavne, tudi kakšna iz 80-ih let se je našla."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1038.13,
+        "end": 1041.153,
+        "text": "Ni pa bil to edini samostojni nastop z Big Bandom, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1041.593,
+        "end": 1043.255,
+        "text": "Naslednje leto je bilo ponovno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1043.315,
+        "end": 1055.908,
+        "text": "Ja, tako je, 17. januarja 2014 je bil ponovno koncert spremljave Big Banda in takrat smo celoten izkopiček namenili šolskemu centru Rogaško Slatino, torej moje gimnaziji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1056.068,
+        "end": 1058.089,
+        "text": "Tadej, kako se Ana pripravlja doma?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1058.55,
+        "end": 1060.831,
+        "text": "Te kdaj vpraša za kakšno mnenje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1061.572,
+        "end": 1063.413,
+        "text": "Ne, za mnenje me ne sprašuje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1063.573,
+        "end": 1068.677,
+        "text": "Pripravlja se pa tako, da se zaklepa v sobo in da res ne morem priti do nje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1068.757,
+        "end": 1072.859,
+        "text": "Kaj pa potem pri stilski podobi te vpraša?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1072.899,
+        "end": 1074.12,
+        "text": "Je to v redu ali ni?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1074.4,
+        "end": 1078.183,
+        "text": "Tam pa me vpraša za mnenje, tako kot tudi jaz s njo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1078.243,
+        "end": 1079.524,
+        "text": "Slediš njenim nastopom?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1080.014,
+        "end": 1080.974,
+        "text": "Sledim, vsekakor."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1081.394,
+        "end": 1089.577,
+        "text": "Če Ana Fermez spremlja svojega brata Tadeja na tekmah, pa nam bo zaupala po skladbi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1089.657,
+        "end": 1093.478,
+        "text": "Tadej je torej nadarjen in uspešen košarkar, smo slišali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1094.098,
+        "end": 1096.259,
+        "text": "Ana, ga spremljaš na tekmah?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1096.319,
+        "end": 1097.78,
+        "text": "Vedno, vedno, ko le lahko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1098.9,
+        "end": 1101.001,
+        "text": "Igral si v mnogih klubih, kot smo slišali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1101.581,
+        "end": 1105.102,
+        "text": "Kje so razlogi, da si podaljšal pogodbo z rogaško še za eno leto?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1105.883,
+        "end": 1111.846,
+        "text": "En razlog je sigurno, kako dobro sezono smo imeli in tudi kakšni so cili za naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1112.306,
+        "end": 1119.71,
+        "text": "Nekaj je pa tudi, kako je klub urejen, ker je vse tako, kot more biti, kar v današnjih časih ni kar tako."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1120.79,
+        "end": 1122.651,
+        "text": "Se spogleduješ, kaj stoji na vželjah?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1123.13,
+        "end": 1129.755,
+        "text": "Ja, v bistvu sem tudi pred lansko sezono imel neke možnosti, ampak se žal na koncu ni išlo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1129.835,
+        "end": 1132.177,
+        "text": "Je pa želja, sigurno, prisotna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1132.497,
+        "end": 1134.058,
+        "text": "Kako poteka dan pred tekmo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1134.378,
+        "end": 1137.841,
+        "text": "Potrebujem predvsem svoj mir, da se omaknem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1137.901,
+        "end": 1143.004,
+        "text": "Ponovadi grem s svojim psom Luno na sprehod, grem malo v gost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1143.024,
+        "end": 1150.51,
+        "text": "Imam tudi rutino gledejo broka, ponovadi mi najbolj pašajo te stenine izpod mamine roke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1150.67,
+        "end": 1156.456,
+        "text": "Potem pa grem malo počivati in kot bi trenil, je že čas za tekmo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1156.476,
+        "end": 1167.568,
+        "text": "Ana, že nekaj časa je posebno doživetje vloga v Cvetju v jeseni, pa nastopi v Križankah in gostovanja po Sloveniji, v Šmarju nekaj ponovitev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1167.768,
+        "end": 1172.053,
+        "text": "Gotovo se mnogi sprašujejo, kako ti je uspelo priti v ekipo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1172.253,
+        "end": 1174.854,
+        "text": "To je pa zopet splet okoliščin."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1175.114,
+        "end": 1185.018,
+        "text": "Torej, moja mentorica Marta Zore je prejela povabilo, če pozna kakšnega svojega učenca, ki se zanima za te stvari, naj pride na audicijo, naj se pride preizkusiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1185.298,
+        "end": 1200.203,
+        "text": "In je seveda meni takoj to na mail preposlala in to je bil čas mature, tako da jaz sem zelo oklevala, če bi sploh šla, ker vem, da če bi šlo kaj narobe na maturi, torej pri angleščini, takrat se je pisala angleščina,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1200.603,
+        "end": 1205.944,
+        "text": "bi se tepla po glavi, če je štisto popovdne si šla v Ljubljano, namesto da bi se doma učila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1206.544,
+        "end": 1214.886,
+        "text": "No, ampak temu sreči ni bilo tako, vse je se dobro išlo in ne morem verjeti, bila sem kar naenkrat v mjuziklu Cvete v jeseni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1214.906,
+        "end": 1219.167,
+        "text": "V bistvu sem upravila samo eno audicijo, bile so pa tri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1219.527,
+        "end": 1225.208,
+        "text": "So me nekako že na začetku sprejeli, so mi dali vedeti, da me želijo imeti za članico."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1225.628,
+        "end": 1226.989,
+        "text": "In tako je pač to šlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1227.029,
+        "end": 1235.274,
+        "text": "Jaz sem imela maturo, drugi so še upravljali audicije, nekaj krat smo se skupaj dobili, da smo še videli, ali bo to funkcioniralo in je."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1235.354,
+        "end": 1242.519,
+        "text": "Zdaj veliki odri pa vsej Sloveniji, vsakič dvorana na koncu ustane, to mora biti poseben čar."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1242.899,
+        "end": 1249.684,
+        "text": "To je nekaj, kar se z besedami nadal pisat, ker ni bilo samo enkrat, ko sem iz odra učila soznimi učmi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1252.139,
+        "end": 1253.86,
+        "text": "Ana in tadej ferme."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1254.18,
+        "end": 1256.181,
+        "text": "Nič še nismo rekli o vajeni družini."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1256.501,
+        "end": 1261.003,
+        "text": "Ljubeča je, močnost je povezani, spomeni na otroštvo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1261.643,
+        "end": 1262.724,
+        "text": "Ničesar ne bi spomenil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1262.744,
+        "end": 1266.906,
+        "text": "V mestinje je lepo, mirno, bi rekli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1267.006,
+        "end": 1277.511,
+        "text": "In sploh zdaj, recimo, ko je tak čas januar, se z veseljem spomnim, kako je bilo včasih vse belo in smo praktično ves dan preživeli zune."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1277.823,
+        "end": 1282.027,
+        "text": "pa snežaki, pa jezila sem starejšega brata, seveda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1282.688,
+        "end": 1286.312,
+        "text": "On mene malo maj in mogoče, ali pa se tega tako nasponim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1286.672,
+        "end": 1289.976,
+        "text": "Si igral vlogo velikega brata, pokrovitelsko?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1290.216,
+        "end": 1296.563,
+        "text": "Verjetno nikoli nisem iskreno priznal, ampak mislim, da podzavestno, če ne drugače sem imel."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1296.723,
+        "end": 1299.824,
+        "text": "Tadej je imel zelo veliko vlogov v mojem odraščenju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1300.084,
+        "end": 1303.365,
+        "text": "Nikoli ne bom pozabila, ko sem šla v srednjo šolo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1303.625,
+        "end": 1310.607,
+        "text": "Me je nekako dvignil z besedami, pazi kaj delaš, ni več to osnovna šola, vse bo drugače."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1311.047,
+        "end": 1315.528,
+        "text": "Potem je kdaj prišel pom, popuk, to je meni ogromno pomenilo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1315.668,
+        "end": 1318.729,
+        "text": "Pred maturo slovenščine je prišel v mojo sobo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1319.369,
+        "end": 1328.335,
+        "text": "spominom, torej tista igra spomin in je rekel, pridi sem, zdaj se boš malo mirila, pa greva odigrat spomin."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1328.795,
+        "end": 1331.476,
+        "text": "In to po meni je vedno ostalo v spominu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1331.777,
+        "end": 1343.144,
+        "text": "Jaz bi pa tu še sam dodal, da kar se pa Ane tiče, pa je mlajša sestra, ampak velikrat je pa treba priznati, da je tudi ona odigrala vlogo starejše sestre."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1343.444,
+        "end": 1345.045,
+        "text": "Še vedno živite v mestinju?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1345.998,
+        "end": 1347.118,
+        "text": "Ja, še vedno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1347.799,
+        "end": 1349.419,
+        "text": "Mama sobe drug poleg drugega."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1350.1,
+        "end": 1352.301,
+        "text": "Ne morava en brez drugega, pač to dejstvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1352.541,
+        "end": 1355.262,
+        "text": "Kje in kako se vidita čez deset let?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1355.922,
+        "end": 1367.647,
+        "text": "Ja, čez deset let pa upam, da ne bom imel več sobe poleg njene, ampak da bom imela že vsak svojo družino in ne predstavljam si, da se naj bi več družila in redno videvala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1367.707,
+        "end": 1371.329,
+        "text": "Ti pa boš povezan še naprej s košarko, se tako vidiš."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1371.349,
+        "end": 1372.349,
+        "text": "Vse vidim o tem, ja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1372.95,
+        "end": 1373.53,
+        "text": "Kaj pa, Ana, ti?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1373.875,
+        "end": 1378.079,
+        "text": "Seveda na obdru, pa v kakšnem muziklu, to sigurno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1378.659,
+        "end": 1385.945,
+        "text": "Pa tudi rada bi imela svojo solo kariero, seveda pa nikoli ne bom zapostavljala svoje družine, seveda ne brata."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1386.285,
+        "end": 1388.067,
+        "text": "Ti prepevaš tudi v enem bandu zdaj?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1388.877,
+        "end": 1392.158,
+        "text": "Ja, sem članica benda The Woodlanders."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1392.699,
+        "end": 1394.619,
+        "text": "Smo še bistvo na začetku poti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1394.699,
+        "end": 1396.04,
+        "text": "Bomo pa posneli CD."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1396.36,
+        "end": 1405.204,
+        "text": "Je pa to bolj jazz, pop varijanta, torej niso skladbe morda za vsakega poslušalca."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1405.604,
+        "end": 1411.426,
+        "text": "Tisti, ki pa zna prisluhniti takšne melodije, ampak ga vsekakor napolnijo z nekim pozitivizmom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1411.466,
+        "end": 1417.329,
+        "text": "Jaz predlagam, da zdaj na koncu nam zapoješ nekaj, kar pa bo za vsaka ušesa."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1417.489,
+        "end": 1418.189,
+        "text": "Neki čisto mali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1419.252,
+        "end": 1422.596,
+        "text": "Skladba, ki je vedno slišana ob nedeljeh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1423.037,
+        "end": 1424.438,
+        "text": "Vedno ob nedeljskem kosilu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1425.023,
+        "end": 1427.608,
+        "text": "Vedno zje prepevamo v nedeljskem kusilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1427.688,
+        "end": 1428.229,
+        "text": "No, še za nas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1428.309,
+        "end": 1428.991,
+        "text": "Čisto malo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1429.532,
+        "end": 1430.654,
+        "text": "Ker bo k malo kusilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1430.754,
+        "end": 1431.335,
+        "text": "Nedelja je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1431.355,
+        "end": 1431.616,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1433.54,
+        "end": 1434.381,
+        "text": "Tudi boš pomagal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1434.642,
+        "end": 1436.405,
+        "text": "Jaz se bom podprl z mokom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1436.886,
+        "end": 1439.351,
+        "text": "Brat in sestra, rojena sva, eden z drugim povezana."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1439.371,
+        "end": 1441.976,
+        "text": "Ti in jaz kot prijatelja, v življenju nerazdružena."
+      }
+    ],
+    "runtime_sec": 467.66507720947266
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.07427359086688735,
+      "miss": 0.03924074315952044,
+      "fa": 0.014952855332413034,
+      "confusion": 0.02007999237495387,
+      "total_duration": 1416.384999999985
+    },
+    "der_collar0.25": {
+      "der": 0.06111839247896618,
+      "miss": 0.027230692951336972,
+      "fa": 0.015319570907497608,
+      "confusion": 0.018568128620131595,
+      "total_duration": 1300.8849999999852
+    },
+    "wer": {
+      "wer": 0.1879964695498676,
+      "ref_words": 3399,
+      "hyp_words": 3268
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_03",
+        "start": 0.79,
+        "end": 5.077,
+        "text": "Redke so družine, kjer se piše o uspehu obeh otrok."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 5.684,
+        "end": 27.655,
+        "text": "Fermetova iz Mestinja sodi mednje, Tadej Ferme, branilec pri košarkarskem klubu Rogaška in Ana Ferme izjemen vokal pevka z bogato pevsko kilometrino kljub svoji mladosti, med drugim najmlajša na odru muzikala Cvetje v jeseni, Sta brat inestra, in moja gosta pozdravljena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 27.014,
+        "end": 27.385,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 28.297,
+        "end": 33.038,
+        "text": "Zamenjajmo vlogo v začetku, je kakšna povezava med Ano in košarko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 34.372,
+        "end": 44.007,
+        "text": "Ja, bistvu je, jaz sem devet let igrala košarko, torej še v osnovni šoli, potem sem se nekako smirila bolj intenzivno v petje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 44.125,
+        "end": 45.982,
+        "text": "Kaj pa, tadej in petje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 46.336,
+        "end": 54.115,
+        "text": "Pojem konstantno, ampak raje bolj privatno, ker dvomim, da bi kdo želel slišati moji glas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 54.419,
+        "end": 55.178,
+        "text": "Voljo imaš."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 55.178,
+        "end": 56.393,
+        "text": "Voljo pa mame."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 56.579,
+        "end": 66.08,
+        "text": "Ana se je z glasbo začela spogledovati že v osnovni šoli, kot četrtosolka Sjana bila udeleženka prireditve, ko rajža velja, spomnimo se."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 66.08,
+        "end": 69.455,
+        "text": "Prireditelj je potekala torej sklopu šole."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 70.028,
+        "end": 86.077,
+        "text": "In sem takrat zmagala, bistvo smo razredi tekmovali med sabo, na potem pa je ta zmaga prineslo še nastopanje na regijskem tekmovanju in potem še državno v glavnem. Vključila sem se v studio Hak, kjer me je poučeval bogohvara."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 86.077,
+        "end": 88.422,
+        "text": "Se spomniš, kaj si pela takrat, katero pesem?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 88.422,
+        "end": 91.358,
+        "text": "Nisli vedo metul od Sašel Andero."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 91.358,
+        "end": 93.485,
+        "text": "S polastnimi zboru?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 93.485,
+        "end": 93.552,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 93.552,
+        "end": 93.569,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 93.569,
+        "end": 93.974,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 93.974,
+        "end": 93.991,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 93.991,
+        "end": 94.092,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 94.092,
+        "end": 94.109,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 94.109,
+        "end": 94.126,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 94.126,
+        "end": 94.16,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 94.16,
+        "end": 94.177,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 94.177,
+        "end": 102.023,
+        "text": "To je bilo tako, prišli so na šolo, dobili seznam vaših želja in potem ste malo ovadili in že začeli tekmovati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 102.023,
+        "end": 115.068,
+        "text": "Tako, čisto preprosto bistvo na učilju so te kako prijeti mikrofon, kako ga držati in potem se imel neko svojo koreografijo, na primer, je sem imela štiri plesalke in je bilo to to."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 115.912,
+        "end": 125.986,
+        "text": "Omenila si studio H, ki ji je pripravljal to, prireditev to tekmovanje Strbovelj je ta studio H ampak je ostala potem povezava še tudi naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 122.645,
+        "end": 122.965,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 126.458,
+        "end": 147.755,
+        "text": "Je sem sodelovala s Studiem H in potem naprej z Marjanom Hvalo, še do svojega drugega letnika gimnazije, nazadnje sem bila z njimi na tekmovanju Evropop v Budimpešti, potem pa sem počasi prešla k moj zdajšnji mentorici Marti Zore, ki pa je v Kranju."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 147.94,
+        "end": 152.075,
+        "text": "To je bilo v Trbovljah in tja so te starše vozili, tako pogosto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 151.028,
+        "end": 161.288,
+        "text": "Kako pogosto?Nekako smo imeli vaju vsako soboto popoldne pokosilovne gesva s zadnjem in mamino, spravila v avto in šla od trobovlje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 161.457,
+        "end": 165.727,
+        "text": "Ana pa ni le pevka, odlična je tudi za klavirjem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 167.228,
+        "end": 174.215,
+        "text": "Ana, prej sem omenila tvoje igranje klavirja, končala si šest letnikov nižje glasbene šole."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 174.434,
+        "end": 184.711,
+        "text": "To so bila lepa leta, poučevala me je gospa profesorica Bibijana Horvat, na katero imam zelo lepe spomine in smo še danes v stiku."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 185.858,
+        "end": 191.191,
+        "text": "In ob učenju, ob petju ti ni bilo težko potem ševaditi klavir."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 191.326,
+        "end": 193.942,
+        "text": "Ne, tudi v glasbe, da sem rada počela."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 194.144,
+        "end": 205.012,
+        "text": "Po osnovni šoli pa si se odpravila v gimnazijo Rogaška in tam srečala Borisa Pokor na Štajerskih sedem, je kaj vplival na tvojo nadaljnjo pot."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 205.282,
+        "end": 216.723,
+        "text": "Dal mi je predvsem zagon za naprej motivacijo, oni bi v moji profesor kemije in videla sem, da če bom kdaj imela težave s kemijo, se lahko vedno obrnem nanj, prav tako pa tudi v glasbi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 217.111,
+        "end": 228.569,
+        "text": "Na šoli ste se lotili muzikala mama mija, legendarne skupine Aba, kjer si igrala uporniško mamo Dono, glavno vlogo si imela, to je bila igra, petje pa še Angliješčina."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 228.569,
+        "end": 230.189,
+        "text": "To je bilo nekaj, kar sem si."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 230.763,
+        "end": 234.796,
+        "text": "Želela že od malega, muzikli so moja strast."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 235.302,
+        "end": 244.904,
+        "text": "Ljubezen in o tem sem se res našla, in mama Mija šolski mizikal, ki se zdi mogoče tako nedolženje, je bil dobro odskočna deska za naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 245.039,
+        "end": 251.03,
+        "text": "En dobre prijateljske vezi, velika ekipa, kako ste to zmogli res enkratno?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 251.215,
+        "end": 264.614,
+        "text": "Zmogli smo skupno željo po uspehu, z neko sliko, ki smo jo želeli uresničiti, imeli smo cilje, dobro začrtane, imali smo dobre mentorici in predvsem veliko poguma."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 265.171,
+        "end": 266.352,
+        "text": "In želje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 266.926,
+        "end": 268.765,
+        "text": "In potem tudi kar nekaj nastopov, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 268.816,
+        "end": 274.553,
+        "text": "Ja, tudi to, mogoče nismo celo tega pričakovali, zato je bila to še dodatna nagrada za nas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 274.705,
+        "end": 283.16,
+        "text": "Omenila si že prej izpolnjevanje solo petja zdaj pri Marti zore, gre za tehniko petje, kako to poteka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 283.953,
+        "end": 304.608,
+        "text": "Najprej je ogrevanje, opevanje. Marta me je naučila marsikje novega predvsem torej pri opebanju, to so različne vaje tudi diktijske vaje, potem pa sledi na primer kakšno skladbo in potem vadimo po skladbi, analizirava me posname, da vidim kaj narobe in tako to poteka."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 304.793,
+        "end": 306.177,
+        "text": "Ste že kaj posneli skupaj?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 307.072,
+        "end": 312.235,
+        "text": "Skupaj kot duet, ne, pa še ne, so pa že sodelovali v studio."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 314.159,
+        "end": 320.251,
+        "text": "To je torej Ana Frme, ob njej pa danes v studiu njen brat Tadej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 320.808,
+        "end": 325.972,
+        "text": "Ki je začel trenirati košarko pri šestih letih, kako je to zgledalo tadej?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 326.613,
+        "end": 346.508,
+        "text": "To je zgledalo tako, da sem bistvo sam imel bolj željo po treniranju nogometa, vendar ker je mami to bil pregrop šport, se je odločila, da me po basu v avto in odpelje na trening košarkarsko šolo Milana Basta Šiče in tam se je vse skupaj začelo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 346.677,
+        "end": 350.896,
+        "text": "V osnovni šoli pa je bil tvoj veliki motivator Boris Emeršič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 350.896,
+        "end": 373.272,
+        "text": "To so bila zlo lepa leta, bori so bom večno hvaležen za vse, kar je storil za mene, ne samo tekrat tudi zdaj, če rabim kak nasvet ali karkoli mi je na voljo. Košarkarsko smo dosegali lepe rezultate osvojili skoraj vse. Tukaj sem se dejansko zaljubil košarko, da sem se še naprej ukvarjal z njo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 373.711,
+        "end": 378.588,
+        "text": "In to na tak način, da ni samo napor trening, ampak tudi radost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 378.824,
+        "end": 380.174,
+        "text": "Ja, je radost, ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 379.904,
+        "end": 381.018,
+        "text": "To je znal Boris."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 381.018,
+        "end": 383.802,
+        "text": "To je znam pogost.Oziroma zna!To zna, tako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 381.625,
+        "end": 382.216,
+        "text": "Poziroma znamenjamo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 384.089,
+        "end": 389.945,
+        "text": "V osnovni šoli pa si tudi smučal, ampak ne v tekmovalnem smislu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 390.147,
+        "end": 413.114,
+        "text": "Zanimalj so me različni športi, tudi Boris je bil ene izmed tistih, ki je zagovornik, da če hočeš biti uspešen športnik na bilo katerem športu, moraš nekako probavati razlišane športe in če si vseh uspeše, bo to sigurno doprineslo, da boš boljši tudi v tistem športu katerega si želiš trenirati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 414.025,
+        "end": 420.404,
+        "text": "In potem je privladala seveda košarka, ki si jo nadaljeval, potem tudi na prvi gimnaziji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 420.522,
+        "end": 451.133,
+        "text": "Takrat sem iz košarkarskega kluba Lipnik Šmarje prestopil s pomočjo Damjana Novakovića v košalkarski klub Šentjur, kjer sem treniral celo srednjo šolo in tudi še naprej, ko sem se že opisal na Fakulteto za šport.Tudi na prvih gimnazij smo imeli lepe uspehe in tudi tam je trener Boštjan Kuhar, ki je osebni trener Bena Udriha in mnogih drugih slovenskih reprezentantov, kar je tudi zelo pomagalo moji igri."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 451.623,
+        "end": 456.584,
+        "text": "Ja, in na prvi gimnaziji so te nagradili za te, tvoje športne dosežke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 456.601,
+        "end": 465.73,
+        "text": "V zadnjem letniku sem dobil nagrado za najboljšega športnika šole, kar mi je morda se ne sliši kot ne vem kakšna nagrada, vendar osebno ima velik pomen."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 465.882,
+        "end": 470.793,
+        "text": "Rojen športnik je tadej ferme, lahko sklepamo iz slišanega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 473.594,
+        "end": 482.588,
+        "text": "Tedaj Fermej je z mano studi v obsestri Ani, tedaj z izbiro fakultete si svojo športno pot povezal potem še spoklicno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 483.061,
+        "end": 488.225,
+        "text": "Tako je, vpisu so se na fakulteto za šport in sicer smer športnega treniranja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 488.461,
+        "end": 492.308,
+        "text": "Pa si še trener ekipa še k le osnovne šole Šmarje pri Elšah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 492.342,
+        "end": 500.847,
+        "text": "Ne, trenutno ne, bil sem samo eno sezono in to je bila tista, v kateri smo osvojili naslov prvaka šolske košarkarske lige."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 500.948,
+        "end": 503.024,
+        "text": "Torej prvi v Sloveniji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 503.024,
+        "end": 503.8,
+        "text": "Tako je."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 503.8,
+        "end": 504.037,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 504.037,
+        "end": 505.876,
+        "text": "Pod mojim vodstvom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 506.382,
+        "end": 509.032,
+        "text": "Kljub nedosti si igral že v večjih klub."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 509.032,
+        "end": 509.099,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 509.099,
+        "end": 509.116,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 509.116,
+        "end": 509.133,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 509.656,
+        "end": 522.683,
+        "text": "Začel sem v Šmarju, kot sem že omenil, šel šentjur, nato pa iz Šentjuria v Laško in v isti sezoni še iz Laškega v Maribor, trenutno pa igramo v košarkarskem klubu Rogaška."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 523.072,
+        "end": 525.805,
+        "text": "Bil si tudi član vseh selekcij reprezentance."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 525.805,
+        "end": 530.328,
+        "text": "To je kadetska reprezentanca do šestnajst let, mladinska do osemnajstlet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 530.851,
+        "end": 535.103,
+        "text": "Je pa bil sem tudi kapetan reprezentance mlajših članov do dvajset let."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 535.137,
+        "end": 536.183,
+        "text": "Kaj to pomeni?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 536.183,
+        "end": 550.645,
+        "text": "Ta vloga pomeni nekodoločeno odgovornost, na katero se zanašajo tvoji soigralci, torej da v težkih trenutkih potegneš voz, ko to morda ni najlažje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 550.882,
+        "end": 557.26,
+        "text": "Pri Fermetovih so tudi ljubitelji motorjev, vsi razen Tadeja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 558.121,
+        "end": 568.077,
+        "text": "Ja, tedaj je imel žal ne ljuboj skupnjo z motorjem, jaz pa sem zelo zagreta za jeklenega konjička, ki ga tudi imam, prav tako mami in ati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 568.583,
+        "end": 574.102,
+        "text": "In komaj čakaš poletja?Komaj čakam, je že danes bi šla na motor, če bi bilo to možno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 577.882,
+        "end": 577.898,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 577.898,
+        "end": 589.492,
+        "text": "Če je tedaj povezal šport kot hobi, tudi poklicno je pri sestri Ani drug gače. Ustavi vas se Ana še pri tvojem študiju, ki pa res ni nič povezan z glasbo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 590.099,
+        "end": 602.367,
+        "text": "Ja, mogoče se z dideni povezam z glasbo, ampak sem ravno od kolegice Majes Latinšek slišala za primer fizioterapevta za glasilke, kar bo mogoše moja bodoča pot."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 602.789,
+        "end": 604.713,
+        "text": "To je potem kakšna specializacija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 604.763,
+        "end": 606.755,
+        "text": "Tako, to so specializacije potem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 606.755,
+        "end": 609.37,
+        "text": "Zdaj pa študiraš fizioterapijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 609.083,
+        "end": 610.619,
+        "text": "Kizioterapijo v Mariboru."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 610.889,
+        "end": 613.049,
+        "text": "Napor na usklevanje vsega skupaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 613.538,
+        "end": 620.727,
+        "text": "Jaz zelo naporno, k sreči imamo iz študij možnost opravljanja izpitov redno torej na primer."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 621.318,
+        "end": 641.163,
+        "text": "Ne samo izpitev v juniju ali januarju, ampak tudi lahko v marcu, aprilu, kakor si pač tudi sam določiš, vendar če ne bi jo obiskovala takšnega faksa, potem mislim, da ne bi mogla usklajevati stvari, torej musical o Ljubljani, petje, o Kranju, pa še potem drugi nastopi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 642.158,
+        "end": 656.435,
+        "text": "Po glasbi si seveda najbolj prepoznavna k cveti v jeseni se še vrneva, omeniva zdaj fenst, to je festival Novi skladb, ki poteka vsako poletje v slovenskih obalnih mestih, nekoč je bil del melodij morja in sonca."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 657.127,
+        "end": 664.737,
+        "text": "Tri kategorije otroški najstniški nova scena ti si že kar pri otroškem začela, ne spomniva se leta dva osem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 664.94,
+        "end": 675.588,
+        "text": "Ja, takrat sem nastopila skladbo od Išeča polja, osvojila sem tretje mesto in to je res nekaj kar nikoli ne boš pozabil, prvič sem stala na tako velika modru."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 675.824,
+        "end": 677.512,
+        "text": "Dve leti pozneje, ponovno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 678.17,
+        "end": 685.713,
+        "text": "Ja, takrat sem bila v duetu z rokom hvalo osvojila sva drugo mesto skladbo When I First Saw You."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 685.915,
+        "end": 688.126,
+        "text": "Že v višji kategoriji, ne najstniški."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 688.092,
+        "end": 688.43,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 688.818,
+        "end": 692.497,
+        "text": "Lani pa melodije morje in sonca v portoroškem avditoriju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 692.834,
+        "end": 717.117,
+        "text": "Še teden prej nisem pričakovala, da se zna zgoditi, bilo pa tako, da je Tomi Purić, ki je vodja Ninjenega benda Bobnar v našemu miziklu že reden gozd na teh melodijah morajo in sonca, en si je zaželel ženskega vokala, nekaj me je vprašal, če bi bila pripravljena sodelovati in imela sem celih pet dni, da se pripravem na vse skladbe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 717.337,
+        "end": 721.42,
+        "text": "Nekje sem prebrala tedej, da je bila pri tem tudi tvoja močna podpora."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 722.011,
+        "end": 730.297,
+        "text": "Anin MMS je meni omogočil iz leto Portorož, preljal sem jo na melodijamor in sonca."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 730.465,
+        "end": 730.482,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 730.482,
+        "end": 730.972,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 730.972,
+        "end": 731.039,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 731.039,
+        "end": 731.495,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 731.495,
+        "end": 731.68,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 731.68,
+        "end": 732.912,
+        "text": "In stiska figaje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 733.148,
+        "end": 734.988,
+        "text": "Pa potem še prišel na nastop."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 735.089,
+        "end": 738.92,
+        "text": "Tudi, tadej nam predstavi svoje uspehe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 741.232,
+        "end": 754.208,
+        "text": "Tudi športniki seveda merite svoje uspehe in sodelovanje na večjih tekmovanjih, tadej Ferme je z medinsko reprezentanco Slovenije sodeloval med drugim tudi na evropskem prvenstvu divizije Avkošarki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 754.31,
+        "end": 765.008,
+        "text": "Ja, ob isto smo bili v vseh kategorijah o diviziji A, to je najmočnejša divizija v Evropi, žal nismo dosegli kakšne vidnejše uvrstitve, ampak..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 765.515,
+        "end": 766.578,
+        "text": "Vseeno je bilo lepo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 766.679,
+        "end": 767.877,
+        "text": "In nova izkušnja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 767.962,
+        "end": 790.237,
+        "text": "Nova izkušnja veliko smo odnesli od tega, trdo smo trenirali, to traja čez poletje tako da nima škaj dosti, počitnicam pa k se splača.Če omenim samo nekatere imena kot so Valančunas, Enes Kanter in podobna sedaj že kar uveljavljena imena v svetovni košarki, potem je velika čas, da si že del tega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 790.557,
+        "end": 794.962,
+        "text": "Nogotovo pa ogromno šteje uspeh lanske sezone."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 795.653,
+        "end": 818.401,
+        "text": "Lanska sezona je bila pa res nekaj neverjetnega, in to iz več strani igrala ekipa, ki smo se že večinoma odprej poznali, torej ki smo igrali skupaj že v Šentjurji v prejšnjih sezonah in smo imeli bratski odnos, kar se tudi prenesel na igrišče.Vzdušje na zadnjih tekmah je bilo ob Šentirskem Hruševcu, pravi Pekev..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 818.958,
+        "end": 822.873,
+        "text": "V Rogaški pa te kar nesla tista evforija."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 823.278,
+        "end": 826.923,
+        "text": "Kaj pa nominacija za športnika leta občina Rogaška Slatina?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 827.193,
+        "end": 838.6,
+        "text": "To je pa samo še Češnjana, Tart in klanski sezoni, res na tem mestu bi se zahvalil v Zvezi Športniku Rogaške za to nominacijo, bralci lahko glasovete."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 839.073,
+        "end": 845.688,
+        "text": "Tudi Ana ima izkušnje s festivalov v tujini Črna gora, na primer ta je posebej v lepem spominu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 845.89,
+        "end": 871.507,
+        "text": "Ta je bil moj prvi v drugi državi, torej v Črnigori kraje Rožaje, osvojila sem šestno mesto od šestintridesetih mladih nastopajočih, kar ne šteen kot slab uspeh, ampak bistvu zelo dober, saj sem se prvi srečala s kamerami, z odrskimi lučmi, pa tisto da moraš biti urejen, da je nekaj posebnega, vse je bilo novo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 872.182,
+        "end": 874.409,
+        "text": "Izjemna, tudi uvrstitev v budimpešti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 875.0,
+        "end": 879.37,
+        "text": "Budinpešti pa sem zasedela peto mesto, skladbo spomin."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 880.315,
+        "end": 889.63,
+        "text": "Torej uspehi, ki veliko štejejo tudi v tujini, kot smo slišali, domači X faktor pa je imel drugačne filtre."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 890.137,
+        "end": 903.198,
+        "text": "Ja, to pa bi bil moj druge letnik X faktor, seveda sem se tega želela udeležiti, ampak po takratni izkušnji bom še dobro premislila ali bom se še kdaj spravila v ta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 903.991,
+        "end": 939.412,
+        "text": "Levji Berlog.Ja, seveda sem se prijavila, bila sprejeta opravila prvo avdice v Celju, sledila je Ljubljana, nastop pred Žirijo, tam sem trikrat dobila da, torej greš v naslednji krog, potem pa sledi Budkem, kjer pa smo bili zbrani vsi tisti, ki smo v prejšnjih krogih že dobili tri da ali dva da, na kartan vidiš, da so stvari malo drugačne, kot si se jih mogoče predstavljal, malo že poznanstva, tvoj kilometri, koliko si pripravljen žrtvovat morda tudi sebe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 940.07,
+        "end": 961.94,
+        "text": "Si se pripravljen popolnoma spremeniti ali ne, je sem bila takrat kar malo nezanimiva za njih, ker sem bela navadna najstnica, ki ne želi preveč izstopati, ampak pa če samo pokazati tisto, kar zna. Od začetka sem bala seveda zelo razočarana in ker se nisem tega predstavljala, mogoče sem se malo preslobo pripravila na neuspeh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 962.632,
+        "end": 966.918,
+        "text": "Ampak zdaj pa vidim, da lahko to štejem kot dobro izkušnjo za naprej."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 969.938,
+        "end": 1002.17,
+        "text": "Z mano v studiu sta brat in sestra Ferme, Ana nadarjena in uspešna mlada pevka in tadej uspežen košarkar, vsak na svojem področju žanjeta uspehe in zaslužene aplavze. Ana prepevati ob živi spremljavi je najbrž za vsakega pevca svoj vrstenčar, tisočlanica Big Ben Dašmarje pri Jelšah pod vodstvom Kaje Bičkaj in si imela z njimi že leta dva trinajst samostojni koncert z nasmehom v očehu poletno noč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1002.338,
+        "end": 1014.944,
+        "text": "Ja, tako je takrat sem se tudi priključila potem kot stalna članica Big Band v Šmarrih pri Enšah. Koncert je potekal od dvaindvajsetega junija dva tisoč trinajst in je bil pravi zalogaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1015.045,
+        "end": 1019.247,
+        "text": "Večkrat si nastopila, preoblačila si se."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1018.893,
+        "end": 1038.08,
+        "text": "Je, ja seveda koncert sredo ni smel biti samo v eni obleki, imela sem namreč dva sklopa.Na začetku smo se dotaknili predvsem zimzeleni skladb, ki so meni še posebej pri srcu, potem v drugem sklopu sem pa imela bolj živahne, zabavne tudi kakšna iz osemdesetih let se je našla."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1038.181,
+        "end": 1043.142,
+        "text": "Ni pa bil to edini samostojni nastop z Big Bandom, ne? Naslednje leto je bilo ponovno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1043.159,
+        "end": 1056.001,
+        "text": "Ja, tako je sedemnajstega januarja dva štirinajst, je bil ponovno koncert v spomljavi Big Benda in takrat smo celoten izkupiček namenili Šolskemu centru Rogaška Slatina, torej moje gimnaziji."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1056.085,
+        "end": 1060.895,
+        "text": "Tadej, kako se Ana pripravlja doma, kdaj vprašajo za kakšno mnenje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1061.384,
+        "end": 1068.37,
+        "text": "Ne, za mnenje me ne sprašuje, pripravljajo se pa tako, da si je zaklepal v sobo in da res ne morem priti do nje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1068.556,
+        "end": 1074.31,
+        "text": "Kaj pa potem pri pstilski podobi te vprašati, a je to v redu ali ni?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1074.31,
+        "end": 1078.158,
+        "text": "Tam pa me je vprašal za mnenje, tako ko tudi jasnijo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1078.158,
+        "end": 1079.525,
+        "text": "Do slediš njenim nastopom?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1079.997,
+        "end": 1081.027,
+        "text": "Sledim, vsakakor."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1081.347,
+        "end": 1086.629,
+        "text": "Če Ana Ferme spremlja svojega brata Tadeja na tekmah, pa nam bo zaupala po skladbi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1089.633,
+        "end": 1095.623,
+        "text": "Tedaj je torej nadarjen in uspešen košarkar, smo slišali, Ana, ga spremljaš na tekmah?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1096.163,
+        "end": 1097.868,
+        "text": "Vedno, vedno kole lahko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1098.847,
+        "end": 1105.158,
+        "text": "Igral si v mnogih klubih, kot smo slišali, kje so razlogi, da si podaljša upogodbo z Rogaško še za eno leto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1105.883,
+        "end": 1119.772,
+        "text": "En razlog je sigurno, kako dobro sezono smo imeli in tudi, kakšni so cilji za naprej, nekaj pa tudi kako je klub urejen, ker je vse tako kot morebit kar v današnjih časih ni tak kar tako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1120.683,
+        "end": 1122.657,
+        "text": "Se spogleduješ kaj stojina v željah?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1123.147,
+        "end": 1132.225,
+        "text": "Ja, se, bistvo sem tudi pred lansko sezono imel nekaj možnostje, ampak se žal na koncu ni izšlo, je pa želja, sigurno, prisotna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1132.445,
+        "end": 1134.166,
+        "text": "Kako poteka dan pred tekmo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1134.335,
+        "end": 1155.547,
+        "text": "Potrebujem predvsem svoj mir, da se umaknem, ponavadi igrem s svojem psovom luno na sprehod, gre malo gozd, imam tudi rutino glede ob roka, ponevadi mi najbolj pašajo testinine izpod mamine roke. Potem pa gre malopučivati in kot bi trenil, je že čas za tekmo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1156.39,
+        "end": 1172.152,
+        "text": "Ana že nekaj časa je posebno doživetje vloga v cveti v jeseni, pa nastopil križankah in gostovanja po Sloveniji, ušmarju nekakaj ponovitev.Gotovo se mnogi sprašujejo, kako ti je uspelo priti v ekipo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1172.236,
+        "end": 1234.69,
+        "text": "To je pa zopet splet okoliščin, torej moja mentorica Marta Zore, je prejela povabilo, če pozna kakšnega svojega učence, ki se zanima za te stvari, naj pride na audicijo, naj se pride preizkusit. In jo seveda meni tako to namelj preposlala in to je bil čas mature, tako da jaz sem zelo oklevala, če bi sploh šla, ker vem, da, čev bi šlo kaj narobe na maturi torej pri angleščini, takrat se pisala angleška, bi se tepla poglavi, čez tisto popoldne si šla v Ljubljano namesto, da bi se doma očilaila, no ampak temu sreči ni bilo tako, saj je se dobro šlo in ne morem verjet, bila sem kar naenkrat v muziku Cvetjev jeseni, bistvu sem opravila samo ena odicijo, bile so pa tri, so me nekako že na začetku sprejeli, so me dali vedeti, da me želijo meti za članico in tako je pač to šlo, jaz sem imela maturo, drugi so še opravljali odicije, nekajkrat smo se skupaj dobili, da smo še videli, ali bo to funkcioniralo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1234.893,
+        "end": 1242.571,
+        "text": "Zdaj, veliki odri po vsej Sloveniji, vsakič dvorana na koncu ustane, to mora biti poseben čar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1242.824,
+        "end": 1249.793,
+        "text": "To je nekaj, kar se z besedami ne dal pisan, ker ni bilo samo enkrat, ko sem iz odra odšla s solznimi očmi."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1252.139,
+        "end": 1261.066,
+        "text": "Ana in Tadej, ferme, nič še nismo rekli v vajini družini, ljubeča je močnosti povezani spominjena otroštvo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1261.268,
+        "end": 1277.62,
+        "text": "Ničesar ne bi spremenil, mesti naj le polmirno bi rekli in sploh zdaj recimo ko je tak čas januar, se z veseljem spolnim kako je bilo včasih vse belo in smo praktično ves dan preživeli zunaj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1266.196,
+        "end": 1267.023,
+        "text": "V direktvi in vzponjali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1277.789,
+        "end": 1286.378,
+        "text": "Pa sneža, ki pa je zila sem starejšega brata, seveda on mene malo maj in mogočal pa se tega tako nasponim."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1286.547,
+        "end": 1290.04,
+        "text": "Si igral vlogo velikega brata, pokroviteljsko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1290.057,
+        "end": 1296.655,
+        "text": "Verjetno nikoli nisem iskreno priznamen, pa mislim, da pot zavestno, če ne drugače sem jau."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1296.824,
+        "end": 1331.62,
+        "text": "Tadej je imel zelo veliko vlogo o mojem odraščanju. Nikoli ne bom pozabila, ko sem šla v srednjo šolo, me je nekako dvignil z besedami, pazi kaj delež ni več to osnovna šola, vse bo drugače, potem je kdaj prišel pome po pouku na primer te meni ogromno pomenlo predmaturo slovenščine je prišel mojo sobo s spominom, torej tista igra spomin in rekel pridi sem zdaj se pošmalo mirila pa greva odigrat spomin, in to bo meni vedno ostalo v spominu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1331.722,
+        "end": 1343.18,
+        "text": "Jaz bi pa tuša sam dodal, da kar se pa Anetiče pa je mlajše sestre, ampak velikrat je v trebu prizna, da je tudi ona odigrala vlogo starejše Sestre."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1343.382,
+        "end": 1345.087,
+        "text": "Še vedno, živita v mestinju?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1346.015,
+        "end": 1349.474,
+        "text": "Ja, še vedno, mama so ve drug poleg drugega."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1346.183,
+        "end": 1346.234,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1346.234,
+        "end": 1346.302,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1350.014,
+        "end": 1355.279,
+        "text": "Ne more v eni brez drugega, pa če to dejstvo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1355.279,
+        "end": 1355.313,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1355.92,
+        "end": 1362.839,
+        "text": "Ker čez deset let pa upam, da ne bomo več sobe poleg njene, ampak da bomo imele že vsak svojo družino in..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1359.076,
+        "end": 1359.363,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1363.43,
+        "end": 1367.767,
+        "text": "Nepredstavljam si, da se naj bi več družila in redno videvala."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1367.632,
+        "end": 1370.737,
+        "text": "Ti pa boš povezan še naprej s košarko, se tako vidiš."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1370.888,
+        "end": 1372.441,
+        "text": "Saj, saj vidimo tem, ja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1372.61,
+        "end": 1373.622,
+        "text": "Kaj pa Anati?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1373.875,
+        "end": 1375.192,
+        "text": "Ne seveda na obdru."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1375.715,
+        "end": 1386.008,
+        "text": "Pa v kakšnem muziklu, to sigurno, pa tudi rada bi imela svojo solo kariero, seveda pa nikoli ne bom zapostalala svoje družine, se vedno ne brata."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1386.245,
+        "end": 1388.135,
+        "text": "Ti prepevaš tudi v enem bendu zdaj?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1388.86,
+        "end": 1411.574,
+        "text": "Ja, sem članica benda Deutländerz, smo še bistvo na začetku poti, bomo pa posneli cede, je pa to bolj džespop varianta, torej niso skladbe morda za vsakega poslušalca, tisti ki pa zna prisluhniti takšni melodijam, pa ga vsekakor napolnijo z nekim pozitivizmom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1411.692,
+        "end": 1418.189,
+        "text": "Je spredlagam, da zdaj na konecu nam zapoješ nekaj, kar pa bo za vsaka ušesa, neki čisto mali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1419.235,
+        "end": 1422.661,
+        "text": "Skladba, ki je vedno slišana ob nedeljeh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1422.914,
+        "end": 1424.804,
+        "text": "Vedno ob nedeljskem kosilu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1424.804,
+        "end": 1424.821,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1424.821,
+        "end": 1424.838,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1424.99,
+        "end": 1429.36,
+        "text": "Vedno zje pripevamo v nedeljskem kasilu, čisto male."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1427.521,
+        "end": 1427.538,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1427.538,
+        "end": 1428.483,
+        "text": "No, še za nas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1429.478,
+        "end": 1431.368,
+        "text": "Ker bo kmalu kosilo, ne delje je."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1431.166,
+        "end": 1431.908,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1433.444,
+        "end": 1434.457,
+        "text": "Toda je boš pomagal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1434.457,
+        "end": 1436.161,
+        "text": "Je se bom podprl z molkom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1436.718,
+        "end": 1451.973,
+        "text": "Brat in sestra rojena sva, eden z drugim povezana ti in jaz kot prijatelja v življenju nerazdružena."
+      }
+    ],
+    "runtime_sec": 193.77745580673218
+  }
+}

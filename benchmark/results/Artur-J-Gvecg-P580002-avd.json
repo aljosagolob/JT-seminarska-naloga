@@ -1,0 +1,1486 @@
+{
+  "file_id": "Artur-J-Gvecg-P580002-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P580002-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.04281163756981505,
+      "miss": 0.03867855403501998,
+      "fa": 4.095057996257665e-05,
+      "confusion": 0.004092132954832497,
+      "total_duration": 1367.5019999999922
+    },
+    "der_collar0.25": {
+      "der": 0.02979926213108304,
+      "miss": 0.026961127318526287,
+      "fa": 0.0,
+      "confusion": 0.002838134812556753,
+      "total_duration": 1300.5019999999924
+    },
+    "wer": {
+      "wer": 0.13668373879641485,
+      "ref_words": 3124,
+      "hyp_words": 3025
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_02",
+        "start": 0.588,
+        "end": 1.529,
+        "text": "Lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2.049,
+        "end": 11.735,
+        "text": "Današnja gostja je magistrica Alenka Rumbak, direktorica območne službe Zavoda za zaposlovanje Celje, ki ima v razmirah, v kakršnih smo, veliko dela."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 12.236,
+        "end": 14.137,
+        "text": "Magistrica Alenka Rumbak, lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 14.297,
+        "end": 14.857,
+        "text": "Pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 15.037,
+        "end": 21.822,
+        "text": "Torej, kaj je prineslo leto korone na področju zaposlovanja, odpuščanja, pravzaprav na področju trga dela?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 22.475,
+        "end": 29.32,
+        "text": "Korona nas je vse skupaj, tudi Zavod za zaposlovanje, postavila posebno novo situacijo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 30.0,
+        "end": 33.422,
+        "text": "Delali smo v razmerjah, kakršnih še doslej nismo bili."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 34.103,
+        "end": 38.046,
+        "text": "Srečevali smo se s problemi, s katerimi se doslej še nismo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 38.706,
+        "end": 45.17,
+        "text": "Naenkrat dobesedno čez noč so nas preplavile nove prijave, številni brezposeljni,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 45.931,
+        "end": 73.308,
+        "text": "Cel kup problemov, stisk, iskanja dodatnih informacij, ampak bom rekla tako, kot vsi ostali smo bili prisiljeni se ostrezno organizirati, prilagoditi način svojega dela, poskrbeti za najnuljneše postopke in seveda za naše najrenljivejše stranke, se pravi za brezposelne osebe, pa tudi servisirati delodajalce s potrebnimi informacijami."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 73.808,
+        "end": 88.744,
+        "text": "Tako da korona nam je prinesla, bom rekla, bogate izkušnje, tako da v morebitnih, upam, da ne, skorajšnjih ponovitvah bomo zanesljivo temu pristopili še bolj organizirano in z večjim učinkom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 89.097,
+        "end": 96.246,
+        "text": "Kako pa ste videlovali v času karantene, v času tako imenovanega lockdowna oziroma izolacije?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 96.626,
+        "end": 103.014,
+        "text": "Bili ste prisotni, bili ste na voljo tudi za vse, ki so vas klicali po telefonu ali vam pisali?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 103.574,
+        "end": 105.617,
+        "text": "Kdo se je takrat obračal na vas predvsem?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 106.124,
+        "end": 116.91,
+        "text": "Zdaj Zavod za zaposlovanje deluje, ali pa ima rekla je deloval na principu teh osebnih stikov, se pravi, da po tej strani je bila tudi večja izpostavljenost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 117.69,
+        "end": 133.019,
+        "text": "Od začetka smo nekako postavili dežurno ekipo, večino sodelavcev, predvsem tistih izranljivih ciljnih skupin, se pravi starejših ali pa tistih, ki imajo kakšne zdravstvene omejitve, smo začasno razporedili na čakanje na delo na dom."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 133.259,
+        "end": 153.166,
+        "text": "Vendar smo že takoj v prvem tednu zapore, se pravi še pred isteko meseca marca, bili prisiljeni to ekipo povečevati, tako da smo, rekla, po 14 dneh delali v celotni sestavi razen tistih, ki so mlajše sodelavke, ki so koristili okrep varstva otrok na domu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 153.526,
+        "end": 161.067,
+        "text": "Ostali smo pa vsi bili na delovnem mestu, upravljali svoje delo, je pa res, da se je tudi to delo prilagodilo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 161.527,
+        "end": 176.51,
+        "text": "Zagotavljali smo te najnujne šestoritve, tako da tudi ni vsak upravljal dela, ki ga sicer upravljal v običajnih razmerah, ampak se pač prilagodiš, preučiš na hitro in se stvari začnejo odvijati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 176.57,
+        "end": 181.891,
+        "text": "Toliko za zdaj, krate glasbeni predah, potem pa sva z našo gostjo, magistrico Alinko Rumbak, nazaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 187.411,
+        "end": 192.572,
+        "text": "Magistrica Alenka Rumbak je z nami direktorica območne službe Zavoda za zaposlovanje celje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 193.032,
+        "end": 198.534,
+        "text": "Gospod Alenka Rumbak, kako se sicer v zadnjem obdobju zavodi za delo prilagajajo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 198.994,
+        "end": 204.055,
+        "text": "Vaše stranke so v veliko večjem odstotku kot včasih tudi mladi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 204.395,
+        "end": 206.635,
+        "text": "Mladi komunicirajo drugače."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 206.976,
+        "end": 212.637,
+        "text": "Dejansko ste že sicer zadnja leta prehajali na komuniciranje, na daljavo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 213.317,
+        "end": 217.398,
+        "text": "Na takšen način ste verjetno že predelovali oziroma greste v tej smeri?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 217.398,
+        "end": 218.138,
+        "text": "Tako je."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 218.258,
+        "end": 225.54,
+        "text": "To je tudi, rekla, zaveza v naši strategiji, v vseh projektih, v katerih sodelujemo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 226.04,
+        "end": 229.461,
+        "text": "Gremo v smer čim večje digitalizacije naših postopkov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 230.001,
+        "end": 246.725,
+        "text": "Se pravi, da lahko naše uporabniki do naših storitev dostopajo iz svojega naslanjača, preko računalnika, preko pametnega telefona, ampak sočasno se pa potrebno zavedati, da niso vsi naši uporabniki za to usposobljeni ali upremljeni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 247.165,
+        "end": 268.873,
+        "text": "Tudi tokratna kriza nam je dala na tem nivoju kar pošten podug, ker recimo to, da ima posameznik elektronski naslov in pametni telefon, še tudi napomeni, da sovereno ali pa funkcionalno pismeno opravlja komunikacijo preko spleta, tako da nas na tem področju čaka vse skupaj še nekaj dela."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 269.153,
+        "end": 289.525,
+        "text": "Tudi naši sodelavci, kako so morda v prejšnjih časih bile občasno kakšne pritožbe nad težavnostjo strank ali pa stresnimi situacijami, ki jih srečujejo pri osebnih stikih z strankami, smo sedaj nekako vsi skupaj ugotovili, da je to tako dobra izkušnja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 289.585,
+        "end": 298.53,
+        "text": "Mislim, da v osebnem stiku s človekom lahko veliko več dogovoriš, izveš v posamezniku, lahko se odzivaš, ne vem, na..."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 298.87,
+        "end": 312.838,
+        "text": "mimiko na govorico telesa in je rezultat bistveno kvalitetnejši, kot če se vsa ta komunikacija odvija preko spleta ali pa tudi preko telefona ali pa celo po pošti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 313.138,
+        "end": 323.544,
+        "text": "Rabimo, iščemo očesni stik nekoga na drugi strani, s katerim se lahko pogovarjamo, dejansko pogovarjamo in tudi funkcionalna elektronska pismenost še ni na tem nivoju."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 323.744,
+        "end": 326.145,
+        "text": "Da bi lahko rekli, da lahko vse rešimo tako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 326.205,
+        "end": 329.427,
+        "text": "Zdaj je treba vzeti obzir tudi strukturo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 329.527,
+        "end": 337.732,
+        "text": "Seveda so ti mladi, ki prihajajo, ali pa bom rekla izobraženi, mladi dobro računalniško pismeni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 337.792,
+        "end": 342.375,
+        "text": "Ampak pri nas je preko 40% starejših od 50 let."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 342.715,
+        "end": 347.158,
+        "text": "Še to prevledujejo tisti, ki so blizu 60 ali celo več."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 347.318,
+        "end": 355.306,
+        "text": "Potem imamo skoraj tretjino brezposelnih od vseh takšnih, ki so brez končane osnovne šole."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 355.626,
+        "end": 369.16,
+        "text": "Tudi pri mladih je žal ta procent blizu 20%, kar je škoda, sramota in zelo težko razumljivo v sedanih časih, da je tako velik delež mladih še vedno brez poklica do končane izobrazbe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 369.34,
+        "end": 375.163,
+        "text": "In to so vse ciljne skupine, kjer ta računalniška pismenost ni tako samo umevna."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 375.263,
+        "end": 382.367,
+        "text": "Je potrebno verjetno več vložka, tudi strani zavoda, predvsem pa strani posameznika, da pridobi pač ustrezne kompetence."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 383.167,
+        "end": 388.27,
+        "text": "Magistrica Alenka Rumpak je z nami direktorica območne službe Zavoda za zaposlovanje celje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 388.59,
+        "end": 390.851,
+        "text": "Sva nazaj, zdaj pa ena po vašem izboru."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 397.1,
+        "end": 398.721,
+        "text": "Ostanimo še malce pri mladih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 398.861,
+        "end": 402.764,
+        "text": "Vse več mladih je prijavljenih na Zavodu za zaposlovanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 403.325,
+        "end": 408.388,
+        "text": "Le redki se lahko zaposlijo direktno z fakultete oziroma iz srednje šole."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 408.769,
+        "end": 414.253,
+        "text": "Kako dolgo so povprečno pri vas in kakšne so zaposlitve, ki jih kasneje vendarle dobijo?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 414.565,
+        "end": 432.218,
+        "text": "Zdaj, ciljna skupina mladih je v vseh dokumentih tako Slovenije kot Evropske unije upredeljena kot renljiva ciljna skupina, prednostna ciljna skupina, kateri se tudi z konkretnimi ukrepi, subvenciji, usposabljanji, zobraževanj pomaga pri vstopu na trg dela."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 432.858,
+        "end": 436.28,
+        "text": "Zdaj same generacije se iz leta v leto manjšajo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 436.38,
+        "end": 439.142,
+        "text": "To je prvo tako demografsko dejstvo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 440.143,
+        "end": 444.306,
+        "text": "Po drugi strani so pa med mladimi tudi zelo velike razlike."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 444.386,
+        "end": 451.191,
+        "text": "Tisti, ki se odločajo za poklicno izobraževanje, ti praviloma niti ne prihajajo več v evidence brez posebnih"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 451.471,
+        "end": 462.859,
+        "text": "ampak jih delodajalci potegnejo v zaposlitev takoj po končani šoli, morda pridajo k nam za, ne vem, teden, dva in se potem k malo že odločajo za zaposlitev."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 463.959,
+        "end": 479.15,
+        "text": "Medtem ko pa tisti, ki nadaljujejo izobraževanje na kakšnih, bom rekla, bolj družboslovnih smereh, tisti pa imajo morda nekaj več težav potem ali pa dalj časa potrebno, da pridobijo ustrezno zaposlitev."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 479.77,
+        "end": 493.321,
+        "text": "Sama struktura mladih po izobrazbi prevledujejo tisti, ki imajo srednostrokovno izobrazbo, pa tisti, ki imajo osnovno šolo ali manj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 493.421,
+        "end": 495.963,
+        "text": "Ti samo z osnovno šolo, teh je žal celo največ."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 496.524,
+        "end": 501.127,
+        "text": "Medtem ko pa teh, ki imajo končano univerzitetno izobrazbo, je bistveno manj."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 501.228,
+        "end": 505.011,
+        "text": "Tako da je ta problem spet težko nekako posploševati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 505.471,
+        "end": 525.552,
+        "text": "Ampak če pogledamo, da je recimo poprečno čas trajanja brez poselnosti pri vseh naših brez poselnih 28 mesecev, pri starejših je 43 mesecev, je podatek, da so mladi v poprečju pri nas brez poselnih samo 10 mesecev, ni tako slab podatek, se predstavljam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 525.552,
+        "end": 534.936,
+        "text": "Pravi, mladi se bistveno hitreje zaposlujejo, kot se zaposluje povprečen brezposlen, kot se zaposluje tisti brez izobrazbe ali starejši."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 535.016,
+        "end": 543.839,
+        "text": "Se pravi, k malu dobijo priložnost na trgu dela, je pa res, da zavod niti nima podatkov o tem, na kakšnih delovnih mestih se zaposlujejo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 544.159,
+        "end": 546.62,
+        "text": "Veliko je tudi zaposlovanja za določen čas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 546.901,
+        "end": 555.124,
+        "text": "To smo zdaj le prav v tej krizi upazili, ker je bil izjemen priliv prav iz vrst teh, ki so imeli stek pogodb zaposlitvi za določen čas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 555.404,
+        "end": 568.671,
+        "text": "Se pravi, zaposlitve so manj varne, krajši čas trajajo in mladi pač, bom rekla, kolobarijo med zavodom, novo zaposlitvijo in ta gibanja so zelo hitre."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 568.731,
+        "end": 579.457,
+        "text": "Hitro prehajajo, hitro se zaposlujejo, tako da, bom rekla, je to problem, ampak mladi so nekako opremljeni bolje kot stareši, da se s tem spopadajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 579.738,
+        "end": 583.3,
+        "text": "Pa vendarle, kakšno sporočilo je to za mlade generacije?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 583.6,
+        "end": 591.323,
+        "text": "Težko si ustvarijo družino, težko si ustvarijo svoj dom, težko si vzamejo kredite za stanovanje, za avtomobil, za kar koli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 591.403,
+        "end": 592.464,
+        "text": "Vse to potrebujemo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 592.604,
+        "end": 598.927,
+        "text": "Vse to potrebujemo in največja škoda je, da nam tisti najkvalitetnejši kader vhaja v tujino."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 599.127,
+        "end": 614.992,
+        "text": "Gre za to, da mi izgubljamo ta delovni potencial, to vrednost posameznika, ki se potem oplaja v drugih državah, nam pa ostajajo recimo tisti, ki pač te priložnosti ne morejo izkoristiti ali pa je nimajo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 615.672,
+        "end": 620.854,
+        "text": "Zelenko Rumbak, direktorica območne službe Zavoda za zaposlovanje celje, svak malo nazaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 625.807,
+        "end": 638.274,
+        "text": "Gospod Alinka Rumbak, če se zdajle vrneva še malce na sam začetek koronakrize, katira podjetja, katere panoge so ali po vaših napovedih in trendih bodo najbolj prizadete?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 638.655,
+        "end": 643.157,
+        "text": "Največji priliv smo imeli v strani malih delodajalcev."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 643.358,
+        "end": 650.782,
+        "text": "Recimo srednje in velika podjetja so se v tem prvem obdobju večinoma odločala za podjetje,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 650.782,
+        "end": 656.784,
+        "text": "koriščene teh interventnih ukrepov, čakanje na delo in na domo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 657.284,
+        "end": 669.188,
+        "text": "Medtem, ko so mali delodajalci, ki so že morda predelovali na robo neke ekonomske zdržnosti, pač dejavnost zaprli, jo odjavili in delavce predstavili na zavod."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 669.468,
+        "end": 678.471,
+        "text": "Če pogledamo po sami strukturi, največ dejansko prihaja z področja gostinstva, turizma, poslovnih storitev."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 678.811,
+        "end": 680.512,
+        "text": "tudi manjši prevozniki."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 680.552,
+        "end": 688.478,
+        "text": "V bistvu vsa dejavnost, ki je zastala, ker ji niti niso smeli upravljati, tisti so praviloma pristali pri nas na zavodu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 689.059,
+        "end": 704.59,
+        "text": "Zdaj, ko se razmere bolj kot ne normalizirajo, vse določeni delodajalci spet pojavljajo, se dejavnosti zaganjajo, ampak je pa tega bistveno manj, kot je bilo pred samo krizo."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 704.67,
+        "end": 705.811,
+        "text": "Se pravi, da se delodajalci"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 705.811,
+        "end": 711.634,
+        "text": "na število delodajavcev, nam to vsekakor poznaje in to seveda vpliva tudi na novo zaposlovanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 711.854,
+        "end": 715.956,
+        "text": "Ali so kakšne usporednice, naprimer s krizo, iz pred dobrih desetih let?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 716.296,
+        "end": 721.919,
+        "text": "Trg dela praviloma na vsako krizo reagira zelo podobno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 721.979,
+        "end": 727.102,
+        "text": "Že takrat, ko se začne krizo napovedovati, zastane novo zaposlovanje."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 727.682,
+        "end": 735.246,
+        "text": "Delodajavci čakajo, kaj se bo zgodilo, temu prilagodijo, potem se začnejo izteki zaposlitev za določen čas,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 735.646,
+        "end": 745.916,
+        "text": "se pravi, na ta način zmanjšujejo in šele potem v naslednjih korakih grejo recimo v določanje presežnih delovcev, še kasneje v zapiranje samej dejavnosti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 746.296,
+        "end": 759.769,
+        "text": "In tudi, ko je kriza mimo, je recimo, da saj dve leti traja, da potem trg ponovno pride na stare obrate, ker delodajalci zelo previdno reagirajo na same spremembe na trgu."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 759.929,
+        "end": 762.39,
+        "text": "Zdaj, tokratna kriza je bila pa dejansko čez noč."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 762.691,
+        "end": 775.178,
+        "text": "Čeprav se je že pred koncem leta vedelo o virusu na kitajskem, dejansko njih še ni računal, da bo tako hitro, tako vseobsegajoče v vse pore našega življenja odaril."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 775.538,
+        "end": 777.378,
+        "text": "nišče ni bilo pripravljene."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 777.478,
+        "end": 784.0,
+        "text": "Tako da to smo se lahko kar najasnem in so bile spremembe dejansko od danes do jutri."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 784.06,
+        "end": 790.941,
+        "text": "Zdaj kakšna bo pa reakcija po zaključku krize, kako še sedaj gledamo samo statistiko, dejansko taka."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 791.222,
+        "end": 797.543,
+        "text": "Vse zaposluje, tisto, kar se potrebuje, vse zaposluje, ampak tudi tu je večina zaposlitev spet za določen čas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 797.763,
+        "end": 806.657,
+        "text": "Toliko za zdaj, kratek glasbeni predah, potem pa sva z našo gostjo, magistrico Alinko Rumbak, direktorica območne službe Zavoda za zaposlovanje celje, nazaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 815.06,
+        "end": 819.083,
+        "text": "Gospod Alenka Rumbak, kaj bi svetovali vsem iskavcem zaposlitve?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 819.363,
+        "end": 823.305,
+        "text": "Kriza je, kot sva že prej omenili, veliko krat tudi priložnost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 823.726,
+        "end": 831.411,
+        "text": "Ozirati se za novimi oblikami zaposlitve, za novimi prekvalifikacijami morda, za novimi znanji, kako se dvigniti nad to?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 831.631,
+        "end": 846.221,
+        "text": "Na zavodu upažamo, da zelo težko posplošujemo, da nek generalni nasvet velja za vse mlade ali za vse starejše, ker vedno bolj ugotavljamo, da je razlika na posamezniko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 846.442,
+        "end": 848.263,
+        "text": "Največ je odvisno od posameznika."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 848.523,
+        "end": 863.98,
+        "text": "Če je ta motiviran za delo, če se zna povezovati v okolju, če išče priložnosti, če zna potrkati na delo, da javčeva vrata, če zna predstaviti svoje prednosti, svoje kompetence, bo bistveno hitreje zaposleni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 864.2,
+        "end": 887.781,
+        "text": "Se pravi, ni vse v obrazbi, ampak je zelo veliko odvisno od tega, kako je posameznik upet v neko okolje, kako se pri tem trudi, kako se je pripravljen dokazovati ali skozi prosto volno delo ali skozi različne kanale, poiskati povezave, semrežiti, spraševati pri sorodnikih, znancih, prijateljih,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 888.061,
+        "end": 896.185,
+        "text": "sosedih, iskati priložnosti in potem, ko jo dobi, se tudi potruditi, da se prikaže v najboljši luči."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 896.605,
+        "end": 903.789,
+        "text": "To bom rekla skozi leta, dolgo sem že na zavodu, skozi leta so to učitki, jaz in zavod nam ne najde službe."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 904.169,
+        "end": 908.892,
+        "text": "Zavod lahko pri tem zagotovi informacije, službo si more pa dejansko najti vsak sam."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 909.172,
+        "end": 912.535,
+        "text": "Od njega je odvisno, če jo bo našel in če jo bo dobil."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 913.055,
+        "end": 925.847,
+        "text": "Ker zdaj, če gledamo na privlačno ali kvalitetno delovno mesto, zelo zadnje informacije, recimo so za ta Ikejna razpisana delovna mesta, prihaja, ne vem, 50, 60, tudi 100 prijav."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 926.127,
+        "end": 933.314,
+        "text": "Kaj narediti, da uprav vaša prijava je stopala, da boste vi tisti, ki ste prepričali delodajalca, to je pa odvisno od posameznika."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 933.674,
+        "end": 942.92,
+        "text": "Tule so možnosti zelo široke, ampak dejansko pa zahtevajo angažiranost posameznika, motiviranost njegovo, delovnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 943.02,
+        "end": 960.793,
+        "text": "Če bi vsak vzel to obdobje, recimo trajanje brez poselnosti kot neko delo, pa ne, da bi vsak dan namenil osem ur iskanju dela, ampak da bi namenil vsaj eno uro vsak dan iskanju dela, mislim, da bi bila brez poselnost bistveno niže in bistveno krajša."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 961.113,
+        "end": 973.576,
+        "text": "Torej, ne se držati samo s svojega profila, na vse zadnje izobrazba nam da neko širino, da nam določena znanja, ampak predvsem pa bi nam morala dati tudi tisto neko samozavest, saj mar si kaj zmorem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 973.836,
+        "end": 990.419,
+        "text": "Tako je, ker bom rekla, delodajalci v tem predkoronskem obdobju, ko je bila dejanska, rekla, kar globoka kriza glede pridobivanja potrebnega kadra, zdaj kader gre za regulirane pohlice, tam seveda ni izbire, če išče zdravnika, može dobiti zdravnika."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 990.499,
+        "end": 990.699,
+        "text": "Tako."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 990.779,
+        "end": 1004.931,
+        "text": "Ampak sicer delodajalci so bolj kot ne že dvignali roke nad recimo specifično izobrazbo in pravijo, dajte mi kar koli, samo da je motiviran za delo, prilagodljiv in pripravljen delati."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1005.011,
+        "end": 1011.236,
+        "text": "To so tiste glavne kompetence, ki delodajalci pričakujejo od zaposlenih in potem je delovsko vse mogoče."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1011.337,
+        "end": 1013.999,
+        "text": "V bistvu vse se da priučiti in naučiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1014.699,
+        "end": 1018.823,
+        "text": "Eno melodijo si bomo privoščili, pa sva z našo gostjo Alinko Rumbak nazaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1028.258,
+        "end": 1033.061,
+        "text": "Alenka Rumbak, direktorica območne službe Zavoda za zaposlovanje celje, je naša gostja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1033.481,
+        "end": 1040.125,
+        "text": "Gospa Rumbakova, oziriva se zdaj le še malce v prihodnost, v konec tega leta, začetek novega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1040.405,
+        "end": 1045.028,
+        "text": "Kaj nam prinaša oziroma kaj bo, ko se bodo končali ukrepi države?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1045.488,
+        "end": 1053.752,
+        "text": "Karkoli nam bo prihodnost prinesla in tu so dejansko razmere nepredvidljive, se bo treba z njimi soočiti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1054.152,
+        "end": 1068.539,
+        "text": "In kot vsakič, tudi v času vsemstvojitve, v času kasnejše velike krize, so bile to razmere, v katerih so prav tako se odvijale in nove zaposlitve in nove priložnosti."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1068.539,
+        "end": 1075.606,
+        "text": "Se pravi, to, da posameznik pride na zavod, je seveda za en stres, ampak ni pa toliko na cvetah."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1075.887,
+        "end": 1086.378,
+        "text": "To lahko gledamo tudi kot priložnost, da se vzamemo čas zase, da pogledamo svojo dosedanjo poklicno pot, da razčistimo svoje vrednote, svoje pričakovanja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1086.798,
+        "end": 1091.12,
+        "text": "da si začrtamo morda novo kariero in da začnemo delati na tem."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1091.38,
+        "end": 1095.261,
+        "text": "Se pravi, biti brez poselnost ni samo slabo, je tudi priložnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1095.281,
+        "end": 1106.365,
+        "text": "Včasih se je treba vdahniti od prejšnjega delodajalca, pa je poiskati morda tistega, ki nam bo bliže tudi po vrednotah in bo recimo medsebojno sodelovanje učinkovite še."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1106.525,
+        "end": 1109.507,
+        "text": "Kaj pa je največje breme iskavcev zaposlitve?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1109.587,
+        "end": 1118.973,
+        "text": "To, da so brezposilni kot nekakšna stigma ali ta notranja stiska, strah pred tem, da ne bodo več našli prave zaposlitve ali zaposlitve sploh?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1119.233,
+        "end": 1121.374,
+        "text": "To se skozi čas tudi spremenja."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1121.415,
+        "end": 1131.861,
+        "text": "Recimo takrat, ko sem sama začela z delom kot svetovalka zaposlitve, sem na uradu za delo Laško imela celih 63 brezposilnih oseb."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1131.981,
+        "end": 1133.062,
+        "text": "Danes jih je koliko?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1133.122,
+        "end": 1134.003,
+        "text": "Danes jih je okrog 700."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1134.723,
+        "end": 1142.531,
+        "text": "V tistem obdobju sem tudi po imensko poznala vsakega imena otrok, parojstne dneve, vse smo imeli na takočem in dejansko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1142.991,
+        "end": 1149.418,
+        "text": "Takrat so bili brezposeljni, ne bom rekla nekaj posebnega, ampak njih bilo veliko."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1149.638,
+        "end": 1158.007,
+        "text": "V vseh teh letih se je ta zadeva spremenila in sedaj so med brezposeljnimi naši partneri, naši sinovi, naše hčere."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1158.247,
+        "end": 1165.457,
+        "text": "Sosedi, znanci, to ni več nekaj, kar se dogaja drugim, to je nekaj, kar se lahko zgodi vsakemu izmed nas."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1165.537,
+        "end": 1168.922,
+        "text": "To je pa spet odvisno od posameznika, kako se s tem sooča."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1169.022,
+        "end": 1172.948,
+        "text": "Najprej je šok, žalost, prizadetost, žaljenost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1173.248,
+        "end": 1181.131,
+        "text": "Z tem pa praviloma posameznik pride tudi k sebi pa začne delati na teh rešitvah na izhodih, kako do nove zaposlitve."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1181.211,
+        "end": 1183.532,
+        "text": "Tako kot sem pa prej omenila, smo pa različni."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1183.792,
+        "end": 1200.778,
+        "text": "Tako kot v splošni populaciji, tudi med brezposelnimi, nekaj krasnih kadrov, nekaj takšnih, ki to niso, velik del poprečnih, nekaj problematičnih, nekaj pa takih, da bi sama takoj zaposlila na zavodu, če bi to bilo le možno."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1201.058,
+        "end": 1210.861,
+        "text": "Priložnost ni tako črno-bela, ne glede na to, ali bo korona odarila ali pa se bo virus orekla kako drugače, priložnosti bodo vedno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1211.181,
+        "end": 1214.802,
+        "text": "Priložnosti tako za iskavce zaposlitve kot za delodajalce."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1215.042,
+        "end": 1215.442,
+        "text": "Seveda."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1215.542,
+        "end": 1218.563,
+        "text": "Toliko še enkrat sva nazaj, zdaj pa ena po vašem izboru."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1227.367,
+        "end": 1236.939,
+        "text": "Gospod Alinka Rumbak, kako pa ste vi doživeli tale koronačas, morda tisto karantensko obdobje na začetku, pa na vse zadnje poletje, ki je za nami?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1237.16,
+        "end": 1244.867,
+        "text": "Tako kot večina, z strahom, s pomankanjem relevantnih informacij."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1245.628,
+        "end": 1249.151,
+        "text": "Razmere so takšne, da smo delali brez predaha."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1249.411,
+        "end": 1253.334,
+        "text": "Sama sem bila skozi na delovnem mestu, tudi sodelavci."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1253.755,
+        "end": 1258.879,
+        "text": "Smo se naučili tako uporabe mask, spoštovanja teh razdal."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1258.939,
+        "end": 1261.502,
+        "text": "Od začetka nam je bilo, mogoče malce tuje,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1261.842,
+        "end": 1273.185,
+        "text": "Potem se pa prilagodiš, ker veš, da je včasih za dobro skupnosti potrebno žrtvovati tudi del vsem na svobode ali pa prepričanje, da je nekomu dovoljeno vse."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1273.245,
+        "end": 1286.388,
+        "text": "Se pravi, da zdaj smo takšni, kot je treba, se čuvamo, pri stikih smo previdni, ampak naša vrata so na široko odprta najavljenim in pač strankam, ki pridajo mimo in pač potrebujejo našo pomoč."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1286.648,
+        "end": 1294.369,
+        "text": "Poletje je bilo pa tako lepo, vroče, v domačem okolju, brez izletov na Hrvaško in prekratko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1294.469,
+        "end": 1296.19,
+        "text": "Tudi kakšna dobra knjiga?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1296.49,
+        "end": 1310.052,
+        "text": "Dobrih knjig je vedno premalo, tako da to je pač tisto, s čemer se sproščam, veliko pomeni vsem v družini, tako da je to naša stalna aktivnost."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1310.252,
+        "end": 1314.433,
+        "text": "Bolj kot tista fizična, ki bi bila sicer protoko potrebna, ampak..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1315.37,
+        "end": 1317.412,
+        "text": "Tako kot ste dejali, ljudje smo različni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1317.432,
+        "end": 1321.615,
+        "text": "Je pa fino, če imamo čas za oboje in če imamo tudi voljo za oboje, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1321.855,
+        "end": 1332.645,
+        "text": "To je vedno dobro, pa če še imaš kakšnega hišnega ljuvenčka motivatorja, ki te prisilje v vsako dnevno aktivnost, je tudi to zelo dobro došlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1332.745,
+        "end": 1334.826,
+        "text": "Pa imate pri vas kakšnega štirinošca?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1334.886,
+        "end": 1335.327,
+        "text": "Imamo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1335.587,
+        "end": 1337.328,
+        "text": "Tako da ta vas odpeljeva, a ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1337.409,
+        "end": 1337.889,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1338.149,
+        "end": 1338.469,
+        "text": "Super."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1338.509,
+        "end": 1342.413,
+        "text": "Gospod Alinka Rumbak, morda za konec še kakšno sporočilo,"
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1342.842,
+        "end": 1358.769,
+        "text": "Vsaka kriza, ne samo zdravstvena, ne samo ekonomska ali kakšnakoli druga, je ob enem tudi preizkus nas vseh, kakšni smo kot posamezniki, koliko srčnosti je v nas, koliko empatije do vsočloveka."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1359.129,
+        "end": 1371.735,
+        "text": "In tale zadnja kriza me je osebno naučila veliko v tem, kako krasne sodelovce imam, kako se lahko na nje zanesem, da bo delo upravljeno kvalitetno in prijazno do uporabnikov."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1371.935,
+        "end": 1389.183,
+        "text": "In se mi zdi, da to je tisto največ, kar smo, kot posameznik iznotraj zavoda, v tem obdobju doživeli, da zmoremo tudi takrat, ko je težko in da se v bistvu za neko posebno zauzetostjo, srčnostjo, da mar si kaj premagati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1389.468,
+        "end": 1395.071,
+        "text": "Alinka Rumbak, direktorica območne službe Zavoda za zaposlovanje, je bila danes naša gostja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1395.231,
+        "end": 1402.174,
+        "text": "Hvala za vsa sporočila, hvala za gostovanje v našem studiju in uspešno delo še naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1402.554,
+        "end": 1405.616,
+        "text": "Bom pa rekla takole, s čim manj strankami."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1405.836,
+        "end": 1408.617,
+        "text": "Tudi mi smo veseli vsakega, ki nas zapusti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1408.757,
+        "end": 1409.278,
+        "text": "Hvala Lita."
+      },
+      {
+        "speaker": "SPEAKER_03",
+        "start": 1409.398,
+        "end": 1409.918,
+        "text": "Hvala vam."
+      }
+    ],
+    "runtime_sec": 506.1549434661865
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.017065422939051098,
+      "miss": 0.007276040546924074,
+      "fa": 0.0051224787971057405,
+      "confusion": 0.004666903595021283,
+      "total_duration": 1367.5019999999922
+    },
+    "der_collar0.25": {
+      "der": 0.012096867209738384,
+      "miss": 0.004793533573958138,
+      "fa": 0.004475194963175648,
+      "confusion": 0.0028281386726045975,
+      "total_duration": 1300.5019999999924
+    },
+    "wer": {
+      "wer": 0.2234314980793854,
+      "ref_words": 3124,
+      "hyp_words": 2908
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.588,
+        "end": 21.968,
+        "text": "Lepo pozdravljeni, današnja gostja je magistrica Alenka Rumbak, direktorica območne službe Zavoda za zaposlovanje Celje, ki ima v razmirah v kakršnih smo veliko dela. Magistrica Alenko Rumbhak lepo pozdravljeni. Pozdravljanji.Torej kaj je prineslo leto korone na področju zaposvanja odpuščanja pravzaprav na pod ročju trga dela."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 22.475,
+        "end": 88.827,
+        "text": "Korona nas je vse skupaj tudi zavod za zaposlovanje postavila povsem novo situacijo, delali smo v razmerjah kakršnih še doslej nismo bili, srečevali smo se s problemih, s katerimi se doslejsše nismo.Naenkrat do besedno čez noč so nas preplavile nove prijave, številni brezposelni, cel kup problemov, stisk iskanjanj dodatnih informacij, ampak pomrekle tako kot vsi ostali smo bili prisiljeni se ustrezno organizirati, prilagoditi so način svojega dela, poskrbet za najnujnejše postopke in seveda za naše najranljive še stranke, se pravi za brezposelne osebe pa tudi servisirati delodajalce s potrebnimi informacijami, tako da korona nam je prinesla bom rekla bogate izkušnje, takko da ob morebitnih upamda ne skorajšnjih ponovitvah bomo zanesljivo temu prestopili še bolj organizirano in za večim učinkom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 89.08,
+        "end": 105.736,
+        "text": "Kako pa ste videlovali v času karantene, v čazu tako imenovanega lok davna oziroma izolacije? Bili ste prisotni, bili ste na voljo tudi za vse, ki so vas klicali po telefonu ali vam pisali, kdo se je takrat obračal na vas predvsem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 106.09,
+        "end": 176.105,
+        "text": "Ze zavod za zaposlovanje deluje, pa je mrekle deloval na principu teh osebnih stikov, se pravi, da po tej strani je bila tudi večja izpostavljenost.V začetku smo nekako postavil dežurno ekipo, v večino sodelavcev pred tem tistih izranljivih ciljnih skupin se prav starejših ali pa tistik, ki imajo kakšne zdravstvene mejitve, smo začasno razporedili na čakanje na delo na dom.Vendar smo že takoj v prvem tednu zapore, se pravi še pred iztekom meseca marca, bili prisiljeni to ekipo povečavat, tak da smo, rekle po štirinajstih dneh delali v celotni sestavi, razen tistih, ki so mlajše sodelavke, ki se koristilo ukrep varstva otrok na domu.Ostali smo pa vsi bili na delovnem mestu, opravljali svoje delo, je pa res, da se je to delo prilagodilo ne, zagotavlja smo te najnujnejše storitve tako, da tudi ni vsak opravle od dela, ki ga sicer opravla v običajnih razmerah, ampak se pač prilogodiš, preučiš na hitro in se stvari začne odvijati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 176.105,
+        "end": 181.994,
+        "text": "Toliko za zdaj, krate glasbeni predah, potem pa sva z našo gostjo magistrico Alenko Rumbak nazaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 181.994,
+        "end": 182.011,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 187.428,
+        "end": 187.445,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 187.445,
+        "end": 217.482,
+        "text": "Magistrica Alenka Rumba, ki je z nami direktorica območne službe Zavoda za zaposlovanje Celje.Gospa Alenkarumba, kako se sicer v zadnjem obdobju zavodi za delo prilagajajo, vaše stranke so v veliko večjem odstotku kot včasih tudi mladi, mladi komunicirajo drugače, dejansko ste že sicer zadnja leta prehajali na komuniciranje nadaljavo, na takšen način ste verjetno že predelovali oziroma grestev tej smeri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 217.651,
+        "end": 312.961,
+        "text": "Tako je, to je tudi mreka zaveza v naši strategiji, v vseh projektih, v katerih sodelujemo, gremo v smer čim večje digitalizacije naših postopkov, se pravi, da lahko naše uporabniki do našig storitev dostopajo iz svojega naslanjača, prekar računalnika, preko pametnega telefona, ampak sočasno se pa potrebno zavestdati, da niso vsi naši uporabniki za to usposobljeni ali opremljenih.Tudi tokratna kriza nam je dala na tem nivoju kar poštenj poduk, ker recimo to, da ima posameznik elektronski naslov in pametni telefon še tudi ne pomeni, da suvereno ali pa funkcionalno pismeno opravlja komunikacijo preko spleta tako, da nas na tem področju čaka vse skupaj še nekaj dela, tudi naši sodelavci, kako so morda v prejšnjih časih bile občasno kakšne pritožbe nad težavnostjo stranka, s stresnimi situacijami, ki srečujejo pri osebnih stikih z strankami smo sedaj nekako, vsi skupaj ugotovili, da je to tako dobra izkušnja, mislim, da v osebnem stiku s človekom lahko veliko več dogovoriš, izvešjo posamezniku, lahko se odzivaš, ne vem na mimiko, na govorico telesa in je rezultat bistveno kvalitetnejši, kot če se vsa ta komunikacija odvija preko spleta ali pa tudi preko telefona ali pa celo po pošti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 296.255,
+        "end": 296.575,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 312.961,
+        "end": 326.208,
+        "text": "Rabimo, iščemo, očesnisti k nekoga na drugi strani, s katerim se lahko pogovarjamo, dejansko pogovarjamo in tudi funkcionalna elektronska pismenost še ni na tem nivoju, da bi lahko rekli, da lahko osarešimo tako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 323.744,
+        "end": 382.469,
+        "text": "Da bi lahko rekli, da lahkoizu šestdeseta licelo več.Potem imamo skoraj tretjino brezposelnih od vseh takšnih, ki sločajo brez končane osnovne šole, tudi pri mladih je žal ta procent blizu dvajset procentov, kar je škoda sramota in zelo težko razumljivo v sedanjih časih, da je tako velik delež mladi še vedno brez poklica dokončane izobrazbe.In to so vse ciljne skupine, kjer ta računalniška pismenost ni tako samoumevna, je potrebno verjetno več vložkam tudi s strani zavoda, predvsem pa s stranji posameznika, da pridobi pa čustrezne kompetence."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 383.093,
+        "end": 390.957,
+        "text": "Magistrica Alenka Rumpak je z nami direktorica območne službe Zavoda za zaposlovanje Celje, saj nazaj zdel pa ena po vašem izboru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 390.957,
+        "end": 390.974,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 397.117,
+        "end": 414.413,
+        "text": "Ostanimo še malce pri mladih, vse več mladik je prijavljeni na zavodu za zaposlovanje le redki se lahko zaposlijo direktnost fakultete oziroma iz srednje šole, kako dolgo so povprečno pri vas in kakšne so zaposlitve, ki jih kasneje vendarle dobijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 414.565,
+        "end": 483.415,
+        "text": "Zdaj ciljna skupina mladih je v vseh dokumentih tako Slovenije kot Evropske unije, upredeljena kot ranljiva ciljska skupinja, prednostna ciljanja skupine, kateri se tudi z konkretnimi ukrepi subvenciji usposabljanju izobraževanj pomaga preistopu na trg dela, zve same generacije se iz leta v leto manjšajo, ne to je prvo tako demografsko dejstvo, po drugi strani so pa med mladimi tudi zelo velike razlike, tisti, ki se odločajo za poklicno izobraževanje, ti praviloma niti ne prihajajo več v evidence brezposelnih, ampak jih delodajalci potegnejo v zaposlitev takoj po končani šoli, morda pridejo k nam za ne vem teden dva in se potem kmalu že odločajo za zaposlitov.Medtem ko pa tisti, ki nadaljujejo izobraževanje na kakšnih, bom rekla bolj družboslovnih smereh, tisti pa imajo morda nekaj več težav po tem ali pa dalj časa potrebno, da pridobijo ustrezno zaposlitev.Sama struktura mladih po izobrazbi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 484.647,
+        "end": 579.552,
+        "text": "Prevladujejo tisti, ki imajo srednostrokovno izobrazbo, pa tisti kima je osnovno šolo ali manj, ti samo z osnovnem šolo teh je žal celo največ, medtem ko pa teh, ki jimajo končane iniverzitetne izobrazo, bistveno manj.Tako da je ta problem spet težko nekako posploševat.Ampak če pogledamo, da ji recimo povprečno čas trajanja brezposelnosti pri vseh naših brezposelnih osemdvajset mesecev, pri starejših je tri štirideset mesecav, je podatek, da so mladi v povprečju pri nas brezposelni samo deset mestecev ni tako slab podatec, se pravi mladi se bistveno hitreje zaposlujejo kot se zaposluje povpredšnjo brez posel, kot se zaposluja tisti breze izobrazbe ali starejši, da se pravi kmalu dobijo priložnost na trgu dela, je pa res, da zavod niti nima podatkov o tem, na kakšnih delovnih mestih se zaposlujejo. Veliko je tudi zaposlovanja za določen čas, da smo zdajle prav te krizi v pazl, ker je bil izjemen pri liv prav iz vrst teh, ki so imeli stek pogodb zaposlitvi za določen čas, se pravi zaposlitve so manj varne, krajši čas trajajo in mladi pač bom rekle kolobarijo med zavodom novo zaposletvijo, ne, in ta gibanja so zelo hitrene, hitro prehajajo, hitrol se zaposlujejo, tako da bom rekla, je to problema, pa k mladi so nekako opremljeni bolje kot starejši, da se s tem spopadajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 579.721,
+        "end": 592.613,
+        "text": "Pa vendarle kakšno sporočilo je to za mlade generacije, težko si ustvarijo družino, teško si ostvarijo svoj dom, težejo zamejo kredite za stanovanje za avtomobil, za karkoli vse to potrebujemo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 592.613,
+        "end": 615.057,
+        "text": "Vse to potrebujemo in največja škoda je, da nam tisti najkualitetnejši kader uhajajo v tujino, gre za to, da mi izgubljamo ta delovni potencial, to vrednost posameznika, ki se pač potem oplaja v drugih državah, nam pa ostajajo tisti, ki pač ti priložnosti ne morejo izkoristita ali pa je nimajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 615.563,
+        "end": 620.98,
+        "text": "Zelen korumbak, direktorico območne službe zavoda za zaposlovanje Celje sva kmalu nazaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 625.807,
+        "end": 638.395,
+        "text": "Gospa Alinka Rumbak, če se zdelje vrneva še malce na sam začetek korona krize, katera podjetja, katere panoge so ali po vaših napovedih in trendih bodo najbolj prizadete?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 638.547,
+        "end": 711.7,
+        "text": "Največji priliv smo imeli s strani malih delodajalcev, razvimo srednje velika podjetja so se v tem prvem obdobju večinoma odločala za korišče ne teh interventnih ukrepov, čakanje na delo in na domu, medtem ko so mali delodajalci, ki so že morda predelovali narobo nekaj ekonomske zdržnosti, pač dejavno zaprli, jo odjavili in delavce prestavljena zavod. Če pogledamo po sami strukturi, največ dejansko prihaja s področja gostinstva, turizma, poslovnih storitev tudi manjši prevozniki v bistvu vsa dejavnost, ki je zastala, ker ji niti niso smelo pravljati, tisti so praviloma pristal pri nas na zavodu, stejko se razmere bolj kot ne normalizirajo, vse določeni delodajalci spet pojavljajo, s dejavnosti zaganjejo, ampak je pa tega bistveno manj, kot je bilo pred samokrizo, se pravi, da se na število delodajalcev nam to vsekakor pozne in to seveda vpliva tudi na novo zaposlovanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 711.785,
+        "end": 716.037,
+        "text": "Ali so kakšne vzporednice, na primer s krizo iz predobrih desetih let?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 716.24,
+        "end": 797.645,
+        "text": "Trg dela praviloma na vsako krizo reagira zelo podobno, že takrat ko se začne kriza napovedvat, zastanejo novo zaposlovanje. Delodajalci čakajo, kaj se bo zgodilo temu prilagodijo, potem se zašnejo iz teki zaposlitev za določen čas, se pravi na ta način zmanjšujejo in šele potem naslednjih korakih grejo v dolo čanje presežnih delavcev, še kasneje v zapiranje same dejavnosti.Tudi ko je kriza mimo, je recimo, da vsaj dve leti traja, da potem trg ponovno pride na stare obrate, ker delodajalci zelo previdno reagirajo na same spremembe na trgu, zdaj tokratna kriza je bila pa dejansko čez noč, čeprav se je že pred koncem leta vedelo v virusu na Kitajskem dejansko nihče ni računal, da bo tako hitro, tako vse obsegajoče v vse pore našega življenja udaril, nihčej ni bil pripravljen, tak da to smo si lahko kar najasne in so ble spremembe dejansko od danes do jutri, zdaj kakšna bo pa reakcija po zaključku krize, kakor sedaj gledamo samo statistiko dejanska taka, vse zaposluje tisto, kar se potrebuje, vsi zaposruje in pa tudi tu je večina zaposlitev spet za določen čas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 777.766,
+        "end": 777.968,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 777.968,
+        "end": 778.188,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 797.915,
+        "end": 806.032,
+        "text": "Toliko za zdaj, krate glasbeni predah, potem pa sva z našo gostjo magistrico Alenko Rumbak, direktorico območne službe Zavoda za zaposlovanje Celje..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 806.032,
+        "end": 806.723,
+        "text": "nazaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 815.077,
+        "end": 815.093,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 815.093,
+        "end": 831.631,
+        "text": "Gospalinka Rumbak, kaj bi svetovali vsem izkalcem zaposlitve, krize je kot sva že prej omenili velikokrat tudi priložnost, ozirati se z novimi oblikami zaposlitve z novim prekvalifikacijami morda z novima znanji, kako se dvigniti nad to?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 831.631,
+        "end": 960.893,
+        "text": "Na zavodu opažamo, da bistvu zelo težko posplošujemo, da nek generalna svet velja v recimo za vse mlade ali za vše starejše, ker vedno bolj ugotavljamo, že je razlikana posameznikov, največje odvisno od posameznika, če je ta motiviran za delo, če se zna povezovati v okolju, čej išče priložnosti, čeb na potrkat na delodajalčeva vrata, čez zna predstaviti svoje prednosti svojo kompetence, bo bistveno hitreje zaposlen, se pravi ni vse v obrazbi, ampak je zelo veliko odvisno od tega, kako je posameznik v pet, nekolikoli, kakose pri tem trudi, kakovost se je pripravljen dokazovat ali skozi prostovoljno delo ali skoz različne kanale, poiskat povezave sem režit, spraševat prisorodniki znancih prijateljih, sosedih, iskati priložnosti in potem ko jo dobi se tudi potrudit, da se prikažem najboljše lučine.To bom rekla skozi leta, dolgo sem že na zavodu, skozileta so to očitki, jasi zavod nam ne najde službe, zavot lahko pri tem zagotovi informacije, slušbo si mora pa dejansko najt vsak sam. Od njega je odvisno, če jo bo našel in če bo dobil, ne, ker zje, če gledamo na privlačno ali kvalitetno delovno mesto z le zadnje informacijo recimo so za ta Ikejina razpisana delovna mesta prihaja, ne vem, petdeset šestdeset tudi sto prijav.Kaj narediti, da uprav vaša prijave izstopala, da b boste vi tistikev ste prepričali delodajalca, to je povdvisno od posameznika ne.Tule so možnosti z loši roke, ampak dejansko pa zahtevajo angažiranost posameznika, motiviranost njegovo delovnost in če bi vsak vzel to obdobje, recimo, prejel je brezposelnosti kot neko delo, pa ne da bi vsak dan namenil osem ur iskanju dela, ampak da bi namenili vsaj eno uro vsakdan, iskanjo dela, mislim, da bi bila brezposelnost bistveno nižje in bistvenokrajša."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 961.147,
+        "end": 973.617,
+        "text": "Torej ne se držati samo svojega profila, navsezadnje izobrazba nam da neko širino, da nam določena znanja, ampak predvsem pa bi nam morala dati tudi tisto neko samozavest, saj marsikaj zmorem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 973.803,
+        "end": 1013.898,
+        "text": "Tako je, ker ob omrekle delodajalci v tem predkoronskem obdobju, ko je bilo dejanska mrekla krv globoka kriza glede pridobivanja potrebnega kadra, zaikadar gre za regulirane poklice nam seveda ni izbire, če išče zdravnika, mož dobi zdravnika, ampak sicer delodajalci so bolj kot ne že dvignal roke nad, recimo specifično izobrazbo in pravi odetem, kar koli samo da je motiviran za delo prilagodljiv in pripravljen delat, ne?To so tiste glavne kompetence, ki jih delodajevci pričakujejo od zaposlenih in potem je dejansko vse mogoče, ne? V bistvu se se da priučiti na očit."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1014.607,
+        "end": 1018.032,
+        "text": "Eno melodijo si bomo privoščili pa sva z našo gostjo Alenkor."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1018.032,
+        "end": 1018.91,
+        "text": "Dombak nazaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1028.275,
+        "end": 1028.292,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1028.292,
+        "end": 1045.032,
+        "text": "Alenka Rumba, direktorica območne službe Zavoda za zaposlovanje Celije je naša gostja, Gospa Rumbakova ozriva se zdelaj še malce v prihodnost v konec tega leta začetek novega, kaj nam prinaša oziroma, kak bok se bodo končali ukrepi države."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1045.572,
+        "end": 1106.525,
+        "text": "Karkoli ne bo prihodnost prinesla in to so dejansko razmere nepredvidljive, se bo treba z njimi soočit.In kot vsakič tudi jo je mrekle v času osamosvojitve v času kasnejše velike krize, so bi letos razmira, v katerih so prav tako se odvijale in nove zaposlitve in nove priložnosti, se pravi, toda posameznik pride na zavod, je seveda zanj stresem, pa ni pa tohnec svetahme.To lahko gledamo tudi kot prilošnost, da si vzamemo čas zase, da pogledamo svojo dosedanjo poklicno pot, da razčistimo svoje vrednote, svoja pričakovanja, da se začrtamo morda novo kariero in da začnemo delatne tem. Se pravi biti brezposelnost, ni samo slabo, je tudi priložnost.Včasih se je treba oddahniti od prejšnjega delodajalca, pa je poiskat morda tistega, ki nam bo bližje tudi po vrednotah in bo, recimo medsebojno sodelovanje učinkovite še."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1106.558,
+        "end": 1119.012,
+        "text": "Kaj pa je največje breme iz kavcev zaposlitve, to da so brezposelni kot nekakšna stigma ali ta notranja stiska, strah pred tem, da ne bodo več našli prave zaposlitve ali zaposletve sploh?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1119.164,
+        "end": 1134.706,
+        "text": "To se skozi čas tudi spreminja, recimo takrat ko sem sama začela z delom kot svetovalka zaposlitve, sem na uradu za delo Laško mela celih triinšest brezposelnih oseb.Če gledamo...Danes jih je koliko?Danes si jih okrog sedemsto."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1131.955,
+        "end": 1132.698,
+        "text": "Da nas jih je kot."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1134.74,
+        "end": 1210.913,
+        "text": "V tistem obdobju, recimo sem tudi poimensko poznala vsakega imena otrok, parojstne dneve, saj smo imeli na tekočem in dejansko takrat so bili brezposelni, pač ne bom rekla nekaj posebnega, ampak ni jih bilo veliko.V vseh teh letih se je ta zadeva spremenila in sedaj so med bresposeljnimi naši partnerji, naš iz sinovi, naše hčere, sosedi, znanci to ni več nekaj, kar se dogaja drugim, to je nekakar, se lahko zgodi vsakemu izmed nas.To je pa spet odvisno od posameznika kako se s tem sooča najprej šok, žalost prizadetost, ožaljenost, potem pa praviloma posameznih pride tudi, k sebi pa začne delati na teh rešitvah, na izhodih, kakodove zaposlitve.Tako kot sem poprej omenila smo pa različnine, tako kot v splošni populaciji tudi med brezposelnimi nekaj krasnih kadrov nekajo takšnih, ki to niso velik del povprečnih nekaje problematičniih, nekaja pa takih, da bi jih sama takoj zaposlili na zavodu, če bi to le možnožno ne. Priložnost ni tako Črnobela, ne glede na to ali bo korona udarila, ali pa se bo virusu reklo kako drugače priložnosti bodo vedno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1211.133,
+        "end": 1218.642,
+        "text": "Priložnosti tako za iskalce zaposlitve kot za delodajalce.Seveda, toliko še enkrat sva nazaj, zdale pa je na po vašem izboru."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1227.367,
+        "end": 1227.974,
+        "text": "Kzvalinka Rup."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1227.974,
+        "end": 1236.968,
+        "text": "Kombak, kako pa ste vi doživeli tale korona čas morda tisto karantensko obdobje na začetku, pa navsezadnje poletje, ki je za nami?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1237.087,
+        "end": 1294.529,
+        "text": "Tako kot večina, ne, z strahom, spomanjkanjem relevantnih informacij pač razmere so takšne, da smo delali brez predaha, samozem je zgosto nadelo v nemesto, tudi sodelavci, smo se naučiliih za dobro skupnosti potrebno žrtvovati tudi del osemne svobode ali pač prepričanje, da je nekomodovoljeno vse, se pravi, da zdaj smo takšni, kot je treba, se čuvamo, pristiki smo previdni, ampak naša vrata so na široko odprta najavljenim in strankam, ki pridejo mimo in potrebujejo našo pomoč. Poletje je bilo po tako lepo vroče, v domačem okolju brez letov na Hrvaško in prekratko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1295.035,
+        "end": 1296.571,
+        "text": "Tudi kakšna dobra knjiga, dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1296.571,
+        "end": 1315.032,
+        "text": "Takrat obrih knjig je vedno premalo, tako da to je pa tisto, s čemer se sproščam veliko pomeni vsem v družini, takoda je to naša stalna aktivnost bolj kot tista fizična, ki bi bila sicer protoko potrebna ampak."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1315.387,
+        "end": 1321.732,
+        "text": "Tako kot sta dejali, ljudje smo različni, je pa fino, če imamo čas za oboje in če jimamo tudi voljo za oboj, a ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1321.765,
+        "end": 1332.937,
+        "text": "To je vedno dobro, pa če še maš kakšnega hišneva ljudenčka motivatorja, kajti prisilje v vsakodnevno aktivnosti, je tudi to zelo dobrodošle."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1325.697,
+        "end": 1327.013,
+        "text": "Motivatorja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1332.7,
+        "end": 1334.911,
+        "text": "Pa imate pri vas, kajšnjega štiri nožce?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1333.578,
+        "end": 1335.333,
+        "text": "Kakšnega štiri nožce?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1335.333,
+        "end": 1338.556,
+        "text": "Tako da ta vas odpeljeva, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1339.096,
+        "end": 1342.555,
+        "text": "Gospa Alinka Rumba, k morda za konec še kakšno sporočilo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1342.808,
+        "end": 1389.282,
+        "text": "Vsaka kriza, ne samo zdravstvena, ne semo ekonomsko, kakršno kolik do drugo je obenem tudi preizkus nas vseh, kakoč nismo kot posamezniki, koliko omreklja srčnosti, je v nas koliko empatije do sočloveka in tale zadnja krize me je osebno naučila veliko v tem, kako krasne sodelavce imam, kakor se lahko nanje zanesem, da bo delo upravljeno kvalitetno in prijazno do uporabnikov. In se mi zida to je tisto največ, kar smo mrekle kot posamezniki znotraj zavoda v tem obdobju doživeli, da zmoremo tudi takrat, ko je težko in da se je v bistvu za neko osebno zavzetostjo, srčnostjo, da marsikaj premagati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1389.468,
+        "end": 1405.718,
+        "text": "Alinka Rumbak, direktorica območne službe Zavoda za zaposlovanje je bila danes naša gostja hvala za vsa sporočila, hvalo za kostovanje v našem studiu in uspešno delo še naprej, bom pa rekla takole s čim manj strankami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1405.752,
+        "end": 1408.756,
+        "text": "Tudi mi smo veseli vsakega, ki ne zapusti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1408.756,
+        "end": 1409.448,
+        "text": "Valjelita."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1409.448,
+        "end": 1409.971,
+        "text": "Hvala vam."
+      }
+    ],
+    "runtime_sec": 202.27959179878235
+  }
+}

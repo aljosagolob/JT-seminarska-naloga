@@ -42,7 +42,11 @@ if not hasattr(torchaudio, "info"):
 from pyannote.audio import Pipeline
 from dotenv import load_dotenv
 
-from utils import load_audio
+import soundfile as _sf
+
+def load_audio(path: str) -> tuple[torch.Tensor, int]:
+    audio, sample_rate = _sf.read(path, dtype="float32")
+    return torch.from_numpy(audio).unsqueeze(0), sample_rate
 from preprocessor import Preprocessor
 from transcriber import Transcriber
 

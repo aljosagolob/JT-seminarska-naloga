@@ -1,0 +1,1756 @@
+{
+  "file_id": "Artur-J-Gvecg-P580014-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P580014-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.16300609570728644,
+      "miss": 0.09819209988605297,
+      "fa": 0.0,
+      "confusion": 0.06481399582123346,
+      "total_duration": 1345.3729999999869
+    },
+    "der_collar0.25": {
+      "der": 0.15181135627265133,
+      "miss": 0.0856314046119229,
+      "fa": 0.0,
+      "confusion": 0.06617995166072842,
+      "total_duration": 1244.1229999999869
+    },
+    "wer": {
+      "wer": 0.13691219309196836,
+      "ref_words": 2403,
+      "hyp_words": 2304
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.031,
+        "end": 3.674,
+        "text": "Dobrodan, spoštovane poslušalke, spoštovani poslušalci."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 3.694,
+        "end": 26.795,
+        "text": "V tokratno radijsko srečanje smo povabili prav posebno gostjo, izjemno študentko, nobenega izpitanja je delala dvakrat, odlično sudnico, sedaj prostovoljko, ki dela z invalidnimi osebami in pomaga z brezplačnimi pravnimi nasveti, občinsko nagrajenko, spoštovano in priljubljeno Lidijo Pratnemer iz slovenskih konic,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 27.115,
+        "end": 30.422,
+        "text": "Gospa Lidija, prisrčno pozdravljeni in dobrodošli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 30.843,
+        "end": 37.217,
+        "text": "Hvala lepa, prisrčno pozdravljeni tudi vi in vsi poslušalci Štajerskega vala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 38.118,
+        "end": 47.267,
+        "text": "V pogovoru bomo o vas izvedeli še veliko več, kot je bilo povedanega v napovedi, pa začniva pri šolskih in študijskih letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 48.248,
+        "end": 49.549,
+        "text": "Pri študijskih letih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 50.33,
+        "end": 53.593,
+        "text": "To je bilo davnega leta 1970, ko sem upisala v študi Prava, Pravna fakulteta Ljubljana."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 60.46,
+        "end": 64.921,
+        "text": "In do leta 74 zaključila študijem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 64.981,
+        "end": 75.404,
+        "text": "V času študija sem živela v Zavodu za slepo in slabovidno mladino, delala s temi otroki in študirala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 76.424,
+        "end": 81.786,
+        "text": "Ko ste dejali, ste študij prava končali v štirih letih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 82.506,
+        "end": 85.767,
+        "text": "Povedala sem že, da ste vse izpite delali redno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 85.907,
+        "end": 86.987,
+        "text": "Kako vam je to uspelo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 88.203,
+        "end": 94.969,
+        "text": "Verjetno zaradi tega, ker mi je delo s slepimi in slabovidnimi dejalo moč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 95.79,
+        "end": 100.294,
+        "text": "Nekako sem si vedno dejala, če zmorejo oni, zmorem tudi jaz."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 101.115,
+        "end": 103.897,
+        "text": "In ti otroci so me spremljali skozi študi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 104.538,
+        "end": 118.065,
+        "text": "In v tretjem letniku pravne fakultete sem se tudi odločila, da napišem diplomsko delo posvečeno tem otrokom, socialna varnost slepih in slabovidnih na območju Republike Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 119.065,
+        "end": 125.408,
+        "text": "Vaša prva zaposlitev po tako uspešnem končarnem študiju pa je bila v Konusu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 126.048,
+        "end": 128.069,
+        "text": "Kakšno delo pa ste tam upravljali?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 129.31,
+        "end": 148.204,
+        "text": "Bila sem štipendistka v konusu, zaradi tega sem, bom rekla takole, 30. oktobera leta 74 diplomirala, bil je to petek, v ponedelek sem pa že nastopila prvi dan službe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 148.805,
+        "end": 150.766,
+        "text": "Delala sem v pravni službi,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 151.687,
+        "end": 165.061,
+        "text": "In že od vsega začetka povedala, da želim upraviti še eno leto prakse na sodišču, da bi si pridobila pravosodni izpet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 165.902,
+        "end": 171.268,
+        "text": "Po dveh, treh letih dela v konusu pa nekako upravila"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 172.797,
+        "end": 188.293,
+        "text": "Nisem bila uslišana, da bi lahko šla na sodišče, zato sem kar direktno se obrnila na takrat v občinsko sodišče oziroma v krožno sodišče in dobila pripravništvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 189.033,
+        "end": 192.517,
+        "text": "V vašem delu na sodišču pa po naslednji melodiji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 195.967,
+        "end": 206.178,
+        "text": "Lidija Pratnemer, priznana sodnica iz slovenskih konic, sedaj že deset let v pokoju, je to nedelsko dopodne naša gostja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 206.579,
+        "end": 210.884,
+        "text": "Gospa Pratnemer nameniva naslednje minute vašemu delu na sodišču."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 211.304,
+        "end": 214.127,
+        "text": "V začetki pa vse do upokojitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 214.408,
+        "end": 215.569,
+        "text": "Kakšna je bila ta post?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 216.388,
+        "end": 233.301,
+        "text": "Pot je bila včasih tudi težka, vendar glede na to, da sem se odločila za študi prava in da sem želela izvajati to svoje delo, je bila večji del tudi zelo prijetna, dobra."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 234.142,
+        "end": 239.326,
+        "text": "Vse skozi, od vsega začetka sem delala na kaznskem področju,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 240.247,
+        "end": 241.648,
+        "text": "vse do upokojitve."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 242.468,
+        "end": 252.735,
+        "text": "Potem pa seveda je bilo potrebno tudi po drugih področjih pokazati svoje znanje in sem tako tudi na civilnem področju delala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 253.936,
+        "end": 260.54,
+        "text": "Sprva je bilo to občinsko sodišče, kasneje temeljno sodišče v celju enota v slovenskih kunicah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 261.24,
+        "end": 262.781,
+        "text": "Po letu 1995 pa je prišlo do reorganizacije"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 268.445,
+        "end": 287.576,
+        "text": "In imamo okrajno sodišče v Sloveniji, jih je 44, eno od teh je torej v slovenskih konicah, kjer sem delala naprej in poleg dela pridobila tudi naziv predsednice sodišča v slovenskih konicah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 288.273,
+        "end": 296.279,
+        "text": "Zagotovo ste se pri svojem delu srečevali tudi z neprijetnimi, morda žalostnimi, hudimi, težkimi primeri."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 297.08,
+        "end": 303.145,
+        "text": "So v mislih odhajali z vami, so vas spremljali, tudi ko niste bili več v službi?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 304.203,
+        "end": 305.604,
+        "text": "Ja, prav gotovo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 306.024,
+        "end": 309.226,
+        "text": "Težko je, čeprav sem nekako dobila na svet."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 310.147,
+        "end": 318.152,
+        "text": "Ko odideš iz sodne stavbe, pusti zadevo v sodni stavbi, pa vendar je to težko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 318.812,
+        "end": 326.717,
+        "text": "Saj smo samo ljudje in zlasti kakšna težka vsoda me je spremljala tudi doma."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 327.878,
+        "end": 339.201,
+        "text": "Pa vedno sem mi iskala in razmišljala, le kaj dobrega je v tej osodi, pa naj tisto prevlada, če se le da."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 340.481,
+        "end": 350.624,
+        "text": "Kako pa gledate na tako različne mnenja in ocene v današnjem sedanjem delu sodnikov oziroma sodišč, izpostavljeni so mnogim kritikam?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 351.571,
+        "end": 352.251,
+        "text": "To je res."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 353.152,
+        "end": 359.657,
+        "text": "Vendar sodnik mora svoje funkcije upravljati avtoritativno, pokončno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 360.987,
+        "end": 385.597,
+        "text": "V zakup mora vzeti tudi kritike, ki prihajajo in jaz dobro vem, da vsak sodnik, vsaka sodnica dela po svoji zaprisegi in bi se daj rekla, ne sme si dovoliti, da se ga dotakne takšna, morda negativna kritika, ki je posplošena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 386.317,
+        "end": 392.157,
+        "text": "ki je verjetno tudi rezultat nezadovoljne stranke in podobno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 396.914,
+        "end": 407.036,
+        "text": "Gospa Lidija Prat-Nemer, v časov študija na Pravni fakulteti v Ljubljani ste stanovali, kot ste že povedali, v Zavodu za slepo in slabovidno mladino."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 407.597,
+        "end": 411.558,
+        "text": "Tam ste se tudi prvič srečali z mladimi in invalidi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 412.298,
+        "end": 425.121,
+        "text": "Vas je to tako zelo zaznamovalo ali prizadelo, da ste na to vsa leta in še sedaj pomagali in pomagate invalidom, tudi osebam z motnjami v duševnem razvoju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 425.804,
+        "end": 434.67,
+        "text": "Tam mi je bilo dano, da sem se srečala z otroci slepimi, močno slabovidnimi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 435.711,
+        "end": 444.977,
+        "text": "V zavodu pa je izklesan napis Viljama Šekspira, edina tema, ki obstaja, je neznanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 446.24,
+        "end": 456.492,
+        "text": "In skozi delo z njimi sem vedno znova in znova prihajala do spoznanja, da je ta Šekspirova trditev še kako točna."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 457.63,
+        "end": 475.182,
+        "text": "Delo z slepimi slabovidnimi mi je v bistvu dajalo moč, da sem lahko sama videla in vedno znova spoznala, kako čudovito je, če nam je dano videti okolico okoli sebe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 476.423,
+        "end": 486.149,
+        "text": "In v primeru, ko se srečaš za slepo osebo, kako je treba k njej pristopiti,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 487.01,
+        "end": 489.892,
+        "text": "bi rekla, da ni posebno enostavno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 490.793,
+        "end": 499.979,
+        "text": "In vendar skozi štirletno delo upam trdi, da mi je to uspelo, da sem čutila, da sem med njih bila sprijeta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 500.96,
+        "end": 502.001,
+        "text": "In to je zelo veliko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 503.802,
+        "end": 505.844,
+        "text": "Že od leta 1978 pa ste v društvu Sožitje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 505.884,
+        "end": 505.924,
+        "text": "Ja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 510.922,
+        "end": 520.228,
+        "text": "Društvo Sožitje, svoječasno imenovano društvo za pomoč duševno in telesno prizadeti, deluje"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 521.097,
+        "end": 530.646,
+        "text": "In je v letošnjem letu tudi na območju občine Slovenske konice z rečem Vitanje preznovalo 40-letnico obstoja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 531.347,
+        "end": 540.475,
+        "text": "Začeli smo nekje koncem leta 1978-1978, no kasneje pa, ko sem jaz se vrnila v Slovenske konice,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 541.516,
+        "end": 553.839,
+        "text": "so me kaj k malo, bom rekla, povabili med se in videla sem se tukaj tako, da sem v enem mandatnem obdomju tudi sprejela predsedniško funkcijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 554.719,
+        "end": 571.503,
+        "text": "Kasneje pa sem delala tudi pri zvezi sožitja v izvršnem odboru in tudi pri zvezi sožitja bila kot predavateljica angažirana na področju te socialne zakonodaje in"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 571.503,
+        "end": 595.848,
+        "text": "In sem tako v vseh 52 društvih, kolikor jih imamo v Sloveniji, na vikend seminarjih izvajala, pa še danes, če je potrebno, tudi predavanja sprodočja zakonodaje, kar je še nujno potrebno, da vedo starši in skrbniki oseb z motnjami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 600.241,
+        "end": 606.865,
+        "text": "Gospa Lidija Prat-Nemar, ste tudi predsednica Sveta za invalide pri občini Slovenske konice?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 619.732,
+        "end": 623.513,
+        "text": "je občina Sperila Listina, občina pomeri invalidov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 624.294,
+        "end": 634.337,
+        "text": "Predtem pa je bilo potrebno kar nekaj časa, dve, tri lete, da smo lahko sploh prišli do formiranja tega sveta za invalide."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 634.797,
+        "end": 643.02,
+        "text": "Ker sem tukaj sodelovala od vsega začetka, ker delam ne samo v dveh, ampak večjih invalidskih društvih,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 643.34,
+        "end": 653.366,
+        "text": "Pa sem bila povabljena k funkciji predsednice sveta za invalide, ki jo sedaj, bom rekla, z veseljem izvršujem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 654.027,
+        "end": 663.953,
+        "text": "Občanom slovenskih konic in oplotnice nudite brezplačno pravno pomoč, se veliko obračajo na vas in predvsem v kakšnih primerih?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 664.636,
+        "end": 672.318,
+        "text": "Ko sem bila še aktivna v službi, sem ugotovila, da je ljudem izjemno potrebna pravna pomoč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 672.758,
+        "end": 684.862,
+        "text": "Do leta 1995 smo lahko na sodiščih nudili brezplačno pravno pomoč občanom enkrat tedensko v času uradnih ur sodišča."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 685.612,
+        "end": 702.623,
+        "text": "Po letu 1995 pa tega ni bilo več mogoče, normalno pa je, da so želje popravni pomoči prisotne in potem, ko sem se upokojila, sem podala predlog pri občini Oplotnica,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 703.263,
+        "end": 716.777,
+        "text": "da sem pripravljena za občane, oplotnica nuditi brezplačno pravno pomoč, kar je sveda bilo sprejeto in tako enkrat mesečno nudim to brezplačno pravno pomoč."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 717.117,
+        "end": 725.385,
+        "text": "Nudila sem jo tudi v slovenskih konicah, vendar se je v slovenskih konicah znajdel nekdo, ki je govoril,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 725.926,
+        "end": 735.03,
+        "text": "da delam za denar, kar se vde boli in vedno znova si rečem, ne dopusti zlu, da pride do tebe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 735.61,
+        "end": 747.896,
+        "text": "Tokrat nisem znala tega upoštevati, zato sem nekoliko prekinila z delom pravne pomoči v občini Konice, v občini Vplotnica, pa še nadaljujem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 748.336,
+        "end": 776.277,
+        "text": "s kakšnimi vprašanji, predvsem v prvi meri so tu z področja sociale, potem pa sicer ugotavljam klasična, kar smo na sodiščih reševali, tako na področju civilnega prava, zvezi z služnostmi, z zemljo, tudi na kaznskem prekrškovnem področju, na zapoščinskem področju, torej na vseh področjih,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 777.158,
+        "end": 786.261,
+        "text": "Se oglašajo za vprašanje in kolikor mi je dano, le odgovarjam na prejeta vprašanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 787.002,
+        "end": 793.404,
+        "text": "Ste tudi predsednica občinske voljivne komisije, prav tako zelo odgovorna in pomembna funkcija."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 794.135,
+        "end": 813.41,
+        "text": "Ja, to funkcijo upravljam že vse skozi in lahko trdim, da jo z veseljem in ponosem upravljam, ker občinska volivna komisija skupaj z vsemi, ki delamo, deluje tako, kot je predvideno po zakonodaji za celotnim timom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 814.03,
+        "end": 824.394,
+        "text": "In v naslednjem mandatnem obdobju štirih let upam, da mi bo še dano, da upravljam to funkcijo, kot se od mene zahteva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 825.174,
+        "end": 843.021,
+        "text": "Gospa Lidija Pratnemer je res upokojenka, ampak njeno vsak dan, njeno življenje je še vedno prepleteno z različnimi dejavnostmi, predvsem humanimi in dobrodeljnimi, kaj vse še pušča in kje vse še pušča svoje sledi, pa po naslednji melodiji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 846.548,
+        "end": 855.432,
+        "text": "Našo današnjo gostijo pozna mnogo ljudi, zaradi mene strokovnosti, prijaznosti, vedno pripravljeni pomagati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 855.832,
+        "end": 866.017,
+        "text": "Za vse to je Lidija Pratnemer že leta 2010 predjela visoko občinsko časno priznanje Zlati grb občine Slovenske konice."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 867.035,
+        "end": 869.497,
+        "text": "Vesela sem bila tega priznanja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 870.738,
+        "end": 890.154,
+        "text": "Verjetno je to rezultat mojega udajstvovanja v več kot 12 društvih, kjer delam aktivno, predvsem podarjam, aktivno v invalidskih društvih zlasti, kolikor lahko nudim pomoč spravnega vidika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 890.474,
+        "end": 899.176,
+        "text": "Pa pojediva še na otok Pak, ki je že več kot deset let je prijateljsko povezan s slovenskimi konicami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 899.716,
+        "end": 901.656,
+        "text": "Kako je sploh prišlo do teh vezih?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 902.356,
+        "end": 919.64,
+        "text": "Otok Pak, bom rekla, se preko turističnega društva Slovenske konice povezuje z slovenskimi konicami in Cveto Štefanič, ki je predsednik društva v slovenskih konicah,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 920.36,
+        "end": 941.712,
+        "text": "Nas je zbral, da smo skupaj z družbo Relax odšli na pak in tri dni doživljali njihov turizem, njihovo gostoljubje in spoznavali njihove kraje, vrednote in preživljali resnično tri čudovite dneve."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 942.112,
+        "end": 946.037,
+        "text": "Zakar smo jim vsi neizmerno hvaležni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 946.918,
+        "end": 951.803,
+        "text": "Besedi prosti čast sta redni del naših vsekodnevnih pogovorov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 952.324,
+        "end": 960.193,
+        "text": "Kaj pomenite vam, kaj vam prinašate še posebej zato, ker si želite, da bi imel dan več kot 24h?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 961.99,
+        "end": 965.911,
+        "text": "Vedno si svoj prosti čas predstavljam aktivno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 966.451,
+        "end": 970.153,
+        "text": "Težko je, ker mi ni potreba biti v mirovanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 970.253,
+        "end": 972.773,
+        "text": "Torej, vedno je potrebno nekaj delati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 973.654,
+        "end": 976.475,
+        "text": "Zatega se časih danes čudim, ko..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 977.515,
+        "end": 982.379,
+        "text": "Mladina kdaj razmišlja, kako bomo med počitnicami, kam bomo šli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 982.919,
+        "end": 988.484,
+        "text": "Nekako sem kar malo žalostna, ker nihče od njih ne reče, tole bom naredil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 989.324,
+        "end": 991.106,
+        "text": "Saj jaz nisem tako slišala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 992.727,
+        "end": 1005.797,
+        "text": "Zato v tem svojem prostem času, ko jaz lahko rečem, da se posvetim sebi, sem izredno zadovoljna, ko lahko ustvarjam v kuhini, ko pečem kruh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1006.658,
+        "end": 1016.448,
+        "text": "In druge stvari, ki se jih da pripraviti v krušni peči zato, da se potem za svojimi dragimi srečam zamizo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1022.875,
+        "end": 1036.665,
+        "text": "Gospod Bratnemer, prepustimo se še spominom, vemo, da radi govorite o svojih starših, ki so vam dali dobre in prave napotke za življenje, zelo radi pa se spominjate tudi starih staršev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1037.033,
+        "end": 1044.237,
+        "text": "Hvaležna bom mami in očetu, večno hvaležna, ker sta me naučila delati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1044.957,
+        "end": 1056.563,
+        "text": "Naučila sta me, da znam ceniti prav vsako delo in dala sta mi tist, kar lahko starš da največ otroko, ljubezen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1057.84,
+        "end": 1077.739,
+        "text": "Da je temu tako, pa verjetno sta tudi ona dva pridobivala vsaj oče od svoje mame in zavedno mi bo v spominu stara mama, ki je dočakala kar čestitljivih 107 let svojega življenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1078.499,
+        "end": 1081.162,
+        "text": "In pri katerih letih je šla na morje?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1081.921,
+        "end": 1109.713,
+        "text": "Ja, pri stopetih je šla kampirati v Fieso, pa se ni rekla stara mama, le kak morate vi tam v hiški, tam pri kolici spati, je rekla, to pa res ni nič težkega, pa veš, kak je fajn, pa so prišli avstrijski gostje, pa so me gledali, pa sem se z njimi lahko tudi pogovarjala, res pa je, da nisem šla v vodo s kopalkami, ampak noge sem si sam namakala v vodi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1110.564,
+        "end": 1114.787,
+        "text": "Tako ste nas sedaj že nekako pripeljali v vašo domačo hišo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1115.347,
+        "end": 1123.993,
+        "text": "Želela sem vas vprašati, kdo vse se zbere ob domači mizi, kadar vi skuhate odlično nedelsko kosilo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1124.969,
+        "end": 1131.433,
+        "text": "Moja dva otroka z svojimi otroci in brat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1132.094,
+        "end": 1134.235,
+        "text": "Predvsem moram podariti brat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1135.136,
+        "end": 1148.064,
+        "text": "Brat je gibalno ovirana oseba, za katerega jaz po mamini smrti skrbim in bom skrbila, ker je bila to moja obljuba in ga imam rada."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1148.965,
+        "end": 1158.332,
+        "text": "Takrat, ko se srečamo za mizo, vrjemite se med nami v stvari tisto, kar bi privoščila vsaki slovenski družini."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1158.913,
+        "end": 1171.262,
+        "text": "Srečajmo se za mizo, pogovarjajmo se, čutimo tisto toplino, ki jo daje družina, ki je resnično osnovna celica naše družbe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1172.303,
+        "end": 1183.352,
+        "text": "Vrniva se pred napovedjo naslednje melodije še enkrat za vašo domačo mizo, na kateri velikokrat zadiši kruh iz vaše krušne peči."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1184.302,
+        "end": 1198.305,
+        "text": "Krušno peč sem si vedno želela in hišica, kjer je krušna peč, je na mestu, kjer je imela moja stara mama po mamini strani svojo hiško."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1199.525,
+        "end": 1208.808,
+        "text": "Krušna peč je v hiši duša hiše, daje toploto, pomirja, daje zdravje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1210.508,
+        "end": 1228.857,
+        "text": "Kar mi uspeje speči v krušni peči, zopet in znova lahko rečem, je povezano z ljubeznjo, ko prihajajo različni kruhi iz krušne peči, v nje pa lahko skuhaš tudi jedi, tako kot so včasih to delali naši predniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1229.577,
+        "end": 1241.072,
+        "text": "In prijetno je, ko zadiši po kruhu, ko potem ta kruh lahko delim z svojimi, ko ga lahko ponudim tudi sosedem in še komu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1246.604,
+        "end": 1253.807,
+        "text": "Dodajmo, življenje letom je naslov enega izmed slovenskih priročnikov za starejšo generacijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1254.387,
+        "end": 1264.312,
+        "text": "Gospa Pratnemer, vi to počnete, ne le za se, ampak predvsem za mnoge druge, z različnimi nasveti, izkušnjami, načini, znanjem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1266.112,
+        "end": 1292.723,
+        "text": "vesela sem, če mi to uspeva in nekako res vedno in znova ugotavljam, da je velika prednost, velika moč, če ljudje spoznamo, koliko je vreden ta notrni mir, ki bi ga naj vsakdo izmed nas imel, ker če nam to uspe, potem lažje delamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1293.483,
+        "end": 1300.051,
+        "text": "Lažje se družimo, lažje dajemo naprej to svojo moč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1300.611,
+        "end": 1303.575,
+        "text": "Pa še bimo enega vašega vodila Nemoreva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1304.296,
+        "end": 1307.92,
+        "text": "Pravite namreč, kdo ima informacijo, je bogat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1308.641,
+        "end": 1309.682,
+        "text": "To sem vedno rekla."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1309.902,
+        "end": 1336.396,
+        "text": "In to stališče bom zagorbarjala kadarkoli in še naprej, torej vedno znova in znova, ni važno koliko smo stari, moramo biti radovedni, moramo sprejemati informacije, ker resnično, če informacije imamo, bom rekla, če znanje imamo, bomo bogati, ker ga lahko uporabimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1338.877,
+        "end": 1344.821,
+        "text": "In nikoli, nikoli ne smemo reči, prestarji smo, da bi se kaj učili."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1345.342,
+        "end": 1351.866,
+        "text": "Obratno, kako lepo je, če se lahko vedno znova in znova kaj naučimo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1352.707,
+        "end": 1365.996,
+        "text": "Gospa Lidija Pratnemer iz Slovenskih kivnic, iskrena hvala za pogovor in za vsa plemenita dela za lepše življenje mnogih ljudi, le dobri ljudje delajo dobre čase in vi jih delate."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1366.337,
+        "end": 1367.878,
+        "text": "Hvala še enkrat in srečno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1368.138,
+        "end": 1370.301,
+        "text": "Srečno, hvala tudi vam."
+      }
+    ],
+    "runtime_sec": 540.7812640666962
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.14943885450354394,
+      "miss": 0.07809953076209811,
+      "fa": 0.0003887397769986685,
+      "confusion": 0.07095058396444719,
+      "total_duration": 1345.3729999999869
+    },
+    "der_collar0.25": {
+      "der": 0.1383062607153787,
+      "miss": 0.06521702436173821,
+      "fa": 0.0004203764418791631,
+      "confusion": 0.07266885991176131,
+      "total_duration": 1244.1229999999869
+    },
+    "wer": {
+      "wer": 0.16312942155638785,
+      "ref_words": 2403,
+      "hyp_words": 2325
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_00",
+        "start": 0.031,
+        "end": 30.592,
+        "text": "Dobro dan, spoštovane poslušalke, spoševoje poslužavci, v tokratno radijsko srečanje smo povabili prav posebno gostjo izjemno študentko nobenega izpitanja delala dvakrat odlično sodnico, sedaj prostovoljko, ki dela z invalidnimi osebami in pomaga z brezplačnimi pravnimi nasveti, občinsko nagrejenko, spoštovano in priljubljeno Lidijo prednemer iz slovenskih konic, gospa Lidija, pri srčno pozdravljeni in dobrodošli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 30.845,
+        "end": 37.595,
+        "text": "Hvala lepa, prisrčno pozdravljeni tudi vi in vsi poslušalci Štajerskega vala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 38.118,
+        "end": 47.416,
+        "text": "V pogovoru bomo o vas izvedeli še veliko več, kot je bilo povedanega v napovedi, pa začneva pri šolskih in študijskih letih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 48.226,
+        "end": 49.66,
+        "text": "Pri študijskih letih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 50.234,
+        "end": 55.533,
+        "text": "To je bilo davnega leta, devetnajsto sedemdeset, ko sem mu vpisala v..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 56.123,
+        "end": 59.566,
+        "text": "Študij prava, pravna fakulteta Ljubljana?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 60.578,
+        "end": 64.055,
+        "text": "In do leta štiriinsedemdeset zaključila študij."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 64.696,
+        "end": 70.872,
+        "text": "V času študija sem živela v zavodu za slepo in slabo vidno mladino."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 71.783,
+        "end": 75.563,
+        "text": "Delala s tem je otroki in študirala."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 76.39,
+        "end": 87.157,
+        "text": "Ko ste dejali, ste študij prava končali v štirih letih, povedala sem že, da ste vse izpite delali redno, kako vam je to uspelo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 88.203,
+        "end": 95.172,
+        "text": "Verjetno zaradi tega, ker mi je delo s slepimi in slabovidnimi dejalo moč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 95.729,
+        "end": 100.403,
+        "text": "Nekako sem si vedno dejala, če zmorejo oni, zmorem tudi jaz."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 101.028,
+        "end": 104.032,
+        "text": "In tiotrsti so me spremljali skozi študij?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 104.605,
+        "end": 110.461,
+        "text": "In v tretjem letniku pravne fakultete sem se tudi odločila, da napišem diplomsko delo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 111.001,
+        "end": 118.156,
+        "text": "Posvečeno tem otrokom, socialna varnost lepih in slabovidnih na območju Republike Slovenije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 118.983,
+        "end": 128.146,
+        "text": "Vaša prva zaposlitev po tako uspešnem končanem študiju pa je bila v Konusu, kakšno delo pa ste tam opravljali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 129.428,
+        "end": 129.445,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 129.445,
+        "end": 129.665,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 129.665,
+        "end": 138.068,
+        "text": "Bila sem štipendistka, v konusu zaradi tega sem bom rekla takole tridesetega oktobra."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 139.132,
+        "end": 150.944,
+        "text": "Leta štirinsedemdeset diplomirala, bil je to petek, v ponedelek sem pa že nastopila prvi dan službe. Delala sem v pravni slušbi..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 151.822,
+        "end": 155.618,
+        "text": "In že od sega začetka povedala, da želim..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 156.395,
+        "end": 164.157,
+        "text": "Upraviti še eno leto prakse na sodišču, da bi si pridobila pravosodni izpet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 165.845,
+        "end": 171.43,
+        "text": "Po dveh, treh letih dela v konusu pa nekako."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 172.78,
+        "end": 185.302,
+        "text": "Nisem bila uslešana, da bi lahko šla na sodišče, zato sem kar direktno se obrnila na takrat občinsko sodiše oziroma okrožno sodižče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 186.061,
+        "end": 188.373,
+        "text": "In dobila pripravništvo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 189.014,
+        "end": 192.743,
+        "text": "V vašem delu na sodišču pa po naslednji melodiji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 196.0,
+        "end": 215.71,
+        "text": "Lidija Pratnemar, prizna na sodnica iz slovenskih konic, sedaj že deset let v pokoju je to nedeljsko dopoldne naša gostja.Gospa Pratnemer nameniva naslednje minute vašemu delu na sodišču, v začetkih pa vse do upokojitve, kakšna je bila ta pot?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 216.352,
+        "end": 228.94,
+        "text": "Pot je bila včasih tudi težka, vendar glede na to, da sem se odločila za študij prava in da sem želela izvajati to svoje delo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 229.784,
+        "end": 233.412,
+        "text": "Je bila večji del tudi zelo prijetna, dobra."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 233.986,
+        "end": 239.453,
+        "text": "Vseskozi od sega začetka sem delala na kazenskem področju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 240.314,
+        "end": 241.698,
+        "text": "Vse do upokojitve."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 242.407,
+        "end": 249.005,
+        "text": "Potem pa seveda je bilo potrebno tudi po drugih področjih pokazati svoje znanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 249.697,
+        "end": 252.802,
+        "text": "In sem tako tudi na civilnem področju delala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 253.831,
+        "end": 260.598,
+        "text": "Sprva je bilo to občinsko sodišče kasneje temeljno sodiše v Celju enota v slovenskih konicah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 261.104,
+        "end": 264.445,
+        "text": "Po letu devetnajststo petindevetdeset pa je..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 265.323,
+        "end": 287.699,
+        "text": "Prišlo do reorganizacije in imamo okrajno sodišče, v Sloveniji jih je štiriinštirideset enov teh, je torej v slovenskih konicah, kjer sem delala naprej.In poleg dela pridobila tudi naziv predsednice sodišča v slovenskih konecah?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 288.273,
+        "end": 303.342,
+        "text": "Zagotovo ste se pri svojem delu srečevali tudi z neprijetnimi, morda žalostnimi hudimi težkimi primeri, so v mislih odhajali z vami, so vas spremljali tudi ko niste bili več uslužbi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 304.203,
+        "end": 309.248,
+        "text": "Ja, prav gotovo, težko je, čeprav sem nekak dobila na svet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 310.092,
+        "end": 315.998,
+        "text": "Ko videš iz sodne stavbe pusti zadevo v sodni stavbi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 316.96,
+        "end": 325.482,
+        "text": "Pa vendar je to težko, saj smo samo ljudje in zlasti kakšna težka usoda me je spremljala tudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 326.258,
+        "end": 326.933,
+        "text": "Doma?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 328.182,
+        "end": 330.983,
+        "text": "Pa vedno sem mi iskala in ne razmišljala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 331.945,
+        "end": 337.582,
+        "text": "Le kaj dobrega, je v tej usodi, pa naj tisto prevlada."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 338.56,
+        "end": 339.438,
+        "text": "Če se le da."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 340.433,
+        "end": 350.812,
+        "text": "Kako pa gledate na tako različne mnenje in ocene v današnjem sedanjem delu sodnikov oziroma sodišč, izpostavljeni so mnogim kritikam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 351.588,
+        "end": 359.806,
+        "text": "To je res, vendar sodnik mora svoje funkcije opravljati avtoritativno pokončno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 361.004,
+        "end": 365.493,
+        "text": "V zakup mora vzeti tudi kritike, ki prihajajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 366.067,
+        "end": 372.58,
+        "text": "In jaz dobro vem, da vsak sodnik, vsaka sodnica dela po svoji zaprisegi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 373.525,
+        "end": 374.167,
+        "text": "In..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 374.892,
+        "end": 376.175,
+        "text": "Bi se daj rekla."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 376.748,
+        "end": 383.633,
+        "text": "Ne sme si dovoliti, da se ga dotakne takšna morda negativna kritika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 384.41,
+        "end": 385.743,
+        "text": "Ki je posplošena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 386.367,
+        "end": 390.822,
+        "text": "Ki je verjetno tudi rezultat nezadovoljne stranke."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 391.362,
+        "end": 392.29,
+        "text": "In podobno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 396.948,
+        "end": 425.264,
+        "text": "Gospa Lidija Pratnemar, v času študij na pravni fakulteti v Ljubljani ste stanovali, kot ste že povedali, v zavodu za slepo in slabo vidno mladino, tam se se tudi prvič srečali z mladimi invalidi, vas je to tako zelo zaznamovalo ali prizadelo, da ste na to vsa leta in še sedaj pomagali in pomagate invalidom tudi osebam z motnjami v duševnem razvoju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 425.787,
+        "end": 434.748,
+        "text": "Ja, tam mi je bilo dano, da sem se srečala z otroci slepimi močno slabovidnimi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 435.625,
+        "end": 437.245,
+        "text": "V zavo dopa je..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 438.072,
+        "end": 445.193,
+        "text": "Izklesan napis Viljama Šeks Pira edina tema, ki obstaja, je neznanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 446.24,
+        "end": 447.978,
+        "text": "In skozi delo z njimi..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 448.619,
+        "end": 452.416,
+        "text": "Sem vedno znova in znova prihajala do spoznanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 453.007,
+        "end": 456.618,
+        "text": "Da je ta Šikspirova trditev še kako točna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 457.681,
+        "end": 461.039,
+        "text": "Delo z slepimi, slabovidnimi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 461.579,
+        "end": 465.308,
+        "text": "Mi je v bistvu dajalo moč, da sem lahko sama?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 466.051,
+        "end": 469.443,
+        "text": "Videla in vedno znova spoznala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 470.202,
+        "end": 475.248,
+        "text": "Kako čudovito je, če nam je dano videti okolico, okoli sebe?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 476.311,
+        "end": 476.648,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 477.273,
+        "end": 486.301,
+        "text": "V primeru, ko se srečar z slepo osebo, kako je treba k nje pristopiti?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 487.195,
+        "end": 489.929,
+        "text": "Bi rekla, da ni povsem enostavno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 490.722,
+        "end": 496.763,
+        "text": "In vendar skozi štiriletno delo, upomtrdi, da mi je to uspelo, da sem čutila."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 497.287,
+        "end": 500.037,
+        "text": "Da sem med njih bila sprejeta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 500.898,
+        "end": 502.147,
+        "text": "In to je zelo veliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 503.665,
+        "end": 509.251,
+        "text": "Že od leta devetnajsto oseminsedemdeset pa ste v društvu sožitje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 509.926,
+        "end": 510.247,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 510.922,
+        "end": 515.36,
+        "text": "Društvo sožitje, svoječasno imenovano društva za pomoč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 516.355,
+        "end": 518.633,
+        "text": "Duševno, interesno prizadetim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 519.612,
+        "end": 520.557,
+        "text": "Adeluje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 521.08,
+        "end": 540.689,
+        "text": "In je v letošnjem letu tudi na območju občine Slovenske konice z Rečem Vitanje praznovalo štiridesetletnico obstoja, začeli smo nekaj koncev leta devetnajsto osemdeset, no kasneje pa kos njes se vrnila v slovenske Konice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 541.634,
+        "end": 571.402,
+        "text": "So me kaj kmalu, bom rekla, povabili med vse in videla sem se tukaj tako, da sem v enem mandatnem obdobju tudi sprejela predsedniško funkcijo, kasneje pa sem delala tudi pri izvezi sožitja v izvršnem odboru in tudi pri zvezji sožiti je bila kot predevateljica angažirana na področju te socialne zakonodaje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 572.65,
+        "end": 588.007,
+        "text": "In sem tako v vseh dvampetdesetih društvih, kolikor jih imamo v Sloveniji na vikendseminarjih izvajala pa še danes, če je potrebno tudi predavanja s prodočja zakonodaje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 588.935,
+        "end": 595.988,
+        "text": "Kar je še nujno potrebno, da vedo starši in skrbniki oseb z motnjami."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 600.275,
+        "end": 606.957,
+        "text": "Gospa Lidija Bratnemar, s te tudi predsednica sveta za invalide pri občini Slovenske kolese."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 606.434,
+        "end": 653.431,
+        "text": "Zelo sem ponosna, da imamo v slovenskih konicah svet za invalide pri občini.V letu dva tisoč enajst je občina sprila listino občine po meri invalidov, pred tem pa je bilo potrebno kar nekaj časa dve tri leti, da smo lahko sploh prišli do formiranje tega sveta za invalide, ker sem tukaj sodelovala odsega začetka, ker delam ne samo v dh, ampak večjih invalidskih društvih, pa sem bila povabljena k funkciji predsednce sveta za invalide, ki jo sedaj omreka z veseljem izvršujem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 653.954,
+        "end": 664.147,
+        "text": "S občanom snovinskih konic in oplotnice nudite brezplačno pravno pomoč, se veliko obračajo na vas in predvsem v kakšnih primerih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 664.619,
+        "end": 681.342,
+        "text": "Ko sem bila še aktivna v službi, sem ugotovila, da je ljudem izjemno potrebna pravna pomoč.Do leta devetnajststo petindevetdeset smo lahko na sodiščih nudili brezplačno pravno pomo čobčanom enkrat tedensko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 682.0,
+        "end": 685.004,
+        "text": "V času ur sodišča."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 685.628,
+        "end": 695.483,
+        "text": "Po letu devetnajststo petindevetdeset pa tega ni bilo več mogoče, normalno pa je, da so želje po pravni pomoči prisotne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 696.192,
+        "end": 768.164,
+        "text": "In potem, ko sem se upokojila, sem podala predlog pri občini vplotnica, da sem pripravljena za občane vploti nudi brezplačno pravno pomoč, kar je svoda bilo sprejeto in tako enkrat mesečno nudim to brezplačno pravno pomoč, nudila sem jo tudi v slovenskih konicah, vendar se je v slovinskih konvicah znajdel nekdo, ki je govoril, da delam za denar, kar se v deboli in vedno znova si rečem ne dopusti zlu, da pride do tebe, tokrat nisem znala tega upošteva, z tega sem nekoliko prekinila z delom pravne pomoči v občini konice v obšini vplotnica pa še nadaljujem, s kakšnimi vprašanji, predvsem v prvi meri so tu spodročja sociale, potem pa sicer ugotavljam klasična, kar smo na sodiščih reševali tako na področju civilnega prava zvezi s služnostmi z Zemljo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 768.67,
+        "end": 776.332,
+        "text": "Tudi na kazenskem prekrškovnem področju, na zapuščinskem podrošju, torej na vseh podrocih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 777.26,
+        "end": 780.365,
+        "text": "Se oglašajo z vprašanji in..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 780.871,
+        "end": 782.93,
+        "text": "Kolikor mi je dano le..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 783.706,
+        "end": 786.355,
+        "text": "Odgovarjam na prejeta vprašanja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 786.929,
+        "end": 793.595,
+        "text": "Ste tudi predsednica občinske volivne komisije, prav tako zelo odgovorna in pomembna funkcija?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 794.135,
+        "end": 813.558,
+        "text": "Ja, to funkcijo opravljam že vse skozi in lahko trdim, da jo z veseljem in ponosem opravjam, ker občinska volivna komisija skupaj torej z vsemi, ki delamo, deluje tako kot je predvideno po zakonodaji za celotnim timom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 814.115,
+        "end": 824.459,
+        "text": "In v naslednjem mandatnem obdobju štirih let upam, da mi bo še dano, da opravljam to funkcijo, kot se od mene zahteva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 825.134,
+        "end": 843.173,
+        "text": "Gospa Lidija Pratnemar je res ob okojanka, ampak njen vsakdanj njeno življenje je še vedno prepleteno z različnimi dejavnostmi predvsem humanimi in dobrodelnimi, kaj vse še pušča in kje vseše pušća svoje sledi pa po naslednji melodiji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 846.548,
+        "end": 866.225,
+        "text": "Našo današnjo gostjo pozna mnogo ljudi, zaradi mene strokovnosti, prijaznosti vedno pripravljeni pomagati, za vse to je Lidija Pratnemar že leta dva tisoč deset prejela visoko občinsko časno priznanje Zlati grb, občine slovenske konice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 867.018,
+        "end": 869.701,
+        "text": "Vesela sem bila tega priznanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 870.629,
+        "end": 890.339,
+        "text": "Verjetno je to rezultat mojega udejstvovanja v več kot dvanajst društvih, kjer delam aktivno, predvsem poudarjam aktivno v invalidskih društvih, zlasti kolikor lahko nudim pomoč spravnega vidika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 890.963,
+        "end": 893.714,
+        "text": "Pa prediva še na otok pak."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 894.355,
+        "end": 901.797,
+        "text": "Kje je že več kot desetletje prijateljsko povezan s slovenskimi konicami, kako je sploh prišlo do teh vezi?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 902.27,
+        "end": 909.138,
+        "text": "Otok pak bom rekla se preko turističnega društva slovenske konice povezuje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 909.914,
+        "end": 912.884,
+        "text": "Z slovenskimi konicami in..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 913.66,
+        "end": 919.769,
+        "text": "Cvetov Štefanič, ki je predsednik društva v slovenskih konicah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 920.427,
+        "end": 946.145,
+        "text": "Nas je zbral, da smo skupaj z družbo Relaks odšli na pak in tri dni doživljali njihov turizem, njihovo gostoljubje in spoznavali njihove kraje vrednote in preživljali resnično tri čudovite dneve, za kar smo jim vsi neizmerno hvaležni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 946.853,
+        "end": 961.248,
+        "text": "Besedi prosti čas, starejni del naših vsakodnevnih pogovorov, kaj pomenita vam, kak vam prinašata še posebej zato, ker si želite, da bi imel dan več kot štiriindvajset ur."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 961.99,
+        "end": 972.892,
+        "text": "Vedno si svoj prosti čas predstavljam aktivno, težko je, ker mi ni potreba bit v mirovanju, torej vedno je potrebno nekaj delati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 973.55,
+        "end": 976.857,
+        "text": "Zateka se včasih danes čudim, ko..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 977.633,
+        "end": 986.645,
+        "text": "Mladina, kdaj razmišlja, jaka pa bomo med počitnicami, kam bomo šli?Nekako sem krmalo žalostna, ker nihče od njih ne reče."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 987.32,
+        "end": 988.535,
+        "text": "To le bom naredil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 989.176,
+        "end": 1000.533,
+        "text": "Saj je, nisem tako slešala in zrtega v tem svojem prostem času, recimo ko je lahko rečen, da se posvetim sebej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1001.107,
+        "end": 1006.102,
+        "text": "Sem izredno zadovoljna, ko lahko ustvarjam v kuhinji in ko opečem kruh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1006.726,
+        "end": 1007.907,
+        "text": "In druge stvari."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1008.43,
+        "end": 1017.003,
+        "text": "Ki se jih da pripraviti v krošni peči zato, da se potem z svojimi dragimi srečam za mizo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1022.892,
+        "end": 1036.78,
+        "text": "Gospa bratnemar, prepustimo se še s spominom, vemo, da radi govorite o svojih starših, ki so vam dali dobre in prave napotke za življenje, zelo radi pa se spominjate tudi starih staršev."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1037.05,
+        "end": 1049.352,
+        "text": "Hvaležna bom, mami in očetu, večno hvaležnja, ker sta me naučila delati, naučilasta me, da znam cenit prav vsako delo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1050.247,
+        "end": 1056.76,
+        "text": "In dala sta mi tist, kar lahko staršda največ otroku, ljubezen."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1057.857,
+        "end": 1065.215,
+        "text": "Da je temu tako, pa verjetno sta tudi ona dva pridobivala vsaj oče od svoje mame."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1065.839,
+        "end": 1086.055,
+        "text": "In zavedno mi bo v spominu stara mama, ki je dočakala karčastih tljivih sto sedem let svojega življenja.In pri katerih let jih je šla na morje?Ja, pri stopetih ješla kampira tva fieso."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1086.781,
+        "end": 1109.815,
+        "text": "Pa s njih je rekla stara mama, le kak morate vi tam v hiški, tam v prikolici, spatjo rekla to pa res ni nič težkega, pa veš, kak je fajn?Pa so prišli avstrijski gostje, pa so me gledali, pa sem se z njim lahko pogovarjala, res pa je, da nisem šla v vodo s skupalkami, ampak noge sem si sam namakala v vodi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1110.524,
+        "end": 1124.21,
+        "text": "Tako ste nas sedaj že nekako pripeljali v vašo domačo hišo, želela sem vas vprašati, kdo se zbere ob domaši mizi, kadar vi skuhate odlično nedeljsko kosilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1124.952,
+        "end": 1129.019,
+        "text": "Moja dva otroka, z svojimi otroci."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1129.66,
+        "end": 1142.603,
+        "text": "Brat, predvsem moram podariti brat, brat je gibalno ovirana oseba, za katerega je s pomamin in smrti skrbim."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1143.329,
+        "end": 1160.795,
+        "text": "In bom skrbila, ker je bila to moja obluba in ga mam rada.In takrat ko se srečamo za mizo, verjemite, se med nami ustvari tisto, kar bi privoščila vsaki slovenski družini, torej srećajmo se za mizo!"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1161.402,
+        "end": 1171.426,
+        "text": "Pogovarjajmo se, čutimo tisto toplino, ki jo daje družina, ki je resnično osnovna celica naše družbe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1172.438,
+        "end": 1183.576,
+        "text": "Vrnimo se pred napovedjo naslednjeme ljudje še enkrat za vašo domačo mizo, na kateri velikokrat zadiši kruh iz vaše krušne peči."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1184.302,
+        "end": 1186.681,
+        "text": "Krušno peč sem si vedno želela."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1187.457,
+        "end": 1198.443,
+        "text": "In hišica, kjer je krušna pečje na mestu, kjere je Mela moja stara mama po mami ni strani s svojo hiško."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1199.236,
+        "end": 1201.632,
+        "text": "Krušna peč je v..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1202.577,
+        "end": 1204.552,
+        "text": "Hiši duša hiše."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1205.142,
+        "end": 1207.792,
+        "text": "Da je toploto, pomirja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1208.45,
+        "end": 1209.766,
+        "text": "Da je zdravje?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1210.61,
+        "end": 1227.063,
+        "text": "In kar mi uspe speči v krušni peči, zopet in znova lahko rečem je povezano z ljubeznijo, ko prihajajo različni kruhi iz kručne peče, v nje pa lahko skuhaš tudi jedita kot so včasih to delali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1227.772,
+        "end": 1229.003,
+        "text": "Naši predniki."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1229.594,
+        "end": 1241.204,
+        "text": "In prijetno je, ko zadiši po kruhu, ko potem ta kruh lahko delim s svojimi, ko ga lahko ponudim tudi sosedem in še komu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1246.621,
+        "end": 1265.386,
+        "text": "Dodajmo, življenje letom je naslovo enega izmed slovenskih priročnikov za starejšo generacijo, Gospa Pratnemar vi to počnete ne le zase, ampak predvsem za mnoge druge, z različnimi nasveti, izkuršnjami, načini, znanjem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1266.078,
+        "end": 1268.879,
+        "text": "Vesela sem, če mi to uspeva."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1269.841,
+        "end": 1274.397,
+        "text": "In nekako res, vedno in znova ugotavljam."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1274.954,
+        "end": 1284.674,
+        "text": "Da je velika prednost, velika moč, če ljudje spoznamo, koliko je vrednita notranji mir."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1285.315,
+        "end": 1292.926,
+        "text": "Ki bi ga naj vsakdo izmed nas imel, ker če nam to uspe, potem lažje delamo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1293.533,
+        "end": 1298.039,
+        "text": "Lažje se družimo, lažje dajemo na poved."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1298.039,
+        "end": 1308.063,
+        "text": "Prej to svojo moč, pa še mimo enega vašega vodila ne moreva, pravite namreč, kdor ima informacijo, je bogat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1308.569,
+        "end": 1309.868,
+        "text": "To sem vedno rekla."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1310.476,
+        "end": 1310.965,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1310.965,
+        "end": 1314.56,
+        "text": "To stališče bom zagrovarjala kadarkoli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1315.285,
+        "end": 1338.303,
+        "text": "In še naprej, torej vedno znova in znova, ni važno, koliko smo stari, moramo biti radovedni, moram sprejemati informacije, ker resnično, če informacijo imamo, bom rekla, čez znanje imamo, bomo bogati, ker ga lahko uporabimo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1338.944,
+        "end": 1346.133,
+        "text": "In nikoli, nikoli ne smemo reči prestari smo, da bi se nekaj učili obratno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1347.027,
+        "end": 1351.921,
+        "text": "Kako lepo je, če se lahko vedno znova in znova, kaj naučimo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1352.647,
+        "end": 1370.365,
+        "text": "Gospa Lidija Prat ne ima reslovenski konic, iskrene hvala za pogovor in za vsa plemenita dela za lepše življenje mnogih ljudi, le dobri ljudje delajo dobre čase in vi jih delate. Hvala še enkrat in srečno! Srečna, hvalo tudi vam!"
+      }
+    ],
+    "runtime_sec": 151.31026768684387
+  }
+}

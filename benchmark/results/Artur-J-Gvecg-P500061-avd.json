@@ -1,0 +1,874 @@
+{
+  "file_id": "Artur-J-Gvecg-P500061-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500061-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.08783952529930238,
+      "miss": 0.08780843679759202,
+      "fa": 3.10885017103576e-05,
+      "confusion": 0.0,
+      "total_duration": 964.9869999999956
+    },
+    "der_collar0.25": {
+      "der": 0.07058860397520991,
+      "miss": 0.07058860397520991,
+      "fa": 0.0,
+      "confusion": 0.0,
+      "total_duration": 893.4869999999955
+    },
+    "wer": {
+      "wer": 0.17773943054357205,
+      "ref_words": 2318,
+      "hyp_words": 2127
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.031,
+        "end": 3.632,
+        "text": "Pozdravljen tudi v mojem imenu in imenu podjetja Aragon."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 4.232,
+        "end": 26.517,
+        "text": "Jaz bom za uvod v to ukroglo mizo nahitro predstavila ključne ugotovitve raziskave, ki smo izvalili letošnje poletje, kjer smo se z osnovno šolci, konkretne je z učenci osmih in devetih razredov, pogovarjali o ugledu poklica kmeta in o teh, ali je to nekaj, kar je za njih zanimivo ali ne, ter kako sploh dojemajo slovensko kmetijstvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 27.217,
+        "end": 43.195,
+        "text": "Kot prvo točko bi izpostavila, da je poklic kmeta med mladimi na zelo nizkem nivoju, poklic kmeta ni ugleden, med vsemi poklici, ki so jih mogli razvrstiti od najbolj do najmanj uglednega,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 43.535,
+        "end": 46.616,
+        "text": "je bil poklic kmeta na predzadnem mestu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 46.716,
+        "end": 63.444,
+        "text": "Samo poklic rudarja se je bil razvrščen nekoliko zanim, medtem ko ostali poklici, pri čemer moram izpostaviti, da nismo vključevali poklice kot recimo odvetniki, zdravniki, ki običajno zasedajo prva mesta, ampak poklici, ki jih lahko dosežemo srednje šolsko izobrazbo, medicinske sestre."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 64.004,
+        "end": 67.026,
+        "text": "avtomehaniki so bili razvrščeni više."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 67.887,
+        "end": 77.654,
+        "text": "Poleg tega pa tudi ostali poklici kmetijskih smeri, pek, mesar, sličičar, tudi ti ne uživajo ogleda, ki ga bi morali biti deležni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 78.654,
+        "end": 88.061,
+        "text": "Kot drugo točko, ko smo mlade spraševali, kaj sploh poklic kmeta pomeni, prva asociacija je vedno traktor in pa živinoreja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 88.121,
+        "end": 91.744,
+        "text": "Se pravi, krave in traktor so prve misli, ne pomislijo na"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 92.084,
+        "end": 105.658,
+        "text": "druge panoge, ki so v kmetijstvu prisotne, kar je deloma seveda logično glede na to, da je živinoreja pač tako močna v Sloveniji, ampak vseeno je treba njihovo sliko, predstavo o slovenskem kmetijstvu nekoliko rašireti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 108.841,
+        "end": 113.347,
+        "text": "ki so jo tako izpostavili, je bila, da se poklic kmeta povezuje z ovirami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 113.848,
+        "end": 126.564,
+        "text": "Zgodne jutrenje ostajanje, veliko dela, odsotnost počitnic, to so vse barijere oziroma ovire, ki mladim dajo signal, da je poklic kmeta preveč težak oziroma preveč zahtevan."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 126.965,
+        "end": 140.009,
+        "text": "In pa še zadnja točka, ko govorimo o pomenu poklica kmeta za slovensko družbo, mladi ta poklic povezujejo samo z skrbo s hrano."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 140.329,
+        "end": 155.074,
+        "text": "Ne pomislijo na to, da je skrbijo za urejene krajine, da je na poklic kmeta vezanih veliko drugih poklicev, ampak vidijo samo, da je kmet nekdo, ki predeluje hrano in to je njegova srednja vloga."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 155.534,
+        "end": 164.402,
+        "text": "Pomembna točka je tudi ta, da je tipična predstava o kmetu še vedno zelo stereotipna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 164.742,
+        "end": 168.925,
+        "text": "To je starejša oseba, predvsem pa je pomembno, da se izpostavlji, da je neizobražena."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 169.686,
+        "end": 174.67,
+        "text": "S tem se dela pač današnji kmetom krivica, ker prepričan je, da kmet"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 175.531,
+        "end": 190.698,
+        "text": "Ne potrebuje formalnega znanja oziroma, da je njegovo znanje omejeno zgolj na skrb za živali, resline in na vožno traktor je vsekakor že prežvečena in pač ni ko z današnjim časom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 190.878,
+        "end": 195.04,
+        "text": "In pa tudi to, da so konzervativni, se pravi, da niso odprti za drugače mišlječe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 197.401,
+        "end": 203.245,
+        "text": "za drugačne življenjske stile, kar pa je seveda tej generaciji, generaciji Z, pomembno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 203.926,
+        "end": 220.679,
+        "text": "In pa še zadnje, vseeno, kljub temu, da se ta slika nekoliko spreminja, še vedno se poklic kmeta povezuje s tem, da si veliko omazan, neprijetnem vonju se pravi te zastarele predstave, ki danes pač ne ustrezejo sodobnemu kmetijstvu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 221.279,
+        "end": 239.545,
+        "text": "Ko smo mlade spraševali, kaj so prednosti in slabosti poklica kmeta, so slabosti stresli iz rokava, niso pa znali našteti prednosti oziroma so prednosti naštevali šele na naše spodbude, vsekakor pa je pač prva ovira, da je..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 240.685,
+        "end": 245.747,
+        "text": "da poklic kmeta zahteva preveč dela, fizičnega dela za premalo denarja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 245.847,
+        "end": 260.492,
+        "text": "Tudi mladi se zavedajo, da je finančni položaj kmetov v Sloveniji, da ne daje dovoljšne varnosti oziroma, da so drugi poklici, ker lahko do finančne varnosti priješ na lažji in enostavnejši način."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 260.952,
+        "end": 280.886,
+        "text": "In pa še zadnje povezavi s tem smo mlade, v anketih je sodelovalo več kot 320, smo jih spraševali, na katere smeri se bodo opisali oziroma kam so se opisali in samo 4 odstotke jih je navedlo poklice kmetijskih smeri in samo eden sodelujoči je navedel, da bo kmet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 280.946,
+        "end": 288.612,
+        "text": "Se pravi, tudi tu se tako odražajo izzivi, s katerimi se dejansko soočamo danes oziroma o kateri bomo govorili na daljevanju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 289.032,
+        "end": 304.969,
+        "text": "In tudi sama percepcija kmetijskih šol oziroma biotehničnih centrov je negativna, k temu doprinese več faktorjev, kot prvi je ta, seveda, če je sama zaznava poklica negativna, tudi šolanje za ta poklic ne more biti atraktivno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 305.57,
+        "end": 334.225,
+        "text": "Druga je ta, da ko pomislijo na kmetijske šole, oziroma na centre, ne pomislijo na gimnazijske programe, ampak predvsem na poklicne in strokovne srednje šole, ki se povezujejo z predstavo, da jih obiskujejo učenci z slabšim učnim spehom in so zaradi tega, ker so lažji programi in pa tudi mogoče odklonilno odnos šolskih svetovalnih delovcev, ko uspešni učenci izražijo in želijo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 334.865,
+        "end": 346.053,
+        "text": "po šolanju na tovrstnih smereh, kjer zraven pride začudenje, zakaj pa v to smer, zakaj pa ne gimnazijo, pa se kasneje odločiš za nadaljni študi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 346.493,
+        "end": 361.144,
+        "text": "In še zadnja, potencijalni dijaki in dijaki, ki so že obiskovali tovrstne šole, so pa izrekli eno kritiko in sicer, da je treba posodobiti študijske učne programe, ki bodo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 361.544,
+        "end": 364.627,
+        "text": "pripravili na izzive v sodobne kmetijstvo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 364.687,
+        "end": 382.362,
+        "text": "Se pravi, dan danes je kmetija podjetje, ker potrebujemo zraven veliko znanja iz ekonomije, tržanja, podjetništva, pridelava oziroma skrb za živalje je še vedno osnova, ampak je potrebnih veliko drugih znanj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 383.022,
+        "end": 385.004,
+        "text": "Tako da bi na tej točki zaključila s tem, da"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 385.304,
+        "end": 401.763,
+        "text": "Sicer mladi na neki deklarativni ravni seveda povdarjajo, da so slovenski kmeti pomembni in da jih je potrebno spoštovati, ko pa gremo malo v globino, pa vidimo, da bo dejansko v praksi to njihovo mišljenje zaživelo, je potrebnega še kar nekaj izobraževanja na tem področju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 406.853,
+        "end": 408.155,
+        "text": "Ja, lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 408.715,
+        "end": 414.122,
+        "text": "Zdaj kako se lotiti, to je seveda dolga pot, kajti če bi imeli rešitev, bi danes začeli to početi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 414.903,
+        "end": 419.768,
+        "text": "Ta raziskava, ki jih moram pohvaliti in je izredno dobra, je res pokazala srč problema."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 420.349,
+        "end": 424.114,
+        "text": "Že otroci, da tako rečem, v osnovni šoli, ko se morajo odločati za poklic,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 425.298,
+        "end": 427.681,
+        "text": "spoznajo, da kmet ni poklic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 428.502,
+        "end": 441.257,
+        "text": "Torej, menim, da je treba začeti že v šolstvu na osnovni ravni, da je kmet, mora biti spoštovan na oseba, to je poklic, kat je ni samo umevna, da imamo hrano na mizi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 442.038,
+        "end": 449.529,
+        "text": "V nadaljevanju, ko se odločajo že v študiji, pa morajo prepoznati, da bojo študiji takšni, da kmet postaja menedžer."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 450.15,
+        "end": 456.32,
+        "text": "Kajti kmetije niso več tisto, kar si bile včasih, torej samo skrbne, temveč je potrebno delovati na trgom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 457.782,
+        "end": 473.985,
+        "text": "Na Ministerstvu za kmetijstvo se tega izredno zavedamo, zato tudi v kmetijski politiki, ki jo pripravljamo oziroma strateškem načrtu ali oziroma tudi v tem obdobju, se daje velik podarek na mladih kmetih, pa vendar se kaže, da ni vse v denarju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 474.465,
+        "end": 481.247,
+        "text": "Torej je potrebno narediti nekaj v to smer, da bo poklic kmet postal sploh poklic in pa spoštovan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 484.715,
+        "end": 490.14,
+        "text": "Da, na podlagi te analize, ki je bila upravljena, bomo v jesenskem času pričeli za to kompanijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 490.44,
+        "end": 495.125,
+        "text": "Sveda, ministerstvo za kmetijstvo kot tako samo ne more ničesar se premeniti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 495.605,
+        "end": 500.69,
+        "text": "Zato sem vesel, da lahko se delujemo s takšnimi organizacijami, kot so Zveza po deželske mladine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 501.251,
+        "end": 504.714,
+        "text": "Sveda pa je potrebno vključiti tudi druga ministerstva in organizacije."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 505.475,
+        "end": 506.395,
+        "text": "Kako bo potekalo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 507.718,
+        "end": 509.639,
+        "text": "Postopek bo zagotovo dolgotrajen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 510.059,
+        "end": 516.321,
+        "text": "Kajti, kot sem povedal na začetku, mi moramo začeti prepoznavati kmeta, da je to poklic."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 516.841,
+        "end": 522.543,
+        "text": "Jaz sam težko spremam, pa to večkrat ponovim, da je kmet samo oseba, ki mora delati 365 dni, 24 ture na dan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 522.583,
+        "end": 523.423,
+        "text": "Ne, tega si ne zasluži."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 526.784,
+        "end": 532.969,
+        "text": "Potrebuje tudi dopust, potrebuje marsikaj drugega, vse to, kar ponujajo drugi poklici."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 533.43,
+        "end": 541.576,
+        "text": "Še vedno pa pravim, da poklic mora biti prepoznan kot kmet, ki daje nekaj več."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 541.857,
+        "end": 548.102,
+        "text": "Torej, če je zdravnik spoštovan poklic, zakaj ni kmet, kaj ti zdravnik zdravi, kmet nam daje hrano."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 548.582,
+        "end": 551.665,
+        "text": "In v to smer želimo na Ministerstvu za kmetost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 553.666,
+        "end": 561.603,
+        "text": "Seveda, zajeti mora celotno javnost, tudi mlade, tudi starejše, kot je že bilo omenjeno, tudi šolstvo, socialne pedagoge in vse."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 562.003,
+        "end": 563.406,
+        "text": "To je stvar države."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 566.322,
+        "end": 574.348,
+        "text": "Morda bi za začetek lahko ogotovel, da je vrednostna veriga res slaba v Sloveniji, pa vendarle."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 574.368,
+        "end": 586.258,
+        "text": "Verjamem, da z promocijo, jaz, v Sloveniji obstajajo kmetije, ki so izredne dobre in premagujejo tudi takšne ovire, kot je trenutno stanje, torej porušeno cenovno razmerje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 587.348,
+        "end": 596.99,
+        "text": "V tej kampanji promocije bi si sam želel, da se te kmetije, ti kmetije, tudi mladi kmetije znajo in si upajo predstaviti tudi drugim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 597.53,
+        "end": 609.312,
+        "text": "Tudi na tem semu v Gorne Radgoni smo lahko spoznali zelo dobre prakse mladih kmetov, ker so dejansko podjetni, govorimo o dopoljenih dejavnostih na kmetijah, torej imajo končni proizvod, ki ga ponujejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 609.492,
+        "end": 611.773,
+        "text": "So tudi inovativni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 612.373,
+        "end": 612.593,
+        "text": "Samo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 614.065,
+        "end": 621.332,
+        "text": "Tisti, da lahko preblikujemo cene oziroma moramo postati pa močni, tu pa govorim sedaj o povezovanju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 622.032,
+        "end": 625.636,
+        "text": "Kajte le povezani, lahko uspemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 627.337,
+        "end": 628.879,
+        "text": "Ne sme biti, da tako rečem..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 630.262,
+        "end": 638.227,
+        "text": "Trgovina tista, ki bo samo ona določala ceno, temveč mora to biti skupna cena, ki pa mora biti dogovorena in pravilno razdaljenja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 638.727,
+        "end": 641.769,
+        "text": "Je pa potrošnik tisti, ki seveda na koncu mora vse to plačati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 642.17,
+        "end": 647.013,
+        "text": "Njemu pa moramo zagotoviti, da mu zagotavljamo varno, predvsem pa zdravo hrano."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 647.733,
+        "end": 650.095,
+        "text": "In v to smer moramo iti vsi skupaj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 653.212,
+        "end": 658.015,
+        "text": "Ministerstvo ne more vplivati na same končne cene produktov, to se moramo zavedati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 658.455,
+        "end": 668.081,
+        "text": "Seveda pa lahko sodelujemo pri pogovorjih, torej kot neki mediatorji, da se te organizacije, kmetijske zadruge, kmeti, trgovci, podjetja, vse dejajo in se začnejo pogovarjati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 668.521,
+        "end": 670.262,
+        "text": "Seveda pa moramo biti organizirani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 673.377,
+        "end": 680.79,
+        "text": "Ja, ja, dejstvo je, da trgovina prodaja, trgovina da na polico, bit pa mora še nekdo, ki iz police to vzame in to je potrošnik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 681.452,
+        "end": 685.399,
+        "text": "In cena v trgovini je določena na podlagi trgovine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 687.282,
+        "end": 689.263,
+        "text": "Sama veriga pa mora biti pravilno razdeljena."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 689.323,
+        "end": 693.586,
+        "text": "Težko je dan, res težko govorim, kako naj oblikujemo te cene, kot sem pa dejal."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 693.866,
+        "end": 703.393,
+        "text": "Če bomo povezani in posamezne, torej primar, torej kmetje kot in proizvajalci v mestni člen predelovana industrija, bo pa seveda se zadeva lahko začela spremeniti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 705.777,
+        "end": 722.846,
+        "text": "Če se lahko jaz navežem še na kanal, preko katerega doseči mlade, ker se ukvarjamo s tržnimi raziskavami, televizija je še vedno medij, ki doseže največ ljudi, ne glede na to na generacijo in tu tudi vidimo, da glede na to, da se moramo obrniti na..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 724.407,
+        "end": 730.372,
+        "text": "potrošnika kot takega, je potrebna neka splošna kampanja, ki bo prikazala primere dobre prakse."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 730.713,
+        "end": 750.37,
+        "text": "Odaje Zelena generacija je neka odaja, ki gre ravno v to smer, ker pač žal, če lahko dam nek primer, Masterchef je naredil veliko promocije za kuharje, dviguje se v pisi za slaščičarje, za kuharje in je lepo primer dobre prakse, kaj lahko neka pozitivna"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 750.53,
+        "end": 756.575,
+        "text": "odaje, ker se prikaže znanje, kompetentnost posameznika, naredi za posamezni poklic."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 756.915,
+        "end": 774.989,
+        "text": "Žal, trenutno je kontekst kmeta veliko krat vopet v resničnostne šove, ki samemu vgledu ne dela promocija, kvečemo stereotipne predstave še podkrepi, zato če lahko se z mediji pač dogovorite nekaj s"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 775.049,
+        "end": 795.295,
+        "text": "splošna promocija, ker tudi televizija v prime time-u oziroma pač v glavnem času prikaže te uspešne prakse, ker na ta način imamo največji učinek, dosežemo tako otroke kot njihove starše, ki pomembno so oblikujejo videnje svojih otrok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 799.062,
+        "end": 800.684,
+        "text": "Odgovor je da."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 801.686,
+        "end": 811.401,
+        "text": "Če pogledamo prakse, če zmejo v Avstrijo, vidimo točno to, da se dogaja, da je potrošnik tako zaveščen, da zaupa vol v svoje avstrijske produkte."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 814.385,
+        "end": 817.269,
+        "text": "Je prav pot, ki jo moramo doseči tudi mi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 817.469,
+        "end": 820.453,
+        "text": "Torej, začeti moramo zaveščati potrošnika."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 820.634,
+        "end": 821.575,
+        "text": "Kdaj pa ga začeti?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 822.256,
+        "end": 825.18,
+        "text": "Zagotovo to, kar je že bilo prerečeno v vrcih, šolah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 825.621,
+        "end": 828.204,
+        "text": "Tudi v šolah, ko naročajo hrano."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 829.606,
+        "end": 835.73,
+        "text": "bi morali biti tisti, ki se odločajo, kaj bo na jedilniku, tudi razumeti, da je domače boljše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 836.43,
+        "end": 841.373,
+        "text": "Verjamem, da je ostrijska hrana tudi dobra, ampak slovenska je domača in je boljša."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 842.053,
+        "end": 845.895,
+        "text": "In tu ne bi smela biti vprašanje cene, koliko stane obrok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 846.296,
+        "end": 849.297,
+        "text": "Zavedati se moramo, da je tak obrok bolj zdrav in boljši."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 849.858,
+        "end": 858.463,
+        "text": "Še enkrat, če bi potrošnik bil tako zaveščen, da bi naj prekupovali domače, verjamem, da bi nam domače hrane celo začelo premankovati,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 859.103,
+        "end": 866.574,
+        "text": "Zagotovo to ne pomeni, da si ne bi rabil potem še kopiti kokosovega olja, kot ste omenili, ampak zagotovo bi bilo boljše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 871.557,
+        "end": 880.542,
+        "text": "Če govorimo o tistih kmetijah, katere spremljamo in uveljavljajo tudi te okrepe kmetijske politike, govorimo o okoli 55 tisoč kmetij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 881.402,
+        "end": 886.465,
+        "text": "Zavedati moramo, da imamo pa kmetij, ki so res profesionalne, v Sloveniji izredno malo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 887.065,
+        "end": 897.351,
+        "text": "Če bi tako ocenil, nijam točnih podatkov, bi bila ocena, da je v Sloveniji takšnih 20 tisoč kmetij, od katerih se da"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 898.405,
+        "end": 902.631,
+        "text": "Ne samo preživeti, ampak tudi živeti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 903.012,
+        "end": 910.062,
+        "text": "Za preživeti rabiš izredno malo in to počne veliko slovenskih kmetov, torej so skromni in živijo na svojih majhnih kmetijah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 913.88,
+        "end": 918.325,
+        "text": "Ja, moja zaključna misel, jaz tega področja prej nisem dobro poznala."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 919.326,
+        "end": 926.433,
+        "text": "Imeli smo intervjuje z res uspešnimi kmeti in tisti, ki so res uspešni, vse naredijo sami."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 926.774,
+        "end": 929.296,
+        "text": "Pridelava, predelava in prodaja, se pravi..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 930.738,
+        "end": 959.796,
+        "text": "Ampak mladi kmetje, ki prihajajo v prihodnost, ne želijo miloščine na nek način, vidijo vizijo v kmetijstvu, vidijo podjetje, vidijo uspeh, zato jih moramo pač pri temu pogumiti, jim dati vsa orodja, da ne bo te predstave, da pač kmetje dle dobijo subvencije, ker si ne želijo tega, ampak so dejansko mladi, uspešni podjetniki, ki pač delujejo na področju kmetijstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 963.695,
+        "end": 974.21,
+        "text": "Ja, lepo povedan, vse strinjam za Anjo, ampak danes je bilo povedani še tudi veliko drugih stvari, katere pa morajo pripeljati do cilja, da bo poklic kmet postavil spoštovan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 974.651,
+        "end": 986.027,
+        "text": "Kmet je menedžer, zavedati se moramo to, da bom tako rekel, kruh si je potrebno zaslužiti sam, če pa bodo subvencije še puter na kruk, bo pa kruh veliko boljši."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 986.408,
+        "end": 987.73,
+        "text": "S tem bi tudi zaključil."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 987.81,
+        "end": 988.01,
+        "text": "Hvala."
+      }
+    ],
+    "runtime_sec": 480.93097257614136
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.019632388830107723,
+      "miss": 0.018546363837024907,
+      "fa": 0.0007357612071457189,
+      "confusion": 0.0003502637859370962,
+      "total_duration": 964.9869999999956
+    },
+    "der_collar0.25": {
+      "der": 0.01593308016792577,
+      "miss": 0.014809392861898779,
+      "fa": 0.0007453941691373875,
+      "confusion": 0.0003782931368896031,
+      "total_duration": 893.4869999999955
+    },
+    "wer": {
+      "wer": 0.26056945642795515,
+      "ref_words": 2318,
+      "hyp_words": 2059
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.031,
+        "end": 404.103,
+        "text": "Pozdravljen tudi v mojem imenu in imenemu podjetja Aragon, jez bom za uvod v otroglomizo na hitro predstavila ključne ugotovitve raziskave, ki smo izvajali letošnje poletje, kjer smo se z osnovno šolci konkretneje z učenci osmih in devetih razredov pogovarjali o ugledu poklica kmeta, ali je to nekakare zanimivo ali ne ter kako sploh dojemajo slovensko kmetijstvo.A kot prvo točko na tej bi izpostavlja, da je poklic kmetam med nadimi na zelo nizkem nivoju poklic meta ni ugleden, med vsemi poklici, ki so jih mogli razvrstiti od najbolj do najmanj uglednega, je bil poklic kmeta naprej zadnjem mestu. Samo poklic rudarje se je bil razvrtčen nekoliko zanim, medtem ko ostali, po klici pri čemer moram izpostaviti, da nismo vključevali po klicev kot recimo odvetniki, zdravniki ki običajno zasedajo prva mesta, ampak po klica, ki jih lahko dosežemo srednješolsko izobrazbo medicinske sestre avtomehaniki, so bilivrščeni višje, poleg tega pa tudi ostali poklici kmetijskih smeri, pek, mesar, sladžičar tudi ti ne uživajo ogleda, ki ga bi morali biti deležni.Kot drugo točko, ko smo mlade spraševali, kaj sploh poklic kmeta pomeni, so prva asociacija je vedno traktor in pa živinoreja, se pravi krave in traktor za prve misli ne pomislijo na druge panoge, ki so kmetijstvo prisotne, kar je deloma seveda logično glede na to, da je živnoreja pač tako močna v Sloveniji, ampak vseeno je treba njihovo sliko predstavo o slovenskem kmetijstvu nekoliko razširiti.Druga točka, ki so jo takoj izpostavili, je bila, da se poklic kmeta povezuje z ovirami, zgodnje jutranjev stanje veliko dela, odsotno spočitnic to so vse bariere oziroma ovire, ki mladim dajejo signal, da je poklic kmetja preveč težak ozirmal prevec zahtevanj in pa še zadnja točka, ko govorimo o pomenu poklica kmeta za slovensko družbo mladi, ta poklic povezuje samo z oskrbo s hrano. Ne pomislijo na to, da je skrbijo za urejene krajinemeta vezanih veliko drugih poklicev, ampak vidijo samo, da jek kmet nekdo, ki prideluje hkranu in to je njegova osrednja vloga. Pomembna točka je tudi ta, da ji je tipična predstava o kmetu še vedno zelo stereotipna, to je starejša oseba, predvsem pa je pomembno, da se izpostavlji, da je neizobražena.S tem se dela pač današnji kmetom Krivica, ker prepričanje, da kmet ne potrebuje formalnega znanja oziroma, je njegovo znanje omejeno zgolj na skrb za živali, rastline in navožno traktorje vsekakor že prežvečena in pa ni nikoz današnjim časom. In pa tudi to, da so konservativni, se pravi, da niso odprti za drugačne življenjske stile, kar pa seveda te generaciji z pomembno in pa še zadnje vseeno kljub temu, da se ta slika nekoliko spreminja, še vedno se poklic kmeta povezuje s tem, da si veliko umazan, neprijetnem vonju, se pravim te zastarele predstave, ki danes pač ne ustreze sodobnemu kmetijstvu. Ko smo mlade spraševali, kaj so prednosti in slabosti poklica kmeta so slabost izstresli z rokava, niso pa znali našteti prednosti oziroma soprednost, naštevali šele naše spodbude, vsekakor pa je pač prva ovira, da poklic kmet zahteva preveč dela, fizičnega dela za premalo denarja, tudi mladi se zavedajo, da je finančni položaj kmetov v Sloveniji, da ne daje dovoljšane varnosti oziroma, da so drugi poklici, ker lahko do finančne varnasti prijež na lažji in enostavnejši način.In pa še zadnje, povezavi s tem smo mlade, v anketih je sodelvalo več kot tristo dvajset, smo jih spraševali, na katere smeri se bodo vpisali oziroma kam so si vpisale in samo štiri odstotke jih je navedlo poklica kmetijskih smeri in samo eden sodelujoči, je navedel, da bo kmet. Zapravi tudi tu se takoj odražajo izzivi, s katerimi se dejansko soočamo danes oziroma v katerih bomo govorili na deljevanju, in tudi sama percepcija kmetijski šol oziroma biotehničnih centrov je negativna, k temu vdoprne se več faktorjev kot prvi vjeta, seveda če je sama zaznava poklica negativno, tudi šolanje za ta poklic ne more biti atraktivno.Druga je ta, da ko pomislijo na kmetijske šole ne pomisli oziroma na centri ne pomislil na gimnazijskem programem, pa predvsem na poklicne in strokovne srednje šole, ki se povezujejo z predstavo, da jih obiskujejo učenci z slabšim mučnim uspehom in so za tega prej kresolaži programi in pa tudi mogoče odklonilno s šolskih svetovalnih delavcev, ko uspešni učenci izražijo željo po šolanju na tovrstnih smereh, kjer zdravnj pride za čudenje, zakaj pa o to smer, zakraj pa ne gimnazijo, pa se kasneje odločiš za nadaljnji študij in še zadnja potencialni dijaki in dijaki, ki so že obiskovali tovrtne šole, so pa izrekli eno kritiko in sicer, da je treba posodobit študijske učne programe, ki bodo mlade pripravili naj izzive v sodobnem kmetisu, se pravi. Dan danes je Kmetija podjetje, ker potrebujemo zram veliko zn znanja, iz ekonomije, trženja, podjetništva, pridelava oziroma skrb za živali še vedno osnova, ampak je potrebnih veliko drugih znanj. Tako da bi na tej točki zaključila s tem, da sicer mladi na neki deklerativni ravni seveda poudarijo, da so slovenski kmeti pomembni in da jih je potrebno spoštovat, ko pogremo malo globino, pa vidimo, da bo dejansko v praksi to njihovo mišljenje za živelo, je potrebenega še kar nekaj izobraževanja na tem področju."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 406.837,
+        "end": 424.522,
+        "text": "Ja, lepo pozdravljeni, zdaj kako se lotiti, to je seveda dolga poodkati, če bi imeli rešitev, bi danes začeli to početi. Ta raziskava, ki jih moram pohvaliti in ji izredno dobra, je res pokazala srž problema, že otroci, da tako rečem v osnovni šoliko, ko se morajo odločat za poklic?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 425.315,
+        "end": 481.964,
+        "text": "Spoznajo, da kmet ni poklic, torej menim, da je treba začeti že v šolstvu na osnovni ravni, da jekmet mora biti spoštovan na oseba, to je poklic kajti ni samoumevna, da imamo hrano na mizi.V nadaljevanju, ko se odločajo že v tudi, pa morajo prepoznati, da bojo študij takšni, da Kmet postaja menedžer, kateri kmetije niso več tisto, kar si bile včasih torej samo oskrbne, temveč je potrebno delovati na trgu.Na ministrstvu za kmetijstvo se tega izredno zavedamo, zato tudi v kmetiji politiki, ki jo pripravljamo oziroma strateškemu načrtu ali ozoroma tudi obdobju, sedaj je veli poudarek na mladih kmetih, pa vendar se kaže, da ni vse v denarju.Torej je potrebno narediti nekaj, v to smer, da bo poklic kmet, spostal sploh poklic in pa spoštovan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 484.715,
+        "end": 506.888,
+        "text": "Da na podlagi te analize, ki je bila opravljena, bomo v jesenskem času pričeli z to kompanijo, seveda ministrstvo za kmetijstvo kot tako samo ne more ničesar spremeniti.Zato sem vesel, da lahko se delujemo s takšnimi organizacijami, kot so zveze po deželske mladine, se vedno pa je potrebno vključi tudi druga ministrstva in organizacija, kako bo potekalo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 507.665,
+        "end": 526.227,
+        "text": "Postopek bo zagotovo dolgotrajan, kajti kot sem povedal na začetku, mi moramo začeti prepoznavat kmeta, da je to poklic.Jaz sam težko sprejemam pa to večkrat ponovem, da jih kmet samo oseba, ki mora dela tristo petinšestdeset dni štiriindvajset ur na dan, ne, tega si ne zasluži!"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 526.818,
+        "end": 552.08,
+        "text": "Potrebuje tudi dopust, potrebuja marsikaj drugega vse to, kar ponujajo drugi poklici, še vedno pa pravim, da poklic mora bit prepoznan kot kmet, ki daje nekaj več.Torej če je zdravnik spoštovan poklic, zakaj ni kmet, kajti zdravnik zdravi, kmet nam daje hrano in v to smer želimo na ministrstvu za knetost."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 553.666,
+        "end": 563.673,
+        "text": "Seveda, zajet mora celotno javnost, tudi mlade, todi starejše, kot je že bilo omenjeno, tuti šolstvo, socialne pedagoge in vse, to je stvar države."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 566.339,
+        "end": 586.538,
+        "text": "Morda bi za začetek lahkovrek ugotvel, da je vrednostna veriga res slaba v Sloveniji, pa vendarle.Verjamem, da z promocijo je s v Slovenijo obstajajo kmetije, ki so izredne dobre in premagujejo tudi takšne ovire kot so kot trenutno stanje torej porušeno cenovno razmerje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 587.315,
+        "end": 613.015,
+        "text": "V tej kampanji promocije bi si sam želel, da se te kmetije, ti kmetje tudi mladi kmetije znajo in si upajo predstaviti tudi drugim, tudi na tem semu v Gornjaradgoni smo lahko spoznali zelo dobre prakse mladih kmetov, kjer so dejansko podjetni, govorimo do polilnih dejavnosti na kmetijah, torej.Samo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 614.011,
+        "end": 625.807,
+        "text": "Tisti, da lahko preoblikujemo cene oziroma moramo postati pomočni, tu pa govorim s sedaj opovezovanja, haj ti le povezani, lahko uspemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 627.241,
+        "end": 629.215,
+        "text": "Ne sme bit, da tako rečem..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 630.262,
+        "end": 650.242,
+        "text": "Trgovina tista, ki bo samo ona določala ceno, temveč mora to biti skupna cena, ki pa mora bi dogorjena in pravilna razdeljenja.Je pa potrošnik tisti, ki seveda na koncu morajo vse to plačat, njemu pa moramo zagotoviti, da mu zagotavlamo varno, predvsem pa zdravo hrano, in v ta svetu smer moramo iti vsi skupaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 650.41,
+        "end": 650.748,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 653.212,
+        "end": 670.508,
+        "text": "Ministrstvo ne more vplivati na same končne cene produktov, to se moramo zavedat, seveda pa lahko se delujemo pri pogovorih, torej kot neki mediatorji, da se te organizacije kmetijske zadruge kmeti trgovci podjetja vsedejo in se začnejo pogovarjati, seveda pa moramo biti organizirani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 673.394,
+        "end": 686.506,
+        "text": "Ja, dejstvo je, da trgovina prodaja trgovine dana polico, bit pa mu reši nekdo, ki iz policije to vzame in to je potrošnji. Cena v trgovini je določena na podlagi trgovines."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 687.198,
+        "end": 703.567,
+        "text": "Sama veriga pa mora bit pravilno razdelan, težko je dan res težka govorim, kako naj oblikujemo te cene, kot sem pa dejal, če bomo povezani in posamezne torej primer, torej kmetje kot pri proizvajalci v mestni člen predovana industrija, bo pa seveda se zadevala, ko začela spreminiti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 705.76,
+        "end": 795.873,
+        "text": "Če se lahko jaz navežem še na kanal, preko katerega doseči mlade, ker se ukvarjamo s tržnimi raziskavami, televizija je še vedno medij, ki doseže največ ljudi ne glede na to, na generacijo in tudi vidimo, da gleda na to da se moramo obrniti na potrošnik, kot takega je potrebna nekaj splošna kampanja, ki bo prikazala primere dobre prakse.Odaje zelena generacija je neka oddaja, ki gre ravno v to smer, ker pač žal če lahko dam nek primer, Master šef je naredil veliko promocije za kuharje, dvigujejo se v pisih za slaščičarje za zakuharja in je lepo primer dobre prakse, kaj lahko neka pozitivna oddaje, ker se prikaže znanje kompetentnost posameznika nardi za posamezni poklic. Žal trenutnoVesničnost nešava.Skrbi, zato če lahko se z mediji pač dogovorite nekaj splošna promocija, ker tudi televizija v prime time oziroma pač v glavnem času prikaže te uspešne prakse, ker na ta način imamo največjo učinek, dosežemo tako otroke kot njihove starše, ki pomembno sooblikujejo videnje svojih otrok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 761.414,
+        "end": 761.701,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 799.028,
+        "end": 866.9,
+        "text": "Vzpon odgovor je, da, kajti če pogledamo praksije mordače zmejo v Avstriju vidimo točno to, da se dogaja, da je potrošnik tako zaveščen, da zaupa volj v svoje produkte torej avstrijske in to je prava pot, ki jo moramo doseči tudi mi torej, začeti moramo zaveščati potrošnika, kdaj pa ga začet, zagotovo to, kar je že prerečeno v vrtcih šolah, tudi v šolih, ko naročajo hrano, bi moral bit tisti, ki se odločajo, kaj bo na jedilniku tudi razumet, daje domače boljše.Verjamem, da evstrijska hrana tudi dobra, ampak slovenska je domaća in je boljša, in tu ne bi smela biti vprašanji cene, koliko stane obrok, zaveta se moramo, že tak obrok bolj zdravjši še enkrat, če bi potrošnik bil tako zaveščen, da bi najprej kupovali domače, verjamem, da bo nam domaće kranje celo začelo primanjkovati, zagotovo to ne pomeni, da si ne bi rabel potem še kupil kokosovega olja, kot ste omenili, ampak zagotova bi bilo boljše."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 871.557,
+        "end": 897.663,
+        "text": "Če govorimo o tisti kmetije, katere spremljamo in uveljavljajo tudi te ukrepe kmetijske politike, govorim okoli petinpetdeset tisoč kmeti.Zavedati pa moramo da imamo pa kmetiji, ki so res profesionalne v Sloveniji izredno malo, to če bi tako na ocenju nijam točnih podatkov, bi bo verjetno bila ocena, da je v Sloveniji takšnih dvajset tisoč kmetij od katerih se da."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 880.872,
+        "end": 881.26,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 898.405,
+        "end": 910.285,
+        "text": "Ne samo živetijam, ne samo preživetjam, pa tudi živeti.Kat ji za preživetje rabiš izredno malo in to počne veliko slovenskih kmetov, torej so skromni in živijo na svojih majhnih kmitije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 914.015,
+        "end": 960.016,
+        "text": "Ja, moja zaključna misel je z tega področja prej nisem dober poznana, imeli smo intervjuje z res uspešnimi kmeti in tisti, ki so res usPešni vse nardijo sami, pridelava, predelava in prodaja se pravi mladik kmetje, ki prihajajo v prihodnost ne želijo miloščine na nek način, vidijo vizijo, v kmetijstvu vidijo podjetje, vidi o uspeh, zato jih moramo pri tem upogumiti, jim da tva orodja, da ne bo te predstave, da pač kmetje dle dobijo subvencije, ker si ne želijo tega, ampak so dejansko mladi uspešni podjetniki, ki pač delujejo na področju kmetijstva."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 963.712,
+        "end": 978.747,
+        "text": "Ja, le bo povedano, se strinjamo z Anjo, ampak danes je bilo povedani še tudi veliko drugih stvari, katere pa morajo pripeljati do cilja, da bo poklic kmet postal spoštovan, kmet je menedžer, zaveda, če moramo to, da bom tako rekel."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 979.304,
+        "end": 988.248,
+        "text": "Kruh si je potrebno zaslužica, če pa bodo subvencije še puter na krog, bo pa kruh veliko boljši, s tem bi tudi zaključil, hvala."
+      }
+    ],
+    "runtime_sec": 130.30036282539368
+  }
+}

@@ -1,0 +1,2578 @@
+{
+  "file_id": "Artur-J-Gvecg-P500026-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P500026-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.08645764689472747,
+      "miss": 0.06252844935659353,
+      "fa": 0.005475222228625692,
+      "confusion": 0.018453975309508253,
+      "total_duration": 2394.6059999999516
+    },
+    "der_collar0.25": {
+      "der": 0.07081864106189291,
+      "miss": 0.047314319026229804,
+      "fa": 0.005476124230844422,
+      "confusion": 0.018028197804818683,
+      "total_duration": 2113.355999999951
+    },
+    "wer": {
+      "wer": 0.17234281437125748,
+      "ref_words": 5344,
+      "hyp_words": 4860
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2.045,
+        "end": 6.969,
+        "text": "Lepo pozdravljeni na okrogli mizi v okviru portala STL Znanost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 7.129,
+        "end": 19.019,
+        "text": "COVID-19 je z vsem, kar je epidemija prinesla s seboj, letos močno posegal v vsak dan posameznika, na preizkušnje je postavil mnoge družine in celotno družbo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 20.26,
+        "end": 29.467,
+        "text": "Verjetno si Lani ob tem času ni nišče predstavljal, da več tednov ali mesecev ne bo mogel videti svojstvo, kar so pač drugi regiji ali občini."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 30.153,
+        "end": 41.527,
+        "text": "da po 21 uri ne bo mogel svobodno iti ven na sprehod in da bo tako drugače potekalo praznovanje Božiče in novega leta, kot se trenutno obeta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 42.795,
+        "end": 61.075,
+        "text": "O tem, kako epidemija in protikoronski ukrepi vplivajo na posameznika, družine in družbo, zakaj so se spomladi ljudje drugače odzivali na ukrepe kot se danes in kakšna družba bomo išli iz tej epidemije, bomo danes razpravljali."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 61.655,
+        "end": 63.037,
+        "text": "Antropolog Dan Podjet,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 63.582,
+        "end": 78.148,
+        "text": "z Inštituta za slovensko narodopisje ZRZSZU, sociologinja Ksenija Vidmar Horvat z Filozofske fakultete Univerze v Ljubljani in klinični psiholog in psihoterapeut Peter Praper."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 78.528,
+        "end": 79.988,
+        "text": "Lepo pozdravljeni vsi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 80.809,
+        "end": 82.329,
+        "text": "Naj se še jaz predstavim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 82.609,
+        "end": 89.292,
+        "text": "Moje ime je Anja Gorenc, sem novinarka Slovenske tiskovne agencije in bom moderirala ta pogovor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 89.772,
+        "end": 94.594,
+        "text": "Doktor Prapor, začela bi z vami."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 95.915,
+        "end": 107.54,
+        "text": "Zakaj, po vašem mnenju, se ljudje v tokratnem epidemičnem valu ne držijo tako strogo ukrepov, kot so se spomladi?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 107.56,
+        "end": 115.123,
+        "text": "Vsaj to nam razlagajo pristojnji, ki utemeljujo, zakaj epidemija še traja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 119.084,
+        "end": 125.331,
+        "text": "Še oklopite glas, prosim."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 125.351,
+        "end": 125.651,
+        "text": "Hvala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 126.893,
+        "end": 139.226,
+        "text": "Potem, v bistvu, vi mislite, da s pomladi so se ljudje bali, bili so bolj solidarni, medtem ko zdaj pa v uspredje prihaja egoizem ali kako?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 141.325,
+        "end": 160.096,
+        "text": "Gospa Vidmar Horvat bi se strinjali s gospodom Praparjem v tej tezi, ker vi ste recimo s pomladi, še s kolegico, ko ste opravljali intervju, ste opažali, da v času pandemije se oživlja ideja solidarnosti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 160.136,
+        "end": 163.779,
+        "text": "Kako je danes?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 163.819,
+        "end": 164.579,
+        "text": "Ja, jaz bi se strinjali."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 164.765,
+        "end": 172.228,
+        "text": "da najverjetneje spomladanski val je bil na nek način opredeljen s tesnobo, z neznanim, tudi z rahlim šokom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 173.049,
+        "end": 187.976,
+        "text": "In jaz sem sama spomladi razmišljala v dveh smerih, da se bo najverjetneje mobilizirala solidarnost in pa, da imamo tudi priložnost, da to solidarnost sami izkažemo oziroma jo vrnemo nazaj v naše življenje,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 188.71,
+        "end": 205.246,
+        "text": "Ker kot je kolega dejal, smo zares v zadnjih trehdeset letih hodili obremenjeni s individualizmom in sebičnostjo in na nek način sem videla krizo kot priložnost, da morda obrnemo karmilo v neko bolj skupnostno vizijo prihodnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 205.907,
+        "end": 213.174,
+        "text": "Torej vidimo jeseni, ki najverjetnere morali povezati, tudi tukaj se strinjam s poletnim obdobjem,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 213.652,
+        "end": 231.409,
+        "text": "Raziskava, ki so jo pravili kolegi na univerzi v Stanfordu, je pokazala, da smo se Slovenci v poletnem času zares, zares delo sprostili, bolj naprimer kot američani, ki smo jim očitali individualizem, republikanski liberalizem, ki pač ne, ne, ne, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 232.923,
+        "end": 240.307,
+        "text": "se ne briga za drugega, skratka, Slovenci smo zelo, zelo proščeno šli v poletje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 240.847,
+        "end": 259.358,
+        "text": "Najverjetneje tukaj bi morda nekoliko se ne strinjala samo, da gre tukaj za neko ljudsko neodgovornost, ampak najverjetneje smo v tem času dobili signal, da v resnici stvari niso tako zelo resne, da ne zadevajo skupnosti kot celote,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 259.805,
+        "end": 265.368,
+        "text": "da se da obirati srednjo pot, da se lahko vrnemo nazaj v naše staro normalno stanje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 265.969,
+        "end": 285.881,
+        "text": "In v kombinaciji z potem najverjetneje, ker se danes trenjamo zelo, zelo nepravim pristopanjem v komuniciranju vlade z državljani in državljanka, mi smo potem pač prišli v situacijo, v kateri smo danes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 286.248,
+        "end": 309.248,
+        "text": "Posledi, da nam ukrepe odreja politika, politični interesi, lobby, da vzadju ni stroke, kot razkrivajo dokumenti, včeraj objavljeni dokumenti, je stroka pravočasno upozorila na nujnost omejevanja, na nujnost ukrepanja, pa smo pač čakali na politične odločite, kot vidimo danes."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 309.928,
+        "end": 313.932,
+        "text": "Niso bile ne premišljene, ne usmerjene, pa kolektivno dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 315.492,
+        "end": 331.244,
+        "text": "Še gospoda Podjeda bi isto vprašala, zakaj, kakšna je razlika med pomladjo in jesenjo, zakaj smo bili takrat res pridni, še tako lahko rečem, zdaj pa se ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 332.452,
+        "end": 338.655,
+        "text": "ne držimo tako ukrepo, kot bi si želeli, da bi epidemija pač padala hitreje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 339.095,
+        "end": 349.28,
+        "text": "In pa po vašem menju, kako nujno je, da se v pripravo ukrepo in pa njihovo komuniciranje okluči družboslovce in humaniste?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 351.801,
+        "end": 359.945,
+        "text": "Ta beseda pridni, ki ste jo uporabili, se mi zdi še posebej pomenljiva sploh za Slovence, ki po eni strani se radi bahamo s to vrlino,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 360.262,
+        "end": 366.747,
+        "text": "po drugi strani pa kadarkoli označimo, koga da je priden, se ljudje uprejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 367.228,
+        "end": 382.52,
+        "text": "In mogoče je bila to napaka, da smo bili v prvem valu preveč pridni in premalo previdni in tudi sem opažal enako, kot sta oba sogovornika omenila, da je bilo v prvem valu bistveno več solidarnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 382.58,
+        "end": 389.966,
+        "text": "Tudi sam sem takrat napovedoval, glej, razvija se neka boljša, bolj solidarna družba, ne samo v Sloveniji, ampak celo globalno,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 390.333,
+        "end": 399.518,
+        "text": "Zmanjšali smo izpuste toplogrednih plinov, potovati smo začeli drugače, se obnašati, bolj solidarno pomagati drug drugemu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 399.938,
+        "end": 405.06,
+        "text": "Čez poletje pa je vse to izpuhtelo in mogoče tudi zaradi naveličenosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 406.021,
+        "end": 418.347,
+        "text": "Drugega vala pravzaprav nismo pričakovali, vsaj v Sloveniji, zaradi tega, ker smo prvega preživeli razmeroma, lagodno, vsaj v primerjavi z nekaterimi sosednjimi državami, recimo z Italijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 418.75,
+        "end": 422.731,
+        "text": "In zdaj se nam v bistvu ponavlja italijanski scenarij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 423.151,
+        "end": 431.654,
+        "text": "In to je bila velika napaka, da smo se enostavno preveč sprostili, bili premalo pridni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 434.355,
+        "end": 446.178,
+        "text": "Zakaj pa se je to zgodilo, pa je dejansko povezano z komuniciranjem in predvsem z komunikacijo strani vlade, ki ljudi ni motivirala očitno na pravi način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 447.016,
+        "end": 456.162,
+        "text": "kako motivira človeka najslabše na ta način, da ga postaviš v neko otroško vlogo in ga možugaš bodi si s palico ali pa ga nagrajuješ s korenčkom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 456.282,
+        "end": 459.644,
+        "text": "To je zgrešen pristop."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 460.365,
+        "end": 473.133,
+        "text": "Pristop bi moral biti komunikacije, namreč, bolj človeški, bolj iz oči v oči, tako kot je, recimo, komunicirala novozelandska premjejka Jacinda Ardern, ki se je javljala iz svojega bivališča"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 473.476,
+        "end": 483.002,
+        "text": "ljudem po državi, po Zoomu, tako kot mi komuniciramo danes v neki razvlečeni trenirki in se mi zdi, že to, že sama podoba je dobro sporočilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 483.302,
+        "end": 494.83,
+        "text": "Kaj pa vemo mi o politikih, ki nam govorijo sicer spjede stala, kaj moramo početi, kako moramo ravnati, kaj počnejo zasebno, pravzaprav ne vemo ničesar."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 495.15,
+        "end": 502.995,
+        "text": "In poleg tega, to sporočilo ne pride do tistih skupin, ki so bile najmanj pridne, kot so rekli politiki, do mladih recimo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 503.294,
+        "end": 511.577,
+        "text": "ki so se potem obnašali v nerekovajih razvratno na Hrvaškem in se zabavili in širili viruse."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 511.597,
+        "end": 516.058,
+        "text": "Do njih bi morali dostopati do poti, ki jih sami uporabljajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 516.078,
+        "end": 525.122,
+        "text": "Vse mladi ne gledajo govornika vlade Jelka Kacina po televizijskem prenosu televizije Slovenije, ampak uporabljajo svoje poti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 525.462,
+        "end": 528.603,
+        "text": "Instagram, TikTok, Snapchat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 528.843,
+        "end": 532.084,
+        "text": "Ne komunicirajo po Facebooku in Twitterju, ker to so urodja"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 532.488,
+        "end": 533.949,
+        "text": "ki jih uporabljajo starejši."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 533.969,
+        "end": 559.344,
+        "text": "Tako da zato bi moral v strokovni svet vključiti ne samo mikrobiologe, strokovnjake za infekcijske bolezni, strokovnjake za javno zdravje, ampak strokovnjake za ljudi, antropologe, sociologe, komunikologe, filozofe in kulturologe recimo, pa tiste, ki so konec koncev mediji današnjega časa"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 560.635,
+        "end": 564.477,
+        "text": "vplivneže oziroma influencere, kot jim nekateri pravijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 565.138,
+        "end": 569.14,
+        "text": "Finska vlada jih je angažirala že v prvem valu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 569.36,
+        "end": 581.887,
+        "text": "Če sva že zdaj pri medijskih oziroma pri mnenjskih voditeljih, pri vplivnežih, zakaj znavnostni pa stroka ni bolj vplivna?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 583.108,
+        "end": 586.43,
+        "text": "Zakaj se je več ne sliši in več ne razume?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 587.771,
+        "end": 589.672,
+        "text": "Po eni strani zato, ker"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 590.048,
+        "end": 599.496,
+        "text": "ne znamo odgovorov na razmeroma preprosta vprašanja podati na tak način, da bi jih ljudje razumeli."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 599.636,
+        "end": 609.704,
+        "text": "Znanstveniki radi stvari še bolj zakompliciramo, kot je potrebno in jih ne podajamo ljudem po kanalih, ki jih sami uporabljajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 610.085,
+        "end": 617.731,
+        "text": "Se ne pravim, da morajo začeti zdaj vsi znanstveniki uporabljati TikTok pa neke nove načine komuniciranja,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 618.128,
+        "end": 625.852,
+        "text": "ampak biti bolj dostopni in na kratko in jasno povedati tisto, kar družbo najbolj zanima."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 625.872,
+        "end": 636.577,
+        "text": "Vse konec konca je tudi to vloga znanosti, komuniciranje, popularizacija vedenja, ne pa, da ostajamo v nekem mehurčku ali pa v slonakoščenem stoljku."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 637.383,
+        "end": 653.394,
+        "text": "Torej, še kako pomembno, da so pač vsi ukrepi pravilno oziroma preprosto razloženi, zdravo razumsko, da jih normalno lahko vidiš, kaj je tudi v zadju teh ukrepov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 654.094,
+        "end": 658.297,
+        "text": "Seveda, in ne samo to, ampak da so ukrepi dosledni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 658.317,
+        "end": 666.162,
+        "text": "Jaz zdaj ta hip sploh ne vem, danes jutri sem šel na kolo in se peljal po Ljubljani in nisem vedel, kaj je zdaj že točno, moram imeti masko na obrazu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 666.408,
+        "end": 667.388,
+        "text": "a mi je ni treba imeti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 667.648,
+        "end": 674.951,
+        "text": "Kakšna je razdalja do človeka, s katerim komuniciram in tako dalje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 675.011,
+        "end": 679.793,
+        "text": "Pač enostavno nismo več sledili vsem tem novim in novim odlokom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 681.614,
+        "end": 691.118,
+        "text": "Komunikacija mora biti jasna, kratka, razumljiva in dosledna in pa predvsem tudi politiki in mnenjski vodje morajo imeti integriteto in se ravnati po lastnih navodilih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 691.138,
+        "end": 693.619,
+        "text": "To je bila pa druga velika komunikacijska napaka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 695.06,
+        "end": 695.86,
+        "text": "Če se z njim..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 696.53,
+        "end": 699.813,
+        "text": "Ja, če se smemo vključiti rahlo v zagovor znanosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 700.174,
+        "end": 712.407,
+        "text": "Zagotovo znanost se bo morala naučiti in mislim, da se je že naučila tekom teh nekaj mesecev komuniciranja z javnostjo, ki bo razumljivo, jasno in ki bo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 713.56,
+        "end": 718.062,
+        "text": "povsem odkrito, tudi v smišlju, ker nečesa ne vemo, da to povemo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 718.162,
+        "end": 733.647,
+        "text": "Kar je pa seveda neke vrste konfliktna situacija, ker smo se znašli v družbi, tudi zaradi medijev, tudi zaradi vplivnežev, ko pričakujemo instantne odgovore, jasne odgovore, čiste resnice, brez bomov in znanost ima tukaj seveda zelo težko nalogo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 734.147,
+        "end": 741.79,
+        "text": "Drugo, kar bi pa izpostavila, je pa, da pravzaprav se v zadnjih nekaj letih ali desetletjih globalno, predvsem pa v slovenskem prostoru,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 742.16,
+        "end": 761.203,
+        "text": "srečujemo z hudo erozijo zaupanja v znanost, v avtoriteto znanosti in to erozijo spožejo tudi politične elite s tem, da znanost in javno univerzalno vlosto datijo v koš proračunskih uporabnikov, porabnikov,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 761.92,
+        "end": 788.877,
+        "text": "bremena, stroška, ki ga kot družbo ne potrebujemo in če veliko jete tako klimo negativnega odnosa do znanosti in reducirate zavez ljudi, zmanjšujete razumevanje, kakšen je pomen znanosti za skupno javno dobro, potem v takih kriznih trenutkih zelo težko mobilizirate kar na en grad zaupanje ljudi, pa ta iste akterije, za katere smo navajeni,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 789.258,
+        "end": 814.383,
+        "text": "Je pa res, da, kot rečeno, v Sloveniji smo bili v zadnjih desetih letih zelo hlapkevski, se pa nasplošno v zahodnem svetu danes govori o epistemološki krizi, ki je širši fenomen, ki dejansko pomeni upad zaupanja v avtoritete, ki so pač avtoritete na podlagi upravljanja za dejstvi, za podatki, za znanstvenimi metodami,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 814.793,
+        "end": 816.493,
+        "text": "prištopanja do problemov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 817.894,
+        "end": 840.198,
+        "text": "Ob tem bi samo to še dodal, da se strinjam in da ja, dejansko tudi zaradi vplivnežev, ki producirajo neke novice in jih sprožajo potem na okolji po svojih omrežjih, še bolj tonemo v znanstveno temo iz nekega recimo temu razsvetljenstva in tudi zaradi takih posameznikov, ki širijo polresnice, laži ali pa fabricirajo neke novice,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 840.541,
+        "end": 843.544,
+        "text": "Zaradi tega ljudje ne vejo več, komu zaupati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 843.604,
+        "end": 848.67,
+        "text": "Problem pa je, ker zaupajo tistim, ki so bolj omreženi, kot pa tistim, ki so bolj kredibilni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 850.75,
+        "end": 856.931,
+        "text": "Glede novih tehnologij in komuniciranja v tem času, pa njihovih vplivov bomo še malo kasneje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 856.951,
+        "end": 868.434,
+        "text": "Zdaj bi vas pa vprašala to, kako karakter posameznika vpliva na to, kako dojema epidemijo oziroma okrepe."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 868.834,
+        "end": 871.835,
+        "text": "Recimo, na najbolj banalnem primeru, ali so"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 872.215,
+        "end": 885.207,
+        "text": "introvertiranci zdaj se imajo res fajn, ker se jim ni treba toliko družiti in ekstrovertiranci so pa v bistvu ostali ob vse."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 885.567,
+        "end": 888.39,
+        "text": "Se lahko strinjate s tem?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 888.57,
+        "end": 890.512,
+        "text": "Gospod Podjed, ste še hodili vikej?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 890.592,
+        "end": 891.352,
+        "text": "Gledajte ga."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 892.153,
+        "end": 893.915,
+        "text": "Ob tem bi dodal samo to, da"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 895.688,
+        "end": 908.456,
+        "text": "Problem je, če pač vlada prevzame komuniciranje na mesto, da bi ga znanost oziroma stroka v zvezi z zdravstvenim, medicinskim, naravoslovnim in celodružboslovnim fenomenom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 909.076,
+        "end": 917.561,
+        "text": "In to bi bila prava rešitev, da bi od začetka komunicirala stroka in to na način, ki ga ljudje razumejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 918.25,
+        "end": 934.58,
+        "text": "Morda bi se sam vrl naprej, recimo na novinarskih konferencah vlade namenjenih COVID stanju v državi, ki so vsak dan, smo zasledili recimo strokovnjake na svojem področju, smo zasledili"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 934.94,
+        "end": 946.223,
+        "text": "mnoge zdravnike, infektologe, recimo smo zasledili psihologe, psihoterapevte, zelo širok profil ljudi, ki so nagovarjali ljudi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 946.643,
+        "end": 953.685,
+        "text": "Zakaj še vedno niso bili uspešni?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 953.765,
+        "end": 957.086,
+        "text": "Zakaj ta komunikacija očitno ni dolovala?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 957.386,
+        "end": 958.627,
+        "text": "Če ni, ne vem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 959.687,
+        "end": 962.908,
+        "text": "Ampak to, kar omenjate, se je potem vse zreduciralo na neko"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 963.867,
+        "end": 966.99,
+        "text": "na rekovajih Sveto Trojico, Krek Belovič Kacin."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 969.532,
+        "end": 985.225,
+        "text": "Stroka je zginila iz piedestala, na koncu je ostal samo še Kacin, ki je komuniciral z ljudmi in ki smo ga imeli mimo grede za nekega junaka in ga poslušali leta 1991, ko se je Slovenija osamosvajala in sem bil sam najstnik in smo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 989.615,
+        "end": 1013.279,
+        "text": "v polnoči v diskoteki upili jelko, jelko in na ta način se je res takrat nabral ogromno socialnega kapitala in razumem, da so tega človeka pač hoteli tudi zdaj uporabiti za spodbudo ljudem, da se treba povezati, da gremo v boj proti pandemiji in ravno ta beseda boj je problematična, to ni boj, ampak gre za"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1013.695,
+        "end": 1014.775,
+        "text": "sodelovanje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1015.055,
+        "end": 1021.157,
+        "text": "Tu ni nikogar, proti komor bi se lahko borili in na kogar bi lahko streljali z naboji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1021.217,
+        "end": 1024.017,
+        "text": "Gospod Vidmar, jaz bi sam še vas vprašala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1024.117,
+        "end": 1028.278,
+        "text": "Prej smo govorili o plivu epidemije na posameznika."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1028.798,
+        "end": 1029.819,
+        "text": "Kaj pa družine?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1030.559,
+        "end": 1034.54,
+        "text": "Te so se mnoge družine, ki so bile že tako"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1036.24,
+        "end": 1043.407,
+        "text": "Šipke iz takšnih ali drugačnih razlogov so se v tem času pač znašle v stiski."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1043.547,
+        "end": 1053.677,
+        "text": "Znajdejo se pa v stiski tudi tiste družine, ki so bile prej recimo popolnoma funkcionalne zaradi šoljanja v doma, dela v doma, vsega hkratnega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1054.377,
+        "end": 1060.423,
+        "text": "Kako bo ta epidemija in vsi ti ukrepi vplivali na družine?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1062.143,
+        "end": 1068.464,
+        "text": "Poglejte, če mogoče se navežem na prejšnjo debato, ni vse v komuniciranju je pa veliko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1068.804,
+        "end": 1087.288,
+        "text": "Ta vlada ni vdočeraj, akterji, ki so v vladi, so nam znani skozi več desetletji zgodovine in odziv javnosti po različnih državah na vladne ukrepe je odvisen tudi od splošnega zaupanja javnosti v vlado, ki pač je"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1088.131,
+        "end": 1089.652,
+        "text": "posreduje te ukrepe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1089.732,
+        "end": 1107.361,
+        "text": "Tako da ne gre samo zdaj za vprašanje tehnika ali kako se to skomunicira, ampak tudi kaj razumemo, da so neke prednostne politične naloge, vrednote, družbene solidarnosti, pomoči in tako naprej, ki jih promovira, ki jih razširja neka oblast."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1107.381,
+        "end": 1110.903,
+        "text": "Na ta način potem tudi lažje razumemo, kakšne so reakcije ljudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1111.324,
+        "end": 1117.567,
+        "text": "In primer družine je zagotovno en tak, kjer pravzaprav lahko oblast, lažje neko sočutno pravzaprav"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1117.966,
+        "end": 1125.373,
+        "text": "plat razumevanja stiske ljudi in stiske so bile raznolike."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1125.473,
+        "end": 1144.17,
+        "text": "Jaz, ko spremljam mednarodno pediatrično združenje, vidim, da obstajajo priporočila staršem, kako naj pomagajo otrokom skozi to obdobje, ki je za najstnike zagotovo zelo težko, za majhne otroke, ki pravkar stopajo v šolo in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1144.628,
+        "end": 1151.109,
+        "text": "Imamo priporočila, ki so zelo smiselna smot, kako pravzaprav v stiskem pomagati staršem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1151.569,
+        "end": 1160.091,
+        "text": "Te stiske so lahko povezane z boleznjo, z žalovanjem, ker so izgubili svoje bližnje, z ekonomsko situacijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1160.271,
+        "end": 1173.273,
+        "text": "V takih kriznih situacijah pričakujemo, da bodo javni sektor, javni sistem, javne institucije, tiste, ki bodo ob močnem političnem vodenju sveda pristopile na pomoč k ljudem,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1173.907,
+        "end": 1191.913,
+        "text": "Mi pa smo v obratni situaciji, da se zdi, da smo sedaj starši tisti, ki pomagamo šolskemu sistemu, medicinsko vsebe tisto, ki pomaga zdravstvenemu sistemu, negovalke in negovalci tisti, ki pomagajo osiromašenemu sistemu v domih za ostarene in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1191.973,
+        "end": 1195.314,
+        "text": "Gospod Frapar, kako je pa recimo..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1196.215,
+        "end": 1212.624,
+        "text": "Če pomislimo na otroke v teh časih, ki se praviloma vsaj naj ne bi družili so vrstniki in recimo veliko otrok poznam, ki se dejansko ne družijo so vrstniki, čeprav je to zelo pomembno za njihovo socializacijo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1213.044,
+        "end": 1220.408,
+        "text": "Eno je verjetno, če jo ti otroci odraščajo v družini, kjer je več otrok, drugo pa če je edinec."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1221.413,
+        "end": 1235.283,
+        "text": "kako je pač tem otrokom, oziroma kako za njih poskrbeti, da bi vse imeli pač interakcijo, a je možnost ustvarjanja njega mehurčka tudi za vrstnike."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1235.363,
+        "end": 1248.212,
+        "text": "Zdaj, ta teden smo bili priča sproščanja, v nekaterih okrebov, recimo v nekaterih statističnih regijah so se odprle trgovine z vrstnika."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1249.152,
+        "end": 1256.734,
+        "text": "ne vem, z čevlji in z oblekami, začeli so frizeri delati in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1257.754,
+        "end": 1271.857,
+        "text": "Zdaj, a ste pričakovali, gospod Prapr, da se bo obiskanost teh storitev, obiskanost pač trgovin, frizerjev in tako naprej v tem tednu tako pouspela, da ne bo"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1272.558,
+        "end": 1289.151,
+        "text": "da bojo ljudje dreveli v trgovine ali ste pričakovali, da bodo morda bolj previdni in čemu to pripisujete, a je to pač predbožični čas ali so pač sami ljudje siti teh ukrepov?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1289.956,
+        "end": 1293.597,
+        "text": "Tukaj bi se navezela na gospod Vidmar."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1293.957,
+        "end": 1310.581,
+        "text": "Vi ste, spomladi, bili mogoče optimistični oziroma ste bili optimistični, da bi mogoče zaradi te epidemije, te krize našli druge načine, nove načine koristiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1311.573,
+        "end": 1318.322,
+        "text": "obstajanja in videvanja smisla v drugemu kot v potrošništvu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1319.143,
+        "end": 1322.066,
+        "text": "Ste še vedno tako optimistični?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1324.718,
+        "end": 1333.702,
+        "text": "Zmerno, še vedno se mi pa zdi, da sveda je spet vprašanje nekega političnega in družbenega vodenja v ozadju."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1333.902,
+        "end": 1351.689,
+        "text": "Jaz verjamem, da za nekim načrtom, z neko vizijo za prihodnostjo, ki bo pomenila družbeni, kolektivni angažma, predstavimo splošni interes iz te cone ugodja v drugo cono ugodja, ki ni povezano s splošnjstvom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1351.729,
+        "end": 1352.49,
+        "text": "Skratka,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1353.878,
+        "end": 1380.629,
+        "text": "ta refleks, vrnimo se nazaj v staro stanje, je povezano tudi z statičnostjo družbene vizije oziroma odsotnostjo družbene vizije, ki jo upažamo na Zahodu in zagotovo v našem prostoru, ko pravzaprav nimamo nekih pripovedi, ki bi nas angažirale in ki bi nas spomnile na to, da vendarle delujemo v skupno dobro in da drži ne bomo dolgo časa zgodili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1382.431,
+        "end": 1383.891,
+        "text": "držalik kot družba."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1383.911,
+        "end": 1412.057,
+        "text": "Tako da jaz si pričakujem vendarle v prihodnosti nekih pozitivnih načrtov, kako iz te krize, kako na novo usmisliti naše kolektivno življenje, kako si zastaviti morda nekoliko drugačne cilje, ki ne bodo vezani na naše instantne želje, potrebe, da bodo malo bolj medgeneracijsko usmišljeni te cilji, ne mislim samo v odnosu do starejših, ampak tudi v odnosu do mlajših."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1412.958,
+        "end": 1416.36,
+        "text": "Gospod Podjed, bi še vi kaj komentirali?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1416.92,
+        "end": 1420.522,
+        "text": "Če ne, imam pa še dodatno vprašanje za vas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1421.082,
+        "end": 1427.105,
+        "text": "Najprej bi komentiral v zvezi z novimi načini potrošnjštva, kar je omenila gospa Vidmar Horvat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1427.285,
+        "end": 1432.408,
+        "text": "Se mi zdi, da smo v tem času, ko smo zaprti med čtirimi stenami,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1433.056,
+        "end": 1436.238,
+        "text": "kupovali približno enako kot lani, ampak na drug način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1436.599,
+        "end": 1442.343,
+        "text": "Tako da smo začeli pač naročati blago, da pride k nam na mesto, da bi šli v trgovine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1442.723,
+        "end": 1448.448,
+        "text": "Rezultat pa za planet, za trajnostnost družbe ni bistveno drugačen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1448.868,
+        "end": 1460.236,
+        "text": "In meni je bilo zanimivo, kako so se nekatera podjetja hitro prilagodila temu načinu nakupovanja, tako kot recimo Amazon, ki je dobesedno eksplodiral v"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1461.068,
+        "end": 1488.843,
+        "text": "za njih pozitivnem smislu, v enem letu in Jeff Bezos, ki je zaslužil v enem letu 100 milijard dolarjev, je res zmagovalec tega pandemskega časa, mislim, v tem poslovnem smislu zmagovalec, medtem pa nekatera podjetja, ki so v državni lasti, mimo grede kot je Pošta Slovenija, niso zmogla tega navala enostavno sprocesirati in se je Pošta zateknila"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1489.199,
+        "end": 1496.861,
+        "text": "Danes sem dobil recimo pošilko, ki se mi je naročil 25. oktober in si dopisoval nekaj časa s pošto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1497.121,
+        "end": 1498.281,
+        "text": "Na kaj to kaže?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1498.621,
+        "end": 1499.581,
+        "text": "To sem hvala te upozoriti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1500.582,
+        "end": 1506.083,
+        "text": "Prav na to, da imamo pomankanje nekih delavcev, zaradi katerih družba funkcionira."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1506.603,
+        "end": 1515.525,
+        "text": "Poštari, učitelji, zdravstveni delavci in tisti si zaslužijo v prihodnosti, ne v prihodnosti, danes više plače."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1515.912,
+        "end": 1528.516,
+        "text": "In samo zato bi prebral še pismo, ki sem ga potem napisal prijazni v službenki na pošti, ki mi je pisala, da se je paket zataknil in da lahko pričakujem dostavo v naslednjih dneh."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1529.016,
+        "end": 1538.34,
+        "text": "Takole sem napisal, pošti Slovenije, želim v prazničnih dneh uspešno delo in da bi končno zajahali na valu naročil in pošilk, namesto da se utapljate v njem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1538.42,
+        "end": 1545.262,
+        "text": "V letu, ki prihaja, vam želim in privoščim više plače za zaposlene, ter niže za tiste na vodilnih položajih,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1545.598,
+        "end": 1559.267,
+        "text": "ki si 30 odstotnega dodatka na 8 tisočakov osnovne bruto plače za letošnje upravljanje ne zaslužijo, ravno tako kot se ne zaslužijo še kakšnega pregrešno dragega nalivnega peresa z lato konico."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1559.807,
+        "end": 1561.728,
+        "text": "To je nek pač dobil lani za darilo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1562.309,
+        "end": 1571.955,
+        "text": "Namesto za prestižna darila in visoke dodatke vodilnim naj pošta Slovenije, denar raje nameni ljudem, ki ga rajo tako na terenu kot v pisarnah."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1572.195,
+        "end": 1572.635,
+        "text": "Srečno 2021."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1574.418,
+        "end": 1587.803,
+        "text": "To sem prebral samo zato, ker sem hotel povdariti, da delajmo v tem času bolj egalitarno družbo in dajmo povdariti tiste poklice, ki so dejansko pomembni za to, da družba funkcionira."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1588.403,
+        "end": 1595.706,
+        "text": "In se zahvaliti tistim ljudem, učiteljem recimo, ki se trudijo na vse kriple in pretege, da družba še vedno deluje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1597.182,
+        "end": 1621.952,
+        "text": "To ste tudi nedavno upozorili, da v primerjavi s epidemijo Kuge v 14. stoletju, takrat je ta epidemija povzročila neko uravnoteženje v družbi, medtem ko danes se bojite, da bo šlo prav nasprotno smer, da bojo bogati, bogatejši oziroma, da bo to ureslojevanje šlo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1622.697,
+        "end": 1628.019,
+        "text": "A to mislite v naši družbi ali pač sam na nivoju sil v svetu?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1629.42,
+        "end": 1643.405,
+        "text": "Ne, v vsaki družbi, v globalni družbi, vse to se kaže tudi v naši družbi, kot rečeno, izjemna manjšina ljudi je zmagovalcev v tem poslovnem smislu, ogromna večina pa poražencev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1643.706,
+        "end": 1647.067,
+        "text": "In tu velja to Matejevo pravilo iz Biblije,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1647.52,
+        "end": 1651.963,
+        "text": "Bogati bodo še bogatejši, revnim pa se bo še tisto, kar imajo, vzelo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1652.303,
+        "end": 1656.406,
+        "text": "In to moramo nujno preprečiti, če želimo imeti bolj solidarno družbo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1656.726,
+        "end": 1664.071,
+        "text": "In enako velja tudi s cepivom, pri katerem bi se te razlike lahko še povečale."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1664.271,
+        "end": 1672.897,
+        "text": "Nekatere države so si že zdaj zagotovile večje zaloge cepiva, kot jih sploh potrebujejo, medtem ko bo ogromno ljudi po svetu očitno ostalo necepljenih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1673.217,
+        "end": 1677.14,
+        "text": "In potem se bomo začeli spet razdelevat na tiste, ki so zdravi in bolani."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1677.507,
+        "end": 1678.867,
+        "text": "Cepljeni, ne cepljeni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1678.987,
+        "end": 1682.268,
+        "text": "Tisti, ki lahko delajo, ker so cepljeni in tisti, ki ne morejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1682.688,
+        "end": 1686.749,
+        "text": "Na tiste, ki se lahko gibljajo, so mobilni in tisti, ki niso mobilni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1686.809,
+        "end": 1695.311,
+        "text": "Tako da, če želimo delati boljšo družbo za prihodnost, mora biti tudi cepljenje nek globalni projekt."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1695.351,
+        "end": 1702.372,
+        "text": "Tako kot je bilo konec koncev tudi cepljenje proti črnim kozam v 70-ih letih prejšnjega stoletja."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1702.732,
+        "end": 1705.553,
+        "text": "In smo jih uspešno iztrebili na ta način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1706.153,
+        "end": 1706.993,
+        "text": "Drugi problem pa je,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1707.578,
+        "end": 1712.961,
+        "text": "v zvezi s tem, da se kar dobro deleš ljudi, ne bo želel cepiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1712.981,
+        "end": 1718.464,
+        "text": "Pa smo spet pri drugih vprašanjih, zakaj se ne bojo hotli cepiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1718.904,
+        "end": 1731.191,
+        "text": "Gospod Praper, bi pa še vas vprašalo, kako vidite vi, kakšna družba bomo išli iz te epidemije, a bomo bolj solidarni ali bomo bolj razdaljeni, pa tudi ali se..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1734.393,
+        "end": 1749.238,
+        "text": "pričakuje po krizi več psiholoških težav pri posameznikih, več tesnobnosti, več depresij in koliko časa bojo ti učinki na psihično zdravje trajali?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1749.618,
+        "end": 1753.28,
+        "text": "Gre to za leta?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1753.36,
+        "end": 1759.162,
+        "text": "Mogoče bi se mislili, da je kolega Dan zelo pomembno"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1759.722,
+        "end": 1762.963,
+        "text": "izpostavil eno temo, ki mislim, da jo moramo nasloviti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1763.003,
+        "end": 1785.608,
+        "text": "Mislim, da je kriza pokazala, kdo v tem našem kapitalističnem neoliberalnem redu so družbeni proizvajalci, ker smo donedavnega živeli v predstavah, da so tisti, ki ustvarjajo družbeni produkt,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1785.963,
+        "end": 1813.86,
+        "text": "v resnici Jeff Bezos in podobni, se pravi tisti, ki so vključeni v globalne korporativne mreže in ustvarjajo profite z transakcijami, ki nimajo nujno upraviti z družbenim dobrim, med tem, ko pravi proizvajalci družbenega dobrega so poštari, učiteljice, učitelji, zdravstveno vsebje,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1815.177,
+        "end": 1821.262,
+        "text": "poskrbovalci, vadovovih in tako naprej brez njih sistem pade."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1821.742,
+        "end": 1840.878,
+        "text": "Torej najprej bo treba najverjetnej na novo premisliti, kako razumemo javni sektor ustanove javnega dobrega in mislim, da bomo v tem trenutku morda razrešili tudi drugo vprašanje, kako razumeti vzajemno, solidarno ravnanje, ki se deva skupno dobro."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1841.448,
+        "end": 1845.811,
+        "text": "Seveda pa je treba na tem delati, delovati in z močnim političnim vodenjem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1845.911,
+        "end": 1854.057,
+        "text": "Še enkrat imamo primer švedske, samo odgovorni in zreli državljani niso zadosti za spokajanje za krizo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1854.157,
+        "end": 1861.363,
+        "text": "Potrebujemo pametno vodenje, z vizijo, z načrtom in seveda o podpori znanosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1862.022,
+        "end": 1880.073,
+        "text": "Mogoče bi dodal še to, mogoče bi se morali tudi politiki, znanstveniki bolj politično angažirati in konec koncev v nekaterih primerjih prevzeti vodenje ministerstev ali pa celo premjejske in predsedniške pozicije, tako kot v Nemčiji, recimo, kjer je znanstvenica"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1880.517,
+        "end": 1891.183,
+        "text": "na čelu države in morda zato bolje razume, ukrepe in jih znanstven način podajati ljudem in jih zato tudi bolj zaupajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1891.523,
+        "end": 1909.033,
+        "text": "V krizi se mi zdi, da je to še bolj pomembno kot v nekem mirnem času, ampak itak sam mislim, da živimo v času permanentne krize in da ta kriza, ki jo doživljamo zdaj, je šele začetek ene bistveno daljše krize, ki bo povezana s drugimi vzroki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1909.437,
+        "end": 1913.339,
+        "text": "podnebne krize, gospodarske krize in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1913.559,
+        "end": 1934.088,
+        "text": "Tako da to sedanje stanje je, po mojem, priprava na družbo prihodnosti in tu moremo dejansko vzpostaviti neka nova razmerja in dati znanosti spet vrednost, če hočemo biti razsvetljensko družbo prihodnosti, če hočemo biti dejansko družba znanja in povišati tudi delež financiranja, seveda, za znanost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1935.408,
+        "end": 1951.975,
+        "text": "Če smo že pri vas, mi dolgujete še odgovor na prejšnje vprašanje, kakšni bomo psihično išli iz te krize, a bo več depresij psihičnih motenj in kako dolgo se bo to kazalo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1954.696,
+        "end": 1954.996,
+        "text": "Dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1957.042,
+        "end": 1963.243,
+        "text": "bi kdo še dodal kakšno zadevo, sicer bom počasi zaključila s to razpravo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1963.643,
+        "end": 1967.044,
+        "text": "Ja, gospod podjetek, še vas bi še nekaj vprašala v bistvu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1967.444,
+        "end": 1973.985,
+        "text": "Vi ste kot antropolog tudi preočujete nove tehnologije in tako naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1974.866,
+        "end": 1981.747,
+        "text": "A si vi predstavljate današnjo epidemijo brez teh tehnologij?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1981.827,
+        "end": 1983.327,
+        "text": "Točno to sem hotel dodati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1983.747,
+        "end": 1986.608,
+        "text": "Ko smo govorili o razslojevanju v družbi,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1987.082,
+        "end": 1990.345,
+        "text": "na bogate, parelne, cepljene in necepljene."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1990.545,
+        "end": 1998.353,
+        "text": "Zavedati se moramo, da tako v slovenski kot v globalni družbi se dogaja še ena ločnica, na povezane in nepovezane."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1998.693,
+        "end": 2002.436,
+        "text": "Tisti, ki imajo dostop do digitalnih tehnologij in tisti, ki jih nimajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2002.797,
+        "end": 2012.706,
+        "text": "Otroci, recimo, ki nimajo doma na voljo dovolj tablic, računalnikov in vsega za dostop do interneta, se ne morejo šolati tako kot tisti, ki imajo tega dovolj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2012.999,
+        "end": 2027.442,
+        "text": "in otroci, ki nimajo staršev, ki znajo, ne vem, zrežirati nek filmček, ki ga je treba potem poslati učiteljci po Arnesovi učilnici, mogoče ne bodo izpadli tako dobri učenci."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2027.503,
+        "end": 2039.805,
+        "text": "Se vem, da učiteljice in učitelji imajo to v glavi in razumejo vse te razlike, ampak vseeno, jaz mislim, da se v tem trenutku poglablja prav ta digitalna vrzel med tistimi, ki imajo dostop in tistimi, ki ga nimajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2039.926,
+        "end": 2041.786,
+        "text": "In moramo se zavedati, da ogromno"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2042.176,
+        "end": 2052.222,
+        "text": "slovencev nima dostopa do pametnih telefonov, kar se je izkazalo zdaj v primeru možnosti potovanja z aplikacijo Ostani zdrav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2052.262,
+        "end": 2061.688,
+        "text": "Veliko ljudi takega telefona, na katerem bi aplikacija delovala, nima in so bi lahko zaradi tega bili prikrajšani za prihod iz lastne občine."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2062.028,
+        "end": 2068.152,
+        "text": "Ogromno otrok je recimo oddaljenih od centrov, kot so Ljubljana, Maribor in"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2068.619,
+        "end": 2078.527,
+        "text": "nimajo pač optičnega kabla, da bi lahko normalno dostopal do Zooma in ostalih tehnologij, s katerimi danes komuniciramo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2078.827,
+        "end": 2090.055,
+        "text": "Še meni vse čas pada dol linija, zaradi tega, če se zdaj kar naenkrat priklopijo otroci v sosedni sobi, pač bomo mi morali nekaj zaradi tega pogovarjati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2090.096,
+        "end": 2096.22,
+        "text": "Tako da, ko govorimo o solidarnosti, moramo govoriti tudi o digitalni solidarnosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2096.681,
+        "end": 2098.442,
+        "text": "In pa, kar je izjemno pomembno,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2098.977,
+        "end": 2100.999,
+        "text": "preveč časa preživimo pred zasloni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2101.339,
+        "end": 2112.487,
+        "text": "Že po lanskih podatkih smo gledali v telefone tri in pol ure dnevno, v televizijske, oziroma štiri ure dnevno, v televizijske ekrane več kot tri ure in pol dnevno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2112.767,
+        "end": 2115.749,
+        "text": "Pa še ure in ure letos preživimo pred računalniki."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2116.05,
+        "end": 2120.233,
+        "text": "Otrokom ne rečemo pojdi v šolo, rečemo mu pojdi pred računalnik."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2120.613,
+        "end": 2122.615,
+        "text": "In kaj delajo potem, ko končajo s šolanjem?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2122.735,
+        "end": 2127.038,
+        "text": "Ja, igrajo Minecraft, zato ker ven ne smejo oziroma ni varno,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2127.293,
+        "end": 2130.374,
+        "text": "In zato se vse več zadržujemo v zaprtih prostorih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2130.834,
+        "end": 2141.796,
+        "text": "Želanje Svetovna zdravstvena organizacija opozarjala, da se otroci gibljajo, tako da pač se zdivjajo, to, če mora pravimo šport, samo eno uro na dan ali manj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2142.497,
+        "end": 2146.218,
+        "text": "Kake bodo posledicne letošnje epidemije na dolgi rok?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2146.778,
+        "end": 2147.618,
+        "text": "Tega nihče ne ve."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2147.958,
+        "end": 2151.479,
+        "text": "Kako bo to učinkovalo na družbo čez 10-20 let?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2151.799,
+        "end": 2156.24,
+        "text": "Koliko bo več zaradi tega diabetesa,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2156.605,
+        "end": 2159.166,
+        "text": "koliko bo več pretežkih otrok."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2159.726,
+        "end": 2164.509,
+        "text": "Že leto so rezultati bojda porazni, tako vsaj sporočajo učitelji."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2164.569,
+        "end": 2171.572,
+        "text": "In za to me skrbi, kakšna družba nastaja v prihodnosti, kakšen bo ta homo-covidensis, ki ga zdaj oblikujemo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2171.992,
+        "end": 2182.197,
+        "text": "Lani je bil to, ali pa pred desetletji je bil to nek dvonožec, ki se je pomikal, zdaj pa res smo zasedena bitja, ki bolj spominjajo na korale kot pa ljudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2182.917,
+        "end": 2184.838,
+        "text": "Preveč sedimo, premalo se gibljemo,"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2185.073,
+        "end": 2187.416,
+        "text": "In premalokrat si privoščimo odklop."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2187.836,
+        "end": 2192.942,
+        "text": "Jaz sem čiri preživel na Zoomu sedem ur, gledal v ekran dvodimensionalne ljudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2193.522,
+        "end": 2197.267,
+        "text": "Mislim, to ni normalen človeški stik, to, kar počnemo mi zdajle."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2198.128,
+        "end": 2203.554,
+        "text": "In zato jaz mislim, da se moramo odklopiti in da nam morejo pri tem pomagati tudi tehnologije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2204.935,
+        "end": 2220.865,
+        "text": "O tem, kakšen je vpliv te krize na gibalne sposobnosti v trok, mislim, da bo kolega gostil okrog Lomizo v prihodnem tednu, tako da vse, ki nas gledate, tudi vabljeni je ktev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2220.965,
+        "end": 2223.367,
+        "text": "Ampak se strinjam, boljše je kot nič."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2223.447,
+        "end": 2226.188,
+        "text": "Jaz sem zelo vesel, da se vidim z vami tudi nadaljavo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2226.308,
+        "end": 2229.35,
+        "text": "Iskreno sem vesel, ker lahko izmenjamo ideje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2229.41,
+        "end": 2231.912,
+        "text": "Sicer bi bil sam v spalnici, kjer se zdaj nahajam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2232.425,
+        "end": 2238.47,
+        "text": "in si jo vedno znova insceniram, tako da izgleda bolje kot sicer ta naša mala potemkinova vas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2238.81,
+        "end": 2244.215,
+        "text": "Ampak ni pa isto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2244.275,
+        "end": 2254.323,
+        "text": "Zato jaz mislim, da v prihodnosti bodo modeli poučevanja verjetno spet bistveno bolj fizični, kot so pa so bili letošnje leto."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2254.603,
+        "end": 2258.666,
+        "text": "In otroci, moji otroci, to fizično šolo prav pogrešajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2258.726,
+        "end": 2260.628,
+        "text": "Mislim, vidim jih, da si želijo"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2261.18,
+        "end": 2271.803,
+        "text": "in da potrebujejo ta fizični stik z sošolci, z učitelji, z hirarhijami, ki se tam vzpostavljajo in z rušenjem tih hirarhij, se tudi tega se morejo naučiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2272.104,
+        "end": 2278.626,
+        "text": "In jaz jih žal, lahko jim podajam to snov, pomagam podajati to snov, ne morem pa jih naučiti vsega drugega, kar jim daje šola."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2279.366,
+        "end": 2282.347,
+        "text": "Še gospe Vidmar, dam priložnost."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2284.197,
+        "end": 2306.548,
+        "text": "Jaz mislim, da iz te krize, iz pandemije ne bomo izšli vsi enaki, ampak se bodo, kot so se oblikovali, nove hierarhije in nove razredne rane, predvsem pri mladi generaciji, ki ima danes omejen dostop do šola, ne zradi tehničnih, tehnoloških, finančnih, socioekonomskih in drugih razlogov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2306.828,
+        "end": 2311.31,
+        "text": "Pogovorimo o solidarnosti, ki naj bi bila naš projekt, domnevam,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2311.754,
+        "end": 2330.739,
+        "text": "imamo neko soglasje v tem za prihodno kratkoročno obdobje, vsaj bomo najverjetnej morali izmišljati o teh novih skupinah, ki nastajajo, ranljivih in s katerimi se potreba pod sebe najverjetnejje ukvarjati, kako pravzaprav pomagati prebroditi postkrizno obdobje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2331.079,
+        "end": 2336.42,
+        "text": "Nismo omenili kulturnikov, kaj pomeni, da smo koliko mesecev brez kulture"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2336.965,
+        "end": 2338.266,
+        "text": "brez umetnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2339.066,
+        "end": 2346.41,
+        "text": "Nismo omenili celega kupa poklicov, ki bodo ravno tako se znašli v neki tečki situaciji."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2346.47,
+        "end": 2354.914,
+        "text": "Zato se mi zdi, da je zelo pomembno, da razumemo, da znanost, ki bo stopila v ta projekt, če bo povabljena, mora stopiti interdisciplinarno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2354.994,
+        "end": 2365.539,
+        "text": "Preveč otprtih področje, da bi to lahko prevzela samo biomedicina, samo psihologija, samo antropologija, samo sociologija, ampak je dejansko potreben kolektiven napor,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2365.957,
+        "end": 2370.018,
+        "text": "ker bo novih razrednih družbenih zelo, zelo veliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2371.279,
+        "end": 2383.062,
+        "text": "In celo ne samo to, jaz mislim, da moramo sodelovati tako znanstveniki kot kulturniki, kot gospodarstvo in se povezati, ne pa da se zapiramo v svoje mehurčke."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2383.322,
+        "end": 2391.185,
+        "text": "Jaz mislim, da zdaj ni več časa za vrtičkarstvo, zdaj je pred nami eno veliko polje, ki ga moramo na novo kultivirati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2393.345,
+        "end": 2393.626,
+        "text": "Dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2396.23,
+        "end": 2405.934,
+        "text": "Če nimate več kakršnih volj pripomp, bi se jaz vam zahvalila za to udeležbo, za razpravo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2405.954,
+        "end": 2414.117,
+        "text": "Vse, ki ste nas spremljali vživo, se vam tudi zahvaljujem in vas pozdravljam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2414.437,
+        "end": 2424.402,
+        "text": "In vas hkrati vabim na že omenjeno okroglo mizo, ki bo v torek in bo govorila o vplivu epidemije na gebalne sposobnosti mladih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2425.542,
+        "end": 2426.312,
+        "text": "Lep pozdrav!"
+      }
+    ],
+    "runtime_sec": 703.9242594242096
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.05816739789343087,
+      "miss": 0.03839546046405833,
+      "fa": 0.0015622611820064903,
+      "confusion": 0.018209676247366045,
+      "total_duration": 2394.6059999999516
+    },
+    "der_collar0.25": {
+      "der": 0.051228472628368604,
+      "miss": 0.03193262280467579,
+      "fa": 0.0012889451658876473,
+      "confusion": 0.018006904657805165,
+      "total_duration": 2113.355999999951
+    },
+    "wer": {
+      "wer": 0.24962574850299402,
+      "ref_words": 5344,
+      "hyp_words": 4793
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2.005,
+        "end": 19.083,
+        "text": "Lepo pozdravljeni na okrogli mizi v okviru portala STA Znanost, kovi devetnajst je zvsem, kar je epidemija prinesla s seboj, letos močno posegel v vsak dan posameznika, na preizkušnje postavi mnoge družine in celotno družbo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 20.163,
+        "end": 29.596,
+        "text": "Verjetno si lani ob tem času ni nihče predstavljal, da več tednov ali mesecev ne bo mogel videti svojcev, ker so pač v drugi reviji ali občini."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 30.119,
+        "end": 41.662,
+        "text": "Da po enaindvajsti uri ne bo mogel svobodno iti v nas prehod in da bo tako drugače potekalo praznovanje božiče in novega leta, kot se trudnotno obeta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 42.758,
+        "end": 67.649,
+        "text": "O tem, kako epidemija in protikoronski ukrepi vplivajo na posameznika družine in družbo, zakaj so se spomladi ljudje drugače odzivali na ukrepe kot se danes in kakšna družba bomo izšli s te epidemije, bomo danes razpravljali. Antropolog dan podjet z Inštituta za slovensko narodopisje Zrc za sezum?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 68.223,
+        "end": 80.052,
+        "text": "Sociologinja Aksenija Vidmar Horvat s Filozofske fakultete Univerze v Ljubljani in klinični psiholog in psihoterapevt Peter Praper, lepo pozdravljeni vsi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 80.71,
+        "end": 90.532,
+        "text": "Najzešelje predstavi mesec, moja ime je Anja Gorenjc, sem novinarka slovenske tiskovne agencije in bom moderirala ta pogovor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 91.055,
+        "end": 115.439,
+        "text": "Doktor Praper, praper je začela bliz vami, zakaj po vašem mnenju se ljudje v tokratnem epidemičnem valu ne držijo tako strogo ukrepov, kakor so separacimo spomladi, vsaj to nam razlagajo pač pristojnikov, utemeljujejo, zakaj epidemija še traja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 119.084,
+        "end": 121.244,
+        "text": "Še oklopite glas, prosim?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 125.345,
+        "end": 125.783,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 126.88,
+        "end": 135.284,
+        "text": "V tem obisvu vi mislite, da spomladi so se ljudje bali blisobolj solidarni, medtem ko zdaj pa..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 136.415,
+        "end": 139.368,
+        "text": "V ospredje prihaja egoizem, ali kako."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 140.228,
+        "end": 140.718,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 141.325,
+        "end": 162.031,
+        "text": "Gospa Vidmar Horvat bi se strinjali s gospodom Praperjem v tej tezi, kar bistr recimo spomladi še z kolegijstvami, ko ste opravljali intervju, ste opažali, da v času pandemije se oživlja ideje solidarnosti, kako je danes?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 163.735,
+        "end": 205.282,
+        "text": "Soreja bi se strinjala, da najverjetneje spomladanski val je bil na nek način opredeljen s tesnobozneznanim tudi z rahlim šokom in jaz sem sama spomladi razmišljala v dveh smerih, da se bo najverjetneje mobilizirala solidarnost in pa da imamo tudi priložnost, da to solidarno sami izkažemo oziroma jo vrnemo nazaj v naše življenje, ker kot je kolega dejal smo zares v zadnjih treh desetletjih od obremenjenih z individualistom in trebičnostjo in na nek način sem videla kriza kot igrožnost, da morda obrnemo krmilo v neko bolj skupstno vizijo prihodnosti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 205.872,
+        "end": 211.593,
+        "text": "Ker vidimo jeseni, bi najverjetnori morali povezati, zato bi tukaj sestrinjam z..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 212.116,
+        "end": 244.634,
+        "text": "S zavrstim obdobjem raziskava, ki so jo opravili kolegi na univerzi v Stenfordu, je pokazala, da smo s Slovenci v poletje, najverjetneje tukaj bi morda nekoliko..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 245.225,
+        "end": 314.024,
+        "text": "Se ne strinjala, sem v samo, da gre tukaj za neko ljudsko neodobornost, ampak najverjetneje smo v tistem času dobili signal, da v resnici stvari niso tako zelo resne, da ne zadevajo skupnosti kot celote, da se da ubirati srednjo pot, da si lahko vrnemo nazaj v naše staro normalno stanje in v kombinaciji z potem najverjetneje, kar se danes trenimo zelo ne pravim pristopanjem v komuniciranju vlade z državljani in državiljanjkami smo potem pa češli s situacijo, v kateri smo danes, posledi, da nam ukrepe odreja politika, politični interesi, lobi, da vzadju ni stroke, kot razkrivajo dokumenti, včeraj objavljeni dokumenti je stroka pravočasno opozorila na nujnost omejevanja, na nujenost ukrepanja pa smo odčakali na politične odločitev, ko vidimo danes niso bile nepremišljene neusmerjene v kolektivno dobro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 315.458,
+        "end": 331.507,
+        "text": "Še gospoda Podje, da bi isto vprašala, torej zakaj, kakšna je razlika med pomladjo in jesenjo, zakaj smo bili takrat res pridni, no, še tako lahko rečem zbej pa se ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 332.435,
+        "end": 349.411,
+        "text": "Ne držimo tako ukrepov, kar bi si želeli, da bi epidemija pač padala hitreje in pa po vašem menju, kako nujno je, da se v pripravu ukrepu in pa njihovo komuniciranje vključi družboslovce in humaniste."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 351.773,
+        "end": 363.89,
+        "text": "A beseda pridniki ste jo uporabili, se mi zdi še posebej pomenljiva sploh za slovence, ki po eni strani se radi bahamos to vrlino, po drugi stranji pa kadar koli označimo, koga da je."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 364.531,
+        "end": 432.807,
+        "text": "Pride se ljudje uprejo in mogoče bila to napaka, da smo bili v prvem valu preveč pridni in premalo previdni in tudi sam opažal enako, kot sta oba sogovornika omenila, da je bilo v prven valu bistveno več solidarnosti, tudi Samsung takrat napovedoval glej razvija se neka boljša, bolj solidarna družba, ne samo v Sloveniji, ampak celo globalno. Zmanjšali smo izpustetjo plogrednih plinov, potovati smo začeli drugače, se obnašat bolj, solidarno pomagajo do drug drugemu, čez poletje pa je vse to izpuhtelo in mogoče tudi zaradi naveličanosti drugega vala pravzaprav nismo pričakovali, vsaj v Sloveniji ne, zaradi tega, ker smo prvega preživeli razmeroma lagodno, vsajo v primerjavi z nekaterimi sosednjimi državami, recimo z Italijo in zdaj se nam ob istvu ponavlja italijanski scenarij in to je bila velika napaka, da smo vse enostavno preveč sprostili, bili premalo pridni."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 434.242,
+        "end": 446.307,
+        "text": "Zakaj pa se je to zgodilo pajdejansko povezano z komuniciranjem in predvsem z komunikacijo strani vlade, ki ljudi ni motivirala očitno na pravi način?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 446.999,
+        "end": 457.563,
+        "text": "Kako motivira človeka, najslagša na ta način, da ga postaviš v neko otroško vlogo in ga možuga žbodi s spalico ali pa ga nagrajuješ s korenčkom?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 458.423,
+        "end": 491.313,
+        "text": "Zgrešen pristop bi morali biti komunikacije namreč bolj človeški, bolj iz oči v oču, tako kot je recimo komunicirala novozelandska premijeka Džasinda Erdern, ki se je javljala iz svojega bivališča ljudem po državi, po zumu, takako mi komuniciramo danes v neki razvlečeni trenirki in se mi zdi že to, že sama podoba je dobro sporočilo, kaj pa vemo mi o politikih, ki nam govorijo sicer spiedestala, kakaj moramo početi, kako moramo ravnati."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 491.887,
+        "end": 518.853,
+        "text": "Kaj počnejo zasebno, pravzaprav ne vemo ničesar in poleg tega to sporočilo ne pride do tistih skupin, ki so bile najmanj pridne, kot so rekli politiki, do mladih, recimo, ki se potem obnašali v neregovajih razvratno na Hrvaškem in se zabavali in širili viruse, do njih bi moral dostopati do potikih sami uporabljajo, vse mladine gledajo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 519.629,
+        "end": 542.039,
+        "text": "Govornika vlada Jelka Kacina po televizijskem prenosu Televizije Slovenija pa ko uporabljajo svoje poti, Instagram, tik tok, Snapchat ne komunicirajo po Facebooku in Twitterju, ker to so orodja, ki jih uporabljajo starejši, tako da zato bi moral v strokovni svet vključiti ne samo mikrobiologe."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 542.731,
+        "end": 559.724,
+        "text": "Strokovnjake za infekcijske bolezni, strokovnjake za javno zdravje, ampak strokovhnjake z ljudi, antropologe, sociologe komunikologe filozofe in kulturologe recimo pa tiste, ki so konec koncev medij današnjega časa."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 560.602,
+        "end": 564.517,
+        "text": "Vplivne že oziroma, influjenca, reko ti mlektiri pravijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 565.107,
+        "end": 567.537,
+        "text": "Finska vlada jih je angažirala že v prvem valu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 568.921,
+        "end": 576.802,
+        "text": "Če sva že zdaj pri medijskih oziroma pri mnenjskih voditeljih, pri vplivnejših..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 577.78,
+        "end": 581.948,
+        "text": "Zakaj znanost ni, pa stroka ni bolj vplivna?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 583.045,
+        "end": 584.682,
+        "text": "Zakaj se je več ne sliši?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 585.391,
+        "end": 586.505,
+        "text": "In več ne razume."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 587.737,
+        "end": 590.69,
+        "text": "Po eni strani zato, ker..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 591.314,
+        "end": 592.09,
+        "text": "Ne znamo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 592.664,
+        "end": 623.039,
+        "text": "Odgovorov na razmeroma preprosta vprašanja podatna tak način, da bi jih ljudje razumeli. Radi znanstveniki radi stvari še bolj zakompliciramo, kot je potrebno in jih ne podajamo ljudem po kanalih, ki jih sami uporabljajo, se ne pravim, da morajo začet zde vsi znanstveniki uporabljati tik tok pa ne vem nekaj nove načine komuniciranja, ampak bit bolj dostopni mogoče in na kratko in jasno povedat."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 623.883,
+        "end": 636.657,
+        "text": "Kar tisto, kar družbo najbolj zanima, se konec koncejo tudi to vloga znanosti, komuniciranje, popularizacija vedenja, ne pa da ostajamo v nekem mehurčku ali pa v slonakoščenem stolpu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 637.349,
+        "end": 648.166,
+        "text": "Torej je še kako pomembno, da so pač vsi ukrepi pravilno oziroma preprosto razloženi, zdravo razumsko, da jih normalno lahko..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 648.858,
+        "end": 653.532,
+        "text": "Vidiš, kaj je tudi v ozadju teh okrepov?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 652.418,
+        "end": 652.908,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 653.971,
+        "end": 655.608,
+        "text": "Seveda in ne samo to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 656.165,
+        "end": 670.913,
+        "text": "Ampak da so ukrepi dosledni, je zdi ta hip sploh ne vem danes zjutraj sem šel na kolo in se peljal po Ljubljani in nisem vedno, kaj zdaj že točna, mora med masko na obrazu, a mi je ni treba med, kakšna razdalja do človeka, ki..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 672.382,
+        "end": 675.385,
+        "text": "Ok, s katerim komuniciram in tako dalje pač..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 675.993,
+        "end": 680.667,
+        "text": "Enostavno nismo več sledil vsem tem novim in novim odlokom."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 681.578,
+        "end": 693.644,
+        "text": "Komunikacija mora bit jasna, kratka, razumljiva in dosledna in pa predvsem politiki in vnenjske vodje morajo med integriteto in se ravnat po lastnih navodilih, to je lahko druga velika komunikacijska napaka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 694.657,
+        "end": 702.031,
+        "text": "Če se smemo vključiti rahlo v zagovor znanosti, zagotovo znanose pa morajo naučiti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 702.605,
+        "end": 712.747,
+        "text": "In mislim, da se je že naučila tekon tehnika in mesecev komuniciranja z javnostjo, ki bo razumljivo jasno in ki bo..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 713.506,
+        "end": 761.363,
+        "text": "Povsem odkrito, tudi v smišlju, kadar nečesa ne vemo, da to povemo, kar je pa seveda neke vrste konfliktna situacija, ker smo se znašli v družbi tudi zaradi medijev, tidi zaradi vplivnežev, ko pričakujemo instantne odgovore, jasne odgovorje čiste resnice brez bomov in znanost ima tukaj sveta zelo težko nalogo, drugo, ker bi pa izpostavila je pa da pravzaprav se v zadnjih nekaj letih ali desetletjih globalno predvsem po slovenskem proporu srečujemo shudo eruzijo zaupanja, v znanst, v avtoriteto znannosti in to erozijo spožejo tudi politične elite z tem za znanstvo in univerz, dejavno univerzo pogosto, atratijo v tožbro računski uporabnikov, porabnikom."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 761.87,
+        "end": 817.203,
+        "text": "Bremena stroška, ki ga podružbo ne potrebujemo in če veliko ita tako klimo negativnega odnosa poznanosti in reducirate zavez ljudi, zmanjšujete razumevanje kakšen je pomen znanosti za skupno javno dobro, potem v takih kriznih trenutkih zelo težko mobilizirate kar na enkrat zaupanje ljudi, pa ta iste akterje, pa katere smo navajani, je pa res, da je podrečeno v Sloveniji sluplji v zadnjih desetih letih zelo hlapkevski, se pa nasplošno v zahodnem svetu do danes skorijo o ekistemološki krizi, ki je širši fenomen, tak dejansko pomeni upad zaupanja v avtoritete, ki so pač avtoriteten na podlagi upravljanja z dejstvi, z podatki, z znanstvenimi metodami, pristopanja do problemov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 817.675,
+        "end": 848.742,
+        "text": "Ob tem bi samo to še dodal, da se strinjam in da ja dejansko tudi zaradi vplivnežev, ki producirajo neke novice in jih sprožajo potem naokoli po svojih omrežjih, še bolj tonemo v znanstveno temo iz nekega, recimo temu razsvetljenstva, in tudi za radi takih posameznikov, ki širijo polresnice laži ali pa fabricirajo nekaj novice, zaradi tega ljudje ne vejo več komu zaupat, problem pa je, ker zaupajo tistim, ki so bolj omreženi kot pa tistimi, ki bi bolj kredibilni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 850.717,
+        "end": 883.387,
+        "text": "Glede novih tehnologij in komuniciranja v tem času pa njihovih vplivov bomo še malkastneje, zdi bi vas pa vprašala to, kako je, kakor karakter posameznika vpliva na to, a kako dojema epidemijo oziroma ukrepe, recimo na najbolj banalnem primeru ali so introvertiranci zdej semajo res fajn, kar se jim ni treba tok družit, ne in extrovertiranci so pa v bistvu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 884.062,
+        "end": 887.099,
+        "text": "Ostali ob vse, se lahko strinjate s tem?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 888.095,
+        "end": 891.453,
+        "text": "Gospod podjet, ste še hodli vekej glede ga?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 890.609,
+        "end": 891.098,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 891.892,
+        "end": 892.364,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 892.195,
+        "end": 895.148,
+        "text": "Ob tem bi dodal samo to, da..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 895.672,
+        "end": 904.987,
+        "text": "Problem je, če pač vlada prevzame komuniciranje namesto, da bi ga znanost oziroma stroka v zvezi z zdravstvenim medicinskim."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 905.611,
+        "end": 917.677,
+        "text": "na raboslovnim in celo družboslovkim fenomenom, in to bi bila po mojem prava rešitev, da bi od začetka komunicirala stroka in to na način, ki ga ljudje razumejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 918.25,
+        "end": 950.043,
+        "text": "Morda bi se sam vrla prej, recimo na novinarskih konferencah vlade namenjenih kovic stanju, ne v državi, ki so vsak dan smo zasledili, recimostrokovnjake na svojem področju, smo zasledili mnoge zdravnike, infektologe, recimo smo zasledili psihologe psihoterapevte zložji rok profil ljudi, ki so nagovarjali ljudje.Zakaj skozi ta, mislim, zakaj še vedno?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 950.684,
+        "end": 958.666,
+        "text": "Niso bili, ne vem če, a niso bili uspešni, zakaj ta komunikacija očitno ni dolovala, če ni, ne veem."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 959.628,
+        "end": 963.188,
+        "text": "Ampak tokar omenjate se potem vse zreduciralo na neko..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 963.796,
+        "end": 1020.462,
+        "text": "Sveto trojico Krek Beovič kacin in stroka je zginila v bistvu iz piedestala, na koncu je stal prav za prostomo še kacini, ki je komuniciral z ljudmi in ki smo ga meli mimo grede za nekega junaka in ga poslušali leta tisoč devetsto enaindevetdeset, ko smo, ko se je Slovenija osamosvojala in sem bil sam najstnik in smo ob polnoči v diskoteki upili jelko, jelkko. In na ta način si res takrat nabral ogromno socialnega kapitala in razumem, da so tega človeka pač hoteli tudi zdel uporabiti za spodbudo ljudem, ki se treba povezati, da gremo v boj proti pandemiji in ravno ta beseda boje problematična to ni boj, ampak gre za sodelovanje. Tu ni nikogar proti komor, bi se lahko borili in na kogar bi lahko streljali z naboji."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1021.205,
+        "end": 1031.313,
+        "text": "Vzponjala, da bi bilo vseh nekaj, da so še vsega, da je bilo našli, da se je bil obvsem, da si je bil bilo, da ga je bil vse odločen."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1031.937,
+        "end": 1053.79,
+        "text": "Mnoge družine, ki so bile že tako šibke iz takšnih ali drugačnih razlogov, so se v tem času znašle v stiski, znajdajo se po ustiski tiste družini, ki bi prej, recimo popolnoma funkcionalne zaradi šoljanje v doma, delov doma vse vsega hratnega."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1054.297,
+        "end": 1060.54,
+        "text": "Kako bo ta epidemija in vsi ti ukrepi vplivali na družine?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1062.127,
+        "end": 1074.918,
+        "text": "Poglejte, če mogoče se navežem na prejšnjo debato, ni vse v komuniciranju, je pa veliko, ne ta vlada ni od očerej, akterji, ki so v vladi, so nam znani skozi več desetletij zgodovine in..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1075.559,
+        "end": 1080.115,
+        "text": "Odziv javnosti po različnih državah na vladne ukrepe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1080.638,
+        "end": 1087.591,
+        "text": "Je odvisen tudi od splošnega zaupanja javnosti v vlado, ki pač..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1088.114,
+        "end": 1105.158,
+        "text": "Posreduje ti ukripe, tako da ne gre samo za vprašanje tehnikali, kako se to skomunicira, ampak tudi, kaj razumema, da so neke preidnostne politične naloge, vrednote družbene solidarnosti pomočin tako na prejkih, promovirah,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1105.698,
+        "end": 1124.243,
+        "text": "Razširja nekaj oblast, na ta način potem tudi lažje razumemo kakšne so reakti ljudi in primer družine je zagotovo in taker pa vzaprav lahko oblast plažejo neko sočutno, vzprav plat razumevanja stiske ljudji in stisce so bile raznolite."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1124.935,
+        "end": 1192.047,
+        "text": "Tako spremljam mednarodno podjadrično združenje, vidim, da obstajajo priporočila staršem, kako naj pomagajo odrokom skozi obdobje, ki je za najstnike zagotovo zelo težko, za majhne odroke, ki pravkrat stopajo v šolo in tako naprej. Imamo priporočila, ki so zelo smiselna smot, kako pravzaprav v stiskam pomagati s staršem, statistike so lahko povezane z boleznijo, z žalovanjem, ker so izgubi skojje dvižnje, za ekonomsko situacijo v takih kriznih situacijah pričakujemo, da bodo javni sektor, javnici sistem, jave institucije tiste, ki bodo ob močnem političnem vodenju sreda pristopile na pomoč k ljudem, mi pa smo v obratni situaciji, da se zdi, da smo zdaj starši tisti, ki pomagamo šolskemu sistemu, medicinsko osebje tisto, ki doma zdravstvenemu sistemu. Negovalke in negovalci tisti, ki pomagejo osiromašanemu sistemo v domih zaostarele in po naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1192.773,
+        "end": 1195.557,
+        "text": "Gospod Prapar, kako je pa, recimo..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1196.198,
+        "end": 1220.701,
+        "text": "Če pomislimo na otroke v teh časih, ki se praviloma vsaj naj ne bi družili s sovrstniki in recimo veliko otrok poznam, ki si dejansko ne ne družijo s sovtniki, čeprav je to zelo pomembno za njihovo socializacijo, eno je verjetno, če v te otroci odraščajo v družini, kjer je več otrok, drugo pa če je edinec."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1221.376,
+        "end": 1233.897,
+        "text": "Kako je pač tem otroka moziroma kako za njih poskrbeti, da bi vse imeli pač interakcijo?A je možnost ustvarjanja negamehurčka tudi za..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1234.589,
+        "end": 1235.568,
+        "text": "Vrstnik je nam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1237.053,
+        "end": 1248.275,
+        "text": "Zdaj ta teden smo videli, smo bili priča sproščanju, na katerih ukrebov, recimo v nekaterih statističnih regijah so se odprle trgovine z..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1249.152,
+        "end": 1256.813,
+        "text": "Ne vem, z čevlji in z oblekami začeli so frizerji delati in to naprej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1257.691,
+        "end": 1269.132,
+        "text": "Zdaj, a ste pričakovali, gospod Praper, da bo se obiskanost teh storitev obiskano s trgovin frizerjev in konec v tem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1269.858,
+        "end": 1271.866,
+        "text": "Tedno tako povzpela, da ne bo..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1272.541,
+        "end": 1285.433,
+        "text": "Da bo jo ljudje drveli v trgovine ali ste pričakali, da bodo morda bolj previdni in čemu to pripisujete, a je to pač predbožični čas."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1286.497,
+        "end": 1289.23,
+        "text": "So pač sam ljudje siti v teh ukrepu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1289.922,
+        "end": 1297.702,
+        "text": "Tukaj bi se navezala na vzpovidmar, vi ste spomladi bli mogoče?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1298.393,
+        "end": 1307.084,
+        "text": "Optimistični oziroma stebli, optimističi, da bi mogoče zaradi tej epidemije te krize našli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1307.59,
+        "end": 1310.83,
+        "text": "Druge načine, nove načinke..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1311.573,
+        "end": 1322.71,
+        "text": "Obstajanja in videvanja smisla v drugemu kot, recimo, potrošništvu ste še vedno tako optimističnih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1323.925,
+        "end": 1351.702,
+        "text": "Zmerno, še vedno se mi pa zdi, da sveda je spet vprašanje nekega političnega in družbenega vodenja v ozadju, ne?Je svarjamen, da za nekim načrtom z neko vizijo za prihodnostjo, ki bo pomenila družbani kolektivni angažma, razstavimo splošni interes iz te cone ugodja v drugo cono ugodje, ki ni povezano s sploše."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1352.36,
+        "end": 1353.271,
+        "text": "A, skratka..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1353.878,
+        "end": 1369.353,
+        "text": "Ta refleks, ne, vrnimo se nazaj v staro stanje, je povezano tudi s statičnostjo družbene vizije oziroma odsotnostjo Družbene visije, ki opažamo na zahodu in zagotovo v našem prostoru, ko pravzaprav."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1365.168,
+        "end": 1365.59,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1369.673,
+        "end": 1374.179,
+        "text": "Ninamo nekih poved, ki bi nas angažirale in ki bi nes..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1370.163,
+        "end": 1370.703,
+        "text": "Nima moj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1374.331,
+        "end": 1390.362,
+        "text": "Spomnili na to, da vendarle delujemo vas kupno dobro in da drži ne bomo dolgočasa zdržali kot družba, tako da je, si pričakujem, vendarle v prihodnosti nekih pozitivnih načrtov kako iz te krize."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1390.919,
+        "end": 1412.047,
+        "text": "Kako na novo usmisliči naše kolektivno življenje, kako si pač zastaviti morda nekoliko drugačne cilje, ki ne bodo vezani na naše instantne želje potrebe, bodo malo bolj medgeneracijsko usmišljeni te cilji, ne mislim samo v odnosu do starejših, ampak tudi v odnosu domlajši."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1412.958,
+        "end": 1419.573,
+        "text": "Gospod podjetbi še vike komentirale, če ne, imam pa še dodatno vprašanje za vas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1420.332,
+        "end": 1481.521,
+        "text": "Ja, najprej bi komentiral v zvezi z novimi načini potrošništva, kar je omenila gospa Vidmar Horvat, se mi zdi, da smo ob istvu v tem času, ko smo zaprti med štirimi stenami, kupovali približno enako kot lani, ampak na drug način, tako da smo začeli pač naročati blago, da pride k nam namesto, da bi šli v trgovine, rezultat pa za planet, za trajnost družbe ni bistveno drugačen in meni je bilo zanimivo, kako so se nekatera podjetja hitro prilagodila temu načinu nakupovanja, tako kot recimo Amazon, ki je dobesedno eksplodiral v zanih pozitivnem smislu v enem letu in Džefbezos, ki jo je zaslužil v enemletu sto milijard dolarjev, je res zmagovalec tega pandemskega časa, mislim o tem poslovnem smislu zmagavalec, medtem pa nekatera podjetja, ki so v državni lasti mimo grede kot je pošta Slovenija niso zmogla."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1482.162,
+        "end": 1484.812,
+        "text": "Tega navala enostavno."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1485.318,
+        "end": 1595.849,
+        "text": "Sprocesirati in se je pošta zataknila, danes sem dobil recimo pošiljko, ki se mi naroči v petindvajsetega oktobra in si dopisoval nekaj časa s pošto, na kaj to kaže, to smeli opozoriti, prav nato, da mamo pomanjkanje nekih delavcev, ki zaradi katerih družba funkcionira poštarji, učitelji, zdravstveni delavci in tisti si zaslužijo v prihodnosti, naj v prihodnosti danes višje plače in samo zato bi prebral še pismo, ki sem ga potem napisal prijazni uslužbenki na pošti, ki mi je pisala pač, da se paket zataknil in da lahko pričakujem postavo v naslednjih dneh, tako le sem napisali poštis Slovenije želim v prazničnih dneh uspešno delo in da bi končno zajahali na valu naročil in pošiljk, namesto da se utapljate v njem.V leto, ki prihaja vam želim in privoščim višje plače za zaposlene ter nižje za tiste navodilnih položajih, ki si tridesetodstotnega dodatka na osem tisočakov osnovne bruto plačev za letošnje upravljanje ne zaslužijo, ravno tako kot si ne zasluzijo še kakšnega pregrešno dragega nalivnega peresa Slato konico, to je nek pač dobil lani za darilo.Namesto za prestižna darila in visoke dodatke vodilnim naj pošta Slovenije denar raje nameni ljudem, ki ga rajo tako na terenu kot v pisarnah srečno dva tisoč enaindvajset.To sem prebral samo zato, ker sem hotel poudarit, da delajmo v tem času bolj egalitarno družbo in temu poudari tiste poklice, ki so dejansko pomembni zato da družba funkcionira in se zahvaliti tistim ljudem učiteljem recimo, ki se trudijo na vse kriple in pretege, da drušba še vedno deluje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1597.182,
+        "end": 1609.467,
+        "text": "To ste tudi nedavno opozorili, da v bistvu recimo v primerjavi s epidemijo kuge v štirinajstem stoletju takrat je obisva ta epidemija povzročila neko..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1610.193,
+        "end": 1615.323,
+        "text": "Uravnoteženje v družbi, ne?Medtem ko danes se bojite, da bo..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1615.998,
+        "end": 1628.114,
+        "text": "šlo prav nasprotno smer, da bojo bogati, bogatejši oziroma, da bodo razslujevanje šlo na, a to mislite v naši družbi Alfač, sam na nivoju Sil v svetu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1629.295,
+        "end": 1705.57,
+        "text": "Ne, v vsaki družbi, v globalni družb, se to se kaže tudi v naši družbij kot rečeno izjemna manjšina ljudi je zmagovalcev, v temposlovnem smislu ogromna večina pa poražencev in tu velja to Matejevo pravilo iz biblije bogati bodo še bogatejši, revnim pa se bo še tisto, kar imajo v zelo in to moramo nujno prepreči, če želimo imeti bolj solidarno družbo in enako velja tudi s cepivom, ki pri katerem bi se te razlike lahko še povečale, nekatere države so si že zdaj zagotovile večje zaloge cepiva, kot jih sploh potrebujejo, medtem ko bo ogromno ljudi po svetu očitno ostalo necepljenih in potem se bomo začeli spet razdeljevat na tiste, ki so zdravi in bolani, cepljeni, necepleni, tisti, ki lahko delajo, ker so cepljenji in tisti,ki ne morejo na tiste, ki se lahko gibljejo, so mobilni in tistiki, ki niso mobilni, tako da če želimo narediti delat boljšo družbo za prihodnost, mora biti tudi cepljanje nek globalni projekt, takako kot je bil konec koncev tudi cepljenje proti črnim kozam v sedemdesetih letih prejšnjega stoletja in smo jih uspešno iztrebili na ta način."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1706.093,
+        "end": 1711.207,
+        "text": "Drugi problem pa je v zvezi s tem, da se kar doberšno delež ljudi ne bo želel cepit."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1712.945,
+        "end": 1714.21,
+        "text": "Pa smo spet pri."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1715.138,
+        "end": 1750.778,
+        "text": "Drugih vprašanjih, zakaj se ne bojo hotli cepitne, gospod Praper bi pa še vas oprašalo, bistvu kako vidite vi, kakšna družba bomo izšli iz te epidemije, a bomo bolj solidarni ali bomo volj razdeljeni, pa tudi, ali se pričakuje po krizi več psiholoških težav pri posameznikih, več tesnobnosti, ve č depresij in koliko časa bojo ti učinki na psihično zdravje trajali, recimo, gre tu za leta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1752.871,
+        "end": 1754.035,
+        "text": "Kaj pa..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1753.124,
+        "end": 1764.852,
+        "text": "Kaj pa, ja povedam svoje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1765.561,
+        "end": 1771.805,
+        "text": "Kdo v tem našem kapitalističnem neoliberalnem redu?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1772.311,
+        "end": 1775.348,
+        "text": "So družbeni proizvajalci?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1776.125,
+        "end": 1783.634,
+        "text": "Ker smo do nedavnega živeli v predstavah, da so tisti, ki ustvarjajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1784.191,
+        "end": 1799.902,
+        "text": "Družbeni produkt v resnici že vezos in podobni, se pravi tisti, ki so vključeni v globalne korporativne mreže in ustvarjajo profite z"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1800.408,
+        "end": 1814.617,
+        "text": "Transakcijami, ki nimajo nujno opraviti z družbenim dobri, medtem ko pravi proizvajalci družbenega nekaj pregega so poštarji, učiteljice, u čitelji, zdravstveno osebje."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1815.14,
+        "end": 1817.992,
+        "text": "Poskrbovalci v dovoljih in tako naprej brez njih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1818.532,
+        "end": 1819.966,
+        "text": "Sistem, da..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1820.86,
+        "end": 1828.724,
+        "text": "Torej najprej bo treba najverjetneje na novo premisliti, kako razumemo javni sektor ustanove javnega dobrega?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1829.264,
+        "end": 1861.512,
+        "text": "In mislim, da bomo v tem trenutku morda razrešili tudi drugo vprašanje, kako razumeti vzajemno solidarno ravnanje, ki se teva skupno dobro. Zveda pa je treba na tem delati, delovati in z močnim političnim vodenjem Šengrad imamo primer švedske samo odgovorni in zreli državljani niso zadosti za spokadenje z krizo potrebujemo pametno vodenje, z vizijo, z načrtom in seveda ob podpori znanosti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1861.968,
+        "end": 1934.243,
+        "text": "Mogoče bi dodal še to, mogoče sem moral tudi politiki bolj znanstveniki politično angažirati in konec koncev v nekaterih primerih prevzet vodenje ministrstev ali pa celo premijske in predsedniške pozicije, tako kot v Nemčiji recimo, kjer je znanstvenica na čelu države in morda zato bolje razume ukrepe in jih znanstvelj način podajati ljudem in ji za to tudi bolj zaupajo.V krizi se mi zdi, da je to še bolj pomembno kot v nekem mirnem času, ampak itak sam mislim, da živimo v času permanentne krize in da ta kriza, ki jo doživljamo zdaj, je šele začetek ene bistveno daljše križe, ki bo povezana z drugimi ozroki, podnebne krise, gospodarske krise in tako naprej, skoda to sedanje stanje je po mojem priprava na družbo prihodnosti in tu moramo dejansko vzpostaviti nekaj nova razmerja in ta znanosti spet vrednost, če hočemo bit razsvetljenjsko družboprihodnost, je, čer hočem obid dejanskov družba prihodnosti, če hočemo bi dejansko družba znanja in poviša tudi delež financiranja seveda za znanost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1935.408,
+        "end": 1941.415,
+        "text": "Če smo že pri vas, mi dolgujate še odgovor na prejšnjo vprašanje."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1942.006,
+        "end": 1952.097,
+        "text": "Kakšni bomo psihično izšli iz tega, iz te krize, a bo več depresi psihičnih motenj in kako dolgo se bodo kazalo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1954.662,
+        "end": 1956.282,
+        "text": "Tabro."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1957.025,
+        "end": 1974.153,
+        "text": "Bi kdo še dodal kakšno zadevo, sicer bom počasi zaključila storazpravo, ja gospod podjet, še vas bi še neki vprašala o bistvu.Viste kot antropolog tudi preučujete nove tehnologije in tako naprej?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1974.811,
+        "end": 1980.447,
+        "text": "A si vi predstavljate današnjo epidemijo brez teh tehnologij?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1981.628,
+        "end": 2022.972,
+        "text": "Se točno to sem hotu dodat, ko smo govorili o razslojevanju v družbi na bogate pa revne cepljene in necepljane, v zavedancem moramo, da tako slovenski kot v globalni družbih se dogaja še ena ločnica, napovezane in nepovezene, tisti, ki imajo dostop do digitalnih tehnologij in tisti, kjer jih nimajo, otroci recimo, ki nimajo doma na voljo dovolj tablic računalnikov in vsega za dostop Do interneta se ne morejo šola tako kot tisti, ki imajo tega dovol.In otroci, ki jimajo starše, okih znajo, ne vem zrežirat nek filmček, ki ga je treba potem poslad učiteljici po Arnesovi učilnici."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2023.883,
+        "end": 2052.892,
+        "text": "Mogoče ne bodo izpadli tako dobri učenci, saj vem, da učiteljice in učitali imajo te uglavje in razumejo vse te razlike, ampak vseeno, je z mislim, da se v tem trenutku poglablja prav ta digitalna vrzel med tistimi, ki imajo dostop in tistim, ki ga nimajo.In moramo se zavedati, da ogromno slovencev nima dostopa do pametnih telefonov, kar se izkazal zdaj v primeru možnosti potovanja z aplikacijo ostani zdrav, pač veliko ljudje."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2053.415,
+        "end": 2136.524,
+        "text": "Takega telefona, na katerem bi aplikacija delovala nima, ki so bi lahko zaradi tega bili prikrajšani za prehod iz lastne občine. Ogromno otrok je recimo oddaljenih od centrov, kot so Ljubljana Maribor in nimajo pač optičnega kabla, da bi mu potem, da bo lahko normalno dostopal do zuma in ostalih tehnologij s katerimi danes komuniciramo.Še meni ves čas pada dol linija zaradi tega, če se zdaj kar naenkrat priklopijo otroci v sosednji sobi, pač sem bomo mimoral nehat zaradi tega pogovarjati, tako da ko govorimo o solidarnosti, moramo govori tudi o digitalni solidarnasti in pa kar je izjemno pomembno preveč časa preživimo pred zasloni. Že po lanskih podatkih smo gledali v telefone tri in pol ure dnevno, oziroma štiri ure dni, v televizijske ekrane več kot tri ure in pol dneveno pa še ure le letos preživimo pred računalniki, otrokom ne rečemo pojdi v šolo, rečem mu pojdi pred računalnik in kaj delajo potem ko končajo s šolanjem, je igrajo manjkraf zato, ker ven ne smejo oziroma ni varno in zato se vse več zadržujemo v zaprtih prostorih. Želanje je znal svetovno zdravstvena organizacija opozarjala, da so otroci gibljejo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2137.115,
+        "end": 2141.823,
+        "text": "Ko da pač se zdivjajo, to čemur pravimo šport samo eno uro na dan ali manj."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2142.43,
+        "end": 2146.21,
+        "text": "Kake bodo posledicne letošnje epidemije na dolgi rok?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2146.717,
+        "end": 2153.939,
+        "text": "Tega nihče ne ve, kako bo to učinkovalo na družbo čez deset, dvajset let, koliko bo več zaradi tega..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2154.58,
+        "end": 2182.205,
+        "text": "Diabetica, koliko bo več pretežkih otrok, že letos so rezultati, bodo porazni, tako vsaj sporočajo učitelji in zato me skrbi, kakšna družba nastaja v prihodnosti, kako še bota homokovidencij, s kjer ga zdej oblikujemo. Lani je bil to še, a pa pred desetletji je bil vtorek dvonožec, ki se je pomikal, z pa res smo zasedena bitja, ki bolj spominjajo na korale, kot pa ljudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2182.863,
+        "end": 2192.988,
+        "text": "Preveč sedimo, premalo se gibljamo in premalokrat si privoščimo odklop.Jaz sem čiri preživel na zumu sedem ur gledu v ekran dvodimenzionalne ljudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2193.494,
+        "end": 2197.156,
+        "text": "Visi to ni normalen človeški stik, to kar počnemo mi zdejle."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2198.0,
+        "end": 2203.636,
+        "text": "Zato je zmislil, da se moramo odklopiti in da nam morajo pri tem pomagati tudi tehnologije."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2204.952,
+        "end": 2220.511,
+        "text": "O tem, kakšni je vpliv te krize pač nagibalne sposobnosti otrok, mislim, da bo kolega gostil okroglomizo v prihodnji tede, v prihodnem tednu, toda vseki nas gledata tudi Vabljeni Ktev."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2220.68,
+        "end": 2240.204,
+        "text": "Ampak se se strinjam bolj, še kot nič, jaz sem zlo vesel, da se vidim z vami tudi na daljavo, iskreno sem vesel ker lahko izmenjemo ideje sicer bi bil sam v spalnici, kjer so zdaj nahajam in si jo vedno znova insceniram, tako da zgleda bolje, kot sicer ne ta naša mala potemkinova vas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2242.786,
+        "end": 2247.19,
+        "text": "Ni pa isto, ne? Mislim zato je smislim, da v prihodnosti bodo..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2247.865,
+        "end": 2278.662,
+        "text": "Modeli poučevanja verjetno spet bistveno bolj fizični, kot so pa bili letos na leto in otroci, naši moji otroci to fizi čnolo prav pogrešajo, mislim vidim jih da si želijo in da potrebujejo ta fizišni stik z sošolci, z učitelji, z hierarhijami, ki se tam vzpostavljajo in z rušenjem te hierarhi, se tudi tega se morajo naučiti in nesih žal lahko jim podajam to snov, pomagam podajati to slov, ne morem pa jih nauči vsega drugega, kar jim daje šola."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2279.287,
+        "end": 2282.459,
+        "text": "Če gospaj Vidmar dam priložnost..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2284.197,
+        "end": 2305.662,
+        "text": "Ja, je smislim, da iz te krize v pandemije ne bomo izšli vsi enaki, ampak se bodo oblikovale nove hierarhije in nove razredne rane predvsem pri mladih generacij, ki ima danes omejen dostop do šola ne zaradi tehničnih, tignoloških, finančni, socioekonomskih in drugih razlogov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2306.337,
+        "end": 2310.269,
+        "text": "Ko govorimo o solidarnosti, ki naj bi bila naš projekt?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2309.29,
+        "end": 2309.51,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2310.657,
+        "end": 2326.705,
+        "text": "Domnevam, imamo nikos oglasje o tem za zahodnjo, kratkoročno obdobje vsaj bomo najverjetneje mora razmišljati o teh novih skupinah, ki nastajajo ranljivih in s katerimi se potreba posebej najverjetneje ukvarjati, kako pravzaprav..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2327.245,
+        "end": 2345.774,
+        "text": "Pomagati, prebroditi postrizno obdobje nismo omenili kulturnikov, naj pomeni, da smo koliko mesecev brez kulture, brez umetnosti nismo umenili celega kupa poklicov, ki bodo ravno tako seznašli v neki težki sihopati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 2346.28,
+        "end": 2370.108,
+        "text": "Zato se mi zdi, da je zelo pomembno, da razumemo, da znanost, ki bo stopila v ta projekt, če bo povabljena, mora stopiti interdisciplinarno. Preveč odprtih področje, da bi to lahko prevzela samo biomedicina, samo psihologija, samo antropologija samo sociologija in pa dejansko potreben kolektiven napor, ker bo novih razrednih družbenih en zelo veliko."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 2371.205,
+        "end": 2391.134,
+        "text": "In celo ne samo to, je smislim, da moramo sodelovati tako znanstveniki kot kulturniki, kot gospodarstvo in se povezat, ne pa da se zapiramo v svoje mehurčke. Je smisim, da zdaj ni več časa za vrtičkarnost, zdaj je pred nami eno veliko polje, ki ga moramo na novo kultivirati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2393.294,
+        "end": 2393.8,
+        "text": "Tobra."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2394.307,
+        "end": 2394.998,
+        "text": "Um..."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 2396.247,
+        "end": 2426.386,
+        "text": "Če nimate več kakršnih olj pripomb, bi se jaz vam zahvalila za to udeležbo za razpravo vse, ki ste nas spremljali v živo, se vam tudi zahvarjujem in vas pozdravljam, in vas hkrati vabim na že omenjeno okroglo mizo, ki bo v torek in pogovorila o vplivu epidemije na gibalne sposobnosti mladih."
+      }
+    ],
+    "runtime_sec": 299.91735553741455
+  }
+}

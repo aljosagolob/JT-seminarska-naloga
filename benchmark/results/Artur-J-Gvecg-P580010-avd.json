@@ -1,0 +1,2338 @@
+{
+  "file_id": "Artur-J-Gvecg-P580010-avd",
+  "wav_path": "datasets/artur-j\\wav\\Artur-J-Gvecg-P580010-avd.wav",
+  "whisperx": {
+    "der_collar0.0": {
+      "der": 0.10016694760494255,
+      "miss": 0.08107983681618641,
+      "fa": 6.542213836718438e-05,
+      "confusion": 0.01902168865038896,
+      "total_duration": 1238.1129999999905
+    },
+    "der_collar0.25": {
+      "der": 0.08299093626567747,
+      "miss": 0.06570967232054746,
+      "fa": 0.0,
+      "confusion": 0.017281263945130007,
+      "total_duration": 1145.1129999999907
+    },
+    "wer": {
+      "wer": 0.23796791443850268,
+      "ref_words": 3366,
+      "hyp_words": 3133
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_02",
+        "start": 0.031,
+        "end": 7.817,
+        "text": "Danes sem na Štajerski val povabila predsednika planinskega društva Celje Matica, Braneta Povšeta."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 8.417,
+        "end": 9.278,
+        "text": "Lepo pozdravljeni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 10.679,
+        "end": 13.801,
+        "text": "Brane najprej moreva nekaj razčistiti."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 14.461,
+        "end": 19.025,
+        "text": "Uradno ste Franc Povše, ampak vsi vas kličejo Brane."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 19.445,
+        "end": 20.426,
+        "text": "Kdaj se je to zgodilo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 22.289,
+        "end": 26.371,
+        "text": "Točno vam težko povem, ampak verjetno že kar ob mojem rojstvu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 26.471,
+        "end": 36.895,
+        "text": "Pač so se doma odločili, potem, ko sem je v te knjige krstne zapisal kot Franca, da jim ta imen najbolj ne odgovarja, pa so me začeli klicati Brane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 37.616,
+        "end": 42.618,
+        "text": "Poznam pa jih dost, ki imajo enaka imena od Franca in Brane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 42.658,
+        "end": 47.04,
+        "text": "Tako da je verjetno to nekaj tega, da pa še skupaj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 47.18,
+        "end": 51.804,
+        "text": "Se pravi, če vas nekdo pokliče Franc, pravzaprav niti ne trznete, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 52.204,
+        "end": 54.726,
+        "text": "Pa tudi, sem vsega navajal, to je bespohni problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 55.447,
+        "end": 65.515,
+        "text": "Zadnje čase besedno zvezo, planinsko društvo, celja matica, brane pa vše, povezuje z okrešljem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 65.595,
+        "end": 75.343,
+        "text": "Se tudi sami že kar nekako poistovetite z okrešljem, se pravi, če je, če reče nekdo okrešlje, se vam zdi, kot da ste že kar nekako vključeni v to besedo, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 75.952,
+        "end": 84.194,
+        "text": "Če gremo malo nazaj, okrešlje je men bil vedno ta točka, kraj, kjer sem vedno bil zelo rad."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 84.774,
+        "end": 90.636,
+        "text": "Nekako je res lepe te slovenske gori, ali pa tudi tuje, ampak okrešljem je bil od nekdaj že najlepši."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 91.036,
+        "end": 100.699,
+        "text": "Zadnje čase pač, ko se je tole gor zgodilo, smo pač dost več gor na okrešlju, tudi včasih po trikrat, četirkrat na tedni in vikender pa tako, tako vse."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 101.028,
+        "end": 106.15,
+        "text": "Ampak nikje že nekoč, nekdaj se je nakazal, da z okrešljem še bote močno povezane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 107.23,
+        "end": 109.791,
+        "text": "Verjetno ves, težko vam rečem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 110.251,
+        "end": 116.053,
+        "text": "Ko ste prevzeli predsedniško funkcijo v društvu, se je kar kamalj že zgodila."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 116.534,
+        "end": 120.095,
+        "text": "Prvo požar na Korošici, potem dve leti kasneje okrešelj."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 120.535,
+        "end": 125.038,
+        "text": "In verjetno ste se takrat rekli, da sem prevzel to funkcijo, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 125.618,
+        "end": 127.359,
+        "text": "Korošica se je zgodila že prej."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 127.559,
+        "end": 128.14,
+        "text": "Že prej, aha."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 128.4,
+        "end": 134.403,
+        "text": "Korošica je bila že prej, pa če bi takrat vedel, da bo še okrešil, bi me verjetno tež pripričal, da bi to prevzel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 134.964,
+        "end": 135.364,
+        "text": "Tako je."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 135.444,
+        "end": 145.05,
+        "text": "Res je pa, da smo na okrešilo imeli že tudi devet let nazaj en požar s kočo gorske reševalne, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 145.07,
+        "end": 147.031,
+        "text": "Takrat sem bil pač tudi..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 147.451,
+        "end": 152.235,
+        "text": "Sreča ali pa ponesreči, načelni igrovski rešovanje celja in sem tudi tam že imel."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 153.236,
+        "end": 157.44,
+        "text": "Tako da je to že moja tretji požar na teh koncih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 158.381,
+        "end": 160.763,
+        "text": "Okrešlo nadaljujeva v drugem sklopu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 162.858,
+        "end": 168.122,
+        "text": "Predsednik Planinskega društva Celja Matica, Brane Poše, je moj današnji gost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 168.402,
+        "end": 170.684,
+        "text": "Začela sva z okrešljem, seveda nadaljujeva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 171.425,
+        "end": 173.526,
+        "text": "Najprej, na okrešlu je že sneg, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 174.147,
+        "end": 175.528,
+        "text": "Na okrešlu je že sneg, ja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 175.828,
+        "end": 186.896,
+        "text": "Če sva prej v požaru, lani, konec novembra, ne, se je zgodil požar in ko so vam sporočili, da se je zgodil požar, prva vaša reakcija?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 187.597,
+        "end": 195.685,
+        "text": "Požar se je zgodil lans začet novembra in prva reakcija, mi je tam sodelovac prinesel, je dobil po mobitelo ene slike, mu je nekdo poslal."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 196.066,
+        "end": 200.05,
+        "text": "Prav, to ne more biti, to je fotomontaž, se to ne more biti resno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 200.17,
+        "end": 207.637,
+        "text": "Jaz te slike pogledam, nov test in sem jih tudi jaz dobil, pogledam in sem rekel, to ni fotomontaž, ampak to je resno."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 207.897,
+        "end": 208.979,
+        "text": "Nažalost je bilo resno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 209.399,
+        "end": 223.96,
+        "text": "Ampak potem, kdo pa je dejansko bil tisti, ki je ugotovil, da se je zgodil, ker tam niti ni to zdaj, kako bi rekla, koča oziroma hiša, z katero bi ravno kar mimo hodili v začetku novembra, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 224.401,
+        "end": 232.764,
+        "text": "Ne, če je lepo vreme, je tudi med tednom, tudi takrat, ko ni koča oskrbovana, pa to ljudje kar grejo, sploh tam domočini."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 233.324,
+        "end": 246.748,
+        "text": "Bil je pač eden od tam iz teh zgorne Savinske, eden od alpinistov, šel pač malo med tednom gor pogledati, ne, ne glih koča, ampak mim je šel, pa je pač videl, kako in kaj se je zgodilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 247.148,
+        "end": 248.329,
+        "text": "In potem akcija, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 248.829,
+        "end": 249.69,
+        "text": "Potem pa akcija."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 249.75,
+        "end": 255.413,
+        "text": "Res je bilo tudi to, da je takrat ravno tista dva dni, to je bilo na četrte, ko smo gotovi, da je zgorel, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 255.714,
+        "end": 259.316,
+        "text": "Torej, ki je sreda, je pa gor res močno deževalo v teh koncih, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 259.396,
+        "end": 265.3,
+        "text": "In takrat niti, če bi bilo to bolj lepo vreme, bi se tudi verjetno v dolino to videl, ne, da je nekaj gori, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 265.4,
+        "end": 268.722,
+        "text": "Tako je bilo pa vreme tako, da je se niti do doline sploh ni nič videl, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 268.782,
+        "end": 270.383,
+        "text": "In slavno ni bilo kaj narediti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 270.423,
+        "end": 272.965,
+        "text": "Sicer narediti tako nikaj, ne, na takim delu, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 273.524,
+        "end": 278.187,
+        "text": "Tako verjetno ste tudi tako reagirali, šli gor, vas je šlo verjetno večja ekipa."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 278.427,
+        "end": 285.252,
+        "text": "Sveda, jaz sem takrat takoj šla, dva, tri, jaz smo šli takrat takoj gor pogledati, ampak nimaš kaj narediti na sebi."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 285.512,
+        "end": 295.399,
+        "text": "Spremeš to dejstvo, kakšni so občutki, tako, ma kaj še eno dodatno delo ali kaj se je to vse nagarmadilo na eno društvo?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 296.12,
+        "end": 299.303,
+        "text": "Vse verjetno, vse ti pomisli, ki se pojavijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 300.004,
+        "end": 305.368,
+        "text": "Prvi očutek je tak, kako je to sploh mogoče, zakaj, kako in kaj, kaj tega treba."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 305.609,
+        "end": 321.043,
+        "text": "Tista ne ravno žalost, ampak tudi žalost, ampak res potrto vse, kaj, zakaj, ampak s časoma pač ugotoviš, da nimaš kaj narediti in da je treba pač na polno strniti moči, zgrabiti in začeti na novo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 321.905,
+        "end": 325.269,
+        "text": "In kar naenkrat ste postavili najbolj iskana medijska oseba, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 325.949,
+        "end": 326.29,
+        "text": "Še to?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 326.87,
+        "end": 330.374,
+        "text": "Zato se jaz glih ne sekiram preveč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 330.855,
+        "end": 336.681,
+        "text": "Velikrat mi obreme, kaj sploh v začetku so mi klicali takrat po trikrat na dan vse posoti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 336.921,
+        "end": 340.185,
+        "text": "Jaz nisem glih medijska osebna, da bi se rad izpostavljal pa to takrat."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 344.686,
+        "end": 347.45,
+        "text": "Brane Poše je moj današnji gost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 348.111,
+        "end": 361.348,
+        "text": "Okrešel je nekako glavna današnja točka oziroma okrešel je koča, v kateri se zadnje dva meseca piše, govori skoraj v vseh slovenskih medijih."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 361.949,
+        "end": 375.881,
+        "text": "Predvsem pa navdihuje zatem, koliko prostovolcev je pripravljeno pomagati in dejansko betonirati na višini skoraj 1500 metrov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 376.601,
+        "end": 382.867,
+        "text": "Kar se tiče prostovolcev, smo imeli probleme samo s tem, ker jih je hotel biti preveč, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 383.127,
+        "end": 386.588,
+        "text": "To niso samo člani vašega celjskega društva, to so tudi..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 399.412,
+        "end": 406.295,
+        "text": "Verjetno je bila v tem stoletju to največja betonska plošča, ko se je na roke delala, na roke zbetonirala."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 406.375,
+        "end": 410.858,
+        "text": "Ker seveda betonirati na tej višini, to je spet nekaj popolnoma drugačega."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 410.878,
+        "end": 417.221,
+        "text": "To je zadeva taka, da nimaš, edinkrat smo imeli odstroje, so bili mešalci, ostalo je bilo treba vse na roke naliti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 417.721,
+        "end": 428.153,
+        "text": "Bilo je pa ugrajenih preko 100 kubičnih metrov betona, kar pomeni dobrih 120 kubičnih metrov peska, 30 ton cementa, pa še vode recimo je na 20 tisoč litrov."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 428.333,
+        "end": 435.582,
+        "text": "Če si to priračunajte vse skupaj, kakšna teža je, to pa na koncu je to, ker nekaj je bilo treba na roke vse premetatne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 435.862,
+        "end": 441.306,
+        "text": "Seveda, ta material tudi s pomočjo slovenske vojske je prepeljano okrešal, tudi s tovorno žičnico."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 441.767,
+        "end": 444.048,
+        "text": "Ste kaj tudi nosili dejansko v nahrtnikih?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 444.068,
+        "end": 445.97,
+        "text": "Ne, v nahrtnikih ni bilo treba nositi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 446.01,
+        "end": 454.756,
+        "text": "Bilo je predvsej prepeljano s tovorno žičnico, le v idelež pa seveda tudi naredila slovenska vojska s pomočjo helikopterja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 454.836,
+        "end": 461.562,
+        "text": "Brez njih bi sicer tudi šlo, ampak zelo, zelo, dost počasneje, ker recimo smo v ene dnevo"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 462.102,
+        "end": 469.184,
+        "text": "Začetka zvozili preko 40 ton materijala, kar pomeni, da bi z tovorno žičnico to trajalo vsaj 7-8 dni."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 469.264,
+        "end": 472.624,
+        "text": "Nekako se mi zdi, da tudi vreme vam je šlo na roko."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 473.264,
+        "end": 480.386,
+        "text": "Že z vsem tem prevoziti z helikopterjem je bilo lepo vreme, zanovinesko konferenco, ki je bila na okrešlju, takrat je bilo krasno vreme."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 480.886,
+        "end": 483.266,
+        "text": "Potem te sobote, ki sta bili delovni."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 483.887,
+        "end": 486.147,
+        "text": "Vreme nam je rečilo, da je zelo na roko."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 486.207,
+        "end": 489.868,
+        "text": "Še če sploh gledamo to betoniranje zadnje plošče,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 490.368,
+        "end": 498.951,
+        "text": "Je bilo v sobotu še res lepo vreme, se je to upravilo in v sobotno nedeljo je pa gor zapadel sneg, tako da tukaj nimam kaj reči."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 499.191,
+        "end": 507.014,
+        "text": "Upam pa, da bo še vremena toliko, da bomo lahko še postojili to, kar imamo na meni in sicer nekaj še dodatnega po zidar zaščiti, pa če te zidove pa to je."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 507.074,
+        "end": 512.12,
+        "text": "Kako se vam še zdi, koliko ur oziroma dni še potrebujete lepega vremena?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 512.66,
+        "end": 520.168,
+        "text": "Približno 14 dni, kar bi glede na prejšnje statistike prejšnjih let še lahko bilo brez problema."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 526.295,
+        "end": 532.057,
+        "text": "Predsednik Celskega planinskega društva Celja Matica Brane Pouše je današnji gost."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 532.357,
+        "end": 536.539,
+        "text": "Celsko društvo ima poleg Korošica okrešila še dve koči."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 537.219,
+        "end": 540.861,
+        "text": "Kako je najti dobrega oskrbnika koče?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 541.201,
+        "end": 545.743,
+        "text": "Mi imamo še dom planince v Logarski dolinji, poleg tih dveh koč in pa..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 546.663,
+        "end": 551.464,
+        "text": "Orlovo gnezdo, to je kot okrepčevanjica orlovo gnezdo, prisla po rinke."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 552.084,
+        "end": 555.405,
+        "text": "Je pa res, da je dobrega oskrbnika težko najti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 555.565,
+        "end": 560.466,
+        "text": "Mi smo imeli prej v Logarski dolini najemnika iz Luč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 561.086,
+        "end": 568.227,
+        "text": "Moram reči, da smo kar se v redu ujeli, tudi v redu oskrbeli in tudi za dom, pa to tako, da ni bilo benega problema."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 568.667,
+        "end": 572.348,
+        "text": "Potem smo po par let nazaj zamenjali"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 573.308,
+        "end": 577.491,
+        "text": "Pa tudi jaz mislim, da smo kar zadeli s samim najemnikom."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 578.632,
+        "end": 582.556,
+        "text": "Kaj so recimo tako kvalitete dobrega oskrbnika?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 582.656,
+        "end": 588.12,
+        "text": "Kaj mora biti dober gospodar, en takšen človek, ki privabi ljudi na kočo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 588.901,
+        "end": 605.45,
+        "text": "To je sigurno, da, ne, dober uskrbnik, ne, ni, ko sem že glih začel s tem domom v Bogarski, ne, tam je druga stvar, ker se lahko z avtomobilom vse prepelje, ne, in tudi zvečer, recimo, če ima on kako prave, nekdo ustane v domu, gre on domov ali kakorkoli, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 605.77,
+        "end": 611.214,
+        "text": "Če si pa uskrbnik, recimo, na Okrešu ali pa na Korošici, je pa druga stvar, ne, pa ne mora vsak dan domov ali pa to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 611.414,
+        "end": 617.297,
+        "text": "Tam, ko se sezona začne, tam, sreda, prila, pa do konca oktobra si praktično vezan,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 617.437,
+        "end": 619.539,
+        "text": "štir, pet mesecev na hribe, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 620.279,
+        "end": 621.16,
+        "text": "To je ena stvar, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 621.46,
+        "end": 626.824,
+        "text": "Druga stvar, moraš tudi biti, kaj povem, rojen hriboc, po domač povedan, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 627.504,
+        "end": 631.968,
+        "text": "Da tudi poznaš vse gore, okolici, znaš planince, svetovarstvo, kaj, kaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 631.988,
+        "end": 644.777,
+        "text": "In pa tretja stvar, moraš biti dober organizator, dober kuhar, vse, vse v eni osebi in to je res, pa še dobro zdraževalec, ne, ker na vsake koče treba veliko stvari še postoriti, ne, in to ni lahko, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 644.977,
+        "end": 649.64,
+        "text": "To je težko vse v eni osebi, se pravi dobro, če še ima kakšnega pomočnika ali pomočnico."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 649.9,
+        "end": 658.706,
+        "text": "Seveda, dobro je to, če je tako, ampak v glavni je pa tako, da res v Sloveniji bi lahko take uskrbnike na prste prešteli, koliko jih je."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 659.186,
+        "end": 664.59,
+        "text": "Večina planinskih društav v Sloveniji ima probleme s tem najdobrega uskrbnika."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 664.838,
+        "end": 666.759,
+        "text": "Ni to glih najbolj iskana služba."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 666.819,
+        "end": 676.442,
+        "text": "Čeprav pogosto se nam zdi, da bi delati v gorah, to je ja nekaj tako krasnega, ampak reči, da je to kar garaško delo, zgodaj vstajati, pozdra spati."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 676.782,
+        "end": 687.345,
+        "text": "Delati v gorah, če bi delal, kaj pa vem, tri, štiri dni na teden, pa si potem štiri dni fraj, mogoče ne bi bilo slabo, če si pa ti par mesecev pa skoz gor, pa so gostje skoz."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 692.395,
+        "end": 706.952,
+        "text": "V teh dneh jesenskih, že skoraj malce zimskih dneh, so to še dnevi, ki vabijo v gore, zagotovo še vabijo, ampak na kaj bi svetovali, da more biti planinci še posebej pozorni?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 707.518,
+        "end": 718.062,
+        "text": "Trenutno bi to odsvetoval, ker je pač res v gorah tam nad tisoč metrov že kar sneg zapadal in tudi to je najslabši čas za obizgora."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 718.542,
+        "end": 727.186,
+        "text": "Po zimi, ko sneg zapade, pa ko je podlaga v redu, trda podlaga, če ni nevarnosti plazov, so idealne razmere za vgore."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 727.806,
+        "end": 729.547,
+        "text": "Trenutno pa te razmere niso."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 729.959,
+        "end": 734.7,
+        "text": "Se pravi tudi, ne vem, za višino okrešlja, korošice, so to problematične?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 734.78,
+        "end": 740.081,
+        "text": "Okrešlj še mogoče ne toliko, ali pa tudi že za neizkuščene, že okrešlj, da je problem, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 740.141,
+        "end": 747.703,
+        "text": "Zato, ker je v zgodnem delu, tam nad slapom je že kaj sneg in po tistih skalah lahko nekomu, če je malo ledeno, pa to kar hitro zdrž nekaj, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 748.103,
+        "end": 758.306,
+        "text": "K recimo, imate predlog, vse tiste, ki pa vse en želijo zdolj, še vse en malce vkusit gorskega sveta, si izberajo kakšne ture, ki so zdaj primirne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 758.866,
+        "end": 765.11,
+        "text": "To, mogoče sredo gor je malo više, ali pa v teh malo višjih goram Radoha bi še trenutno lahko bila, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 765.43,
+        "end": 768.272,
+        "text": "Kar je pa više, bi skoro odsvetovalno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 768.692,
+        "end": 771.494,
+        "text": "Kot seveda gorski reševalet še vedno?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 772.194,
+        "end": 772.434,
+        "text": "Še vedno."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 772.474,
+        "end": 773.135,
+        "text": "Še vedno, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 773.695,
+        "end": 776.917,
+        "text": "Je to zdaj tudi ob čas, kjer je več nesreč?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 777.457,
+        "end": 780.959,
+        "text": "Ali je bilo zdaj tist višek nesrečni, ki je v poletnem času?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 781.5,
+        "end": 785.162,
+        "text": "Nič, nikjer ni pisano, kdaj bo več nesreč."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 785.182,
+        "end": 786.703,
+        "text": "Ne vem, da smo imeli pred leti že..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 786.963,
+        "end": 801.881,
+        "text": "Čez poletje mogoče kaj malega, ne, potem je bilo avgusta, niti ene nesreče, ne, pa potem na jesen spet malo več, ne, naslednje leto je bilo v začetku poletja nič, pa avgusta smo imeli pa samo na celjskem deset posredovan, tako da to je, ni nekega pravila, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 802.301,
+        "end": 807.067,
+        "text": "Nesreče so pač dogajajo skozi vse leto, mogoče enkrat malo manj, enkrat malo več, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 807.398,
+        "end": 813.987,
+        "text": "Te nesreče so verjetno zgolj tiste, ki se nekdo zgobi in rabi pomoč, so pa tudi smrtne nesreče."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 814.047,
+        "end": 818.854,
+        "text": "Verjetno tudi živi, bili pri kakšnem takim primeru."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 819.134,
+        "end": 824.321,
+        "text": "Kako je to za reševalca v takih kar malce težjih situacijah?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 824.982,
+        "end": 827.103,
+        "text": "Tega se nikoli ne navadiš."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 827.183,
+        "end": 830.524,
+        "text": "Navadi se pa to, da nekako odmisliš to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 830.964,
+        "end": 833.525,
+        "text": "Prišel si tja za to, da boš pomagal, če se le da."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 833.886,
+        "end": 836.227,
+        "text": "Čustva moraš izklopiti, no samo to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 836.407,
+        "end": 837.567,
+        "text": "Se pa to z leti naučiš."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 837.707,
+        "end": 849.552,
+        "text": "V začetku je zelo hudo pri prvih zadevah, potem se pa nekako naučiš, da ta čustva nekako odmisliš, da si prišel pač pomagati za to, da boš pomagal in ne moraš pa pomagati, če je bila pač smrtna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 849.758,
+        "end": 852.18,
+        "text": "Kako pa postaneš gorski reševalec?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 852.46,
+        "end": 859.646,
+        "text": "Prvi predpogoj za gorske reševalce je, da si pač, vse tako imamo na celski postaji, da si pač alpinist."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 859.966,
+        "end": 870.815,
+        "text": "Ko enkrat postaneš alpinist, pa če imaš, prvo moraš imeti željo in voljo, zato druga stvar je pa, da te člani te postaje gorske reševalne službe tudi povabijo med sebe."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 871.275,
+        "end": 874.438,
+        "text": "Nikoli ni bilo tako, da bi ti pa šel tja in rekel, da bi bil pa reševalec."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 874.478,
+        "end": 875.578,
+        "text": "Panovat je tako, da pač"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 876.299,
+        "end": 880.463,
+        "text": "povabijo, ker vsaka tudi gorska reševalna rabi podmladek."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 880.603,
+        "end": 889.493,
+        "text": "Tam je potem tako, da si po dveh, treh letih, dve do tri leta si pripravnik, potem narediš izpit za člana in si polnopravni član gorske reševalne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 890.072,
+        "end": 894.154,
+        "text": "Tako kot marsikaj povezano s planinstvom, je tudi to prostovoljno, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 894.394,
+        "end": 895.555,
+        "text": "Tudi to je prostovoljna zadeva."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 895.575,
+        "end": 902.518,
+        "text": "Tako da verjetno je to mladim zanimivo, si želijo biti igorski reševalci?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 904.319,
+        "end": 907.04,
+        "text": "Še vedno se najdejo taki, ki si to pač želijo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 907.14,
+        "end": 913.883,
+        "text": "Ker je pač to verjetno v ljudeh, da je, ko nekomu pomagaš, imaš neko osedno zadoščanje z tem in"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 914.183,
+        "end": 925.091,
+        "text": "Brez srednje, brez vsakeh finančnih spodbud, pa tega, ker to je, če računa vse skupaj imaš finančno samo zgubo, s tem nikoli nimaš nekega dobička."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 929.495,
+        "end": 936.54,
+        "text": "Brane Poše, kdo pa je vas in kako vas je nadušil nad planinami, gorami in alpinizmom?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 937.589,
+        "end": 944.154,
+        "text": "Jaz sem doma s kmetijo in tam smo pa novadi dvakrat ali trikrat na leto se je šlo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 944.835,
+        "end": 948.018,
+        "text": "Enkrat mogoče na ur šlo, daj na ukrešil."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 948.278,
+        "end": 951.2,
+        "text": "To je bilo pa tudi vse, kar smo v domo hodili."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 951.26,
+        "end": 956.425,
+        "text": "Potem smo se pa našli tam v šoli, že nekaj v srednji šoli, dva, trije."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 956.945,
+        "end": 967.167,
+        "text": "Smo začeli malo skup hoditi, pa me je to potegnilo, sem šel v alpinistično solo, sem se zapisal v celo in sem pač ostal tam na alpinističnem vseku celi še do danes."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 967.447,
+        "end": 974.208,
+        "text": "Alpinistične odprave so bile tudi v precej visoke gore v Tuino, ne, Himalajo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 974.848,
+        "end": 975.168,
+        "text": "Tudi, ja."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 975.488,
+        "end": 981.569,
+        "text": "To pa je spet nekaj drugega, ne, kot pa malce plezati po slovenskih dvotisučakih."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 982.43,
+        "end": 984.75,
+        "text": "Seveda, to je pa spet čisto nekaj drugega, no."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 985.21,
+        "end": 990.972,
+        "text": "No, prva moja taka odprava v res malo daljne gore je bila na Norveško."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 991.332,
+        "end": 995.374,
+        "text": "Tam smo samo plezali v stenah, tam nad enim delom Norveške."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 995.614,
+        "end": 1001.416,
+        "text": "Par let za tem sem se pa pridružil celski odpravi v Himalajo, to je bil Gaurišankar."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1001.756,
+        "end": 1008.499,
+        "text": "To je bilo preko južne stene Gaurišankar, ki je bila do takrat še neosvejena, nam je seveda tudi uspel takrat priplezati."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1008.599,
+        "end": 1013.142,
+        "text": "Nas je bilo kar nekaj, ne, tako, kako je štela ta odprava, kako vas je bilo v dne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1013.222,
+        "end": 1015.923,
+        "text": "Nas je bilo v odpravi, nas je bilo enajst."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1016.724,
+        "end": 1022.327,
+        "text": "In kako časa traja ena taka odprava, dejansko, od Slovenije do zopet nazaj v Slovenijo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1022.347,
+        "end": 1030.671,
+        "text": "Odprava, če računam, da je vse skupaj trajala nekje od 20. septembra pa do 10. novembra, no."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1031.632,
+        "end": 1033.813,
+        "text": "To pa se pravi praktično dva meseca, no."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1034.333,
+        "end": 1036.415,
+        "text": "Ne, celo dva meseca, do 20. novembra."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1037.135,
+        "end": 1040.317,
+        "text": "In se je srečno tako, kot mora biti?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1040.397,
+        "end": 1041.778,
+        "text": "Se je srečno končal, ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1042.318,
+        "end": 1048.081,
+        "text": "Mogoče s parimi ozeblinami nekaterih, ampak ostavlja, ker jih hočega ni bilo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1048.321,
+        "end": 1053.284,
+        "text": "Pa seveda priplezali smo steno, ne, ker je bila takrat res zelo odmevna zadeva po celem svetu."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1056.645,
+        "end": 1061.128,
+        "text": "Predsednik Celskega planinskega društva Celje Matica Brane Poše."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1061.809,
+        "end": 1067.233,
+        "text": "Gore, planine imajo res eno moč, da človeka zadanejo, prevzamejo."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1067.613,
+        "end": 1069.254,
+        "text": "Kakšen bi bil pa vaš nasvet?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1069.814,
+        "end": 1073.057,
+        "text": "Kako navdušite nad njimi tudi naše najmlajše?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1073.517,
+        "end": 1077.06,
+        "text": "Veliko je od staršev do otrok."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1077.981,
+        "end": 1085.547,
+        "text": "Če starši hodijo panovati po gorah, po planinah, tudi otroke vzamejo dost kaj od seboj in velika večina se jih navduši."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1086.028,
+        "end": 1087.289,
+        "text": "Nekaj pač ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1087.369,
+        "end": 1097.057,
+        "text": "Če samo po sebi pogledam, hčera moja, ta starejša, je kar hodče dost okoli ta mlajša, mislim, ko ji tudi ni več mlada, pa trenutno tež spraviš od doma."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1097.918,
+        "end": 1100.32,
+        "text": "Ni nekega pravila, kako bi rekel, kaj narediti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1100.86,
+        "end": 1103.002,
+        "text": "Res je pa, da ne smeš nikogar siliti v to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1103.682,
+        "end": 1109.326,
+        "text": "Če so pač otroci zato, da grejo, jih pač grejo neče in pa noče jih pač ne smeš siliti."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1109.426,
+        "end": 1112.188,
+        "text": "Če jih bo zagrabil, bo jih že potem, ko bojo pač malo zrasli."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1112.296,
+        "end": 1117.999,
+        "text": "Verjetno pa tudi ni primerno, da je kar že takoj začetka na najdaljše, najhujše ture, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1118.319,
+        "end": 1119.8,
+        "text": "Primerno nim, ne nam."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1120.1,
+        "end": 1123.322,
+        "text": "Začetje treba s temi kratkimi turami, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1123.402,
+        "end": 1128.225,
+        "text": "Pa da so še malce vzgojna, kaj mora vsebovati nahrtnik?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1128.325,
+        "end": 1132.027,
+        "text": "En tak pravi planinski nahrtnik, kaj mora biti v njem?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1133.027,
+        "end": 1137.33,
+        "text": "To je odvisno pač od ture, kam gremo, ampak recimo za enodnevno turo, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1137.69,
+        "end": 1140.732,
+        "text": "Rabimo res za rezervno obleko,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1141.152,
+        "end": 1152.941,
+        "text": "Potem nekaj proti dežu, ali v redu vetroko, v redu anorak, pelerino, pa seveda dovolj tekočine in pa obvezno mora biti noter prva pomoč in pa baterijska svetilka."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1153.001,
+        "end": 1157.885,
+        "text": "Brez svetilke je danes kamor ni zajit, da je v novejšem času se je pa tudi telefon."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1158.803,
+        "end": 1160.684,
+        "text": "In telefon napolnjen, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1160.944,
+        "end": 1163.286,
+        "text": "Napolnjen telefon, ja, pa tako baterija drži."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1163.506,
+        "end": 1173.253,
+        "text": "Tako, ne, ker ponovadi se kr zgodi, da v gorah nekako hitreje se prazni baterija, ne, tudi če kakšna rezervna zrave, nič slavega, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1173.913,
+        "end": 1183.5,
+        "text": "Mogoče imate predlog zdaj v teh časih, kam se še podati na en dober planinski izlet, kam bo te više okrešil zagotovo, ne?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1184.08,
+        "end": 1186.182,
+        "text": "Verjetno tudi okoli Celja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1186.422,
+        "end": 1188.183,
+        "text": "Okoli Celja, recimo, ali pa okoli še"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1188.183,
+        "end": 1197.345,
+        "text": "Imate vi kakšno skrit hrib, oziroma kotiče, kjer pa tudi pogosto tukaj, ali je to premalo alpinistično, gorsko za vas?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1197.465,
+        "end": 1204.027,
+        "text": "Ne, jaz resimo, če res njen kamer drugam zajeti, jaz imam tam od doma najbliže tako malo bolj hrib, je mrzl se."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1204.067,
+        "end": 1208.328,
+        "text": "Včasih tudi celi grem tudi na grmado, celsko kočo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1208.488,
+        "end": 1214.99,
+        "text": "Da reči pa dele, ko bo zima, me tudi dost vleče, tudi na smučarije, ko bo sneg, smuči na noge, pa gremo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1215.25,
+        "end": 1229.303,
+        "text": "Za ostale je pač res, treba je pač zbrati primerno turo, ne, da le so tude tudi, recimo, okoli Šventirja, če gledamo Resevno, ki je tako res, zan tak popodanski sprehod, ali pa tudi zanedelski, je kar res lepa tura, ne."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1229.964,
+        "end": 1236.049,
+        "text": "In da še samo namignemo, da na Resevni lahko zbirajo žige za rašireno planinsko pot."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1236.77,
+        "end": 1238.992,
+        "text": "Slovensko planinsko pot ste mogoče prehodili?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1239.652,
+        "end": 1242.155,
+        "text": "Ne, bomo jo pa verjetni še kdaj."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1242.716,
+        "end": 1244.057,
+        "text": "Izjiv za naslednja leta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1244.077,
+        "end": 1248.803,
+        "text": "Prenotno me še bolj vleč plezarija, kot pa hoja po teh dva tisočah."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1249.644,
+        "end": 1259.917,
+        "text": "Brane Pošena, lepša hvala za gostovanje na Štajerskem valu in srečno na poti, srečno z okrešljem nasploh v Celskem planinskem društvu."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1260.217,
+        "end": 1262.78,
+        "text": "Hvala in še enkrat pozdrav vsem poslušalcem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start": 1263.521,
+        "end": 1263.781,
+        "text": "Hvala."
+      }
+    ],
+    "runtime_sec": 659.8827772140503
+  },
+  "our_pipeline": {
+    "der_collar0.0": {
+      "der": 0.060635822416855306,
+      "miss": 0.026073549021778025,
+      "fa": 0.01761390115441807,
+      "confusion": 0.016948372240659215,
+      "total_duration": 1238.1129999999905
+    },
+    "der_collar0.25": {
+      "der": 0.05220358165526063,
+      "miss": 0.02126253042276211,
+      "fa": 0.015945151264547975,
+      "confusion": 0.014995899967950555,
+      "total_duration": 1145.1129999999907
+    },
+    "wer": {
+      "wer": 0.4138443256090315,
+      "ref_words": 3366,
+      "hyp_words": 3015
+    },
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start": 0.807,
+        "end": 9.447,
+        "text": "Danes sem na Štajerski val povabila predsednika Planinskega društva Celja Matica, Braneta Pošeta. Lepo pozdravljeni?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 10.207,
+        "end": 14.003,
+        "text": "Brane najprej morava nekaj reščistiti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 10.612,
+        "end": 10.747,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 14.375,
+        "end": 20.669,
+        "text": "Uradnost je franc povše, ampak vsi vas kličejo brane, kdaj se to zgodilo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 22.289,
+        "end": 36.97,
+        "text": "Da je točno, vam težko povejam pa kveretno že kar ob mojej mrojstvu ne pač so se doma polodločili, potem ko sem jo pač v te knjige krstne zapisal kot Franca, da pač in ta ime najbolj ne odgovarja pa se me začeklica odbrane."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 33.832,
+        "end": 34.422,
+        "text": "Ta imen."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 37.561,
+        "end": 46.893,
+        "text": "Poznam pa jih dostko, so manj enaka to, enaka imena od Franca pa branene, tak da je verjetno to neki taka, da pač pa še skup."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 47.332,
+        "end": 54.014,
+        "text": "Seprav je, če vas nekdo pokliče franc, pravzaprav niti ne trznete, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 53.542,
+        "end": 54.841,
+        "text": "Vespovni problem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 55.297,
+        "end": 64.612,
+        "text": "Zadnje čase besedno zvezo planinsko društvo Celje Matica Brane Povše povezuje z okrešlem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 65.455,
+        "end": 75.462,
+        "text": "K se tudi sami, že krv nekako poistovetite z okrešlem, se pravi, če je, čerječe nekdo okreše, se vam zdiko, da ste že krnjako vključeni v to besedo, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 75.952,
+        "end": 100.842,
+        "text": "Če gremo mal nazaj ne okrešili, je menj bil vedno ta točka taka, kar sem vedno bil zelo radne.Nekako je res olepe te slovenske gore pa tudi tuje, ampak okrešejo mi je bil od nekdaj že najlepši ne, da je zadnje čase pač ko se je tolegor zgodil, smo pač dosta več garna okrešlo, včasih tudi potrike čtirkega teden in vikende pa takrat tak vse ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 101.028,
+        "end": 107.879,
+        "text": "Ampak nikje že nekoč nekdaj se je nakazal, da z okrešljem še bo temučno povezane?Verjetno ves."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 107.879,
+        "end": 107.913,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 107.913,
+        "end": 109.465,
+        "text": "Teska, teh težko vam vleče."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 109.465,
+        "end": 110.14,
+        "text": "To je le."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 110.14,
+        "end": 113.785,
+        "text": "Ko ste prevzeli predsedniško funkcijo v društvu..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 110.208,
+        "end": 110.545,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 114.46,
+        "end": 120.181,
+        "text": "Se krkmal že zgodila, prv požar na korošici, potem dve leti kasneje okrešal?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 120.805,
+        "end": 125.075,
+        "text": "In verjetno sta se takrat rekla, da sem prevzel to funkcijo ne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 125.075,
+        "end": 127.572,
+        "text": "Korošica se je zgodila že prej."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 127.572,
+        "end": 128.095,
+        "text": "Še prej?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 128.095,
+        "end": 157.88,
+        "text": "Krošica je bila že prej, pa če bi takrat vedel, da bo še okrešal, bi me verjetno tež pripričala, da bi to prevzelo.Tako je res, je pa, da smo naokrešalo, mesec je tudi devet let nazaj en požar s kočo gorske reševalne, ne?Krat sem bil pač tudi v Mreku sreča, pa po nesreči načelni gorsk skreševalni Celje in sem tu tam imel, tak da je recimo to že moje tretji požar na teh koncih varn."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 158.251,
+        "end": 160.9,
+        "text": "O okrešlo nadaljujeva v drugem sklapo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 162.892,
+        "end": 187.04,
+        "text": "Predsednik planinskega društva Celje Matica, Brane Poše je moj današnji gost, začela sva z okrešljem seveda nadaljujeva najprej na okrežlu je že sneg ne?Na okrejstvu je že sneg.Če sva prej v požaru lani konec novembra, ne, se je zgodil požar in ko so vam sporočili, da se je izgodil pogodbo prva vaša reakcija?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 187.664,
+        "end": 208.977,
+        "text": "Požar se je zgodil lani začet novembra in prva reakcija mi je tam sodelo vzpornese, je dobil pomobi telo ene slike moje doposlovne, prav to ne more bi, to je fotomontaž, se to ne mora biti resnet. Jeste slike pogledano od testinj, sem ji tudi zdobil, pogledanje sem jih ga to ni, to ni fotomontža, boh to je resne, pač na žalosti bodo resne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 190.01,
+        "end": 190.229,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 208.977,
+        "end": 209.213,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 209.213,
+        "end": 209.247,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 209.433,
+        "end": 215.525,
+        "text": "Ampak potem, kdo pa je dejansko bil v tisti, ki je ugotovil, da se je zgodil krv?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 216.048,
+        "end": 224.182,
+        "text": "Tam niti ni to zdaj, kak bi rekla Koča oziroma, hiša, s katero bi ravna kar mimohodl v začetku novembra, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 224.384,
+        "end": 248.465,
+        "text": "Ne, če je lepo vreme, je tudi med tednom, tudi takrat ko ni Koča uskovevalna, pa to ljudje kar grejo sploh tam domačini. Bil je pa čednod tam iz teh zgornj Savinjske rednost Alpinistov, šel pač mal med tedom gor pogled, ne, neglih Kočan pa k mimi je šja, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 247.25,
+        "end": 247.807,
+        "text": "In potem..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 248.735,
+        "end": 259.501,
+        "text": "Potem pa akcija res je bilo to, da je takrat ravno tista dva dni, to je bila na četrtego smo bo vedeli zgorilne, torej ki srede pa gor res močno deževalo v teh koncih nein."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 260.108,
+        "end": 273.052,
+        "text": "Takrat niti, če bi bilo to le pa vreme, bi se tudi verjetno v dolino to videl ne, da je neki gorine tak, je bo pa vreme tako deseniki do doline sploh ni nič videl na in, slovno ni bilo kaj naredit, sicer nadi tak nikaj ne na takim delanem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 273.524,
+        "end": 277.996,
+        "text": "Ko vrednosti tudi takoj reagirati šli gor, vas je šlo verjetni večjo ekip."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 276.359,
+        "end": 284.628,
+        "text": "Vas je šlo verjetno večjo ekipa?Sredeje sem takrat takoj, smo šla dva, trije, smošli takrat, takoj ga pogledajo, ampak nima škodej nadetne se."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 278.013,
+        "end": 278.03,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 284.695,
+        "end": 295.63,
+        "text": "Ko sprejmeš to dejstvo, kakšni so občutki, tako ma kaj še eno dodatno delo ali kaj se to vse ne grmalo na eno društvo?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 296.153,
+        "end": 299.461,
+        "text": "Vse verjetno, vse ti pomisliki se pojavijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 296.508,
+        "end": 296.778,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 299.005,
+        "end": 309.991,
+        "text": "Tist prvi odčutek je pač tak, kak je to spokmogočen za kaj, kako in kaj tega treba ne pa tista neravno žalostam pa, tudi žalosten pa kres."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 310.683,
+        "end": 321.28,
+        "text": "Potrto se, kakaj zakaj, ampak sčasoma pa če bo to višpalje, da nimaš kaj nadit in da je treba na polno strnih moči zgrabiti začet na novo ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 321.888,
+        "end": 326.427,
+        "text": "In kar naenkrat ste postali najbolj iskavna medijska oseba, ne? Še to."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 326.731,
+        "end": 340.214,
+        "text": "Zato se je zglihna ne, se kira prereč bi velikatni obreme, kar sploh v začetku so mi klicale takrat po trikrat na dan srb posotenj. To ni jaz nisem glimirijsko osebno, da bi se grad izpostavilo pa to tudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 331.355,
+        "end": 331.49,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 344.703,
+        "end": 357.781,
+        "text": "Brane Puše je moj današnji gost, okrešel je nekaka glavna danačna točka oziroma okreše lje koča v kateri se zadnja dva meseca."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 358.557,
+        "end": 376.107,
+        "text": "Piše govori skoraj vseh slovenskih medijih, predvsem pa navdihuje zatem koliko prostovoljcev je pripravljeno pomagati in dejansko betonirati na višini skorajo tisoč petsto metrov."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 376.58,
+        "end": 383.971,
+        "text": "Kar se tiče prostovoljcev, smo imeli problemi samo s tem, ker jih je hotel bit preveč ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 383.212,
+        "end": 386.755,
+        "text": "To niso samo člani vašega celjskega družba, to so tudi."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 385.017,
+        "end": 406.567,
+        "text": "Celjskega družba, to so tudi...To so bličlani iz praktične izcede Slovenije od Maribora do Dolenjske, še celo dva primorca, mende slaboma iz Gorenjci, katole pa smo mal tak gledo nekaj zadeve, verjetno je bilo v tem stoletju to največja betonska plošča, ko se naroke delajo ne, naroke zbetonirajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 406.33,
+        "end": 411.258,
+        "text": "Ker seveda betonirati ne na tej višini, to je spet neki popolnoma drugačega."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 409.807,
+        "end": 428.909,
+        "text": "Popolnoma drugačeve, ne?To je zadeva taka, da nimaš edinkrat smamel odstrojev s oblime šalci, ostalo je pa potreba vse naroke na litne, blo je po ugrajenih preko stokuvičnih metrov betona kar pomen dobrih sto dvejstkubični metrov peska trideset ton cementa, pa še vode recimo ena dvajset tisoč litrov, ne tak da."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 426.985,
+        "end": 427.323,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 428.977,
+        "end": 435.727,
+        "text": "Če si to preračunate vse skupaka težje, to pol na koncu je to, ker nekaj bo treba naroke vse prometarne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 429.179,
+        "end": 430.428,
+        "text": "Ampak..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 435.929,
+        "end": 444.029,
+        "text": "Seveda ta material tudi s pomočjo slovenske vojske je prepeljala na okrešal, tudi stavorno žitčnico ne, ste kje tu nosel dejansko v nahrbtnikih?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 443.995,
+        "end": 469.46,
+        "text": "Ne, v nahrutnikih ni bilo treba nosit ne, blo je predvse prepeljano z tovornožičnico, le uideleš pa sveta tu nadela slovenska vojska s pomočjo helikoptajev, brez njih bi sicer tudi šlo ampak zelo zelo dost počasneje, no, ker več temu smo v enem dnevu od začetka zvozli preko štirideset ton, materiala kar pomen, da bi s tovorno žičnico to trajalo vsaj sedem, osem dni ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 444.468,
+        "end": 444.603,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 469.814,
+        "end": 483.449,
+        "text": "Nekako se mi zdi, da tudi vreme vam je šlo na roko. Že z vsem tem prevozi s helikopterjem, je bilo lepo vreme za novinarsko konferenco, ki je bila na okrešču takrat ti blokrasno vreme, potem te sobote, ki sta bili delovni..."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 483.787,
+        "end": 490.165,
+        "text": "Vreme nam je res šlo, da le zlo na roko, ne, še če izplok gledamo tole betonirane zadnje plošče, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 490.84,
+        "end": 507.091,
+        "text": "Je bilo v soboto šele slepo, reme se je to opravilo, v soboten nedeljo pa gor za padlo sneg, tak da tokaj nimam krečne upanj, pa da bo še vreme na to, kdaj mu lahka še postojilo to, ker mamo nameni sicer neki še dodatnega pozidar, zaščiti pa čezidovje pa to."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 496.173,
+        "end": 496.477,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 507.108,
+        "end": 512.643,
+        "text": "Kuk se vam še zdi koliko ur oziroma dni, še potrebujete lepga vremena?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 512.643,
+        "end": 520.608,
+        "text": "Predbližno štirinajst njegov, kar bi glede na prejšnje statistike prejstnih let še lahko bilo brez problema neabed."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 526.328,
+        "end": 536.622,
+        "text": "Predsednik celjskega planinskega društva Celja Matica Brane Puše je današnji goz, celjsko društevo ima poleg korošica okrešila še dve koči."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 537.145,
+        "end": 540.959,
+        "text": "Kako je najti dober ga oskrbnika koče?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 541.128,
+        "end": 577.612,
+        "text": "Mimo še dom planincev v Logarski dolini, prek trebeh koč in pa Orlovognezdo, to je kot okrečevanjica orlovogrezdo prisla po Linke, je pa res, da je dobrega oskrbnika težko najtne. Mi smo velik prej v Logerski dolinin najemnika iz lučne, moram reči, da smo kar se v redu ujel, ne, je tudi v redu skrbel in tudi za dom pa to tako ni bilo menga problemane, potem smo pobele par let nazaj zamenjal, pa tu te smisli, da so smo kar zadeli s samim najemnikom, ne?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 547.135,
+        "end": 547.979,
+        "text": "Vesel, to je kot..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 550.966,
+        "end": 551.303,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 557.648,
+        "end": 558.003,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 578.557,
+        "end": 578.573,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 578.573,
+        "end": 578.59,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 578.59,
+        "end": 588.749,
+        "text": "Kaj so recimo od kvalitete dobrega oskrbnika, kaj mora biti dober gospodar in takšen člov, ki privabi ljudi na koču?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 578.624,
+        "end": 579.4,
+        "text": "Kaj so recimo odkotovati?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 588.749,
+        "end": 638.497,
+        "text": "To je, to je segundanje dober oskrbnik, nič ko sem žegli začel s tem domom v Logarski ne, tam je druga stvar, ker se lahka z avtomobilom vse prepelene in tudi zvečer je Cimo čemal on kako pravi, nekdo ostane v domu gre on domov kot karkolne, če si pa oskrbnik recimo navkrešila, pa na korošici je pa druga stvar, ne bo nemolj vsak dan domovil, pa to tam, ko se sezona začnetam sredo prila, da do konca oktobra si praktično vezan štir pet mesecev na hribene. To je ena stvari, druga stor morš tudi bit, kaj pa ima, rojen hribovc po domač povedanje, da tu poznaš vse, gore okolici znaš planinca svetovarsko kaj in pa tretja stvar možbi dober organizator, dober kuhar, vse v eni osebi in to je res."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 594.419,
+        "end": 594.757,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 611.362,
+        "end": 611.682,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 638.834,
+        "end": 644.977,
+        "text": "Pa še dobro zdraževalec nekaj vsak na vsaki kočje treba velik storišek v storitnem, to ni lahko ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 645.01,
+        "end": 650.596,
+        "text": "To je težko vse v eni osebi, se prav dobro češema kakšnaga pomočnik ali pomoćnico ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 648.368,
+        "end": 648.757,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 649.988,
+        "end": 664.619,
+        "text": "Večina planinskih družtov po Sloveniji ima problem z naj, s tem najdobrega oskrbnika."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 664.838,
+        "end": 676.482,
+        "text": "Ni to glih najbolj iskana služba, čeprav pogosto se nam zdi ne bi delati v gorah, to je javniki tako krasnega, ampak denar če to kar graško delo, ne, zgode ustaja, pozna spad."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 676.482,
+        "end": 687.468,
+        "text": "Delati v gorah, če bi delo, kaj pa bom tri, štiri dni na teden, pa si pa iz štir dni fraji, boščine je bilo slabo nečesa, pa ti par mest so pa skos gorneje pa so gostje skos."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 692.412,
+        "end": 707.06,
+        "text": "V teh dneh jesenskih, že skoraj malce zimskih dneh ne, so to še dnevi, ki vabijo v gore zagotovoševabijo, ampak na kaj bi svetovali, da morajo biti planinci še posebej pozorni?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 707.482,
+        "end": 729.757,
+        "text": "Trenutno bi to odsrtoval, ker je pač res v gorah tam nad tisoč metrov že krv sneg za padlo in tudi to je najslabši čas dele za obis Gorane. Pozimi ko sneg zapade, pa ko podlaga vredo trda podlada, če ni nevarnostni pozor zavsobo idealne razmere za ugavljanje, trenutno pa te razmene niso ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 729.959,
+        "end": 734.583,
+        "text": "Se pravi tudi ne vem za višino okrešila, krošice so to problematične?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 734.465,
+        "end": 747.863,
+        "text": "Okrešče še mogoče ne to, ko pa tudi že za neizkušene že okrešle dele problemne, da tokrat v zgornjem delu tam nad slapami že kasnek in po tisti skalah lahko nekomu očemale ledeno pa to kar hitro zdrsnke."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 748.066,
+        "end": 758.461,
+        "text": "Krecimo, mate predlog vse tiste, ki pa vse želijo zdelo še vse malce okusit gorskega sveta, si izberejo kakšne torej, kje so za primerne."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 759.001,
+        "end": 768.35,
+        "text": "Mogoče sredo gorje mal višje ali pa v teh malvišjih goravnogoradov bi še trenutno nakvljane, kar je pa višjo bi skoraj odsvetovano."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 768.637,
+        "end": 771.607,
+        "text": "Kot seveda gorski reševalec še vedno?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 772.13,
+        "end": 772.18,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 772.18,
+        "end": 772.653,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 772.214,
+        "end": 781.09,
+        "text": "Še vedno, ne?Je to zdaj tudi občas, kjer je več nesreč ali je bilo za tist višek nesredniki v poletnem času."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 781.327,
+        "end": 807.196,
+        "text": "Neč ni nikjer ni nek pisano, kdaj bo več nesreč, ne vem, da smoeli pred leti že čez poletje mogoče, ker je malega ne pa le blok avgusta, niti ene nesredče ne pa polna jesen spet mal več ne, naslednje leto je bilo v začetku poletja, nič pa avgusta smo veliko sam na celjskem deset posredovanj, tak da to je ni nekega pravila, ne?Nesreče so pač dogajajo s kom vse leto mogoče nekrat mal nekrad mal več."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 807.382,
+        "end": 824.037,
+        "text": "Te nesreče so verjetno zgolj tiste, k ga se nekdo zgubi in rabi pomoco pa to cmerzne nesrede, ne? In verjetnost tudi živi, bili pri kakšnem takim primeru, ne, kako je to za reševalca v takih krmalce težjih situacij."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 824.037,
+        "end": 824.324,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 825.05,
+        "end": 850.497,
+        "text": "Tega se nikoli navadiš, navadi se pa to, da nekako odmisliš, to ne. Pršu si ti za to, deboš pomagal, če se le da čustvo morsi sklopi, na samo to, se pa vzleti naučiš, ne v začetku je zloh v doprvih zadevah, posebej nekakor naučiliš, da ta čustva nekakov odmiseliš, desipršo pač pomagajo.Kako pa postavlja?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 850.497,
+        "end": 850.531,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 850.531,
+        "end": 850.784,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 850.784,
+        "end": 851.105,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 851.105,
+        "end": 851.341,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 851.341,
+        "end": 851.628,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 851.628,
+        "end": 851.645,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 851.645,
+        "end": 851.678,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 851.678,
+        "end": 851.712,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 851.712,
+        "end": 851.763,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 851.763,
+        "end": 851.797,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 851.797,
+        "end": 852.033,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 852.033,
+        "end": 889.799,
+        "text": "Prvi predpogoj za gorske reševalce je, da si pač vse tako mamo na celjski postaji, da ji pač alpinistne, ko enkrat postavim šalpenist, pa če maš prvo mož med željo in voljo, zato druga stvarja padate člani te postaje gorski reševanje službe, tudi povabijo med sebeni. Nikoli ni bilo tak, da bi ti paš odjava reka, že bi bil par reševalec, ponavati je tak, dedepet povabil, ker vsaka, tukar skreševalna rabi mladek, tam je pa tak, če si po dveh, treh letih, dva, dve do tri leta si pripravnik, pa najdiš izpit za člana in si polnopravni član gorske reševanja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 890.018,
+        "end": 894.288,
+        "text": "Tako kot marsikaj, povezano s planinstvami, tudi to prostovoljno ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 894.288,
+        "end": 895.722,
+        "text": "Tudi to je prostovana zadnja."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 895.655,
+        "end": 902.658,
+        "text": "Tako da verjetno je to mladim zanimivo, je si želijo biti gorski reševalci?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 902.658,
+        "end": 902.877,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 903.417,
+        "end": 925.203,
+        "text": "So še vedno se najdejo taki, ki si to pač življenje, ker je pač to verjetno v ljudehne, da konekomu pomagajš maš neko osebno zadolščenje z tem in brez srede brez vsaki finančnih spodbud pa tega, ker torej če računa vse skupnaš finančno samo zgubost, je nikoli nekaj nekega dobička."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 929.422,
+        "end": 936.577,
+        "text": "Brane poše, kdo pa je vas in kako vas je nadušil nad planinami, gorami in alpinizmo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 937.606,
+        "end": 967.34,
+        "text": "Doma jaz sem doma s kmetije in tam smo pa navadi dvakrat, pa trikrat na leto nesrečlo, enkrat mogoče na ur šlo, da je navkrešel, to je bilo pa tudi vse, kar smo doma hodilne. potem smo se pa našli tam, pa če v šoli že neki osrednji šol šoli, dva trije smo začeli mal skupaj odpomega, pa me je to potegno nasnišlo v alpinistijo solastvrpi so odselo in sem pač ostal tam na alpinistišem vseku Celje še do danesla."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 967.373,
+        "end": 974.275,
+        "text": "Alpinistične odprave so bile tudi v precej visoke gore v tujino, ne, Himalajo."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 974.798,
+        "end": 974.883,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 974.883,
+        "end": 975.288,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 975.288,
+        "end": 981.667,
+        "text": "To pa je spet neki drugega, ne, kot pa malce plezat po slovenskih dvotisočakih."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 981.667,
+        "end": 981.717,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 982.004,
+        "end": 982.038,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 982.038,
+        "end": 1009.004,
+        "text": "A, seveda, to je pa spet čist neki drugje, no. Na prva maja ataka odprava v res malo daljne gore je bila na Norveško, tam smo samo plezali v stenah tam nad enem delu Norveše, par let za tem sem se pa pri dulžju Celjski odpravi o Himalaju, to jo je bil Gavri Šankar, to je bilo preko južne stene Gavrijšanka, ki je bil do takrat še neusvejena, nam je sveta to spel, takrat preplezat."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1008.683,
+        "end": 1013.527,
+        "text": "Vas je blukrnik, naj je tko, kukje štela ta odprava, kjuk vas je bilo v njo?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1013.054,
+        "end": 1016.024,
+        "text": "Da nas je bilo odpravi, nas je ju bilo enajst."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1016.53,
+        "end": 1016.868,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1016.632,
+        "end": 1022.47,
+        "text": "In kukčasa traja ena tako odprava dejansko od Slovenije do zopetno zajev Slovenijo."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1019.281,
+        "end": 1019.483,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1021.593,
+        "end": 1047.293,
+        "text": "Takrat, da so prava, če račun na del vse skupje trajala nekje od dvajset ga septembra pa do desetga novembra, no. To pa se pravi praktično dva mesta, ne, celo dva mesa do dvaju z novemba, cel oba mesta. In s srečno, kot mora biti."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1048.238,
+        "end": 1053.233,
+        "text": "Pa srede priplezal smo steno, ker je bila takrat več zelo odmevna zadeva po celjen svet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1056.642,
+        "end": 1073.18,
+        "text": "Predsednik celjskega planinskega društva Celje Matica Brane Puše, gore planine, majajo res eno moč, da človeka zadanejo prevzamejo, kakšen bi bil po vaši nasvet, kako navdušiti nad njimi tudi naše najmlajše?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1073.618,
+        "end": 1112.127,
+        "text": "Ja, veliki od tega odvisno od staršev do otrok ne, kar če je starši hodil ponovat po gorah, po planinah, tudi otroke vzamel doskat s seboj in mleka večina se jih navduši ne, neki pač neno, da je če sam po poseb pogleda ne, hčera moja testarejša, je krh od še dost okolj to mlajšo, mislim, ko ji tudi ni več mlado, pa trenutno tež spraviš v doma, tak le.Ni nekega pravila, kak bi rekel, kaj nadidne, res se pa ne smeš nikogar silit o to ne, če so pač otroci za to, da grejo jih, pač grejo neč in pa no noče jih ne smešili neček, bo zagrabljali že polko, bo pač mač zrasli."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1112.296,
+        "end": 1120.16,
+        "text": "Verjetno pa to ni primerna, da kar že tako začetka na najdaljše in najhujše turane, primerno njim ne nam."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1117.443,
+        "end": 1117.797,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1119.755,
+        "end": 1120.531,
+        "text": "Začet."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1120.531,
+        "end": 1125.087,
+        "text": "Takrat je treba s teh mikratkimi turami, ne?Pa da sta še malico vzgojna."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1125.644,
+        "end": 1130.403,
+        "text": "Kaj jim mora vsepovati na hrtnik, en tak pravi planinski nahrbtnik?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1130.909,
+        "end": 1132.141,
+        "text": "Kaj mora biti v njem?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1132.512,
+        "end": 1157.926,
+        "text": "Da je to odvisno pač od ture, kam gremo, pa krecimo za eno dnevno turo, ne?Rab mores za rezervno obleko, potem nekaj proti dežu ali v redu vetroku, v redu anorak pelirino pa seveda dovolj tekočine in pa obvezno mora bitno ter prva pomoč in pa baterijska svetilka brez svetili, ker danes kamor ni zajet, da je v novejšem času seje pa tudi telefon."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1158.82,
+        "end": 1160.845,
+        "text": "In telefon napolne, ne?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1160.845,
+        "end": 1163.461,
+        "text": "Napolnim telefonem, pa tako baterija drži."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1163.461,
+        "end": 1186.445,
+        "text": "Tako, ne, ker ponavadi se krv zgodi, da v gorah nekako hitreje s prazni baterija, ne? Tudi če kakr zervna, zraven nač slavega, ne. Mogoče mate predlog, zdaj v teh časih in kam se še podati na en dober planinski izlet, kam bo te više okrešilo zagotovo, ne?Verjetno tudi okoli Celjan."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1186.445,
+        "end": 1188.942,
+        "text": "Kolj Celja, recimo, pa okuši tudi."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1187.879,
+        "end": 1191.49,
+        "text": "Matevi kakšno skrit hrib oziroma kot iček, kjer pa..."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1192.098,
+        "end": 1197.38,
+        "text": "Tudi pogosto, tudi ali je to premalo alpinistično gorsko za vas."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1197.38,
+        "end": 1223.688,
+        "text": "Ne, je srcimo če res ni nikamor dolgam za letje, smo tam od doma najbližje tak mal bolj hripje, mrzlj se ne? Včasih tu celi grem tudi na grmado Celjsko kočo, dreč pa dalje k obozima, me to dost vleče turna smučarije ne, ko bo sneg, smušina noge pa gremo, dosta le pač res, treba je pač zbrat primerno v turu, ne, da le so tudi trci molkoli šventiureč in gleda marisev na kjetage res."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1197.734,
+        "end": 1197.869,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1208.298,
+        "end": 1208.5,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1223.958,
+        "end": 1229.358,
+        "text": "Zanj tak popoldanski sprehoda pa tudi za nedeljski, je krv res lepa tura ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1229.881,
+        "end": 1236.074,
+        "text": "In da še samo nam jignemo, da na resevni lahko zbirajo žige za razširjeno planinsko pot?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1236.597,
+        "end": 1239.061,
+        "text": "Slovensko planinsko pot ste mogoče prehodnj?"
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1239.652,
+        "end": 1242.014,
+        "text": "Ne, bom jo pa verjetni še kdaj ne."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1242.571,
+        "end": 1244.393,
+        "text": "Iziv za naslednja leta."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1242.605,
+        "end": 1248.848,
+        "text": "Iziv za naslednja leta."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1249.523,
+        "end": 1260.273,
+        "text": "Brane povšene, lepše hvala za gostovanje na Štajerskem valu in srečno napoti, srećno z okrešljem nasploh v celjskem planinskem društvu."
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1260.273,
+        "end": 1260.593,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1260.593,
+        "end": 1260.965,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1260.965,
+        "end": 1261.994,
+        "text": "Kot pozdrav sem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1261.994,
+        "end": 1262.045,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1262.045,
+        "end": 1262.348,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1262.348,
+        "end": 1262.551,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "start": 1262.551,
+        "end": 1262.838,
+        "text": ""
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start": 1263.462,
+        "end": 1263.85,
+        "text": ""
+      }
+    ],
+    "runtime_sec": 165.09097266197205
+  }
+}
